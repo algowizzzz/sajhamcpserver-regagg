@@ -29,6 +29,8 @@ class RerunRequest(BaseModel):
     scope: str = "all"                 # 'all' | 'ids'
     date: Optional[str] = None         # logical date (defaults to today)
     ids: Optional[List[str]] = None
+    max_docs: Optional[int] = None     # per-regulator cap for this run
+    include: Optional[str] = None      # comma-separated URL regex (gap-fill scope)
 
 
 def _audit(session, operator: str, action: str, rtype: str, rid: str, details: str = "") -> None:
@@ -104,7 +106,8 @@ def create_admin_router() -> APIRouter:
         _audit(runtime.get_session(), x_operator, "regagg.rerun", "regulator",
                ",".join(ids) if ids else "all", f"date={logical_date}")
         trigger = runtime.get_rerun_trigger()
-        result = trigger(scope=req.scope, logical_date=logical_date, ids=ids, operator=x_operator)
+        result = trigger(scope=req.scope, logical_date=logical_date, ids=ids,
+                         operator=x_operator, max_docs=req.max_docs, include=req.include)
         return {"queued": result, "scope": req.scope, "date": logical_date, "operator": x_operator}
 
     @router.post("/regulators/{regulator_id}/toggle")

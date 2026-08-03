@@ -357,7 +357,8 @@ function inst(x,ri,ii){
       <span class="iname">${x.regulator_id}<span class="full">${esc(x.name)}</span></span>
       <span class="cnum hide-sm">Web <b>${fmt(x.web.docs)}</b>${x.web.new?` · <span class="new">+${x.web.new}</span>`:""}</span>
       <span class="cnum hide-sm">PDF <b>${fmt(x.pdf.docs)}</b>${x.pdf.new?` · <span class="new">+${x.pdf.new}</span>`:""}</span>
-      <span class="cnum hide-sm" style="font-size:11.5px">${lr}</span>
+      <span class="cnum hide-sm" style="font-size:11.5px">${lr}
+        ${x.coverage_pct!=null?`<br><span style="color:${x.coverage_pct>=90?"var(--green)":"var(--amber)"};font-weight:600">cov ${x.coverage_pct}%</span> <span style="color:var(--muted)">of ${fmt(x.last_detected)}</span>`:""}</span>
       <span>${stPill}</span>
       <span style="text-align:right"><button class="btn sm" onclick="event.stopPropagation();runScope('${x.regulator_id}')">▶ Run</button></span>
     </div>

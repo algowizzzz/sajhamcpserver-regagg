@@ -54,7 +54,9 @@ def client(session, storage, seed_regulator):
               lambda c: Fetcher(fixture_opener({G_B13: _doc("B-13", "text")})),
               date.today().isoformat(), now=NOW)
 
-    runtime.set_providers(session=lambda: session, storage=lambda: storage)
+    # stub the rerun trigger so tests never spawn a real ingest subprocess
+    runtime.set_providers(session=lambda: session, storage=lambda: storage,
+                          rerun_trigger=lambda **kw: {"started": False, "stub": True, **kw})
     app = FastAPI()
     app.include_router(create_admin_router())
     yield TestClient(app)

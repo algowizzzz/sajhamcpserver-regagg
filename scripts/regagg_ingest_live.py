@@ -72,6 +72,10 @@ def main() -> int:
                     help="ids run LAST with --giant-cap (huge sitemaps)")
     ap.add_argument("--giant-cap", type=int, default=None,
                     help="max docs for --giants regulators this run")
+    ap.add_argument("--include", default="",
+                    help="override include_patterns (comma-separated regex) — "
+                         "used for targeted gap-fill passes, e.g. '/en/guidance/'")
+    ap.add_argument("--operator", default=None, help="audit attribution for the run")
     args = ap.parse_args()
 
     engine = create_engine(DB, connect_args={"timeout": 30})  # wait out server write-locks
@@ -90,6 +94,10 @@ def main() -> int:
     ordered = ([k for k in configs if k not in giants] + giants)
     configs = {k: configs[k] for k in ordered}
     caps = {k: (args.giant_cap if k in giants else args.max_docs) for k in configs}
+    if args.include:  # targeted gap-fill: narrow detection to matching URLs
+        pats = args.include.split(",")
+        configs = {k: v.model_copy(update={"include_patterns": pats})
+                   for k, v in configs.items()}
 
     for cfg in configs.values():
         session.merge(Regulator(regulator_id=cfg.id, name=cfg.name, jurisdiction=cfg.jurisdiction,
@@ -103,10 +111,13 @@ def main() -> int:
     totals = {"docs": 0, "errors": 0}
 
     for cfg in configs.values():
-        run_id = f"{logical}_{cfg.id}_live"
+        # distinct run_id per UI-triggered rerun so history rows aren't merged
+        suffix = f"ui{now:%H%M%S}" if args.operator else "live"
+        run_id = f"{logical}_{cfg.id}_{suffix}"
         try:
             m = run_regulator(session, storage, cfg, source_opener, fetcher, run_id,
-                              logical, trigger="schedule", now=now, max_docs=caps[cfg.id])
+                              logical, trigger="rerun" if args.operator else "schedule",
+                              operator=args.operator, now=now, max_docs=caps[cfg.id])
             totals["docs"] += m.ingested
             totals["errors"] += m.errors
             print(f"  {cfg.id:9s} {m.status:14s} detected={m.detected:3d} "

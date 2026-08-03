@@ -40,14 +40,45 @@ def set_providers(session=None, storage=None, configs=None, taxonomy=None,
 
 
 def get_rerun_trigger() -> Callable:
-    """Return the rerun enqueuer. Default records intent only — production wires
-    this to the Prefect sidecar (flows_prefect) which actually runs the flow."""
+    """Return the rerun enqueuer. Default spawns the ingest runner as a detached
+    subprocess so UI Run buttons genuinely execute (Saad's external scheduler
+    can override via set_providers(rerun_trigger=...))."""
     if _rerun_trigger is not None:
         return _rerun_trigger
+    return spawn_ingest
 
-    def _default(scope, logical_date, ids, operator):
-        return {"enqueued": ids or "all", "note": "recorded; wire Prefect to execute"}
-    return _default
+
+def spawn_ingest(scope="all", logical_date=None, ids=None, operator=None,
+                 max_docs=None, include=None) -> dict:
+    """Launch scripts/regagg_ingest_live.py detached. One coarse guard: refuse
+    if an ingest process is already running (SQLite + politeness)."""
+    import subprocess, sys
+    from pathlib import Path
+    repo = Path(__file__).resolve().parents[2]
+    script = repo / "scripts" / "regagg_ingest_live.py"
+
+    # refuse a second concurrent fleet — check for an existing runner
+    probe = subprocess.run(["pgrep", "-f", "regagg_ingest_live"],
+                           capture_output=True, text=True)
+    if probe.stdout.strip():
+        return {"started": False, "reason": "an ingest run is already active",
+                "active_pids": probe.stdout.split()}
+
+    cmd = [sys.executable, str(script), "--rps", "3", "--timeout", "10",
+           "--operator", operator or "ui"]
+    if scope == "ids" and ids:
+        cmd += ["--only", ",".join(ids)]
+    if max_docs:
+        cmd += ["--max-docs", str(max_docs)]
+    if include:
+        cmd += ["--include", include]
+    log = repo / "logs" / "regagg_ui_run.log"
+    log.parent.mkdir(exist_ok=True)
+    with open(log, "ab") as fh:
+        proc = subprocess.Popen(cmd, stdout=fh, stderr=fh,
+                                start_new_session=True, cwd=str(repo))
+    return {"started": True, "pid": proc.pid, "scope": scope, "ids": ids,
+            "log": str(log)}
 
 
 def reconcile_report(session, storage) -> dict:

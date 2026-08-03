@@ -78,6 +78,8 @@ def coverage_tree(session, days: int = 7, now: Optional[datetime] = None) -> dic
         if stale_days is not None and reg.staleness_alert_days and \
                 stale_days > reg.staleness_alert_days and status.startswith("ok"):
             status = "stale"
+        n_docs = c["web"] + c["policy_pdf"]
+        detected = max((r.detected or 0) for r in [run]) if run else 0
         regions[region]["institutions"].append({
             "regulator_id": rid, "name": reg.name, "jurisdiction": reg.jurisdiction,
             "connector": reg.connector, "active": reg.active,
@@ -87,6 +89,10 @@ def coverage_tree(session, days: int = 7, now: Optional[datetime] = None) -> dic
             "last_run_status": run.status if run else None,
             "status": status,
             "stale_days": stale_days,
+            # coverage vs what the source advertised in the latest run
+            "last_detected": detected,
+            "coverage_pct": (min(100, round(100 * n_docs / detected))
+                             if detected else None),
         })
 
     out = []
