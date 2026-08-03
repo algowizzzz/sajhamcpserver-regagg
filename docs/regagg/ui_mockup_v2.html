@@ -1,0 +1,559 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Regulatory Intelligence — Coverage (v2 mockup)</title>
+<style>
+  :root{
+    --bg:#f4f6f9; --surface:#ffffff; --surface2:#fafbfd;
+    --ink:#16202e; --ink2:#4a5568; --muted:#8291a5; --line:#e3e8ef; --line2:#eef1f6;
+    --blue:#0f5aa9; --blue-soft:#e8f0fa;
+    --green:#177a4c; --green-soft:#e7f4ed;
+    --amber:#9a6a00; --amber-soft:#fdf3dd;
+    --red:#b3261e; --red-soft:#fceceb;
+    --grey-soft:#eef0f4;
+    --shadow:0 1px 2px rgba(22,32,46,.05),0 4px 16px rgba(22,32,46,.06);
+    --radius:10px;
+  }
+  *{box-sizing:border-box;margin:0}
+  html,body{height:100%}
+  body{font:13.5px/1.5 -apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
+       background:var(--bg);color:var(--ink)}
+  button{font:inherit;cursor:pointer;border:none;background:none;color:inherit}
+
+  /* ── top bar ─────────────────────────────── */
+  .top{background:var(--surface);border-bottom:1px solid var(--line);
+       padding:0 28px;height:58px;display:flex;align-items:center;gap:18px;
+       position:sticky;top:0;z-index:30}
+  .brand{display:flex;align-items:center;gap:10px;font-weight:650;font-size:15px}
+  .brand .logo{width:26px;height:26px;border-radius:7px;background:var(--blue);
+       color:#fff;display:grid;place-items:center;font-size:13px;font-weight:700}
+  .brand .sub{font-weight:400;color:var(--muted);font-size:12px;margin-left:2px}
+  .search{flex:1;max-width:420px;position:relative}
+  .search input{width:100%;padding:8px 12px 8px 34px;border:1px solid var(--line);
+       border-radius:8px;background:var(--surface2);font:inherit;color:var(--ink)}
+  .search svg{position:absolute;left:10px;top:9px;opacity:.45}
+  .spacer{flex:1}
+  .fleet{color:var(--muted);font-size:12px;text-align:right;line-height:1.35}
+  .fleet b{color:var(--ink);font-weight:600}
+  .btn{border:1px solid var(--line);border-radius:8px;padding:7px 14px;background:var(--surface);
+       font-weight:550;display:inline-flex;align-items:center;gap:7px}
+  .btn:hover{border-color:var(--blue);color:var(--blue)}
+  .btn.primary{background:var(--blue);color:#fff;border-color:var(--blue)}
+  .btn.primary:hover{filter:brightness(1.08)}
+  .btn.sm{padding:4px 10px;font-size:12px;border-radius:7px}
+
+  /* ── layout ──────────────────────────────── */
+  .page{max-width:1280px;margin:0 auto;padding:22px 28px 80px}
+
+  /* confidence strip */
+  .strip{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-bottom:20px}
+  .kpi{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+       padding:14px 16px;box-shadow:var(--shadow)}
+  .kpi b{font-size:22px;font-weight:680;display:block;letter-spacing:-.02em}
+  .kpi span{color:var(--muted);font-size:12px}
+  .kpi .delta{font-size:11.5px;margin-top:3px;display:block}
+  .up{color:var(--green)} .warn{color:var(--amber)} .bad{color:var(--red)}
+
+  /* filter row */
+  .filters{display:flex;gap:8px;align-items:center;margin-bottom:14px;flex-wrap:wrap}
+  .chip{border:1px solid var(--line);background:var(--surface);border-radius:20px;
+        padding:4px 13px;font-size:12.5px;color:var(--ink2)}
+  .chip.on{background:var(--blue);border-color:var(--blue);color:#fff}
+  .filters .hint{color:var(--muted);font-size:12px;margin-left:auto}
+
+  /* ── the tree ────────────────────────────── */
+  .tree{display:flex;flex-direction:column;gap:12px}
+  .region{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+          box-shadow:var(--shadow);overflow:hidden}
+  .region-head{display:flex;align-items:center;gap:14px;padding:15px 18px;cursor:pointer;
+          user-select:none}
+  .region-head:hover{background:var(--surface2)}
+  .caret{width:18px;height:18px;display:grid;place-items:center;color:var(--muted);
+          transition:transform .18s}
+  .open>.region-head .caret{transform:rotate(90deg)}
+  .region-name{font-weight:650;font-size:14px;min-width:150px}
+  .rollup{display:flex;gap:22px;color:var(--ink2);font-size:12.5px;flex-wrap:wrap}
+  .rollup b{color:var(--ink);font-weight:600}
+  .region-right{margin-left:auto;display:flex;align-items:center;gap:12px}
+  .region-body{display:none;border-top:1px solid var(--line2)}
+  .open>.region-body{display:block}
+
+  /* status pill: icon + text always */
+  .pill{display:inline-flex;align-items:center;gap:5px;font-size:11.5px;font-weight:600;
+        border-radius:6px;padding:2.5px 8px;white-space:nowrap}
+  .pill.ok{background:var(--green-soft);color:var(--green)}
+  .pill.stale{background:var(--amber-soft);color:var(--amber)}
+  .pill.partial{background:var(--amber-soft);color:var(--amber)}
+  .pill.fail{background:var(--red-soft);color:var(--red)}
+  .pill.block{background:var(--grey-soft);color:var(--ink2)}
+
+  /* institution rows */
+  .inst{border-bottom:1px solid var(--line2)}
+  .inst:last-child{border-bottom:none}
+  .inst-head{display:grid;grid-template-columns:26px minmax(210px,1.4fr) 1fr 1fr 150px 120px 90px;
+        gap:10px;align-items:center;padding:11px 18px;cursor:pointer}
+  .inst-head:hover{background:var(--surface2)}
+  .inst-name{font-weight:600}
+  .inst-name .full{display:block;color:var(--muted);font-weight:400;font-size:11.5px}
+  .cellnum{font-variant-numeric:tabular-nums;color:var(--ink2);font-size:12.5px}
+  .cellnum b{color:var(--ink);font-weight:600}
+  .cellnum .new{color:var(--green);font-weight:600}
+  .lastrun{color:var(--ink2);font-size:12px}
+  .inst-body{display:none;background:var(--surface2);padding:4px 18px 12px 54px}
+  .inst.open .inst-body{display:block}
+  .inst.open .inst-head .caret{transform:rotate(90deg)}
+
+  /* source-type rows */
+  .srct{border:1px solid var(--line);border-radius:8px;background:var(--surface);
+        margin-top:8px;overflow:hidden}
+  .srct-head{display:flex;align-items:center;gap:12px;padding:9px 14px;cursor:pointer}
+  .srct-head:hover{background:var(--surface2)}
+  .srct-ico{width:26px;height:26px;border-radius:6px;display:grid;place-items:center;font-size:13px}
+  .srct-ico.web{background:var(--blue-soft);color:var(--blue)}
+  .srct-ico.pdf{background:var(--red-soft);color:var(--red)}
+  .srct-name{font-weight:600;font-size:12.5px}
+  .srct-meta{color:var(--muted);font-size:12px}
+  .srct-body{display:none;border-top:1px solid var(--line2);padding:4px 14px 10px}
+  .srct.open .srct-body{display:block}
+
+  /* docs */
+  .doc{display:flex;align-items:center;gap:10px;padding:7px 4px;border-bottom:1px solid var(--line2);
+       cursor:pointer;border-radius:6px}
+  .doc:last-child{border-bottom:none}
+  .doc:hover{background:var(--blue-soft)}
+  .doc-title{font-weight:550;color:var(--blue);font-size:12.5px}
+  .doc-meta{color:var(--muted);font-size:11.5px;margin-left:auto;white-space:nowrap}
+  .tag{font-size:10.5px;border:1px solid var(--line);border-radius:5px;padding:1px 6px;color:var(--ink2)}
+  .tag.v{background:var(--amber-soft);border-color:transparent;color:var(--amber);font-weight:600}
+  .tag.sup{background:var(--red-soft);border-color:transparent;color:var(--red);font-weight:600}
+  .showmore{color:var(--blue);font-size:12px;padding:7px 4px;font-weight:550}
+
+  /* ── doc drawer ──────────────────────────── */
+  .scrim{position:fixed;inset:0;background:rgba(22,32,46,.35);z-index:40;display:none}
+  .scrim.show{display:block}
+  .drawer{position:fixed;top:0;right:-720px;width:min(700px,94vw);height:100%;z-index:50;
+        background:var(--surface);box-shadow:-12px 0 40px rgba(22,32,46,.18);
+        transition:right .22s ease;display:flex;flex-direction:column}
+  .drawer.show{right:0}
+  .dr-head{padding:18px 22px 0;border-bottom:1px solid var(--line)}
+  .dr-title{font-size:16px;font-weight:650;margin-bottom:4px;padding-right:40px}
+  .dr-sub{color:var(--muted);font-size:12px;margin-bottom:12px}
+  .dr-close{position:absolute;top:14px;right:16px;font-size:20px;color:var(--muted);padding:6px}
+  .tabs{display:flex;gap:2px}
+  .tab{padding:8px 14px;font-weight:550;font-size:12.5px;color:var(--ink2);
+       border-bottom:2px solid transparent}
+  .tab.on{color:var(--blue);border-color:var(--blue)}
+  .dr-body{flex:1;overflow:auto;display:grid;grid-template-columns:1fr 220px}
+  .dr-main{padding:18px 22px;border-right:1px solid var(--line2);overflow:auto}
+  .dr-main h4{margin:14px 0 6px;font-size:13px}
+  .dr-main p,.dr-main li{color:var(--ink2);font-size:13px}
+  .dr-main pre{background:var(--surface2);border:1px solid var(--line2);border-radius:8px;
+       padding:12px;font-size:12px;overflow:auto;color:var(--ink2);white-space:pre-wrap}
+  .dr-rail{padding:18px 16px;font-size:12px;background:var(--surface2)}
+  .dr-rail h5{font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);
+       margin:14px 0 5px}
+  .dr-rail h5:first-child{margin-top:0}
+  .dr-rail .val{color:var(--ink);word-break:break-all}
+  .dr-rail a{color:var(--blue);text-decoration:none}
+  .vh{display:flex;gap:8px;align-items:baseline;padding:3px 0;color:var(--ink2)}
+  .vh b{color:var(--ink)}
+
+  /* ── run modal ───────────────────────────── */
+  .modal{position:fixed;inset:0;z-index:60;display:none;place-items:center}
+  .modal.show{display:grid}
+  .modal-card{background:var(--surface);border-radius:14px;box-shadow:0 24px 80px rgba(22,32,46,.3);
+       width:420px;max-width:92vw;padding:22px}
+  .modal-card h3{font-size:15px;margin-bottom:6px}
+  .modal-card p{color:var(--ink2);font-size:13px;margin-bottom:6px}
+  .note{background:var(--blue-soft);border-radius:8px;padding:10px 12px;font-size:12px;
+       color:var(--ink2);margin:12px 0}
+  .modal-actions{display:flex;justify-content:flex-end;gap:10px;margin-top:16px}
+
+  .toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(80px);
+       background:var(--ink);color:#fff;border-radius:10px;padding:10px 18px;font-size:13px;
+       z-index:70;transition:transform .25s;box-shadow:var(--shadow)}
+  .toast.show{transform:translateX(-50%) translateY(0)}
+
+  .mock-badge{position:fixed;bottom:18px;right:18px;background:var(--amber-soft);color:var(--amber);
+       font-size:11px;font-weight:650;border-radius:8px;padding:5px 10px;z-index:80;
+       border:1px solid #f0d9a0}
+  @media (max-width:900px){
+    .strip{grid-template-columns:repeat(2,1fr)}
+    .inst-head{grid-template-columns:22px 1fr 100px 70px}
+    .inst-head .hide-sm{display:none}
+    .dr-body{grid-template-columns:1fr}
+    .dr-rail{border-top:1px solid var(--line2)}
+  }
+</style>
+</head>
+<body>
+
+<div class="top">
+  <div class="brand"><div class="logo">R</div>Regulatory Intelligence
+    <span class="sub">· Coverage &amp; Collection</span></div>
+  <div class="search">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <input id="q" placeholder="Filter institutions… (e.g. OSFI, liquidity)">
+  </div>
+  <div class="spacer"></div>
+  <div class="fleet">Last fleet run <b>Today 06:00 EDT</b> · 28/30 succeeded<br>
+    Next scheduled <b>Tomorrow 06:00</b></div>
+  <button class="btn primary" onclick="openRun('All active regulators (30)','fleet')">
+    ▶ Run all</button>
+</div>
+
+<div class="page">
+
+  <!-- confidence strip -->
+  <div class="strip">
+    <div class="kpi"><b>30</b><span>regulators monitored</span>
+      <span class="delta warn">4 with source issues</span></div>
+    <div class="kpi"><b>12,847</b><span>documents in corpus</span>
+      <span class="delta up">+214 this week</span></div>
+    <div class="kpi"><b>11,392 / 1,455</b><span>web pages / policy PDFs</span>
+      <span class="delta">all normalized to markdown</span></div>
+    <div class="kpi"><b>17</b><span>changed or superseded this week</span>
+      <span class="delta warn">9 pending impact review</span></div>
+    <div class="kpi"><b>96.4%</b><span>coverage freshness (&lt;24h)</span>
+      <span class="delta bad">2 stale sources</span></div>
+  </div>
+
+  <!-- filters -->
+  <div class="filters">
+    <button class="chip on" onclick="chip(this)">All</button>
+    <button class="chip" onclick="chip(this)">New this week</button>
+    <button class="chip" onclick="chip(this)">Changed / superseded</button>
+    <button class="chip" onclick="chip(this)">Needs attention</button>
+    <button class="chip" onclick="chip(this)">Stale</button>
+    <span class="hint">Statuses always shown as icon + label — never colour alone</span>
+  </div>
+
+  <!-- tree -->
+  <div class="tree" id="tree"></div>
+</div>
+
+<!-- drawer -->
+<div class="scrim" id="scrim" onclick="closeDrawer()"></div>
+<div class="drawer" id="drawer">
+  <div class="dr-head" style="position:relative">
+    <button class="dr-close" onclick="closeDrawer()">✕</button>
+    <div class="dr-title" id="drTitle"></div>
+    <div class="dr-sub" id="drSub"></div>
+    <div class="tabs">
+      <button class="tab on" onclick="tab(this,'summary')">Summary</button>
+      <button class="tab" onclick="tab(this,'markdown')">Markdown</button>
+      <button class="tab" onclick="tab(this,'original')">Original</button>
+    </div>
+  </div>
+  <div class="dr-body">
+    <div class="dr-main" id="drMain"></div>
+    <div class="dr-rail" id="drRail"></div>
+  </div>
+</div>
+
+<!-- run modal -->
+<div class="modal" id="modal">
+  <div class="modal-card">
+    <h3>Run ingestion</h3>
+    <p><b>Scope:</b> <span id="mScope"></span></p>
+    <p><b>Date:</b> Today (2026-08-02)</p>
+    <div class="note">Runs are safe to repeat: unchanged content is skipped;
+      changed content archives the previous version automatically. You'll see live
+      progress on the affected rows.</div>
+    <div class="modal-actions">
+      <button class="btn" onclick="closeRun()">Cancel</button>
+      <button class="btn primary" onclick="confirmRun()">Confirm run</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+<div class="mock-badge">HI-FI MOCKUP · illustrative data</div>
+
+<script>
+/* ─────────── mock data (realistic volumes) ─────────── */
+const P = {
+  ok:    s=>`<span class="pill ok">✓ ${s||'Fresh'}</span>`,
+  stale: s=>`<span class="pill stale">⏱ ${s}</span>`,
+  part:  s=>`<span class="pill partial">◐ ${s||'Partial'}</span>`,
+  fail:  s=>`<span class="pill fail">✗ ${s||'Failed'}</span>`,
+  block: s=>`<span class="pill block">⚠ ${s}</span>`,
+};
+
+const DATA = [
+ {region:"Canada", insts:[
+   {id:"osfi", name:"OSFI", full:"Office of the Superintendent of Financial Institutions",
+    web:{pages:3540,nw:12}, pdf:{docs:210,nw:2,sup:1}, run:"Today 06:02", st:"ok",
+    docs:[
+      {t:"Guideline B-13 — Technology & Cyber Risk Management",type:"guidance",v:2,d:"2026-07-15",src:"pdf"},
+      {t:"CAR Guideline — Chapter 4: Credit Risk (Standardized)",type:"guidance",v:1,d:"2026-06-30",src:"pdf"},
+      {t:"Consultation — Climate Risk Returns (B-15 amendments)",type:"consultation",v:1,d:"2026-07-28",dl:"2026-10-01",src:"web"},
+      {t:"Superseded: Guideline B-10 — Outsourcing",type:"guidance",v:3,d:"2019-04-01",sup:1,src:"pdf"},
+    ]},
+   {id:"boc", name:"Bank of Canada", full:"Central bank · monetary policy & payments oversight",
+    web:{pages:842,nw:6}, pdf:{docs:64,nw:0,sup:0}, run:"Today 06:01", st:"ok", docs:[
+      {t:"Interest rate announcement — July 2026",type:"announcement",v:1,d:"2026-07-30",src:"web"}]},
+   {id:"fintrac", name:"FINTRAC", full:"AML / ATF intelligence & guidance",
+    web:{pages:412,nw:1}, pdf:{docs:38,nw:0,sup:0}, run:"Today 06:03", st:"ok", docs:[]},
+   {id:"csa", name:"CSA", full:"Canadian Securities Administrators (national instruments)",
+    web:{pages:0,nw:0}, pdf:{docs:0,nw:0,sup:0}, run:"—", st:"block",
+    blocked:"Source issue — escalated", docs:[]},
+   {id:"amf", name:"AMF Québec", full:"Autorité des marchés financiers",
+    web:{pages:0,nw:0}, pdf:{docs:0,nw:0,sup:0}, run:"—", st:"block",
+    blocked:"403 bot-block — escalated", docs:[]},
+ ]},
+ {region:"United States", insts:[
+   {id:"fedreg", name:"Federal Register", full:"Meta-source · formal rulemaking for all US agencies",
+    web:{pages:1930,nw:41}, pdf:{docs:0,nw:0,sup:0}, run:"Today 06:04", st:"ok", docs:[
+      {t:"Final rule — Capital requirements: large bank holding companies",type:"final_rule",v:1,d:"2026-07-29",src:"web"}]},
+   {id:"frb", name:"Federal Reserve", full:"Board of Governors · SR letters, enforcement, press",
+    web:{pages:684,nw:9}, pdf:{docs:112,nw:1,sup:0}, run:"Today 06:04", st:"ok", docs:[
+      {t:"SR 26-3 — Third-Party Risk Management: interagency guidance",type:"guidance",v:1,d:"2026-07-22",src:"pdf"}]},
+   {id:"occ", name:"OCC", full:"Comptroller of the Currency · bulletins & FILs",
+    web:{pages:508,nw:4}, pdf:{docs:96,nw:1,sup:0}, run:"Today 06:05", st:"ok", docs:[]},
+   {id:"sec", name:"SEC", full:"Securities & Exchange Commission",
+    web:{pages:1244,nw:18}, pdf:{docs:230,nw:3,sup:1}, run:"Today 06:06", st:"ok", docs:[
+      {t:"Final rule — Cybersecurity disclosure for public companies",type:"final_rule",v:1,d:"2026-08-01",src:"web"}]},
+   {id:"cftc", name:"CFTC", full:"Commodity Futures Trading Commission",
+    web:{pages:388,nw:2}, pdf:{docs:74,nw:0,sup:0}, run:"Today 06:06", st:"ok", docs:[]},
+   {id:"fdic", name:"FDIC", full:"Federal Deposit Insurance Corporation",
+    web:{pages:0,nw:0}, pdf:{docs:0,nw:0,sup:0}, run:"—", st:"block",
+    blocked:"RSS feeds moved — escalated", docs:[]},
+   {id:"nydfs", name:"NYDFS", full:"New York State Dept. of Financial Services",
+    web:{pages:203,nw:1}, pdf:{docs:41,nw:0,sup:0}, run:"Yesterday 06:05", st:"stale",
+    stale:"No new docs 16d (threshold 14)", docs:[]},
+ ]},
+ {region:"EU & UK", insts:[
+   {id:"ecb", name:"ECB Banking Supervision", full:"Single Supervisory Mechanism",
+    web:{pages:590,nw:7}, pdf:{docs:154,nw:2,sup:0}, run:"Today 06:07", st:"ok", docs:[
+      {t:"2026 geopolitical-risk reverse stress test — results",type:"report",v:1,d:"2026-07-31",src:"web"}]},
+   {id:"eba", name:"EBA", full:"European Banking Authority · RTS / ITS / guidelines",
+    web:{pages:344,nw:3}, pdf:{docs:412,nw:4,sup:2}, run:"Today 06:08", st:"ok", docs:[
+      {t:"Final draft RTS — CVA risk own-funds requirements",type:"final_rule",v:1,d:"2026-07-25",src:"pdf"}]},
+   {id:"esma", name:"ESMA", full:"EU markets authority · EMIR / MiFID",
+    web:{pages:296,nw:2}, pdf:{docs:188,nw:1,sup:0}, run:"Today 06:08", st:"ok", docs:[]},
+   {id:"fca", name:"FCA", full:"UK Financial Conduct Authority · PS / CP / FG",
+    web:{pages:764,nw:11}, pdf:{docs:340,nw:5,sup:1}, run:"Today 06:09", st:"ok", docs:[]},
+   {id:"boe", name:"Bank of England / PRA", full:"Prudential Regulation Authority · SS / PS",
+    web:{pages:812,nw:6}, pdf:{docs:266,nw:2,sup:0}, run:"Today 06:09", st:"ok", docs:[
+      {t:"Bank Rate maintained at 3.75% — July 2026 MPC summary",type:"announcement",v:1,d:"2026-07-31",src:"web"}]},
+   {id:"eiopa", name:"EIOPA", full:"EU insurance & pensions authority",
+    web:{pages:174,nw:0}, pdf:{docs:92,nw:0,sup:0}, run:"Today 06:10", st:"ok", docs:[]},
+ ]},
+ {region:"APAC", insts:[
+   {id:"mas", name:"MAS", full:"Monetary Authority of Singapore",
+    web:{pages:428,nw:3}, pdf:{docs:118,nw:1,sup:0}, run:"Today 06:11", st:"ok", docs:[]},
+   {id:"apra", name:"APRA", full:"Australian Prudential Regulation Authority · APS standards",
+    web:{pages:352,nw:4}, pdf:{docs:96,nw:0,sup:0}, run:"Today 06:11", st:"ok", docs:[
+      {t:"Monthly ADI statistics — June 2026",type:"report",v:1,d:"2026-07-31",src:"web"}]},
+   {id:"hkma", name:"HKMA", full:"Hong Kong Monetary Authority · circulars",
+    web:{pages:0,nw:0}, pdf:{docs:0,nw:0,sup:0}, run:"—", st:"block",
+    blocked:"RSS endpoints 404 — escalated", docs:[]},
+   {id:"jfsa", name:"JFSA", full:"Japan FSA (EN subset — lags JP releases)",
+    web:{pages:238,nw:2}, pdf:{docs:44,nw:0,sup:0}, run:"Today 06:12", st:"part",
+    part:"EN subset only", docs:[]},
+   {id:"rbi", name:"RBI", full:"Reserve Bank of India · notifications & circulars",
+    web:{pages:1080,nw:14}, pdf:{docs:310,nw:2,sup:0}, run:"Today 06:13", st:"ok", docs:[]},
+ ]},
+ {region:"International", insts:[
+   {id:"bis", name:"BIS / Basel Committee", full:"Basel standards — graph roots for `implements` edges",
+    web:{pages:412,nw:2}, pdf:{docs:520,nw:3,sup:1}, run:"Today 06:14", st:"ok", docs:[
+      {t:"Basel III finalisation — cryptoasset exposures FAQ (2nd set)",type:"guidance",v:1,d:"2026-07-18",src:"pdf"}]},
+   {id:"fsb", name:"FSB", full:"Financial Stability Board",
+    web:{pages:186,nw:1}, pdf:{docs:142,nw:1,sup:0}, run:"Today 06:14", st:"ok", docs:[]},
+   {id:"iosco", name:"IOSCO", full:"Int'l Organization of Securities Commissions",
+    web:{pages:98,nw:0}, pdf:{docs:204,nw:0,sup:0}, run:"Today 06:15", st:"ok", docs:[]},
+   {id:"iais", name:"IAIS", full:"Int'l Association of Insurance Supervisors",
+    web:{pages:122,nw:1}, pdf:{docs:88,nw:0,sup:0}, run:"Today 06:15", st:"ok", docs:[]},
+ ]},
+];
+
+/* ─────────── render tree ─────────── */
+const fmt = n => n.toLocaleString();
+function statusPill(i){
+  if(i.st==="ok") return P.ok("Fresh · <24h");
+  if(i.st==="stale") return P.stale(i.stale||"Stale");
+  if(i.st==="part") return P.part(i.part||"Partial");
+  if(i.st==="block") return P.block(i.blocked||"Source issue");
+  return P.fail();
+}
+function render(filter=""){
+  const f = filter.trim().toLowerCase();
+  document.getElementById("tree").innerHTML = DATA.map((r,ri)=>{
+    const insts = r.insts.filter(i=>!f || i.name.toLowerCase().includes(f) || i.full.toLowerCase().includes(f));
+    if(f && !insts.length) return "";
+    const web=r.insts.reduce((a,i)=>a+i.web.pages,0), pdf=r.insts.reduce((a,i)=>a+i.pdf.docs,0);
+    const issues=r.insts.filter(i=>i.st!=="ok").length;
+    const nw=r.insts.reduce((a,i)=>a+i.web.nw+i.pdf.nw,0);
+    return `<div class="region ${f?'open':''}" id="rg${ri}">
+      <div class="region-head" onclick="toggle('rg${ri}')">
+        <span class="caret">▶</span>
+        <span class="region-name">${r.region}</span>
+        <span class="rollup">
+          <span><b>${r.insts.length}</b> institutions</span>
+          <span><b>${fmt(web)}</b> web pages</span>
+          <span><b>${fmt(pdf)}</b> policy PDFs</span>
+          <span class="up"><b>+${nw}</b> this week</span>
+        </span>
+        <span class="region-right">
+          ${issues? P.stale(issues+" need attention") : P.ok("All fresh")}
+          <button class="btn sm" onclick="event.stopPropagation();openRun('${r.region} — all institutions','region')">▶ Run</button>
+        </span>
+      </div>
+      <div class="region-body">
+        ${insts.map((i,ii)=>instRow(i,ri,ii)).join("")}
+      </div>
+    </div>`;
+  }).join("");
+}
+function instRow(i,ri,ii){
+  const id=`in${ri}_${ii}`;
+  const blocked = i.st==="block";
+  return `<div class="inst" id="${id}">
+    <div class="inst-head" onclick="toggle('${id}')">
+      <span class="caret">▶</span>
+      <span class="inst-name">${i.name}<span class="full">${i.full}</span></span>
+      <span class="cellnum hide-sm">Web <b>${fmt(i.web.pages)}</b>${i.web.nw?` · <span class="new">+${i.web.nw} new</span>`:""}</span>
+      <span class="cellnum hide-sm">PDF <b>${fmt(i.pdf.docs)}</b>${i.pdf.nw?` · <span class="new">+${i.pdf.nw} new</span>`:""}${i.pdf.sup?` · <span class="bad">${i.pdf.sup} superseded</span>`:""}</span>
+      <span class="lastrun hide-sm">${i.run==="—"?"never run":"Last run "+i.run}</span>
+      <span>${statusPill(i)}</span>
+      <span style="text-align:right">${blocked?
+        `<button class="btn sm" onclick="event.stopPropagation();toast('Escalation already filed for ${i.name}')">Details</button>`:
+        `<button class="btn sm" onclick="event.stopPropagation();openRun('${i.name}','institution')">▶ Run</button>`}</span>
+    </div>
+    <div class="inst-body">
+      ${blocked? `<p style="color:var(--muted);padding:10px 4px;font-size:12.5px">
+          No verified source. ${i.blocked}. Collection resumes automatically once a
+          working source is configured and verified.</p>`
+        : srct(i,"web")+srct(i,"pdf")}
+    </div>
+  </div>`;
+}
+function srct(i,kind){
+  const isWeb=kind==="web";
+  const c=isWeb?i.web:i.pdf;
+  const docs=(i.docs||[]).filter(d=> isWeb? d.src==="web": d.src==="pdf");
+  const id=`st_${i.id}_${kind}`;
+  return `<div class="srct" id="${id}">
+    <div class="srct-head" onclick="toggle('${id}')">
+      <span class="caret">▶</span>
+      <span class="srct-ico ${isWeb?'web':'pdf'}">${isWeb?"🌐":"📄"}</span>
+      <span class="srct-name">${isWeb?"Website content":"Policy & guidance documents"}</span>
+      <span class="srct-meta">${fmt(isWeb?c.pages:c.docs)} ${isWeb?"pages":"PDFs → markdown"}
+        ${c.nw?` · <span style="color:var(--green);font-weight:600">+${c.nw} new</span>`:""}
+        ${(!isWeb&&c.sup)?` · <span style="color:var(--red);font-weight:600">${c.sup} superseded</span>`:""}</span>
+      <span style="margin-left:auto"></span>
+      <button class="btn sm" onclick="event.stopPropagation();openRun('${i.name} — ${isWeb?"website":"policy documents"}','source')">▶ Run</button>
+    </div>
+    <div class="srct-body">
+      ${docs.length? docs.map(d=>docRow(d,i)).join("") :
+        `<p style="color:var(--muted);font-size:12px;padding:8px 4px">No recent changes — open the corpus browser for the full list.</p>`}
+      <div class="showmore" onclick="toast('Full corpus browser — next screen in the flow')">
+        Browse all ${fmt(isWeb?c.pages:c.docs)} →</div>
+    </div>
+  </div>`;
+}
+function docRow(d,i){
+  return `<div class="doc" onclick='openDoc(${JSON.stringify(JSON.stringify({d,inst:i.name}))})'>
+    <span class="doc-title">${d.t}</span>
+    <span class="tag">${d.type}</span>
+    ${d.v>1?`<span class="tag v">v${d.v}</span>`:""}
+    ${d.sup?`<span class="tag sup">superseded</span>`:""}
+    <span class="doc-meta">${d.d}${d.dl?` · comments due ${d.dl}`:""}</span>
+  </div>`;
+}
+function toggle(id){document.getElementById(id).classList.toggle("open")}
+function chip(el){document.querySelectorAll(".chip").forEach(c=>c.classList.remove("on"));el.classList.add("on");
+  toast("Filter applied: "+el.textContent)}
+
+/* ─────────── drawer ─────────── */
+function openDoc(payload){
+  const {d,inst}=JSON.parse(payload);
+  document.getElementById("drTitle").textContent=d.t;
+  document.getElementById("drSub").innerHTML=
+    `${inst} · ${d.type} · published ${d.d} ${d.v>1?"· version "+d.v:""} ${d.sup?"· <b style='color:var(--red)'>superseded</b>":""}`;
+  tabContent("summary",d);
+  document.getElementById("drRail").innerHTML=`
+    <h5>Provenance</h5>
+    <div class="val">Retrieved: 2026-08-02 06:02 EDT</div>
+    <div class="val" style="color:var(--muted)">sha256:9f2c…b41a</div>
+    <div style="margin-top:4px"><a href="#" onclick="return false">↗ Open source page</a></div>
+    <h5>Key dates</h5>
+    <div class="vh"><b>Published</b> ${d.d}</div>
+    ${d.dl?`<div class="vh"><b>Comments due</b> ${d.dl}</div>`:""}
+    <div class="vh"><b>Effective</b> ${d.type==="guidance"?"2027-01-01":"—"}</div>
+    <h5>Tags</h5>
+    <div>${["canada","banking","cyber_risk","final"].map(t=>`<span class="tag" style="margin:2px 2px 0 0;display:inline-block">${t}</span>`).join("")}</div>
+    <h5>Version history</h5>
+    ${d.v>1?`<div class="vh"><b>v${d.v}</b> current · 2026-07-16</div>
+             <div class="vh"><b>v${d.v-1}</b> archived · 2024-11-02 <a href="#" onclick="return false">view</a></div>`
+           :`<div class="vh"><b>v1</b> current</div>`}
+    <h5>Cross-references</h5>
+    <div class="vh">implements → <a href="#" onclick="return false">BCBS 239</a></div>
+    ${d.sup?"":`<div class="vh">supersedes → <a href="#" onclick="return false">B-10 Outsourcing</a></div>`}`;
+  document.getElementById("scrim").classList.add("show");
+  document.getElementById("drawer").classList.add("show");
+  window._doc=d;
+}
+function tab(el,which){document.querySelectorAll(".tab").forEach(t=>t.classList.remove("on"));
+  el.classList.add("on");tabContent(which,window._doc)}
+function tabContent(which,d){
+  const m=document.getElementById("drMain");
+  if(which==="summary") m.innerHTML=`
+    <h4>What changed</h4>
+    <p>Version ${d.v||1} strengthens expectations for third-party cyber incident
+    reporting and introduces a 24-hour notification window for material incidents.
+    Section 3 (Cyber Security) is substantially expanded.</p>
+    <h4>Who is affected</h4>
+    <p>All federally regulated financial institutions; heightened expectations for
+    D-SIBs and institutions with material cloud concentration.</p>
+    <h4>Key dates</h4>
+    <ul style="padding-left:18px"><li>Published ${d.d}</li>${d.dl?`<li>Comment deadline ${d.dl}</li>`:""}<li>Effective 2027-01-01</li></ul>
+    <h4>Why it matters (impact hooks)</h4>
+    <p>Touches: operational risk framework · third-party risk register · incident
+    response runbooks · cloud vendor contracts.</p>
+    <p style="margin-top:12px;color:var(--muted);font-size:11.5px">Summary generated
+    at ingestion · model + prompt version recorded for audit</p>`;
+  else if(which==="markdown") m.innerHTML=`
+    <pre># ${d.t}
+
+## 1. Purpose and scope
+This guideline sets out OSFI's expectations for the sound management of
+technology and cyber risk…
+
+## 2. Governance
+Senior management should assign clear accountability for technology and
+cyber risk…
+
+## 3. Cyber security — incident reporting
+Institutions must report material incidents within **24 hours** of
+determination…
+
+*(normalized markdown — the exact text the retrieval tools index)*</pre>`;
+  else m.innerHTML=`
+    <p style="margin-bottom:10px">Original as published (${d.src==="pdf"?"PDF":"HTML"}):</p>
+    <div style="border:1px solid var(--line);border-radius:8px;height:340px;display:grid;
+      place-items:center;background:var(--surface2);color:var(--muted)">
+      ${d.src==="pdf"?"📄 raw.pdf preview":"🌐 raw.html snapshot"} — opens archived original
+    </div>
+    <p style="margin-top:10px;font-size:12px;color:var(--muted)">The archived copy is
+    immutable; the live source link may have changed since retrieval.</p>`;
+}
+function closeDrawer(){document.getElementById("scrim").classList.remove("show");
+  document.getElementById("drawer").classList.remove("show")}
+
+/* ─────────── run modal + toast ─────────── */
+function openRun(scope){document.getElementById("mScope").textContent=scope;
+  document.getElementById("modal").classList.add("show")}
+function closeRun(){document.getElementById("modal").classList.remove("show")}
+function confirmRun(){closeRun();toast("Run queued — rows will show live progress")}
+let _t;function toast(msg){const t=document.getElementById("toast");t.textContent=msg;
+  t.classList.add("show");clearTimeout(_t);_t=setTimeout(()=>t.classList.remove("show"),2600)}
+
+document.getElementById("q").addEventListener("input",e=>render(e.target.value));
+render();
+</script>
+</body>
+</html>
