@@ -99,8 +99,13 @@ class Fetcher:
             self.rate_limiter.wait(url)
         raw, content_type, final_url = self.opener(url)
 
-        is_pdf = method == "pdf_to_md" or "pdf" in (content_type or "").lower() \
+        # Ground truth is the magic bytes: content-type / .pdf URL are only hints
+        # (regulator sites often return an HTML error page for a .pdf URL). Only
+        # PDF-parse when the body actually is a PDF.
+        looks_pdf = raw[:1024].lstrip()[:4] == b"%PDF"
+        hinted_pdf = method == "pdf_to_md" or "pdf" in (content_type or "").lower() \
             or url.lower().endswith(".pdf")
+        is_pdf = looks_pdf or (hinted_pdf and looks_pdf)
         if is_pdf:
             md, ocr = pdf_to_md(raw)
             ext, fmethod = "pdf", "pdf_to_md"

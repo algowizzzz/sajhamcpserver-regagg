@@ -97,6 +97,7 @@ def run_regulator(
     trigger: str = "schedule",
     now: Optional[datetime] = None,
     operator: Optional[str] = None,
+    max_docs: Optional[int] = None,
 ) -> RunManifest:
     now = now or datetime.now(timezone.utc)
     started = time.monotonic()
@@ -118,6 +119,9 @@ def run_regulator(
         connector = get_connector(config, run_id, seen)
         events: List[DetectionEvent] = connector.detect(payloads)
         manifest.detected = len(events)
+        if max_docs is not None and len(events) > max_docs:
+            # sample cap (live sampling / polite crawl); full run drops the cap
+            events = events[:max_docs]
         manifest.detected_urls = [e.url for e in events]
 
         for ev in events:
