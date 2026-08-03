@@ -112,6 +112,52 @@ produced from a dev box.
 
 ---
 
+## Session 2 (2026-08-02, evening) — data-layer completion + live v2 UI
+
+Scope narrowed by Saad: **data layer + tracking UI only** (scheduling, MCP
+registration, chatbot, LLM enrichment, enterprise deploy owned elsewhere).
+Retrieval tools remain as built. 83 tests green.
+
+### Phase A — capture completeness (data layer)
+- `reg_documents.source_kind` (web | policy_pdf) + migration `regagg_migrate_001_source_kind.py`
+- **PDF harvesting**: same-domain PDF links on ingested HTML pages are enqueued
+  (3/page, 40/run) and ingested as `policy_pdf` docs; PDF detection by `%PDF`
+  magic bytes; blank/scanned PDFs flagged `ocr: true`
+- **Meta-source dedup** (`meta_source: true` on fedreg): agency copy canonical,
+  Federal Register duplicate skipped + counted (`manifest.deduped`)
+- **Federal Register API pagination** (next_page_url, ≤5 pages) + **backfill
+  cutoff** enforced in RSS + API connectors (US-1.2 AC4)
+- **Deterministic enrichment** (`rules.py`, no LLM): reference-number grammar
+  for OSFI/CAR/LAR/SR/OCC/FIL/NI/APS/PS-CP-SS/RTS-ITS/BCBS/SEC; citation mining
+  with sentence-scoped supersede detection; edges @0.8 confidence;
+  `supersedes` flips target status; pending-edge resolver
+- **Live run counters**: `reg_runs` row flushed every 10 docs (UI polls it)
+
+### Phase B — source fixes (29/30 verified)
+- Verifier now recognizes **sitemap indexes** (un-blocked CSA: 266 docs)
+- FDIC feed moved → `/rss.xml` (found by discovery probe)
+- HKMA RSS dead → switched to `sitemap_diff` scoped by include_patterns
+- AMF Québec 403 bot-block: escalated, not evaded — the one open source issue
+
+### Phase C — live v2 dashboard (replaces raw v1 page)
+- `queries_ui.py` + endpoints: `/tree` (region→institution→source-kind roll-ups),
+  `/browse/{id}` (facets + filters + search), `/changes` (new/revised/superseded/
+  deadline feed), `/documents/{r}/{d}/diff` (unified diff vN-1→vN),
+  `/documents/{r}/{d}/content`, `/runs-overview` (active + recent + daily delta),
+  `/inventory/{id}`
+- `ui_dashboard.html` served at `/api/regagg/ui`: Coverage tree / Changes feed /
+  Collection-runs monitor (5s polling while active), document drawer
+  (markdown/summary/provenance), diff viewer, per-scope Run buttons, dark mode
+- Route lesson: `/runs/{run_id}` captures `/runs/overview` → `/runs-overview`
+
+### Phase D — completeness proof + fixtures
+- **Expected-inventory reconciliation**: `config/regulators/_inventories/osfi.yaml`
+  (CAR 9 · LAR 5 · B-series 8 · E-series 8; `verified_against_site: false` until
+  human-confirmed) + `/inventory/{id}` — answers "do we have every chapter?"
+- **Recorded fixtures for 29/30** (`scripts/regagg_record_fixtures.py`, 9.6MB)
+  + parametrized connector tests over the real payloads
+- `scripts/regagg_backfill_rules.py`: post-crawl rules + source_kind backfill
+
 ## Not yet built (remaining spec scope)
 - **Epic 8 hardening:** 50k-doc load test, backup+restore drill, egress allow-list
   submission — all need the live stack.
