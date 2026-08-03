@@ -1,0 +1,83 @@
+# Controlled tag taxonomy — single source of truth for enrichment.
+# 04_DATA_SCHEMA_DESIGN §5. The LLM MUST choose tags only from this vocabulary.
+# Adding a tag = edit this file (the enrichment prompt is regenerated from it).
+#
+# doc_types are enforced by sajha/regagg/config_models.py (DOC_TYPES) and by the
+# reg_documents CHECK constraint — keep the two in sync.
+
+doc_types:
+  - final_rule
+  - consultation
+  - guidance
+  - announcement
+  - enforcement
+  - speech
+  - report
+
+tags:
+  jurisdiction:
+    - canada
+    - us
+    - eu
+    - uk
+    - singapore
+    - hong_kong
+    - australia
+    - japan
+    - india
+    - international
+  sector:
+    - banking
+    - securities
+    - insurance
+    - payments
+    - pensions
+  topic:
+    - ccr
+    - frtb
+    - market_risk
+    - credit_risk
+    - liquidity
+    - operational_risk
+    - capital
+    - leverage
+    - irrbb
+    - cva
+    - margin
+    - clearing
+    - aml_cft
+    - cyber_risk
+    - third_party_risk
+    - climate_risk
+    - model_risk
+    - ai_governance
+    - stress_testing
+    - resolution_recovery
+    - disclosure
+    - governance
+    - consumer_protection
+    - crypto_assets
+  status:
+    - proposed
+    - final
+    - superseded
+    - withdrawn
+  framework:
+    - basel_iii
+    - basel_iv
+    - sa_ccr
+    - imm
+    - dodd_frank
+    - emir
+    - mifid
+    - crr_crd
+    - uk_pra_rulebook
+    - osfi_car
+
+# Cross-reference edge types (04_DATA_SCHEMA §3 / reg_document_edges CHECK).
+edge_types:
+  - implements
+  - supersedes
+  - interprets
+  - references
+  - consults_on

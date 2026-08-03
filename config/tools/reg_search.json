@@ -1,0 +1,75 @@
+{
+  "name": "reg_search",
+  "implementation": "sajha.tools.impl.reg_tools.RegSearchTool",
+  "description": "Search the regulatory corpus (BM25 + filters) across ~30 regulators; filter by jurisdiction, regulator, doc_type, tags, date, status.",
+  "version": "0.1.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "query": {
+        "type": "string",
+        "description": "Full-text query"
+      },
+      "jurisdiction": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "regulator_id": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "doc_type": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "tags": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "date_from": {
+        "type": "string",
+        "description": "YYYY-MM-DD"
+      },
+      "date_to": {
+        "type": "string",
+        "description": "YYYY-MM-DD"
+      },
+      "status": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "limit": {
+        "type": "integer",
+        "default": 10
+      }
+    },
+    "required": [
+      "query"
+    ]
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Regulatory Intelligence",
+    "tags": [
+      "regulatory",
+      "compliance",
+      "aggregator"
+    ],
+    "cacheTTL": 300,
+    "readOnly": true
+  }
+}

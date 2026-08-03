@@ -1,0 +1,40 @@
+# Bank of England / Prudential Regulation Authority
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: boe_pra
+name: "Bank of England / Prudential Regulation Authority"
+jurisdiction: UK
+active: true
+connector: rss
+sources:
+  feeds:
+    - url: https://www.bankofengland.co.uk/rss/news
+      verified: false
+      checked_at: null
+    - url: https://www.bankofengland.co.uk/rss/publications
+      verified: false
+      checked_at: null
+  listing_pages:
+    - url: https://www.bankofengland.co.uk/prudential-regulation/publication
+      verified: false
+      checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - uk
+  - prudential
+  - banking
+doc_type_rules:
+  - pattern: "supervisory-statement"
+    doc_type: guidance
+  - pattern: "policy-statement"
+    doc_type: final_rule
+  - pattern: "consultation-paper"
+    doc_type: consultation
+  - pattern: "/news/"
+    doc_type: announcement
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "SS/PS numbering; PRA Rulebook site is separate (Phase 2)."

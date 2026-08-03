@@ -1,0 +1,32 @@
+# Financial Crimes Enforcement Network
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: fincen
+name: "Financial Crimes Enforcement Network"
+jurisdiction: US
+active: true
+connector: sitemap_diff
+sources:
+  sitemap:
+    url: https://www.fincen.gov/sitemap.xml
+    verified: false
+    checked_at: null
+  listing_pages:
+    - url: https://www.fincen.gov/news-room/news
+      verified: false
+      checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - us
+  - aml_cft
+doc_type_rules:
+  - pattern: "/news-room/"
+    doc_type: announcement
+  - pattern: "/resources/statutes-and-regulations"
+    doc_type: final_rule
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "Small site."

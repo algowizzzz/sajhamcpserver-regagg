@@ -1,0 +1,38 @@
+# Office of the Superintendent of Financial Institutions
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: osfi
+name: "Office of the Superintendent of Financial Institutions"
+jurisdiction: CA
+active: true
+connector: sitemap_diff
+sources:
+  sitemap:
+    url: https://www.osfi-bsif.gc.ca/sitemap.xml
+    verified: false
+    checked_at: null
+  listing_pages:
+    - url: https://www.osfi-bsif.gc.ca/en/guidance
+      verified: false
+      checked_at: null
+    - url: https://www.osfi-bsif.gc.ca/en/news
+      verified: false
+      checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - canada
+  - prudential
+  - banking
+doc_type_rules:
+  - pattern: "/guidance/"
+    doc_type: guidance
+  - pattern: "/news/"
+    doc_type: announcement
+  - pattern: "/consultations/"
+    doc_type: consultation
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "Email notifications as manual backstop."

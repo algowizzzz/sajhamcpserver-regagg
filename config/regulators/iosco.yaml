@@ -1,0 +1,32 @@
+# International Organization of Securities Commissions
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: iosco
+name: "International Organization of Securities Commissions"
+jurisdiction: INTL
+active: true
+connector: rss
+sources:
+  feeds:
+    - url: https://www.iosco.org/rss/news.xml
+      verified: false
+      checked_at: null
+  listing_pages:
+    - url: https://www.iosco.org/publications/
+      verified: false
+      checked_at: null
+fetch: pdf_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - international
+  - securities
+doc_type_rules:
+  - pattern: "/publications/"
+    doc_type: report
+  - pattern: "/news/"
+    doc_type: announcement
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "Listing differ as backup if feed fails verification."

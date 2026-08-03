@@ -381,3 +381,12 @@ class ToolVersionRecord(Base):
     successor     = Column(String(255))
     changelog     = Column(Text)
     created_at    = Column(DateTime, default=datetime.utcnow)
+
+
+# ── Regulatory Intelligence Aggregator (embedded feature, v5.3+) ─────────────
+# Registers the reg_* corpus tables (documents, versions, edges, runs, …) on
+# the shared Base.metadata so Base.metadata.create_all() provisions them next
+# to the core schema on both SQLite and PostgreSQL. Definitions live in
+# sajha/regagg/models.py. See db/scripts/postgresql/003_regagg_schema.sql for
+# the hand-authored psql path.
+from sajha.regagg import models as _regagg_models  # noqa: E402,F401

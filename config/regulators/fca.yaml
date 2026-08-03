@@ -1,0 +1,41 @@
+# Financial Conduct Authority
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: fca
+name: "Financial Conduct Authority"
+jurisdiction: UK
+active: true
+connector: rss
+sources:
+  feeds:
+    - url: https://www.fca.org.uk/news/rss.xml
+      verified: false
+      checked_at: null
+    - url: https://www.fca.org.uk/publications/rss.xml
+      verified: false
+      checked_at: null
+  api:
+    provider: fca_handbook
+    base: https://www.handbook.fca.org.uk
+    verified: false
+    checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - uk
+  - conduct
+  - securities
+doc_type_rules:
+  - pattern: "/policy-statements/"
+    doc_type: final_rule
+  - pattern: "/consultation-papers/"
+    doc_type: consultation
+  - pattern: "/finalised-guidance/"
+    doc_type: guidance
+  - pattern: "/news/"
+    doc_type: announcement
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "PS/CP/FG numbering -> reference_number."

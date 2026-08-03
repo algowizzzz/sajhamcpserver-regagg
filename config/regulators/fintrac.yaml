@@ -1,0 +1,32 @@
+# FINTRAC
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: fintrac
+name: "FINTRAC"
+jurisdiction: CA
+active: true
+connector: sitemap_diff
+sources:
+  sitemap:
+    url: https://fintrac-canafe.canada.ca/sitemap.xml
+    verified: false
+    checked_at: null
+  listing_pages:
+    - url: https://fintrac-canafe.canada.ca/new-neuf/nw-eng
+      verified: false
+      checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - canada
+  - aml_cft
+doc_type_rules:
+  - pattern: "/guidance"
+    doc_type: guidance
+  - pattern: "/nw-"
+    doc_type: announcement
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "Canada.ca platform; sitemap reliable."

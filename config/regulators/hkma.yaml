@@ -1,0 +1,31 @@
+# Hong Kong Monetary Authority
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: hkma
+name: "Hong Kong Monetary Authority"
+jurisdiction: HK
+active: true
+connector: rss
+sources:
+  feeds:
+    - url: https://www.hkma.gov.hk/eng/rss/press-releases.xml
+      verified: false
+      checked_at: null
+    - url: https://www.hkma.gov.hk/eng/rss/circulars.xml
+      verified: false
+      checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - hong_kong
+  - banking
+doc_type_rules:
+  - pattern: "/circulars/"
+    doc_type: guidance
+  - pattern: "/press-releases/"
+    doc_type: announcement
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "Circulars = supervisory layer; EN pages."

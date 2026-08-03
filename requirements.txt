@@ -84,3 +84,9 @@ ollama>=0.4.0,<1.0.0              # Ollama local models
 # opentelemetry-exporter-otlp>=1.20.0,<2.0.0
 # Uncomment above for OTEL trace/metric export to Datadog/Grafana/Splunk
 psutil>=5.9.0,<8.0.0  # System monitoring (optional)
+
+# ── Regulatory Intelligence Aggregator (sajha/regagg) ────────
+feedparser>=6.0,<7.0        # RSS/Atom parsing (rss connector)
+markdownify>=0.11,<1.0      # HTML -> markdown normalization (fetch layer)
+# prefect>=2.14,<3.0         # optional: daily scheduler sidecar (flows_prefect)
+# pypdf>=4.0,<5.0            # optional: pdf_to_md for PDF-heavy regulators

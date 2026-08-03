@@ -1,0 +1,38 @@
+# US Federal Register (meta-source)
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: fedreg
+name: "US Federal Register (meta-source)"
+jurisdiction: US
+active: true
+connector: api
+sources:
+  api:
+    provider: federal_register
+    base: https://www.federalregister.gov/api/v1
+    agencies:
+      - federal-reserve-system
+      - comptroller-of-the-currency
+      - federal-deposit-insurance-corporation
+      - securities-and-exchange-commission
+      - commodity-futures-trading-commission
+      - financial-crimes-enforcement-network
+    verified: false
+    checked_at: null
+fetch: html_to_md
+rate_limit_rps: 1.0
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - us
+  - rulemaking
+doc_type_rules:
+  - pattern: "type=RULE"
+    doc_type: final_rule
+  - pattern: "type=PRORULE"
+    doc_type: consultation
+  - pattern: "type=NOTICE"
+    doc_type: announcement
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "Meta-source for all formal US rulemaking. Dedup vs agency feeds by reference_number."

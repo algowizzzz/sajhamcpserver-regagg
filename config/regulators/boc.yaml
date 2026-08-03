@@ -1,0 +1,36 @@
+# Bank of Canada
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: boc
+name: "Bank of Canada"
+jurisdiction: CA
+active: true
+connector: rss
+sources:
+  feeds:
+    - url: https://www.bankofcanada.ca/feed/
+      verified: false
+      checked_at: null
+    - url: https://www.bankofcanada.ca/content_type/press-releases/feed/
+      verified: false
+      checked_at: null
+  api:
+    provider: boc_valet
+    base: https://www.bankofcanada.ca/valet
+    verified: false
+    checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - canada
+  - central_bank
+doc_type_rules:
+  - pattern: "/press-releases/"
+    doc_type: announcement
+  - pattern: "/publications/"
+    doc_type: report
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "Valet API for data series; feeds for publications."

@@ -1,0 +1,34 @@
+# Commodity Futures Trading Commission
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: cftc
+name: "Commodity Futures Trading Commission"
+jurisdiction: US
+active: true
+connector: rss
+sources:
+  feeds:
+    - url: https://www.cftc.gov/RSS/RSSGP/rssgp.xml
+      verified: false
+      checked_at: null
+  listing_pages:
+    - url: https://www.cftc.gov/PressRoom/PressReleases
+      verified: false
+      checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - us
+  - derivatives
+  - clearing
+  - margin
+doc_type_rules:
+  - pattern: "/PressRoom/"
+    doc_type: announcement
+  - pattern: "/LawRegulation/"
+    doc_type: final_rule
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "High CCR relevance: margin and clearing rules."

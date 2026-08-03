@@ -1,0 +1,33 @@
+# ECB Banking Supervision (SSM)
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: ecb_ssm
+name: "ECB Banking Supervision (SSM)"
+jurisdiction: EU
+active: true
+connector: rss
+sources:
+  feeds:
+    - url: https://www.bankingsupervision.europa.eu/rss/press.html
+      verified: false
+      checked_at: null
+  listing_pages:
+    - url: https://www.bankingsupervision.europa.eu/press/publications/html/index.en.html
+      verified: false
+      checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - eu
+  - banking
+  - prudential
+doc_type_rules:
+  - pattern: "/press/"
+    doc_type: announcement
+  - pattern: "/legalframework/"
+    doc_type: final_rule
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "Use SSM feeds, not ECB monetary-policy feeds."

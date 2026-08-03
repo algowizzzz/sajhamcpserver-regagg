@@ -1,0 +1,36 @@
+# Financial Services Agency (Japan)
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: jfsa
+name: "Financial Services Agency (Japan)"
+jurisdiction: JP
+active: true
+connector: sitemap_diff
+sources:
+  sitemap:
+    url: https://www.fsa.go.jp/sitemap.xml
+    verified: false
+    checked_at: null
+  listing_pages:
+    - url: https://www.fsa.go.jp/en/news/index.html
+      verified: false
+      checked_at: null
+    - url: https://www.fsa.go.jp/en/newsletter/index.html
+      verified: false
+      checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - japan
+  - banking
+  - securities
+doc_type_rules:
+  - pattern: "/news/"
+    doc_type: announcement
+  - pattern: "/regulated/"
+    doc_type: final_rule
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "EN subset lags JP originals; language en tag; lag risk noted."

@@ -1,0 +1,35 @@
+# European Banking Authority
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: eba
+name: "European Banking Authority"
+jurisdiction: EU
+active: true
+connector: rss
+sources:
+  feeds:
+    - url: https://www.eba.europa.eu/rss.xml
+      verified: false
+      checked_at: null
+  listing_pages:
+    - url: https://www.eba.europa.eu/publications-and-media
+      verified: false
+      checked_at: null
+fetch: pdf_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - eu
+  - banking
+  - prudential
+doc_type_rules:
+  - pattern: "consultation"
+    doc_type: consultation
+  - pattern: "guidelines"
+    doc_type: guidance
+  - pattern: "technical-standards"
+    doc_type: final_rule
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "RTS/ITS/GL mapping; heavy PDF corpus."

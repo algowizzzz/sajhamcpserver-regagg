@@ -1,0 +1,32 @@
+# Reserve Bank of India
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: rbi
+name: "Reserve Bank of India"
+jurisdiction: IN
+active: true
+connector: rss
+sources:
+  feeds:
+    - url: https://www.rbi.org.in/pressreleases_rss.xml
+      verified: false
+      checked_at: null
+    - url: https://www.rbi.org.in/notifications_rss.xml
+      verified: false
+      checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.25
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - india
+  - central_bank
+  - banking
+doc_type_rules:
+  - pattern: "/notifications"
+    doc_type: final_rule
+  - pattern: "/pressreleases"
+    doc_type: announcement
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "High volume; throttle-sensitive; scope with include_patterns."

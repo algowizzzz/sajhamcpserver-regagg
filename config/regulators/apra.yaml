@@ -1,0 +1,36 @@
+# Australian Prudential Regulation Authority
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: apra
+name: "Australian Prudential Regulation Authority"
+jurisdiction: AU
+active: true
+connector: rss
+sources:
+  feeds:
+    - url: https://www.apra.gov.au/rss.xml
+      verified: false
+      checked_at: null
+  listing_pages:
+    - url: https://www.apra.gov.au/news-and-publications
+      verified: false
+      checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - australia
+  - prudential
+  - banking
+  - insurance
+doc_type_rules:
+  - pattern: "prudential-standard"
+    doc_type: final_rule
+  - pattern: "consultation"
+    doc_type: consultation
+  - pattern: "/news"
+    doc_type: announcement
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "APS numbering -> reference_number."

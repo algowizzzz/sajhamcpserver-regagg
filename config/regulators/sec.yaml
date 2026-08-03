@@ -1,0 +1,36 @@
+# Securities and Exchange Commission
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: sec
+name: "Securities and Exchange Commission"
+jurisdiction: US
+active: true
+connector: rss
+sources:
+  feeds:
+    - url: https://www.sec.gov/news/pressreleases.rss
+      verified: false
+      checked_at: null
+    - url: https://www.sec.gov/rss/rules/final.xml
+      verified: false
+      checked_at: null
+    - url: https://www.sec.gov/rss/rules/proposed.xml
+      verified: false
+      checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.25
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - us
+  - securities
+doc_type_rules:
+  - pattern: "/rules/final"
+    doc_type: final_rule
+  - pattern: "/rules/proposed"
+    doc_type: consultation
+  - pattern: "/news/"
+    doc_type: announcement
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "Throttle-sensitive; declare proper UA per SEC policy."

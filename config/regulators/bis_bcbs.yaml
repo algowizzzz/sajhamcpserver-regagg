@@ -1,0 +1,33 @@
+# Bank for International Settlements / Basel Committee
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: bis_bcbs
+name: "Bank for International Settlements / Basel Committee"
+jurisdiction: INTL
+active: true
+connector: rss
+sources:
+  feeds:
+    - url: https://www.bis.org/doclist/bcbspubls.rss
+      verified: false
+      checked_at: null
+  listing_pages:
+    - url: https://www.bis.org/bcbs/publications.htm
+      verified: false
+      checked_at: null
+fetch: pdf_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - international
+  - basel
+  - prudential
+doc_type_rules:
+  - pattern: "/publ/"
+    doc_type: final_rule
+  - pattern: "/press/"
+    doc_type: announcement
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "Basel standards are graph roots for implements edges."

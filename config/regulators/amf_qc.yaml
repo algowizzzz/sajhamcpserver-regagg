@@ -1,0 +1,33 @@
+# Autorite des marches financiers (Quebec)
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: amf_qc
+name: "Autorite des marches financiers (Quebec)"
+jurisdiction: CA
+active: true
+connector: sitemap_diff
+sources:
+  sitemap:
+    url: https://lautorite.qc.ca/en/sitemap.xml
+    verified: false
+    checked_at: null
+  listing_pages:
+    - url: https://lautorite.qc.ca/en/professionals/media-centre
+      verified: false
+      checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - canada
+  - securities
+  - insurance
+doc_type_rules:
+  - pattern: "/media-centre/"
+    doc_type: announcement
+  - pattern: "/regulation"
+    doc_type: final_rule
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "Ingest EN pages; FR twin recorded as alt_url."

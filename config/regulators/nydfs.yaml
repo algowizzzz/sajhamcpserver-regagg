@@ -1,0 +1,37 @@
+# New York State Department of Financial Services
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: nydfs
+name: "New York State Department of Financial Services"
+jurisdiction: US
+active: true
+connector: sitemap_diff
+sources:
+  sitemap:
+    url: https://www.dfs.ny.gov/sitemap.xml
+    verified: false
+    checked_at: null
+  listing_pages:
+    - url: https://www.dfs.ny.gov/industry_guidance
+      verified: false
+      checked_at: null
+    - url: https://www.dfs.ny.gov/reports_and_publications/press_releases
+      verified: false
+      checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - us
+  - state_regulator
+  - banking
+  - insurance
+doc_type_rules:
+  - pattern: "/industry_guidance"
+    doc_type: guidance
+  - pattern: "/press_releases"
+    doc_type: announcement
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "May need playwright; verification decides."

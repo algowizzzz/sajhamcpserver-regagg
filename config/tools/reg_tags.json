@@ -1,0 +1,29 @@
+{
+  "name": "reg_tags",
+  "implementation": "sajha.tools.impl.reg_tools.RegTagsTool",
+  "description": "Browse the controlled tag taxonomy with document counts and category.",
+  "version": "0.1.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "prefix": {
+        "type": "string"
+      }
+    }
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Regulatory Intelligence",
+    "tags": [
+      "regulatory",
+      "compliance",
+      "aggregator"
+    ],
+    "cacheTTL": 300,
+    "readOnly": true
+  }
+}

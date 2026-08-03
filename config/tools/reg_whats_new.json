@@ -1,0 +1,46 @@
+{
+  "name": "reg_whats_new",
+  "implementation": "sajha.tools.impl.reg_tools.RegWhatsNewTool",
+  "description": "List documents ingested in the last N days grouped by regulator; optionally only those with a comment deadline within N days.",
+  "version": "0.1.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "days": {
+        "type": "integer",
+        "default": 7
+      },
+      "jurisdiction": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "doc_type": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "deadlines_within": {
+        "type": "integer",
+        "description": "Only docs with a comment deadline within N days"
+      }
+    }
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Regulatory Intelligence",
+    "tags": [
+      "regulatory",
+      "compliance",
+      "aggregator"
+    ],
+    "cacheTTL": 300,
+    "readOnly": true
+  }
+}

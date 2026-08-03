@@ -1,0 +1,39 @@
+# Federal Reserve Board
+# STATUS: candidate sources — run scripts/verify_sources.py before build. See 06_SOURCE_MAP.md
+id: frb
+name: "Federal Reserve Board"
+jurisdiction: US
+active: true
+connector: rss
+sources:
+  feeds:
+    - url: https://www.federalreserve.gov/feeds/press_all.xml
+      verified: false
+      checked_at: null
+    - url: https://www.federalreserve.gov/feeds/press_enforcement.xml
+      verified: false
+      checked_at: null
+  listing_pages:
+    - url: https://www.federalreserve.gov/supervisionreg/srletters/srletters.htm
+      verified: false
+      checked_at: null
+fetch: html_to_md
+rate_limit_rps: 0.5
+schedule: daily_morning
+include_patterns: []        # tighten after verification
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - us
+  - central_bank
+  - prudential
+  - banking
+doc_type_rules:
+  - pattern: "/srletters/"
+    doc_type: guidance
+  - pattern: "/pressreleases/"
+    doc_type: announcement
+  - pattern: "/enforcement"
+    doc_type: enforcement
+staleness_alert_days: 14
+backfill_cutoff: 2024-08-01
+notes: "SR letters are key supervisory guidance; tag sr_letter."

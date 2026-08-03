@@ -1,0 +1,49 @@
+{
+  "name": "reg_read",
+  "implementation": "sajha.tools.impl.reg_tools.RegReadTool",
+  "description": "Read a regulatory document: summary (default), full markdown, metadata, or a historical archived version.",
+  "version": "0.1.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "doc_id": {
+        "type": "string"
+      },
+      "regulator_id": {
+        "type": "string",
+        "description": "Disambiguates doc_id"
+      },
+      "mode": {
+        "type": "string",
+        "enum": [
+          "summary",
+          "full",
+          "meta"
+        ],
+        "default": "summary"
+      },
+      "version_ts": {
+        "type": "string",
+        "description": "Read a historical version"
+      }
+    },
+    "required": [
+      "doc_id"
+    ]
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Regulatory Intelligence",
+    "tags": [
+      "regulatory",
+      "compliance",
+      "aggregator"
+    ],
+    "cacheTTL": 300,
+    "readOnly": true
+  }
+}

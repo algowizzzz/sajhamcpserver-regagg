@@ -1,0 +1,60 @@
+# Regulatory Intelligence Aggregator — global settings.
+# Per-regulator behaviour lives in the individual {id}.yaml files; this file
+# holds fleet-wide defaults. Values here are read by the regagg pipeline, not by
+# the core SAJHA config loader. ${VAR} references resolve via the same
+# PropertiesConfigurator/env substitution the tool configs use.
+
+version: 0.1.0            # Epic 1 — Foundation
+
+# ── Scheduling (Prefect) ────────────────────────────────────────────────────
+schedule:
+  daily_cron: "0 6 * * *"          # 06:00 server-local daily fan-out (US-5.1)
+  max_concurrency: 6               # max regulators ingested in parallel
+  per_regulator_concurrency: 1     # a rerun queues behind an active run (edge case 6)
+  retries: 3
+  retry_backoff_seconds: 30
+
+# ── Fetch defaults (overridable per regulator) ──────────────────────────────
+fetch:
+  default_rate_limit_rps: 0.5
+  user_agent: "BMO-RegIntel/1.0 (+regintel-ops@example.com)"   # set real contact
+  robots_cache_hours: 24
+  max_redirects: 5
+  max_body_mb: 100
+  ocr_page_text_threshold: 0.05    # OCR when text layer < 5% of pages
+
+# ── Storage (object storage for raw/md/meta/summary + archive) ──────────────
+# Reuses the SAJHA storage backend (local | s3/minio | azure | gcs).
+storage:
+  corpus_prefix: "data/web_aggregator"   # {regulator_id}/current|archive|_state/...
+  version_ts_format: "%Y-%m-%dT%H-%M-%SZ"
+
+# ── Database ────────────────────────────────────────────────────────────────
+# Corpus tables are reg_* on the shared SAJHA DB. Production target: PostgreSQL
+# (set db.type=postgresql in application.yml). pg_trgm is required for title
+# similarity in reference resolution and reg_search.
+database:
+  require_pg_trgm: true
+
+# ── Enrichment (LLM) ────────────────────────────────────────────────────────
+# Backend selection deferred to deploy (BRD Open Question 2). Reuses sajha/ai.
+enrichment:
+  backend: "anthropic_api"         # vllm_local | bedrock | anthropic_api
+  summary_max_words: 300
+  classify_max_tokens: 8000        # first N tokens + headings outline
+  json_retries: 1                  # invalid JSON -> 1 retry -> enrichment_pending
+  reference_similarity_threshold: 0.6   # pg_trgm title match for edge resolution
+
+# ── Backfill ────────────────────────────────────────────────────────────────
+backfill:
+  default_cutoff: "2024-08-01"     # 24 months; per-regulator override via backfill_cutoff
+
+# ── Alerts / observability ──────────────────────────────────────────────────
+alerts:
+  webhook_url: "${REGAGG_ALERT_WEBHOOK:}"   # Teams/email webhook; empty = disabled
+  staleness_default_days: 14
+
+# ── Onboarding gate (Epic 5) ────────────────────────────────────────────────
+onboarding:
+  min_verified_primary_sources: 1  # per regulator before it goes active in prod
+  freshness_warn_days: 90          # verify_sources warns if newest item older than this
