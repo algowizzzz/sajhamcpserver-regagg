@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.cftc.gov/">
+  <channel>
+    <title>Press Releases</title>
+    <link>https://www.cftc.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>ICYMI: Members of the CFTC’s Agricultural Advisory Committee Join Chairman Selig in Washington at First Meeting of 2026</title>
+  <link>https://www.cftc.gov/PressRoom/PressReleases/9275-26</link>
+  <description/>
+  <pubDate>Fri, 31 Jul 2026 14:18:05 +0000</pubDate>
+    <dc:creator>dfaulk-white</dc:creator>
+    <guid isPermaLink="true">https://www.cftc.gov/PressRoom/PressReleases/9275-26</guid>
+    </item>
+<item>
+  <title>CFTC Seeks Public Comment on Notice of Proposed Rulemaking Concerning Affiliations Among Certain CFTC-Regulated Entities</title>
+  <link>https://www.cftc.gov/PressRoom/PressReleases/9274-26</link>
+  <description/>
+  <pubDate>Thu, 30 Jul 2026 16:29:23 +0000</pubDate>
+    <dc:creator>CCollins</dc:creator>
+    <guid isPermaLink="true">https://www.cftc.gov/PressRoom/PressReleases/9274-26</guid>
+    </item>
+<item>
+  <title>CFTC Releases Advisory on Self-Certification of an Event Contract Series</title>
+  <link>https://www.cftc.gov/PressRoom/PressReleases/9273-26</link>
+  <description/>
+  <pubDate>Fri, 24 Jul 2026 19:30:31 +0000</pubDate>
+    <dc:creator>CCollins</dc:creator>
+    <guid isPermaLink="true">https://www.cftc.gov/PressRoom/PressReleases/9273-26</guid>
+    </item>
+<item>
+  <title>CFTC Staff Issues No-Action Position on Designated Contract Market Procedures</title>
+  <link>https://www.cftc.gov/PressRoom/PressReleases/9272-26</link>
+  <description/>
+  <pubDate>Fri, 24 Jul 2026 19:05:39 +0000</pubDate>
+    <dc:creator>CCollins</dc:creator>
+    <guid isPermaLink="true">https://www.cftc.gov/PressRoom/PressReleases/9272-26</guid>
+    </item>
+<item>
+  <title>CFTC Extends Public Comment Period on Proposed Rule on the Extension of Standard Futures Contracts to 24/7 Trading and on Perpetual Contracts Referencing Physically Delivered or Storable Energy Commodities</title>
+  <link>https://www.cftc.gov/PressRoom/PressReleases/9271-26</link>
+  <description/>
+  <pubDate>Thu, 23 Jul 2026 20:12:15 +0000</pubDate>
+    <dc:creator>mwoodland</dc:creator>
+    <guid isPermaLink="true">https://www.cftc.gov/PressRoom/PressReleases/9271-26</guid>
+    </item>
+<item>
+  <title>Chairman Selig Announces Agenda for July 29 Agricultural Advisory Committee Meeting in Washington</title>
+  <link>https://www.cftc.gov/PressRoom/PressReleases/9270-26</link>
+  <description/>
+  <pubDate>Thu, 23 Jul 2026 16:18:33 +0000</pubDate>
+    <dc:creator>CCollins</dc:creator>
+    <guid isPermaLink="true">https://www.cftc.gov/PressRoom/PressReleases/9270-26</guid>
+    </item>
+<item>
+  <title>CFTC Sunsets Routine Large Trader Reporting Requirements for Physical Commodity Swaps </title>
+  <link>https://www.cftc.gov/PressRoom/PressReleases/9269-26</link>
+  <description/>
+  <pubDate>Fri, 17 Jul 2026 14:38:56 +0000</pubDate>
+    <dc:creator>dfaulk-white</dc:creator>
+    <guid isPermaLink="true">https://www.cftc.gov/PressRoom/PressReleases/9269-26</guid>
+    </item>
+<item>
+  <title>Chairman Selig Announces CFTC Agricultural Advisory Committee to Meet July 29 in Washington</title>
+  <link>https://www.cftc.gov/PressRoom/PressReleases/9268-26</link>
+  <description/>
+  <pubDate>Wed, 15 Jul 2026 19:45:36 +0000</pubDate>
+    <dc:creator>CCollins</dc:creator>
+    <guid isPermaLink="true">https://www.cftc.gov/PressRoom/PressReleases/9268-26</guid>
+    </item>
+<item>
+  <title>CFTC Stays KalshiEX Rule Change and Exercises Emergency Authority to Order Fulfillment of Pending Trades  </title>
+  <link>https://www.cftc.gov/PressRoom/PressReleases/9267-26</link>
+  <description/>
+  <pubDate>Tue, 14 Jul 2026 14:00:00 +0000</pubDate>
+    <dc:creator>dfaulk-white</dc:creator>
+    <guid isPermaLink="true">https://www.cftc.gov/PressRoom/PressReleases/9267-26</guid>
+    </item>
+<item>
+  <title>CFTC Approves Final Rule Amending Margin Requirements for Uncleared Swaps </title>
+  <link>https://www.cftc.gov/PressRoom/PressReleases/9266-26</link>
+  <description/>
+  <pubDate>Mon, 13 Jul 2026 14:46:20 +0000</pubDate>
+    <dc:creator>dfaulk-white</dc:creator>
+    <guid isPermaLink="true">https://www.cftc.gov/PressRoom/PressReleases/9266-26</guid>
+    </item>
+
+  </channel>
+</rss>

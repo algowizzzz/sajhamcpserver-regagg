@@ -1,0 +1,51 @@
+# Expected-inventory for OSFI — powers "9/9 chapters present" completeness checks.
+# STATUS: seeded from public knowledge of OSFI's guideline index (2026); each
+# series should be confirmed against https://www.osfi-bsif.gc.ca/en/guidance
+# before being treated as authoritative. Reconciliation matches corpus documents
+# by reference-number slug first, then title substring (case-insensitive).
+
+regulator_id: osfi
+verified_against_site: false      # flip after a human confirms the lists
+series:
+  - name: "Capital Adequacy Requirements (CAR)"
+    match: reference               # reference | title
+    items:
+      - {ref: "CAR-Ch1", title: "Chapter 1 — Overview"}
+      - {ref: "CAR-Ch2", title: "Chapter 2 — Definition of Capital"}
+      - {ref: "CAR-Ch3", title: "Chapter 3 — Operational Risk"}
+      - {ref: "CAR-Ch4", title: "Chapter 4 — Credit Risk – Standardized Approach"}
+      - {ref: "CAR-Ch5", title: "Chapter 5 — Credit Risk – Internal Ratings-Based"}
+      - {ref: "CAR-Ch6", title: "Chapter 6 — Securitization"}
+      - {ref: "CAR-Ch7", title: "Chapter 7 — Settlement and Counterparty Risk"}
+      - {ref: "CAR-Ch8", title: "Chapter 8 — Credit Valuation Adjustment"}
+      - {ref: "CAR-Ch9", title: "Chapter 9 — Market Risk"}
+  - name: "Liquidity Adequacy Requirements (LAR)"
+    match: reference
+    items:
+      - {ref: "LAR-Ch1", title: "Chapter 1 — Overview"}
+      - {ref: "LAR-Ch2", title: "Chapter 2 — Liquidity Coverage Ratio"}
+      - {ref: "LAR-Ch3", title: "Chapter 3 — Net Stable Funding Ratio"}
+      - {ref: "LAR-Ch4", title: "Chapter 4 — Net Cumulative Cash Flow"}
+      - {ref: "LAR-Ch5", title: "Chapter 5 — Liquidity Monitoring Tools"}
+  - name: "B-Series Guidelines"
+    match: reference
+    items:
+      - {ref: "B-2",  title: "Large Exposure Limits"}
+      - {ref: "B-3",  title: "Sound Reinsurance Practices"}
+      - {ref: "B-5",  title: "Asset Securitization"}
+      - {ref: "B-6",  title: "Liquidity Principles"}
+      - {ref: "B-10", title: "Third-Party Risk Management"}
+      - {ref: "B-12", title: "Interest Rate Risk Management"}
+      - {ref: "B-13", title: "Technology and Cyber Risk Management"}
+      - {ref: "B-15", title: "Climate Risk Management"}
+  - name: "E-Series Guidelines"
+    match: reference
+    items:
+      - {ref: "E-4",  title: "Foreign Entities Operating in Canada"}
+      - {ref: "E-13", title: "Regulatory Compliance Management"}
+      - {ref: "E-17", title: "Background Checks"}
+      - {ref: "E-18", title: "Stress Testing"}
+      - {ref: "E-19", title: "Own Risk and Solvency Assessment"}
+      - {ref: "E-21", title: "Operational Resilience and Operational Risk Management"}
+      - {ref: "E-23", title: "Model Risk Management"}
+      - {ref: "E-25", title: "Culture and Behaviour Risk"}

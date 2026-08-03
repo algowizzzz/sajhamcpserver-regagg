@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:g-core="http://base.google.com/ns/1.0">
+  <channel rdf:about="https://www.bis.org/doclist/bcbspubls.rss">
+    <title>BCBS publications - english</title>
+    <link>https://www.bis.org/doclist/bcbspubls.rss</link>
+    <description>BCBS publications - english</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d611.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d609.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d610.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d608.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/wp47.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d607.htm"/>
+        <rdf:li resource="https://www.bis.org/publ/bcbs_nl36.htm"/>
+        <rdf:li resource="https://www.bis.org/publ/bcbs_nl35.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d606.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d605.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d604.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d603.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d602.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d601.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d600.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d599.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/wp46.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/wp45.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d598.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d597.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d596.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d595.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d594.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d593.htm"/>
+        <rdf:li resource="https://www.bis.org/bcbs/publ/d592.htm"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d611.htm">
+    <title>Information and communication technology (ICT) risk management: range of practices</title>
+    <link>https://www.bis.org/bcbs/publ/d611.htm</link>
+    <description>Basel Committee publishes report on information and communication technology risk management.</description>
+    <dc:title>Information and communication technology (ICT) risk management: range of practices</dc:title>
+    <dc:date>2026-06-02T08:00:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Information and communication technology (ICT) risk management: range of practices</cb:simpleTitle>
+      <cb:occurrenceDate>2026-06-02T08:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d611.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>02 Jun 2026</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d609.htm">
+    <title>Basel III monitoring report</title>
+    <link>https://www.bis.org/bcbs/publ/d609.htm</link>
+    <description>The report sets out the impact of the Basel III framework, including the December 2017 finalisation of the Basel III reforms and the January 2019 finalisation of the market risk framework. </description>
+    <dc:title>Basel III monitoring report</dc:title>
+    <dc:date>2026-03-24T10:00:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Basel III monitoring report</cb:simpleTitle>
+      <cb:keyword>qis</cb:keyword>
+      <cb:keyword>quantitative impact study</cb:keyword>
+      <cb:keyword>basel iii</cb:keyword>
+      <cb:occurrenceDate>2026-03-24T10:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d609.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>24 Mar 2026</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d610.htm">
+    <title>Finalisation of technical amendment and frequently asked questions</title>
+    <link>https://www.bis.org/bcbs/publ/d610.htm</link>
+    <description>This document sets out a final technical amendment to the Basel Framework. Technical amendments are defined as changes in standards that are not substantial in nature but that cannot be unambiguously resolved based on the current text. The amendment relates to the standardised approach to operational risk.</description>
+    <dc:title>Finalisation of technical amendment and frequently asked questions</dc:title>
+    <dc:date>2026-03-23T09:51:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Finalisation of technical amendment and frequently asked questions</cb:simpleTitle>
+      <cb:occurrenceDate>2026-03-23T09:51:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d610.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>23 Mar 2026</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d608.htm">
+    <title>Consolidated guidelines and sound practices</title>
+    <link>https://www.bis.org/bcbs/publ/d608.htm</link>
+    <description>The Basel Committee on Banking supervision has launched a new section of its website that sets out a consolidated version of its guidelines and sound practices for banks and supervisors. </description>
+    <dc:title>Consolidated guidelines and sound practices</dc:title>
+    <dc:date>2026-02-26T10:15:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Consolidated guidelines and sound practices</cb:simpleTitle>
+      <cb:occurrenceDate>2026-02-26T10:15:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d608.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>26 Feb 2026</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/wp47.htm">
+    <title>Literature review on non-maturity deposit stability: Established factors and recent developments</title>
+    <link>https://www.bis.org/bcbs/publ/wp47.htm</link>
+    <description/>
+    <dc:title>Literature review on non-maturity deposit stability: Established factors and recent developments</dc:title>
+    <dc:date>2026-02-20T14:29:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Literature review on non-maturity deposit stability: Established factors and recent developments</cb:simpleTitle>
+      <cb:occurrenceDate>2026-02-20T14:29:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/wp47.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>20 Feb 2026</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Working Papers</cb:publication>
+      <cb:issue>47</cb:issue>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d607.htm">
+    <title>Synthetic risk transfers</title>
+    <link>https://www.bis.org/bcbs/publ/d607.htm</link>
+    <description>Synthetic risk transfers (SRT) transactions involve transferring all or a portion of the credit risk of a pool of assets to a counterparty while the bank retains ownership of the underlying assets. </description>
+    <dc:title>Synthetic risk transfers</dc:title>
+    <dc:date>2026-02-17T13:51:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Synthetic risk transfers</cb:simpleTitle>
+      <cb:occurrenceDate>2026-02-17T13:51:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d607.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>17 Feb 2026</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/publ/bcbs_nl36.htm">
+    <title>Implementation of the Principles for effective risk data aggregation and risk reporting (BCBS 239 Principles)</title>
+    <link>https://www.bis.org/publ/bcbs_nl36.htm</link>
+    <description>Since its publication in 2013, BCBS 239 has become a foundational framework for data management and risk management practices in the banking sector. While its principles still apply, its implementation has evolved over the years, reflecting changes in the business, technology and risk landscape.</description>
+    <dc:title>Implementation of the Principles for effective risk data aggregation and risk reporting (BCBS 239 Principles)</dc:title>
+    <dc:date>2026-01-06T08:23:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Implementation of the Principles for effective risk data aggregation and risk reporting (BCBS 239 Principles)</cb:simpleTitle>
+      <cb:occurrenceDate>2026-01-06T08:23:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:publicationDate>06 Jan 2026</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Newsletter</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/publ/bcbs_nl35.htm">
+    <title>Supervisory newsletter on supervisory issues</title>
+    <link>https://www.bis.org/publ/bcbs_nl35.htm</link>
+    <description>Since the banking turmoil of 2023, the Committee has worked to strengthen supervisory effectiveness in relation to material risks that could result in financial losses, impacting the safety and soundness of financial institutions.</description>
+    <dc:title>Supervisory newsletter on supervisory issues</dc:title>
+    <dc:date>2025-12-15T09:00:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Supervisory newsletter on supervisory issues</cb:simpleTitle>
+      <cb:occurrenceDate>2025-12-15T09:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:publicationDate>15 Dec 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Newsletter</cb:publication>
+      <cb:issue>35</cb:issue>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d606.htm">
+    <title>Review of the implementation of margin requirements for non-centrally cleared derivatives</title>
+    <link>https://www.bis.org/bcbs/publ/d606.htm</link>
+    <description>The Basel Committee on Banking Supervision (BCBS) and the International Organization of Securities Commissions (IOSCO) today published a review of the implementation of the framework for margin requirements for non-centrally cleared derivatives. </description>
+    <dc:title>Review of the implementation of margin requirements for non-centrally cleared derivatives</dc:title>
+    <dc:date>2025-12-12T09:04:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Review of the implementation of margin requirements for non-centrally cleared derivatives</cb:simpleTitle>
+      <cb:occurrenceDate>2025-12-12T09:04:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d606.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>12 Dec 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d605.htm">
+    <title>Principles for the sound management of third-party risk</title>
+    <link>https://www.bis.org/bcbs/publ/d605.htm</link>
+    <description>As part of its 2025-2026 work programme, the Basel Committee is advancing various supervisory initiatives related to the digitalisation of finance. </description>
+    <dc:title>Principles for the sound management of third-party risk</dc:title>
+    <dc:date>2025-12-10T14:33:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Principles for the sound management of third-party risk</cb:simpleTitle>
+      <cb:occurrenceDate>2025-12-10T14:33:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d605.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>10 Dec 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d604.htm">
+    <title>Machine-readable Pillar 3 disclosure</title>
+    <link>https://www.bis.org/bcbs/publ/d604.htm</link>
+    <description>The Basel Committee on Banking Supervision has issued a consultation on Machine-readable Pillar 3 disclosure. The consultation proposes to make the data disclosed by banks (so-called Pillar 3 disclosures) available in a machine-readable format. </description>
+    <dc:title>Machine-readable Pillar 3 disclosure</dc:title>
+    <dc:date>2025-12-05T15:26:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Machine-readable Pillar 3 disclosure</cb:simpleTitle>
+      <cb:occurrenceDate>2025-12-05T15:26:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d604.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>05 Dec 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d603.htm">
+    <title>Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's large exposures framework &amp;#8211; the United Kingdom</title>
+    <link>https://www.bis.org/bcbs/publ/d603.htm</link>
+    <description>This report describes the Committee's assessment of the implementation of the Basel Committee's large exposures framework (LEX) in the UK. The UK LEX regulations have been assessed as largely compliant.</description>
+    <dc:title>Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's large exposures framework &amp;#8211; the United Kingdom</dc:title>
+    <dc:date>2025-12-03T09:04:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's large exposures framework &amp;#8211; the United Kingdom</cb:simpleTitle>
+      <cb:occurrenceDate>2025-12-03T09:04:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d603.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>03 Dec 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d602.htm">
+    <title>Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's Net Stable Funding Ratio standard &amp;#8211; the United Kingdom</title>
+    <link>https://www.bis.org/bcbs/publ/d602.htm</link>
+    <description>This report describes the Committee's assessment of the implementation of the Basel Committee's Net Stable Funding Ratio (NSFR) standard in the UK. The UK NSFR regulations have been assessed as largely compliant.</description>
+    <dc:title>Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's Net Stable Funding Ratio standard &amp;#8211; the United Kingdom</dc:title>
+    <dc:date>2025-12-03T09:02:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's Net Stable Funding Ratio standard &amp;#8211; the United Kingdom</cb:simpleTitle>
+      <cb:occurrenceDate>2025-12-03T09:02:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d602.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>03 Dec 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d601.htm">
+    <title>Regulatory Consistency Assessment Programme (RCAP) - Handbook for jurisdictional assessments</title>
+    <link>https://www.bis.org/bcbs/publ/d601.htm</link>
+    <description>This revised version of the Handbook includes specific guidance for the assessments of the Basel III revisions to risk weighted assets and the leverage ratio framework.</description>
+    <dc:title>Regulatory Consistency Assessment Programme (RCAP) - Handbook for jurisdictional assessments</dc:title>
+    <dc:date>2025-12-03T09:00:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Regulatory Consistency Assessment Programme (RCAP) - Handbook for jurisdictional assessments</cb:simpleTitle>
+      <cb:occurrenceDate>2025-12-03T09:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d601.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>03 Dec 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d600.htm">
+    <title>Technical Amendment - Hedging of counterparty credit risk exposures</title>
+    <link>https://www.bis.org/bcbs/publ/d600.htm</link>
+    <description>This document sets out a technical amendment to the Basel Framework. The amendment relates to the circumstance where a bank uses a guarantee or credit derivative to hedge the counterparty credit risk (CCR) of a derivative exposure subject to the standardised approach to counterparty credit risk or the internal models method.</description>
+    <dc:title>Technical Amendment - Hedging of counterparty credit risk exposures</dc:title>
+    <dc:date>2025-10-28T09:32:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Technical Amendment - Hedging of counterparty credit risk exposures</cb:simpleTitle>
+      <cb:occurrenceDate>2025-10-28T09:32:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d600.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>28 Oct 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d599.htm">
+    <title>Basel III monitoring report</title>
+    <link>https://www.bis.org/bcbs/publ/d599.htm</link>
+    <description>Basel III risk-based capital ratios increase while leverage ratio and Net Stable Funding Ratio remain stable for large internationally active banks.</description>
+    <dc:title>Basel III monitoring report</dc:title>
+    <dc:date>2025-10-23T09:00:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Basel III monitoring report</cb:simpleTitle>
+      <cb:keyword>qis</cb:keyword>
+      <cb:keyword>quantitative impact study</cb:keyword>
+      <cb:keyword>basel iii</cb:keyword>
+      <cb:occurrenceDate>2025-10-23T09:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d599.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>23 Oct 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+      <cb:issue>599</cb:issue>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/wp46.htm">
+    <title>Bank capital and balance sheet management during times of distress: international evidence</title>
+    <link>https://www.bis.org/bcbs/publ/wp46.htm</link>
+    <description>This paper studies how banks manage their equity capital in the short run, particularly during periods of distress, based on Basel III monitoring data. The findings challenge the conventional assumption that bank capital is largely exogenous in the short run, meaning that banks cannot adjust their capital level in a period in response to distress, capital targets and/or growth opportunities in the same period. In contrast, the authors' findings highlight the active forward-looking role of bank management in adjusting capital levels to meet these challenges, even in the short run. Hence, existing studies that treat bank capital as fixed in the short run tend to underestimate the ability of banks to adjust to changes in their operating environment such as changes to regulatory requirements or bank-specific distress.</description>
+    <dc:title>Bank capital and balance sheet management during times of distress: international evidence</dc:title>
+    <dc:date>2025-07-30T12:47:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Bank capital and balance sheet management during times of distress: international evidence</cb:simpleTitle>
+      <cb:occurrenceDate>2025-07-30T12:47:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/wp46.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>30 Jul 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Working Papers</cb:publication>
+      <cb:issue>46</cb:issue>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/wp45.htm">
+    <title>Lessons on supervisory effectiveness - a literature review</title>
+    <link>https://www.bis.org/bcbs/publ/wp45.htm</link>
+    <description>This literature review aims to support the work of the Basel Committee on Banking Supervision by providing insights from academic and policy work (including policy notes and speeches). It also draws on lessons from observed bank failures and supervisory practices.</description>
+    <dc:title>Lessons on supervisory effectiveness - a literature review</dc:title>
+    <dc:date>2025-07-17T12:00:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Lessons on supervisory effectiveness - a literature review</cb:simpleTitle>
+      <cb:occurrenceDate>2025-07-17T12:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/wp45.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>17 Jul 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Working Papers</cb:publication>
+      <cb:issue>45</cb:issue>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d598.htm">
+    <title>Banks' interconnections with non-bank financial intermediaries</title>
+    <link>https://www.bis.org/bcbs/publ/d598.htm</link>
+    <description>The Basel Committee on Banking Supervision horizon scanning report on banks' interconnections with non-bank financial intermediaries (NBFIs).</description>
+    <dc:title>Banks' interconnections with non-bank financial intermediaries</dc:title>
+    <dc:date>2025-07-10T09:00:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Banks' interconnections with non-bank financial intermediaries</cb:simpleTitle>
+      <cb:occurrenceDate>2025-07-10T09:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d598.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>10 Jul 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d597.htm">
+    <title>A framework for the  voluntary disclosure of climate-related financial  risks</title>
+    <link>https://www.bis.org/bcbs/publ/d597.htm</link>
+    <description>This voluntary framework for the disclosure of climate-related financial risks includes both qualitative and quantitative information. The Committee has agreed this framework will be voluntary in nature, with jurisdictions to consider whether to implement it domestically.</description>
+    <dc:title>A framework for the  voluntary disclosure of climate-related financial  risks</dc:title>
+    <dc:date>2025-06-13T13:50:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>A framework for the  voluntary disclosure of climate-related financial  risks</cb:simpleTitle>
+      <cb:occurrenceDate>2025-06-13T13:50:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d597.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>13 Jun 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d596.htm">
+    <title>Various technical amendments and frequently asked questions</title>
+    <link>https://www.bis.org/bcbs/publ/d596.htm</link>
+    <description>Technical amendment issued for comment by 25 July 2025, June 2025</description>
+    <dc:title>Various technical amendments and frequently asked questions</dc:title>
+    <dc:date>2025-06-10T09:00:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Various technical amendments and frequently asked questions</cb:simpleTitle>
+      <cb:occurrenceDate>2025-06-10T09:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d596.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>10 Jun 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d595.htm">
+    <title>Principles for the Management of Credit Risk</title>
+    <link>https://www.bis.org/bcbs/publ/d595.htm</link>
+    <description/>
+    <dc:title>Principles for the Management of Credit Risk</dc:title>
+    <dc:date>2025-04-30T08:33:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Principles for the Management of Credit Risk</cb:simpleTitle>
+      <cb:occurrenceDate>2025-04-30T08:33:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d595.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>30 Apr 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d594.htm">
+    <title>Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's large exposures framework &amp;#8211; Türkiye</title>
+    <link>https://www.bis.org/bcbs/publ/d594.htm</link>
+    <description>This report describes the Committee's assessment of the implementation of the Basel Committee's large exposures framework (LEX) in Türkiye. The Turkish LEX regulations have been assessed as compliant.</description>
+    <dc:title>Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's large exposures framework &amp;#8211; Türkiye</dc:title>
+    <dc:date>2025-04-02T09:00:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's large exposures framework &amp;#8211; Türkiye</cb:simpleTitle>
+      <cb:occurrenceDate>2025-04-02T09:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d594.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>02 Apr 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d593.htm">
+    <title>Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's Net Stable Funding Ratio standard &amp;#8211; Türkiye</title>
+    <link>https://www.bis.org/bcbs/publ/d593.htm</link>
+    <description>This report presents the findings of an RCAP Assessment Team (Assessment Team) on the adoption of the Basel Net Stable Funding Ratio (NSFR) standard in Türkiye as of 15 January 2025.</description>
+    <dc:title>Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's Net Stable Funding Ratio standard &amp;#8211; Türkiye</dc:title>
+    <dc:date>2025-04-02T09:00:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's Net Stable Funding Ratio standard &amp;#8211; Türkiye</cb:simpleTitle>
+      <cb:occurrenceDate>2025-04-02T09:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d593.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>02 Apr 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+  <item rdf:about="https://www.bis.org/bcbs/publ/d592.htm">
+    <title>Basel III monitoring report</title>
+    <link>https://www.bis.org/bcbs/publ/d592.htm</link>
+    <description>Basel III risk-based capital ratios increase while leverage ratio and NSFR remain stable for large internationally active banks</description>
+    <dc:title>Basel III monitoring report</dc:title>
+    <dc:date>2025-03-26T12:00:00Z</dc:date>
+    <cb:paper>
+      <cb:simpleTitle>Basel III monitoring report</cb:simpleTitle>
+      <cb:keyword>qis</cb:keyword>
+      <cb:keyword>quantitative impact study</cb:keyword>
+      <cb:keyword>basel III</cb:keyword>
+      <cb:occurrenceDate>2025-03-26T12:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>https://www.bis.org/bcbs/publ/d592.pdf</cb:link>
+        <cb:description/>
+      </cb:resource>
+      <cb:publicationDate>26 Mar 2025</cb:publicationDate>
+      <cb:publication>Bank for International Settlements: Papers</cb:publication>
+    </cb:paper>
+  </item>
+</rdf:RDF>

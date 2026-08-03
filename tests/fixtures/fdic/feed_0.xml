@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://www.fdic.gov/">
+  <channel>
+    <title>FDIC.gov</title>
+    <link>https://www.fdic.gov/</link>
+    <description/>
+    <language>en</language>
+    <image>
+      <url>https://www.fdic.gov/modules/custom/fdic_custom/assets/images/fdic-wordmark.png</url>
+      <title>FDIC.gov</title>
+      <link>https://www.fdic.gov/</link>
+    </image>
+    <item>
+      <title>July 31, 2026 – Notational Vote</title>
+      <link>https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-07-31-3notation</link>
+      <description>July 31, 2026 - Notational Vote</description>
+      <pubDate>Fri, 31 Jul 2026 10:30:08 -0400</pubDate>
+      <guid isPermaLink="false">131876</guid>
+    </item>
+    <item>
+      <title>June 25, 2026 – Closed Meeting</title>
+      <link>https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-06-25-2closed</link>
+      <description>The FDIC Board of Directors met in closed session on June 25, at 2:24 p.m., ET.</description>
+      <pubDate>Mon, 29 Jun 2026 09:03:22 -0400</pubDate>
+      <guid isPermaLink="false">131441</guid>
+    </item>
+    <item>
+      <title>June 25, 2026 – Open Meeting</title>
+      <link>https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-06-25-1open</link>
+      <description>The FDIC Board of Directors will meet in open session on June 25, at 2:00 p.m., ET.</description>
+      <pubDate>Mon, 22 Jun 2026 09:37:18 -0400</pubDate>
+      <guid isPermaLink="false">131301</guid>
+    </item>
+    <item>
+      <title>June 25, 2026 — Sunshine Act Meeting Notice</title>
+      <link>https://www.fdic.gov/news/board-matters/2026/june-25-2026-sunshine-act-meeting-notice</link>
+      <description>Public notice of FDIC meetings; including the time, place, and agenda as required by the "Government in the Sunshine Act" (5 U.S.C. § 552b).</description>
+      <pubDate>Thu, 18 Jun 2026 18:06:52 -0400</pubDate>
+      <guid isPermaLink="false">131296</guid>
+    </item>
+    <item>
+      <title>May 20, 2026 – Notational Vote</title>
+      <link>https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-05-20-3notation</link>
+      <description>May 20, 2026 - Notational Vote</description>
+      <pubDate>Fri, 22 May 2026 11:09:56 -0400</pubDate>
+      <guid isPermaLink="false">131061</guid>
+    </item>
+    <item>
+      <title>May 13, 2026 – Notational Vote</title>
+      <link>https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-05-13-3notation</link>
+      <description>May 13, 2026 - FDIC Board Meeting</description>
+      <pubDate>Wed, 20 May 2026 16:53:47 -0400</pubDate>
+      <guid isPermaLink="false">131041</guid>
+    </item>
+    <item>
+      <title>April 23, 2026 – Notational Vote</title>
+      <link>https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-04-23-3notation</link>
+      <description>April 23, 2026 - FDIC Board Meeting</description>
+      <pubDate>Thu, 23 Apr 2026 15:21:05 -0400</pubDate>
+      <guid isPermaLink="false">130796</guid>
+    </item>
+    <item>
+      <title>April 7, 2026 — Sunshine Act Meeting Notice</title>
+      <link>https://www.fdic.gov/news/board-matters/2026/april-7-2026-sunshine-act-meeting-notice</link>
+      <description>Public notice of FDIC meetings; including the time, place, and agenda as required by the "Government in the Sunshine Act" (5 U.S.C. § 552b).</description>
+      <pubDate>Mon, 30 Mar 2026 15:17:07 -0400</pubDate>
+      <guid isPermaLink="false">130511</guid>
+    </item>
+    <item>
+      <title>April 7, 2026 – Open Meeting</title>
+      <link>https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-04-07-1open</link>
+      <description>The FDIC Board of Directors met in open session on April 7, at 1:00 p.m., ET.</description>
+      <pubDate>Mon, 30 Mar 2026 15:11:15 -0400</pubDate>
+      <guid isPermaLink="false">130506</guid>
+    </item>
+    <item>
+      <title>March 19, 2026 – Closed Meeting</title>
+      <link>https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-03-19-2closed</link>
+      <description>The FDIC Board of Directors met in open session on March 19, at 10:15 a.m., ET.</description>
+      <pubDate>Mon, 23 Mar 2026 10:09:48 -0400</pubDate>
+      <guid isPermaLink="false">129946</guid>
+    </item>
+  </channel>
+</rss>

@@ -133,6 +133,48 @@ def create_admin_router() -> APIRouter:
         session = runtime.get_session()
         return queries.reg_whats_new(session, days=days)
 
+    # ── v2 UI data endpoints ────────────────────────────────────────────────
+
+    @router.get("/tree")
+    def tree(days: int = 7):
+        from sajha.regagg import queries_ui
+        return queries_ui.coverage_tree(runtime.get_session(), days=days)
+
+    @router.get("/browse/{regulator_id}")
+    def browse(regulator_id: str, kind: Optional[str] = None,
+               doc_type: Optional[str] = None, status: Optional[str] = None,
+               q: Optional[str] = None, limit: int = 50, offset: int = 0):
+        from sajha.regagg import queries_ui
+        return queries_ui.browse(runtime.get_session(), regulator_id, kind=kind,
+                                 doc_type=doc_type, status=status, q=q,
+                                 limit=min(limit, 200), offset=offset)
+
+    @router.get("/changes")
+    def changes(days: int = 7):
+        from sajha.regagg import queries_ui
+        return queries_ui.changes(runtime.get_session(), days=days)
+
+    @router.get("/documents/{regulator_id}/{doc_id}/diff")
+    def doc_diff(regulator_id: str, doc_id: str):
+        from sajha.regagg import queries_ui
+        return queries_ui.version_diff(runtime.get_session(), runtime.get_storage(),
+                                       regulator_id, doc_id)
+
+    @router.get("/documents/{regulator_id}/{doc_id}/content")
+    def doc_content(regulator_id: str, doc_id: str, mode: str = "summary"):
+        return queries.reg_read(runtime.get_session(), runtime.get_storage(),
+                                doc_id, mode=mode, regulator_id=regulator_id)
+
+    @router.get("/runs-overview")   # NB: not /runs/{run_id} — avoids path capture
+    def runs_over():
+        from sajha.regagg import queries_ui
+        return queries_ui.runs_overview(runtime.get_session())
+
+    @router.get("/inventory/{regulator_id}")
+    def inventory(regulator_id: str):
+        from sajha.regagg import queries_ui
+        return queries_ui.inventory(runtime.get_session(), regulator_id)
+
     @router.get("/integrity")
     def integrity():
         session = runtime.get_session()
@@ -140,6 +182,12 @@ def create_admin_router() -> APIRouter:
 
     @router.get("/ui", response_class=HTMLResponse)
     def ui():
+        """v2 operator/analyst dashboard (file-based so it's editable without
+        touching Python). Falls back to the embedded v1 page if missing."""
+        from pathlib import Path
+        f = Path(__file__).parent / "ui_dashboard.html"
+        if f.exists():
+            return f.read_text(encoding="utf-8")
         return DASHBOARD_HTML
 
     return router

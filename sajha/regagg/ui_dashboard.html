@@ -1,0 +1,465 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Regulatory Intelligence — Coverage &amp; Collection</title>
+<style>
+  :root{
+    --bg:#f4f6f9; --surface:#ffffff; --surface2:#fafbfd;
+    --ink:#16202e; --ink2:#4a5568; --muted:#8291a5; --line:#e3e8ef; --line2:#eef1f6;
+    --blue:#0f5aa9; --blue-soft:#e8f0fa; --green:#177a4c; --green-soft:#e7f4ed;
+    --amber:#9a6a00; --amber-soft:#fdf3dd; --red:#b3261e; --red-soft:#fceceb;
+    --grey-soft:#eef0f4; --shadow:0 1px 2px rgba(22,32,46,.05),0 4px 16px rgba(22,32,46,.06);
+    --radius:10px;
+  }
+  @media (prefers-color-scheme:dark){:root{
+    --bg:#0f1218; --surface:#171b22; --surface2:#1c212a; --ink:#e7ebf2; --ink2:#aab3c0;
+    --muted:#7e8896; --line:#262c36; --line2:#20252e; --blue:#5b8def; --blue-soft:#1c2a42;
+    --green:#4cc38a; --green-soft:#15302355; --amber:#e0b34d; --amber-soft:#3a300f55;
+    --red:#e5736b; --red-soft:#3d1b1955; --grey-soft:#242a33;
+    --shadow:0 1px 2px rgba(0,0,0,.3)}}
+  *{box-sizing:border-box;margin:0}
+  body{font:13.5px/1.5 -apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
+       background:var(--bg);color:var(--ink)}
+  button{font:inherit;cursor:pointer;border:none;background:none;color:inherit}
+  a{color:var(--blue);text-decoration:none}
+  .top{background:var(--surface);border-bottom:1px solid var(--line);padding:0 24px;height:56px;
+       display:flex;align-items:center;gap:16px;position:sticky;top:0;z-index:30}
+  .brand{display:flex;align-items:center;gap:9px;font-weight:650;font-size:14.5px}
+  .logo{width:25px;height:25px;border-radius:7px;background:var(--blue);color:#fff;
+       display:grid;place-items:center;font-size:12px;font-weight:700}
+  .nav{display:flex;gap:4px}
+  .nav button{padding:6px 13px;border-radius:8px;font-weight:550;color:var(--ink2);font-size:13px}
+  .nav .on{background:var(--blue-soft);color:var(--blue)}
+  .spacer{flex:1}
+  .btn{border:1px solid var(--line);border-radius:8px;padding:6px 13px;background:var(--surface);
+       font-weight:550;display:inline-flex;align-items:center;gap:6px;font-size:12.5px}
+  .btn:hover{border-color:var(--blue);color:var(--blue)}
+  .btn.primary{background:var(--blue);color:#fff;border-color:var(--blue)}
+  .btn.sm{padding:3px 9px;font-size:11.5px;border-radius:7px}
+  select{font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--line);
+       border-radius:8px;padding:5px 9px}
+  .page{max-width:1240px;margin:0 auto;padding:18px 24px 80px}
+  .view{display:none}.view.on{display:block}
+
+  .tiles{display:grid;grid-template-columns:repeat(5,1fr);gap:11px;margin-bottom:16px}
+  .tile{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+       padding:11px 14px;box-shadow:var(--shadow)}
+  .tile b{font-size:20px;font-weight:680;display:block;letter-spacing:-.02em}
+  .tile span{color:var(--muted);font-size:11.5px}
+  .up{color:var(--green)}.warn{color:var(--amber)}.bad{color:var(--red)}
+
+  .pill{display:inline-flex;align-items:center;gap:4px;font-size:11px;font-weight:600;
+       border-radius:6px;padding:2px 8px;white-space:nowrap}
+  .pill.ok{background:var(--green-soft);color:var(--green)}
+  .pill.ok_empty{background:var(--amber-soft);color:var(--amber)}
+  .pill.stale,.pill.partial{background:var(--amber-soft);color:var(--amber)}
+  .pill.failed,.pill.fail{background:var(--red-soft);color:var(--red)}
+  .pill.never_run,.pill.block{background:var(--grey-soft);color:var(--ink2)}
+  .pill.running{background:var(--blue-soft);color:var(--blue)}
+
+  .region{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+       box-shadow:var(--shadow);margin-bottom:11px;overflow:hidden}
+  .rhead{display:flex;align-items:center;gap:12px;padding:13px 16px;cursor:pointer;user-select:none}
+  .rhead:hover{background:var(--surface2)}
+  .caret{width:16px;color:var(--muted);transition:transform .15s;display:inline-block}
+  .open>.rhead .caret,.inst.open .ihead .caret,.srct.open .shead .caret{transform:rotate(90deg)}
+  .rname{font-weight:650;font-size:13.5px;min-width:130px}
+  .rollup{display:flex;gap:18px;color:var(--ink2);font-size:12px;flex-wrap:wrap}
+  .rollup b{color:var(--ink);font-weight:600}
+  .rbody{display:none;border-top:1px solid var(--line2)}
+  .open>.rbody{display:block}
+  .inst{border-bottom:1px solid var(--line2)}
+  .inst:last-child{border-bottom:none}
+  .ihead{display:grid;grid-template-columns:22px minmax(170px,1.3fr) 1fr 1fr 130px 110px 70px;
+       gap:8px;align-items:center;padding:10px 16px;cursor:pointer;font-size:12.5px}
+  .ihead:hover{background:var(--surface2)}
+  .iname{font-weight:600}
+  .iname .full{display:block;color:var(--muted);font-weight:400;font-size:11px}
+  .cnum{color:var(--ink2);font-variant-numeric:tabular-nums}
+  .cnum b{color:var(--ink)}
+  .cnum .new{color:var(--green);font-weight:600}
+  .ibody{display:none;background:var(--surface2);padding:2px 16px 10px 46px}
+  .inst.open .ibody{display:block}
+  .srct{border:1px solid var(--line);border-radius:8px;background:var(--surface);
+       margin-top:8px;overflow:hidden}
+  .shead{display:flex;align-items:center;gap:10px;padding:8px 12px;cursor:pointer;font-size:12.5px}
+  .shead:hover{background:var(--surface2)}
+  .sico{width:24px;height:24px;border-radius:6px;display:grid;place-items:center;font-size:12px}
+  .sico.web{background:var(--blue-soft)}.sico.pdf{background:var(--red-soft)}
+  .smeta{color:var(--muted);font-size:11.5px}
+  .sbody{display:none;border-top:1px solid var(--line2);padding:2px 12px 8px}
+  .srct.open .sbody{display:block}
+  .doc{display:flex;align-items:center;gap:8px;padding:6px 4px;border-bottom:1px solid var(--line2);
+       cursor:pointer;border-radius:6px;font-size:12px}
+  .doc:last-child{border-bottom:none}
+  .doc:hover{background:var(--blue-soft)}
+  .dt{font-weight:550;color:var(--blue);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:58%}
+  .tag{font-size:10px;border:1px solid var(--line);border-radius:5px;padding:1px 6px;color:var(--ink2);white-space:nowrap}
+  .tag.v{background:var(--amber-soft);border-color:transparent;color:var(--amber);font-weight:600}
+  .tag.sup{background:var(--red-soft);border-color:transparent;color:var(--red);font-weight:600}
+  .tag.pdf{background:var(--red-soft);border-color:transparent;color:var(--red)}
+  .dmeta{color:var(--muted);font-size:11px;margin-left:auto;white-space:nowrap}
+  .more{color:var(--blue);font-size:11.5px;padding:6px 4px;font-weight:550;cursor:pointer}
+
+  /* changes */
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+       box-shadow:var(--shadow);padding:12px 15px;margin-bottom:9px;display:grid;
+       grid-template-columns:104px 1fr auto;gap:13px;align-items:start}
+  .badge{font-size:10px;font-weight:700;border-radius:6px;padding:3px 7px;text-align:center;letter-spacing:.03em}
+  .badge.new{background:var(--green-soft);color:var(--green)}
+  .badge.revised{background:var(--amber-soft);color:var(--amber)}
+  .badge.superseded{background:var(--red-soft);color:var(--red)}
+  .badge.deadline{background:var(--blue-soft);color:var(--blue)}
+  .breg{font-size:10.5px;color:var(--muted);margin-top:4px;text-align:center}
+  .card h4{font-size:13px;font-weight:600}
+  .card p{color:var(--ink2);font-size:12px;margin-top:2px}
+  .day{margin:16px 0 8px;font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;
+       color:var(--muted);font-weight:650}
+
+  /* runs */
+  .live{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+       box-shadow:var(--shadow);padding:13px 16px;margin-bottom:14px}
+  .pulse{width:8px;height:8px;border-radius:50%;background:var(--blue);display:inline-block;
+       animation:pu 1.4s infinite;margin-right:8px}
+  @keyframes pu{0%,100%{opacity:1}50%{opacity:.35}}
+  table{border-collapse:collapse;width:100%;background:var(--surface);border:1px solid var(--line);
+       border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow)}
+  th{font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);
+       text-align:left;padding:8px 12px;background:var(--surface2);border-bottom:1px solid var(--line2)}
+  td{padding:7px 12px;border-bottom:1px solid var(--line2);font-size:12px;color:var(--ink2)}
+  tr:last-child td{border-bottom:none}
+  td b{color:var(--ink)}
+  .num{font-variant-numeric:tabular-nums;text-align:right}
+  th.num{text-align:right}
+  h3.sec{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin:16px 0 8px}
+
+  /* drawer */
+  .scrim{position:fixed;inset:0;background:rgba(10,14,20,.45);z-index:40;display:none}
+  .scrim.show{display:block}
+  .drawer{position:fixed;top:0;right:-760px;width:min(720px,96vw);height:100%;z-index:50;
+       background:var(--surface);box-shadow:-12px 0 40px rgba(0,0,0,.25);
+       transition:right .2s ease;display:flex;flex-direction:column}
+  .drawer.show{right:0}
+  .drhead{padding:16px 20px 0;border-bottom:1px solid var(--line);position:relative}
+  .drtitle{font-size:15px;font-weight:650;margin-bottom:3px;padding-right:36px}
+  .drsub{color:var(--muted);font-size:11.5px;margin-bottom:10px}
+  .drclose{position:absolute;top:12px;right:14px;font-size:18px;color:var(--muted);padding:6px}
+  .tabs{display:flex;gap:2px}
+  .tab{padding:7px 13px;font-weight:550;font-size:12px;color:var(--ink2);
+       border-bottom:2px solid transparent}
+  .tab.on{color:var(--blue);border-color:var(--blue)}
+  .drbody{flex:1;overflow:auto;padding:16px 20px}
+  .drbody pre{background:var(--surface2);border:1px solid var(--line2);border-radius:8px;
+       padding:12px;font-size:11.5px;overflow:auto;color:var(--ink2);white-space:pre-wrap;
+       font-family:ui-monospace,Menlo,monospace}
+  .kv{display:grid;grid-template-columns:130px 1fr;gap:4px 12px;font-size:12px}
+  .kv .k{color:var(--muted)}
+  .kv .v{color:var(--ink);word-break:break-all}
+  .dl{color:var(--green)}.rm{color:var(--red)}
+  .toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%) translateY(80px);
+       background:var(--ink);color:var(--bg);border-radius:10px;padding:9px 16px;font-size:12.5px;
+       z-index:70;transition:transform .25s}
+  .toast.show{transform:translateX(-50%) translateY(0)}
+  .empty{color:var(--muted);font-size:12px;padding:10px 4px}
+  @media (max-width:900px){.tiles{grid-template-columns:repeat(2,1fr)}
+    .ihead{grid-template-columns:20px 1fr 90px 60px}.hide-sm{display:none}}
+</style>
+</head>
+<body>
+<div class="top">
+  <div class="brand"><div class="logo">R</div>Regulatory Intelligence</div>
+  <div class="nav">
+    <button class="on" id="nCov" onclick="show('cov')">Coverage</button>
+    <button id="nChg" onclick="show('chg')">Changes</button>
+    <button id="nRun" onclick="show('run')">Collection runs</button>
+  </div>
+  <div class="spacer"></div>
+  <label style="color:var(--muted);font-size:12px">Window
+    <select id="days" onchange="loadAll()"><option>7</option><option>14</option><option>30</option></select>
+  </label>
+  <span class="pill ok" id="integrity">…</span>
+  <button class="btn primary" onclick="runScope('all')">▶ Run all</button>
+</div>
+
+<div class="page">
+  <div class="view on" id="v-cov">
+    <div class="tiles" id="tiles"></div>
+    <div id="tree" class="empty">loading…</div>
+  </div>
+
+  <div class="view" id="v-chg">
+    <div class="tiles" id="chgTiles"></div>
+    <div id="chgFeed" class="empty">loading…</div>
+  </div>
+
+  <div class="view" id="v-run">
+    <div id="liveRuns"></div>
+    <h3 class="sec">Recent runs</h3>
+    <div id="recentRuns" class="empty">loading…</div>
+    <h3 class="sec">Daily delta</h3>
+    <div id="delta" class="empty">loading…</div>
+  </div>
+</div>
+
+<div class="scrim" id="scrim" onclick="closeDrawer()"></div>
+<div class="drawer" id="drawer">
+  <div class="drhead">
+    <button class="drclose" onclick="closeDrawer()">✕</button>
+    <div class="drtitle" id="drTitle"></div>
+    <div class="drsub" id="drSub"></div>
+    <div class="tabs" id="drTabs"></div>
+  </div>
+  <div class="drbody" id="drBody"></div>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+const API="/api/regagg";
+const $=id=>document.getElementById(id);
+const esc=s=>(s??"").toString().replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=n=>(n??0).toLocaleString();
+async function j(u){const r=await fetch(API+u);if(!r.ok)throw new Error(u+" -> "+r.status);return r.json();}
+let _t;function toast(m){const t=$("toast");t.textContent=m;t.classList.add("show");
+  clearTimeout(_t);_t=setTimeout(()=>t.classList.remove("show"),2600)}
+function show(which){
+  for(const [v,n] of [["cov","nCov"],["chg","nChg"],["run","nRun"]]){
+    $("v-"+v).classList.toggle("on",v===which);$(n).classList.toggle("on",v===which);}
+}
+
+const FULLNAMES={};   // regulator_id -> name (filled by tree)
+
+/* ── coverage ─────────────────────────────────────────────── */
+async function loadTree(){
+  const days=$("days").value;
+  const t=await j(`/tree?days=${days}`);
+  const tot=t.totals;
+  $("tiles").innerHTML=
+    tile(fmt(tot.regulators),"regulators monitored")+
+    tile(fmt(tot.documents),"documents in corpus")+
+    tile(`${fmt(tot.web)} / ${fmt(tot.pdf)}`,"web pages / policy PDFs")+
+    tile(`+${fmt(tot.new)}`,`new in ${days}d`,"up")+
+    tile(fmt(t.regions.reduce((a,r)=>a+r.rollup.attention,0)),"need attention","warn");
+  $("tree").className="";
+  $("tree").innerHTML=t.regions.map((r,i)=>{
+    const ru=r.rollup;
+    return `<div class="region" id="rg${i}">
+      <div class="rhead" onclick="tgl('rg${i}')">
+        <span class="caret">▶</span><span class="rname">${esc(r.region)}</span>
+        <span class="rollup"><span><b>${ru.institutions}</b> institutions</span>
+          <span><b>${fmt(ru.web)}</b> web</span><span><b>${fmt(ru.pdf)}</b> policy PDFs</span>
+          <span class="up"><b>+${fmt(ru.new)}</b> in ${days}d</span></span>
+        <span style="margin-left:auto;display:flex;gap:10px;align-items:center">
+          ${ru.attention?`<span class="pill stale">⏱ ${ru.attention} need attention</span>`
+                        :`<span class="pill ok">✓ all fresh</span>`}
+        </span></div>
+      <div class="rbody">${r.institutions.map((x,k)=>inst(x,i,k)).join("")}</div></div>`;
+  }).join("");
+}
+function tile(v,l,cls=""){return `<div class="tile"><b class="${cls}">${v}</b><span>${l}</span></div>`}
+function inst(x,ri,ii){
+  FULLNAMES[x.regulator_id]=x.name;
+  const id=`in${ri}_${ii}`;
+  const lr=x.last_run?new Date(x.last_run).toLocaleString(undefined,{month:"short",day:"numeric",hour:"2-digit",minute:"2-digit"}):"never";
+  const stPill={ok:'<span class="pill ok">✓ fresh</span>',
+    ok_empty:'<span class="pill ok_empty">✓ 0 new</span>',
+    stale:`<span class="pill stale">⏱ stale ${x.stale_days}d</span>`,
+    failed:'<span class="pill failed">✗ failed</span>',
+    running:'<span class="pill running">▶ running</span>',
+    never_run:'<span class="pill never_run">— never run</span>'}[x.status]||x.status;
+  return `<div class="inst" id="${id}">
+    <div class="ihead" onclick="tglInst('${id}','${x.regulator_id}')">
+      <span class="caret">▶</span>
+      <span class="iname">${x.regulator_id}<span class="full">${esc(x.name)}</span></span>
+      <span class="cnum hide-sm">Web <b>${fmt(x.web.docs)}</b>${x.web.new?` · <span class="new">+${x.web.new}</span>`:""}</span>
+      <span class="cnum hide-sm">PDF <b>${fmt(x.pdf.docs)}</b>${x.pdf.new?` · <span class="new">+${x.pdf.new}</span>`:""}</span>
+      <span class="cnum hide-sm" style="font-size:11.5px">${lr}</span>
+      <span>${stPill}</span>
+      <span style="text-align:right"><button class="btn sm" onclick="event.stopPropagation();runScope('${x.regulator_id}')">▶ Run</button></span>
+    </div>
+    <div class="ibody" id="${id}_body"><div class="empty">loading…</div></div></div>`;
+}
+function tgl(id){$(id).classList.toggle("open")}
+async function tglInst(id,reg){
+  const el=$(id);el.classList.toggle("open");
+  if(!el.classList.contains("open")||el.dataset.loaded)return;
+  el.dataset.loaded=1;
+  const body=$(id+"_body");
+  try{
+    const [web,pdf]=await Promise.all([
+      j(`/browse/${reg}?kind=web&limit=8`), j(`/browse/${reg}?kind=policy_pdf&limit=8`)]);
+    body.innerHTML=srct(reg,"web",web)+srct(reg,"pdf",pdf);
+  }catch(e){body.innerHTML=`<div class="empty">failed to load: ${esc(e.message)}</div>`}
+}
+function srct(reg,kind,data){
+  const isWeb=kind==="web";
+  const n=data.facets.source_kind[isWeb?"web":"policy_pdf"]||0;
+  const docs=data.documents;
+  const id=`st_${reg}_${kind}`;
+  return `<div class="srct open" id="${id}">
+    <div class="shead" onclick="tgl('${id}')">
+      <span class="caret">▶</span>
+      <span class="sico ${isWeb?"web":"pdf"}">${isWeb?"🌐":"📄"}</span>
+      <span style="font-weight:600">${isWeb?"Website content":"Policy & guidance documents"}</span>
+      <span class="smeta">${fmt(n)} ${isWeb?"pages":"PDFs → markdown"}</span></div>
+    <div class="sbody">
+      ${docs.length?docs.map(d=>docRow(reg,d)).join(""):`<div class="empty">none captured yet</div>`}
+      ${n>docs.length?`<div class="more" onclick="browseMore('${reg}','${isWeb?"web":"policy_pdf"}')">Browse all ${fmt(n)} →</div>`:""}
+    </div></div>`;
+}
+function docRow(reg,d){
+  return `<div class="doc" onclick='openDoc("${reg}","${d.doc_id}")'>
+    <span class="dt">${esc(d.title)}</span>
+    <span class="tag">${d.doc_type}</span>
+    ${d.version_n>1?`<span class="tag v">v${d.version_n}</span>`:""}
+    ${d.status==="superseded"?`<span class="tag sup">superseded</span>`:""}
+    ${d.source_kind==="policy_pdf"?`<span class="tag pdf">PDF</span>`:""}
+    <span class="dmeta">${d.published_date||""}</span></div>`;
+}
+async function browseMore(reg,kind){
+  const data=await j(`/browse/${reg}?kind=${kind}&limit=100`);
+  openPanel(`${FULLNAMES[reg]||reg} — ${kind==="web"?"website content":"policy documents"}`,
+    `${fmt(data.total)} documents total`,
+    [["List","list"]],
+    ()=>data.documents.map(d=>docRow(reg,d)).join("")||"<div class='empty'>none</div>");
+}
+
+/* ── changes ─────────────────────────────────────────────── */
+async function loadChanges(){
+  const days=$("days").value;
+  const c=await j(`/changes?days=${days}`);
+  $("chgTiles").innerHTML=
+    tile(fmt(c.changes.length),"changes in window")+
+    tile(fmt(c.counts.new||0),"new documents","up")+
+    tile(fmt(c.counts.revised||0),"revised (archived prior)","warn")+
+    tile(fmt(c.counts.superseded||0),"superseded","bad")+
+    tile(fmt(c.counts.deadline||0),"deadlines ahead","warn");
+  const byDay={};
+  for(const ch of c.changes){(byDay[(ch.at||"").slice(0,10)] ||= []).push(ch)}
+  $("chgFeed").className="";
+  $("chgFeed").innerHTML=Object.entries(byDay).map(([day,items])=>
+    `<div class="day">${day}</div>`+items.map(chgCard).join("")).join("")
+    ||"<div class='empty'>no changes in this window</div>";
+}
+function chgCard(ch){
+  const d=ch.doc;
+  const badge={new:"NEW",revised:`REVISED v${d.version_n}`,superseded:"SUPERSEDED",
+               deadline:"DEADLINE"}[ch.kind]||ch.kind;
+  return `<div class="card">
+    <div><div class="badge ${ch.kind}">${badge}</div>
+      <div class="breg">${ch.regulator_id}</div></div>
+    <div><h4><a onclick='openDoc("${ch.regulator_id}","${d.doc_id}");return false' href="#">${esc(d.title)}</a></h4>
+      <p>${d.doc_type}${d.reference_number?` · ${esc(d.reference_number)}`:""}
+         ${d.published_date?` · published ${d.published_date}`:""}
+         ${d.comment_deadline?` · <b>comments due ${d.comment_deadline}</b>`:""}
+         ${d.source_kind==="policy_pdf"?" · PDF":""}</p></div>
+    <div style="display:flex;gap:6px">
+      ${ch.has_diff?`<button class="btn sm" onclick='openDiff("${ch.regulator_id}","${d.doc_id}")'>View diff</button>`:""}
+      <button class="btn sm" onclick='openDoc("${ch.regulator_id}","${d.doc_id}")'>Open</button></div></div>`;
+}
+
+/* ── runs ─────────────────────────────────────────────────── */
+let runTimer=null;
+async function loadRuns(){
+  const o=await j(`/runs-overview`);
+  const act=o.active;
+  $("liveRuns").innerHTML=act.length?act.map(r=>{
+    const pct=r.detected?Math.min(99,Math.round(100*(r.fetched||0)/r.detected)):5;
+    return `<div class="live"><span class="pulse"></span>
+      <b>${r.regulator_id}</b> · run in progress
+      <span style="color:var(--muted);font-size:12px"> ${r.trigger}${r.operator?` · ${esc(r.operator)}`:""} · started ${new Date(r.started_at).toLocaleTimeString()}</span>
+      <div style="height:7px;border-radius:5px;background:var(--line2);margin:8px 0 4px;overflow:hidden">
+        <i style="display:block;height:100%;width:${pct}%;background:var(--blue);border-radius:5px"></i></div>
+      <span style="color:var(--muted);font-size:11.5px">detected ${fmt(r.detected)} · fetched ${fmt(r.fetched)} · ingested ${fmt(r.ingested)} · errors ${r.errors}</span>
+    </div>`}).join("")
+    :`<div class="live" style="border-style:dashed"><span style="color:var(--muted)">No run active. Trigger one with ▶ Run all, or a per-regulator ▶ Run on the Coverage tab.</span></div>`;
+  $("recentRuns").className="";
+  $("recentRuns").innerHTML=`<table><tr><th>Regulator</th><th>Date</th><th>Trigger</th><th>Status</th>
+    <th class="num">Detected</th><th class="num">Fetched</th><th class="num">Ingested</th>
+    <th class="num">Archived</th><th class="num">Errors</th></tr>`+
+    o.recent.map(r=>`<tr><td><b>${r.regulator_id}</b></td><td>${r.logical_date}</td>
+      <td>${r.trigger}${r.operator?` · ${esc(r.operator)}`:""}</td>
+      <td><span class="pill ${r.status==="success"?"ok":r.status==="success_empty"?"ok_empty":r.status==="failed"?"failed":"running"}">${r.status}</span></td>
+      <td class="num">${fmt(r.detected)}</td><td class="num">${fmt(r.fetched)}</td>
+      <td class="num"><b>${fmt(r.ingested)}</b></td><td class="num">${fmt(r.archived)}</td>
+      <td class="num">${r.errors||0}</td></tr>`).join("")+`</table>`;
+  $("delta").className="";
+  $("delta").innerHTML=`<table><tr><th>Date</th><th class="num">Runs</th>
+    <th class="num">New docs</th><th class="num">Versions archived</th><th class="num">Errors</th></tr>`+
+    o.daily_delta.map(d=>`<tr><td><b>${d.date}</b></td><td class="num">${d.runs}</td>
+      <td class="num"><b>${fmt(d.new_docs)}</b></td><td class="num">${fmt(d.archived)}</td>
+      <td class="num">${d.errors}</td></tr>`).join("")+`</table>`;
+  clearTimeout(runTimer);
+  runTimer=setTimeout(loadRuns, act.length?5000:30000);   // 5s live, 30s idle
+}
+
+/* ── run trigger ──────────────────────────────────────────── */
+async function runScope(scope){
+  const body=scope==="all"?{scope:"all"}:{scope:"ids",ids:[scope]};
+  const r=await fetch(API+"/rerun",{method:"POST",
+    headers:{"Content-Type":"application/json","X-Operator":"dashboard"},
+    body:JSON.stringify(body)});
+  toast(r.ok?`Run queued: ${scope}`:"Run trigger failed");
+  show("run");loadRuns();
+}
+
+/* ── drawer (doc + diff) ─────────────────────────────────── */
+function openPanel(title,sub,tabs,render){
+  $("drTitle").textContent=title;$("drSub").innerHTML=sub;
+  $("drTabs").innerHTML=tabs.map(([l,k],i)=>
+    `<button class="tab ${i?"":"on"}" data-k="${k}" onclick="selTab(this)">${l}</button>`).join("");
+  window._render=render;
+  $("drBody").innerHTML=render(tabs[0][1]);
+  $("scrim").classList.add("show");$("drawer").classList.add("show");
+}
+function selTab(el){document.querySelectorAll(".tab").forEach(t=>t.classList.remove("on"));
+  el.classList.add("on");$("drBody").innerHTML=window._render(el.dataset.k)}
+function closeDrawer(){$("scrim").classList.remove("show");$("drawer").classList.remove("show")}
+
+async function openDoc(reg,docId){
+  const [summ,full,meta]=await Promise.all([
+    j(`/documents/${reg}/${docId}/content?mode=summary`),
+    j(`/documents/${reg}/${docId}/content?mode=full`),
+    j(`/documents/${reg}/${docId}/content?mode=meta`)]);
+  const m=meta.meta||{};
+  openPanel(m.title||docId,
+    `${reg} · ${m.doc_type||""} ${m.reference_number?"· "+esc(m.reference_number):""} · v${m.version_n||1}`,
+    [["Markdown","md"],["Summary","sum"],["Provenance","meta"]],
+    k=>{
+      if(k==="md")return `<pre>${esc((full.content||"(empty)").slice(0,40000))}</pre>`;
+      if(k==="sum")return `<pre>${esc(summ.content||"(no summary generated — enrichment pending)")}</pre>`;
+      const rows=[["doc_id",m.doc_id],["reference",m.reference_number],["status",m.status],
+        ["source_kind",m.source_kind|| (m.canonical_format||"web")],["published",m.published_date],
+        ["effective",m.effective_date],["comment deadline",m.comment_deadline],
+        ["version",`v${m.version_n} · ${m.version_ts||""}`],["ingested",m.ingested_at],
+        ["run",m.run_id],["content hash",m.content_hash],["tags",(m.tags||[]).join(", ")],
+        ["source URL",`<a href="${esc(m.source_url)}" target="_blank" rel="noopener">${esc(m.source_url)}</a>`]];
+      return `<div class="kv">${rows.filter(r=>r[1]).map(([k2,v])=>
+        `<span class="k">${k2}</span><span class="v">${v}</span>`).join("")}</div>`;
+    });
+}
+async function openDiff(reg,docId){
+  const d=await j(`/documents/${reg}/${docId}/diff`);
+  if(d.error){toast(d.error);return}
+  openPanel(`Diff — ${docId}`,
+    `v${d.from_version} → v${d.to_version} · <span class="dl">+${d.added_lines}</span> / <span class="rm">−${d.removed_lines}</span> lines`,
+    [["Unified diff","diff"]],
+    ()=>`<pre>${d.diff.split("\n").map(l=>
+      l.startsWith("+")?`<span class="dl">${esc(l)}</span>`:
+      l.startsWith("-")?`<span class="rm">${esc(l)}</span>`:esc(l)).join("\n")}</pre>`);
+}
+
+/* ── boot ─────────────────────────────────────────────────── */
+async function loadAll(){
+  try{
+    const ig=await j(`/integrity`);
+    $("integrity").textContent=ig.ok?"✓ integrity clean":"✗ integrity issues";
+    $("integrity").className="pill "+(ig.ok?"ok":"failed");
+  }catch(e){$("integrity").textContent="integrity ?";}
+  loadTree();loadChanges();loadRuns();
+}
+loadAll();
+</script>
+</body>
+</html>
