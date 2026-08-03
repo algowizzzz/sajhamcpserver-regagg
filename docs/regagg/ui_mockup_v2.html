@@ -450,7 +450,7 @@ function srct(i,kind){
     <div class="srct-body">
       ${docs.length? docs.map(d=>docRow(d,i)).join("") :
         `<p style="color:var(--muted);font-size:12px;padding:8px 4px">No recent changes — open the corpus browser for the full list.</p>`}
-      <div class="showmore" onclick="toast('Full corpus browser — next screen in the flow')">
+      <div class="showmore" onclick="event.stopPropagation();if('${i.id}'==='osfi'){location.href='ui_mockup_v2_browser.html'}else{toast('Corpus browser — built for OSFI in this mockup')}">
         Browse all ${fmt(isWeb?c.pages:c.docs)} →</div>
     </div>
   </div>`;
