@@ -56,3 +56,8 @@ alembic/versions/*.pyc
 .pytest_cache/
 .coverage
 htmlcov/
+# RegAgg runtime artifacts — never commit corpus/state
+data/web_aggregator/
+data/sajha.db*
+logs/
+verification_report.md
