@@ -111,6 +111,27 @@ def test_changes_filters(client):
     assert none["changes"] == []
 
 
+def test_changes_filter_finds_older_institution_rows(client, session, storage):
+    """Regression: institution filter must be applied in SQL before the fetch
+    limit — an institution whose versions are older than a flood of newer rows
+    from other regulators must still appear when filtered."""
+    from sajha.regagg.models import Regulator
+    from sajha.regagg import queries_ui
+    session.merge(Regulator(regulator_id="flood", name="Flood", jurisdiction="US",
+                            connector="rss", config={}))
+    session.commit()
+    v = CorpusVersioning(session, storage)
+    # flood: 60 newer docs AFTER osfi's rows (limit*4 with limit=10 -> 40 fetch)
+    for i in range(60):
+        v.ingest(IngestInput(regulator_id="flood", doc_type="announcement",
+                             title=f"Flood {i}", content_md=f"# flood {i}",
+                             source_url=f"https://flood/{i}"), run_id="rf", now=NOW)
+    out = queries_ui.changes(session, days=7, limit=10,
+                             regulator_ids=["osfi"], now=NOW)
+    assert out["changes"], "osfi rows vanished behind newer flood rows"
+    assert all(c["regulator_id"] == "osfi" for c in out["changes"])
+
+
 def test_doc_content_endpoint(client):
     full = client.get("/api/regagg/documents/osfi/b-13/content?mode=full").json()
     assert "REVISED" in full["content"]

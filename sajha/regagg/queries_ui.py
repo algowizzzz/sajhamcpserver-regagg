@@ -265,8 +265,13 @@ def changes(session, days: int = 7, now: Optional[datetime] = None,
 
     out: List[dict] = []
 
-    # new + updated: versions created in window
+    # new + updated: versions created in window.
+    # NB: regulator scope MUST be applied in SQL, before the limit — filtering
+    # after the fetch made institutions whose rows aren't among the newest N
+    # silently vanish from the feed (filter-after-limit bug).
     vstmt = select(DocumentVersion).where(DocumentVersion.created_at >= cutoff)
+    if allowed is not None:
+        vstmt = vstmt.where(DocumentVersion.regulator_id.in_(allowed or [""]))
     if ceil:
         vstmt = vstmt.where(DocumentVersion.created_at < ceil)
     versions = session.scalars(
@@ -277,8 +282,6 @@ def changes(session, days: int = 7, now: Optional[datetime] = None,
         if key in seen:
             continue
         seen.add(key)
-        if allowed is not None and v.regulator_id not in allowed:
-            continue
         doc = session.get(Document, {"regulator_id": v.regulator_id, "doc_id": v.doc_id})
         if doc is None:
             continue
