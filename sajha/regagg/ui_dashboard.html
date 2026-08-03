@@ -275,6 +275,7 @@
   </div>
 
   <div class="view" id="v-run">
+    <div id="todayDelta"></div>
     <div id="liveRuns"></div>
     <h3 class="sec">Recent runs</h3>
     <div id="recentRuns" class="empty">loading…</div>
@@ -554,6 +555,21 @@ let runTimer=null;
 async function loadRuns(){
   const o=await j(`/runs-overview`);
   const act=o.active;
+  // Today's delta summary — the humane headline ("98% pass, here's the 2%")
+  const t=o.today;
+  if(t){
+    const fails=(o.today_failing||[]).sort((a,b)=>b.errors-a.errors);
+    const failTxt=fails.length
+      ?fails.map(f=>`<b>${f.regulator_id}</b> ${f.errors} err${f.ingested?` (${f.ingested} docs still landed)`:""}`).join(" · ")
+      :"no fetch errors";
+    const cls=t.pass_rate>=95?"up":t.pass_rate>=80?"warn":"bad";
+    $("todayDelta").innerHTML=`<div class="live" style="border-left:3px solid var(--${cls==="up"?"green":cls==="warn"?"amber":"red"})">
+      <b>Today's delta</b> — <span class="${cls}" style="font-weight:680">${t.pass_rate}% fetch success</span>
+      · <b>+${fmt(t.new_docs)}</b> new docs · ${fmt(t.archived)} revisions archived
+      · ${fmt(t.errors)} errors across ${t.runs} runs
+      <div style="color:var(--muted);font-size:12px;margin-top:5px">Errors: ${failTxt}
+      <span style="opacity:.8">— per-URL details in each run's manifest; most are regulator-side 404s/429s</span></div></div>`;
+  } else { $("todayDelta").innerHTML=""; }
   $("liveRuns").innerHTML=act.length?act.map(r=>{
     const pct=r.detected?Math.min(99,Math.round(100*(r.fetched||0)/r.detected)):5;
     return `<div class="live"><span class="pulse"></span>
@@ -570,7 +586,7 @@ async function loadRuns(){
     <th class="num">Archived</th><th class="num">Errors</th></tr>`+
     o.recent.map(r=>`<tr><td><b>${r.regulator_id}</b></td><td>${r.logical_date}</td>
       <td>${r.trigger}${r.operator?` · ${esc(r.operator)}`:""}</td>
-      <td><span class="pill ${r.status==="success"?"ok":r.status==="success_empty"?"ok_empty":r.status==="failed"?"failed":"running"}">${r.status}</span></td>
+      <td><span class="pill ${r.status==="success"?(r.errors?"stale":"ok"):r.status==="success_empty"?"ok_empty":r.status==="failed"?"failed":"running"}">${r.status==="success"&&r.errors?`✓ success · ${r.errors} err`:r.status}</span></td>
       <td class="num">${fmt(r.detected)}</td><td class="num">${fmt(r.fetched)}</td>
       <td class="num"><b>${fmt(r.ingested)}</b></td><td class="num">${fmt(r.archived)}</td>
       <td class="num">${r.errors||0}</td></tr>`).join("")+`</table>`;

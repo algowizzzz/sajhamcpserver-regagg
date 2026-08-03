@@ -137,3 +137,31 @@ def test_doc_content_endpoint(client):
     assert "REVISED" in full["content"]
     meta = client.get("/api/regagg/documents/osfi/b-13/content?mode=meta").json()
     assert meta["meta"]["reference_number"] == "B-13"
+
+
+def test_manual_document_interjection(client, session, storage):
+    """Human override: add via pasted markdown, then update -> version bump."""
+    r = client.post("/api/regagg/documents", headers={"X-Operator": "saad"},
+                    json={"regulator_id": "osfi",
+                          "url": "https://osfi/manual/guideline-x-99",
+                          "title": "Guideline X-99 Test", "doc_type": "guidance",
+                          "markdown": "# X-99\nhand-authored content"})
+    assert r.status_code == 200
+    body = r.json()
+    assert body["action"] == "created" and body["version_n"] == 1
+    # update with corrected markdown -> archives v1
+    r2 = client.post("/api/regagg/documents", headers={"X-Operator": "saad"},
+                     json={"regulator_id": "osfi",
+                           "url": "https://osfi/manual/guideline-x-99",
+                           "title": "Guideline X-99 Test",
+                           "markdown": "# X-99\nCORRECTED content"})
+    assert r2.json()["action"] == "updated" and r2.json()["version_n"] == 2
+    # provenance: tagged manual + operator recorded + visible as a run
+    from sajha.regagg.models import DocumentTag, Run
+    doc_id = body["doc_id"]
+    assert session.query(DocumentTag).filter_by(doc_id=doc_id, tag="manual").count() == 1
+    runs = session.query(Run).filter(Run.run_id.like("%manual%")).all()
+    assert runs and all(x.operator == "saad" for x in runs)
+    # content readable through the normal read path
+    full = client.get(f"/api/regagg/documents/osfi/{doc_id}/content?mode=full").json()
+    assert "CORRECTED" in full["content"]

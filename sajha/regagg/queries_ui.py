@@ -426,16 +426,33 @@ def runs_overview(session, history: int = 15) -> dict:
                 "started_at": r.started_at.isoformat() if r.started_at else None,
                 "finished_at": r.finished_at.isoformat() if r.finished_at else None}
 
-    # daily delta: aggregate by logical_date
+    # daily delta: aggregate by logical_date (fetched included for pass-rate)
     delta = []
-    for day, n_runs, ingested, archived, errors in session.execute(
-            select(Run.logical_date, func.count(), func.sum(Run.ingested),
-                   func.sum(Run.archived), func.sum(Run.errors))
+    for day, n_runs, fetched, ingested, archived, errors in session.execute(
+            select(Run.logical_date, func.count(), func.sum(Run.fetched),
+                   func.sum(Run.ingested), func.sum(Run.archived), func.sum(Run.errors))
             .group_by(Run.logical_date)
             .order_by(Run.logical_date.desc()).limit(10)).all():
+        f, err = int(fetched or 0), int(errors or 0)
+        attempts = f + err
         delta.append({"date": day.isoformat(), "runs": n_runs,
-                      "new_docs": int(ingested or 0), "archived": int(archived or 0),
-                      "errors": int(errors or 0)})
+                      "fetched": f, "new_docs": int(ingested or 0),
+                      "archived": int(archived or 0), "errors": err,
+                      "pass_rate": round(100 * f / attempts, 1) if attempts else 100.0})
+
+    # today's summary incl. what failed (regulator + error count)
+    today = delta[0] if delta and delta[0]["date"] == now_date_iso() else None
+    failing = []
+    if today:
+        for r in recent:
+            if r.logical_date.isoformat() == today["date"] and (r.errors or 0) > 0:
+                failing.append({"regulator_id": r.regulator_id, "errors": r.errors,
+                                "ingested": r.ingested, "status": r.status})
     return {"active": [_run(r) for r in active],
             "recent": [_run(r) for r in recent],
-            "daily_delta": delta}
+            "daily_delta": delta,
+            "today": today, "today_failing": failing}
+
+
+def now_date_iso() -> str:
+    return datetime.now(timezone.utc).date().isoformat()

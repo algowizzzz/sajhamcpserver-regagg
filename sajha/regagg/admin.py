@@ -25,6 +25,16 @@ from sajha.regagg import queries, runtime
 from sajha.regagg.models import Document, DocumentTag, Regulator, Run
 
 
+class ManualDocRequest(BaseModel):
+    regulator_id: str
+    url: str                            # source URL (provenance anchor, required)
+    title: Optional[str] = None
+    doc_type: Optional[str] = None
+    reference_number: Optional[str] = None
+    markdown: Optional[str] = None      # operator-supplied md; omitted -> fetch url
+    published_date: Optional[str] = None
+
+
 class RerunRequest(BaseModel):
     scope: str = "all"                 # 'all' | 'ids'
     date: Optional[str] = None         # logical date (defaults to today)
@@ -199,6 +209,25 @@ def create_admin_router() -> APIRouter:
     def inventory(regulator_id: str):
         from sajha.regagg import queries_ui
         return queries_ui.inventory(runtime.get_session(), regulator_id)
+
+    @router.post("/documents")
+    def add_document_manual(req: ManualDocRequest, x_operator: str = Header("anonymous")):
+        """Human interjection: add/update a document by URL, pasted markdown, or
+        both. Same versioning/provenance path as automated ingestion."""
+        session = runtime.get_session()
+        from sajha.regagg import manual
+        try:
+            result = manual.add_document(
+                session, runtime.get_storage(),
+                regulator_id=req.regulator_id, url=req.url, operator=x_operator,
+                title=req.title, doc_type=req.doc_type or "guidance",
+                reference_number=req.reference_number, markdown=req.markdown,
+                published_date=req.published_date)
+        except Exception as e:  # noqa: BLE001
+            raise HTTPException(400, f"manual ingest failed: {e}")
+        _audit(session, x_operator, "regagg.manual_add", "document",
+               f"{req.regulator_id}/{result['doc_id']}", req.url)
+        return result
 
     @router.get("/integrity")
     def integrity():

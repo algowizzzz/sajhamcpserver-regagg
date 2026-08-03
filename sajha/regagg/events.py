@@ -65,7 +65,16 @@ class RunManifest:
     duration_s: float = 0.0
 
     def finalize(self) -> "RunManifest":
-        if self.errors:
+        """Status semantics (humane, not brutal):
+        failed        — the run produced nothing despite trying, or >20% of
+                        detected URLs errored (systemic problem worth a red row)
+        success       — docs landed; scattered per-URL errors (dead links on
+                        the regulator's side, throttling) stay visible as an
+                        error count, not a false alarm
+        success_empty — nothing new and nothing wrong
+        """
+        error_rate = self.errors / max(self.detected, 1)
+        if self.errors and (self.ingested == 0 or error_rate > 0.20):
             self.status = "failed"
         elif self.ingested == 0:
             self.status = "success_empty"
