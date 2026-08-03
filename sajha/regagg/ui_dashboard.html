@@ -392,6 +392,10 @@ async function loadRuns(){
       <td class="num">${d.errors}</td></tr>`).join("")+`</table>`;
   clearTimeout(runTimer);
   runTimer=setTimeout(loadRuns, act.length?5000:30000);   // 5s live, 30s idle
+  // while a run is active, refresh the coverage tree + tiles too (every 30s)
+  if(act.length && Date.now()-(window._lastTree||0)>30000){
+    window._lastTree=Date.now(); loadTree();
+  }
 }
 
 /* ── run trigger ──────────────────────────────────────────── */
