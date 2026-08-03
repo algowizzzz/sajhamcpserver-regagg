@@ -46,6 +46,6 @@ series:
       - {ref: "E-17", title: "Background Checks"}
       - {ref: "E-18", title: "Stress Testing"}
       - {ref: "E-19", title: "Own Risk and Solvency Assessment"}
-      - {ref: "E-21", title: "Operational Resilience and Operational Risk Management"}
+      - {ref: "E-21", title: "Operational Risk Management and Resilience"}
       - {ref: "E-23", title: "Model Risk Management"}
       - {ref: "E-25", title: "Culture and Behaviour Risk"}
