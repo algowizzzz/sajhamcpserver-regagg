@@ -86,10 +86,9 @@ def get_taxonomy() -> dict:
 
 def wire_from_app() -> None:  # pragma: no cover - exercised in the running server
     """Wire providers to the live SAJHA app (call once at startup)."""
-    from sajha.db.engine import get_session_factory  # SessionLocal accessor
+    from sajha.db.engine import get_db_session
     from sajha.core.storage import get_storage as _s
     from sajha.regagg.config_loader import load_all
-    SessionLocal = get_session_factory()
-    set_providers(session=lambda: SessionLocal(),
+    set_providers(session=get_db_session,
                   storage=lambda: CorpusStorage(_s()),
                   configs=load_all)

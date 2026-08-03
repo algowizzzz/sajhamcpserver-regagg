@@ -157,6 +157,8 @@ class SajhaMCPServerWebApp:
         from sajha.routes.ws_routes import router as ws_router
         from sajha.routes.ops_routes import router as ops_router
 
+        from sajha.regagg.admin import create_admin_router as _regagg_admin_router
+
         routers = [
             auth_router, dashboard_router, api_router, tools_router,
             admin_router, reporting_router, mcp_router, health_router,
@@ -166,6 +168,7 @@ class SajhaMCPServerWebApp:
             composite_router,
             ws_router,
             ops_router,
+            _regagg_admin_router(),   # Regulatory Intelligence Aggregator (/api/regagg/*)
         ]
 
         for router in routers:
@@ -414,6 +417,14 @@ class SajhaMCPServerWebApp:
             'storage.s3.cache_dir': getattr(s, 'storage_s3_cache_dir', '/tmp/sajha-cache'),
         }
         init_storage(storage_config)
+
+        # 2b. Wire the Regulatory Intelligence Aggregator runtime (session/storage/configs)
+        try:
+            from sajha.regagg import runtime as _regagg_runtime
+            _regagg_runtime.wire_from_app()
+            logger.info('  RegAgg: runtime wired (MCP tools + /api/regagg/* live)')
+        except Exception as _e:  # noqa: BLE001
+            logger.warning(f'  RegAgg: runtime wiring failed: {_e}')
 
         # 3. Core managers (tools, prompts, MCP, hot-reload)
         self._init_managers()

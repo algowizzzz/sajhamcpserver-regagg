@@ -17,6 +17,7 @@ from datetime import date, datetime, timezone
 from typing import List, Optional
 
 from fastapi import APIRouter, Header, HTTPException
+from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
 from sqlalchemy import select
 
@@ -127,12 +128,155 @@ def create_admin_router() -> APIRouter:
         return {"pending": [{"regulator_id": r.regulator_id, "doc_id": r.doc_id} for r in rows],
                 "count": len(rows)}
 
+    @router.get("/whats-new")
+    def whats_new(days: int = 7):
+        session = runtime.get_session()
+        return queries.reg_whats_new(session, days=days)
+
     @router.get("/integrity")
     def integrity():
         session = runtime.get_session()
         return runtime.reconcile_report(session, runtime.get_storage())
 
+    @router.get("/ui", response_class=HTMLResponse)
+    def ui():
+        return DASHBOARD_HTML
+
     return router
+
+
+# ── operator dashboard (05_ADMIN_UX_SPEC, served at /api/regagg/ui) ──────────
+
+DASHBOARD_HTML = r"""<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Regulatory Intelligence — Coverage</title>
+<style>
+  :root{--bg:#f6f7f9;--card:#fff;--ink:#1a2230;--muted:#69707d;--line:#e5e8ee;
+        --green:#1e9e63;--yellow:#d9a400;--red:#d1443b;--grey:#c3c8d2;--accent:#2b5bd7}
+  @media (prefers-color-scheme:dark){:root{--bg:#0f1218;--card:#171b22;--ink:#e7ebf2;
+        --muted:#98a0ad;--line:#262c36;--grey:#3a414d;--accent:#5b83f0}}
+  *{box-sizing:border-box}body{margin:0;font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;
+        background:var(--bg);color:var(--ink)}
+  header{padding:16px 22px;border-bottom:1px solid var(--line);display:flex;
+        align-items:center;gap:16px;flex-wrap:wrap;background:var(--card)}
+  h1{font-size:16px;margin:0;font-weight:650}
+  .sub{color:var(--muted);font-size:12px}
+  .spacer{flex:1}
+  select,button{font:inherit;color:var(--ink);background:var(--card);
+        border:1px solid var(--line);border-radius:8px;padding:6px 10px;cursor:pointer}
+  .wrap{padding:18px 22px;max-width:1200px;margin:0 auto}
+  .tiles{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:18px}
+  .tile{background:var(--card);border:1px solid var(--line);border-radius:12px;
+        padding:12px 16px;min-width:130px}
+  .tile b{font-size:22px;font-weight:680;display:block}
+  .tile span{color:var(--muted);font-size:12px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;
+        padding:14px 16px;margin-bottom:18px;overflow-x:auto}
+  .card h2{font-size:13px;margin:0 0 12px;color:var(--muted);text-transform:uppercase;
+        letter-spacing:.04em}
+  table{border-collapse:collapse;width:100%}
+  th,td{padding:6px 8px;text-align:center;font-size:12px;white-space:nowrap}
+  th.reg,td.reg{text-align:left;position:sticky;left:0;background:var(--card);
+        font-weight:600;cursor:pointer}
+  td.reg:hover{color:var(--accent)}
+  .cell{width:26px;height:26px;border-radius:6px;display:inline-flex;align-items:center;
+        justify-content:center;color:#fff;font-size:11px;font-weight:600}
+  .g{background:var(--green)}.y{background:var(--yellow)}.r{background:var(--red)}
+  .x{background:var(--grey);opacity:.5}
+  .legend{display:flex;gap:14px;color:var(--muted);font-size:12px;margin-top:10px;flex-wrap:wrap}
+  .legend i{width:12px;height:12px;border-radius:3px;display:inline-block;vertical-align:-1px;margin-right:5px}
+  .jchip{font-size:10px;color:var(--muted);border:1px solid var(--line);border-radius:5px;
+        padding:1px 5px;margin-left:6px}
+  .doc{padding:8px 0;border-bottom:1px solid var(--line)}
+  .doc a{color:var(--accent);text-decoration:none;font-weight:550}
+  .doc .meta{color:var(--muted);font-size:12px}
+  .pill{font-size:11px;border:1px solid var(--line);border-radius:20px;padding:1px 8px;color:var(--muted)}
+  .ok{color:var(--green)}.bad{color:var(--red)}
+</style></head>
+<body>
+<header>
+  <div><h1>Regulatory Intelligence Aggregator</h1>
+    <div class="sub">Operator coverage dashboard · <span id="dbtype">demo corpus</span></div></div>
+  <div class="spacer"></div>
+  <label class="sub">Window
+    <select id="days"><option>7</option><option>14</option><option>30</option></select></label>
+  <span id="integrity" class="pill">integrity …</span>
+  <button onclick="load()">↻ Refresh</button>
+</header>
+<div class="wrap">
+  <div class="tiles" id="tiles"></div>
+  <div class="card"><h2>Coverage matrix (regulators × days)</h2>
+    <div id="matrix">loading…</div>
+    <div class="legend">
+      <span><i class="g"></i>success · new docs</span>
+      <span><i class="y"></i>success · 0 new</span>
+      <span><i class="r"></i>failed</span>
+      <span><i class="x"></i>not scheduled</span>
+      <span class="sub">click a regulator to drill down</span></div></div>
+  <div class="card" id="drill" style="display:none"></div>
+  <div class="card"><h2>What's new (last 7 days)</h2><div id="new">loading…</div></div>
+</div>
+<script>
+const API="/api/regagg";
+async function j(u){const r=await fetch(API+u);return r.json();}
+function cell(c){if(!c)return '<span class="cell x">·</span>';
+  const k=c.status==="success"?"g":c.status==="success_empty"?"y":c.status==="failed"?"r":"x";
+  const n=c.status==="failed"?("!"+(c.errors||0)):(c.new||0);
+  return `<span class="cell ${k}" title="${c.status}">${n}</span>`;}
+async function load(){
+  const days=+document.getElementById("days").value;
+  const cov=await j(`/coverage?days=${days}`);
+  const regs=Object.keys(cov.matrix).sort();
+  let head=`<table><tr><th class="reg">Regulator</th>`+
+    cov.days.map(d=>`<th>${d.slice(5)}</th>`).join("")+`</tr>`;
+  let totNew=0,fail=0,succ=0;
+  for(const r of regs){
+    head+=`<tr><td class="reg" onclick="drill('${r}')">${r}</td>`;
+    for(const d of cov.days){const c=cov.matrix[r][d];
+      if(c){if(c.status==="failed")fail++;else succ++;totNew+=c.new||0;}
+      head+=`<td>${cell(c)}</td>`;}
+    head+=`</tr>`;}
+  head+=`</table>`;
+  document.getElementById("matrix").innerHTML = regs.length?head:"<span class='sub'>no runs yet — trigger ingestion</span>";
+  // tiles
+  const rq=await j(`/review-queue`);
+  document.getElementById("tiles").innerHTML=
+    tile(regs.length,"regulators with runs")+tile(totNew,"new docs in window")+
+    tile(succ,"successful cells")+tile(fail,"failed cells",fail?"bad":"")+
+    tile(rq.count,"in review queue",rq.count?"bad":"ok");
+  // integrity
+  const ig=await j(`/integrity`);
+  const el=document.getElementById("integrity");
+  el.textContent=ig.ok?"✓ integrity clean":"✗ "+(ig.invariant_violations||[]).length+" violations";
+  el.className="pill "+(ig.ok?"ok":"bad");
+  // whats new
+  const wn=await j(`/whats-new?days=7`);
+  let h="";for(const [reg,docs] of Object.entries(wn.by_regulator||{})){
+    for(const d of docs){h+=`<div class="doc"><a href="${'#'}">${d.title}</a>
+      <span class="pill">${d.doc_type}</span>
+      <div class="meta">${reg} · ${d.published_date||"no date"}</div></div>`;}}
+  document.getElementById("new").innerHTML=h||"<span class='sub'>nothing in the last 7 days</span>";
+}
+function tile(n,l,cls=""){return `<div class="tile"><b class="${cls}">${n}</b><span>${l}</span></div>`;}
+async function drill(id){
+  const d=await j(`/regulators/${id}`);const el=document.getElementById("drill");
+  el.style.display="block";
+  let docs=(d.latest_documents||[]).map(x=>`<div class="doc">
+    <a href="${x.source_url}" target="_blank" rel="noopener">${x.title}</a>
+    <span class="pill">${x.doc_type}</span> ${x.version_n>1?`<span class="pill">v${x.version_n}</span>`:""}
+    <div class="meta">${x.published_date||"no date"} · ${x.doc_id}</div></div>`).join("");
+  const st=d.staleness||{};
+  el.innerHTML=`<h2>${d.name} <span class="jchip">${d.jurisdiction}</span>
+    <span class="jchip">${d.connector}</span>
+    <span class="jchip">${d.active?"active":"inactive"}</span>
+    ${st.flagged?`<span class="pill bad">stale ${st.days_since_last}d</span>`:""}</h2>
+    ${docs||"<span class='sub'>no documents yet</span>"}`;
+  el.scrollIntoView({behavior:"smooth",block:"nearest"});
+}
+document.getElementById("days").onchange=load;
+load();
+</script></body></html>"""
 
 
 # ── helpers ─────────────────────────────────────────────────────────────────
