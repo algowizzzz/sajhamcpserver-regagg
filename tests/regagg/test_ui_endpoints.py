@@ -88,6 +88,29 @@ def test_runs_overview_shape(client):
     assert "active" in o and "recent" in o and "daily_delta" in o
 
 
+def test_changes_filters(client):
+    # region: only Canada -> osfi doc, not the frb one
+    ca = client.get("/api/regagg/changes?days=7&region=Canada").json()
+    regs = {c["regulator_id"] for c in ca["changes"]}
+    assert regs == {"osfi"}
+    # institution filter
+    frb = client.get("/api/regagg/changes?days=7&regulators=frb").json()
+    assert {c["regulator_id"] for c in frb["changes"]} == {"frb"}
+    # source_kind filter: only the frb policy_pdf doc qualifies
+    pdf = client.get("/api/regagg/changes?days=7&source_kind=policy_pdf").json()
+    assert len(pdf["changes"]) == 1
+    assert pdf["changes"][0]["doc"]["source_kind"] == "policy_pdf"
+    assert pdf["changes"][0]["regulator_id"] == "frb"
+    # kind chips: only revisions
+    rev = client.get("/api/regagg/changes?days=7&kinds=revised").json()
+    assert all(c["kind"] == "revised" for c in rev["changes"])
+    assert rev["counts"].get("new", 0) >= 1   # counts stay pre-kind-filter
+    # explicit date range excluding everything
+    none = client.get(
+        "/api/regagg/changes?date_from=2020-01-01&date_to=2020-01-02").json()
+    assert none["changes"] == []
+
+
 def test_doc_content_endpoint(client):
     full = client.get("/api/regagg/documents/osfi/b-13/content?mode=full").json()
     assert "REVISED" in full["content"]

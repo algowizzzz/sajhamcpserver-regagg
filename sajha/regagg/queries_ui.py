@@ -166,26 +166,117 @@ def _doc_row(d: Document) -> dict:
     }
 
 
+# ── full corpus browser (cross-institution, its own page) ───────────────────
+
+def corpus_browse(session, *, region: Optional[str] = None,
+                  regulator_ids: Optional[List[str]] = None,
+                  kind: Optional[str] = None, doc_type: Optional[str] = None,
+                  status: Optional[str] = None, q: Optional[str] = None,
+                  date_from: Optional[str] = None, date_to: Optional[str] = None,
+                  limit: int = 50, offset: int = 0) -> dict:
+    """Filterable browse across the whole corpus: continent/region, institution,
+    file type (source_kind), doc_type, status, date range, text search."""
+    allowed: Optional[set] = set(regulator_ids) if regulator_ids else None
+    if region:
+        in_region = {r.regulator_id for r in session.scalars(select(Regulator)).all()
+                     if REGION_OF.get(r.jurisdiction, "International") == region}
+        allowed = (allowed & in_region) if allowed is not None else in_region
+
+    def _scope(stmt):
+        if allowed is not None:
+            stmt = stmt.where(Document.regulator_id.in_(allowed or [""]))
+        return stmt
+
+    stmt = _scope(select(Document))
+    if kind:
+        stmt = stmt.where(Document.source_kind == kind)
+    if doc_type:
+        stmt = stmt.where(Document.doc_type == doc_type)
+    if status:
+        stmt = stmt.where(Document.status == status)
+    if q:
+        like = f"%{q}%"
+        stmt = stmt.where(Document.title.ilike(like)
+                          | Document.reference_number.ilike(like))
+    if date_from:
+        stmt = stmt.where(Document.published_date >= date_from)
+    if date_to:
+        stmt = stmt.where(Document.published_date <= date_to)
+
+    total = session.scalar(select(func.count()).select_from(stmt.subquery())) or 0
+    rows = list(session.scalars(
+        stmt.order_by(Document.published_date.desc().nullslast(),
+                      Document.ingested_at.desc())
+        .limit(limit).offset(offset)).all())
+
+    # facets over the region/institution scope (pre other filters -> shows shape)
+    def _facet(col):
+        fstmt = _scope(select(col, func.count()).group_by(col))
+        return {k or "—": v for k, v in session.execute(fstmt).all()}
+
+    out_rows = []
+    for d in rows:
+        r = _doc_row(d)
+        r["regulator_id"] = d.regulator_id
+        out_rows.append(r)
+    return {"total": total, "offset": offset, "limit": limit,
+            "facets": {"doc_type": _facet(Document.doc_type),
+                       "status": _facet(Document.status),
+                       "source_kind": _facet(Document.source_kind),
+                       "regulator": _facet(Document.regulator_id)},
+            "documents": out_rows}
+
+
 # ── changes feed ────────────────────────────────────────────────────────────
 
 def changes(session, days: int = 7, now: Optional[datetime] = None,
-            limit: int = 200) -> dict:
+            limit: int = 200, *,
+            region: Optional[str] = None,
+            regulator_ids: Optional[List[str]] = None,
+            source_kind: Optional[str] = None,
+            kinds: Optional[List[str]] = None,
+            date_from: Optional[str] = None,
+            date_to: Optional[str] = None) -> dict:
+    """Change feed with the same dimensions as the coverage tree:
+    region -> institution -> source_kind, plus an explicit date range
+    (date_from/date_to override the rolling `days` window)."""
     now = now or datetime.now(timezone.utc)
-    cutoff = now - timedelta(days=days)
+    if date_from:
+        cutoff = datetime.fromisoformat(date_from).replace(tzinfo=timezone.utc)
+    else:
+        cutoff = now - timedelta(days=days)
+    ceil = None
+    if date_to:
+        ceil = datetime.fromisoformat(date_to).replace(
+            tzinfo=timezone.utc) + timedelta(days=1)
+
+    # region -> allowed regulator set
+    allowed: Optional[set] = set(regulator_ids) if regulator_ids else None
+    if region:
+        in_region = {r.regulator_id for r in session.scalars(select(Regulator)).all()
+                     if REGION_OF.get(r.jurisdiction, "International") == region}
+        allowed = (allowed & in_region) if allowed is not None else in_region
+
     out: List[dict] = []
 
     # new + updated: versions created in window
+    vstmt = select(DocumentVersion).where(DocumentVersion.created_at >= cutoff)
+    if ceil:
+        vstmt = vstmt.where(DocumentVersion.created_at < ceil)
     versions = session.scalars(
-        select(DocumentVersion).where(DocumentVersion.created_at >= cutoff)
-        .order_by(DocumentVersion.created_at.desc()).limit(limit)).all()
+        vstmt.order_by(DocumentVersion.created_at.desc()).limit(limit * 4)).all()
     seen = set()
     for v in versions:
         key = (v.regulator_id, v.doc_id)
         if key in seen:
             continue
         seen.add(key)
+        if allowed is not None and v.regulator_id not in allowed:
+            continue
         doc = session.get(Document, {"regulator_id": v.regulator_id, "doc_id": v.doc_id})
         if doc is None:
+            continue
+        if source_kind and doc.source_kind != source_kind:
             continue
         kind = "revised" if doc.version_n > 1 else "new"
         if doc.status == "superseded":
@@ -197,22 +288,35 @@ def changes(session, days: int = 7, now: Optional[datetime] = None,
             "has_diff": doc.version_n > 1,
         })
 
-    # deadlines approaching (within window*4, not tied to ingestion date)
-    horizon = (now + timedelta(days=60)).date()
-    dl = session.scalars(select(Document).where(
-        Document.comment_deadline.isnot(None),
-        Document.comment_deadline >= now.date(),
-        Document.comment_deadline <= horizon)).all()
-    for doc in dl:
-        out.append({"kind": "deadline", "regulator_id": doc.regulator_id,
-                    "doc": _doc_row(doc), "at": doc.comment_deadline.isoformat(),
-                    "has_diff": False})
+    # deadlines approaching (only when no explicit upper date bound)
+    if not date_to:
+        horizon = (now + timedelta(days=60)).date()
+        dl = session.scalars(select(Document).where(
+            Document.comment_deadline.isnot(None),
+            Document.comment_deadline >= now.date(),
+            Document.comment_deadline <= horizon)).all()
+        for doc in dl:
+            if allowed is not None and doc.regulator_id not in allowed:
+                continue
+            if source_kind and doc.source_kind != source_kind:
+                continue
+            out.append({"kind": "deadline", "regulator_id": doc.regulator_id,
+                        "doc": _doc_row(doc), "at": doc.comment_deadline.isoformat(),
+                        "has_diff": False})
 
-    out.sort(key=lambda x: x["at"] or "", reverse=True)
+    # counts BEFORE the kind filter so the tiles stay meaningful as toggles
     counts = defaultdict(int)
     for c in out:
         counts[c["kind"]] += 1
-    return {"days": days, "counts": dict(counts), "changes": out[:limit]}
+    if kinds:
+        want = set(kinds)
+        out = [c for c in out if c["kind"] in want]
+
+    out.sort(key=lambda x: x["at"] or "", reverse=True)
+    return {"days": days, "counts": dict(counts), "changes": out[:limit],
+            "filters": {"region": region, "regulator_ids": regulator_ids,
+                        "source_kind": source_kind, "kinds": kinds,
+                        "date_from": date_from, "date_to": date_to}}
 
 
 # ── version diff ────────────────────────────────────────────────────────────

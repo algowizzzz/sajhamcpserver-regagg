@@ -104,6 +104,16 @@
   .more{color:var(--blue);font-size:11.5px;padding:6px 4px;font-weight:550;cursor:pointer}
 
   /* changes */
+  .fbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:13px;
+       background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+       box-shadow:var(--shadow);padding:9px 12px}
+  .fchips{display:flex;gap:5px;flex-wrap:wrap}
+  .chip{border:1px solid var(--line);background:var(--surface2);border-radius:16px;
+       padding:3px 11px;font-size:11.5px;color:var(--ink2);font-weight:550}
+  .chip.on{background:var(--blue);border-color:var(--blue);color:#fff}
+  .fdate{color:var(--muted);font-size:11.5px;display:inline-flex;align-items:center;gap:5px}
+  .fdate input{font:inherit;color:var(--ink);background:var(--surface2);
+       border:1px solid var(--line);border-radius:7px;padding:3px 7px}
   .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
        box-shadow:var(--shadow);padding:12px 15px;margin-bottom:9px;display:grid;
        grid-template-columns:104px 1fr auto;gap:13px;align-items:start}
@@ -172,6 +182,7 @@
   <div class="brand"><div class="logo">R</div>Regulatory Intelligence</div>
   <div class="nav">
     <button class="on" id="nCov" onclick="show('cov')">Coverage</button>
+    <button id="nBrw" onclick="show('brw')">Corpus</button>
     <button id="nChg" onclick="show('chg')">Changes</button>
     <button id="nRun" onclick="show('run')">Collection runs</button>
   </div>
@@ -189,8 +200,58 @@
     <div id="tree" class="empty">loading…</div>
   </div>
 
+  <div class="view" id="v-brw">
+    <div class="fbar">
+      <select id="bRegion" onchange="fillBInsts();loadCorpus(true)">
+        <option value="">All continents</option></select>
+      <select id="bInst" onchange="loadCorpus(true)">
+        <option value="">All institutions</option></select>
+      <select id="bKind" onchange="loadCorpus(true)">
+        <option value="">All file types</option>
+        <option value="web">Web (HTML)</option>
+        <option value="policy_pdf">Policy PDF</option></select>
+      <select id="bType" onchange="loadCorpus(true)">
+        <option value="">All doc types</option></select>
+      <select id="bStatus" onchange="loadCorpus(true)">
+        <option value="">All statuses</option></select>
+      <input id="bQ" placeholder="Search title / reference…" style="flex:1;min-width:160px;
+        font:inherit;color:var(--ink);background:var(--surface2);border:1px solid var(--line);
+        border-radius:7px;padding:4px 9px" onkeydown="if(event.key==='Enter')loadCorpus(true)">
+      <label class="fdate">From <input type="date" id="bFrom" onchange="loadCorpus(true)"></label>
+      <label class="fdate">To <input type="date" id="bTo" onchange="loadCorpus(true)"></label>
+      <button class="btn sm" onclick="clearCorpus()">Clear</button>
+    </div>
+    <div style="display:flex;align-items:center;gap:10px;margin-bottom:9px">
+      <span id="bCount" style="color:var(--muted);font-size:12px"></span>
+      <span class="spacer" style="flex:1"></span>
+      <button class="btn sm" id="bPrev" onclick="pageCorpus(-1)">← Prev</button>
+      <button class="btn sm" id="bNext" onclick="pageCorpus(1)">Next →</button>
+    </div>
+    <div id="bTable" class="empty">loading…</div>
+  </div>
+
   <div class="view" id="v-chg">
     <div class="tiles" id="chgTiles"></div>
+    <div class="fbar">
+      <select id="fRegion" onchange="fillInsts();loadChanges()">
+        <option value="">All regions</option></select>
+      <select id="fInst" onchange="loadChanges()">
+        <option value="">All institutions</option></select>
+      <select id="fKind" onchange="loadChanges()">
+        <option value="">Web + PDF</option>
+        <option value="web">Website content</option>
+        <option value="policy_pdf">Policy PDFs</option></select>
+      <span class="fchips" id="fChips">
+        <button class="chip on" data-k="" onclick="chipKind(this)">All changes</button>
+        <button class="chip" data-k="new" onclick="chipKind(this)">New</button>
+        <button class="chip" data-k="revised" onclick="chipKind(this)">Revised</button>
+        <button class="chip" data-k="superseded" onclick="chipKind(this)">Superseded</button>
+        <button class="chip" data-k="deadline" onclick="chipKind(this)">Deadlines</button>
+      </span>
+      <label class="fdate">From <input type="date" id="fFrom" onchange="loadChanges()"></label>
+      <label class="fdate">To <input type="date" id="fTo" onchange="loadChanges()"></label>
+      <button class="btn sm" onclick="clearChgFilters()">Clear</button>
+    </div>
     <div id="chgFeed" class="empty">loading…</div>
   </div>
 
@@ -223,9 +284,11 @@ const fmt=n=>(n??0).toLocaleString();
 async function j(u){const r=await fetch(API+u);if(!r.ok)throw new Error(u+" -> "+r.status);return r.json();}
 let _t;function toast(m){const t=$("toast");t.textContent=m;t.classList.add("show");
   clearTimeout(_t);_t=setTimeout(()=>t.classList.remove("show"),2600)}
-function show(which){
-  for(const [v,n] of [["cov","nCov"],["chg","nChg"],["run","nRun"]]){
+function show(which,push=true){
+  for(const [v,n] of [["cov","nCov"],["brw","nBrw"],["chg","nChg"],["run","nRun"]]){
     $("v-"+v).classList.toggle("on",v===which);$(n).classList.toggle("on",v===which);}
+  if(push)location.hash=which==="cov"?"":which;
+  if(which==="brw"&&!window._corpusLoaded){window._corpusLoaded=1;loadCorpus(true);}
 }
 
 const FULLNAMES={};   // regulator_id -> name (filled by tree)
@@ -234,6 +297,7 @@ const FULLNAMES={};   // regulator_id -> name (filled by tree)
 async function loadTree(){
   const days=$("days").value;
   const t=await j(`/tree?days=${days}`);
+  fillChangeFilters(t);   // changes-page filters share the coverage dimensions
   const tot=t.totals;
   $("tiles").innerHTML=
     tile(fmt(tot.regulators),"regulators monitored")+
@@ -317,18 +381,124 @@ function docRow(reg,d){
     ${d.source_kind==="policy_pdf"?`<span class="tag pdf">PDF</span>`:""}
     <span class="dmeta">${d.published_date||""}</span></div>`;
 }
-async function browseMore(reg,kind){
-  const data=await j(`/browse/${reg}?kind=${kind}&limit=100`);
-  openPanel(`${FULLNAMES[reg]||reg} — ${kind==="web"?"website content":"policy documents"}`,
-    `${fmt(data.total)} documents total`,
-    [["List","list"]],
-    ()=>data.documents.map(d=>docRow(reg,d)).join("")||"<div class='empty'>none</div>");
+function browseMore(reg,kind){
+  // "Browse all →" opens the Corpus page prefiltered to this institution+file type
+  $("bInst").value=""; fillBInsts();
+  $("bRegion").value=""; fillBInsts();
+  $("bInst").value=reg; $("bKind").value=kind;
+  $("bType").value=""; $("bStatus").value=""; $("bQ").value="";
+  show("brw"); loadCorpus(true);
 }
 
+/* ── corpus page ─────────────────────────────────────────── */
+let _bOffset=0; const _bLimit=50;
+function fillBInsts(){
+  const region=$("bRegion").value, sel=$("bInst"), cur=sel.value;
+  let insts=[];
+  for(const r of (_treeData?.regions||[])){
+    if(!region||r.region===region) insts.push(...r.institutions);
+  }
+  sel.innerHTML='<option value="">All institutions</option>'+
+    insts.map(x=>`<option value="${x.regulator_id}"${x.regulator_id===cur?" selected":""}>`+
+      `${x.regulator_id} — ${esc(x.name)}</option>`).join("");
+}
+function _corpusParams(){
+  const p=new URLSearchParams({limit:_bLimit,offset:_bOffset});
+  if($("bRegion").value)p.set("region",$("bRegion").value);
+  if($("bInst").value)p.set("regulators",$("bInst").value);
+  if($("bKind").value)p.set("kind",$("bKind").value);
+  if($("bType").value)p.set("doc_type",$("bType").value);
+  if($("bStatus").value)p.set("status",$("bStatus").value);
+  if($("bQ").value)p.set("q",$("bQ").value);
+  if($("bFrom").value)p.set("date_from",$("bFrom").value);
+  if($("bTo").value)p.set("date_to",$("bTo").value);
+  return p;
+}
+async function loadCorpus(reset=false){
+  if(reset)_bOffset=0;
+  const data=await j(`/corpus?`+_corpusParams().toString());
+  // fill doc_type/status selects from facets (keep current selection)
+  for(const [sel,f] of [["bType","doc_type"],["bStatus","status"]]){
+    const el=$(sel),cur=el.value;
+    el.innerHTML=`<option value="">All ${f==="doc_type"?"doc types":"statuses"}</option>`+
+      Object.entries(data.facets[f]).sort((a,b)=>b[1]-a[1]).map(([k,v])=>
+        `<option value="${k}"${k===cur?" selected":""}>${k} (${fmt(v)})</option>`).join("");
+  }
+  const from=data.total?_bOffset+1:0, to=Math.min(_bOffset+_bLimit,data.total);
+  $("bCount").textContent=`${fmt(from)}–${fmt(to)} of ${fmt(data.total)} documents`;
+  $("bPrev").disabled=_bOffset<=0; $("bNext").disabled=to>=data.total;
+  $("bTable").className="";
+  $("bTable").innerHTML=`<table><tr><th>Document</th><th>Institution</th><th>Type</th>
+    <th>Status</th><th>File</th><th>Published</th><th class="num">Ver</th></tr>`+
+    data.documents.map(d=>`<tr style="cursor:pointer" onclick='openDoc("${d.regulator_id}","${d.doc_id}")'>
+      <td><b style="color:var(--blue)">${esc(d.title).slice(0,110)}</b>
+        ${d.reference_number?`<span style="color:var(--muted);font-size:11px"> · ${esc(d.reference_number)}</span>`:""}</td>
+      <td>${d.regulator_id}</td><td>${d.doc_type}</td>
+      <td><span class="pill ${d.status==="final"?"ok":d.status==="superseded"?"failed":"ok_empty"}">${d.status}</span></td>
+      <td>${d.source_kind==="policy_pdf"?'<span class="tag pdf">PDF</span>':'<span class="tag">web</span>'}</td>
+      <td>${d.published_date||"—"}</td><td class="num">${d.version_n}</td></tr>`).join("")
+    +`</table>`;
+}
+function pageCorpus(dir){_bOffset=Math.max(0,_bOffset+dir*_bLimit);loadCorpus();}
+function clearCorpus(){["bRegion","bInst","bKind","bType","bStatus","bQ","bFrom","bTo"]
+  .forEach(i=>$(i).value="");fillBInsts();loadCorpus(true);}
+
 /* ── changes ─────────────────────────────────────────────── */
+let _treeData=null;
+function fillChangeFilters(t){
+  _treeData=t;
+  const rSel=$("fRegion");
+  const cur=rSel.value;
+  rSel.innerHTML='<option value="">All regions</option>'+
+    t.regions.map(r=>`<option${r.region===cur?" selected":""}>${esc(r.region)}</option>`).join("");
+  fillInsts(false);
+  // corpus page shares the same dimensions
+  const bR=$("bRegion"),bCur=bR.value;
+  bR.innerHTML='<option value="">All continents</option>'+
+    t.regions.map(r=>`<option${r.region===bCur?" selected":""}>${esc(r.region)}</option>`).join("");
+  fillBInsts();
+}
+function fillInsts(reset=true){
+  const region=$("fRegion").value;
+  const iSel=$("fInst");
+  const cur=reset?"":iSel.value;
+  let insts=[];
+  for(const r of (_treeData?.regions||[])){
+    if(!region||r.region===region) insts.push(...r.institutions);
+  }
+  iSel.innerHTML='<option value="">All institutions</option>'+
+    insts.map(x=>`<option value="${x.regulator_id}"${x.regulator_id===cur?" selected":""}>`+
+      `${x.regulator_id} — ${esc(x.name)}</option>`).join("");
+}
+let _kindSel=new Set();
+function chipKind(el){
+  const k=el.dataset.k;
+  const chips=[...document.querySelectorAll("#fChips .chip")];
+  if(!k){_kindSel.clear();chips.forEach(c=>c.classList.toggle("on",!c.dataset.k));}
+  else{
+    _kindSel.has(k)?_kindSel.delete(k):_kindSel.add(k);
+    chips.forEach(c=>c.classList.toggle("on",
+      c.dataset.k? _kindSel.has(c.dataset.k) : _kindSel.size===0));
+  }
+  loadChanges();
+}
+function clearChgFilters(){
+  $("fRegion").value="";fillInsts();$("fKind").value="";
+  $("fFrom").value="";$("fTo").value="";_kindSel.clear();
+  document.querySelectorAll("#fChips .chip").forEach(c=>
+    c.classList.toggle("on",!c.dataset.k));
+  loadChanges();
+}
 async function loadChanges(){
   const days=$("days").value;
-  const c=await j(`/changes?days=${days}`);
+  const p=new URLSearchParams({days});
+  if($("fRegion").value)p.set("region",$("fRegion").value);
+  if($("fInst").value)p.set("regulators",$("fInst").value);
+  if($("fKind").value)p.set("source_kind",$("fKind").value);
+  if(_kindSel.size)p.set("kinds",[..._kindSel].join(","));
+  if($("fFrom").value)p.set("date_from",$("fFrom").value);
+  if($("fTo").value)p.set("date_to",$("fTo").value);
+  const c=await j(`/changes?`+p.toString());
   $("chgTiles").innerHTML=
     tile(fmt(c.changes.length),"changes in window")+
     tile(fmt(c.counts.new||0),"new documents","up")+
@@ -464,6 +634,9 @@ async function loadAll(){
   loadTree();loadChanges();loadRuns();
 }
 loadAll();
+// hash routing: /ui#corpus, #chg, #run are deep-linkable pages
+const h=location.hash.replace("#","");
+if(["brw","chg","run","corpus"].includes(h))show(h==="corpus"?"brw":h,false);
 </script>
 </body>
 </html>

@@ -149,10 +149,32 @@ def create_admin_router() -> APIRouter:
                                  doc_type=doc_type, status=status, q=q,
                                  limit=min(limit, 200), offset=offset)
 
-    @router.get("/changes")
-    def changes(days: int = 7):
+    @router.get("/corpus")
+    def corpus(region: Optional[str] = None, regulators: Optional[str] = None,
+               kind: Optional[str] = None, doc_type: Optional[str] = None,
+               status: Optional[str] = None, q: Optional[str] = None,
+               date_from: Optional[str] = None, date_to: Optional[str] = None,
+               limit: int = 50, offset: int = 0):
         from sajha.regagg import queries_ui
-        return queries_ui.changes(runtime.get_session(), days=days)
+        return queries_ui.corpus_browse(
+            runtime.get_session(), region=region,
+            regulator_ids=regulators.split(",") if regulators else None,
+            kind=kind, doc_type=doc_type, status=status, q=q,
+            date_from=date_from, date_to=date_to,
+            limit=min(limit, 200), offset=max(offset, 0))
+
+    @router.get("/changes")
+    def changes(days: int = 7, region: Optional[str] = None,
+                regulators: Optional[str] = None, source_kind: Optional[str] = None,
+                kinds: Optional[str] = None, date_from: Optional[str] = None,
+                date_to: Optional[str] = None):
+        from sajha.regagg import queries_ui
+        return queries_ui.changes(
+            runtime.get_session(), days=days, region=region,
+            regulator_ids=regulators.split(",") if regulators else None,
+            source_kind=source_kind,
+            kinds=kinds.split(",") if kinds else None,
+            date_from=date_from, date_to=date_to)
 
     @router.get("/documents/{regulator_id}/{doc_id}/diff")
     def doc_diff(regulator_id: str, doc_id: str):
