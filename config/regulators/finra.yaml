@@ -4,12 +4,9 @@ id: finra
 name: "Financial Industry Regulatory Authority"
 jurisdiction: US
 active: true
-connector: rss
+# Discovery pass 2026-08-03: RSS 404, no sitemap; notices listing is the verified source
+connector: sitemap_diff
 sources:
-  feeds:
-    - url: https://www.finra.org/about/news-events/rss-feeds/regulatory-notices
-      verified: false
-      checked_at: null
   listing_pages:
     - url: https://www.finra.org/rules-guidance/notices
       verified: false

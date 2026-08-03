@@ -4,17 +4,14 @@ id: mas
 name: "Monetary Authority of Singapore"
 jurisdiction: SG
 active: true
-connector: rss
+# Discovery pass 2026-08-03: RSS 404, sitemap serves HTML; publications+news listings
+connector: sitemap_diff
 sources:
-  feeds:
-    - url: https://www.mas.gov.sg/rss/news
-      verified: false
-      checked_at: null
   listing_pages:
     - url: https://www.mas.gov.sg/publications
       verified: false
       checked_at: null
-    - url: https://www.mas.gov.sg/regulation
+    - url: https://www.mas.gov.sg/news
       verified: false
       checked_at: null
 fetch: html_to_md

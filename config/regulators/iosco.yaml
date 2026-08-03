@@ -4,12 +4,9 @@ id: iosco
 name: "International Organization of Securities Commissions"
 jurisdiction: INTL
 active: true
-connector: rss
+# Discovery pass 2026-08-03: RSS 404, sitemap 403; publications listing verified
+connector: sitemap_diff
 sources:
-  feeds:
-    - url: https://www.iosco.org/rss/news.xml
-      verified: false
-      checked_at: null
   listing_pages:
     - url: https://www.iosco.org/publications/
       verified: false

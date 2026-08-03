@@ -33,3 +33,12 @@ def test_real_pdf_bytes_use_pdf_path():
         assert fr.fetch_method == "pdf_to_md"   # parsed cleanly
     except Exception:  # noqa: BLE001 — pypdf rejecting toy bytes == PDF path chosen
         pass
+
+
+def test_title_from_url_humanizes_pdf_names():
+    from sajha.regagg.pipeline import _title_from_url
+    assert _title_from_url(
+        "https://www.iais.org/uploads/2025/04/IAIS-Press-Release-adoption.pdf"
+    ) == "IAIS Press Release adoption"
+    assert _title_from_url("https://x.gov/a_b/c-d.pdf") == "c d"
+    assert _title_from_url("https://x.gov/") == "https://x.gov/"

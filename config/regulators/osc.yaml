@@ -4,12 +4,13 @@ id: osc
 name: "Ontario Securities Commission"
 jurisdiction: CA
 active: true
-connector: rss
+# Discovery pass 2026-08-03: RSS 404; sitemap index live
+connector: sitemap_diff
 sources:
-  feeds:
-    - url: https://www.osc.ca/en/news-events/rss
-      verified: false
-      checked_at: null
+  sitemap:
+    url: https://www.osc.ca/sitemap.xml
+    verified: false
+    checked_at: null
   listing_pages:
     - url: https://www.osc.ca/en/securities-law/instruments-rules-policies
       verified: false

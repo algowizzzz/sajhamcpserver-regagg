@@ -4,12 +4,13 @@ id: eiopa
 name: "European Insurance and Occupational Pensions Authority"
 jurisdiction: EU
 active: true
-connector: rss
+# Discovery pass 2026-08-03: rss.xml is 404; site sitemap.xml live (618KB xml)
+connector: sitemap_diff
 sources:
-  feeds:
-    - url: https://www.eiopa.europa.eu/rss.xml
-      verified: false
-      checked_at: null
+  sitemap:
+    url: https://www.eiopa.europa.eu/sitemap.xml
+    verified: false
+    checked_at: null
   listing_pages:
     - url: https://www.eiopa.europa.eu/publications_en
       verified: false

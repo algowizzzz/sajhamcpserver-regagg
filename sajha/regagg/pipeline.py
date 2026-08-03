@@ -88,6 +88,17 @@ def _extract_pdf_links(html: bytes, base_url: str, limit: int = 3) -> List[str]:
     return out
 
 
+def _title_from_url(url: str) -> str:
+    """Human-readable fallback title from the URL's last path segment —
+    'IAIS-Press-Release-2026-07.pdf' -> 'IAIS Press Release 2026 07'.
+    (Untitled PDFs previously showed raw URLs in the UI.)"""
+    from urllib.parse import unquote, urlparse
+    seg = unquote(urlparse(url).path.rstrip("/").rsplit("/", 1)[-1])
+    seg = seg.rsplit(".", 1)[0] if "." in seg else seg
+    words = seg.replace("-", " ").replace("_", " ").strip()
+    return words[:180] if words else url
+
+
 def _find_by_reference(session, reference_number: str, exclude_regulator: str):
     from sqlalchemy import select
     from sajha.regagg.models import Document
@@ -108,9 +119,25 @@ def _flush_run(session, run_id: str, manifest: RunManifest) -> None:
         session.commit()
 
 
+MAX_SITEMAP_BYTES = 8_000_000    # refuse pathological sitemaps outright
+MAX_SITEMAP_CHILDREN = 30        # cap index recursion (hang guard, logged)
+
+
 def _resolve_sitemap(url: str, opener: SourceOpener, depth: int = 0) -> bytes:
-    """Return a urlset sitemap; if given a sitemapindex, merge child urlsets."""
+    """Return a urlset sitemap; if given a sitemapindex, merge child urlsets.
+    Hardened: byte cap + child cap so one regulator's monster sitemap can never
+    hang the fleet (the truncation is logged, never silent)."""
     data = opener(url)
+    if len(data) > MAX_SITEMAP_BYTES:
+        import logging
+        logging.getLogger(__name__).warning(
+            "sitemap %s is %dB > cap %d — truncating parse", url, len(data),
+            MAX_SITEMAP_BYTES)
+        data = data[:MAX_SITEMAP_BYTES]
+        # keep XML well-formed by cutting at the last complete <url> entry
+        cut = data.rfind(b"</url>")
+        if cut > 0:
+            data = data[:cut + 6] + b"</urlset>"
     if depth > 3:
         return data
     try:
@@ -124,7 +151,14 @@ def _resolve_sitemap(url: str, opener: SourceOpener, depth: int = 0) -> bytes:
     ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
     merged = ['<?xml version="1.0"?>',
               '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    for loc in (root.findall(".//sm:loc", ns) or root.findall(".//loc")):
+    locs = (root.findall(".//sm:loc", ns) or root.findall(".//loc"))
+    if len(locs) > MAX_SITEMAP_CHILDREN:
+        import logging
+        logging.getLogger(__name__).warning(
+            "sitemap index %s has %d children — resolving first %d",
+            url, len(locs), MAX_SITEMAP_CHILDREN)
+        locs = locs[:MAX_SITEMAP_CHILDREN]
+    for loc in locs:
         child = _resolve_sitemap(loc.text.strip(), opener, depth + 1)
         try:
             croot = ET.fromstring(child)
@@ -201,7 +235,7 @@ def run_regulator(
                 inp = IngestInput(
                     regulator_id=config.id,
                     doc_type=ev.doc_type_hint or "announcement",
-                    title=ev.title or fr.title or ev.url,
+                    title=ev.title or fr.title or _title_from_url(ev.url),
                     content_md=fr.content_md, source_url=ev.url,
                     raw=fr.raw, raw_ext=fr.raw_ext,
                     reference_number=ev.reference_number,
