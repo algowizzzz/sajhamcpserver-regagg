@@ -187,6 +187,27 @@
   .kv .k{color:var(--muted)}
   .kv .v{color:var(--ink);word-break:break-all}
   .dl{color:var(--green)}.rm{color:var(--red)}
+  /* explorer tree */
+  .fsrow{display:flex;align-items:center;gap:7px;padding:4px 8px;border-radius:6px;
+       cursor:pointer;font-size:12.5px;color:var(--ink2)}
+  .fsrow:hover{background:var(--blue-soft)}
+  .fsrow .fsname{font-weight:550;color:var(--ink)}
+  .fsrow.file .fsname{color:var(--blue);font-weight:500}
+  .fsrow .fsmeta{margin-left:auto;color:var(--muted);font-size:11px;font-variant-numeric:tabular-nums}
+  .fskids{margin-left:18px;border-left:1px solid var(--line2);padding-left:6px;display:none}
+  .fsopen>.fskids{display:block}
+  .fsopen>.fsrow .caret{transform:rotate(90deg)}
+  /* modal */
+  .modal{position:fixed;inset:0;z-index:60;display:none;place-items:center;
+       background:rgba(10,14,20,.45)}
+  .modal.show{display:grid}
+  .modal-card{background:var(--surface);border-radius:14px;box-shadow:0 24px 80px rgba(0,0,0,.35);
+       width:520px;max-width:94vw;padding:20px;max-height:88vh;overflow:auto}
+  .mrow{display:flex;gap:10px;margin-top:9px;align-items:flex-start}
+  .mrow label{width:92px;color:var(--muted);font-size:12px;padding-top:7px;flex-shrink:0}
+  .mrow input,.mrow select,.mrow textarea{flex:1;font:inherit;color:var(--ink);
+       background:var(--surface2);border:1px solid var(--line);border-radius:7px;
+       padding:6px 9px;width:100%}
   .toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%) translateY(80px);
        background:var(--ink);color:var(--bg);border-radius:10px;padding:9px 16px;font-size:12.5px;
        z-index:70;transition:transform .25s}
@@ -202,6 +223,7 @@
   <div class="nav">
     <button class="on" id="nCov" onclick="show('cov')">Coverage</button>
     <button id="nBrw" onclick="show('brw')">Corpus</button>
+    <button id="nExp" onclick="show('exp')">Explorer</button>
     <button id="nChg" onclick="show('chg')">Changes</button>
     <button id="nRun" onclick="show('run')">Collection runs</button>
   </div>
@@ -239,6 +261,7 @@
       <label class="fdate">From <input type="date" id="bFrom" onchange="loadCorpus(true)"></label>
       <label class="fdate">To <input type="date" id="bTo" onchange="loadCorpus(true)"></label>
       <button class="btn sm" onclick="clearCorpus()">Clear</button>
+      <button class="btn sm primary" onclick="openAddDoc()">＋ Add document</button>
     </div>
     <div style="display:flex;align-items:center;gap:10px;margin-bottom:9px">
       <span id="bCount" style="color:var(--muted);font-size:12px"></span>
@@ -247,6 +270,17 @@
       <button class="btn sm" id="bNext" onclick="pageCorpus(1)">Next →</button>
     </div>
     <div id="bTable" class="empty">loading…</div>
+  </div>
+
+  <div class="view" id="v-exp">
+    <div style="display:flex;align-items:center;gap:10px;margin-bottom:12px">
+      <span style="color:var(--muted);font-size:12px">Corpus storage · <code style="font-size:11px">data/web_aggregator/</code>
+        — regulator → current | archive → doc_type → year → document → artifacts</span>
+      <span class="spacer" style="flex:1"></span>
+      <button class="btn sm" onclick="loadExplorer()">↻ Refresh</button>
+    </div>
+    <div style="background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+         box-shadow:var(--shadow);padding:10px 8px"><div id="fsTree" class="empty">loading…</div></div>
   </div>
 
   <div class="view" id="v-chg">
@@ -294,6 +328,34 @@
   </div>
   <div class="drbody" id="drBody"></div>
 </div>
+<!-- add-document modal (manual interjection lane) -->
+<div class="modal" id="addModal">
+  <div class="modal-card">
+    <h3 style="font-size:14px;margin-bottom:10px">Add / update a document manually</h3>
+    <div class="mrow"><label>Institution</label><select id="adReg"></select></div>
+    <div class="mrow"><label>Source URL *</label>
+      <input id="adUrl" placeholder="https://regulator.gov/… (provenance anchor)"></div>
+    <div class="mrow"><label>Title</label><input id="adTitle" placeholder="auto-detected if blank"></div>
+    <div class="mrow"><label>Doc type</label><select id="adType">
+      <option>guidance</option><option>final_rule</option><option>consultation</option>
+      <option>announcement</option><option>enforcement</option><option>speech</option>
+      <option>report</option></select></div>
+    <div class="mrow"><label>Reference #</label><input id="adRef" placeholder="e.g. B-13 (optional)"></div>
+    <div class="mrow"><label>Content</label>
+      <div style="flex:1">
+        <textarea id="adMd" rows="5" placeholder="Paste corrected markdown… (leave empty to fetch the URL, or attach a file below)"></textarea>
+        <input type="file" id="adFile" accept=".pdf,.html,.htm" style="margin-top:6px;font-size:12px">
+      </div></div>
+    <p style="color:var(--muted);font-size:11.5px;margin-top:8px">Goes through the same
+      versioning pipeline: updating an existing URL archives the prior version.
+      Tagged <b>manual</b> with your operator identity; visible on the Runs page.</p>
+    <div style="display:flex;justify-content:flex-end;gap:8px;margin-top:14px">
+      <button class="btn" onclick="closeAddDoc()">Cancel</button>
+      <button class="btn primary" onclick="submitAddDoc()">Add document</button>
+    </div>
+  </div>
+</div>
+
 <div class="toast" id="toast"></div>
 
 <script>
@@ -305,10 +367,91 @@ async function j(u){const r=await fetch(API+u);if(!r.ok)throw new Error(u+" -> "
 let _t;function toast(m){const t=$("toast");t.textContent=m;t.classList.add("show");
   clearTimeout(_t);_t=setTimeout(()=>t.classList.remove("show"),2600)}
 function show(which,push=true){
-  for(const [v,n] of [["cov","nCov"],["brw","nBrw"],["chg","nChg"],["run","nRun"]]){
+  for(const [v,n] of [["cov","nCov"],["brw","nBrw"],["exp","nExp"],["chg","nChg"],["run","nRun"]]){
     $("v-"+v).classList.toggle("on",v===which);$(n).classList.toggle("on",v===which);}
   if(push)location.hash=which==="cov"?"":which;
   if(which==="brw"&&!window._corpusLoaded){window._corpusLoaded=1;loadCorpus(true);}
+  if(which==="exp"&&!window._expLoaded){window._expLoaded=1;loadExplorer();}
+}
+
+/* ── file explorer (nested corpus tree) ───────────────────── */
+const fmtSize=b=>b==null?"":b<1024?b+" B":b<1048576?(b/1024).toFixed(0)+" KB":(b/1048576).toFixed(1)+" MB";
+async function loadExplorer(){
+  $("fsTree").className="";
+  $("fsTree").innerHTML=await fsChildren("");
+}
+async function fsChildren(path){
+  const d=await j(`/fs?path=${encodeURIComponent(path)}`);
+  return d.entries.map(e=>{
+    const p=path?`${path}/${e.name}`:e.name;
+    const id="fs_"+btoa(p).replace(/[^a-zA-Z0-9]/g,"");
+    if(e.dir)return `<div id="${id}">
+      <div class="fsrow" onclick="fsToggle('${id}','${p.replace(/'/g,"\\'")}')">
+        <span class="caret">▶</span><span>📁</span>
+        <span class="fsname">${esc(e.name)}</span>
+        <span class="fsmeta">${e.children} items</span></div>
+      <div class="fskids"><div class="empty" style="padding:4px 8px">…</div></div></div>`;
+    const icon=e.name.endsWith(".pdf")?"📕":e.name.endsWith(".md")?"📝":
+               e.name.endsWith(".json")?"🧾":"🌐";
+    return `<div class="fsrow file" onclick="fsOpen('${p.replace(/'/g,"\\'")}')">
+      <span style="width:16px"></span><span>${icon}</span>
+      <span class="fsname">${esc(e.name)}</span>
+      <span class="fsmeta">${fmtSize(e.size)}</span></div>`;
+  }).join("")||"<div class='empty'>empty</div>";
+}
+async function fsToggle(id,path){
+  const el=$(id);
+  el.classList.toggle("fsopen");
+  if(el.classList.contains("fsopen")&&!el.dataset.loaded){
+    el.dataset.loaded=1;
+    el.querySelector(".fskids").innerHTML=await fsChildren(path);
+  }
+}
+async function fsOpen(path){
+  const name=path.split("/").pop();
+  if(name.endsWith(".pdf")||name.startsWith("raw.")){
+    window.open(API+`/fs/file?path=${encodeURIComponent(path)}&download=1`,"_blank");
+    return;
+  }
+  const f=await j(`/fs/file?path=${encodeURIComponent(path)}`);
+  openPanel(name,`${esc(path)} · ${fmtSize(f.size)}`,
+    name.endsWith(".md")?[["Rendered","r"],["Raw","raw"]]:[["Content","raw"]],
+    k=>k==="r"?`<div class="md">${md2html(f.text)}</div>`
+             :`<pre>${esc(name.endsWith(".json")?JSON.stringify(JSON.parse(f.text||"{}"),null,2):f.text)}</pre>`);
+}
+
+/* ── add-document modal (manual lane) ─────────────────────── */
+function openAddDoc(){
+  const sel=$("adReg");
+  let insts=[];for(const r of (_treeData?.regions||[]))insts.push(...r.institutions);
+  sel.innerHTML=insts.map(x=>`<option value="${x.regulator_id}">${x.regulator_id} — ${esc(x.name)}</option>`).join("");
+  $("addModal").classList.add("show");
+}
+function closeAddDoc(){$("addModal").classList.remove("show")}
+async function submitAddDoc(){
+  const url=$("adUrl").value.trim();
+  if(!url){toast("Source URL is required (provenance anchor)");return;}
+  const common={regulator_id:$("adReg").value,url,title:$("adTitle").value||null,
+                doc_type:$("adType").value,reference_number:$("adRef").value||null};
+  const file=$("adFile").files[0];
+  let resp;
+  try{
+    if(file){
+      const fd=new FormData();
+      for(const [k,v] of Object.entries(common))if(v!=null)fd.append(k,v);
+      fd.append("file",file);
+      resp=await fetch(API+"/documents/upload",{method:"POST",
+        headers:{"X-Operator":"dashboard"},body:fd});
+    }else{
+      resp=await fetch(API+"/documents",{method:"POST",
+        headers:{"Content-Type":"application/json","X-Operator":"dashboard"},
+        body:JSON.stringify({...common,markdown:$("adMd").value||null})});
+    }
+    const body=await resp.json();
+    if(!resp.ok)throw new Error(body.detail||resp.status);
+    toast(`${body.action} — ${body.doc_id} v${body.version_n}`);
+    closeAddDoc();loadCorpus(true);
+  }catch(e){toast("Failed: "+e.message)}
 }
 
 const FULLNAMES={};   // regulator_id -> name (filled by tree)

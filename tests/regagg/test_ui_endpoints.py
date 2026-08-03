@@ -165,3 +165,30 @@ def test_manual_document_interjection(client, session, storage):
     # content readable through the normal read path
     full = client.get(f"/api/regagg/documents/osfi/{doc_id}/content?mode=full").json()
     assert "CORRECTED" in full["content"]
+
+
+def test_fs_explorer_listing_and_jail(client):
+    # listing the corpus root works (real repo corpus dir)
+    r = client.get("/api/regagg/fs?path=")
+    assert r.status_code == 200 and isinstance(r.json()["entries"], list)
+    # path traversal is jailed
+    assert client.get("/api/regagg/fs?path=../../config").status_code == 400
+    assert client.get("/api/regagg/fs/file?path=../../config/apikeys.json").status_code == 400
+
+
+def test_manual_upload_multipart(client, session):
+    import io, pypdf
+    w = pypdf.PdfWriter(); w.add_blank_page(width=612, height=792)
+    buf = io.BytesIO(); w.write(buf)
+    r = client.post("/api/regagg/documents/upload",
+                    headers={"X-Operator": "saad"},
+                    data={"regulator_id": "osfi",
+                          "url": "https://osfi/manual/uploaded-guideline.pdf",
+                          "title": "Uploaded Guideline", "doc_type": "guidance"},
+                    files={"file": ("guideline.pdf", buf.getvalue(), "application/pdf")})
+    assert r.status_code == 200, r.text
+    body = r.json()
+    assert body["action"] == "created"
+    from sajha.regagg.models import Document
+    d = session.get(Document, {"regulator_id": "osfi", "doc_id": body["doc_id"]})
+    assert d.source_kind == "policy_pdf" and d.ocr is True  # blank page -> ocr flag

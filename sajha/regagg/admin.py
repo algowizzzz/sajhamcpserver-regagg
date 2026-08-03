@@ -16,7 +16,8 @@ from __future__ import annotations
 from datetime import date, datetime, timezone
 from typing import List, Optional
 
-from fastapi import APIRouter, Header, HTTPException
+from fastapi import APIRouter, Header, HTTPException, UploadFile
+from fastapi import File as FileField, Form as FormField
 from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
 from sqlalchemy import select
@@ -233,6 +234,83 @@ def create_admin_router() -> APIRouter:
     def integrity():
         session = runtime.get_session()
         return runtime.reconcile_report(session, runtime.get_storage())
+
+    @router.post("/documents/upload")
+    async def upload_document(
+        regulator_id: str = FormField(...), url: str = FormField(...),
+        title: Optional[str] = FormField(None), doc_type: str = FormField("guidance"),
+        reference_number: Optional[str] = FormField(None),
+        published_date: Optional[str] = FormField(None),
+        file: UploadFile = FileField(...),
+        x_operator: str = Header("anonymous"),
+    ):
+        """Manual UPLOAD lane: operator supplies the artifact itself (PDF/HTML)
+        for a given source URL. Same versioning/provenance path as everything."""
+        data = await file.read()
+        if len(data) > 50_000_000:
+            raise HTTPException(413, "file too large (50MB cap)")
+        session = runtime.get_session()
+        from sajha.regagg import manual
+        try:
+            result = manual.add_document(
+                session, runtime.get_storage(),
+                regulator_id=regulator_id, url=url, operator=x_operator,
+                title=title, doc_type=doc_type, reference_number=reference_number,
+                published_date=published_date, file_bytes=data)
+        except Exception as e:  # noqa: BLE001
+            raise HTTPException(400, f"upload ingest failed: {e}")
+        _audit(session, x_operator, "regagg.manual_upload", "document",
+               f"{regulator_id}/{result['doc_id']}", f"{url} ({file.filename})")
+        return result
+
+    # ── corpus file explorer (read-only, jailed to the corpus root) ─────────
+
+    def _fs_resolve(path: str):
+        from pathlib import Path
+        base = Path("data/web_aggregator").resolve()
+        target = (base / path.lstrip("/")).resolve()
+        if base != target and base not in target.parents:
+            raise HTTPException(400, "path escapes corpus root")
+        if not target.exists():
+            raise HTTPException(404, f"not found: {path}")
+        return base, target
+
+    @router.get("/fs")
+    def fs_list(path: str = ""):
+        """List one level of the corpus tree (regulator/current/doc_type/…)."""
+        base, target = _fs_resolve(path)
+        if not target.is_dir():
+            raise HTTPException(400, "not a directory")
+        entries = []
+        for child in sorted(target.iterdir(),
+                            key=lambda p: (not p.is_dir(), p.name.lower())):
+            if child.name.startswith("."):
+                continue
+            entries.append({
+                "name": child.name,
+                "dir": child.is_dir(),
+                "size": child.stat().st_size if child.is_file() else None,
+                "children": sum(1 for _ in child.iterdir()) if child.is_dir() else None,
+            })
+        return {"path": str(target.relative_to(base)) if target != base else "",
+                "entries": entries}
+
+    @router.get("/fs/file")
+    def fs_file(path: str, download: bool = False):
+        """Return a corpus file: text types inline (md/json/txt), binaries as
+        a download (raw.pdf / raw.html originals)."""
+        from fastapi.responses import FileResponse
+        _, target = _fs_resolve(path)
+        if not target.is_file():
+            raise HTTPException(400, "not a file")
+        if target.stat().st_size > 20_000_000:
+            raise HTTPException(413, "file too large")
+        if not download and target.suffix in (".md", ".json", ".txt"):
+            return {"name": target.name, "size": target.stat().st_size,
+                    "text": target.read_text(encoding="utf-8", errors="replace")[:500_000]}
+        media = {".pdf": "application/pdf", ".html": "text/html"}.get(
+            target.suffix, "application/octet-stream")
+        return FileResponse(str(target), media_type=media, filename=target.name)
 
     @router.get("/ui", response_class=HTMLResponse)
     def ui():
