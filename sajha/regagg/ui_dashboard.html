@@ -680,7 +680,10 @@ async function openDoc(reg,docId){
         ["effective",m.effective_date],["comment deadline",m.comment_deadline],
         ["version",`v${m.version_n} · ${m.version_ts||""}`],["ingested",m.ingested_at],
         ["run",m.run_id],["content hash",m.content_hash],["tags",(m.tags||[]).join(", ")],
-        ["source URL",`<a href="${esc(m.source_url)}" target="_blank" rel="noopener">${esc(m.source_url)}</a>`]];
+        ["fetch method",m.fetch_method],
+        ["source URL",`<a href="${esc(m.source_url)}" target="_blank" rel="noopener">${esc(m.source_url)}</a>`],
+        ["final URL",m.final_url&&m.final_url!==m.source_url
+          ?`<a href="${esc(m.final_url)}" target="_blank" rel="noopener">${esc(m.final_url)}</a>`:null]];
       return `<div class="kv">${rows.filter(r=>r[1]).map(([k2,v])=>
         `<span class="k">${k2}</span><span class="v">${v}</span>`).join("")}</div>`;
     });

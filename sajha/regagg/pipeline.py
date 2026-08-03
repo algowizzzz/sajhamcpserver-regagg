@@ -207,7 +207,10 @@ def run_regulator(
                     reference_number=ev.reference_number,
                     published_date=ev.published_date, ocr=fr.ocr,
                     tags=list(config.default_tags), doc_id=doc_id,
-                    source_kind="policy_pdf" if fr.raw_ext == "pdf" else "web")
+                    source_kind="policy_pdf" if fr.raw_ext == "pdf" else "web",
+                    # governance: record the post-redirect URL + fetch method
+                    meta_extra={"final_url": fr.final_url,
+                                "fetch_method": fr.fetch_method})
                 result = versioning.ingest(inp, run_id=run_id, now=now)
                 if result.action in ("created", "updated"):
                     manifest.ingested += 1
