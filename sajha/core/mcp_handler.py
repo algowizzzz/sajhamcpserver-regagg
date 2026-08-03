@@ -478,7 +478,8 @@ class MCPHandler:
         
         # Execute the tool
         arguments = params.get('arguments', {})
-        self.logger.info(f"Executing tool: {tool_name} (User: {session.get('user_id', 'anonymous')})")
+        # session may be None for unauthenticated stateless /mcp POSTs
+        self.logger.info(f"Executing tool: {tool_name} (User: {(session or {}).get('user_id', 'anonymous')})")
         
         try:
             result = tool.execute(arguments)

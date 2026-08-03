@@ -82,6 +82,33 @@
       }
     },
     {
+      "key": "sja_regintel_132a1b83ec357f0f1f2d998c614c436c",
+      "name": "Regulatory Intelligence Agent",
+      "description": "Scoped key for the regulatory chatbot agent - reg_* retrieval tools only",
+      "created_by": "saad",
+      "created_at": "2026-08-03T00:00:00Z",
+      "expires_at": null,
+      "enabled": true,
+      "tool_access": {
+        "mode": "regex",
+        "tools": [],
+        "regex_patterns": ["^reg_.*"]
+      },
+      "rate_limit": {
+        "requests_per_minute": 120,
+        "requests_per_hour": 5000
+      },
+      "metadata": {
+        "owner": "Saad Ahmed",
+        "contact": "saad1.ahmed@bmo.com",
+        "purpose": "Agent access to regulatory corpus retrieval tools"
+      },
+      "usage_stats": {
+        "total_requests": 0,
+        "last_used": null
+      }
+    },
+    {
       "key": "sja_ashutosh_master_key_2025_x7k9m",
       "name": "Ashutosh Master Key",
       "description": "Full administrative access to all SAJHA MCP Server tools and resources",
