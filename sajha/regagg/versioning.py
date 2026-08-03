@@ -64,6 +64,7 @@ class IngestInput:
     tags: List[str] = field(default_factory=list)
     meta_extra: Dict = field(default_factory=dict)
     doc_id: Optional[str] = None   # explicit stable id; else derived from ref/content
+    source_kind: str = "web"       # web | policy_pdf (set from fetched artifact)
 
     @property
     def content_hash(self) -> str:
@@ -116,6 +117,7 @@ class CorpusVersioning:
             title=inp.title, language=inp.language, reference_number=inp.reference_number,
             published_date=inp.published_date, effective_date=inp.effective_date,
             comment_deadline=inp.comment_deadline, status=inp.status,
+            source_kind=inp.source_kind,
             content_hash=chash, s3_prefix=cur, source_url=inp.source_url,
             version_n=1, ocr=inp.ocr)
         self.s.add(doc)

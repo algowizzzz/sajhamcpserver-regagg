@@ -36,3 +36,4 @@ doc_type_rules:
 staleness_alert_days: 14
 backfill_cutoff: 2024-08-01
 notes: "Meta-source for all formal US rulemaking. Dedup vs agency feeds by reference_number."
+meta_source: true

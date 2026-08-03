@@ -146,6 +146,7 @@ class RssConnector(BaseConnector):
     def detect(self, payloads: Dict) -> List[DetectionEvent]:
         events: List[DetectionEvent] = []
         seen_ids = set()
+        cutoff = self.config.backfill_cutoff
         for feed_bytes in payloads.get("feeds", []) or []:
             parsed = feedparser.parse(feed_bytes)
             for entry in parsed.entries:
@@ -160,6 +161,9 @@ class RssConnector(BaseConnector):
                     continue
                 pub = _parse_date(entry.get("published_parsed") or entry.get("published")
                                   or entry.get("updated"))
+                # US-1.2 AC4: items older than the backfill cutoff are ignored
+                if cutoff and pub and pub < cutoff:
+                    continue
                 events.append(DetectionEvent(
                     regulator_id=self.config.id, url=link, run_id=self.run_id,
                     title=entry.get("title"), published_date=pub,
@@ -184,9 +188,13 @@ class ApiConnector(BaseConnector):
 
     def _federal_register(self, data: Dict) -> List[DetectionEvent]:
         events = []
+        cutoff = self.config.backfill_cutoff
         for rec in data.get("results", []):
             url = rec.get("html_url") or rec.get("pdf_url")
             if not url or not passes_filters(url, self.config):
+                continue
+            pub = _parse_date(rec.get("publication_date"))
+            if cutoff and pub and pub < cutoff:
                 continue
             type_str = f"type={rec.get('type', '')}"
             events.append(DetectionEvent(

@@ -51,8 +51,61 @@ def _fetch_source_payloads(config: RegulatorConfig, opener: SourceOpener) -> Dic
         payloads["feeds"] = [opener(f.url) for f in s.feeds]
     elif config.connector == "api":
         import json
-        payloads["api"] = json.loads(opener(build_api_url(config)).decode("utf-8"))
+        # paginate (federal_register: next_page_url) until backfill cutoff or page cap
+        url, merged, pages = build_api_url(config), {"results": []}, 0
+        while url and pages < 5:
+            data = json.loads(opener(url).decode("utf-8"))
+            results = data.get("results", [])
+            merged["results"].extend(results)
+            pages += 1
+            cutoff = config.backfill_cutoff
+            if cutoff and results:
+                oldest = min((r.get("publication_date") or "9999") for r in results)
+                if oldest < cutoff.isoformat():
+                    break
+            url = data.get("next_page_url")
+        merged["count"] = len(merged["results"])
+        payloads["api"] = merged
     return payloads
+
+
+def _extract_pdf_links(html: bytes, base_url: str, limit: int = 3) -> List[str]:
+    """Same-domain .pdf hrefs from an ingested HTML page (policy-doc harvesting)."""
+    from urllib.parse import urljoin, urlparse
+    from bs4 import BeautifulSoup
+    try:
+        soup = BeautifulSoup(html.decode("utf-8", "replace"), "html.parser")
+    except Exception:  # noqa: BLE001
+        return []
+    host = urlparse(base_url).netloc
+    out: List[str] = []
+    for a in soup.find_all("a", href=True):
+        full = urljoin(base_url, a["href"]).split("#")[0]
+        if full.lower().endswith(".pdf") and urlparse(full).netloc == host and full not in out:
+            out.append(full)
+            if len(out) >= limit:
+                break
+    return out
+
+
+def _find_by_reference(session, reference_number: str, exclude_regulator: str):
+    from sqlalchemy import select
+    from sajha.regagg.models import Document
+    return session.scalars(select(Document).where(
+        Document.reference_number == reference_number,
+        Document.regulator_id != exclude_regulator)).first()
+
+
+def _flush_run(session, run_id: str, manifest: RunManifest) -> None:
+    """Mid-run counter flush so the tracking UI can poll live progress."""
+    run = session.get(Run, run_id)
+    if run:
+        run.detected = manifest.detected
+        run.fetched = manifest.fetched
+        run.ingested = manifest.ingested
+        run.archived = manifest.archived
+        run.errors = manifest.errors
+        session.commit()
 
 
 def _resolve_sitemap(url: str, opener: SourceOpener, depth: int = 0) -> bytes:
@@ -114,18 +167,31 @@ def run_regulator(
     versioning = CorpusVersioning(session, storage)
     seen = _load_seen(session, config.id)
 
+    HARVEST_PER_PAGE, HARVEST_CAP = 3, 40
     try:
         payloads = _fetch_source_payloads(config, source_opener)
         connector = get_connector(config, run_id, seen)
         events: List[DetectionEvent] = connector.detect(payloads)
         manifest.detected = len(events)
-        if max_docs is not None and len(events) > max_docs:
-            # sample cap (live sampling / polite crawl); full run drops the cap
-            events = events[:max_docs]
-        manifest.detected_urls = [e.url for e in events]
-
-        for ev in events:
+        queue = list(events if max_docs is None else events[:max_docs])
+        queued_urls = {e.url for e in queue}
+        manifest.detected_urls = [e.url for e in queue]
+        harvested = 0
+        processed = 0
+        i = 0
+        while i < len(queue):
+            ev = queue[i]
+            i += 1
             try:
+                # meta-source dedup: an agency copy of this reference already exists
+                if config.meta_source and ev.reference_number:
+                    dup = _find_by_reference(session, ev.reference_number,
+                                             exclude_regulator=config.id)
+                    if dup is not None:
+                        _record_seen(session, config.id, ev.url, dup.content_hash,
+                                     dup.doc_id, now)
+                        manifest.deduped += 1
+                        continue
                 fr = fetcher.fetch(ev.url, method=config.fetch)
                 manifest.fetched += 1
                 seen_row = session.get(SeenUrl, {"regulator_id": config.id, "url": ev.url})
@@ -140,18 +206,43 @@ def run_regulator(
                     raw=fr.raw, raw_ext=fr.raw_ext,
                     reference_number=ev.reference_number,
                     published_date=ev.published_date, ocr=fr.ocr,
-                    tags=list(config.default_tags), doc_id=doc_id)
+                    tags=list(config.default_tags), doc_id=doc_id,
+                    source_kind="policy_pdf" if fr.raw_ext == "pdf" else "web")
                 result = versioning.ingest(inp, run_id=run_id, now=now)
                 if result.action in ("created", "updated"):
                     manifest.ingested += 1
+                    # deterministic enrichment (reference number + rule-based edges)
+                    from sajha.regagg import rules
+                    from sajha.regagg.models import Document
+                    doc = session.get(Document, {"regulator_id": config.id,
+                                                 "doc_id": result.doc_id})
+                    if doc is not None:
+                        rules.apply_rules(session, doc, fr.content_md)
                 if result.action == "updated":
                     manifest.archived += 1
                 lastmod = ev.published_date.isoformat() if ev.published_date else None
                 _record_seen(session, config.id, ev.url, fr.content_hash,
                              result.doc_id, now, lastmod)
+                # policy-PDF harvesting from ingested HTML pages
+                if (config.harvest_pdfs and fr.raw_ext == "html"
+                        and harvested < HARVEST_CAP
+                        and (max_docs is None or len(queue) < max_docs * 2)):
+                    for pu in _extract_pdf_links(fr.raw, ev.url, HARVEST_PER_PAGE):
+                        if pu in queued_urls or pu in seen:
+                            continue
+                        queued_urls.add(pu)
+                        harvested += 1
+                        queue.append(DetectionEvent(
+                            regulator_id=config.id, url=pu, run_id=run_id,
+                            title=None, published_date=ev.published_date,
+                            doc_type_hint=ev.doc_type_hint, source="pdf_harvest"))
+                        manifest.detected += 1
             except Exception as e:  # noqa: BLE001 — one bad doc must not fail the run
                 manifest.errors += 1
                 manifest.error_list.append({"url": ev.url, "error": str(e)})
+            processed += 1
+            if processed % 10 == 0:
+                _flush_run(session, run_id, manifest)   # live progress for the UI
         session.commit()
     except Exception as e:  # noqa: BLE001 — source-level failure
         manifest.errors += 1

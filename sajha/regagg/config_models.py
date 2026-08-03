@@ -108,6 +108,8 @@ class RegulatorConfig(_Strict):
     staleness_alert_days: int = 14
     backfill_cutoff: Optional[date] = None
     notes: Optional[str] = None
+    meta_source: bool = False        # e.g. Federal Register: dedup vs agency copies
+    harvest_pdfs: bool = True        # extract same-domain PDF links from ingested HTML
 
     @model_validator(mode="after")
     def _check_connector_sources(self) -> "RegulatorConfig":

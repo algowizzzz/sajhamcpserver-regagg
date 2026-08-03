@@ -124,6 +124,7 @@ class Document(Base):
     effective_date = Column(Date)
     comment_deadline = Column(Date)
     status = Column(String(16), nullable=False, default="final")
+    source_kind = Column(String(16), nullable=False, default="web")  # web | policy_pdf
     content_hash = Column(String(80), nullable=False)
     s3_prefix = Column(Text, nullable=False)           # current/ prefix in object storage
     source_url = Column(Text, nullable=False)

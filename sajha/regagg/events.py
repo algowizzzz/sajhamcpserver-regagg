@@ -57,6 +57,7 @@ class RunManifest:
     fetched: int = 0
     ingested: int = 0
     archived: int = 0
+    deduped: int = 0          # meta-source entries skipped (agency copy canonical)
     errors: int = 0
     status: str = "running"
     error_list: list = field(default_factory=list)
