@@ -62,10 +62,16 @@ def make_openers(rps: float, timeout: int):
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--max-docs", type=int, default=3)
+    ap.add_argument("--max-docs", type=int, default=None,
+                    help="per-regulator cap (default: uncapped)")
     ap.add_argument("--rps", type=float, default=1.0)
     ap.add_argument("--timeout", type=int, default=20)
     ap.add_argument("--only", help="comma-separated regulator ids")
+    ap.add_argument("--skip", help="comma-separated regulator ids to exclude")
+    ap.add_argument("--giants", default="",
+                    help="ids run LAST with --giant-cap (huge sitemaps)")
+    ap.add_argument("--giant-cap", type=int, default=None,
+                    help="max docs for --giants regulators this run")
     args = ap.parse_args()
 
     engine = create_engine(DB, connect_args={"timeout": 30})  # wait out server write-locks
@@ -76,6 +82,14 @@ def main() -> int:
     if args.only:
         want = set(args.only.split(","))
         configs = {k: v for k, v in configs.items() if k in want}
+    if args.skip:
+        skip = set(args.skip.split(","))
+        configs = {k: v for k, v in configs.items() if k not in skip}
+    # fast regulators first; giants (huge sitemaps) last, optionally capped
+    giants = [g for g in (args.giants.split(",") if args.giants else []) if g in configs]
+    ordered = ([k for k in configs if k not in giants] + giants)
+    configs = {k: configs[k] for k in ordered}
+    caps = {k: (args.giant_cap if k in giants else args.max_docs) for k in configs}
 
     for cfg in configs.values():
         session.merge(Regulator(regulator_id=cfg.id, name=cfg.name, jurisdiction=cfg.jurisdiction,
@@ -92,7 +106,7 @@ def main() -> int:
         run_id = f"{logical}_{cfg.id}_live"
         try:
             m = run_regulator(session, storage, cfg, source_opener, fetcher, run_id,
-                              logical, trigger="schedule", now=now, max_docs=args.max_docs)
+                              logical, trigger="schedule", now=now, max_docs=caps[cfg.id])
             totals["docs"] += m.ingested
             totals["errors"] += m.errors
             print(f"  {cfg.id:9s} {m.status:14s} detected={m.detected:3d} "
