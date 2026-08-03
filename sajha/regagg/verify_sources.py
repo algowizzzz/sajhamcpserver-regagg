@@ -110,6 +110,12 @@ def _parse_and_count(kind: str, body: bytes) -> Tuple[bool, int, Optional[date],
         except ET.ParseError as e:
             return False, 0, None, f"xml parse error: {e}"
         ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+        # a sitemap INDEX is valid: the pipeline recurses into child sitemaps
+        if root.tag.split("}")[-1] == "sitemapindex":
+            kids = root.findall(".//sm:sitemap", ns) or root.findall(".//sitemap")
+            newest = _newest_lastmod(root, ns)
+            return (len(kids) >= 1, len(kids), newest,
+                    "empty sitemap index" if not kids else "")
         locs = root.findall(".//sm:url", ns) or root.findall(".//url")
         newest = _newest_lastmod(root, ns)
         return (len(locs) >= 1, len(locs), newest,

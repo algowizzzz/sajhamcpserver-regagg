@@ -4,19 +4,25 @@ id: hkma
 name: "Hong Kong Monetary Authority"
 jurisdiction: HK
 active: true
-connector: rss
+# Discovery pass 2026-08-02: RSS endpoints removed (404). Site ships a full
+# sitemap.xml (~3.8MB) — switched to sitemap_diff scoped by include_patterns
+# to the EN press-release + circular/guideline sections.
+connector: sitemap_diff
 sources:
-  feeds:
-    - url: https://www.hkma.gov.hk/eng/rss/press-releases.xml
-      verified: false
-      checked_at: null
-    - url: https://www.hkma.gov.hk/eng/rss/circulars.xml
+  sitemap:
+    url: https://www.hkma.gov.hk/sitemap.xml
+    verified: false
+    checked_at: null
+  listing_pages:
+    - url: https://www.hkma.gov.hk/eng/news-and-media/press-releases/
       verified: false
       checked_at: null
 fetch: html_to_md
 rate_limit_rps: 0.5
 schedule: daily_morning
-include_patterns: []        # tighten after verification
+include_patterns:
+  - "/eng/news-and-media/press-releases/.+"
+  - "/eng/regulatory-resources/.+"
 exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
 default_tags:
   - hong_kong

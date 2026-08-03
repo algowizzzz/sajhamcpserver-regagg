@@ -4,13 +4,12 @@ id: fdic
 name: "Federal Deposit Insurance Corporation"
 jurisdiction: US
 active: true
+# Discovery pass 2026-08-02: legacy /rss/*.xml paths are dead (404);
+# site-wide feed at /rss.xml is live and includes press releases + FILs.
 connector: rss
 sources:
   feeds:
-    - url: https://www.fdic.gov/rss/press-releases.xml
-      verified: false
-      checked_at: null
-    - url: https://www.fdic.gov/rss/financial-institution-letters.xml
+    - url: https://www.fdic.gov/rss.xml
       verified: false
       checked_at: null
 fetch: html_to_md
