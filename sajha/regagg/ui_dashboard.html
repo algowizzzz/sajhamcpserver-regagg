@@ -871,7 +871,7 @@ async function loadAll(){
 loadAll();
 // hash routing: /ui#corpus, #chg, #run are deep-linkable pages
 const h=location.hash.replace("#","");
-if(["brw","chg","run","corpus"].includes(h))show(h==="corpus"?"brw":h,false);
+if(["brw","chg","run","corpus","exp"].includes(h))show(h==="corpus"?"brw":h,false);
 </script>
 </body>
 </html>
