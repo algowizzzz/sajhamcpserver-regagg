@@ -48,6 +48,25 @@ async def mcp_endpoint(request: Request, db: Session = Depends(get_db)):
             'error': {'code': -32700, 'message': 'Parse error'},
         }, status_code=400)
 
+    # Enforce per-API-key tool scoping on tools/call (the DAO defines
+    # allow/deny lists but this transport never consulted them).
+    if (auth.authenticated and auth.auth_type == 'apikey'
+            and isinstance(request_data, dict)
+            and request_data.get('method') == 'tools/call'):
+        raw_key = request.headers.get('X-API-Key', '') or \
+            request.headers.get('Authorization', '')
+        from sajha.db.dao import ApiKeyDAO
+        dao = ApiKeyDAO(db)
+        ok, key_row, _ = dao.validate_key(raw_key)
+        tool_name = (request_data.get('params') or {}).get('name', '')
+        if ok and key_row and not dao.check_tool_access(key_row, tool_name):
+            return JSONResponse({
+                'jsonrpc': '2.0',
+                'error': {'code': -32001,
+                          'message': f"API key not authorized for tool '{tool_name}'"},
+                'id': request_data.get('id'),
+            }, status_code=403)
+
     response = mcp_handler.handle_request(request_data, session_data)
     return JSONResponse(response)
 
