@@ -1,0 +1,32 @@
+{
+  "name": "reg_inventory",
+  "implementation": "sajha.tools.impl.reg_tools.RegInventoryTool",
+  "description": "Completeness reconciliation vs the regulator's official index (e.g. all 9 OSFI CAR chapters present?). Per-series present/missing.",
+  "version": "0.1.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "regulator_id": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "regulator_id"
+    ]
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Regulatory Intelligence",
+    "tags": [
+      "regulatory",
+      "compliance",
+      "aggregator"
+    ],
+    "cacheTTL": 300,
+    "readOnly": true
+  }
+}

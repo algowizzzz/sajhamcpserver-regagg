@@ -116,6 +116,160 @@ class RegWhatsNewTool(_RegToolBase):
         }
 
 
+class RegCoverageTool(_RegToolBase):
+    """Coverage tree: regions -> institutions with doc counts (web/PDF), new-in-window,
+    freshness/staleness, last run, and coverage %. The trust map of the corpus."""
+
+    def execute(self, arguments: Dict[str, Any]) -> Any:
+        from sajha.regagg import queries_ui
+        session, _ = self._ctx()
+        return queries_ui.coverage_tree(session, days=int(arguments.get("days", 7)))
+
+    def get_input_schema(self) -> Dict:
+        return {"type": "object",
+                "properties": {"days": {"type": "integer", "default": 7}}}
+
+
+class RegBrowseTool(_RegToolBase):
+    """Metadata listing of the corpus (NO content — pair with your own RAG for text):
+    filter by continent/region, institution, file type, doc_type, status, date, text
+    on title/reference. Returns facet counts + document metadata rows."""
+
+    def execute(self, arguments: Dict[str, Any]) -> Any:
+        from sajha.regagg import queries_ui
+        session, _ = self._ctx()
+        return queries_ui.corpus_browse(
+            session, region=arguments.get("region"),
+            regulator_ids=arguments.get("regulator_id"),
+            kind=arguments.get("source_kind"), doc_type=arguments.get("doc_type"),
+            status=arguments.get("status"), q=arguments.get("q"),
+            date_from=arguments.get("date_from"), date_to=arguments.get("date_to"),
+            limit=min(int(arguments.get("limit", 50)), 200),
+            offset=int(arguments.get("offset", 0)))
+
+    def get_input_schema(self) -> Dict:
+        return {
+            "type": "object",
+            "properties": {
+                "region": {"type": "string",
+                           "enum": ["Canada", "United States", "EU & UK", "APAC", "International"]},
+                "regulator_id": {"type": "array", "items": {"type": "string"}},
+                "source_kind": {"type": "string", "enum": ["web", "policy_pdf"]},
+                "doc_type": {"type": "string"},
+                "status": {"type": "string",
+                           "enum": ["proposed", "final", "superseded", "withdrawn"]},
+                "q": {"type": "string", "description": "title/reference contains"},
+                "date_from": {"type": "string"}, "date_to": {"type": "string"},
+                "limit": {"type": "integer", "default": 50},
+                "offset": {"type": "integer", "default": 0},
+            },
+        }
+
+
+class RegChangesTool(_RegToolBase):
+    """Delta feed: new / revised / superseded documents and upcoming comment
+    deadlines in a window, filterable by region, institution, file type, dates."""
+
+    def execute(self, arguments: Dict[str, Any]) -> Any:
+        from sajha.regagg import queries_ui
+        session, _ = self._ctx()
+        return queries_ui.changes(
+            session, days=int(arguments.get("days", 7)),
+            region=arguments.get("region"),
+            regulator_ids=arguments.get("regulator_id"),
+            source_kind=arguments.get("source_kind"),
+            kinds=arguments.get("kinds"),
+            date_from=arguments.get("date_from"), date_to=arguments.get("date_to"))
+
+    def get_input_schema(self) -> Dict:
+        return {
+            "type": "object",
+            "properties": {
+                "days": {"type": "integer", "default": 7},
+                "region": {"type": "string"},
+                "regulator_id": {"type": "array", "items": {"type": "string"}},
+                "source_kind": {"type": "string", "enum": ["web", "policy_pdf"]},
+                "kinds": {"type": "array", "items": {
+                    "type": "string", "enum": ["new", "revised", "superseded", "deadline"]}},
+                "date_from": {"type": "string"}, "date_to": {"type": "string"},
+            },
+        }
+
+
+class RegDiffTool(_RegToolBase):
+    """Unified diff between a document's current and previous archived version —
+    'what exactly changed', line by line, with added/removed counts."""
+
+    def execute(self, arguments: Dict[str, Any]) -> Any:
+        from sajha.regagg import queries_ui
+        session, storage = self._ctx()
+        return queries_ui.version_diff(session, storage,
+                                       arguments["regulator_id"], arguments["doc_id"])
+
+    def get_input_schema(self) -> Dict:
+        return {"type": "object",
+                "properties": {"regulator_id": {"type": "string"},
+                               "doc_id": {"type": "string"}},
+                "required": ["regulator_id", "doc_id"]}
+
+
+class RegInventoryTool(_RegToolBase):
+    """Expected-inventory reconciliation: does the corpus hold every item the
+    regulator's official index says should exist (e.g. all 9 OSFI CAR chapters)?
+    Returns per-series present/missing."""
+
+    def execute(self, arguments: Dict[str, Any]) -> Any:
+        from sajha.regagg import queries_ui
+        session, _ = self._ctx()
+        return queries_ui.inventory(session, arguments["regulator_id"])
+
+    def get_input_schema(self) -> Dict:
+        return {"type": "object",
+                "properties": {"regulator_id": {"type": "string"}},
+                "required": ["regulator_id"]}
+
+
+class RegRunsStatusTool(_RegToolBase):
+    """Collection health: active runs with live counters, recent run history,
+    daily delta (new/archived/errors + pass rate) and today's failing runs."""
+
+    def execute(self, arguments: Dict[str, Any]) -> Any:
+        from sajha.regagg import queries_ui
+        session, _ = self._ctx()
+        return queries_ui.runs_overview(session)
+
+    def get_input_schema(self) -> Dict:
+        return {"type": "object", "properties": {}}
+
+
+class RegTriggerRunTool(_RegToolBase):
+    """Trigger a collection run (all regulators or a subset). Spawns the same
+    audited ingest as the UI Run buttons; refuses if a run is already active.
+    MUTATING — disable in config/tools/reg_trigger_run.json or exclude it from
+    an agent's key scope if agents must stay read-only."""
+
+    def execute(self, arguments: Dict[str, Any]) -> Any:
+        from sajha.regagg import runtime as _rt
+        ids_ = arguments.get("regulator_id")
+        return _rt.get_rerun_trigger()(
+            scope="ids" if ids_ else "all", logical_date=None, ids=ids_,
+            operator=arguments.get("operator", "mcp-agent"),
+            max_docs=arguments.get("max_docs"), include=arguments.get("include"))
+
+    def get_input_schema(self) -> Dict:
+        return {
+            "type": "object",
+            "properties": {
+                "regulator_id": {"type": "array", "items": {"type": "string"},
+                                 "description": "omit = all active regulators"},
+                "max_docs": {"type": "integer"},
+                "include": {"type": "string",
+                            "description": "URL regex scope (targeted gap-fill)"},
+                "operator": {"type": "string", "default": "mcp-agent"},
+            },
+        }
+
+
 class RegGraphTool(_RegToolBase):
     def execute(self, arguments: Dict[str, Any]) -> Any:
         session, _ = self._ctx()

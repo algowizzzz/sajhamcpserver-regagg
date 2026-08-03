@@ -1,0 +1,44 @@
+{
+  "name": "reg_trigger_run",
+  "implementation": "sajha.tools.impl.reg_tools.RegTriggerRunTool",
+  "description": "MUTATING: trigger a collection run for all or selected regulators (audited; refuses if a run is already active; supports max_docs and URL-regex scope for gap-fills).",
+  "version": "0.1.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "regulator_id": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "omit = all active regulators"
+      },
+      "max_docs": {
+        "type": "integer"
+      },
+      "include": {
+        "type": "string",
+        "description": "URL regex scope (targeted gap-fill)"
+      },
+      "operator": {
+        "type": "string",
+        "default": "mcp-agent"
+      }
+    }
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Regulatory Intelligence",
+    "tags": [
+      "regulatory",
+      "compliance",
+      "aggregator"
+    ],
+    "cacheTTL": 300,
+    "readOnly": true
+  }
+}

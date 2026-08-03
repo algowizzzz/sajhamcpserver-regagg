@@ -1,0 +1,79 @@
+{
+  "name": "reg_browse",
+  "implementation": "sajha.tools.impl.reg_tools.RegBrowseTool",
+  "description": "Metadata listing of the corpus (no content): filter by continent, institution, file type, doc type, status, dates, title/reference text. Returns facet counts + document metadata.",
+  "version": "0.1.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "region": {
+        "type": "string",
+        "enum": [
+          "Canada",
+          "United States",
+          "EU & UK",
+          "APAC",
+          "International"
+        ]
+      },
+      "regulator_id": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "source_kind": {
+        "type": "string",
+        "enum": [
+          "web",
+          "policy_pdf"
+        ]
+      },
+      "doc_type": {
+        "type": "string"
+      },
+      "status": {
+        "type": "string",
+        "enum": [
+          "proposed",
+          "final",
+          "superseded",
+          "withdrawn"
+        ]
+      },
+      "q": {
+        "type": "string",
+        "description": "title/reference contains"
+      },
+      "date_from": {
+        "type": "string"
+      },
+      "date_to": {
+        "type": "string"
+      },
+      "limit": {
+        "type": "integer",
+        "default": 50
+      },
+      "offset": {
+        "type": "integer",
+        "default": 0
+      }
+    }
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Regulatory Intelligence",
+    "tags": [
+      "regulatory",
+      "compliance",
+      "aggregator"
+    ],
+    "cacheTTL": 300,
+    "readOnly": true
+  }
+}

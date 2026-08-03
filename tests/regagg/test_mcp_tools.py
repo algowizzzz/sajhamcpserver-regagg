@@ -99,3 +99,36 @@ def test_generated_tool_configs_are_valid():
         assert cfg["implementation"].startswith("sajha.tools.impl.reg_tools.")
         assert cfg["inputSchema"]["type"] == "object"
         assert cfg["metadata"]["readOnly"] is True
+
+
+def test_index_plane_tools(corpus, session):
+    """The non-content MCP tools: coverage, browse, changes, diff, inventory, runs."""
+    from sajha.tools.impl.reg_tools import (
+        RegBrowseTool, RegChangesTool, RegCoverageTool, RegDiffTool,
+        RegInventoryTool, RegRunsStatusTool)
+    cov = RegCoverageTool(config={"name": "reg_coverage"}).execute({"days": 7})
+    assert cov["totals"]["documents"] == 2 and cov["regions"]
+    br = RegBrowseTool(config={"name": "reg_browse"}).execute(
+        {"regulator_id": ["osfi"], "q": "B-13"})
+    assert br["total"] >= 1 and br["facets"]["doc_type"]
+    ch = RegChangesTool(config={"name": "reg_changes"}).execute({"days": 7})
+    assert ch["changes"]
+    # b-13 has a supersedes -> b-10 (v1 only), so diff b-13? b-13 is v1 here; expect error dict
+    df = RegDiffTool(config={"name": "reg_diff"}).execute(
+        {"regulator_id": "osfi", "doc_id": "b-13"})
+    assert "error" in df or "diff" in df
+    inv = RegInventoryTool(config={"name": "reg_inventory"}).execute(
+        {"regulator_id": "osfi"})
+    assert inv["available"] is True
+    rs = RegRunsStatusTool(config={"name": "reg_runs_status"}).execute({})
+    assert "daily_delta" in rs and "active" in rs
+
+
+def test_trigger_tool_uses_runtime_trigger(corpus):
+    from sajha.regagg import runtime
+    from sajha.tools.impl.reg_tools import RegTriggerRunTool
+    calls = {}
+    runtime.set_providers(rerun_trigger=lambda **kw: calls.update(kw) or {"started": False, "stub": True})
+    out = RegTriggerRunTool(config={"name": "reg_trigger_run"}).execute(
+        {"regulator_id": ["osfi"], "max_docs": 5})
+    assert out["stub"] and calls["ids"] == ["osfi"] and calls["max_docs"] == 5

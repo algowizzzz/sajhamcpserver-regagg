@@ -1,0 +1,25 @@
+{
+  "name": "reg_runs_status",
+  "implementation": "sajha.tools.impl.reg_tools.RegRunsStatusTool",
+  "description": "Collection health: active runs (live counters), recent history, daily delta with pass rate, today's failing runs.",
+  "version": "0.1.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {}
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Regulatory Intelligence",
+    "tags": [
+      "regulatory",
+      "compliance",
+      "aggregator"
+    ],
+    "cacheTTL": 300,
+    "readOnly": true
+  }
+}

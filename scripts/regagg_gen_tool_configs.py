@@ -16,10 +16,36 @@ REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO))
 
 from sajha.tools.impl.reg_tools import (  # noqa: E402
-    RegGraphTool, RegReadTool, RegSearchTool, RegTagsTool, RegWhatsNewTool,
+    RegBrowseTool, RegChangesTool, RegCoverageTool, RegDiffTool, RegGraphTool,
+    RegInventoryTool, RegReadTool, RegRunsStatusTool, RegSearchTool, RegTagsTool,
+    RegTriggerRunTool, RegWhatsNewTool,
 )
 
 TOOLS = [
+    ("reg_coverage", RegCoverageTool,
+     "Coverage tree of the regulatory corpus: regions -> institutions with doc "
+     "counts (web/policy-PDF), new-in-window, freshness, and coverage % vs what "
+     "each source advertises."),
+    ("reg_browse", RegBrowseTool,
+     "Metadata listing of the corpus (no content): filter by continent, "
+     "institution, file type, doc type, status, dates, title/reference text. "
+     "Returns facet counts + document metadata."),
+    ("reg_changes", RegChangesTool,
+     "Delta feed: new / revised / superseded documents and upcoming comment "
+     "deadlines in a window, filterable by region/institution/file type/dates."),
+    ("reg_diff", RegDiffTool,
+     "Line-by-line unified diff between a document's current and previous "
+     "archived version — what exactly changed."),
+    ("reg_inventory", RegInventoryTool,
+     "Completeness reconciliation vs the regulator's official index (e.g. all "
+     "9 OSFI CAR chapters present?). Per-series present/missing."),
+    ("reg_runs_status", RegRunsStatusTool,
+     "Collection health: active runs (live counters), recent history, daily "
+     "delta with pass rate, today's failing runs."),
+    ("reg_trigger_run", RegTriggerRunTool,
+     "MUTATING: trigger a collection run for all or selected regulators "
+     "(audited; refuses if a run is already active; supports max_docs and "
+     "URL-regex scope for gap-fills)."),
     ("reg_search", RegSearchTool,
      "Search the regulatory corpus (BM25 + filters) across ~30 regulators; "
      "filter by jurisdiction, regulator, doc_type, tags, date, status."),

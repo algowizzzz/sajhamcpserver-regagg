@@ -1,0 +1,30 @@
+{
+  "name": "reg_coverage",
+  "implementation": "sajha.tools.impl.reg_tools.RegCoverageTool",
+  "description": "Coverage tree of the regulatory corpus: regions -> institutions with doc counts (web/policy-PDF), new-in-window, freshness, and coverage % vs what each source advertises.",
+  "version": "0.1.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "days": {
+        "type": "integer",
+        "default": 7
+      }
+    }
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Regulatory Intelligence",
+    "tags": [
+      "regulatory",
+      "compliance",
+      "aggregator"
+    ],
+    "cacheTTL": 300,
+    "readOnly": true
+  }
+}

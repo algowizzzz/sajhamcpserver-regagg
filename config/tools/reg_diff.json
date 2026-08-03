@@ -1,0 +1,36 @@
+{
+  "name": "reg_diff",
+  "implementation": "sajha.tools.impl.reg_tools.RegDiffTool",
+  "description": "Line-by-line unified diff between a document's current and previous archived version \u2014 what exactly changed.",
+  "version": "0.1.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "regulator_id": {
+        "type": "string"
+      },
+      "doc_id": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "regulator_id",
+      "doc_id"
+    ]
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Regulatory Intelligence",
+    "tags": [
+      "regulatory",
+      "compliance",
+      "aggregator"
+    ],
+    "cacheTTL": 300,
+    "readOnly": true
+  }
+}
