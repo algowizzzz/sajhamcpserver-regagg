@@ -85,10 +85,18 @@ def get_taxonomy() -> dict:
 
 
 def wire_from_app() -> None:  # pragma: no cover - exercised in the running server
-    """Wire providers to the live SAJHA app (call once at startup)."""
-    from sajha.db.engine import get_db_session
+    """Wire providers to the live SAJHA app (call once at startup).
+
+    Sessions are THREAD-SCOPED (scoped_session): each request-handler thread
+    reuses one session instead of leaking a new pooled connection per API call
+    — a fresh session per call exhausted the QueuePool (5+10) within minutes
+    under the dashboard's 5s polling."""
+    from sqlalchemy.orm import scoped_session, sessionmaker
+    from sajha.db.engine import get_engine
     from sajha.core.storage import get_storage as _s
     from sajha.regagg.config_loader import load_all
-    set_providers(session=get_db_session,
+    SessionLocal = scoped_session(
+        sessionmaker(bind=get_engine(), expire_on_commit=False, autoflush=False))
+    set_providers(session=SessionLocal,
                   storage=lambda: CorpusStorage(_s()),
                   configs=load_all)

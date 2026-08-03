@@ -164,6 +164,25 @@
   .drbody pre{background:var(--surface2);border:1px solid var(--line2);border-radius:8px;
        padding:12px;font-size:11.5px;overflow:auto;color:var(--ink2);white-space:pre-wrap;
        font-family:ui-monospace,Menlo,monospace}
+  /* rendered document (rich markdown) */
+  .md{font-size:13.5px;line-height:1.65;color:var(--ink)}
+  .md h1{font-size:19px;margin:4px 0 10px;line-height:1.3}
+  .md h2{font-size:16px;margin:18px 0 7px;padding-bottom:4px;border-bottom:1px solid var(--line2)}
+  .md h3{font-size:14px;margin:14px 0 5px}
+  .md h4,.md h5{font-size:13px;margin:12px 0 4px}
+  .md p{margin:7px 0;color:var(--ink2)}
+  .md li{margin:3px 0;color:var(--ink2)}
+  .md ul,.md ol{padding-left:22px;margin:6px 0}
+  .md a{color:var(--blue)}
+  .md blockquote{border-left:3px solid var(--line);margin:8px 0;padding:2px 12px;color:var(--muted)}
+  .md code{background:var(--surface2);border:1px solid var(--line2);border-radius:4px;
+       padding:0 4px;font-family:ui-monospace,Menlo,monospace;font-size:12px}
+  .md pre code{border:none;background:none;padding:0}
+  .md table{border-collapse:collapse;margin:10px 0;width:auto;min-width:60%;box-shadow:none}
+  .md th,.md td{border:1px solid var(--line);padding:5px 10px;font-size:12.5px;text-align:left}
+  .md th{background:var(--surface2);color:var(--ink)}
+  .md hr{border:none;border-top:1px solid var(--line);margin:14px 0}
+  .md img{max-width:100%}
   .kv{display:grid;grid-template-columns:130px 1fr;gap:4px 12px;font-size:12px}
   .kv .k{color:var(--muted)}
   .kv .v{color:var(--ink);word-break:break-all}
@@ -591,6 +610,56 @@ function selTab(el){document.querySelectorAll(".tab").forEach(t=>t.classList.rem
   el.classList.add("on");$("drBody").innerHTML=window._render(el.dataset.k)}
 function closeDrawer(){$("scrim").classList.remove("show");$("drawer").classList.remove("show")}
 
+/* self-contained markdown -> HTML (headings, lists, tables, links, emphasis,
+   code, blockquotes). No external libs; input is escaped first. */
+function md2html(src){
+  if(!src)return"<p class='empty'>(empty document)</p>";
+  const lines=esc(src).replace(/\r/g,"").split("\n");
+  let out=[],i=0,listStack=[];
+  const closeLists=()=>{while(listStack.length)out.push(listStack.pop()==="ul"?"</ul>":"</ol>")};
+  const inline=t=>t
+    .replace(/`([^`]+)`/g,"<code>$1</code>")
+    .replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g,'<img alt="$1" src="$2">')
+    .replace(/\[([^\]]+)\]\(([^)\s]+)\)/g,'<a href="$2" target="_blank" rel="noopener">$1</a>')
+    .replace(/\*\*([^*]+)\*\*/g,"<b>$1</b>")
+    .replace(/(^|\W)\*([^*\n]+)\*(?=\W|$)/g,"$1<i>$2</i>")
+    .replace(/(^|\W)_([^_\n]+)_(?=\W|$)/g,"$1<i>$2</i>");
+  while(i<lines.length){
+    let l=lines[i];
+    if(/^```/.test(l)){ closeLists(); let buf=[];i++;
+      while(i<lines.length&&!/^```/.test(lines[i]))buf.push(lines[i++]);
+      i++; out.push("<pre><code>"+buf.join("\n")+"</code></pre>"); continue; }
+    if(/^\s*$/.test(l)){ closeLists(); i++; continue; }
+    const h=l.match(/^(#{1,5})\s+(.*)/);
+    if(h){ closeLists(); out.push(`<h${h[1].length}>${inline(h[2])}</h${h[1].length}>`); i++; continue; }
+    if(/^(\-{3,}|\*{3,}|_{3,})\s*$/.test(l)){ closeLists(); out.push("<hr>"); i++; continue; }
+    if(/^&gt;\s?/.test(l)){ closeLists(); let buf=[];
+      while(i<lines.length&&/^&gt;\s?/.test(lines[i]))buf.push(lines[i++].replace(/^&gt;\s?/,""));
+      out.push("<blockquote>"+buf.map(inline).join("<br>")+"</blockquote>"); continue; }
+    // table: header row + separator
+    if(/^\|.*\|\s*$/.test(l)&&i+1<lines.length&&/^\|[\s\-:|]+\|\s*$/.test(lines[i+1])){
+      closeLists();
+      const cells=r=>r.replace(/^\||\|$/g,"").split("|").map(c=>inline(c.trim()));
+      let html="<table><tr>"+cells(l).map(c=>`<th>${c}</th>`).join("")+"</tr>"; i+=2;
+      while(i<lines.length&&/^\|.*\|\s*$/.test(lines[i]))
+        html+="<tr>"+cells(lines[i++]).map(c=>`<td>${c}</td>`).join("")+"</tr>";
+      out.push(html+"</table>"); continue; }
+    const ul=l.match(/^(\s*)[-*+]\s+(.*)/), ol=l.match(/^(\s*)\d+[.)]\s+(.*)/);
+    if(ul||ol){
+      const kind=ul?"ul":"ol";
+      if(listStack[listStack.length-1]!==kind){closeLists();out.push(`<${kind}>`);listStack.push(kind);}
+      out.push(`<li>${inline((ul||ol)[2])}</li>`); i++; continue; }
+    closeLists();
+    // paragraph: merge soft-wrapped lines
+    let buf=[l];i++;
+    while(i<lines.length&&!/^\s*$/.test(lines[i])&&!/^(#{1,5}\s|[-*+]\s|\d+[.)]\s|\||&gt;|```)/.test(lines[i]))
+      buf.push(lines[i++]);
+    out.push("<p>"+inline(buf.join(" "))+"</p>");
+  }
+  closeLists();
+  return out.join("\n");
+}
+
 async function openDoc(reg,docId){
   const [summ,full,meta]=await Promise.all([
     j(`/documents/${reg}/${docId}/content?mode=summary`),
@@ -599,10 +668,13 @@ async function openDoc(reg,docId){
   const m=meta.meta||{};
   openPanel(m.title||docId,
     `${reg} · ${m.doc_type||""} ${m.reference_number?"· "+esc(m.reference_number):""} · v${m.version_n||1}`,
-    [["Markdown","md"],["Summary","sum"],["Provenance","meta"]],
+    [["Document","md"],["Summary","sum"],["Provenance","meta"],["Raw","raw"]],
     k=>{
-      if(k==="md")return `<pre>${esc((full.content||"(empty)").slice(0,40000))}</pre>`;
-      if(k==="sum")return `<pre>${esc(summ.content||"(no summary generated — enrichment pending)")}</pre>`;
+      if(k==="md")return `<div class="md">${md2html((full.content||"").slice(0,80000))}</div>`;
+      if(k==="raw")return `<pre>${esc((full.content||"(empty)").slice(0,40000))}</pre>`;
+      if(k==="sum")return summ.content
+        ?`<div class="md">${md2html(summ.content)}</div>`
+        :`<p class="empty">(no summary generated — enrichment pending)</p>`;
       const rows=[["doc_id",m.doc_id],["reference",m.reference_number],["status",m.status],
         ["source_kind",m.source_kind|| (m.canonical_format||"web")],["published",m.published_date],
         ["effective",m.effective_date],["comment deadline",m.comment_deadline],
