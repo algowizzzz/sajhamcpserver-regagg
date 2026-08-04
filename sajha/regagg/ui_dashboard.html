@@ -594,7 +594,7 @@ async function loadCorpus(reset=false){
   $("bPrev").disabled=_bOffset<=0; $("bNext").disabled=to>=data.total;
   $("bTable").className="";
   $("bTable").innerHTML=`<table><tr><th>Document</th><th>Institution</th><th>Type</th>
-    <th>Status</th><th>File</th><th>Published</th><th class="num">Ver</th></tr>`+
+    <th>Status</th><th>File</th><th>Published</th><th>Added</th><th class="num">Ver</th></tr>`+
     data.documents.map(d=>`<tr style="cursor:pointer" onclick='openDoc("${d.regulator_id}","${d.doc_id}")'>
       <td><b style="color:var(--blue)">${esc(d.title).slice(0,110)}</b>
         ${d.reference_number?`<span style="color:var(--muted);font-size:11px"> · ${esc(d.reference_number)}</span>`:""}
@@ -606,7 +606,9 @@ async function loadCorpus(reset=false){
       <td>${d.regulator_id}</td><td>${d.doc_type}</td>
       <td><span class="pill ${d.status==="final"?"ok":d.status==="superseded"?"failed":"ok_empty"}">${d.status}</span></td>
       <td>${d.source_kind==="policy_pdf"?'<span class="tag pdf">PDF</span>':'<span class="tag">web</span>'}</td>
-      <td>${d.published_date||"—"}</td><td class="num">${d.version_n}</td></tr>`).join("")
+      <td>${d.published_date||"—"}</td>
+      <td>${(d.ingested_at||"").slice(0,10)||"—"}</td>
+      <td class="num">${d.version_n}</td></tr>`).join("")
     +`</table>`;
 }
 function pageCorpus(dir){_bOffset=Math.max(0,_bOffset+dir*_bLimit);loadCorpus();}

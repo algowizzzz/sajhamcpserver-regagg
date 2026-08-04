@@ -33,7 +33,12 @@ def build_api_url(config: RegulatorConfig) -> str:
     api = config.sources.api
     if api and api.provider == "federal_register":
         agencies = "".join(f"&conditions[agencies][]={a}" for a in (api.agencies or []))
-        return f"{api.base}/documents.json?per_page=100&order=newest{agencies}"
+        # fields[] must be explicit — raw_text_url (the sanctioned full-text
+        # endpoint; html_url is bot-blocked) is NOT in the default field set
+        fields = "".join(f"&fields[]={f}" for f in (
+            "document_number", "title", "publication_date", "type",
+            "html_url", "raw_text_url"))
+        return f"{api.base}/documents.json?per_page=100&order=newest{agencies}{fields}"
     return api.base if api else ""
 
 
