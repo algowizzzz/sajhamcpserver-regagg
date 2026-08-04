@@ -154,3 +154,33 @@ def test_rss_backfill_cutoff_skips_old_items():
     from sajha.regagg.connectors import get_connector
     events = get_connector(cfg, "r").detect({"feeds": [feed]})
     assert [e.title for e in events] == ["New"]
+
+
+# ── markdown projection (agent-stack consumption layer) ─────────────────────
+
+def test_projection_write_through_and_layout(session, storage, seed_regulator):
+    from sajha.regagg import projection
+    cfg = load_one(CONFIGS / "osfi.yaml")
+    seed_regulator("osfi", "CA", "sitemap_diff")
+    page = f"{OSFI}/en/guidance/guideline-b-13"
+    pdf = f"{OSFI}/docs/b13.pdf"
+    html = (f'<html><head><title>B-13</title></head><body><main><h1>B-13</h1>'
+            f'<a href="{pdf}">PDF</a><p>web body</p></main></body></html>').encode()
+    sitemap = (f'<?xml version="1.0"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+               f'<url><loc>{page}</loc><lastmod>2026-08-01</lastmod></url></urlset>').encode()
+    src = {f"{OSFI}/sitemap.xml": sitemap, f"{OSFI}/en/guidance": b"<html></html>",
+           f"{OSFI}/en/news": b"<html></html>"}
+    fetcher = Fetcher(fixture_opener({page: (html, "text/html"),
+                                      pdf: (_valid_pdf_bytes(), "application/pdf")}))
+    run_regulator(session, storage, cfg, lambda u: src[u], fetcher,
+                  run_id="r1", logical_date="2026-08-02", now=NOW)
+    # web doc landed under markdown/web/..., harvested PDF under markdown/policy/...
+    files = storage.backend.list_files("data/markdown", "*.md")
+    kinds = {f.split("/")[2] for f in files}
+    assert kinds == {"web", "policy"}, files
+    web_file = [f for f in files if "/web/osfi/guidance/" in f][0]
+    text = storage.backend.read_text(web_file)
+    assert text.startswith("---") and 'source_url:' in text and "web body" in text
+    # resync is idempotent and covers everything with content
+    rep = projection.resync(session, storage)
+    assert rep["projected"] >= 1

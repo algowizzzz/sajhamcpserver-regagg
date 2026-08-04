@@ -254,12 +254,14 @@ def run_regulator(
                 if result.action in ("created", "updated"):
                     manifest.ingested += 1
                     # deterministic enrichment (reference number + rule-based edges)
-                    from sajha.regagg import rules
+                    from sajha.regagg import projection, rules
                     from sajha.regagg.models import Document
                     doc = session.get(Document, {"regulator_id": config.id,
                                                  "doc_id": result.doc_id})
                     if doc is not None:
                         rules.apply_rules(session, doc, fr.content_md)
+                        # write-through to the agent-stack markdown projection
+                        projection.project_doc(storage, doc)
                 if result.action == "updated":
                     manifest.archived += 1
                 lastmod = ev.published_date.isoformat() if ev.published_date else None

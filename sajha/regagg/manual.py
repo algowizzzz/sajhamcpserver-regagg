@@ -88,6 +88,8 @@ def add_document(
         rules.apply_rules(session, doc, content_md)
         session.merge(DocumentTag(regulator_id=regulator_id, doc_id=result.doc_id,
                                   tag="manual", source="manual"))
+        from sajha.regagg import projection
+        projection.project_doc(storage, doc)   # keep agent-stack mirror current
 
     # run row so the interjection is visible on the Runs page + audit trail
     session.merge(Run(run_id=run_id, regulator_id=regulator_id,

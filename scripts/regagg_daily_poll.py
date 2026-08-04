@@ -74,6 +74,12 @@ def main() -> int:
     storage = CorpusStorage(LocalStorageBackend(str(REPO)))
     resolved = rules.resolve_pending(session)
     rec = reconcile(session, storage)
+    # nightly self-heal of the agent-stack markdown projection (write-through
+    # covers normal ingests; this catches anything missed)
+    from sajha.regagg import projection
+    proj = projection.resync(session, storage)
+    print(f"[daily-poll] markdown projection: {proj['projected']} files current "
+          f"({proj['skipped_no_content']} without content)")
 
     # 4 — delta summary for the log line
     c = engine.connect()
