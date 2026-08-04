@@ -1,0 +1,6 @@
+Role,Allocation,Days / Sprint,SP Capacity / Sprint,Sprints,Notes
+Backend Engineer,100%,10,11,6,"Data layer, versioning, pipeline, ops"
+Full-stack Engineer,100%,10,11,6,"Dashboard UI, fetch layer, docs"
+AI Engineer,100%,10,11,6,"Connectors, enrichment, MCP tools, agentic"
+Business Analyst,25%,2.5,2,6,"Source sign-off, UX definitions, UAT"
+Project Manager,25%,2.5,0,6,"Ceremonies, RAID, reporting (non-pointed)"
