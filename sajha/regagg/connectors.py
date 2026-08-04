@@ -203,7 +203,9 @@ class ApiConnector(BaseConnector):
                 published_date=_parse_date(rec.get("publication_date")),
                 reference_number=rec.get("document_number"),
                 doc_type_hint=match_doc_type(type_str, self.config),
-                source="api:federal_register", is_update=url in self.seen))
+                source="api:federal_register", is_update=url in self.seen,
+                # html_url is bot-blocked; the API's raw_text_url is sanctioned
+                fetch_url=rec.get("raw_text_url")))
         return events
 
 

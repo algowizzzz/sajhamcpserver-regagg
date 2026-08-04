@@ -25,6 +25,9 @@ class DetectionEvent:
     reference_number: Optional[str] = None
     source: str = ""              # which feed/sitemap/api surfaced it
     is_update: bool = False       # url already seen, content hash changed
+    fetch_url: Optional[str] = None  # fetch HERE when set (e.g. FedReg raw_text_url
+                                     # — the sanctioned endpoint); `url` stays the
+                                     # provenance/identity anchor
 
     def to_dict(self) -> dict:
         d = dataclasses.asdict(self)

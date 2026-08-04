@@ -226,7 +226,7 @@ def run_regulator(
                                      dup.doc_id, now)
                         manifest.deduped += 1
                         continue
-                fr = fetcher.fetch(ev.url, method=config.fetch)
+                fr = fetcher.fetch(ev.fetch_url or ev.url, method=config.fetch)
                 manifest.fetched += 1
                 seen_row = session.get(SeenUrl, {"regulator_id": config.id, "url": ev.url})
                 doc_id = ids.stable_doc_id(
