@@ -10,7 +10,11 @@
       "enabled": true,
       "tool_access": {
         "mode": "allowlist",
-        "tools": ["wiki_search", "wiki_get_summary", "wiki_get_page"],
+        "tools": [
+          "wiki_search",
+          "wiki_get_summary",
+          "wiki_get_page"
+        ],
         "regex_patterns": []
       },
       "rate_limit": {
@@ -65,7 +69,14 @@
       "tool_access": {
         "mode": "regex",
         "tools": [],
-        "regex_patterns": ["^fed_.*", "^yahoo_.*", "^ecb_.*", "^boc_.*", "^sec_.*", "^edgar_.*"]
+        "regex_patterns": [
+          "^fed_.*",
+          "^yahoo_.*",
+          "^ecb_.*",
+          "^boc_.*",
+          "^sec_.*",
+          "^edgar_.*"
+        ]
       },
       "rate_limit": {
         "requests_per_minute": 60,
@@ -82,17 +93,19 @@
       }
     },
     {
-      "key": "sja_regintel_132a1b83ec357f0f1f2d998c614c436c",
+      "key": "sja_regintel_ROTATED-see-database",
       "name": "Regulatory Intelligence Agent",
-      "description": "Scoped key for the regulatory chatbot agent - reg_* retrieval tools only",
+      "description": "Rotated + disabled before repo publication; live key exists in DB only.",
       "created_by": "saad",
       "created_at": "2026-08-03T00:00:00Z",
       "expires_at": null,
-      "enabled": true,
+      "enabled": false,
       "tool_access": {
         "mode": "regex",
         "tools": [],
-        "regex_patterns": ["^reg_.*"]
+        "regex_patterns": [
+          "^reg_.*"
+        ]
       },
       "rate_limit": {
         "requests_per_minute": 120,
