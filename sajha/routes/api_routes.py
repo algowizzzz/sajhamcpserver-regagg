@@ -48,6 +48,21 @@ async def mcp_endpoint(request: Request, db: Session = Depends(get_db)):
             'error': {'code': -32700, 'message': 'Parse error'},
         }, status_code=400)
 
+    # tools/call REQUIRES authentication: discovery (initialize/tools/list)
+    # stays open, but execution never runs anonymously. (Previously an
+    # unauthenticated tools/call crashed on session=None; the crash fix must
+    # not become an anonymous-execution path.)
+    if (isinstance(request_data, dict)
+            and request_data.get('method') == 'tools/call'
+            and not auth.authenticated):
+        return JSONResponse({
+            'jsonrpc': '2.0',
+            'error': {'code': -32001,
+                      'message': 'Authentication required for tools/call '
+                                 '(X-API-Key or Bearer token)'},
+            'id': request_data.get('id'),
+        }, status_code=401)
+
     # Enforce per-API-key tool scoping on tools/call (the DAO defines
     # allow/deny lists but this transport never consulted them).
     if (auth.authenticated and auth.auth_type == 'apikey'
