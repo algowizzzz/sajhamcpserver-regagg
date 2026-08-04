@@ -174,7 +174,28 @@ def _doc_row(d: Document) -> dict:
 
 # ── full corpus browser (cross-institution, its own page) ───────────────────
 
-def corpus_browse(session, *, region: Optional[str] = None,
+def _excerpt(storage, s3_prefix: str, max_chars: int = 220) -> str:
+    """Deterministic description: first meaningful body text from content.md
+    (headings/links/blank lines skipped). Not an LLM summary — an excerpt."""
+    text = storage.read_content(s3_prefix) or ""
+    out = []
+    for line in text.splitlines():
+        l = line.strip()
+        if not l or l.startswith(("#", "|", "!", "```", "---", "* [", "- [")):
+            continue
+        out.append(l)
+        if sum(len(x) for x in out) >= max_chars:
+            break
+    import re as _re
+    joined = " ".join(out)
+    # strip residual markdown tokens + nav fragments that survive line filtering
+    joined = _re.sub(r"[#*_>`|]+", " ", joined)
+    joined = _re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", joined)
+    joined = _re.sub(r"\s{2,}", " ", joined).strip()
+    return (joined[:max_chars] + "…") if len(joined) > max_chars else joined
+
+
+def corpus_browse(session, storage=None, *, region: Optional[str] = None,
                   regulator_ids: Optional[List[str]] = None,
                   kind: Optional[str] = None, doc_type: Optional[str] = None,
                   status: Optional[str] = None, q: Optional[str] = None,
@@ -224,6 +245,8 @@ def corpus_browse(session, *, region: Optional[str] = None,
     for d in rows:
         r = _doc_row(d)
         r["regulator_id"] = d.regulator_id
+        if storage is not None:
+            r["excerpt"] = _excerpt(storage, d.s3_prefix)
         out_rows.append(r)
     return {"total": total, "offset": offset, "limit": limit,
             "facets": {"doc_type": _facet(Document.doc_type),

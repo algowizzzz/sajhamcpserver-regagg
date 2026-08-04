@@ -171,7 +171,7 @@ def create_admin_router() -> APIRouter:
                limit: int = 50, offset: int = 0):
         from sajha.regagg import queries_ui
         return queries_ui.corpus_browse(
-            runtime.get_session(), region=region,
+            runtime.get_session(), runtime.get_storage(), region=region,
             regulator_ids=regulators.split(",") if regulators else None,
             kind=kind, doc_type=doc_type, status=status, q=q,
             date_from=date_from, date_to=date_to,
