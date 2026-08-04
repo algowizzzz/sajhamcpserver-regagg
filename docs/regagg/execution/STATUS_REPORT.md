@@ -15,9 +15,15 @@ manual/system verifications, 13 passed, 1 pending the owner's agent stack).
   20-question citation eval, final PO acceptance, and the entire E10 backlog.
 
 ## Headline numbers (see Summary sheet for live formulas)
-62 scheduled stories: 55 Done · 2 Partial · 5 Not Started (all Not-Started
-items sit in Sprint 6 agent-side/acceptance work). 10 backlog stories (E10)
-are unscheduled by design. Corpus at reporting time: ~5,970 documents,
+Phase 1 (Sprints 1-6, 62 stories): 56 Done · 2 Partial · 4 Not Started — the
+open items are agent-side (skills authoring, citation eval) and final PO
+acceptance, all of which need the owner's agent platform.
+
+Phase 2 (Sprints 7-10, 30 stories, 131 SP): entirely Not Started by design —
+AWS migration, scale-out to 5,000 users and production integration have not
+begun. 10 backlog stories (E10) remain unscheduled.
+
+Overall: 102 stories · 190 of 375 SP delivered. Corpus at reporting time: ~5,970 documents,
 29/30 regulators collecting, 92/92 automated tests green.
 
 Files: `story_status.csv`, `test_cases.csv`, `Execution_Status.xlsx`

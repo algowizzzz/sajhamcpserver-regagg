@@ -44,6 +44,12 @@ EPICS = [
      "Twelve stateless reg_* MCP tools (content + index planes), API-key lifecycle, authentication required for execution, per-key tool allowlists enforced."),
     ("E9", "Agentic Integration",
      "Plug the corpus into the existing agent stack: markdown projection in the agent's consumption layout, scoped MCP connectivity, chatbot guide, agent skills, citation eval."),
+    ("E11", "Cloud Migration & Data Platform (AWS)",
+     "Lift the local stack onto the existing AWS production platform: PostgreSQL/RDS, S3-backed corpus and markdown projection, containerised collection workers, cloud scheduling, secrets management, infrastructure-as-code, cloud-native backup/DR."),
+    ("E12", "Scale & Performance (100 → 5,000 users)",
+     "Make the read path scale: eliminate per-row object-store reads, add caching and connection pooling, horizontally scale the stateless API/UI tier, parallelise ingestion via a queue, and prove SLOs under load-test to 5,000 users."),
+    ("E13", "Production Integration, Security & Operations",
+     "Integrate into the existing production MCP/agent platform: shared Postgres namespacing, tool registration, SSO + RBAC, per-tenant keys and quotas, observability and alerting, CI/CD and IaC, security review, cutover and hypercare."),
     ("E10", "Future Enhancements (Backlog)",
      "Post-MVP: govinfo full-text connector, simple-mode overview UX, Playwright fetch, Postgres, more inventories, digests, production hardening, LLM enrichment."),
 ]
@@ -298,6 +304,124 @@ S = [
   2,"BA",NS,"Pending PO session"),
  ("PM-S6","E5",6,"PM: go/no-go readiness review & handover","Deployment readiness review, handover of runbooks/KB, closure report.","Readiness review held; handover acknowledged",0,"PM",NS,"Pending"),
 
+ # Sprint 7 — Cloud foundation & data migration
+ ("REG-801","E11",7,"Infrastructure-as-code baseline for the aggregator",
+  "Codify the aggregator's AWS footprint (RDS access, S3 buckets/prefixes, ECR repo, ECS task definitions, EventBridge rules, IAM roles) as reviewable IaC in the platform's existing tooling, with per-environment parameters.",
+  "dev/staging/prod stacks deploy from code with no console steps; IAM follows least privilege; teardown/redeploy reproduces an identical environment; peer-reviewed and merged",
+  8,"Backend","Not Started","Requires platform/DevOps skills — see capacity assumption"),
+ ("REG-802","E11",7,"PostgreSQL migration & schema deployment",
+  "Deploy the reg_* schema into the existing production PostgreSQL (namespaced, no collisions with platform tables) and migrate the SQLite corpus index with full fidelity; establish forward migration tooling.",
+  "All 9 reg_* tables created via versioned migration; row counts and invariants match source exactly; one-current-per-doc enforced by partial unique index; rollback path documented; full test suite green against Postgres",
+  8,"Backend","Not Started","DDL shipped (003_regagg_schema.sql); reg_ prefix already prevents collisions"),
+ ("REG-803","E11",7,"S3 storage cutover for corpus and markdown projection",
+  "Switch the storage backend from local disk to S3 for the canonical corpus (raw/meta/versions/archive) and the agent-facing markdown projection, preserving the exact key layout the agent tools consume.",
+  "Existing ~6GB corpus migrated with checksum verification; ingestion writes to S3; projection paths unchanged for agent tools; archive immutability enforced via bucket policy/versioning; no local-disk dependency remains",
+  5,"Backend","Not Started","Storage abstraction already supports s3 backend"),
+ ("REG-804","E11",7,"Secrets and environment configuration management",
+  "Move API keys, database credentials and per-environment settings into the platform's secrets manager/parameter store; remove file-based keys; document rotation.",
+  "No credential exists in the repo or on disk; application resolves secrets at runtime per environment; key rotation performed without redeploy; rotation SOP documented",
+  3,"Backend","Not Started","Local build already rotated keys to DB-only"),
+ ("REG-805","E11",7,"Containerise collection workers",
+  "Package the collection pipeline as a container image (pinned dependencies, non-root, health check) published to the registry, runnable as a one-shot task.",
+  "Image builds reproducibly in CI; a task run performs a full regulator ingest against RDS+S3; image scanned for vulnerabilities with no criticals",
+  5,"Full-stack","Not Started",""),
+ ("REG-806","E11",8,"Cloud-scheduled daily and weekly ingestion",
+  "Replace host cron with cloud scheduling: daily delta run and weekly deep run as scheduled container tasks, with concurrency guard, timeout, retry and failure notification.",
+  "Daily/weekly schedules fire reliably; overlapping runs prevented; failures raise an alert; run history visible in the existing dashboard exactly as today",
+  5,"Backend","Not Started","Poller entrypoint + single-run guard already built"),
+ ("REG-807","E11",8,"Cloud backup, retention and restore drill",
+  "Adopt platform-native durability: RDS automated backups with point-in-time recovery, S3 versioning plus lifecycle tiering for archive, and a documented restore procedure.",
+  "PITR verified by restoring to a scratch instance; S3 versioning protects against accidental deletion; lifecycle policy moves cold archive to cheaper tier; restore drill timed and documented against RPO/RTO targets",
+  5,"Backend","Not Started","Local backup script is the interim control"),
+ ("REG-808","E11",7,"BA: data classification, residency and retention sign-off",
+  "Confirm classification of the corpus (public regulatory content plus internal metadata), residency requirements and retention obligations for the cloud footprint.",
+  "Classification recorded; residency constraints reflected in region/bucket choices; retention schedule agreed with compliance",
+  2,"BA","Not Started",""),
+ ("PM-S7","E11",7,"PM: sprint ceremonies, cloud dependency management","Recurring PM allocation plus coordination with the platform team.","Ceremonies held; cross-team dependencies tracked; sprint report issued",0,"PM","Not Started","Recurring"),
+
+ # Sprint 8 — Production platform integration & scale-out
+ ("REG-901","E13",9,"Register reg_* tools on the production MCP server",
+  "Deploy the twelve reg_* tool definitions into the existing production MCP server so the production agent can call them, without forking platform code.",
+  "All twelve tools discoverable and callable in production; naming does not collide with existing platform tools; mutating tool (trigger run) gated by role; smoke test from the production agent passes",
+  5,"AI","Not Started","Tools are config-driven; index+content planes already built"),
+ ("REG-902","E12",8,"Eliminate per-row object-store reads on the read path",
+  "Remove N+1 storage reads: persist document excerpts as a database column at ingest instead of reading each markdown file per listing row, and stop reading document bodies during search scoring.",
+  "Corpus listing issues a single database query with zero object-store calls; excerpt backfilled for existing corpus and maintained at ingest; p95 listing latency under target with cold cache",
+  5,"Backend","Not Started","Measured defect: 50-row page = 50 object reads"),
+ ("REG-903","E12",8,"Delegate content search to the platform search layer",
+  "Point content retrieval at the platform's existing BM25/RAG index over the markdown projection, keeping the filter-then-rank contract; retire the interim in-process scorer.",
+  "reg_search filters in SQL then ranks via the platform index; results and citations equivalent or better than interim ranker; latency budget met on the full corpus",
+  5,"AI","Not Started","Owner's stack already provides BM25/RAG"),
+ ("REG-904","E12",8,"Horizontally scalable stateless read tier",
+  "Run the dashboard/API tier as stateless replicas behind the platform load balancer with autoscaling, connection pooling to RDS, and graceful shutdown.",
+  "Service scales out and in under load with no session affinity; database connections bounded and pooled; rolling deploy causes no failed requests",
+  5,"Backend","Not Started","Thread-scoped sessions already fix pool leakage"),
+ ("REG-905","E12",8,"Response caching for hot read endpoints",
+  "Cache coverage tree, facet counts and change-feed responses with short, explicit TTLs and invalidation on ingest completion.",
+  "Repeat dashboard loads served from cache; cache invalidated within one minute of a completed run; cache hit ratio and staleness observable",
+  3,"Full-stack","Not Started",""),
+ ("REG-906","E13",9,"SSO authentication and role-based access control",
+  "Replace single-operator access with platform SSO and two roles: analyst (read) and operator (run, toggle, manual ingest); identity flows into the existing audit trail.",
+  "Unauthenticated access refused; analysts cannot trigger runs or manual ingests; every mutating action recorded with the authenticated identity; access matrix matches the signed-off definition",
+  8,"Backend","Not Started","Audit trail and operator attribution already implemented"),
+ ("REG-907","E13",9,"Per-tenant API keys, quotas and rate limiting",
+  "Issue scoped keys per team/agent with request quotas and rate limits so one consumer cannot degrade the service for 5,000 users.",
+  "Keys scoped to reg_* tools; quota and rate limit enforced with clear error responses; usage attributable per key; limits configurable without redeploy",
+  5,"Backend","Not Started","Allowlist enforcement already built"),
+ ("REG-908","E12",9,"Queue-based parallel ingestion",
+  "Introduce a work queue between detection and fetch so multiple workers process documents concurrently, keeping the daily window comfortable as coverage depth grows, while preserving per-regulator politeness limits.",
+  "Full fleet run completes within the agreed window; per-domain rate limits still honoured; failures isolated per document; ordering-independent and idempotent",
+  8,"Backend","Not Started","Pipeline is already stateless and idempotent"),
+ ("REG-909","E13",8,"BA: role and access matrix definition",
+  "Define analyst/operator/administrator permissions across UI and tools and obtain security sign-off.",
+  "Matrix signed off; mapped to implemented roles; exceptions documented",
+  2,"BA","Not Started",""),
+ ("PM-S8","E13",8,"PM: sprint ceremonies, integration coordination","Recurring PM allocation plus platform-team integration coordination.","Ceremonies held; integration risks tracked; sprint report issued",0,"PM","Not Started","Recurring"),
+
+ # Sprint 9 — Performance proof, observability, cutover
+ ("REG-1001","E12",10,"Load and soak testing to 5,000 users",
+  "Define SLOs and prove them: model realistic analyst and agent traffic, run peak-load and multi-hour soak tests including a concurrent ingestion window.",
+  "Agreed SLOs documented; peak load sustained within latency budgets; soak shows no memory/connection leak; results reported with headroom analysis and breaking point identified",
+  8,"Backend","Not Started","Read load is user-driven; collection load is fixed"),
+ ("REG-1002","E12",10,"Performance tuning from load-test findings",
+  "Address the bottlenecks the load test surfaces: query plans and indexes, pagination limits, payload sizes, and any remaining chatty calls.",
+  "Each identified bottleneck has a measured before/after; SLOs met with agreed headroom; changes covered by regression tests",
+  5,"Backend","Not Started",""),
+ ("REG-1003","E13",10,"Observability: metrics, logs and dashboards",
+  "Emit structured logs and service metrics (ingestion volume and errors, corpus freshness, tool latency and error rate, queue depth) into the platform's monitoring stack with an operations dashboard.",
+  "Golden signals visible per service; ingestion and corpus health tracked over time; logs correlatable by run and request identifier",
+  5,"Full-stack","Not Started","Run manifests and counters already provide the data"),
+ ("REG-1004","E13",10,"Alerting and operational runbooks",
+  "Alert on the conditions that matter — failed or missed daily run, regulator staleness beyond threshold, integrity violation, elevated tool error rate — each with a runbook.",
+  "Every alert has an owner, severity and runbook; alerts tested by injecting each condition; no alert without a documented response",
+  3,"Backend","Not Started","Integrity check already exits non-zero on violations"),
+ ("REG-1005","E13",9,"CI/CD pipeline with automated quality gates",
+  "Automate build, test and deployment: full test suite and foundation gate on every change, image build and scan, staged deployment with rollback.",
+  "No manual deployment steps; pipeline blocks on failing tests or critical vulnerabilities; rollback exercised successfully at least once",
+  5,"Full-stack","Not Started","92-test suite + foundation gate ready to wire"),
+ ("REG-1006","E13",10,"Security review and hardening",
+  "Complete pre-production security work: TLS everywhere, no default credentials, least-privilege IAM and bucket policies, dependency and image scanning, remediation of review findings.",
+  "Security review passed with no open high findings; default credentials eliminated; egress allow-list covers regulator domains; findings tracked to closure",
+  8,"Backend","Not Started","MANDATORY gate before exposure beyond localhost"),
+ ("REG-1007","E12",8,"Cost model and optimisation",
+  "Model steady-state cost (compute, RDS, S3 storage and requests, egress) at 5,000 users and apply the obvious optimisations; set budget alarms.",
+  "Cost per month projected with assumptions stated; S3 lifecycle tiering applied to archive; budget alarm configured; unit cost per user reported",
+  3,"Backend","Not Started",""),
+ ("REG-1008","E13",10,"Production cutover and hypercare",
+  "Execute the cutover: final data sync, DNS/route switch, agent repointed to production tools, decommission of the interim environment, and a defined hypercare period.",
+  "Cutover run to a rehearsed plan with rollback available; no data loss verified by count and checksum; hypercare issues triaged daily; interim environment retired",
+  5,"Full-stack","Not Started",""),
+ ("REG-1009","E13",10,"BA: production acceptance and go-live sign-off",
+  "Run acceptance against production with real users and obtain formal go-live approval.",
+  "Acceptance script executed in production; defects dispositioned; signed go-live approval recorded",
+  2,"BA","Not Started",""),
+ ("PM-S9","E13",9,"PM: sprint ceremonies, security & integration coordination","Readiness review, cutover coordination, hypercare tracking and project closure.","Go/no-go held with documented decision; cutover coordinated; closure report issued",0,"PM","Not Started","Recurring"),
+
+ ("PM-S10","E13",10,"PM: hypercare tracking and project closure",
+  "Final sprint PM allocation: cutover coordination, hypercare triage, closure report and handover.",
+  "Hypercare issues triaged daily; closure report issued; handover acknowledged",
+  0,"PM","Not Started","Recurring"),
+
  # Backlog — E10 future enhancements
  ("REG-701","E10","Backlog","Federal Register full text via govinfo.gov bulk data",
   "Replace abstract/stub fallback with sanctioned full text from GPO govinfo bulk repository (separate host built for programmatic bulk use).",
@@ -410,11 +534,11 @@ with open(PLAN / "epics.csv", "w", newline="") as f:
     for e in EPICS: w.writerow(e)
 
 CAP = [["Role","Allocation","Days / Sprint","SP Capacity / Sprint","Sprints","Notes"],
-       ["Backend Engineer","100%",10,11,6,"Data layer, versioning, pipeline, ops"],
-       ["Full-stack Engineer","100%",10,11,6,"Dashboard UI, fetch layer, docs"],
-       ["AI Engineer","100%",10,11,6,"Connectors, enrichment, MCP tools, agentic"],
-       ["Business Analyst","25%",2.5,2,6,"Source sign-off, UX definitions, UAT"],
-       ["Project Manager","25%",2.5,0,6,"Ceremonies, RAID, reporting (non-pointed)"]]
+       ["Backend Engineer","100%",10,11,9,"Data layer, versioning, pipeline, ops; S7-9 needs AWS/platform skills (see assumption)"],
+       ["Full-stack Engineer","100%",10,11,9,"Dashboard UI, fetch layer, docs"],
+       ["AI Engineer","100%",10,11,9,"Connectors, enrichment, MCP tools, agentic"],
+       ["Business Analyst","25%",2.5,2,9,"Source sign-off, UX definitions, UAT"],
+       ["Project Manager","25%",2.5,0,9,"Ceremonies, RAID, reporting (non-pointed)"]]
 with open(PLAN / "capacity.csv", "w", newline="") as f:
     csv.writer(f).writerows(CAP)
 
@@ -464,15 +588,17 @@ sheet_from_rows(wb.create_sheet("Epics"), ["Epic","Name","Objective"],
                 [list(e) for e in EPICS], [7,38,90])
 cap_ws = wb.create_sheet("Capacity")
 sheet_from_rows(cap_ws, CAP[0], CAP[1:], [20,11,14,20,9,44])
+cap_ws["A7"] = ("ASSUMPTION: Sprints 7-9 (AWS migration/scale) assume platform/DevOps capability — either the Backend Engineer skills up or a Platform Engineer joins. Flag as a resourcing risk if neither.")
+cap_ws["A7"].font = Font(name="Arial", italic=True, size=9)
 cap_ws["A8"] = "Planned SP by sprint (dev+BA):"; cap_ws["A8"].font = Font(name="Arial", bold=True, size=10)
-for i in range(1, 7):
+for i in range(1, 11):
     cap_ws.cell(row=9, column=i, value=f"Sprint {i}").font = HDR_FONT
     cap_ws.cell(row=9, column=i).fill = HDR_FILL
     cap_ws.cell(row=10, column=i,
                 value=f'=SUMIFS(Roadmap!H:H,Roadmap!D:D,"Sprint {i}")').font = BODY
-cap_ws.cell(row=9, column=7, value="Backlog").font = HDR_FONT
-cap_ws.cell(row=9, column=7).fill = HDR_FILL
-cap_ws.cell(row=10, column=7, value='=SUMIFS(Roadmap!H:H,Roadmap!D:D,"Backlog")').font = BODY
+cap_ws.cell(row=9, column=11, value="Backlog").font = HDR_FONT
+cap_ws.cell(row=9, column=11).fill = HDR_FILL
+cap_ws.cell(row=10, column=11, value='=SUMIFS(Roadmap!H:H,Roadmap!D:D,"Backlog")').font = BODY
 wb.save(PLAN / "Regulatory_Aggregator_Roadmap.xlsx")
 
 # execution workbook
