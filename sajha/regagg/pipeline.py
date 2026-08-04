@@ -37,7 +37,7 @@ def build_api_url(config: RegulatorConfig) -> str:
         # endpoint; html_url is bot-blocked) is NOT in the default field set
         fields = "".join(f"&fields[]={f}" for f in (
             "document_number", "title", "publication_date", "type",
-            "html_url", "raw_text_url"))
+            "html_url", "raw_text_url", "abstract"))
         return f"{api.base}/documents.json?per_page=100&order=newest{agencies}{fields}"
     return api.base if api else ""
 
@@ -102,6 +102,17 @@ def _title_from_url(url: str) -> str:
     seg = seg.rsplit(".", 1)[0] if "." in seg else seg
     words = seg.replace("-", " ").replace("_", " ").strip()
     return words[:180] if words else url
+
+
+_BOT_BLOCK_MARKERS = (
+    "aggressive automated scraping",       # federalregister.gov / ecfr.gov
+    "access denied", "are you a robot", "please enable javascript and cookies",
+)
+
+
+def _looks_bot_blocked(content_md: str) -> bool:
+    head = (content_md or "")[:2000].lower()
+    return any(m in head for m in _BOT_BLOCK_MARKERS)
 
 
 def _find_by_reference(session, reference_number: str, exclude_regulator: str):
@@ -233,6 +244,26 @@ def run_regulator(
                         continue
                 fr = fetcher.fetch(ev.fetch_url or ev.url, method=config.fetch)
                 manifest.fetched += 1
+                # bot-block guard: if the site served its anti-scraping notice
+                # instead of the document, fall back to API-supplied text
+                # (e.g. Federal Register abstract) rather than storing garbage.
+                content_md, content_note = fr.content_md, None
+                if _looks_bot_blocked(content_md):
+                    if ev.fallback_text:
+                        content_md = (f"# {ev.title or ''}\n\n{ev.fallback_text}\n\n"
+                                      f"> Full text pending: source page is bot-gated; "
+                                      f"this is the official API abstract.")
+                        content_note = "api_abstract"
+                    else:
+                        # no abstract either: store an honest metadata stub, never
+                        # the block-page garbage (and never a daily error storm)
+                        content_md = (f"# {ev.title or _title_from_url(ev.url)}\n\n"
+                                      f"Federal Register document"
+                                      f"{' ' + ev.reference_number if ev.reference_number else ''}"
+                                      f"{', published ' + ev.published_date.isoformat() if ev.published_date else ''}.\n\n"
+                                      f"> Full text pending: the source page is bot-gated and "
+                                      f"no API abstract exists for this record.")
+                        content_note = "metadata_stub"
                 seen_row = session.get(SeenUrl, {"regulator_id": config.id, "url": ev.url})
                 doc_id = ids.stable_doc_id(
                     ev.reference_number, ev.url,
@@ -241,7 +272,7 @@ def run_regulator(
                     regulator_id=config.id,
                     doc_type=ev.doc_type_hint or "announcement",
                     title=ev.title or fr.title or _title_from_url(ev.url),
-                    content_md=fr.content_md, source_url=ev.url,
+                    content_md=content_md, source_url=ev.url,
                     raw=fr.raw, raw_ext=fr.raw_ext,
                     reference_number=ev.reference_number,
                     published_date=ev.published_date, ocr=fr.ocr,
@@ -249,7 +280,9 @@ def run_regulator(
                     source_kind="policy_pdf" if fr.raw_ext == "pdf" else "web",
                     # governance: record the post-redirect URL + fetch method
                     meta_extra={"final_url": fr.final_url,
-                                "fetch_method": fr.fetch_method})
+                                "fetch_method": fr.fetch_method,
+                                **({"content_source": content_note}
+                                   if content_note else {})})
                 result = versioning.ingest(inp, run_id=run_id, now=now)
                 if result.action in ("created", "updated"):
                     manifest.ingested += 1

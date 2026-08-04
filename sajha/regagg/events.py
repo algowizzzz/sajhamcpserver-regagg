@@ -28,6 +28,8 @@ class DetectionEvent:
     fetch_url: Optional[str] = None  # fetch HERE when set (e.g. FedReg raw_text_url
                                      # — the sanctioned endpoint); `url` stays the
                                      # provenance/identity anchor
+    fallback_text: Optional[str] = None  # API-supplied text (e.g. FedReg abstract)
+                                         # used when page fetch is bot-blocked
 
     def to_dict(self) -> dict:
         d = dataclasses.asdict(self)
