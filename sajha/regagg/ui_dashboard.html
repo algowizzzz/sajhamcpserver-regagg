@@ -187,6 +187,26 @@
   .kv .k{color:var(--muted)}
   .kv .v{color:var(--ink);word-break:break-all}
   .dl{color:var(--green)}.rm{color:var(--red)}
+  /* overview (first-run simple mode) */
+  .headline{font-size:15.5px;font-weight:600;line-height:1.5;margin-bottom:16px;
+       padding:14px 18px;background:var(--surface);border:1px solid var(--line);
+       border-left:3px solid var(--blue);border-radius:var(--radius);box-shadow:var(--shadow)}
+  .simple-card{background:var(--surface);border:1px solid var(--line);
+       border-radius:var(--radius);box-shadow:var(--shadow);padding:14px 16px;margin-bottom:14px}
+  .simple-head{display:flex;align-items:center;gap:10px;margin-bottom:10px;font-size:13.5px}
+  .prio{display:inline-flex;align-items:center;gap:5px;font-size:10.5px;font-weight:700;
+       border-radius:6px;padding:2px 8px;letter-spacing:.02em}
+  .prio.Critical{background:var(--red-soft);color:var(--red)}
+  .prio.High{background:var(--amber-soft);color:var(--amber)}
+  .prio.Medium{background:var(--blue-soft);color:var(--blue)}
+  .prio.Low,.prio.Informational{background:var(--grey-soft);color:var(--muted)}
+  .pitem{display:flex;align-items:flex-start;gap:10px;padding:9px 4px;
+       border-bottom:1px solid var(--line2);cursor:pointer}
+  .pitem:last-child{border-bottom:none}
+  .pitem:hover{background:var(--blue-soft)}
+  .pitem .why{color:var(--muted);font-size:11px;margin-top:2px}
+  .dot{width:9px;height:9px;border-radius:50%;display:inline-block;margin-right:7px}
+  .dot.ok{background:var(--green)}.dot.bad{background:var(--amber)}
   /* explorer tree */
   .fsrow{display:flex;align-items:center;gap:7px;padding:4px 8px;border-radius:6px;
        cursor:pointer;font-size:12.5px;color:var(--ink2)}
@@ -221,7 +241,8 @@
 <div class="top">
   <div class="brand"><div class="logo">R</div>Regulatory Intelligence</div>
   <div class="nav">
-    <button class="on" id="nCov" onclick="show('cov')">Coverage</button>
+    <button class="on" id="nOvw" onclick="show('ovw')">Overview</button>
+    <button id="nCov" onclick="show('cov')">Coverage</button>
     <button id="nBrw" onclick="show('brw')">Corpus</button>
     <button id="nExp" onclick="show('exp')">Explorer</button>
     <button id="nChg" onclick="show('chg')">Changes</button>
@@ -237,7 +258,20 @@
 </div>
 
 <div class="page">
-  <div class="view on" id="v-cov">
+  <div class="view on" id="v-ovw">
+    <div id="ovwHead" class="headline">loading…</div>
+    <div class="tiles" id="ovwTiles"></div>
+    <div id="ovwPriority"></div>
+    <div class="simple-card">
+      <div class="simple-head"><b>Sources</b>
+        <span style="color:var(--muted);font-size:12px">what we hold from each regulator — click a row to browse it</span>
+        <span class="spacer" style="flex:1"></span>
+        <button class="btn sm" onclick="show('cov')">Detailed coverage →</button></div>
+      <div id="ovwTable" class="empty">loading…</div>
+    </div>
+  </div>
+
+  <div class="view" id="v-cov">
     <div class="tiles" id="tiles"></div>
     <div id="tree" class="empty">loading…</div>
   </div>
@@ -368,9 +402,9 @@ async function j(u){const r=await fetch(API+u);if(!r.ok)throw new Error(u+" -> "
 let _t;function toast(m){const t=$("toast");t.textContent=m;t.classList.add("show");
   clearTimeout(_t);_t=setTimeout(()=>t.classList.remove("show"),2600)}
 function show(which,push=true){
-  for(const [v,n] of [["cov","nCov"],["brw","nBrw"],["exp","nExp"],["chg","nChg"],["run","nRun"]]){
+  for(const [v,n] of [["ovw","nOvw"],["cov","nCov"],["brw","nBrw"],["exp","nExp"],["chg","nChg"],["run","nRun"]]){
     $("v-"+v).classList.toggle("on",v===which);$(n).classList.toggle("on",v===which);}
-  if(push)location.hash=which==="cov"?"":which;
+  if(push)location.hash=which==="ovw"?"":which;
   if(which==="brw"&&!window._corpusLoaded){window._corpusLoaded=1;loadCorpus(true);}
   if(which==="exp"&&!window._expLoaded){window._expLoaded=1;loadExplorer();}
 }
@@ -457,6 +491,47 @@ async function submitAddDoc(){
 
 const FULLNAMES={};   // regulator_id -> name (filled by tree)
 
+/* ── overview (simple mode) ───────────────────────────────── */
+async function loadOverview(){
+  const o=await j(`/overview?days=1`);
+  $("ovwHead").className="headline";
+  $("ovwHead").textContent=o.headline;
+  const t=o.totals;
+  $("ovwTiles").innerHTML=
+    tile(fmt(t.documents),"documents we hold")+
+    tile(`+${fmt(t.new)}`,"collected today","up")+
+    tile(`${fmt(t.web)} / ${fmt(t.pdf)}`,"web pages / policy PDFs")+
+    tile(`${t.regulators_tracking}/${t.regulators_total}`,"regulators collecting")+
+    tile(fmt(items_len(o)),`high-priority (${o.priority_days}d)`,items_len(o)?"bad":"");
+  // priority items — the "what should I read" answer
+  const items=o.priority.items||[];
+  $("ovwPriority").innerHTML=`<div class="simple-card">
+    <div class="simple-head"><b>Needs your attention today</b>
+      <span style="color:var(--muted);font-size:12px">last ${o.priority_days} days, ranked by materiality — binding rules from our primary regulators first</span>
+      <span class="spacer" style="flex:1"></span>
+      <button class="btn sm" onclick="show('chg')">All changes →</button></div>
+    ${items.length?items.map(d=>`<div class="pitem" onclick='openDoc("${d.regulator_id}","${d.doc_id}")'>
+        <span class="prio ${d.materiality_band}">${d.materiality_band}</span>
+        <span style="flex:1">
+          <span style="color:var(--blue);font-weight:550">${esc(d.title).slice(0,95)}</span>
+          <span class="tag" style="margin-left:6px">${d.doc_type}</span>
+          <div class="why">${d.regulator_id} · ${esc(d.materiality_reason||"")}</div></span>
+      </div>`).join("")
+      :`<div class="empty">Nothing high-priority in the last ${o.priority_days} days — ${fmt(t.new)} routine documents collected today.</div>`}
+  </div>`;
+  // flat regulator table
+  $("ovwTable").className="";
+  $("ovwTable").innerHTML=`<table><tr><th>Regulator</th><th>Region</th>
+    <th class="num">Web pages</th><th class="num">Policy PDFs</th>
+    <th class="num">New today</th><th>Status</th></tr>`+
+    o.regulators.map(r=>`<tr style="cursor:pointer" onclick="browseMore('${r.regulator_id}','web')">
+      <td><b>${r.regulator_id}</b> <span style="color:var(--muted)">${esc(r.name).slice(0,42)}</span></td>
+      <td>${r.region}</td><td class="num">${fmt(r.web)}</td><td class="num">${fmt(r.pdf)}</td>
+      <td class="num">${r.new?`<b class="up">+${r.new}</b>`:"—"}</td>
+      <td><span class="dot ${r.healthy?"ok":"bad"}"></span>${r.health_label}</td></tr>`).join("")
+    +`</table>`;
+}
+
 /* ── coverage ─────────────────────────────────────────────── */
 async function loadTree(){
   const days=$("days").value;
@@ -485,6 +560,7 @@ async function loadTree(){
       <div class="rbody">${r.institutions.map((x,k)=>inst(x,i,k)).join("")}</div></div>`;
   }).join("");
 }
+function items_len(o){return (o.priority.items||[]).length}
 function tile(v,l,cls=""){return `<div class="tile"><b class="${cls}">${v}</b><span>${l}</span></div>`}
 function inst(x,ri,ii){
   FULLNAMES[x.regulator_id]=x.name;
@@ -874,12 +950,12 @@ async function loadAll(){
     $("integrity").textContent=ig.ok?"✓ integrity clean":"✗ integrity issues";
     $("integrity").className="pill "+(ig.ok?"ok":"failed");
   }catch(e){$("integrity").textContent="integrity ?";}
-  loadTree();loadChanges();loadRuns();
+  loadOverview();loadTree();loadChanges();loadRuns();
 }
 loadAll();
 // hash routing: /ui#corpus, #chg, #run are deep-linkable pages
 const h=location.hash.replace("#","");
-if(["brw","chg","run","corpus","exp"].includes(h))show(h==="corpus"?"brw":h,false);
+if(["cov","brw","chg","run","corpus","exp"].includes(h))show(h==="corpus"?"brw":h,false);
 </script>
 </body>
 </html>

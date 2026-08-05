@@ -42,6 +42,17 @@
           "withdrawn"
         ]
       },
+      "materiality_band": {
+        "type": "string",
+        "enum": [
+          "Critical",
+          "High",
+          "Medium",
+          "Low",
+          "Informational"
+        ],
+        "description": "Filter by priority band"
+      },
       "q": {
         "type": "string",
         "description": "title/reference contains"

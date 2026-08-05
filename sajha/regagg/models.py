@@ -125,6 +125,10 @@ class Document(Base):
     comment_deadline = Column(Date)
     status = Column(String(16), nullable=False, default="final")
     source_kind = Column(String(16), nullable=False, default="web")  # web | policy_pdf
+    # materiality: deterministic, explainable priority (see regagg/materiality.py)
+    materiality_score = Column(Integer, nullable=False, default=0)
+    materiality_band = Column(String(16), nullable=False, default="Informational")
+    materiality_reason = Column(Text)
     content_hash = Column(String(80), nullable=False)
     s3_prefix = Column(Text, nullable=False)           # current/ prefix in object storage
     source_url = Column(Text, nullable=False)
@@ -139,6 +143,7 @@ class Document(Base):
         CheckConstraint(_in("status", _DOC_STATUS), name="ck_reg_documents_status"),
         Index("ix_reg_documents_pub", "published_date"),
         Index("ix_reg_documents_type", "doc_type", "published_date"),
+        Index("ix_reg_documents_materiality", "materiality_score"),
     )
 
 

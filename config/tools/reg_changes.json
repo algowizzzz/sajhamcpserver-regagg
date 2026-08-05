@@ -39,6 +39,16 @@
           ]
         }
       },
+      "min_band": {
+        "type": "string",
+        "enum": [
+          "Critical",
+          "High",
+          "Medium",
+          "Low"
+        ],
+        "description": "Only changes at or above this priority band. Results are ordered by materiality, highest first."
+      },
       "date_from": {
         "type": "string"
       },

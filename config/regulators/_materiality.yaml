@@ -1,0 +1,101 @@
+# Materiality scoring — how much a change should matter to a BMO risk analyst.
+#
+# Deterministic and explainable by design: every score comes with a reason
+# string listing the factors that produced it, so an analyst (or auditor) can
+# see WHY a document was ranked Critical rather than trusting a black box.
+# Business owners tune these weights here; no code change required.
+#
+# score = (doc_type base x regulator multiplier) + topic signals + change kind
+#         + deadline proximity + revision magnitude   (capped at 100)
+#
+# The regulator tier MULTIPLIES the document's inherent weight rather than
+# adding to it: a binding rule from our primary regulator scales up, while a
+# routine press release stays low no matter who published it. (An additive
+# tier gave every home-regulator announcement a misleadingly high floor.)
+
+version: 1
+
+# ── 1. what kind of document is it? ──────────────────────────────────────────
+doc_type_base:
+  final_rule: 40        # binding obligation
+  consultation: 30      # action window — we may need to respond
+  guidance: 30          # supervisory expectation
+  enforcement: 20       # precedent / read-across risk
+  report: 10
+  announcement: 8
+  speech: 5
+
+# ── 2. how much does this regulator matter to us? ────────────────────────────
+# home            = our primary prudential/market regulators
+# major_operating = regulators of jurisdictions we operate in materially
+# standard_setter = sets standards that later flow into local rules
+# monitoring      = watched for direction of travel
+regulator_tier:          # multipliers applied to doc_type_base
+  home: 1.6
+  major_operating: 1.4
+  standard_setter: 1.0
+  monitoring: 0.7
+
+regulator_tiers:
+  home: [osfi, boc, fintrac, csa, osc, amf_qc]
+  major_operating: [frb, occ, fdic, sec, finra, fincen, cftc, nydfs]
+  standard_setter: [bis_bcbs, fsb, iosco, iais]
+  monitoring: [eba, esma, eiopa, ecb_ssm, boe_pra, fca, apra, mas, hkma, jfsa, rbi]
+
+# ── 3. does it touch a risk domain we own? ───────────────────────────────────
+# Matched against enrichment tags first, then keywords in title/opening text.
+topic_weights:
+  core_prudential: 15
+  operational: 12
+  emerging: 8
+  conduct: 5
+
+topic_groups:
+  core_prudential: [capital, ccr, frtb, market_risk, credit_risk, liquidity,
+                    irrbb, cva, leverage, margin, clearing, basel_iii, basel_iv,
+                    sa_ccr, imm, stress_testing]
+  operational: [operational_risk, cyber_risk, third_party_risk, aml_cft,
+                model_risk, resolution_recovery]
+  emerging: [climate_risk, ai_governance, crypto_assets, disclosure, governance]
+  conduct: [consumer_protection, payments]
+
+# Keyword fallback when enrichment tags are absent (rule-based corpus).
+topic_keywords:
+  capital: ["capital adequacy", "capital requirement", "car guideline", "own funds", "tier 1"]
+  liquidity: ["liquidity coverage", "net stable funding", "lcr", "nsfr", "liquidity adequacy"]
+  ccr: ["counterparty credit", "sa-ccr", "central counterparty", "margin requirement"]
+  market_risk: ["market risk", "trading book", "frtb", "value at risk"]
+  credit_risk: ["credit risk", "internal ratings", "irb ", "expected credit loss"]
+  cyber_risk: ["cyber", "information security", "technology risk"]
+  operational_risk: ["operational risk", "operational resilience", "business continuity"]
+  third_party_risk: ["third-party", "third party risk", "outsourcing", "vendor"]
+  aml_cft: ["anti-money laundering", "money laundering", "terrorist financing", "sanctions", "aml"]
+  climate_risk: ["climate", "transition risk", "net-zero", "esg"]
+  model_risk: ["model risk", "model validation"]
+  crypto_assets: ["crypto", "digital asset", "stablecoin"]
+  disclosure: ["disclosure requirement", "pillar 3", "reporting requirement"]
+
+# ── 4. what happened to it? ──────────────────────────────────────────────────
+change_kind:
+  new: 10
+  revised: 12          # a document we already track has changed — actionable
+  superseded: 5
+  deadline: 0          # handled by proximity below
+
+# ── 5. is a clock running? ───────────────────────────────────────────────────
+deadline_proximity:
+  within_days_30: 20
+  within_days_60: 10
+
+# ── 6. for revisions, how much actually changed? ─────────────────────────────
+revision_magnitude:
+  lines_changed_50: 8
+  lines_changed_200: 12
+
+# ── bands (inclusive lower bound) ────────────────────────────────────────────
+bands:
+  Critical: 70
+  High: 50
+  Medium: 30
+  Low: 15
+  Informational: 0

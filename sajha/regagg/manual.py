@@ -89,6 +89,9 @@ def add_document(
         session.merge(DocumentTag(regulator_id=regulator_id, doc_id=result.doc_id,
                                   tag="manual", source="manual"))
         from sajha.regagg import projection
+        from sajha.regagg.pipeline import _apply_materiality
+        _apply_materiality(session, doc, content_md,
+                           "revised" if result.action == "updated" else "new")
         projection.project_doc(storage, doc)   # keep agent-stack mirror current
 
     # run row so the interjection is visible on the Runs page + audit trail

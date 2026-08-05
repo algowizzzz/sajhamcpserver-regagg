@@ -168,6 +168,9 @@ def _doc_row(d: Document) -> dict:
         "effective_date": d.effective_date.isoformat() if d.effective_date else None,
         "comment_deadline": d.comment_deadline.isoformat() if d.comment_deadline else None,
         "source_url": d.source_url, "ocr": d.ocr,
+        "materiality_score": d.materiality_score,
+        "materiality_band": d.materiality_band,
+        "materiality_reason": d.materiality_reason,
         "ingested_at": d.ingested_at.isoformat() if d.ingested_at else None,
     }
 
@@ -199,6 +202,7 @@ def corpus_browse(session, storage=None, *, region: Optional[str] = None,
                   regulator_ids: Optional[List[str]] = None,
                   kind: Optional[str] = None, doc_type: Optional[str] = None,
                   status: Optional[str] = None, q: Optional[str] = None,
+                  band: Optional[str] = None,
                   date_from: Optional[str] = None, date_to: Optional[str] = None,
                   limit: int = 50, offset: int = 0) -> dict:
     """Filterable browse across the whole corpus: continent/region, institution,
@@ -221,6 +225,8 @@ def corpus_browse(session, storage=None, *, region: Optional[str] = None,
         stmt = stmt.where(Document.doc_type == doc_type)
     if status:
         stmt = stmt.where(Document.status == status)
+    if band:
+        stmt = stmt.where(Document.materiality_band == band)
     if q:
         like = f"%{q}%"
         stmt = stmt.where(Document.title.ilike(like)
@@ -252,6 +258,7 @@ def corpus_browse(session, storage=None, *, region: Optional[str] = None,
             "facets": {"doc_type": _facet(Document.doc_type),
                        "status": _facet(Document.status),
                        "source_kind": _facet(Document.source_kind),
+                       "materiality_band": _facet(Document.materiality_band),
                        "regulator": _facet(Document.regulator_id)},
             "documents": out_rows}
 
@@ -264,6 +271,7 @@ def changes(session, days: int = 7, now: Optional[datetime] = None,
             regulator_ids: Optional[List[str]] = None,
             source_kind: Optional[str] = None,
             kinds: Optional[List[str]] = None,
+            min_band: Optional[str] = None,
             date_from: Optional[str] = None,
             date_to: Optional[str] = None) -> dict:
     """Change feed with the same dimensions as the coverage tree:
@@ -344,10 +352,22 @@ def changes(session, days: int = 7, now: Optional[datetime] = None,
         want = set(kinds)
         out = [c for c in out if c["kind"] in want]
 
-    out.sort(key=lambda x: x["at"] or "", reverse=True)
-    return {"days": days, "counts": dict(counts), "changes": out[:limit],
+    # priority filter + ordering: materiality first, recency second, so the
+    # analyst's queue leads with what matters rather than what is newest
+    if min_band:
+        from sajha.regagg.materiality import BAND_ORDER
+        allowed_bands = set(BAND_ORDER[:BAND_ORDER.index(min_band) + 1])
+        out = [c for c in out if c["doc"].get("materiality_band") in allowed_bands]
+    band_counts = defaultdict(int)
+    for c in out:
+        band_counts[c["doc"].get("materiality_band") or "Informational"] += 1
+    out.sort(key=lambda x: (-(x["doc"].get("materiality_score") or 0),
+                            x["at"] or ""), reverse=False)
+    return {"days": days, "counts": dict(counts),
+            "band_counts": dict(band_counts), "changes": out[:limit],
             "filters": {"region": region, "regulator_ids": regulator_ids,
                         "source_kind": source_kind, "kinds": kinds,
+                        "min_band": min_band,
                         "date_from": date_from, "date_to": date_to}}
 
 
@@ -376,6 +396,71 @@ def version_diff(session, storage, regulator_id: str, doc_id: str) -> dict:
             "from_version": prev.version_n, "to_version": doc.version_n,
             "added_lines": added, "removed_lines": removed,
             "diff": "\n".join(diff[:2000])}
+
+
+def overview(session, days: int = 1, priority_days: int = 7,
+             now: Optional[datetime] = None) -> dict:
+    """First-time-user landing data: one plain-English headline, four numbers,
+    the priority items that actually need attention, and one flat table of
+    regulators. Everything else on the dashboard is a drill-in from here."""
+    now = now or datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=days)
+    tree = coverage_tree(session, days=days, now=now)
+    tot = tree["totals"]
+
+    # what landed in the window, by priority band
+    band_counts = {b: n for b, n in session.execute(
+        select(Document.materiality_band, func.count())
+        .where(Document.ingested_at >= cutoff)
+        .group_by(Document.materiality_band)).all()}
+
+    # Items worth a human's attention. Uses a wider lookback than the daily
+    # delta so the panel stays useful on quiet days — a day with 400 routine
+    # notices and nothing material is the normal case, not an error.
+    pri_cutoff = now - timedelta(days=priority_days)
+    priority_docs = [_doc_row(d) | {"regulator_id": d.regulator_id}
+                     for d in session.scalars(
+        select(Document).where(Document.ingested_at >= pri_cutoff,
+                               Document.materiality_band.in_(["Critical", "High"]))
+        .order_by(Document.materiality_score.desc()).limit(10)).all()]
+
+    # flat regulator table (no nesting) with a single health signal
+    rows = []
+    for region in tree["regions"]:
+        for i in region["institutions"]:
+            healthy = i["status"] in ("ok", "ok_empty")
+            rows.append({
+                "regulator_id": i["regulator_id"], "name": i["name"],
+                "region": region["region"], "jurisdiction": i["jurisdiction"],
+                "web": i["web"]["docs"], "pdf": i["pdf"]["docs"],
+                "new": i["web"]["new"] + i["pdf"]["new"],
+                "healthy": healthy,
+                "health_label": ("Up to date" if i["status"] == "ok"
+                                 else "No new documents" if i["status"] == "ok_empty"
+                                 else "Stale" if i["status"] == "stale"
+                                 else "Collection issue" if i["status"] == "failed"
+                                 else "Not yet collected"),
+                "coverage_pct": i["coverage_pct"],
+            })
+    rows.sort(key=lambda r: (-r["new"], r["regulator_id"]))
+    attention = [r for r in rows if not r["healthy"]]
+
+    collecting = sum(1 for r in rows if r["web"] + r["pdf"] > 0)
+    headline = (f"Tracking {collecting} of {tot['regulators']} regulators · "
+                f"{tot['documents']:,} documents · "
+                f"{tot['new']:,} new in the last {days} day"
+                f"{'s' if days != 1 else ''} · "
+                + ("all sources healthy" if not attention
+                   else f"{len(attention)} need attention"))
+
+    return {"headline": headline, "days": days,
+            "priority_days": priority_days,
+            "totals": {"regulators_tracking": collecting,
+                       "regulators_total": tot["regulators"],
+                       "documents": tot["documents"], "web": tot["web"],
+                       "pdf": tot["pdf"], "new": tot["new"]},
+            "priority": {"counts": band_counts, "items": priority_docs},
+            "regulators": rows, "attention": attention}
 
 
 # ── expected-inventory reconciliation ───────────────────────────────────────

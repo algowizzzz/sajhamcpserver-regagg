@@ -58,12 +58,17 @@ CREATE TABLE IF NOT EXISTS reg_documents (
     source_url        TEXT         NOT NULL,
     version_n         INTEGER      NOT NULL DEFAULT 1,
     ocr               BOOLEAN      NOT NULL DEFAULT FALSE,
+    materiality_score   INTEGER     NOT NULL DEFAULT 0,
+    materiality_band    VARCHAR(16) NOT NULL DEFAULT 'Informational',
+    materiality_reason  TEXT,
     ingested_at       TIMESTAMPTZ  NOT NULL DEFAULT now(),
     updated_at        TIMESTAMPTZ  NOT NULL DEFAULT now(),
     PRIMARY KEY (regulator_id, doc_id)
 );
 CREATE INDEX IF NOT EXISTS ix_reg_documents_pub  ON reg_documents (published_date DESC);
 CREATE INDEX IF NOT EXISTS ix_reg_documents_type ON reg_documents (doc_type, published_date DESC);
+CREATE INDEX IF NOT EXISTS ix_reg_documents_materiality
+    ON reg_documents (materiality_score DESC);
 CREATE INDEX IF NOT EXISTS ix_reg_documents_title_trgm
     ON reg_documents USING gin (title gin_trgm_ops);
 

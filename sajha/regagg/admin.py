@@ -149,6 +149,12 @@ def create_admin_router() -> APIRouter:
 
     # ── v2 UI data endpoints ────────────────────────────────────────────────
 
+    @router.get("/overview")
+    def overview(days: int = 1, priority_days: int = 7):
+        from sajha.regagg import queries_ui
+        return queries_ui.overview(runtime.get_session(), days=days,
+                                   priority_days=priority_days)
+
     @router.get("/tree")
     def tree(days: int = 7):
         from sajha.regagg import queries_ui
@@ -167,27 +173,28 @@ def create_admin_router() -> APIRouter:
     def corpus(region: Optional[str] = None, regulators: Optional[str] = None,
                kind: Optional[str] = None, doc_type: Optional[str] = None,
                status: Optional[str] = None, q: Optional[str] = None,
+               band: Optional[str] = None,
                date_from: Optional[str] = None, date_to: Optional[str] = None,
                limit: int = 50, offset: int = 0):
         from sajha.regagg import queries_ui
         return queries_ui.corpus_browse(
             runtime.get_session(), runtime.get_storage(), region=region,
             regulator_ids=regulators.split(",") if regulators else None,
-            kind=kind, doc_type=doc_type, status=status, q=q,
+            kind=kind, doc_type=doc_type, status=status, q=q, band=band,
             date_from=date_from, date_to=date_to,
             limit=min(limit, 200), offset=max(offset, 0))
 
     @router.get("/changes")
     def changes(days: int = 7, region: Optional[str] = None,
                 regulators: Optional[str] = None, source_kind: Optional[str] = None,
-                kinds: Optional[str] = None, date_from: Optional[str] = None,
-                date_to: Optional[str] = None):
+                kinds: Optional[str] = None, min_band: Optional[str] = None,
+                date_from: Optional[str] = None, date_to: Optional[str] = None):
         from sajha.regagg import queries_ui
         return queries_ui.changes(
             runtime.get_session(), days=days, region=region,
             regulator_ids=regulators.split(",") if regulators else None,
             source_kind=source_kind,
-            kinds=kinds.split(",") if kinds else None,
+            kinds=kinds.split(",") if kinds else None, min_band=min_band,
             date_from=date_from, date_to=date_to)
 
     @router.get("/documents/{regulator_id}/{doc_id}/diff")

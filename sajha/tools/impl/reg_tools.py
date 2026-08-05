@@ -143,6 +143,7 @@ class RegBrowseTool(_RegToolBase):
             regulator_ids=arguments.get("regulator_id"),
             kind=arguments.get("source_kind"), doc_type=arguments.get("doc_type"),
             status=arguments.get("status"), q=arguments.get("q"),
+            band=arguments.get("materiality_band"),
             date_from=arguments.get("date_from"), date_to=arguments.get("date_to"),
             limit=min(int(arguments.get("limit", 50)), 200),
             offset=int(arguments.get("offset", 0)))
@@ -158,6 +159,9 @@ class RegBrowseTool(_RegToolBase):
                 "doc_type": {"type": "string"},
                 "status": {"type": "string",
                            "enum": ["proposed", "final", "superseded", "withdrawn"]},
+                "materiality_band": {"type": "string",
+                    "enum": ["Critical", "High", "Medium", "Low", "Informational"],
+                    "description": "Filter by priority band"},
                 "q": {"type": "string", "description": "title/reference contains"},
                 "date_from": {"type": "string"}, "date_to": {"type": "string"},
                 "limit": {"type": "integer", "default": 50},
@@ -178,7 +182,7 @@ class RegChangesTool(_RegToolBase):
             region=arguments.get("region"),
             regulator_ids=arguments.get("regulator_id"),
             source_kind=arguments.get("source_kind"),
-            kinds=arguments.get("kinds"),
+            kinds=arguments.get("kinds"), min_band=arguments.get("min_band"),
             date_from=arguments.get("date_from"), date_to=arguments.get("date_to"))
 
     def get_input_schema(self) -> Dict:
@@ -191,6 +195,10 @@ class RegChangesTool(_RegToolBase):
                 "source_kind": {"type": "string", "enum": ["web", "policy_pdf"]},
                 "kinds": {"type": "array", "items": {
                     "type": "string", "enum": ["new", "revised", "superseded", "deadline"]}},
+                "min_band": {"type": "string",
+                    "enum": ["Critical", "High", "Medium", "Low"],
+                    "description": "Only changes at or above this priority band. "
+                                   "Results are ordered by materiality, highest first."},
                 "date_from": {"type": "string"}, "date_to": {"type": "string"},
             },
         }

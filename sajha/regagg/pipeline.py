@@ -93,6 +93,19 @@ def _extract_pdf_links(html: bytes, base_url: str, limit: int = 3) -> List[str]:
     return out
 
 
+def _apply_materiality(session, doc, text: str, change_kind: str) -> None:
+    """Score the document's priority so analysts see what matters first."""
+    from sqlalchemy import select as _select
+    from sajha.regagg import materiality
+    from sajha.regagg.models import DocumentTag
+    tags = [t for (t,) in session.execute(
+        _select(DocumentTag.tag).where(DocumentTag.regulator_id == doc.regulator_id,
+                                       DocumentTag.doc_id == doc.doc_id)).all()]
+    m = materiality.score_document(doc, text=text, tags=tags, change_kind=change_kind)
+    doc.materiality_score, doc.materiality_band = m.score, m.band
+    doc.materiality_reason = m.reason
+
+
 def _title_from_url(url: str) -> str:
     """Human-readable fallback title from the URL's last path segment —
     'IAIS-Press-Release-2026-07.pdf' -> 'IAIS Press Release 2026 07'.
@@ -293,6 +306,8 @@ def run_regulator(
                                                  "doc_id": result.doc_id})
                     if doc is not None:
                         rules.apply_rules(session, doc, fr.content_md)
+                        _apply_materiality(session, doc, content_md,
+                                           "revised" if result.action == "updated" else "new")
                         # write-through to the agent-stack markdown projection
                         projection.project_doc(storage, doc)
                 if result.action == "updated":

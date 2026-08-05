@@ -192,3 +192,20 @@ def test_manual_upload_multipart(client, session):
     from sajha.regagg.models import Document
     d = session.get(Document, {"regulator_id": "osfi", "doc_id": body["doc_id"]})
     assert d.source_kind == "policy_pdf" and d.ocr is True  # blank page -> ocr flag
+
+
+def test_overview_endpoint_shape(client):
+    o = client.get("/api/regagg/overview").json()
+    assert o["headline"] and "regulators" in o["headline"]
+    assert {"regulators_tracking", "documents", "web", "pdf", "new"} <= set(o["totals"])
+    assert isinstance(o["regulators"], list) and isinstance(o["priority"]["items"], list)
+    for r in o["regulators"]:                       # plain-language health, not jargon
+        assert r["health_label"] in ("Up to date", "No new documents", "Stale",
+                                     "Collection issue", "Not yet collected")
+
+
+def test_changes_priority_filter_and_ordering(client):
+    c = client.get("/api/regagg/changes?days=7&min_band=Medium").json()
+    scores = [x["doc"]["materiality_score"] for x in c["changes"]]
+    assert scores == sorted(scores, reverse=True)   # priority-first ordering
+    assert "band_counts" in c
