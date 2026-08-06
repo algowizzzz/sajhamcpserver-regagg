@@ -578,3 +578,114 @@ def runs_overview(session, history: int = 15) -> dict:
 
 def now_date_iso() -> str:
     return datetime.now(timezone.utc).date().isoformat()
+
+
+# ── financial-news dashboard (credit-analyst lens) ──────────────────────────
+# Deterministic topic buckets ordered by how directly they move obligor credit
+# risk. Keyword classification, no LLM — same explainability bar as materiality.
+
+NEWS_TOPICS = [
+    ("credit", "Ratings & credit events", 50,
+     ["downgrade", "upgrade", "rating", "default", "bankruptcy", "insolven",
+      "restructur", "chapter 11", "creditor", "distressed", "missed payment",
+      "junk bond", "high-yield", "credit spread", "delinquen", "write-down",
+      "writedown", "impairment", "covenant", "receivership"]),
+    ("rates", "Central banks & rates", 40,
+     ["fed ", "federal reserve", "bank of canada", "ecb", "bank of england",
+      "boj", "rate cut", "rate hike", "interest rate", "policy rate",
+      "inflation", "cpi", "rate decision", "monetary policy", "yield curve",
+      "treasury yield", "bond yield"]),
+    ("banking", "Banking & financials", 30,
+     ["bank", "lender", "loan", "mortgage", "deposit", "credit card",
+      "capital ratio", "provision", "loan loss", "insurer", "insurance",
+      "pension", "private credit", "private equity", "hedge fund"]),
+    ("economy", "Economy & macro", 22,
+     ["gdp", "recession", "unemployment", "jobs report", "payroll", "housing",
+      "tariff", "trade war", "consumer spending", "retail sales",
+      "manufacturing", "exports", "deficit", "stimulus"]),
+    ("deals", "Deals & capital markets", 18,
+     ["merger", "acquisition", "takeover", "ipo", "buyout", "leveraged",
+      "debt sale", "bond issue", "refinanc", "spin-off", "stake"]),
+    ("energy", "Energy & commodities", 14,
+     ["oil", "crude", "gas", "opec", "gold", "copper", "commodit", "pipeline",
+      "lng", "uranium", "lithium"]),
+    ("markets", "Markets", 8,
+     ["stocks", "equities", "s&p", "tsx", "nasdaq", "dow", "sell-off",
+      "rally", "futures", "earnings", "shares", "dollar", "currency"]),
+]
+# home-market bonus: a Canadian bank's book is CAD/USD-heavy
+_NEWS_REGION_BONUS = {"Canada": 6, "US": 3}
+
+
+def _classify_news(text: str):
+    """Best topic bucket for a headline+summary; (key, label, weight, hits)."""
+    low = (text or "").lower()
+    best = ("general", "General", 0, 0)
+    for key, label, weight, kws in NEWS_TOPICS:
+        hits = sum(1 for k in kws if k in low)
+        if hits and (weight + hits) > (best[2] + best[3]):
+            best = (key, label, weight, hits)
+    return best
+
+
+def news_dashboard(session, storage=None, day: Optional[str] = None,
+                   days_back: int = 14) -> dict:
+    """One day of financial news, ranked for a credit analyst, plus history.
+
+    Rank = topic weight (credit events > rates > banking > ...) + keyword
+    density + home-market bonus + materiality score. Fully explainable.
+    """
+    regs = {r.regulator_id: r for r in session.scalars(
+        select(Regulator).where(Regulator.category == "news")).all()}
+    if not regs:
+        return {"day": None, "days": [], "stories": [], "topics": [],
+                "sources": [], "regions": []}
+
+    day_col = func.coalesce(Document.published_date, func.date(Document.ingested_at))
+    rows = session.execute(
+        select(day_col, func.count()).where(Document.regulator_id.in_(regs))
+        .group_by(day_col).order_by(day_col.desc()).limit(days_back)).all()
+    days = [{"day": str(d), "count": c} for d, c in rows if d]
+    if not days:
+        return {"day": None, "days": [], "stories": [], "topics": [],
+                "sources": [], "regions": []}
+    day = day if day in {x["day"] for x in days} else days[0]["day"]
+
+    docs = session.scalars(
+        select(Document).where(Document.regulator_id.in_(regs),
+                               day_col == day)).all()
+    stories, topic_counts, source_counts = [], defaultdict(int), defaultdict(int)
+    for d in docs:
+        reg = regs[d.regulator_id]
+        excerpt = _excerpt(storage, d.s3_prefix, max_chars=260) if storage else ""
+        # the shipped attribution line is boilerplate, not a summary
+        if excerpt.startswith("Read the full story"):
+            excerpt = ""
+        key, label, weight, hits = _classify_news(f"{d.title} {excerpt}")
+        region = reg.jurisdiction if reg.jurisdiction in _NEWS_REGION_BONUS             else ("UK/EU" if reg.jurisdiction in ("UK", "EU") else "World")
+        score = weight + 2 * hits + _NEWS_REGION_BONUS.get(reg.jurisdiction, 0)             + (d.materiality_score or 0)
+        topic_counts[key] += 1
+        source_counts[d.regulator_id] += 1
+        stories.append({
+            "regulator_id": d.regulator_id, "doc_id": d.doc_id,
+            "source": reg.name, "region": region, "title": d.title,
+            "url": d.source_url, "excerpt": excerpt,
+            "time": str(d.ingested_at or ""), "topic": key, "topic_label": label,
+            "rank": score,
+            "why": f"{label.lower()} +{weight}"
+                   + (f"; {hits} signal term{'s' if hits > 1 else ''}" if hits else "")
+                   + (f"; {reg.jurisdiction} market" if reg.jurisdiction in _NEWS_REGION_BONUS else ""),
+        })
+    stories.sort(key=lambda s: (-s["rank"], s["source"], s["title"] or ""))
+    labels = {k: l for k, l, _, _ in NEWS_TOPICS}
+    labels["general"] = "General"
+    order = [k for k, *_ in NEWS_TOPICS] + ["general"]
+    return {
+        "day": day, "days": days, "stories": stories,
+        "topics": [{"key": k, "label": labels[k], "count": topic_counts[k]}
+                   for k in order if topic_counts.get(k)],
+        "sources": sorted(({"regulator_id": rid, "name": regs[rid].name,
+                            "count": c} for rid, c in source_counts.items()),
+                          key=lambda s: -s["count"]),
+        "regions": sorted({s["region"] for s in stories}),
+    }

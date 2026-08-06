@@ -208,6 +208,13 @@ def create_admin_router() -> APIRouter:
         return queries.reg_read(runtime.get_session(), runtime.get_storage(),
                                 doc_id, mode=mode, regulator_id=regulator_id)
 
+    @router.get("/news")
+    def news(day: Optional[str] = None):
+        """Financial-news dashboard: one day ranked for a credit analyst."""
+        from sajha.regagg import queries_ui
+        return queries_ui.news_dashboard(runtime.get_session(),
+                                         storage=runtime.get_storage(), day=day)
+
     @router.get("/runs-overview")   # NB: not /runs/{run_id} — avoids path capture
     def runs_over():
         from sajha.regagg import queries_ui

@@ -3,8 +3,8 @@
 Everything ships in this repo: code, all 50 source configs (30 regulators +
 20 financial-news sources), the collected corpus (raw archive + markdown
 projection), a seed database, tests with recorded fixtures, and the 12 reg_*
-MCP tools (all other upstream tools are disabled — restore with
-`python scripts/regagg_tool_blackout.py --restore`).
+MCP tools — the ~500 unrelated upstream tools have been removed from this
+repo entirely; the server serves exactly the regulatory/news toolset.
 
 ```bash
 git clone https://github.com/algowizzzz/sajhamcpserver-regagg.git

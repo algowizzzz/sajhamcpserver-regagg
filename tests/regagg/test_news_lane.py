@@ -106,3 +106,28 @@ def test_news_sources_group_under_financial_news(session):
     news_ids = [i["regulator_id"] for i in by_region["Financial News"]["institutions"]]
     assert news_ids == ["bbc_business"]
     assert "osfi" in [i["regulator_id"] for i in by_region["Canada"]["institutions"]]
+
+
+def test_news_dashboard_ranks_credit_events_first(session, storage):
+    """A creditor-protection story must outrank a generic markets story."""
+    from sajha.regagg.queries_ui import news_dashboard
+    _seed_news(session)
+    cfg, _ = _news_cfg()
+    feed = (
+        '<?xml version="1.0"?><rss version="2.0"><channel>'
+        '<item><title>Stocks rally as shares climb</title>'
+        '<link>https://news.example.com/markets-1</link>'
+        '<pubDate>Tue, 04 Aug 2026 09:00:00 GMT</pubDate></item>'
+        '<item><title>Retailer files for bankruptcy, creditor protection sought</title>'
+        '<link>https://news.example.com/credit-1</link>'
+        '<pubDate>Tue, 04 Aug 2026 10:00:00 GMT</pubDate></item>'
+        '</channel></rss>').encode()
+    run_regulator(session, storage, cfg, lambda url: feed, ExplodingFetcher(),
+                  run_id="2026-08-05_bbc_business_t3",
+                  logical_date="2026-08-05", now=NOW)
+    d = news_dashboard(session, storage=storage)
+    assert len(d["stories"]) == 2 and d["days"]
+    assert d["stories"][0]["topic"] == "credit"          # bankruptcy outranks
+    assert d["stories"][1]["topic"] == "markets"
+    assert d["stories"][0]["rank"] > d["stories"][1]["rank"]
+    assert "credit" in d["stories"][0]["why"] or "signal" in d["stories"][0]["why"]
