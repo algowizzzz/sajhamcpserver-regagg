@@ -172,3 +172,23 @@ def test_news_sources_are_reachable_by_region_filter(session, storage):
                   logical_date="2026-08-05", now=NOW)
     assert corpus_browse(session, region="Financial News")["total"] == 3
     assert corpus_browse(session, region="EU & UK")["total"] == 0   # not by jurisdiction
+
+
+def test_lane_category_scope_partitions_the_corpus(session, storage):
+    """The two-lane hierarchy: category scope splits the corpus cleanly."""
+    from sajha.regagg.queries_ui import changes, corpus_browse
+    _seed_news(session)
+    session.add(Regulator(regulator_id="osfi", name="OSFI", jurisdiction="CA",
+                          connector="sitemap_diff", config={}))
+    session.commit()
+    cfg, opener = _news_cfg(feed_items=6)
+    run_regulator(session, storage, cfg, opener, ExplodingFetcher(),
+                  run_id="2026-08-05_bbc_business_t6",
+                  logical_date="2026-08-05", now=NOW)
+
+    news = corpus_browse(session, category="news")["total"]
+    reg = corpus_browse(session, category="regulatory")["total"]
+    assert news == 6 and reg == 0
+    assert news + reg == corpus_browse(session)["total"]     # lanes partition
+    assert len(changes(session, category="regulatory", now=NOW)["changes"]) == 0
+    assert len(changes(session, category="news", now=NOW)["changes"]) == 6

@@ -208,6 +208,7 @@ def _excerpt(storage, s3_prefix: str, max_chars: int = 220) -> str:
 
 
 def corpus_browse(session, storage=None, *, region: Optional[str] = None,
+                  category: Optional[str] = None,
                   regulator_ids: Optional[List[str]] = None,
                   kind: Optional[str] = None, doc_type: Optional[str] = None,
                   status: Optional[str] = None, q: Optional[str] = None,
@@ -217,6 +218,10 @@ def corpus_browse(session, storage=None, *, region: Optional[str] = None,
     """Filterable browse across the whole corpus: continent/region, institution,
     file type (source_kind), doc_type, status, date range, text search."""
     allowed: Optional[set] = set(regulator_ids) if regulator_ids else None
+    if category:   # lane scope: regulatory | news
+        in_cat = {r.regulator_id for r in session.scalars(select(Regulator)).all()
+                  if getattr(r, "category", "regulatory") == category}
+        allowed = (allowed & in_cat) if allowed is not None else in_cat
     if region:
         in_region = {r.regulator_id for r in session.scalars(select(Regulator)).all()
                      if region_of(r) == region}
@@ -277,6 +282,7 @@ def corpus_browse(session, storage=None, *, region: Optional[str] = None,
 def changes(session, days: int = 7, now: Optional[datetime] = None,
             limit: int = 200, *,
             region: Optional[str] = None,
+            category: Optional[str] = None,
             regulator_ids: Optional[List[str]] = None,
             source_kind: Optional[str] = None,
             kinds: Optional[List[str]] = None,
@@ -296,8 +302,12 @@ def changes(session, days: int = 7, now: Optional[datetime] = None,
         ceil = datetime.fromisoformat(date_to).replace(
             tzinfo=timezone.utc) + timedelta(days=1)
 
-    # region -> allowed regulator set
+    # lane (category) + region -> allowed regulator set
     allowed: Optional[set] = set(regulator_ids) if regulator_ids else None
+    if category:
+        in_cat = {r.regulator_id for r in session.scalars(select(Regulator)).all()
+                  if getattr(r, "category", "regulatory") == category}
+        allowed = (allowed & in_cat) if allowed is not None else in_cat
     if region:
         in_region = {r.regulator_id for r in session.scalars(select(Regulator)).all()
                      if region_of(r) == region}
@@ -610,7 +620,7 @@ NEWS_TOPICS = [
      ["gdp", "recession", "unemployment", "jobs report", "payroll", "housing",
       "tariff", "trade war", "consumer spending", "retail sales",
       "manufacturing", "exports", "deficit", "stimulus"]),
-    ("deals", "Deals & capital markets", 18,
+    ("deals", "Deals & capital raising", 18,
      ["merger", "acquisition", "takeover", "ipo", "buyout", "leveraged",
       "debt sale", "bond issue", "refinanc", "spin-off", "stake"]),
     ("energy", "Energy & commodities", 14,
