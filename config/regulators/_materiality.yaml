@@ -42,7 +42,8 @@ regulator_tiers:
   news_wire: [globe_mail, financial_post, bnn_bloomberg, cbc_business, wsj_markets,
               cnbc, marketwatch, nyt_business, yahoo_finance, fortune, biz_insider,
               american_banker, bbc_business, guardian_business, ft, economist_finance,
-              france24_business, nikkei_asia, scmp_business, economic_times]
+              france24_business, nikkei_asia, scmp_business, economic_times,
+              forbes, cbs_moneywatch, sky_business, aljazeera_econ, dw_business]
   home: [osfi, boc, fintrac, csa, osc, amf_qc]
   major_operating: [frb, occ, fdic, sec, finra, fincen, cftc, nydfs]
   standard_setter: [bis_bcbs, fsb, iosco, iais]

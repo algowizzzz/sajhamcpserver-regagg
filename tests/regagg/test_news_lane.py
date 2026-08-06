@@ -62,7 +62,7 @@ def _seed_news(session, rid="bbc_business"):
 def test_all_news_configs_parse_with_news_contract():
     """Every category:news config must be feed_summary + capped + news_story."""
     news = {k: v for k, v in load_all(CONFIGS).items() if v.category == "news"}
-    assert len(news) == 20
+    assert len(news) == 25
     for cfg in news.values():
         assert cfg.fetch == "feed_summary"
         assert cfg.max_docs_per_run == 50

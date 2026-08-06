@@ -1,7 +1,7 @@
 # Regulatory Intelligence — new-machine quickstart
 
-Everything ships in this repo: code, all 50 source configs (30 regulators +
-20 financial-news sources), the collected corpus (raw archive + markdown
+Everything ships in this repo: code, all 55 source configs (30 regulators +
+25 financial-news sources), the collected corpus (raw archive + markdown
 projection), a seed database, tests with recorded fixtures, and the 12 reg_*
 MCP tools — the ~500 unrelated upstream tools have been removed from this
 repo entirely; the server serves exactly the regulatory/news toolset.
