@@ -1,0 +1,72 @@
+PRESS RELEASE 
+6 November 2023 
+ 
+ 
+ 
+IAIS outlines actions for insurance supervisors in addressing 
+ natural catastrophe protection gaps 
+• Insurance helps build resilience to natural disasters. But, as the frequency and intensity of 
+natural catastrophe (NatCat) events are expected to grow due to climate change, this may 
+challenge the insurability and affordability of insurance coverage – leading to increasing 
+protection gaps. 
+• Addressing NatCat protection gaps is a complex societal challenge requiring a multi-
+stakeholder approach, including governments, the insurance industry and consumers. 
+Alongside these parties, insurance supervisors can also play an essential role. 
+• The IAIS highlights that insurance supervisors have a strong basis for supervisory action 
+to help narrow NatCat protection gaps in support of their various supervisory mandates. 
+• The report outlines five significant areas where supervisors can help address NatCat 
+protection gaps, underpinned by examples of action already underway by IAIS members. 
+It also provides a basis for further engagement amongst insurance supervisors and 
+stakeholders and outlines concrete follow-on actions. 
+Basel, Switzerland – The International Association of Insurance Supervisors (IAIS) today published 
+its report A call to action: the role of insurance supervisors in addres sing natural catastrophe 
+protection gaps. 
+The report outlines why natural  catastrophe (NatCat) protection gaps –  the uninsured portion of 
+economic losses caused by natural disasters –  matter for insurance supervisors and presents a 
+range of possible supervisory actions to improve affordability, availability and uptake  of insurance 
+coverage against NatCat events.  
+As NatCat events become more frequent and intense due to climate change, protection gaps are 
+expected to grow. “Insurance, including reinsurance, can substantially contribute to managing the 
+financial impact of natural disasters, thus enhancing societal resilience,” said Shigeru Ariizumi, IAIS 
+Protection Gaps Task Force Chair and recently elected Executive Committee Chair . “It provides 
+financial protection against damage, aids in recovery and reconstruction and can incentivise 
+adaptation, risk mitigation and preparedness. Against this backdrop, there is a role for supervisors 
+to play in supporting the important societal function of insurance in addressing NatCat protection 
+gaps.” 
+The report outlines five major areas of supervisory activity that can contribute to addressing NatCat 
+protection gaps, supported by case studies from jurisdictions spanning all IAIS regions. These are: 
+• Contributing to the assessment of protection gaps; 
+• Enhancing consumer financial literacy and risk awareness; 
+• Incentivising risk prevention; 
+• Fostering an enabling regulatory and supervisory environment to support insurance availability 
+and coverage uptake; and 
+• Advising government and industry on financial inclusion and societal resilience.
+
+The IAIS acknowledges that supervisory responses to protection gaps will vary based on mandates 
+and market  maturity, size and complexity.  However, all supervisors have –  either explicitly or 
+implicitly – a strong basis for action to address protection gaps. 
+“The supervisory mandates to preserve financial stability and enhance policyholder protection 
+already provide a robust basis for acting on protection gaps . For those supervisors that have 
+objectives to promote financial inclusion and market development, actions to address protection 
+gaps are even more central to their mandate,” said Jonathan Dixon, IAIS Secretary General.  
+The report will provide a basis for further engagement amongst insurance supervisors, the insurance 
+industry, consumers, policymakers and other stakeholders and as a platform for concrete action on 
+this important issue. The IAIS recognises that addressing protection gaps is a complex social 
+challenge requiring shared efforts by both the public and private sectors.  In the first instance, the 
+IAIS will collaborate with partners including the Access to Insurance Initiative (A2ii), the Global Shield 
+against Climate Risks, the International Development Fund (IDF) and the Organisation for Economic 
+Co-operation and Development (OECD) on key issues identified in the report. 
+Read the report here.  
+About the IAIS 
+The IAIS is a global standard- setting body whose objectives are to promote effective and globally 
+consistent supervision of the insurance industry to develop and maintain fair, safe and stable 
+insurance markets for the benefit and protection of policyholders and to contribute to the 
+maintenance of global financial stability. Its membership includes insurance supervisors from more 
+than 200 jurisdictions. Learn more at  www.iaisweb.org. Follow us on LinkedIn: IAIS – International 
+Association of Insurance Supervisors. 
+ 
+Media contact: 
+ 
+Melanie Clowes 
++41 61 280 8442 
+IAIS-Press@bis.org

@@ -1,0 +1,24 @@
+{
+  "doc_id": "e352c11a9f01e885",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2022/01/211111-Resolution-of-public-consultation-comments-on-Issus-Paper-on-Insurer-Culture.pdf",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2022/01/211111-Resolution-of-public-consultation-comments-on-Issus-Paper-on-Insurer-Culture.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3329abb495f48a890bd85941eb8f734a2d68b2a64b0e4bbaeb995761ffe53240",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/e352c11a9f01e885",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

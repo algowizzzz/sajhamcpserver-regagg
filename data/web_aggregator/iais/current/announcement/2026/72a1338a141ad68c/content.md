@@ -1,0 +1,31 @@
+# Public background session: consultation of Issues Paper on customers receiving value from insurance products
+
+[12 May 2026](https://www.iais.org/events/public-background-session-consultation-of-issues-paper-on-customers-receiving-value-from-insurance-products/)
+
+in [Stakeholder events](https://www.iais.org/category/stakeholder-events/)
+
+[Consultation](https://www.iais.org/2026/04/public-consultation-of-issues-paper-on-customers-receiving-value-from-insurance-products/)
+
+[Stakeholder event](https://www.iais.org/events/public-background-session-consultation-of-issues-paper-on-customers-receiving-value-from-insurance-products/)
+
+Resolution of comments
+
+Final paper
+
+On **12 May 2026** from **13:00 – 14:00 CEST**, the IAIS held a virtual public background session to present the draft Issues Paper on customers receiving value from insurance products and answer any questions from stakeholders as they prepare to provide their consultation feedback.
+
+Slides can now be accessed [here](https://www.iais.org/uploads/2026/05/Public-background-session-slides.pdf).
+
+A recording of the session is posted below.
+
+16 Jun 2026
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2Fevents%2Fpublic-background-session-consultation-of-issues-paper-on-customers-receiving-value-from-insurance-products%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

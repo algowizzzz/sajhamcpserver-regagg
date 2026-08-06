@@ -1,0 +1,12 @@
+1. [Home](https://www.iais.org/)
+2. Ryan Workman
+
+**Ryan Workman**  
+*Chair, IAIS Budget Committee*  
+*Assistant Director, International Relations & Policy, US National Association of Insurance Commissioners (NAIC)*
+
+Ryan Workman joined the National Association of Insurance Commissioners (NAIC) in February 2005, starting as a staff attorney in the Legal Division. In February 2008 he was seconded to the International Association of Insurance Supervisors (IAIS) in Basel, Switzerland where he supported various committees and working parties, served as legal counsel, and provided input and guidance on strategic and policy issues. Mr. Workman returned to the NAIC in April 2010 and currently serves as Assistant Director, International Relations & Policy, providing support for and management of the NAIC’s international activities and priorities, including coordinating NAIC input to and directly participating in IAIS workstreams and activities.
+
+Mr. Workman received his Juris Doctor degree and Master of Laws degree in International and Comparative Law from Duke University School of Law and a Bachelor of Arts degree in French and European Studies and a Bachelor of Science degree in Business Administration from the University of Kansas.
+
+![](https://www.iais.org/uploads/2022/01/ryan-workman-300x420.jpg)

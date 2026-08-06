@@ -1,0 +1,25 @@
+# IAIS and A2ii publish joint note on the role of supervisors in multi-stakeholder approaches to address pandemic protection gaps
+
+[29 Sep 2022](https://www.iais.org/2022/09/iais-and-a2ii-publish-joint-note-on-the-role-of-supervisors-in-multi-stakeholder-approaches-to-address-pandemic-protection-gaps/)
+
+in [Latest news](https://www.iais.org/category/latest-news/), [Other supervisory notes and reports](https://www.iais.org/category/other-notes-reports/), [Supervisory and supporting material](https://www.iais.org/category/supervisory-and-supporting-material/)
+
+As part of a broader set of lessons learnt from Covid-19, the International Association of Insurance Supervisors (IAIS) and Access to Insurance Initiative (A2ii) have [jointly published a note](https://www.iais.org/uploads/2022/09/220929-The-role-of-insurance-supervisors-in-multi-stakeholder-approaches-to-address-pandemic-protection-gaps.pdf) examining the role insurance supervisors could play in the design, development and implementation of insurance-based programmes for pandemic risk. The note considers key characteristics of proposals – including public-private partnerships and risk pools – and outlines the role(s) that supervisors can play as future initiatives are developed.
+
+The note focuses on gaps in coverage for types of risk where diversification is more difficult to achieve, in particular coverage for non-damage business interruption (BI) losses in the context of pandemics. In this regard, the note draws parallels with supervisory approaches to address other types of risk that challenge the principle of diversification. Concepts presented in the note will inform future work undertaken by the IAIS on pandemic protection gaps, as well as on the role of supervisors in addressing protection gaps more broadly.
+
+Click [here](https://www.iais.org/uploads/2022/09/220929-The-role-of-insurance-supervisors-in-multi-stakeholder-approaches-to-address-pandemic-protection-gaps.pdf) to read the note.
+
+3 Jun 2024
+
+[Capacity building](https://www.iais.org/tag/capacity-building/)[Covid-19](https://www.iais.org/tag/covid-19/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2022%2F09%2Fiais-and-a2ii-publish-joint-note-on-the-role-of-supervisors-in-multi-stakeholder-approaches-to-address-pandemic-protection-gaps%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

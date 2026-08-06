@@ -1,0 +1,1 @@
+Summary: # IAIS issues public consultation on the draft criteria that will be used to assess whether the Aggregation Method provides comparable outcomes to the Insurance Capital Standard

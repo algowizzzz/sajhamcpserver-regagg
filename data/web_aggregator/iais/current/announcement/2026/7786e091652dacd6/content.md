@@ -1,0 +1,65 @@
+# IAIS Global Insurance Market Report 2024 highlights key risks and trends facing the global insurance sector
+
+[3 Dec 2024](https://www.iais.org/2024/12/iais-global-insurance-market-report-2024-highlights-key-risks-and-trends-facing-the-global-insurance-sector/)
+
+in [Latest news](https://www.iais.org/category/latest-news/), [Press releases](https://www.iais.org/category/press-releases/)
+
+* **Stable solvency and profitability levels:** Insurers maintained stable solvency and profitability levels, supported by strong underwriting performance and robust investment returns. Insurers’ systemic footprint increased but remained well below those of banks on aggregate.
+* **Key** **risks and supervisory responses:** Analysis covers two key macroprudential themes: (1) the impact of the current macroeconomic environment on the insurance sector and (2) structural shifts in the life insurance sector, including increased asset allocation to alternative investments and increased usage of cross-border asset-intensive reinsurance.
+* **Climate-related risks:** The report examines the insurance sector’s exposure to transition risks in investment portfolios as well as the potential materiality of natural catastrophe (NatCat) risks. It flags that it is increasingly critical for insurance supervisors to strengthen their understanding of the type and magnitude of climate-related risks and exposures of the insurance sector. The GIMAR aims to provide a global baseline for climate risk data.
+* **Looking ahead:** Life insurers are expected to maintain or improve solvency ratios through strong capital reserves and effective risk management, while non-life insurers are anticipated to sustain stable solvency ratios supported by robust underwriting and investment income. Uncertainty, however, remains, with geopolitical tensions posing risks to the global economic landscape, and digitalisation and artificial intelligence offering benefits, yet also posing liquidity and cyber risks.
+
+**Basel, Switzerland** – The International Association of Insurance Supervisors (IAIS) today published its annual [Global Insurance Market Report (GIMAR)](https://www.iaisweb.org/uploads/2024/12/Global-Insurance-Market-Report-2024.pdf) for 2024, detailing the results of this year’s Global Monitoring Exercise (GME), the IAIS’ risk assessment framework to monitor key risks and trends and detect the potential build-up of systemic risk in the global insurance sector.
+
+“The Global Insurance Market Report 2024 underscores the resilience and stability of the insurance sector, reflecting effective risk management and robust financial performance,” said Shigeru Ariizumi, IAIS Executive Committee Chair. “The report’s analysis highlights the sector’s ability to address challenges and navigate future uncertainties, thereby ensuring its continued resilience.”
+
+Insurers experienced an increase in total assets and stable solvency and profitability levels at year-end 2023, supported by strong underwriting performance and investment returns. Liquidity positions improved slightly, with insurers focusing on maintaining adequate liquidity buffers. The systemic risk score of participating insurers in the GME rose by 5.3% at the end of 2023 compared to 2022, mainly due to a significant increase in level 3 assets.[[1]](#footnote) Overall, insurers’ systemic risk scores remain significantly lower than those of banks, indicating that the insurance sector has a lower systemic risk footprint.
+
+Two themes identified through the 2024 GME for deeper analysis were (1) key risks in the current macroeconomic environment and (2) structural shifts in the life insurance sector.
+
+1. **Key risks** **in the current macroeconomic environment** include managing risks from fluctuating interest rates, credit risk and liquidity risk. The report puts a special focus on surrender risk, debt sustainability of fixed-income assets, risks related to commercial real estate (CRE) exposures, and the impact of derivatives and margin calls. In addition, the report outlines transmission channels from geopolitical risk and discusses the impact of AI/digitalisation on the sector. Supervisors are focusing on stress testing, liquidity management, and monitoring derivatives and geopolitical risks. While digitalisation and AI offer significant benefits, they also pose liquidity and cyber risks, prompting increased supervisory engagement and the development of new guidelines.
+2. **Structural shifts in the life insurance sector** involve increased investments in alternative assets and growing cross-border asset-intensive reinsurance. Although increased investment in alternative assets may offer benefits to the insurance sector, recent trends raise supervisory concerns about valuation, liquidity risks, hidden leverage and credit risks. Asset-intensive reinsurance transactions are expected to grow, driven by interest rates, credit spreads, pension reforms, and demographic changes. Supervisory concerns for some regulators include concentration risks, increased complexity, regulatory differences and conflicts of interest.
+
+The report also highlights the increasing frequency and severity of natural catastrophe (NatCat) events due to climate change, emphasising the need for better tools and data to assess natural catastrophe risks and coverage costs.
+
+Lastly, the outlook for the insurance sector remains stable, with life and non-life insurers expected to maintain or improve solvency ratios through effective risk management and robust underwriting and investment income. Uncertainty, however, remains in the current macroeconomic and geopolitical landscape.
+
+In 2025, the IAIS will perform its second triennial review of the GME assessment methodology, ahead of the Financial Stability Board’s review of its experiences with the process of assessing and mitigating systemic risk based on the Holistic Framework.[[2]](#footnote) In 2025 the IAIS will also:
+
+* Finalise the development of [ancillary indicators](https://www.iaisweb.org/2024/11/public-consultation-on-ancillary-risk-indicators-in-the-global-monitoring-exercise-2/) on credit risk, derivatives, reinsurance, mark-to-model assets and revisions to the liquidity metrics;
+* Publish an Issues Paper on the structural shifts in the life insurance sector, with public consultation scheduled for March 2025. The paper will focus on the supervisory concerns arising from these trends and aims to assist supervisors in developing strategies to mitigate associated risks. The paper will also include a gap analysis of IAIS Insurance Core Principles (ICPs) to assess if these shifts are adequately addressed in supervisory material; and
+* Publish a GIMAR special topic report on the potential financial stability implications of NatCat protection gaps.
+
+The GME builds on data collected from 59 of the largest international insurance groups and aggregate sector-wide data from supervisors across the globe, covering over 90% of global written premiums. The analysis covers quantitative data to the end of 2023, complemented with forward-looking qualitative input from insurers and supervisors, insights from stakeholder engagement throughout 2024 and more recent financial market data where available.
+
+**Read the 2024 GIMAR**[**here**](https://www.iaisweb.org/uploads/2024/12/Global-Insurance-Market-Report-2024.pdf)**.**
+
+**Please find the press release in pdf [here](https://www.iaisweb.org/uploads/2024/12/IAIS-Press-Release-Global-Insurance-Market-Report-2024.pdf).**
+
+**About the IAIS**
+
+The IAIS is a global standard-setting body whose objectives are to promote effective and globally consistent supervision of the insurance industry to develop and maintain fair, safe and stable insurance markets for the benefit and protection of policyholders and to contribute to the maintenance of global financial stability. Its membership includes insurance supervisors from more than 200 jurisdictions. Learn more at [www.iaisweb.org](http://www.iaisweb.org). Follow us on LinkedIn: [IAIS – International Association of Insurance Supervisors](https://www.linkedin.com/company/iais-international-association-of-insurance-supervisors).
+
+**Media contact:**Melanie Clowes
+
++41 61 280 8442
+
+[IAIS-Press@bis.org](mailto:IAIS-Press@bis.org)
+
+[[1]](#_ftnref1) This rise in level 3 assets, which are illiquid, hard-to-value assets, is largely driven by accounting changes from International Financial Reporting Standards 9 and 17, which led to reclassification of certain assets (especially mortgages) from valuation at amortised cost to fair value. Following these changes, the IAIS is considering updating the level 3 assets indicator in the 2025 triennial assessment review and is developing an ancillary indicator to enhance risk assessment of mark-to-model assets.
+
+[[2]](#_ftnref2) In December 2022, the Financial Stability Board (FSB) decided to discontinue the annual identification of global systemically important insurers (G-SIIs) and that going forward the FSB will utilise assessments available through the Holistic Framework to inform its considerations of systemic risk in the insurance sector. In November 2025 the FSB will review its experiences with the process of assessing and mitigating systemic risk based on the Holistic Framework.
+
+3 Dec 2024
+
+[Climate risk](https://www.iais.org/tag/climate-risk/)[Digital innovation (Fintech)](https://www.iais.org/tag/digital-innovation-fintech/)[Financial Stability](https://www.iais.org/tag/financial-stability/)[GIMAR](https://www.iais.org/tag/gimar/)[Holistic Framework](https://www.iais.org/tag/holistic-framework/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2024%2F12%2Fiais-global-insurance-market-report-2024-highlights-key-risks-and-trends-facing-the-global-insurance-sector%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

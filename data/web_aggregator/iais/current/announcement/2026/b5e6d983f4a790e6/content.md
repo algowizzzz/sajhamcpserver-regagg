@@ -1,0 +1,72 @@
+Executive Committee Regional Representation Coordinators 
+ExCo Region Regional 
+Coordinator 
+Jurisdiction Member 
+Asia Toshiyuki Miyoshi Japan Financial Services Agency (FSA) 
+Central, Eastern Europe and 
+Transcaucasia 
+Gorazd Čibej Slovenia Insurance Supervision Agency (AZN) 
+Latin America Guillermo Plate  Asociación de Supervisores de Seguros de América Latina 
+(ASSAL) 
+Middle East and North Africa Siham Ramli Morocco  Autorité De Contrôle Des Assurances Et De La Prévoyance 
+Sociale (ACAPS) 
+North America Ryan Workman United States of 
+America 
+National Association of Insurance Commissioners (NAIC) 
+Oceania Suzanne Smith Australia Australia Prudential Regulation Authority (APRA) 
+Offshore and Caribbean Jeremy Quick Guernsey Guernsey Financial Services Commission (GFSC) 
+Sub-Sahara Africa Kenneth Matomola Namibia Namibia Financial Institutions Supervisory Authority (NAMFISA) 
+Western Europe Petra Hielkema European Union European Insurance and Occupational Pensions Authority (EIOPA)
+
+Implementation Regions 
+Region Regional Coordinator/Member Regional Associations/Forums/Bodies 
+Americas Delfina Faraoni 
+Superintendencia de Seguros de la Nación Argentina 
+Asociación de Supervisores de Seguros de América Latina 
+(ASSAL) 
+Asia and Oceania Tony Chan 
+Insurance Authority, China, Hong Kong 
+Asian Forum of Insurance Regulators (AFIR) 
+Central, Eastern Europe and 
+Transcaucasia 
+Gorazd Čibej 
+Insurance Supervision Agency (AZN), Slovenia 
+ 
+French Speaking  François Tempe 
+L'Autorité de contrôle prudentiel et de résolution (ACPR) – 
+France 
+Mouna Chentoufi 
+L’Autorité de Contrôle des Assurances et de la 
+Prévoyance Sociale (ACAPS) – Morocco 
+Groupes des contrôleurs d'assurance francophones (GCAF) 
+Middle East and North Africa Mouna Chentoufi  
+ACAPS – Morocco 
+Arab Union of Insurance Supervisors (AUIS) 
+Association of African Insurance Supervisory Authorities 
+(AAISA)  
+Offshore and Caribbean Cindy Scotland 
+Cayman Islands Monetary Authority 
+Caribbean Association of Insurance Regulators (CAIR) 
+Group of International Insurance Centre Supervisors 
+(GIICS)
+
+Region Regional Coordinator/Member Regional Associations/Forums/Bodies 
+Sub-Sahara Africa Kenneth Matomola 
+Namibia Financial Institutions Supervisory Authority 
+(NAMFISA) 
+Committee of Insurance, Securities and Non-Banking 
+Financial Authorities (CISNA) 
+AAISA 
+East African Insurance Supervisors Association (EAISA) 
+West African Insurance Association (WAISA) 
+Western Europe Petra Hielkema 
+European Insurance and Occupational Pensions Authority 
+ 
+ Implementation Partners 
+Implementation Partner Key Contact 
+Access to Insurance Initiative (A2ii) / World Bank (WB) Antonique Koning 
+Asian Development Bank (ADB) Arup Kumar Chatterjee 
+Financial Stability Institute (FSI) Juan Carlos Crisanto 
+International Monetary Fund (IMF) Suzette Vogelsang 
+Organisation for Economic Co-operation and Development (OECD) Leigh Wolfrom 
+Toronto Centre (TC) Anatol Monid

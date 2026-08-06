@@ -1,0 +1,1 @@
+Summary: # IAIS Global Insurance Market Report 2024 highlights key risks and trends facing the global insurance sector

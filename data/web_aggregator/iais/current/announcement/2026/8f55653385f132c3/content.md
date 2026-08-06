@@ -1,0 +1,588 @@
+2024 ICS data collection Questionnaire Page 1 of 21 
+Public 
+202
+4 Questionnaire 
+for the April 2024 Insurance Capital Standard (ICS) Data Collection Exercise of the 
+Monitoring Period Project 
+(“
+the ICS Questionnaire”) 
+T
+he ICS Questionnaire has been developed as a supporting document for groups participating in 
+the 2024 ICS Data Collection Exercise and must be read in conjunction with the associated ICS 
+Technical Specifications, ICS data collection Template and Yield Curve documentation. All 
+documents are provided for information only. 
+These documents do not replace or supersede the ICS Level 1 and Level 2 documents, which 
+have been agreed and published by the IAIS.
+
+2024 ICS data collection Questionnaire Page 2 of 21 
+Public 
+Contents
+1 Introduction ............................................................................................................................... 3 
+1.1 Preamble ........................................................................................................................... 3 
+2 Identification ............................................................................................................................. 4 
+3 General questions .................................................................................................................... 5 
+4 Perimeter of the ICS Calculation .............................................................................................. 9 
+5 Capital requirement ................................................................................................................ 10 
+5.1 Self-assessment template for natural catastrophe models ............................................ 10 
+6 Self-assessment Template for Internal Models...................................................................... 15
+
+2024 ICS data collection Questionnaire Page 3 of 21 
+ 
+Public 
+1 Introduction 
+1.1 Preamble 
+This Questionnaire focuses on supplementary information in relation to data provided in the 
+Template for the April 2024 ICS Data Collection Exercise of the Monitoring Period Project, and is 
+due 31 July 2024.
+
+2024 ICS data collection Questionnaire Page 4 of 21 
+ 
+Public 
+2 Identification 
+1 Please provide the name of your IAIG/Volunteer Group below: 
+ IAIG / Volunteer Group name 
+Insert text 
+ 
+2 Please indicate the date of submission of this questionnaire (dd/mm/yyyy). If an earlier 
+submission of this Questionnaire has been updated please indicate a new date here: 
+ Date of this submission 
+Insert text 
+ 
+3 Please indicate the name of the contact persons for queries about the responses to this 
+Questionnaire, including email address and telephone number. 
+ Primary Contact Information 
+Name: Insert text 
+Email: Insert text 
+Phone: Insert text 
+ 
+Backup Contact Information 
+Name: Insert text 
+Email: Insert text 
+Phone: Insert text
+
+2024 ICS data collection Questionnaire Page 5 of 21 
+ 
+Public 
+3 General questions 
+Template sheet(s) referred to in this section: Various 
+Key Technical Specification section(s) relevant to this 
+section 
+Various 
+ 
+4 Were any material assumptions or simplifications used when providing ICS data? Examples of 
+assumptions or simplifications follow the question. 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+If YES, complete the following question for each material assumption or simplification used. 
+Please specify the item or issue, including a reference to the Technical Specifications or Template, 
+and provide a description with sufficient detail to allow an assessment of materiality and potential 
+impact. In the description, also indicate whether you anticipate future reliance on the assumption or 
+simplification or was it due to circumstances such as a resource constraint. 
+Item name Reference Description 
+Insert text Insert text Insert text 
+ (Add additional rows as necessary) 
+Examples where assumptions or simplifications may have been used: 
+• 8.2 Deferred tax from the ICS Adjustments – Was difficulty encountered being able to offset 
+deferred taxes arising from the ICS Adjustment  where an assumption or simplification was 
+used?  
+ 
+5 Were any material changes made in reporting data between Years 4 and 5 of the Monitoring Period 
+(eg simplifications that were used last year that are no longer being used )? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+If YES, please specify the item or issue, including a reference to the Technical Specifications or 
+Template, and provide a description as well as rationale for its relevance to analysis. 
+Please describe in summary, but with sufficient detail to allow an assessment of materiality and 
+potential impact. 
+Item name Reference Description and rationale
+
+2024 ICS data collection Questionnaire Page 6 of 21 
+ 
+Public 
+Insert text Insert text Insert text 
+(Add additional rows as necessary) 
+6 Please provide an assessment of the quantitative impact on the coverage ratio of the changes to 
+the ICS listed below (main changes between 2023 and 2024, irrespective of how the ICS was 
+calculated in practice in 2023). When a quantitative assessment is not possible, please provide a 
+qualitative indication of impact (negligible impact, small (< 2 percentage points), medium (< 10 pp) 
+or high (> 10 pp) increase / decrease). 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+If YES, please specify the difficulties encountered for each of the items listed in the table below. 
+Change Reference Estimated impact on coverage ratio (in percentage 
+points) 
+Changes in the scope 
+of recognised 
+management actions. 
+Section 5.2.4 and 
+7.1.3 
+ 
+Change in Middle 
+Bucket criteria 
+§§ 132 to 134  
+Change in Middle 
+Bucket spread 
+adjustment calculation 
+(allowance of 
+unhedged assets in 
+unmatched currencies 
+and recognition of 
+callable bonds) 
+Section 5.2.5.3.2.3  
+Change in the 
+calculation of the 
+modulation factor 
+Section 5.2.5.3.2.5  
+Change in deductions 
+from Tier 1 capital 
+resources 
+§226  
+Change in Non-life 
+calibration (Accident 
+and Health in Hong 
+Kong SAR) 
+Table 16
+
+2024 ICS data collection Questionnaire Page 7 of 21 
+ 
+Public 
+Changes in the 
+Interest rate risk 
+charge (removal of 
+twist scenarios and 
+cap on the LTFR 
+stress) 
+Section 7.3.2  
+Changes in the Non-
+Default Spread risk 
+charge (introduction of 
+a cap and floor) 
+Section 7.3.3  
+Change in the 
+Currency risk 
+calibration 
+Section 7.3.6  
+Recognition of Cash 
+as collateral for the 
+Credit risk charge 
+calculation 
+Section 7.4.2.1  
+Changes to the Non-
+insurance risk charge 
+(add-on charge by the 
+supervisor and 
+calculation with 
+negative equity 
+values) 
+Section 7.7  
+ 
+7 Do you have further comments regarding the ICS not specifically addressed elsewhere in the 
+Questionnaire? 
+Where appropriate, this includes comments on data, additional relevant data, and/or calculations 
+that you consider relevant to the analysis (that is, have the potential to have a material impact on 
+any conclusions reached based on the data and/or its analysis). 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+If YES, please specify the item or issue, including a reference to the Technical Specifications or 
+Template, and provide a description as well as rationale for its relevance to analysis. 
+Please describe in summary, but with sufficient detail to allow an assessment of materiality and 
+potential impact. 
+Item name Reference Description and rationale
+
+2024 ICS data collection Questionnaire Page 8 of 21 
+ 
+Public 
+Insert text Insert text Insert text 
+(Add additional rows as necessary)
+
+2024 ICS data collection Questionnaire Page 9 of 21 
+ 
+Public 
+4 Perimeter of the ICS Calculation 
+Template Sheets referred to in this section: GAAP and ICS Balance Sheets 
+Key Technical Specification sections relevant to this section 4. Reference ICS: Perimeter of 
+the ICS Calculation 
+ 
+8 Has an amount been reported in the worksheet GAAP and ICS Balance Sheets, table 
+Balance sheets, Row (-) adjustments already included in other equity items? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+If YES, please provide a description of what was included in the amount in sufficient 
+detail to understand why the offset was necessary. 
+ 
+Amount Description 
+Insert 
+text 
+Insert text 
+(Add rows as necessary) 
+9 Has an amount been reported in the Other line in the Equity section of the worksheet 
+GAAP and ICS Balance Sheets? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+If YES, please provide additional information on the amount so that the IAIS can 
+determine whether that amount should be included within ICS capital resources. 
+ 
+Amount Description 
+Insert text  
+  
+(Add rows as necessary)
+
+2024 ICS data collection Questionnaire Page 10 of 21 
+ 
+Public 
+5 Capital requirement 
+ 
+5.1 Self-assessment template for natural catastrophe models 
+Template Sheets referred to in this section: N/A 
+Key Technical Specification sections relevant to this section 7.2.4.7 Safeguards for natural 
+catastrophe models 
+ 
+10 Safeguard 1 – Description of the scope of application 
+The IAIG describes the perimeter of the natural catastrophe model’s calculation. 
+Is Safeguard 1 met? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+If YES, please describe the scope of application of the natural catastrophe model. 
+Item name Description and rationale 
+Insert text Insert text 
+  
+  
+(Add rows as necessary) 
+11 Do you have any natural catastrophe models that were developed internally? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+If YES, please describe the scope of application of each CAT model. 
+Item name Description and rationale 
+Insert text Insert text
+
+2024 ICS data collection Questionnaire Page 11 of 21 
+ 
+Public 
+  
+(Add rows as necessary) 
+12 Safeguard 2 – Validation 
+The IAIG demonstrates that a rigorous process is in place by which they can establish whether their 
+natural catastrophe model framework is sound or whether improvements are needed. 
+Is Safeguard 2 met? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+If YES, Please describe the validation process for the CAT model. 
+Item name Description and rationale 
+Insert text Insert text 
+  
+  
+(Add rows as necessary) 
+13 Safeguard 3 – Sign-off by senior management 
+The senior management of the IAIG has ownership of the natural catastrophe model, and the model 
+complies with the validation process prescribed by the natural catastrophe model governance 
+process. 
+Is Safeguard 3 met? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+If NO, please explain whether a change is planned and the expected timeline. 
+Item name Description and rationale 
+Insert text Insert text
+
+2024 ICS data collection Questionnaire Page 12 of 21 
+ 
+Public 
+  
+(Add rows as necessary) 
+14 Safeguard 4 – Statistical quality test 
+The statistical quality test addresses issues related to the following technical aspects of the natural 
+catastrophe model: 
+• methodology and assumptions; 
+• coverage of material risks; 
+• data (including external data) and expert judgment; 
+• aggregation of risks and diversification effects; 
+• consistency with the method used for the calculation of technical provisions; 
+• allowance for risk mitigation techniques and future management actions; and 
+• financial guarantees and contractual options. 
+Is Safeguard 4 met? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+If YES, please describe in summary how statistical quality tests are used in the natural catastrophe 
+model. 
+Item name Description and rationale 
+Insert text Insert text 
+  
+  
+(Add rows as necessary) 
+15 Safeguard 5 – Use test and governance 
+The use test reflects the IAIG’s view of its risks and is used in decision-making. 
+Is Safeguard 5 met? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+If YES, please describe, in summary, how the use test is carried out, as well the model governance 
+and internal controls at different stages of the model.
+
+2024 ICS data collection Questionnaire Page 13 of 21 
+ 
+Public 
+Item name Description and rationale 
+Insert text Insert text 
+  
+  
+(Add rows as necessary) 
+16 Safeguard 6 – Documentation standards 
+The documentation of the natural catastrophe model includes its use and other related aspects, 
+such as: 
+• facilitates the supervisory review of the model; 
+• facilitates Senior Management’s understanding; and 
+• recognises the weaknesses of the model. 
+Is Safeguard 6 met? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+If YES, please describe, in summary, the documentation that is currently available. 
+Item name Description and rationale 
+Insert text Insert text 
+  
+  
+(Add rows as necessary) 
+17 Safeguard 7 – List of catastrophe risk sources that are not modelled 
+The IAIG recognises the limitations in the scope of their natural catastrophe model. IAIGs make a 
+list of natural catastrophe risks specified in the ICS but not modelled, and explain why those risks 
+are not modelled. 
+Is Safeguard 7 met? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable
+
+2024 ICS data collection Questionnaire Page 14 of 21 
+ 
+Public 
+If YES, please list those natural catastrophe risks that are not modelled, the reason those risks are 
+not modelled, and an assessment of the impact. 
+Item name Description and rationale 
+Insert text Insert text 
+  
+  
+(Add rows as necessary)
+
+2024 ICS data collection Questionnaire Page 15 of 21 
+ 
+Public 
+6 Self-assessment Template for Internal Models 
+IAIGs submitting internal model related data should complete and submit the self -assessment 
+template, which assesses the degree of compliance with the list of prerequisites. 
+The scope of application of internal models is limited to the calculation of the ICS capital 
+requirement and not to other areas of the ICS such as capital resources or valuation (eg MAV). 
+Therefore, the development of internal models is meant to introduce only an alternative calculation 
+of the ICS capital requirement, while the valuation of the assets and liabilities of the IAIG would 
+continue to be calculated according to the methods set out by the IAIS. However, the IAIS expects 
+convergence between the valuation basis embedded in the internal model and the valuation basis 
+for the ICS during the monitoring period. 
+IM1 Do you use a full internal model? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+If No, please describe which type of partial internal model you use. 
+Please describe in summary, but with sufficient detail to allow an assessment of the perimeter of the 
+internal model. 
+Partial model type Description 
+Partial – One or more 
+risk charges of the ICS 
+standard method 
+capital requirement 
+Insert text if this partial model type is used 
+Partial – One or more 
+sub-risk charges of the 
+ICS standard method 
+capital requirement 
+Insert text if this partial model type is used 
+Partial – One or more 
+risk charges or sub-risk 
+charges not captured 
+by the ICS standard 
+method capital 
+requirement 
+Insert text if this partial model type is used 
+Partial –Only one or 
+more major business 
+units or legal entities 
+Insert text if this partial model type is used 
+Other model structure Insert text if this partial model type is used
+
+2024 ICS data collection Questionnaire Page 16 of 21 
+ 
+Public 
+(Add additional rows as necessary) 
+IM2 Do you use the partial internal model for calculation of risk charges in any of the below mentioned 
+risk categories? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+If YES, please describe in summary, how the internal model is used to calculate risk charges in 
+below mentioned risk categories. 
+ 
+Risk category Description of the usage 
+Mortality risk  
+Longevity risk  
+Morbidity/Disability risk  
+Lapse risk  
+Expense risk  
+Premium risk  
+Claims reserve risk  
+Catastrophe risk  
+Interest Rate risk  
+Non-default Spread risk  
+Equity risk  
+Real Estate risk  
+Currency risk  
+Asset Concentration risk  
+Credit risk   
+Operational risk
+
+2024 ICS data collection Questionnaire Page 17 of 21 
+ 
+Public 
+(Add additional rows as necessary) 
+IM3 Do you meet the criteria for validation? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+If Yes, please describe the validation process of the internal model. 
+If No, please describe the shortcomings and whether changes are planned. 
+Description item Description rationale Yes/No 
+Insert text Insert text  
+   
+   
+(Add rows as necessary) 
+IM4 Do you meet the criteria for statistical quality tests? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+If YES, please describe in summary on how statistical quality tests are used in the internal model. 
+If No, please describe the shortcomings and whether changes are planned. 
+Comment name Comment description  Yes/No 
+Insert text Insert text  
+   
+   
+(Add rows as necessary) 
+IM5 Do you meet the criteria for calibration tests? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable
+
+2024 ICS data collection Questionnaire Page 18 of 21 
+ 
+Public 
+   
+If YES, please describe in summary on how calibration tests are used in the internal model. 
+If No, please describe the shortcomings and whether changes are planned. 
+Statistical 
+quality test 
+Description of the test Yes/No 
+Insert text Insert text  
+   
+   
+(Add rows as necessary) 
+IM6 Do you meet the criteria for the use test? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+Please describe in summary the areas where expert judgement is predominantly used. 
+ 
+  
+  
+  
+  
+(Add rows as necessary) 
+IM7 Are the criteria for the use test met? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+   
+If YES, please describe in summary, how the use test is met. 
+If No, please describe the shortcomings and whether changes are planned.
+
+2024 ICS data collection Questionnaire Page 19 of 21 
+ 
+Public 
+Use test Description Yes/No 
+Business 
+planning 
+Insert text  
+Mergers and 
+Acquisitions 
+  
+Reinsurance   
+Investment   
+Underwriting   
+Risk Management   
+Capital 
+Management 
+(assessment and 
+allocation) 
+  
+Performance 
+Management 
+  
+(Add rows as necessary) 
+IM8 Are the criteria for model governance met? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+If YES, please describe in summary the model governance and internal controls at different stages 
+of the model. 
+If No, please describe the shortcomings and whether changes are planned. 
+Model stage Description Yes/No 
+Model development Insert text  
+Model deployment   
+Model 
+implementation 
+  
+Model usage
+
+2024 ICS data collection Questionnaire Page 20 of 21 
+ 
+Public 
+Model validation   
+Model changes   
+Data quality   
+Use test checking   
+Roles and 
+relationships of 
+ 
+  
+   
+  
+ 
+IM9 Are the criteria for the documentation standards met? 
+ Provide your response by placing an ‘x’ in the relevant cell: 
+ YES  NO  Not Applicable 
+If YES, please describe in summary how the standards are met. 
+If No, please describe the shortcomings and whether changes are planned. 
+ 
+Documentation 
+type 
+Description Yes/No 
+Insert text Insert text  
+   
+   
+(Add rows as necessary) 
+IM10 Please describe the model documentation process at different stages of the model.  
+  
+Model stage Description 
+Model development Insert text 
+Model deployment  
+Model implementation
+
+2024 ICS data collection Questionnaire Page 21 of 21 
+ 
+Public 
+Model usage  
+Model validation  
+Model changes  
+Data quality  
+Use test checking  
+Roles and relationships 
+of units responsible for 
+documentation 
+ 
+(Add rows as necessary)

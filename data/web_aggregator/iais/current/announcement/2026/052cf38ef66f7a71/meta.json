@@ -1,0 +1,24 @@
+{
+  "doc_id": "052cf38ef66f7a71",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "IAIS releases Year in Review 2022, sharing highlights from the past year - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/2023/03/iais-releases-year-in-review-2022-sharing-highlights-from-the-past-year/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1bbee06b482fbe4002cd3adf6a1a04cdab297dde4e10bbbc4afe0d935c606454",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/052cf38ef66f7a71",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "f07c93d5358583e5",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2022/01/210906-Presentation-on-Application-Paper-on-Macroprudential-Supervision.pdf",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2022/01/210906-Presentation-on-Application-Paper-on-Macroprudential-Supervision.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5648e476becad2ea6e46ff84110b51fc17f88084ad8f613a1caccc082854a2e7",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/f07c93d5358583e5",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

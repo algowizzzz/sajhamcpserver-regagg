@@ -1,0 +1,1062 @@
+2023-2024 Roadmap
+
+IAIS 2023-2024 Roadmap
+About the IAIS
+The International Association of Insurance Supervisors 
+(IAIS) is a voluntary membership organisation of 
+insurance supervisors and regulators from more than 
+200 jurisdictions. The mission of the IAIS is to promote 
+effective and globally consistent supervision of the 
+insurance industry in order to develop and maintain 
+fair, safe and stable insurance markets for the benefit 
+and protection of policyholders and to contribute to 
+global financial stability. 
+Established in 1994, the IAIS is the international 
+standard-setting body responsible for developing 
+principles, standards and other supporting material for 
+the supervision of the insurance sector and assisting 
+in their implementation. The IAIS also provides a 
+forum for Members to share their experiences and 
+understanding of insurance supervision and insurance 
+markets. 
+The IAIS coordinates its work with other international 
+financial policymakers and associations of supervisors 
+or regulators, and assists in shaping financial 
+systems globally. In particular, the IAIS is a member 
+of the Financial Stability Board (FSB), member of 
+the Standards Advisory Council of the International 
+Accounting Standards Board (IASB), and partner in 
+the Access to Insurance Initiative (A2ii). In recognition 
+of its collective expertise, the IAIS also is routinely 
+called upon by the G20 leaders and other international 
+standard-setting bodies for input on insurance issues 
+as well as on issues related to the regulation and 
+supervision of the global financial sector. 
+For more information, please visit www.iaisweb.org  
+and follow us on LinkedIn: IAIS – International 
+Association of Insurance Supervisors .
+
+IAIS 2023-2024 Roadmap
+Acronyms 
+A2ii Access to Insurance Initiative
+AI Artificial intelligence
+AM Aggregation Method
+API Application programming interface
+CEO Chief Executive Officer
+CIF Coordinated Implementation Framework
+CMCG FSB Compensation Monitoring Contact Group
+ComFrame Common Framework for the Supervision of Internationally  
+ Active Insurance Groups
+CRO Chief Risk Officer
+CRSG Climate Risk Steering Group
+DeFi  Decentralised finance
+DEI Diversity, equity and inclusion
+DLT Distributed ledger technologies 
+EMDE Emerging market and developing economy
+ESG Environmental, social and governance
+ExCo  Executive Committee
+FF FinTech Forum
+FIF Financial Inclusion Forum
+FinTech Financial technology
+FSB Financial Stability Board
+FSI Financial Stability Institute
+GAAP Generally Accepted Accounting Principles
+GIMAR Global Insurance Market Report
+GME Global Monitoring Exercise
+G-SII Global Systemically Important Insurers
+GWG Governance Working Group
+HLG High-Level Goal
+IAA International Actuarial Association
+IAIG Internationally Active Insurance Group
+IAIS International Association of Insurance Supervisors
+iCBCM FSB Cross-border Crisis Management Group for insurance
+ICP Insurance Core Principle
+ICS Insurance Capital Standard
+IFRS International Financial Reporting Standard
+IIM Individual insurer monitoring
+MAP Member Assessment Programme
+MCWG Market Conduct Working Group
+ML  Machine learning
+MMoU Multilateral Memorandum of Understanding
+MMWG Macroprudential Monitoring Working Group
+NatCat  Natural catastrophe
+ORTF Operational Resilience Task Force
+PCR Prescribed Capital Requirement
+PGTF  Protection Gap Task Force
+PPS Policyholder protection schemes
+PRP Peer Review Process
+RBS Risk-based solvency
+RBSIF  Risk-based Solvency Implementation Forum
+SAT Self-Assessment Tool
+SPFO  Strategic Plan and Financial Outlook
+SWM Sector-wide monitoring
+TJA Targeted Jurisdictional Assessment
+International Association of Insurance Supervisors
+c/o Bank for International Settlements
+Centralbahnplatz 2
+CH-4002 Basel
+Switzerland
+Tel:  +41 61 280 80 90
+Email:  iais@bis.org
+Web:  www.iaisweb.org
+© International Association of Insurance Supervisors 
+(IAIS) 2023.
+All rights reserved. Brief excerpts may be reproduced 
+or translated provided the source is stated. 
+Design: www.ctballmer.ch
+
+IAIS 2023-2024 Roadmap
+About the IAIS
+Foreword
+Introduction
+Summary of activities by strategic objectives
+ HLG 1: Assessing and responding to global market trends and  
+ developments which present opportunities, challenges and risks
+  Key projects and activities
+ HLG 2: Setting and maintaining globally recognised standards
+  Key projects and activities
+ HLG 3: Sharing good supervisory practices and  
+ facilitating understanding of supervisory issues
+  Key projects and activities
+ HLG 4: Implementation assessment and support
+  Key projects and activities
+ HLG 5: Efficient, effective and transparent operations and 
+ communication with stakeholders
+  Key projects and activities
+Cross-cutting strategic themes
+Consultations, publications and stakeholder engagement
+Contents
+1
+2
+3
+4
+5
+6
+7
+8
+9 – 10
+11
+12
+13
+14
+15
+16 – 18
+
+IAIS 2023-2024 Roadmap
+1
+Foreword
+It gives me great pleasure to present the IAIS 2023-
+2024 Roadmap, which outlines the IAIS’ work 
+programme for the next two years. In the 2023-2024 
+period, the IAIS will finalise key multi-year projects, 
+while also responding to global issues and trends 
+facing the insurance sector. 
+Having hopefully now navigated the worst of the 
+Covid-19 pandemic, there are unfortunately new 
+difficulties on the horizon – some of which have been 
+accentuated by the lingering effects of the pandemic. 
+The global economic outlook is challenging, with 
+growing inflationary pressures, a stark reset in monetary 
+policy in various large economies and increased 
+geopolitical tensions. In response, supervisors will 
+need to remain alert to financial stability risks that 
+might emerge as these trends unfold. 
+Against this backdrop, our hard work over the last 
+few years to implement the Holistic Framework for 
+the assessment and mitigation of systemic risk in the 
+insurance sector (Holistic Framework) has culminated 
+at this important juncture to provide us with an 
+effective framework to understand and respond to the 
+potential build-up of systemic risk in the insurance 
+sector. In December 2022, the Financial Stability 
+Board (FSB) endorsed the Holistic Framework as an 
+improved basis for its consideration of systemic risk 
+in the insurance sector and discontinued the annual 
+identification of global systemically important insurers 
+(G-SIIs).1
+This year will be critical for another of our key reform 
+projects, the Insurance Capital Standard (ICS), which 
+will provide a common language for supervisory 
+discussions of group solvency of Internationally 
+Active Insurance Groups (IAIGs). We will issue a 
+public consultation on the ICS as a prescribed capital 
+requirement (PCR) and undertake an ICS impact 
+assessment. We will also begin an assessment of 
+whether the Aggregation Method (AM) provides 
+comparable outcomes to the ICS.
+We will also continue to respond to emerging and 
+accelerating risks, challenges and opportunities 
+facing the insurance sector. These include climate-
+related risks; cyber risk; operational resilience; 
+digital innovation; diversity, equity and inclusion 
+(DEI); financial inclusion and issues around conduct 
+and culture. These cross-cutting strategic themes 
+represent issues that affect all regions, and benefit 
+from the global perspective that the IAIS can offer.
+Lastly, we will continue our significant programme of 
+implementation assessment and supervisory capacity 
+building and peer exchange. 
+In the period ahead, we will aim to build on the 
+significant achievements of the past year, through the 
+commitment of our members and in partnership with 
+our stakeholders. 
+Jonathan Dixon
+IAIS Secretary General
+The global economic outlook is challenging, with growing 
+inflationary pressures, a stark reset in monetary policy 
+in various large economies and increased geopolitical 
+tensions. In response, supervisors will need  
+to remain alert to financial stability risks that might 
+emerge as these trends unfold. 
+1 FSB endorses the IAIS Holistic Framework and discontinues identification of G-SIIs
+
+IAIS 2023-2024 Roadmap
+2
+Introduction
+The 2023-2024 Roadmap is guided by the IAIS’ 2020-
+2024 Strategic Plan, which sets out the IAIS High-
+Level Goals (HLGs) and strategies. The Strategic Plan 
+describes how the IAIS maintains and adjusts its core 
+functions of developing global standards, supporting 
+implementation and contributing to global financial 
+stability, while supporting our members in proactively 
+responding to a range of accelerating trends and 
+challenges. The Roadmap provides a two-year 
+workplan, outlining the projects and activities that the 
+IAIS will progress in support of the objectives of the 
+2020-2024 Strategic Plan.
+The 2023-2024 Roadmap will provide significant 
+continuity around the HLGs, in particular focusing on 
+the IAIS’ work in five key areas: 
+• Assessing trends and risks in the global insurance 
+sector. 
+• Finalising the development of global standards, in 
+particular the ICS. 
+• Promoting effective supervisory practices, 
+particularly in responding to accelerating trends in 
+the global insurance sector. 
+• Supporting the implementation of agreed global 
+standards and assessing their comprehensive and 
+consistent implementation. 
+• Enhancing efficient and effective operations and 
+transparent communication with stakeholders. 
+In progressing our efforts in these areas, we will 
+continue to work with key partners, such as the FSB, 
+as well as our implementation partners, including the 
+Access to Insurance Initiative (A2ii), Financial Stability 
+Institute (FSI) of the Bank for International Settlements 
+(BIS), International Actuarial Association (IAA) and 
+Toronto Centre. Furthermore, the IAIS will continue to 
+consult and collaborate with stakeholders. A summary 
+of planned consultations, publications and stakeholder 
+engagements in the 2023-2024 period is provided at 
+the end of this document.
+Of note, the 2023-2024 Roadmap will be the final 
+Roadmap developed completely under the 2020-
+2024 Strategic Plan. In 2023, the IAIS will commence 
+the development of the next five-year Strategic Plan, 
+covering the period from 2025-2029. The development 
+of the next Strategic Plan will entail a process of 
+extensive consultation and engagement with both 
+members and stakeholders.
+The 2023-2024 Roadmap 
+will provide significant 
+continuity around the IAIS 
+High-Level Goals.
+
+IAIS 2023-2024 Roadmap
+3
+Summary of activities by 
+strategic objectives
+The IAIS’ HLGs reflect the integrated cycle of IAIS 
+activities (Figure 1) – starting with the monitoring of 
+global insurance market trends and developments, 
+collective discussion on an appropriate response, 
+through to the assessment of, and support for, 
+implementation of these standards and good 
+supervisory practices. Lastly, the outcomes of the 
+assessment of implementation will feed back into the 
+global monitoring, standard setting and supervisory 
+practices work. Delivery of this cycle of activities 
+is built on the foundation of effective and efficient 
+operations and transparency.
+The IAIS assesses global market trends and developments in,  
+or relevant to, the insurance sector and responds to issues that 
+present opportunities, challenges and risks relevant to our mission.
+The IAIS supports its Members by sharing good supervisory 
+practices and facilitating understanding of supervisory issues.
+The IAIS assesses and promotes observance of  
+its supervisory material.
+The IAIS operates effectively, efficiently and transparently in 
+delivering on its mission and in communicating with stakeholders.
+HLG 1  
+Assessing and responding  
+to market developments
+HLG 2  
+Standard setting
+HLG 3  
+Supervisory practices
+HLG 4  
+Observance of standards
+HLG 5  
+Effective operations and transparency
+The IAIS sets and maintains globally recognised standards for 
+insurance supervision that are effective and proportionate.
+Figure 1: IAIS High-Level Goals from the 2020-2024 Strategic Plan
+The 2020-2024 Strategic Plan also outlines the key 
+strategic themes for the IAIS. Each year, during the 
+Executive Committee (ExCo) Strategic Retreat, the IAIS 
+ExCo reflects on key emerging and accelerating trends 
+and their potential impact on the insurance sector 
+and insurance supervision. During the most recent 
+strategic retreat in September 2022, the IAIS ExCo had 
+the opportunity to consider in-depth evolutions – and a 
+proposed IAIS response – to a number of key themes, 
+including on climate-related risk, culture and conduct, 
+digital transformation, and DEI in the insurance sector. 
+These discussions have helped shape the focus of the 
+work outlined in the 2023-2024 Roadmap. 
+The IAIS will examine these themes through its 
+monitoring and risk assessment activities and by 
+promoting strong supervisory practices on how 
+to respond proactively to these developments. In 
+progressing its work on these themes, the IAIS looks 
+to coordinate and collaborate with other standard-
+setting bodies and stakeholders, recognising the 
+cross-sectoral nature of the themes, while also seeking 
+to provide a particular insurance sector perspective.
+The following section provides a breakdown of  
+the projects and activities the IAIS will focus on in its  
+2023-2024 Roadmap, by HLG.
+
+IAIS 2023-2024 Roadmap
+4
+HLG 1 
+Assessing and responding to global market 
+trends and developments which present 
+opportunities, challenges and risks
+In 2022, the IAIS fully operationalised the Global 
+Monitoring Exercise (GME) – our framework for 
+monitoring risks and trends in the global insurance 
+sector and assessing the possible build-up of systemic 
+risk – with members convening in Basel at various 
+points throughout the year to undertake data analysis, 
+and a collective discussion on the findings of the GME 
+and appropriate supervisory responses. In 2022, more 
+than 45 jurisdictions and about 60 IAIGs were involved 
+in the GME, providing a rich empirical basis for a 
+robust and inclusive collective discussion on potential 
+systemic risk at the global level. The key outcomes of 
+the GME for 2022 were published in the 2022 Global 
+Insurance Market Report (GIMAR).
+In December 2022, the FSB – as the international body 
+that monitors and makes recommendations about the 
+global financial system – in consultation with the IAIS 
+decided to discontinue the annual identification of 
+G-SIIs in favour of using the IAIS Holistic Framework, 
+as a more effective basis for assessing and mitigating 
+systemic risk in the insurance sector. The IAIS will 
+continue to report on the outcomes of its GME 
+and its assessment of the implementation of the 
+Holistic Framework supervisory measures to the 
+FSB. Going forward, the FSB will utilise assessments 
+available through the Holistic Framework to inform its 
+considerations of systemic risk in the insurance sector.
+In 2023, the IAIS will continue to refine and build 
+on the GME. Following the publication of the IAIS 
+liquidity metrics at the end-2022, the IAIS will work to 
+incorporate liquidity metrics as an ancillary indicator 
+and will start developing further ancillary metrics, 
+including on credit risk. The IAIS will also further refine 
+the GME risk assessment through the regular triannual 
+review of the assessment methodology, based on the 
+outcomes of a public consultation.
+Based on the outcomes of the 2022 collective 
+discussion on the GME, the IAIS will conduct further 
+analysis on relevant macroeconomic risks and 
+developments in 2023, including the impact of high 
+inflation and rapidly-tightening interest rates on the 
+insurance sector, as well as deep-dive assessments 
+of increased cross-border reinsurance and changes 
+in asset allocation towards more complex, illiquid 
+investments.
+A GIMAR special topic edition on cyber risk will also be 
+published in early 2023, which will focus on how cyber 
+operational risks can impact financial stability, how 
+cyber insurance can mitigate or amplify this, and how 
+these risks could be monitored on a more structural 
+basis in the GME. 
+In December 2022, the FSB in consultation with the IAIS 
+decided to discontinue the annual identification of G-SIIs 
+in favour of using the IAIS Holistic Framework, as a more 
+effective basis for assessing and mitigating systemic risk 
+in the insurance sector.
+
+IAIS 2023-2024 Roadmap
+5
+Key projects and activities
+Project/Activity  Description
+GME
+GIMAR special topic – cyber risk
+Further macroprudential analysis of 
+identified sector-wide themes
+The IAIS’ annual GME aims to detect key risks and trends and the 
+potential build-up of systemic risk in the global insurance sector, 
+including a discussion amongst IAIS members on the outcomes of 
+the analysis and the appropriate supervisory responses. It covers 
+potential systemic risk arising from both sector-wide trends with 
+regard to specific activities and exposures (sector-wide monitoring 
+(SWM)), and the possible concentration of systemic risks at an 
+individual insurer level arising from these activities and exposures 
+(individual insurer monitoring (IIM)). The key outcomes of the GME 
+and the IAIS’ collective discussion on the analysis and supervisory 
+responses are shared with the FSB and included in the IAIS’ annual 
+GIMAR. 
+In 2023, the IAIS will:
+• Conclude a review of the IIM assessment methodology (as part 
+of a three-year cycle), taking into account the outcomes of a 
+public consultation. 
+• Incorporate liquidity metrics as an ancillary indicator in the IIM. 
+Further ancillary indicators will be developed in 2023, notably 
+on credit risk. The IAIS will also explore ancillary indicators for 
+emerging risks such as cyber risk and climate-related risk.
+• Continue to refine the data collection on climate-related risk in 
+the annual GME.
+• Enhance data collection on cyber risk in the 2023 GME, taking 
+into account the outcomes of the 2022-2023 deep-dive analysis 
+on this topic (see below).
+The special topic edition of the GIMAR delves deeper into relevant 
+topics stemming from the GME. The focus of the current GIMAR 
+special topic – to be published in early 2023 – is cyber risk, including 
+cyber risk underwriting activities of insurers. 
+In 2023, the IAIS will continue to evaluate the macroprudential 
+supervision of two sector-wide themes:
+• The impact of high inflation and rapidly-tightening interest rates 
+on the insurance sector, particularly with respect to credit risk 
+and liquidity risk. 
+• Structural shifts in the life insurance sector, including the 
+involvement of private equity. This will include a deep dive on 
+related activities, such as increased cross-border reinsurance 
+and changes in asset allocation towards more complex, illiquid 
+investments.
+
+IAIS 2023-2024 Roadmap
+6
+HLG 2
+Setting and maintaining globally  
+recognised standards
+In November 2019, the IAIS adopted a revised set 
+of Insurance Core Principles (ICPs), applicable to 
+the supervision of all insurers, and the Common 
+Framework for the Supervision of Internationally Active 
+Insurance Groups (ComFrame), applicable to IAIGs.2 
+The supervisory policy measures for macroprudential 
+purposes, which were developed as part of the 
+Holistic Framework, are integrated into the ICPs and 
+ComFrame. 
+Based on a review of the first years of implementation 
+of the Holistic Framework, the IAIS will start to 
+review certain ICP and ComFrame standards, where 
+there are identified issues of clarity of interpretation 
+or unintended consequences. This feedback loop 
+between standard setting, risk monitoring and 
+implementation assessment is a clear example of the 
+integrated cycle of the IAIS’ activities (see Figure 1).
+The quantitative element of ComFrame is the ICS. The 
+ICS will create a common language for supervisory 
+discussions of group solvency and enhance global 
+convergence amongst group capital standards. In 
+mid-2023, the IAIS will reach a critical stage on the 
+road to finalising the ICS with the launch of the public 
+consultation on ICS as a PCR. Feeding into that 
+consultation, the IAIS will agree on any revisions to the 
+ICS to include in the fourth year of the ICS monitoring 
+period so that data can be collected on what the IAIS 
+considers an ICS fit for implementation as a PCR. The 
+consultation will also include recommendations on 
+the additional reporting elements (that is, Generally 
+Accepted Accounting Principles (GAAP) Plus valuation 
+approach and other methods of calculation of the 
+ICS capital requirement, such as internal models) and 
+whether they should feature in ICS as a PCR. The IAIS 
+will also undertake an economic impact assessment 
+of the ICS, starting in Q3 2023, following stakeholder 
+input on the scope of the assessment. The IAIS 
+remains on track to finalise the ICS as a PCR by the 
+end of 2024.
+Concurrently, the IAIS will continue its work on the 
+assessment of whether the AM being developed by 
+the United States (US) provides comparable outcomes 
+to the ICS, and if so will be considered an outcome-
+equivalent approach for implementation of ICS as a 
+PCR.
+The review of ICP 14 (Valuation) and ICP 17 (Capital 
+Adequacy) are also underway, with public consultation 
+on the draft revisions to these ICPs planned to start 
+mid-2023. The adoption of the revised ICPs is planned 
+for November 2024.
+In mid-2023, the IAIS will reach a critical stage on  
+the road to finalising the ICS with the launch of the public 
+consultation on ICS as a PCR.  The IAIS remains on track 
+to finalise the ICS by end-2024. 
+2 There are currently 49 IAIGs, see the IAIS public register of IAIGs
+
+IAIS 2023-2024 Roadmap
+7
+Monitoring of the global ICS  
+and related work
+Assessment of whether the AM 
+provides comparable outcomes  
+to the ICS
+Review of ICPs 14 and 17
+Follow-on actions related to Holistic 
+Framework supervisory  
+and supporting materials
+During the five-year ICS monitoring period (2020-2024), the IAIS 
+annually collects and analyses confidential data from volunteer 
+insurance groups on the ICS and feedback from colleges of 
+supervisors, with the objective of finalising ICS for implementation 
+as a PCR by the end of the monitoring period. 
+In addition to the annual monitoring, in 2023 the IAIS will:
+• Conduct a public consultation on potential refinements to the 
+ICS and on the potential inclusion of other methods of calculation 
+of the ICS capital requirement (such as internal models) and 
+GAAP plus valuation.
+• Conduct an economic impact assessment of the ICS.
+The US is developing an AM as part of its implementation of the 
+ICS. The IAIS will assess whether the AM provides comparable 
+outcomes to the ICS. If so, it will be considered an outcome-
+equivalent approach for implementation of ICS as a PCR. The 
+IAIS conducted a consultation on the criteria to be used for the 
+assessment in 2022; final criteria are to be adopted early in 2023, 
+with the comparability assessment starting in the second half of 
+2023.
+The IAIS will consult in 2023 on revisions to ICP 14 (Valuation) and 
+ICP 17 (Capital Adequacy) for the purpose of adopting the revised 
+ICPs by the end of the ICS monitoring period (ie year-end 2024).
+Based on a review of the first years of implementation of the 
+Holistic Framework, the IAIS will consider certain areas within 
+related supervisory material that may benefit from further 
+clarification or further supporting material to support the consistent 
+and comprehensive implementation of the Holistic Framework 
+standards.
+Key projects and activities
+Project/Activity  Description
+
+IAIS 2023-2024 Roadmap
+8
+HLG 3 
+Sharing good supervisory practices and 
+facilitating understanding of supervisory 
+issues
+Throughout 2023, the IAIS will continue to respond to 
+key strategic themes that affect the insurance sector 
+– and indeed the broader financial system (see cross-
+cutting strategic themes on page 15). The themes 
+of climate-related risk, financial inclusion, digital 
+transformation, operational resilience and cyber risk, 
+conduct and culture plus DEI continue to be at the 
+heart of the work of the IAIS. 
+On climate-related risk, 2023 will see a set of 
+consultations on good supervisory practices to 
+promote a globally consistent, adequate response to 
+the risks posed by climate change. These will cover all 
+facets of insurance supervision. 
+Work will also commence in 2023 to consider the 
+role that supervisors could play in multi-stakeholder 
+approaches to addressing natural catastrophe (NatCat) 
+and disaster risk protection gaps.
+On the other key strategic themes, the IAIS will 
+continue its work to promote good supervisory 
+practices and facilitate the understanding of emerging 
+risks and trends, including on digital transformation, 
+financial inclusion, DEI and conduct and culture. The 
+IAIS will finalise in 2023 its Issues Paper on Insurance 
+Sector Operational Resilience and will publish 
+another Issues Paper for consultation on the role of 
+policyholder protection schemes (PPS), including in 
+insurer resolution.
+Throughout 2023, the IAIS will continue to respond to key 
+strategic themes that affect the insurance sector – and 
+indeed the broader financial system.
+
+IAIS 2023-2024 Roadmap
+9
+Climate-related risk
+Insurance protection gaps
+DEI and conduct and culture
+Financial inclusion
+Digital transformation
+The IAIS will consider small updates to certain ICP guidance 
+and develop further supporting material to make it more explicit 
+that insurance supervisors should require insurers to incorporate 
+climate-related risks into their governance and operations. The 
+IAIS will launch two consultations in 2023 to gather feedback from 
+stakeholders on the draft materials.
+The IAIS will produce a report by end-2023, in collaboration with 
+other international organisations, on the role of supervisors in 
+addressing NatCat and disaster risk protection gaps, including 
+multi-stakeholder approaches (such as public-private partnerships).
+Following on from the stocktake undertaken in 2022, the IAIS will 
+continue work to help insurance supervisors further understand 
+the benefits of DEI, the connection between promoting DEI and 
+their supervisory mandates and the range of available supervisory 
+practices to promote DEI. This work will have two main focus 
+areas: 1) the link between DEI within insurers’ own governance, risk 
+management and corporate culture; and 2) how DEI considerations 
+in insurers’ conduct of business, and their supervision, may result in 
+fairer treatment of consumers who are vulnerable, under-served or 
+have specific needs. 
+On conduct, the IAIS will finalise a member-only resource collating 
+examples of supervisory approaches to using key indicators and 
+advanced data gathering techniques in conduct supervision.
+The IAIS will continue its work on financial inclusion, in particular 
+through its Financial Inclusion Forum, to facilitate the sharing of 
+perspectives and good practices on proportionate regulation and 
+supervision in support of inclusive insurance markets. In 2023, the 
+forum will consider updating the 2012 IAIS Application Paper on 
+Regulation and Supervision Supporting Inclusive Insurance Markets, 
+including the addition of up-to-date case studies.
+The IAIS FinTech Forum will review existing artificial intelligence 
+(AI)/machine learning (ML) guidance from supervisory authorities 
+and explore the need for the IAIS to develop global guidance for 
+the insurance sector. The forum will also continue its ongoing 
+monitoring of other FinTech-related developments, including 
+application programming interfaces (API) and open data, 
+decentralised finance (DeFi), distributed ledger technologies (DLT), 
+crypto assets and interlinkages with environmental, social and 
+governance (ESG) objectives. 
+Key projects and activities
+Project/Activity  Description
+
+IAIS 2023-2024 Roadmap
+10
+Operational resilience
+Risk-based solvency (RBS)
+Recovery and resolution
+Other areas
+The IAIS published an Issues Paper on Insurance Sector 
+Operational Resilience for public consultation in late 2022, and 
+will finalise the paper in the first half of 2023. The paper focuses in 
+particular on cyber resilience, information technology third-party 
+outsourcing and business continuity management, and builds 
+on work undertaken by the FSB. Based on the outcomes of the 
+consultation, the IAIS will consider the need for any future work on 
+this topic.
+The IAIS has established a forum to support peer exchange 
+and provide practical guidance to insurance supervisors from 
+Emerging Market and Developing Economy (EMDE) jurisdictions on 
+implementing RBS regimes. Work will continue in 2023 to develop 
+guidance to EMDE supervisors on practical aspects of how to 
+implement RBS in EMDE markets.
+The IAIS will finalise in 2023 an Issues Paper focused on global 
+practices around PPS, including on their role in insurer resolution. 
+The IAIS will also coordinate with the FSB Cross-border Crisis 
+Management Group for insurance (iCBCM) on the application of 
+resolution planning standards, building on the outcomes of the IAIS’ 
+ongoing implementation assessment activities and the annual GME.
+In 2023, the IAIS will:
+• Engage with insurance supervisors on supervisory practices, 
+expertise and challenges related to remuneration in the insurance 
+sector, and provide input to the FSB Compensation Monitoring 
+Contact Group (CMCG), as required.
+• Continue to monitor accounting and auditing standards, and the 
+implementation of International Financial Reporting Standard 
+(IFRS) 17. This also includes monitoring and responding to 
+consultations related to the development of international 
+sustainability standards.
+• Provide a platform for peer exchange through its various fora on 
+supervisory practices, including those related to financial crime 
+and retirement income and pensions issues, in addition to those 
+highlighted above.
+Project/Activity  Description
+
+IAIS 2023-2024 Roadmap
+11
+HLG 4 
+Implementation assessment and support
+The IAIS continues to make great strides on its 
+programme of implementation assessment and 
+support as part of its strategic shift to a greater focus  
+on implementation of IAIS standards. 
+In 2022, the IAIS finalised its assessment of 
+implementation of the Holistic Framework supervisory 
+material and reported the outcomes to the FSB. In 
+particular, the IAIS completed an in-depth Targeted 
+Jurisdictional Assessment (TJA) of the relevant 
+standards of the Holistic Framework, including 
+verification of supervisory practices in ten major 
+jurisdictions. The results will be published in the first 
+half of 2023. In 2023, the IAIS will also undertake 
+follow-on Holistic Framework implementation 
+monitoring activities in targeted areas. 
+The IAIS continues to advance the Coordinated 
+Implementation Framework (CIF) designed to help 
+Members identify gaps in their observance of 
+ICPs, including through: the Member Assessment 
+Programme (MAP); the thematic peer review process 
+(PRP) and the A2ii-supported Self-Assessment Tool 
+(SAT). 
+The IAIS has also enhanced its support for effective 
+peer exchange, capacity building and supervisory 
+cooperation, including continuing the invaluable 
+partnerships with our implementation partners (the 
+A2ii, FSI, IAA and Toronto Centre) and with regional 
+coordinators and groups. In 2022, the IAIS expanded 
+the number of peer exchange forums it supports 
+– the IAIS now has six forums, with members from 
+close to 80 different supervisory authorities, which 
+help facilitate understanding of supervisory issues, 
+emerging risks and trends and support sharing of 
+good supervisory practices. 
+The IAIS Multilateral Memorandum of Understanding 
+(MMoU) framework for global cooperation and 
+information exchange amongst insurance supervisors 
+surpassed 80 signatories in 2022, and continues to 
+grow.
+The IAIS continues to make great strides on its 
+programme of implementation assessment and support 
+as part of its strategic shift to a greater focus on 
+implementation of IAIS standards.
+
+IAIS 2023-2024 Roadmap
+12
+Assessment of implementation of 
+the Holistic Framework supervisory 
+material
+ComFrame implementation 
+assessment
+MAP
+PRP
+Revision of the Assessment 
+Handbook
+Other implementation activities
+Building off the TJAs of the implementation of the Holistic 
+Framework supervisory material conducted in 2022, the IAIS will 
+undertake in 2023 ongoing monitoring of implementation progress 
+of particular aspects of this supervisory material to help ensure 
+comprehensive and consistent implementation.
+Preparation for the assessment of implementation of ComFrame will 
+commence in 2023. 
+The IAIS will continue to conduct MAPs, which are comprehensive 
+assessments of implementation of IAIS supervisory material in 
+volunteer jurisdictions.
+The IAIS conducts PRPs on a thematic basis (covering selected 
+ICPs) and develops individual jurisdictional reports as well as 
+a public aggregate report. In 2023, the IAIS will publish the 
+aggregate report from the PRP on ICPs 9 (Supervisory Review and 
+Reporting) and 10 (Preventive Measures, Corrective Measures and 
+Sanctions) and will commence the PRP on ICP 16 (Enterprise Risk 
+Management for Solvency Purposes).
+The IAIS will revise its Assessment Handbook on the basis of the 
+lessons learnt and experience with the IAIS assessment toolkit.
+The IAIS continues to work with implementation partners such as 
+the A2ii, FSI, IAA and Toronto Centre to support its members in 
+implementing IAIS supervisory material, including training and peer 
+exchange activities.
+Key projects and activities
+Project/Activity  Description
+
+IAIS 2023-2024 Roadmap
+13
+HLG 5 
+Efficient, effective and transparent operations 
+and communication with stakeholders
+Throughout 2022, the IAIS demonstrated its 
+commitment to continuous improvement in the 
+efficient and effective execution of its operations. 
+With respect to internal policies, processes and 
+procedures, in 2022 the IAIS updated its Members 
+Handbook to reflect various organisational, 
+governance and operational changes that have taken 
+place since the last Handbook update (in November 
+2018). Notably, updates were made to align the 
+Handbook with the IAIS Environmental Policy, which 
+guides the IAIS’ own performance on environmental 
+issues.
+In 2022, the IAIS embarked on a journey to become 
+more intentional about DEI at the IAIS as a global 
+membership association, particularly with respect to 
+the IAIS’ internal governance and processes. This work 
+will continue to be a key pillar of the IAIS’ DEI focus in 
+2023. 
+A refreshed IAIS brand was launched in 2022 and was 
+incorporated across all communication channels. At 
+the same time, significant improvements were made 
+to the IAIS website. This work will continue into 2023, 
+with a focus on the implementation of additional 
+features of the IAIS User Portal, to enhance processes, 
+functionality and reliability of IAIS tools for members 
+as well as for stakeholders (including for surveys and 
+consultations).
+IAIS milestone events provide a central time and place 
+for members and stakeholders to discuss issues of 
+utmost relevance to the insurance sector. In 2022, 
+the IAIS was able to seamlessly transition back to 
+hosting in-person and hybrid meetings, culminating 
+in the Global Seminar in Dubrovnik (hosted by HANFA 
+in June) and Annual General Meeting and Annual 
+Conference in Santiago (hosted by CMF Chile in 
+November). The IAIS has also integrated the lessons 
+learnt during the Covid-19 pandemic to harness the 
+benefits that virtual engagement can offer into its 
+regular operations. Planning is already underway for 
+2023 events, including the Global Seminar in Seattle 
+in June and the Annual General Meeting and Annual 
+Conference in Tokyo in November. 
+Effective stakeholder engagement is essential for 
+assessing emerging risks in the insurance sector and 
+developing policy. IAIS bilateral stakeholder meetings 
+are supplemented by a wide range of public speaking 
+engagements and our annual engagements with 
+insurer Chief Risk Officers (CROs) and Chief Executive 
+Officers (CEOs). The IAIS continues the evolution of 
+our efforts to engage with all stakeholders, including 
+representatives from the industry and from consumers, 
+through public events, newsletters and our social 
+media channels. 
+Furthermore, in 2023 the IAIS will continue to bring 
+the insurance sector supervisory perspective to the 
+work of the FSB and maintain its strong track record 
+of collaboration and cooperation with standard-setting 
+bodies to ensure that agendas are aligned on focus 
+areas such as financial stability, climate-related risk, 
+digital transformation and operational resilience.
+In 2023, the IAIS will implement additional features of 
+its User Portal, to enhance processes, functionality and 
+reliability of IAIS tools for its members as well as for 
+stakeholders (including for surveys and consultations).
+
+IAIS 2023-2024 Roadmap
+14
+Development of the IAIS Strategic 
+Plan and Financial Outlook (SPFO) 
+2025-2029
+Implementation of IAIS User Portal
+Through the course of 2023, the IAIS will develop its next five-year 
+(2025-2029) SPFO.
+Through 2023, the IAIS will continue to implement the IAIS User 
+Portal to enhance digital operational processes and external 
+collaboration, and increase the standard of IAIS IT tools usability, 
+reliability and resilience.
+Key projects and activities
+Project/Activity  Description
+
+IAIS 2023-2024 Roadmap
+15
+Throughout 2023, the IAIS will continue to respond to key strategic themes that affect the insurance sector,  
+and the broader financial system. These strategic themes cut across the various High-Level Goals of the IAIS.  
+In many cases, the overarching IAIS response to the strategic themes requires inputs from multiple IAIS projects 
+and contributions from several working groups, underpinned by strong coordination.
+Cross-cutting strategic themes
+• Refinement of GME 
+climate risk data 
+collection (CRSG)
+• Limited changes to 
+supervisory guidance  
+in ICPs (CRSG)
+• Role of supervisor in 
+addressing NatCat 
+protection gaps 
+(PGTF)
+• Explore interlinkages 
+between FinTech 
+developments and 
+ESG objectives (FF)
+• Development of 
+supporting materials 
+covering climate-
+related aspects of 
+various ICPs (CRSG)
+• Scenario analysis 
+capacity building 
+(CRSG)
+• Environmental Policy 
+(review after three 
+years; Secretariat)
+Climate risk Operational resilience  
+and cyber risk
+• Issues Paper on 
+Operational Resilience 
+and possible follow-up 
+work (ORTF)
+• GIMAR special topic 
+edition on cyber risk 
+(MMWG)
+• Enhanced data  
+collection on cyber  
+risk (MMWG)
+• Development of  
+GME ancillary 
+indicators (incl.  
+cyber risk) (MMWG)
+• Implementation of 
+IAIS User Portal 
+(Secretariat)
+Digital transformation
+• Assessing trends  
+in API, DLT  
+and crypto (FF)
+• Stocktake and 
+recommendations  
+on AI/ML (FF)
+• Explore interlinkages 
+between FinTech 
+developments and 
+ESG objectives (FF)
+• Implementation of 
+IAIS User Portal 
+(Secretariat)
+Conduct and culture
+• Engagement 
+on supervisory 
+practices related to 
+remuneration (GWG)
+• Impact of DEI in 
+insurers’ conduct 
+of business on 
+fair treatment of 
+customers (MCWG)
+• Use of key indicators 
+in conduct supervision 
+(MCWG)
+Financial inclusion
+• Revise Application 
+Paper on regulation 
+and supervision 
+supporting inclusive 
+insurance (FIF)
+• Role of supervisors 
+in addressing NatCat 
+protection gaps 
+(PGTF) 
+• Sharing best practice 
+in RBS (RBSIF)
+• Sharing practices/
+capacity building (FIF)
+Diversity, equity  
+and inclusion
+• Explore links between 
+DEI and corporate 
+culture (GWG)
+• Impact of DEI in 
+insurers’ conduct  
+of business on fair  
+treatment of 
+customers (MCWG)
+• DEI within the IAIS 
+(Secretariat)
+HLG 1 Assessing and responding to market developments
+HLG 2 Standard setting
+HLG 3 Supervisory practices
+HLG 4 Observance of standards
+HLG 5 Effective operations and transparency
+Information in the brackets denotes the responsible IAIS working group
+
+IAIS 2023-2024 Roadmap
+16
+Consultations, 
+publications and  
+stakeholder engagement
+Below are the anticipated IAIS public consultations, publications and stakeholder events to take place  
+in 2023-2024.
+Consultation on Issues Paper on the role of PPS in resolution
+Consultation on amendments to ICP Introduction with regard to 
+climate risk; Supporting material (Application Paper) for ICPs 7 
+(Corporate Governance) and 8 (Risk Management and Internal 
+Controls); Questions seeking initial stakeholder feedback on the 
+overall package of climate-related work on supervisory practices
+Survey to seek stakeholder input into the IAIS’ 2025-2029 SPFO
+Publication of definition, high-level principles and criteria that will be 
+used to assess whether the AM provides comparable outcomes to 
+the ICS
+Publication of GIMAR special topic edition on cyber risk
+Publication of report on the outcomes of the TJAs on the 
+implementation of the Holistic Framework supervisory material
+Publication of Issues Paper on Insurance Sector Operational 
+Resilience 
+Publication of aggregate report of the PRP on ICPs 9 (Supervisory 
+Review and Reporting) and 10 (Preventive Measures, Corrective 
+Measures and Sanctions)
+Publication of MAP Mexico report (TBC)
+CRO Roundtable
+Presentation of results of the 2022 AM data collection and 2023 AM 
+data collection launch workshop for AM volunteer groups
+Workshop to launch confidential reporting of year three of the ICS 
+monitoring period
+IAIS Global Seminar (Seattle)
+Q1 2023
+Q2 2023
+Consultation or survey
+Publication
+Key stakeholder engagement events
+IAIS event
+
+IAIS 2023-2024 Roadmap
+17
+Consultations, 
+publications and  
+stakeholder engagement
+Consultation on ICS as a PCR, including consultation on GAAP 
+Plus, other methods of calculation of the ICS capital requirement, 
+such as internal models, treatment of supervisor-owned and 
+controlled credit assessment processes and infrastructure and 
+strategic equity
+Consultation on revised ICP 14 (Valuation)
+Consultation on revised ICP 17 (Capital Adequacy)
+Publication of 2023 ICS data collection package (template, technical 
+specifications and questionnaire)
+Publication of 2023 AM data collection package (template, technical 
+specifications and questionnaire)
+Publication of approved revised IAIS Assessment Handbook (TBC)
+Publication of MAP Albania report (TBC)
+Consultation on changes to certain ICP guidance with relation to 
+climate risk, as well as supporting material
+Publication of Issues Paper on role of PPS in resolution
+Publication of 2023 GIMAR
+Publication of IAIS report on the role of supervisors in addressing 
+NatCat and disaster risk protection gaps
+IAIS Annual General Meeting and Annual Conference (Tokyo)
+Q3 2023
+Q4 2023
+
+IAIS 2023-2024 Roadmap
+18
+Consultations, 
+publications and  
+stakeholder engagement
+2024
+Consultation on draft revised Application Paper on regulation and 
+supervision supporting inclusive insurance markets 
+Consultation on DEI Application Papers
+Adoption of revisions to ICP 14 (Valuation)
+Adoption of revisions to ICP 17 (Capital Adequacy)
+Adoption of changes to ICP guidance with relation to climate risk, as 
+well as supporting material
+Finalisation of ICS as a PCR, including decisions on GAAP Plus, 
+other methods of calculation of the ICS capital requirement and 
+treatment of supervisory-owned and controlled credit assessment 
+processes
+Publication of 2024 ICS data collection package (template, technical 
+specifications and questionnaire)
+Publication of 2024 AM data collection package (template, technical 
+specifications and questionnaire)
+Publication of report on the outcome of the assessment of whether 
+the AM provides comparable outcomes to the ICS
+Publication of report on the outcome of the ICS’ economic impact 
+assessment
+Publication of IAIS SPFO 2025-2029
+Potential revisions to Holistic Framework related ICPs and 
+ComFrame standards
+CRO Roundtable
+IAIS Global Seminar (virtual)
+IAIS Annual General Meeting and Annual Conference (Cape Town)
+
+International Association of Insurance Supervisors
+c/o Bank for International Settlements
+Centralbahnplatz 2
+CH-4002 Basel
+Switzerland
+Tel:  +41 61 280 80 90
+Email:  iais@bis.org
+Web:  www.iaisweb.org

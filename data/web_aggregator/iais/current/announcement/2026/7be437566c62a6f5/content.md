@@ -1,0 +1,12 @@
+1. [Home](https://www.iais.org/)
+2. Julia Wiens
+
+#### Julia Wiens
+
+*Chief Executive Director for Insurance and Pension Funds Supervision, German Federal Financial Supervisory Authority*
+
+Julia Wiens, born in Vancouver, Canada, in 1969, has been the Chief Executive Director for Insurance and Pension Funds Supervision at the German Federal Financial Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht – BaFin) since January 2024. She previously held various positions at Baloise (formerly: Basler Versicherungen), most recently serving as the Management Board Member responsible for Finance and Investments from 2017 to 2023. She was additionally responsible for Life Insurance from 2021 onwards.
+
+Wiens began her career in the area of life insurance at Securitas Gilde in 1994, where her most recent position was Head of Finance in Life Actuarial. In 2006, she moved to Deutscher Ring to become Head of Non-Life Actuarial Analyses. From 2009 to 2017, she held various leadership positions at Baloise (formerly: Basler Versicherungen) in Germany, such as Head of the Actuarial Office for Non-Life/Industrial Client Service as well as Head of Risk Management. She studied mathematics at the University of Bremen.
+
+![](https://www.iais.org/uploads/2024/05/Julia-Wiens-scaled-e1716303809111-300x300.jpg)

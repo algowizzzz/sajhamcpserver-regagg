@@ -1,0 +1,24 @@
+{
+  "doc_id": "29d88ff428630f7a",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2022/11/Level-2-document-Liquidity-Metrics-as-an-ancillary-indicator.pdf",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2022/11/Level-2-document-Liquidity-Metrics-as-an-ancillary-indicator.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:defb270e1f8d8e9c4764c9c14db4dfdbf0372f3654f84a6dc40dda44c86e8051",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/29d88ff428630f7a",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

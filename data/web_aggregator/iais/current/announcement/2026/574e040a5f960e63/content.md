@@ -1,0 +1,1312 @@
+FSI Insights 
+on policy implementation 
+No 62 
+ 
+ Uncertain waters: can 
+parametric insurance 
+help bridge NatCat 
+protection gaps? 
+By Denise Garcia Ocampo and Carlos Lopez Moreira 
+ 
+ 
+December 2024  
+   
+  JEL classification: G22, G28, H84, Q54 
+Keywords: parametric insurance, index-based insurance, 
+NatCat risks, protection gaps, NatCat protection gaps, 
+climate change risks, risk management tools
+
+This FSI Insights is written jointly by staff members of the Financial Stability Institute (FSI) of the Bank for 
+International Settlements (BIS) and the Secretariat of the International Association of Insurance Supervisors 
+(IAIS). Insights papers aim to contribute to international discussions on a range of contemporary regulatory 
+and supervisory policy issues and implementation challenges faced by financial sector authorities. The 
+views expressed in them are solely those of the authors and do not necessarily reflect those of the BIS, the 
+IAIS or the Basel-based committees. 
+ 
+Authorised by the Chair of the FSI, Fernando Restoy and the Chair of the IAIS Executive Committee, Shigeru 
+Ariizumi. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This publication is available on the BIS website (www.bis.org). To contact the BIS Global Media and Public 
+Relations team, please email media@bis.org . You can sign up for email alerts at 
+www.bis.org/emailalerts.htm. 
+ 
+ 
+ 
+© Bank for International Settlements 2024.  All rights reserved. Brief excerpts may be reproduced or 
+translated provided the source is stated. 
+ 
+ 
+ISSN 2522-249X (online) 
+ISBN 978-92-9259-804-4 (online)
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps? iii 
+ 
+ 
+Contents 
+Executive summary ........................................................................................................................................................................... 1 
+Section 1 – Introduction ................................................................................................................................................................. 3 
+Section 2 – Parametric insurance overview ............................................................................................................................. 7 
+Key features ................................................................................................................................................................................ 7 
+Benefits and limitations ....................................................................................................................................................... 11 
+Regulatory frameworks ........................................................................................................................................................ 13 
+Section 3 – Key design elements .............................................................................................................................................. 14 
+NatCat parametric products .............................................................................................................................................. 14 
+Index selection ........................................................................................................................................................................ 16 
+Triggers 18 
+Payout structures ................................................................................................................................................................... 20 
+Section 4 – Recommendations .................................................................................................................................................. 21 
+Section 5 – Concluding remarks ................................................................................................................................................ 24 
+References .......................................................................................................................................................................................... 26
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps?  1 
+ 
+ 
+Uncertain waters: can parametric insurance help bridge NatCat 
+protection gaps?1 
+Executive summary  
+Economic losses from natural catastrophes (NatCat) are increasing, with a significant portion 
+remaining uninsured. NatCat protection gaps, often defined as the difference between insured and total 
+economic losses from natural disasters, can be substantial. A widening protection gap may increase strain 
+on governments, threaten financial stability and have a significant impact on household s and businesses. 
+Addressing these gaps requires coordinated efforts from governments, international organi sations, the 
+insurance industry, insurance supervisors and consumers. 
+The International Association of Insurance Supervisors (IAIS) has issued a call to action for 
+supervisors to address NatCat protection gaps. It outline s a series of actions where by insurance 
+supervisors could help improve the affordability, availability and uptake of catastrophe insurance. Key 
+actions include creating a supportive regulatory environment that enables offering innovative products 
+such as parametric insurance. 
+Parametric insurance offers a promising solution to reduce NatCat protection gaps.  It 
+provides rapid payouts triggered by predefined, measurable parameters, offering alternative or 
+supplementary coverage to traditional indemnity insurance , including for losses that are often excluded  
+by the latter. Despite its potential, the adoption of parametric insurance remains limited due to challenges 
+such as basis risk, product complexity and regulatory barriers. 
+This paper analyses the key design elements of parametric insurance products and provides 
+insights to supervisors in jurisdictions  where it can be an effective risk management tool.  It 
+synthesises insights from responses from 12 insurance supervisory authorities and seven market 
+participants to a survey focused on the design of non- agricultural NatCat parametric insurance for 
+households and small and medium -sized enterprises (SMEs), as these events directly impact them and 
+often cause severe financial harm. Rapid recovery is crucial for economic and societal resilience, particularly 
+in emerging market and developing economies ( EMDEs) where SMEs drive economic activity and 
+employment. 
+Survey responses indicate that regulatory requirements for parametric insurance products 
+vary widely. Some jurisdictions have specific laws, while others use broader insurance regulations or pilot 
+projects to govern these products. 
+On the topic of index selection, respondents highlighted the importance of using indices 
+that are objective, reliable and closely correlated with potential losses.  Authorities in some 
+jurisdictions have established clear guidelines and requirements for index selection, while others allow 
+more flexibility. Industry participants emphasised the need for high-quality data and transparency in index 
+selection, using diverse sources such as government agencies and third-party data providers. 
+  
+ 
+1  Denise Garcia Ocampo ( Denise.GarciaOcampo@bis.org), Bank for International Settlements, and Carlos Lopez Moreira 
+(Carlos.LopezMoreira@bis.org), International Association of Insurance Supervisors. We thank  Alison Arnot, Christopher Au , 
+Samuel Brown, Emma Claggett, Juan Carlos Crisanto, Jonathan Dixon, Conor Donaldson, Alistair Gough, Alex Hardy, Neil 
+Kempston, Alex Korb, Dario Luna, Miroslav Petkov, Arwen Ross,  Leigh Wolfrom, Jeffery Yong and Manuela Zweimueller for 
+helpful comments and suggestions. We also thank Rebecca Guerra for helpful research support and Theodora Mapfumo for 
+valuable administrative support.
+
+2 Uncertain waters: can parametric insurance help bridge NatCat protection gaps? 
+ 
+ 
+When it comes to triggers, the determination of payout triggers involves various 
+approaches, including direct triggers, intensity -at-location triggers and multiple triggers.  Ensuring 
+that triggers are closely aligned with actual losses is crucial to minimis e basis risk. Authorities have 
+implemented measures such as educational workshops and transparency requirements to enhance the 
+understanding and acceptance of triggers. 
+Payout structures in parametric insurance can include fixed, proportional and incremental 
+payouts. Industry participants use strategies like leveraging sensor data and streamlined claims processes 
+to ensure timely and fair payouts. Regulatory measures to promote transparency and fairness in payout 
+structures include clear criteria for payout eligibility and general transparency principles. 
+Despite advancements, challenges remain in integrating indices and triggers into 
+parametric insurance products. Issues such as client acceptance, data quality and the high cost of data 
+collection and risk modelling were identified by industry participants. Authorities emphasised the need for 
+better data availability, enhanced modelling techniques, and stakeholder collaboration to address these 
+challenges and improve the effectiveness of parametric insurance. 
+Survey respondents provided several key recommendations to address the challenges 
+associated with the adoption and effectiveness of parametric insurance products.  These 
+recommendations focus on improving data quality and availability, enhancing analytical and modelling 
+capabilities, increasing education and awareness among potential users, and fostering regulatory clarity 
+and support. 
+To improve data quality and availability, respondents emphasi sed the need for high -
+quality, granular data sourced from reliable providers such as satellite imagery, sensors and 
+meteorological stations. Authorities are encouraged to establish clear guidelines for index selection and 
+ensure transparency and reliability through data source verification and compliance checks.  
+Enhancing analytical and modelling capabilities involves leveraging advanced tools like 
+artificial intelligence  and machine learning for risk modelling and backtesting.  Respondents also 
+highlighted the importance of refining trigger mechanisms to ensure they closely align with actual losses, 
+thereby minimising basis risk. Collaboration with other agencies and stakeholders is crucial for developing 
+standardised transparency requirements and joint risk and exposure studies. 
+Increasing education and awareness among potential users is essential for promoting the 
+adoption of parametric insurance.  Respondents recommended conducting educational workshops, 
+improving consumer financial literacy, and providing clear policy documentation to help users understand 
+the benefits and limitations of parametric insurance products. 
+Regulatory clarity and support are key  for the successful implementation of parametric 
+insurance. Authorities are encouraged to  establish clear regulations for indices, triggers and payout 
+structures, and provide an enabling supervisory framework that sets out clear expectations and guidance. 
+Engaging in stakeholder consultations and enhancing cooperation among insurers, authoriti es and data 
+providers will help build trust and ensure the reliability of parametric insurance products.
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps?  3 
+ 
+ 
+Section 1 – Introduction 
+1. The damage and economic losses from natural catastrophe (NatCat)2 events are rising. This 
+is due to a number of factors, including increased exposure in high-risk areas, urban expansion, escalating 
+climate change impacts and other shifts within the insurance market.3 These factors are expected to lead 
+to wider protection gaps, especially in emerging market  and developing economies  (EMDEs). NatCat 
+protection gaps, often defined as the difference between insured and total economic losses caused by 
+natural disasters, can be substantial. For instance, the Swiss Re Institute’s sigma report reveals that 62% of 
+the global economic losses in 2023, totalling USD 280 billion, were not insured  (see Graph 1).4 This share 
+varies significantly across regions: 85% in Asia, 80% in Latin America, 70% in Europe, the Middle East and 
+Africa (EMEA), 43% in North America and 42% in Oceania. 
+2. Insurance plays a crucial role for individuals, households and small and medium -sized 
+enterprises (SMEs) affected by NatCat events. It offers financial protection, aids in recovery and can 
+incentivise risk prevention and reduction. Besides such microeconomic benefits, insurance also contributes 
+to macroeconomic resilience by encouraging disaster preparedness and helping to absorb the negative 
+financial impacts on the economy after a NatCat event. 
+ 
+2  The term “natural catastrophe” (NatCat) is generally used to describe significant natural events, such as floods, earthquakes 
+and storms, that lead to widespread damage and losses. In insurance contexts, NatCat refers specifically to the financial ris ks 
+and damages these events cause. For this paper, the term NatCat is aligned with the definition found in IAIS (2023a). 
+3  Factors driving NatCat protection gaps include, but are not limited to: (i) the penetration of NatCat risk insurance, which i s 
+primarily influenced by the level and speed of economic and financial sector development; (ii) other demand-side factors such 
+as insurance literacy, cultural and social norms, and purchasing capacity; (iii) increasing exposure in high-risk areas and growing 
+claims, leading to rising premiums; and (iv) tightening reinsurance conditions. See Holzheu and Turner (2018), IAIS (2023a), ECB 
+and EIOPA (2023), Khoo and Yong (2023) and EIOPA (2024). 
+4  See Banerjee et al (2024). 
+Global economic losses from NatCat events  Graph 1 
+ 
+Source: FSI and IAIS staff based on Swiss Re Institute sigma reports from 2014 to 2024. 
+ 0
+ 50
+ 100
+ 150
+ 200
+ 250
+ 300
+ 350
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+USD bn
+Insured losses Uninsured economic losses
+
+4 Uncertain waters: can parametric insurance help bridge NatCat protection gaps? 
+ 
+ 
+3. Increasing losses from NatCat events are challenging insurers’ ability to provide affordable 
+coverage in high-risk areas, prompting them to reevaluate their risk management strategies .5 This 
+may involve steps to increase  premiums, implement more stringent underwriting criteria  and, in some 
+cases, withdraw from high-risk areas. These measures could lead to reduced availability and affordability 
+of insurance, widening protection gaps and potentially hampering economic recovery in the aftermath of 
+NatCat events. Additionally, the hardening of the reinsurance market , driven by accumulated losses from 
+these catastrophes, further underscores the challenges facing insurers in managing such risks and pricing 
+them affordably. 
+4. A widening protection gap could impose greater burdens on governments, pose financial 
+stability risks and ultimately impact households and businesses. In some jurisdictions, fiscal capacity 
+to absorb losses and support recovery might be limited, forcing households and businesses  to deplete 
+their assets,  rely on informal networks  or resort to  international aid , thus putting people into a more  
+tenuous situation. Widening protection gaps  could pose financial stability risks and limit credit provision 
+in countries where the financial sector has significant exposure to NatCat events, such as through real 
+estate exposures, further limiting the tools available for immediate relief and post -event recovery.6 
+Addressing these gaps requires a coordinated effort from a range of parties including governments, 
+international organisations, the insurance industry, consumers and insurance supervisors. 
+5. With economic losses from NatCat events on the rise, policymakers and the insurance 
+sector are focusing on strategies to strengthen resilience and address insurability and affordability 
+challenges. Recent catastrophes, like the floods in Spain and Switzerland,  have put to test the  levels of 
+preparedness and resilience across many jurisdictions, including in areas historically less affected by such 
+catastrophes,7 drawning the attention of policymakers. For example, a recent speech by the Deputy Prime 
+Minister of Singapore called for innovation and collaboration within the insurance sector,8 highlighting 
+parametric insurance  as a tool with the potential to address gaps where traditional insurance may fall  
+short. 
+6. The International Association of Insurance Supervisors (IAIS) has issued a call to action for 
+supervisors to address NatCat protection gaps. It outline s a series of actions 9 whereby insurance 
+supervisors could  help improve affordability, availability and uptake of insurance coverage against 
+catastrophes. One of these actions refers to  the establishment of an enabling regulatory and supervisory 
+environment that supports the availability of insurance and encourages the uptake of coverage. Part of 
+creating such an enabling  environment can involve putting in place a regulatory and supervisory 
+framework that helps foster responsible  digital innovation. In some markets, a variety of innovative 
+products and services have helped close NatCat protection gaps by making insurance more affordable, 
+accessible and tailored to the changing needs of consumers and businesses. Examples of such innovations 
+include product design developments, such as parametric insurance  and disaster microinsurance, as well 
+as initiatives to encourage innovation, such as regulatory sandboxes. 
+7. Parametric insurance  presents a promising tool  in narrowing NatCat protection gaps . It 
+provides rapid payouts triggered by predefined, measurable parameters of NatCat events, offering 
+alternative or supplementary coverage for losses that are often  excluded from traditional indemnity 
+insurance due to excluded risks, limited (re)insurance capacity or situations of widespread damage. Unlike 
+ 
+5  See Swiss Re Institute (2024). 
+6  See ECB and EIOPA (2023). 
+7  See Skujins (2024) and Thind (2024). 
+8  See MAS (2024). 
+9  Suggested actions include: (i) assessing insurance protection gaps; (ii) improving consumer financial literacy and risk awareness; 
+(iii) incentivising risk prevention and reduction of insured losses; (iv) creating an enabling regulatory and supervisory 
+environment to support availability of insurance and uptake of coverage; and (v) advising government and industry, including 
+on the design and implementation of public-private partnerships (PPPs) or insurance schemes. See IAIS (2023a).
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps?  5 
+ 
+ 
+traditional indemnity insurance, which relies on post -event loss adjustment s to calculate payouts, 
+parametric insurance provides fixed payments as soon as predefined criteria, like earthquake magnitude 
+or storm wind speed, are met. This approach facilitates quicker financial recovery, lessening the economic 
+impact on affected individuals, households and businesses. 
+8. Moreover, parametric insurance can be particularly useful for households and businesses 
+facing a hardening risk landscape, especially during extreme loss events where traditional insurance 
+might be insufficient. For example, in hurricane-prone regions, households and businesses often struggle 
+to obtain traditional insurance due to rising  premiums, tightening of coverage conditions  or insurer 
+withdrawals, as a result of increasing  and often unexpected losses.10 Parametric insurance offers a viable 
+alternative by using data, such as wind speed and rainfall, to assess and price these risks more accurately, 
+thus helping to ensure continued protection. 
+9. The origins of parametric insurance date back to the late 1990s. It was initially developed as 
+an index -based solution for farmers in developing Asian countries to mitigate the financial impact of 
+severe weather. It experienced increased adoption in 2007 with the launch of the Caribbean Catastrophe 
+Risk Insurance Facility (CCRIF), a multi- country risk pool for natural disasters  that provides rapid, short-
+term liquidity when a parametric policy is triggered. Throughout the 2010s, increased data availability and 
+digital advancements allowed insurers to launch the first mass -market parametric insurance products.  In 
+2017, innovation surged, with Swiss Re launching Insur8, the first ever typhoon warning insurance product 
+for businesses in Hong Kong SAR, while AXA introduced a Global Parametrics division to address emerging 
+climate risks. By 2022, parametric insurance had expanded globally, offering coverage for a wide range of 
+risks, from natural disasters to operational disruptions.11 
+10. Despite its potential, the adoption of parametric insurance remains limited. In 2023, the 
+global market for parametric insurance was estimated to be valued between USD 14.8 billion and 18 billion 
+in premium volumes, according to Global Market Insights
+12 and Allied Market Research,13 respectively. This 
+represents around 0.8% of the global property and casualty (P&C) premiums and 13.7 % of the global 
+insured losses from NatCat events for 2023, indicating significant potential for growth.14 
+11. Widespread adoption of parametric insurance face s some challenges. One key challenge is 
+basis risk, where the payout may not accurately reflect the policyholder’s actual losses, potentially resulting 
+in either overpayment or underpayment. Additionally, t he complexity and relative novelty of these 
+products also create educational challenges for both consumers15 and insurers, who may find it difficult to 
+understand how they work or how to determine appropriate coverage parameters. Regulatory challenges 
+also exist in certain jurisdictions, where existing insurance regulations, designed for traditional products, 
+have yet to allow for the unique characteristics of parametric policies that rely on predefined triggers and 
+payouts. Furthermore, the effectiveness of parametric insurance is highly dependent on the availability of 
+accurate and reliable data, such as weather or seismic measurements. Inaccurate or unavailable data can 
+undermine the policy’s effectiveness. 
+12. International organisations are undertaking efforts to address the regulatory challenges of 
+parametric insurance. Notably, the IAIS and its implementation partner the Access to Insurance Initiative 
+ 
+10  Khoo and Yong (2023) identify challenges in integrating climate risks into insurance pricing and underwriting, which may affect 
+the availability of coverage. 
+11  See Clere (2022). 
+12  See Global Market Insights (2024). 
+13  See Allied Market Research (2024). 
+14  According to Global Market Insights (2024), global P&C premiums in 2023 were around USD 1.8 trillion. For the purpose of this 
+report, global insured losses resulting from NatCat events have been used as a proxy for the size of the global NatCat insurance 
+market. For the value of global insured losses resulting from NatCat events in 2023, refer to Casanova et al (2024). 
+15  “Consumers” refers to the universe of actual and potential customers for insurance products, as defined by the IAIS (2019).
+
+6 Uncertain waters: can parametric insurance help bridge NatCat protection gaps? 
+ 
+ 
+(A2ii), as well as the United Nations Capital Development Fund (UNCDF), the United Nations Development 
+Programme (UNDP) and the Insurance Development Forum (IDF) have contributed to these efforts. Their 
+work has resulted in valuable resources, including the IAIS Issues Paper on index -based insurances16 and 
+the A2ii and UNCDF’s reports on the status and regulatory challenges of index insurance  with specific 
+guidance for Pacific Island countries.17 These efforts provide a solid foundation for shaping the regulatory 
+and supervisory landscape for parametric insurance. 
+13. Building upon the literature previously mentioned , this paper examines  the key design 
+elements of parametric insurance products and their role in enhancing its adoption, with a focus 
+on narrowing NatCat protection gaps. It explores key design elements such as index selection, trigger 
+mechanisms and payout structure s. By analysing these key elements, the paper aims to complement the 
+existing literature and offer new insights to regulators and supervisors in jurisdictions where parametric 
+insurance can provide a viable risk management alternative, considering local market conditions and 
+specific NatCat risks. The insights are based on responses from 12 insurance supervisory authorities18 and 
+seven market participants involved in data and risk modelling provision, product structuring and design, 
+distribution and underwriting of parametric insurance 19 across the world , gathered from  a survey 
+conducted in July and August 2024. 
+14. Given the extensive applications of parametric insurance, this paper focuses on the design 
+elements of non-agricultural NatCat parametric insurance for households and SMEs.  These groups 
+face distinct risks and needs compared to the agricultural sector, which requires specialised models and 
+triggers and often involves participation of government funding  through subsidies  to ensure product 
+viability. NatCat events have a direct and immediate impact on households and SMEs, often resulting in 
+severe financial consequences. Rapid recovery is crucial for economic and societal resilience, especially in 
+EMDEs where SMEs drive economic activity and employment. 20 Fine-tuning the design elements of non-
+agricultural parametric insurance can help unpack its key benefits –  quicker payouts and reduced costs – 
+by avoiding the lengthy claims process associated with traditional insurance coverages.  
+15. The remainder of this paper is structured into four sections. Section 2 provides an overview 
+of parametric insurance , outlining its key features , benefits and limitations , and current regulatory 
+approaches. Section 3 presents insights from  authorities and market participants on supervisory 
+requirements, market developments  and challenges in refining each key design element . Section 4 
+presents the key recommendations for overcoming those challenges. Section 5 concludes. 
+  
+ 
+16  See IAIS (2018). 
+17  The A2ii and UNCDF collaboration has encouraged initiatives in the Pacific Islands to support index -based products, eg 
+introduction of weather-index microinsurance in Fiji; establishment of a regulatory sandbox in Vanuatu;  and development of 
+regulatory guidelines for the adoption of index-based products in Tonga. See Simoes (2021), and A2ii and UNCDF (2022). 
+18  Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin), Bermuda Monetary Authority (BMA), Insurance Regulatory Authority 
+of Kenya (IRA), Office of the Supervisor of Insurance and Private Pensions of Belize (OSIPP), Prudential Authority of South Africa 
+(PA), Comisión para el Mercado Financiero of Chile (CMF), Instituto de Supervisão de Seguros de Moçambique (ISSM), Autorité 
+de Contrôle des Assurances et de la Prévoyance Sociale of Morocco (ACAPS), Superintendência de Seguros Privados of Brazil 
+(SUSEP), Superintendencia Financiera de Colombia (SFC), Autorité de Contrôle Prudentiel et de Résolution of France  (ACPR) 
+and Hong Kong Insurance Authority (IA). 
+19  Beazley (UK), CelsiusPro (CH), Global Parametrics (UK), FloodFlash (US), ICEYE (F I) and WTW (SP) . Additionally, Dario Luna , 
+former Chairman and Co-founder of Súper Seguros (MX). It is important to note that Global Parametrics (UK) has no relationship 
+with AXA’s Global Parametrics division mentioned in paragraph 9 of this document. 
+20  See IAIS (2023a).
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps?  7 
+ 
+ 
+Section 2 – Parametric insurance overview 
+Key features 
+16. Parametric insurance is a type of contract that pays the insured a set amount upon the 
+occurrence of a specific event  meeting a predefined intensity threshold , as measured by an 
+objective value  instead of based on the amount of damage sustained .21 The intensity threshold is 
+designed to mimic or reflect the potential loss from the insured event, allowing for quick payouts without 
+the need for the usual lengthy loss adjustment process. NatCat events covered in these products could be 
+earthquakes, tropical cyclones or floods where the objective value, referred to as the parameter or index, 
+is the magnitude, wind speed or water depth, respectively (see Graph 2). 
+ 
+17. This definition highlights the three key design elements of parametric products. These are: 
+(i) the objective measure that is used to quantify the occurrence, severity or intensity of the event, referred 
+to as the “parameter” or “index”; (ii) the condition or threshold which a parameter or index must m eet or 
+exceed for a payout to be made, referred to as the “trigger”; and (iii) the mechanism by which the payout 
+is calculated, referred to as the “payout structure” (See Table 1). 
+  
+ 
+21  Based on definitions by Sengupta and Kousky (2020) and Swiss Re Corporate Solutions (2024). 
+Parametric insurance  Graph 2 
+ 
+ 
+Source: FSI and IAIS staff.
+
+8 Uncertain waters: can parametric insurance help bridge NatCat protection gaps? 
+ 
+ 
+18. Parametric and index -based insurance are often used interchangeably due to their 
+similarities; however, subtle differences distinguish them.  In index- based insurance, payouts are 
+determined by an index, such as average rainfall or crop yields over a specified period  or region, rather 
+than by reaching specific thresholds. In contrast, parametric insurance triggers payments based on a 
+ 
+22  See Swiss Re Corporate Solutions (2024) for a more detailed description. 
+23  For example, the United States requires that insureds show proof of loss, though the value or magnitude of that loss is not 
+relevant. US regulators have accepted minimal proof such as drone footage or text messages from customers describing the 
+losses. See K Sullivan (2023). 
+Key design elements of parametric insurance  Table 1 
+Element Definition 
+Parameter 
+or index  
+ Objective measure that is both reported by an independent third party (neither the insured nor insurer) 
+and correlated to the insured financial loss. 
+  The key criteria for an index are that: it is fortuitous; it can be readily available from an independent 
+reporting agency; and it can be modelled.22 Some examples of agencies and respective parameters or 
+indices are the Japan Meteorological Agency (JMA) seismic intensity  scale and the Australian Bureau 
+of Meteorology (BoM) tropical cyclone category. 
+  Although parameters related to NatCat or weather events are the most commonly used, there are 
+other parameters available depending on the coverage provided by different parametric products. 
+These can include crop yield, market indices, power outage, phone signal, flight delays and more. 
+Trigger  Index threshold that determines the payout. If the parameter or index threshold is reached or 
+exceeded, the insured is eligible to receive the pre- agreed payment. For example, the insured could 
+receive payouts if a magnitude 7.0 earthquake or a category 5 tropical cyclone  occurs in a defined 
+geographical area. 
+  Triggers can take many forms. Many triggers for NatCat events are tied to the intensity of the event. 
+For example, a parametric insurance policy for hurricanes might provide a set payout whenever wind 
+speeds exceed a certain level in a particular location.  Triggers may also be based on a percentage of 
+total losses within an industry for a particular event, as reported by a third party, or on estimated losses 
+generated by a catastrophe model. These broader triggers, based on industry-wide data or catastrophe 
+models, are often used in policies designed to cover large- scale events or collective losses. Such 
+policies include corporate, industry, or government level parametric solutions. In contrast, parametric 
+insurance taken out directly by households or SMEs to protect against certain risks often focuses on 
+triggers that directly align with the insured party’s exposure, such as localised rainfall levels or 
+earthquake intensity. 
+ Some parametric products may require multiple triggers to be met before a payout is made. 
+  The threshold is usually set in a way that aligns with the insured’s risk tolerance and risk mitigation 
+measures. For example, the insured may know that with the risk mitigation measures currently in place, 
+they can sustain the effects of a magnitude 7.0 earthquake. Above that , however, they would require 
+alternative protection. 
+Payout 
+structure 
+ There are different mechanisms by which payouts are calculated, such as fixed payout (where the full 
+payout is made once the trigger is met or exceeded regardless of the actual loss incurred); proportional 
+payout (where the payout amount is proportional to the magnitude of the index value exceeding the 
+trigger); incremental payout (where different payout amounts are defined for different levels or tiers 
+of the index value); and layered payout (where multiple layers of coverage are provided, each with its 
+own trigger and payout amount).  
+ There are hybrid products where payouts are based on parametric triggers, yet policyholders must still 
+provide proof of financial loss. These hybrid 
+models are primarily designed for corporate and 
+government solutions, as these entities typically face larger -scale losses and require comprehensive 
+coverage that combines rapid payouts with detailed loss verification. In some jurisdictions, a proof of 
+loss is required for compliance with regulatory frameworks, ensuring payouts are aligned with actual 
+damages and differentiating parametric insurance from financial derivatives.23 
+Source: FSI and IAIS staff.
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps?  9 
+ 
+ 
+measurable event parameter, such as temperature, wind speed, or earthquake magnitude. 24 For example, 
+a parametric insurance  policy might pay out after a magnitude 7.0 earthquake, while index -based 
+insurance might compensate farmers if regional rainfalls drop below a certain level over a season. 
+19. Parametric triggers are also used in other risk transfer instruments.  Notably, “parametric” 
+refers to the trigger mechanism that activates a payout and is not limited to insurance products. Other 
+instruments, such as insurance-linked securities and various  derivatives, also  incorporate parametric 
+triggers (See Box 1). 
+ 
+20. For a parametric product be classified as insurance, it should satisfy two criteria.
+25 It must: 
+• Demonstrate insurable interest:  The policyholder must have a legitimate financial interest in 
+the subject matter being insured and stand to suffer a financial loss if the triggering event occurs. 
+• Prove risk transfer:  The product must genuinely transfer risk from the policyholder to the 
+insurer. The parametric trigger should be closely correlated with the policyholder ’s potential 
+losses. 
+ 
+24 See IAIS (2018), Sengupta and Kousky (2020) and Swiss Re Corporate Solutions (2024). 
+25  For hybrid parametric products, a third criterion that must be met is the requirement to provide a proof of loss. Although the 
+payout is based on the trigger event, policyholders of hybrid products may still need to demonstrate that they have incurred a 
+financial loss due to the event. 
+Box 1 
+Risk transfer instruments using parametric triggers 
+Parametric triggers are used across many different types of risk transfer arrangements and financial products, such as 
+insurance-linked securities and weather derivatives. 
+Insurance-linked securities (ILS) are financial instruments that enable (re)insurers to transfer the risk of 
+large disasters to the capital market, allowing investors to assume some of the risks typically borne by insurers. These 
+securities are linked to insurance -related events such as n atural disasters or catastrophic events. The most common 
+type is catastrophe bonds (CAT bonds), which provide coupon and principal payments to investors unless a predefined, 
+usually low-frequency/high-severity catastrophic event occurs. In such cases, the issuer retains the bond’s principal to 
+cover losses and investors absorb the financial impact.  
+Various institutions, including governments, multinational corporations and insurers , issue CAT bonds to 
+hedge their risks. CAT bonds help insurers secure large capital amounts for extreme natural catastrophe events, 
+offering an alternative to traditional reinsurance by transferring risk to a broader set of investors. 
+ILS provide insurers access to broader financial markets and offer institutional investors, such as hedge 
+funds, pension funds and mutual funds, the opportunity to earn attractive returns uncorrelated with other financial 
+instruments in exchange for assuming catastrophe insurance risks. Unlike parametric insurance, ILS involve investors 
+taking on insurance-related risks for potential returns. Investors receive regular interest payments and may get their 
+principal back if specific insured events do not occur. However, if these events happen, investors may lose part or all 
+of their investment.  
+Weather derivatives are a specific segment of the derivatives market, related to products that are strongly 
+weather-influenced. Although the basic idea is a contract based on a meteorological index, these derivatives may take 
+the form of futures, options and swaps and may be traded on financial markets. Due to their characteristics, they may 
+also be used for financial s peculation (ie an insurable interest is not a prerequisite), at the same time as they allow 
+companies and farmers to deploy them as protection against weather variations that may adversely affect their profits 
+or economic activities. 
+Sources: Polacek (2018); Swiss Re Institute (2011).
+
+10 Uncertain waters: can parametric insurance help bridge NatCat protection gaps? 
+ 
+ 
+21. Parametric insurance offers a range of coverages, often  including NatCat events. These 
+events are particularly well suited for parametric insurance due to the abundance of available data, such 
+as seismic activity measurements or wind speed information. As data collection and analysis become more 
+advanced, new methods for assessing risk continue to emerge. While data typically come from 
+independent third parties, the insurance industry is becoming more confident in using customer -
+generated data. This shift enabl es innovative  indexing approaches  such as real-time monitoring via  
+Internet of Things (IoT) devices and transparent data management through blockchain technology. These 
+advancements allow for more precise parametric triggers in areas like climate change, cyber  attacks, and 
+health. Against this backdrop, new areas of coverage are emerging . Any exposure that can provide high -
+quality data to create a reliable and credible index can potentially be insured through parametric solutions. 
+Examples of these new coverages include non-damage business interruption  insurance (covering cyber 
+attacks) and travel disruption insurance for events like flight delays.26 
+22. Parametric insurance can be underwritten at various scales, with the scale influencing how 
+a product is designed and structured. These products are tailored to meet the needs of different sectors 
+and coverage levels , ranging from individual policies to national -level solutions, as illustrated by the 
+following examples: 
+• On a smaller scale, parametric insurance provides affordable, low-limit protection to low-income 
+households or SMEs, particularly in developing economies. An example of this type of product is 
+the UN World Food Programme’s R4 Rural Resilience Initiative, developed in collaboration with 
+Oxfam America, which offers weather-related protection to vulnerable farmers in 18 countries 
+across Africa, Asia and Latin America and the Caribbean. 
+• In developed economies, parametric insurance is increasingly being introduced to residential 
+customers to fill gaps in traditional property insurance and offer rapid financial relief after 
+disasters, while waiting for more traditional recovery funds like indemnity policies, loans or 
+government aid. Examples of such products include the one offered by StormPeace  in Florida, 
+US, which supplements homeowner ’s insurance for hurricanes and pays out within 72 hours 
+based on hurricane strength and proximity to the  insured property . Similarly, Bounce in New 
+Zealand and Jumpstart in California, US, offer quick payouts for earthquakes trig gered by 
+predefined seismic intensity levels. 
+• At the national level, parametric insurance has been used as sovereign insurance, often through 
+regional risk pools  or as one of the available tools within disaster risk financing  (DRF) 
+programmes.
+27 A key example is the CCRIF SPC (formerly the Caribbean Catastrophe Risk 
+Insurance Facility), which provides parametric policies to Caribbean and Central American 
+countries for tropical cyclones, earthquakes  and excess rainfall. The parametric  insurance offers 
+short-term liquidity for disaster response, with payouts triggered by objective 
+hydrometeorological data such as rainfall and wind speed, helping  countries to quickly fund 
+recovery efforts and maintain essential functions. 
+23. The value chain of parametric insurance involves several key activities and entities . These 
+can be divided into the underwriting and claims processes as follows: 
+• In the underwriting value chain, activities include distribution, product design and structuring, 
+risk modelling, underwriting and financial capacity provision. Distribution is typically handled by 
+brokers, agents or digital platforms that connect with consumers. Product design and structuring 
+ 
+26  See Swiss Re Corporate Solutions (2024). 
+27  DRF is one element of a comprehensive approach to risk management that can help countries address the fiscal impacts and 
+economic losses from natural hazards while supporting financial resilience. The World Bank’s DRF framework comprises five 
+key elements: (i) r isk identification; (ii) r isk reduction; (iii) p reparedness; (iv) financial protection; and (v) r esilient recovery. 
+Parametric insurance can particularly contribute to the financial protection element of DRF programmes, by supporting rapid 
+relief and recovery in the face of catastrophic events. See World Bank (2014, 2015).
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps?  11 
+ 
+ 
+defines the terms of the policy, determining the events that trigger payouts and how those events 
+are measured. Risk modelling  helps tailor the product to the consumer ’s needs, while 
+underwriting is performed by insurers or managing general agents (MGAs). The primary financial 
+support for the policy is provided by insurers, which is then backed up by reinsurers or alternative 
+sources. 
+• On the claims side, data providers collect information on the event triggers and a calculation 
+agent evaluates whether a payout should occur based on predefined parameters. If triggered, 
+the payout is released from the insurer or reinsurer, and intermediaries such as brokers or MGAs 
+may facilitate the payment to the insured. 
+24. A variety of stakeholders are involved in parametric insurance.  These stakeholders include 
+insurance customers, who are the ultimate beneficiaries, and insurance supervisors, whose primary focus 
+is protecting the policyholders’ interests and ensuring market stability. Government agencies, particularly 
+those responsible for disaster risk management, often collaborate with insurance supervisors to ensure 
+the success of these products. Additionally, external stakeholders such as non-governmental organisations 
+and agencies contribute by producing indices or delivering the necessary data. Donors and sponsors, often 
+crucial in the early stages of parametric insurance development, provide funding and technical expertise, 
+especially during pilot projects. Public-private insurance programmes (PPIPs) can drive the growth of these 
+insurance products, with governments working alongside private insurers.
+28 Finally, intermediaries, 
+including brokers, agents and digital platforms as well as other new distribution channels such as 
+microfinance institutions (MFIs ) or cooperatives, play a key role in distributing these products, offering 
+channels for delivery and expanding access to insurance in diverse markets. 
+Benefits and limitations 
+25. Parametric insurance present s a promising tool  to narrow NatCat protection gaps  for 
+households and SMEs. It can provide rapid payouts and extend coverage for specific losses that are often 
+excluded from traditional indemnity insurance due to  excluded perils, limited (re)insurance capacity or 
+situations involving wide  area damage.29 These can include unforeseen expenses or losses from non -
+damage business interruption such as lost wages or revenue shortfalls. 30 Unlike traditional indemnity 
+insurance, which requires detailed post -event loss adjustment , parametric insurance triggers payouts 
+based on predefined parameters , ensuring rapid  financial relief in the aftermath of NatCat events.  
+Parametric coverage can reduce underwriting and loss adjustment expenses which often account for a 
+significant share of insurance premiums -  and thereby offering the potential for more affordable 
+coverage.31 Moreover, technological advancements such as mobile technology, artificial intelligence (AI ) 
+and machine learning ( ML) further enhance its potential by improving accessibility, particularly for  low-
+income segments in EMDEs,32 offering an affordable and efficient way to manage NatCat risks and improve 
+resilience.33 
+ 
+28  In collaboration with the IAIS and the Organization for Economic Cooperation and Development (OECD), the G7 Finance Track’s 
+Climate Change Mitigation Working Group (CCMWG) has published a “High -level framework for p ublic-private insurance 
+programmes against natural hazards”. This report offers a comprehensive step-by-step guide for developing PPIPs to mitigate 
+the impact of natural hazards. It is designed to assist policymakers, insurance regulators and supervisors.  See G7 Italia 
+Presidency (2024). 
+29  See Swiss Re Corporate Solutions (2024). 
+30  See PWC (2024). 
+31  See Descartes Underwriting Insights (2023). 
+32  See Keller (2020). 
+33  See Foxe Blader (2024).
+
+12 Uncertain waters: can parametric insurance help bridge NatCat protection gaps? 
+ 
+ 
+26. When used alongside traditional indemnity insurance, parametric products can enhance 
+risk management strategies. By integrating these solutions into their risk mitigation efforts, households 
+and SMEs can adopt a more comprehensive and resilient approach to protecting against  potential losses 
+from NatCat events. Parametric products can fill gaps left by conventional policies by providing coverage 
+for risks that may otherwise be challenging to underwrite. These include risks with increased complexity, 
+wide-area impact or costly loss assessments . Any exposure that can be quantified with high- quality data 
+to create a reliable index is potentially insurable through parametric products.34 
+27. Despite the benefits, parametric insurance has some key limitations. The most significant of 
+these is the risk that the payout may not fully match the insured’s actual losses, a concept known as basis 
+risk (see Box 2) . This misalignment can result in payouts when no significant loss has occurred  or, 
+conversely, insufficient or no payouts in the event of actual losses. Insufficient payouts can undermine 
+trust in parametric insurance products. T here have been cases where a major disaster occurred, but 
+payouts were not triggered because thresholds were not met, or the payments were only a small fraction 
+of the actual losses.35 This situation left policyholders frustrated, as the funds were either non- existent or 
+inadequate to cover both immediate needs and long-term recovery. As a result, confidence in the product 
+was undermined. 
+ 
+34  Although some residual risks may remain that the insurance industry is unwilling to cover.  See Swiss Re Corporate Solutions 
+(2024). 
+35  In India’s Nagaland State, a significant failure occurred in a pilot parametric insurance scheme where, despite heavy rainfall and 
+floods, no payouts were triggered because the threshold was set too high. An investigation revealed that the satellite data used 
+to establish these thresholds  differed significantly from ground reality and data from the India Meteorological Department. 
+This discrepancy led to the absence of benefits despite the state’s substantial coverage (see Sirur (2024)). A parametric insurance 
+policy was purchased to protect Bali’s tourism industry from the financial impact of a volcanic eruption using metrics such as 
+the distance of businesses from the volcano and the level of ashfall. When the 2018 Bali volcanic eruption occurred, the ash 
+did not reach the predetermined levels required for the policy to pay out, even though the tourism industry sustained significant 
+financial losses due to cancelled trips and closed businesses. See PWC (2024).  
+Box 2 
+Factors contributing to basis risk 
+Basis risk occurs when the index does not perfectly correlate with the actual losses experienced by the insured. This 
+can arise due to several factors, including the following: 
+* Data quality: inaccurate or insufficient historical data can cause a mismatch between the index and actual 
+losses. Sparse data in less developed jurisdictions or evolving factors like climate change can further exacerbate this 
+issue. 
+* Geographical granularity: the index may not capture localised losses if the geographical area it covers is 
+too large or not well aligned with the actual area of loss. Disparities in infrastructure and building codes within the 
+covered area can also lead to a mismatch between index readings and actual damage. 
+* Model accuracy: errors in models used to predict losses based on the index can lead to basis risk. The 
+complexity of natural phenomena and the potential for models to become outdated over time contribute to this risk. 
+* Policy structure: deductibles, limits and the specific structure of the parametric product can affect how 
+closely payouts match losses. Misalignment between policy terms and the actual risk profile or financial resilience of 
+the insured can lead to significant basis risk. 
+* Temporal granularity: if the time  frame used by the index does not align with the period of loss, it can 
+contribute to basis risk. For example, seasonal variations can impact the relationship between the index and actual 
+losses. 
+Source: PWC (2024).
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps?  13 
+ 
+ 
+ 
+28. In addition to basis risk, parametric insurance has several other limitations. These include 
+product complexity and lack of insurance and risk  awareness, with many potential buyers and brokers 
+unfamiliar with these products; fraud concerns, where payouts may not align with actual losses  or could 
+be triggered by manipulated data; legal disputes, which can arise from ambiguous policy terms or trigger 
+definitions; and the cost of capacity and distribution, which can be higher due to the need for sophisticated 
+data analytics and exposure to catastrophic risks.36 
+29. These limitations underscore the importance of  the key design elements when 
+incorporating parametric insurance into broader risk management strategies.  The effectiveness of a 
+parametric insurance policy depends largely on its precise design. Accurately defining the event, clearly 
+determining the scope of coverage, setting well calibrated parameters, selecting reliable data sources and 
+defining precise triggers are all essential to  ensuring its effectiveness. Furthermore, it is crucial that 
+policyholders tru st the policy to deliver timely and transparent payouts, ensuring confidence in its 
+reliability and value. 
+Regulatory frameworks 
+30. The distinct characteristics of parametric insurance have raised questions about its 
+classification as insurance . In some jurisdictions, the  definition of insurance is closely tied to the 
+indemnification of losses through detailed loss assessments, rendering parametric products outside the 
+traditional legal definition of insurance and thereby creating uncertainties in their regulatory treatment. 37 
+However, these uncertainties are being addressed as parametric products are increasingly gaining 
+attention as a tool to increase accessibility and affordability of insurance.38 
+31. Approaches to regulating parametric insurance vary widely, from applying broad principles 
+under the general insurance law to granting exemptions. In some jurisdictions, the insurance 
+legislation is sufficiently broad and flexible to allow for  non-indemnity products such as parametric 
+insurance. In others, while legislation allows some flexibility, commercialising these products often relies 
+on legal opinions interpreting the concept of “ insurable interest ”. Meanwhile, other jurisdictions have 
+taken a more proactive approach by establishing specific laws or regulations, or by implementing 
+exceptions to the legislation through a pilot project or regulatory sandbox (see Table 2).39 
+  
+ 
+36  Issues such as low risk and insurance awareness, affordability, premium increases and low awareness of coverage conditions 
+may pose conduct risks for consumers in the context of NatCat. See IAIS (2023a). 
+37  See IAIS (2018). 
+38  See Simoes (2021). 
+39  See Simoes (2021).
+
+14 Uncertain waters: can parametric insurance help bridge NatCat protection gaps? 
+ 
+ 
+Regulatory frameworks for parametric insurance Table 2 
+Approach Description Example 
+Application of legal principles in 
+existing regulation of insurance 
+contracts 
+Legislation in force allows  for or raises no 
+barriers to parametric insurance. 
+Bolivia, Dominican Republic, 
+Ecuador, Guatemala, Mexico, 
+Panama, Paraguay, Peru, 
+Venezuela 
+Specific laws and/or regulations  
+that regulate parametric insurance 
+Laws and/or regulations specifically regulate 
+parametric insurance, providing greater legal 
+certainty for the use of parametric products. 
+Argentina, Colombia, Puerto Rico, 
+Uganda, Uruguay 
+Legal opinion by which parametric 
+insurance is governed by existing 
+insurance regulation 
+Issuance of a legal opinion in favour of 
+including these products under the oversight 
+of the insurance law, based on the “insurable 
+interest” at the date of contracting. 
+Brazil, Costa Rica  
+Exceptions to the governing law 
+on insurance 
+Adoption of a pilot project, generally in the 
+context of a regulatory sandbox, as an 
+exception to the legislation.  This approach 
+lets insurers test parametric products within a 
+supervised environment 
+before regulatory 
+changes. 
+Brazil, Fiji 
+Sources: Simoes (2021); UNDP (2022, 2023). 
+Section 3 – Key design elements  
+32. This section summarises the views of survey respondents  on the key design elements of 
+parametric insurance.  It is organised into four subsections . T he first offers an overview of NatCat 
+parametric products within respondents’ jurisdictions. The remaining subsections present the respondents’ 
+views on the  specific design elements, namely index  selection, trigger s and payout  structures. Each 
+subsection begins by outlining the regulatory requirements applicable to parametric products in general 
+and to each design element in particular. The section then presents respondents’ views on current market 
+developments in each area, along with the related  supervisory approaches. Finally, the challenges 
+identified by respondents are outlined. 
+NatCat parametric products 
+Regulatory requirements 
+33. Regulatory approaches to parametric insurance products vary widely  across the surveyed 
+jurisdictions. In one third of jurisdictions, parametric insurance is governed by applying general principles 
+in existing insurance laws (eg Bermuda, France, Hong Kong SAR and Morocco). One quarter apply specific 
+laws (eg Belize, Chile and Colombia) and another quarter govern  these products through legal opinions  
+(eg Brazil, Germany, Kenya). The remaining use  exceptions to insurance laws , exploring innovative 
+solutions though pilot projects or sandboxes (eg Mozambique and South Africa) (see Graph 3).
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps?  15 
+ 
+ 
+ 
+Market developments 
+34. Authorities highlighted a range of NatCat events their jurisdictions are exposed to, with 
+floods, windstorms and earthquakes being the most common. Respondents reported having access 
+to parametric insurance products specifically designed for most of these events. 
+35. On the supply side, industry participants highlighted their active involvement in providing 
+a diverse range  of parametric products . These products primarily focus on earthquakes, windstorms 
+and floods, mirroring the most common risks identified by authorities. They are tailored to different market 
+segments, ranging from flood insurance for commercial properties to earthquake coverage for 
+households. Furthermore, some companies are innovating beyond traditional markets by  exploring 
+microinsurance options, such as products targeted at  vulnerable segments like fishers in Southeast Asia. 
+This highlights a move towards creating more accessible, inclusive and flexible insurance solutions to meet 
+the unique needs of different segments. 
+36. Industry participants underscored the importance of product innovation and leveraging 
+advanced technologies . Many are experimenting with  new technologies like AI, telematics and 
+blockchain to enhance product design and improve the efficiency of insurance processes . For example, 
+telematics, combined with smart sensors and AI , is improving catastrophe risk modelling. Blockchain is 
+being explored for mobile-based applications that enable quicker payouts.40 ML processes real-time data, 
+such as satellite imagery, to support parametric triggers. Additionally, real-time sensors are being used to 
+automatically trigger claims, significantly reducing payout times. 
+Challenges 
+37. Despite the wide availability of parametric products, authorities noted that market data 
+are limited. Most respondents noted the lack of market size estimates for parametric insurance, primarily 
+ 
+40  An example of a blockchain-based parametric insurance is Vitana, a product developed by Swiss Re and MetLife’s LumenLab. 
+This product offers automated insurance coverage for pregnant women diagnosed with gestational diabetes. Using blockchain 
+technology, Vitana deploys smart contracts that automatically trigger a payout upon diagnosis, eliminating the need for a 
+traditional claims process. 
+Survey responses on regulatory approaches to parametric insurance products  Graph 3 
+ 
+Source: FSI and IAIS staff. 
+33%
+25%
+25%
+17%
+Application of  legal principles in
+existing regulations for insurance
+contracts
+Application of specific laws and/or
+regulations to parametric products
+Legal opinion by which parametric
+products are governed by existing
+insurance regulations
+Exceptions to the governing law on
+insurance thorough the adoption of
+a pilot project and/or sandbox
+
+16 Uncertain waters: can parametric insurance help bridge NatCat protection gaps? 
+ 
+ 
+due to the absence of mandatory reporting requirements. In the few jurisdictions where data are available, 
+market penetration remains below 1% of the overall insurance market. This suggests that while parametric 
+insurance is accessible, it has yet to gain significant market share. 
+38. Industry participants recognise that , despite technological advancements,  market 
+adoption remains a challenge.  Some products, particularly those aimed at households and SMEs, have 
+faced challenges in gaining widespread adoption, with a few offerings being discontinued due to 
+customers perceiving them as lacking sufficient value. 
+Index selection 
+Regulatory requirements 
+39. The majority of a uthorities who responded to the survey noted that insurers in their 
+jurisdictions have flexibility in selecting indices for parametric insurance products, with no specific 
+regulatory requirements governing this process.  In the remaining jurisdictions, where there are 
+supervisory requirements or expectations on index selection, some authorities have requirements on the 
+type of indices to be used for NatCat events and their key characteristics. 41 A notable example is Chile’s 
+Fintech Law, under which secondary legislation permits parametric insurance by defining specific risks, 
+indices and payout triggers (see Box 3). 
+ 
+41  In the context of NatCat parametric insurance, the key characteristics of an index used as a trigger for insurance payouts include 
+objectivity, correlation to the hazard, fortuitousness, modellability, and availability and timeliness. These characteristics ensure 
+that the index accurately reflects the risk and can be relied upon to trigger payouts effectively in the event of a natural 
+catastrophe. The index should be independently verified, closely linked to the hazard, unpredictable, capable of being modelled, 
+and reported promptly to facilitate swift claims processing. See Swiss Re Corporate Solutions (2023). 
+Box 3 
+Proposed regulatory framework for parametric insurance in Chile 
+Chile is highly vulnerable to natural disasters, such as earthquakes, and the introduction of a parametric insurance 
+framework aims to provide the market with products that deliver immediate financial relief to those affected by these 
+events. 
+The Fintech Law, effective as of 4 January 2023, amends the insurance law to allow parametric insurance, 
+enabling payments based on specific index triggers without requiring an assessment of actual loss or damage. The 
+Financial Market Commission (CMF) is mandated with developing the specific regulations to implement this law . The 
+CMF has opted for a phased regulatory approach. Initially, only a limited range of parametric insurance products 
+related to natural risks will be available in Chile. This phased approach is intended to provide time for the market, 
+insurance companies, brokers and CMF supervisors to familiarise themselves with this insurance type and to reduce 
+the risk of misunderstandings regarding coverage and operation. In the second phase, the CMF may expand the range 
+of permitted products based on observed performance. 
+In September 2024, the CMF published a proposal for public consultation , which closed on 4 November 
+2024. The proposal aims to establish the criteria that will govern parametric insurance policies sold by companies, 
+including: 
+a) Defining insurable risks under parametric insurance: The regulatory proposal identifies risks such as 
+earthquakes, fires and other natural risks (including drought, frost, excess rain and hail) as potential risks covered by 
+parametric insurance. 
+b) Specifying variables as indices: The proposal outlines indices such as the Mercalli or Richter scale for 
+earthquakes; rainwater levels, snow levels, wind speed, temperature and relative humidity for other natural risks; and 
+area burned for fires. An actuarial report must be signed by a mathematical actuary or technical manager and include 
+a technical feasibility study specifying the type of index or parameter and its geographical area of influence. The report
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps?  17 
+ 
+ 
+ 
+Market developments 
+40. On the supply side, industry participants who responded to the survey emphasised the use 
+of a variety of indices. For windstorms, wind speed is the most common measure, sourced from relevant 
+agencies. Earthquake measurements are based on intensity, peak ground acceleration and magnitude. For 
+floods, sensors measuring flood depth and proxies like extreme rainfall are common. Other events like 
+tornadoes, wildfires, volcanic eruptions and tsunamis use specialis ed indices such as the Enhanced Fujita 
+scale and Volcanic Explosivity Index (VEI). 
+41. Data sources are diverse . The most commonly used are  government agencies, meteorological 
+and geophysical monitoring stations  and third-party data providers. Other data sources include satellite 
+imagery and radars, weather prediction models and forecasting systems, sensors (either located in public 
+areas or in a client’s location) and research institutions and observation networks. 
+42. Various methods are employed by industry participants to ensure the  transparency and 
+reliability of indices. The most widely used method, reported by the majority of respondents, is data 
+source verification, which entails assessing the track record and quality standards of data providers. 
+Auditing and compliance checks , along with data quality assurance, are employed by most respondents . 
+Some industry participants ensure t ransparency in data collection methods, such as through sampling 
+procedures, while peer review by independent experts is the least used method. 
+43. Industry participants use various methods to assess how well the indices in their products 
+correlate with policyholders’ losses. The most common approaches are historical data analysis, including 
+backtesting, and risk modelling, both of which are employed by the majority of respondents. Additionally, 
+some participants gather client feedback to validate the effectiveness of the indices, while a smaller group 
+relies on expert consultation. 
+44. If evidence shows that the indices do not closely correlate with actual losses, industry 
+participants typically take corrective action to mitigate and reduce basis risk.  In response, they may 
+refine or recalibrate the indices by incorporating more granular data or using more advanced models. 
+Many respondents provided examples of their efforts to address basis risk. For instance, in flood insurance, 
+respondents often use sensors installed on insured properties to measure flood depth, directly linking the 
+index to the actual damage incurred. In earthquake coverage, risk models tailored to specific building 
+heights (especially in locations like Mexico City , with its unique soil c onditions) have been effective in 
+reducing basis risk. Additionally, some noted that well designed products, calibrated against historical 
+losses, inherently minimise basis risk.
+ 
+should substantiate the relationship between the index or parameter and probable risks and damages, verifying causal 
+correlation. 
+c) Establishing policy characteristics: The proposal outlines essential components of parametric policies, 
+such as clear declarations, coverage definitions, index specifications and payment procedures. 
+d) Ensuring companies offer insurance tailored to the needs of the insured: The proposal requires insurers 
+to send monthly information on parametric insurance marketing to the CMF. While the CMF may prohibit the 
+marketing of any policy, policies do not require authorisation. Emphasis should also be placed on public awareness 
+efforts to promote understanding  of and confidence in parametric insurance, along with highlighting technological 
+integration for efficient implementation and monitoring. 
+Following the consultation period, the CMF will consider the feedback received before issuing the final 
+regulatins in 2025. Once these regulations are approved, the coverage of any new risk or the incorporation of a new 
+index associated with a parametric insurance must be formally submitted by insurers to the CMF for its evaluation. 
+Source: CMF (2024).
+
+18 Uncertain waters: can parametric insurance help bridge NatCat protection gaps? 
+ 
+ 
+Supervisory approach 
+45. Supervisory approaches  to verifying the suitability of parametric insurance indices vary 
+greatly across jurisdictions.  Some authorities do not have specific oversight for parametric insurance 
+products, whereas others review technical notes and actuarial reports to validate the correlation between 
+indices and insured losses. In jurisdictions with established oversight, authorities use technical analyses 
+and data verification methods to prevent false triggers and ensure accurate reflection of covered risks. 
+Challenges 
+46. Authorities identified four critical issues with index selection. These refer to alignment of the 
+index with actual losses, selection of an appropriate index, index data availability, and the quality and 
+transparency of index data. 
+47. Industry participants identified similar challenges in integrating indices into parametric 
+insurance. Despite technological advancements, significant challenges remain. The two most pressing 
+issues (cited by one third of respondents) were client acceptance and lack of historical data. Other concerns 
+include data quality issues and the high cost associated with collecting the necessary data and developing 
+risk models. 
+48. While advancements  in big data, AI and ML, and satellite innovations offer potential 
+solutions to these challenges, authorities emphasised the importance of  “low-tech” solutions. For 
+instance, the availability and density of meteorological stations are often key in addressing basis risk, 
+especially in jurisdictions where high-tech solutions may not be feasible. 
+Triggers 
+Regulatory requirements 
+49. Authorities outlined various supervisory requirements and expectations  regarding the 
+mechanisms insurers use to determine payout triggers.  Nearly half of respondents noted that these 
+requirements are set out in regulations, circulars, or guidelines. In other jurisdictions, insurers must 
+demonstrate that trigger levels are correlated with actual damage. Conversely, the majority of authorities 
+indicated that there are no specific expectations, allowing insurers flexibility in selecting triggers. In France, 
+there is no specific regulation for parametric insurance, but such contracts must comply with both general 
+contract and insurance law . These laws emphasise clarity, the avoidance of unfair terms and the 
+compensatory nature of non- life insurance. Under French law, insurance is only valid if there is an actual 
+asset or liability to insure, prohibiting contracts based on bets or speculation tied to an index. As in all 
+other jurisdictions, the policyholder must demonstrate an insurable interest for a product to be classified 
+as insurance. 
+50. Authorities have implemented a range of  initiatives to enhance the simplicity and 
+transparency of triggers in parametric insurance. Many respondents pointed to educational workshops 
+for stakeholders and noted the introduction of transparency requirements, with insurers being asked to 
+disclose their trigger calculations. Industry collaboration to standardi se trigger methodologies was also 
+mentioned, alongside the development of regulations or guidelines aimed at refining trigger design . 
+Market developments 
+51. Industry participants noted that t he determination of payout triggers involves multiple 
+approaches depending partly on client needs and product specifics.  Some participants base triggers 
+on specific client choices, like water depth during a flood, while others compare modelled and historical 
+losses to reduce basis risk and keep premiums fair. Many also refer to historical losses, c atastrophe
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps?  19 
+ 
+ 
+modelling and existing program mes to set triggers. In some cases, they consult with clients, discussing 
+past losses and agreeing on appropriate trigger levels. 
+52. Industry participants use various types of triggers in the products they offer. The most used 
+are the “direct trigger” (ie a NatCat event occurs at some point within an area and the payout is triggered 
+when the index threshold is met) and  the “intensity-at-location trigger” (ie a NatCat event occurs at one 
+specific location and the payout is based on how the event affected a policyholder at their exact location), 
+each cited by half of the respondents. Additionally, more than a third of respondents use “m ultiple 
+triggers”, whereby payouts are triggered when the index meets more than one threshold or when the 
+index meets any one of multiple thresholds. 
+53. Industry participants expressed confidence in their trigger definitions and have measures 
+in place to evaluate the effectiveness of a trigger post -event. These measures are focuse d primarily 
+on consumer satisfaction and coverage adequacy. Claims analysis is the most used method employed by 
+most respondents , followed by customer surveys and backtesting. A few respondents rely on e xpert 
+reviews and customer feedback, while no ne use comparative studies. Additionally, industry  participants 
+are split on whether they have adapted triggers to address evolving  NatCat risks and new market needs, 
+with half saying yes and the rest saying no. Those who have adapted triggers cite adding more trigger 
+options for policies, addressing extreme heat conditions, particularly in India, and creating a new tornado 
+product to account for changing tornado behaviour. These methods highlight the importance of high -
+quality, granular data in evaluating trigger effectiveness. 
+Supervisory approaches 
+54. Only a few authorities have specific supervisory tools to assess the accuracy and reliability 
+of payout triggers.  In Chile, insurers are required to provide actuarial reports that include technical 
+feasibility studies and clear correlations between index parameters, risks and triggers. These reports, 
+signed by a qualified actuary or technical manager, must specify th e type of index or parameter  and its 
+geographical coverage, and demonstrate a causal link between the index and potential risks or damages. 
+Insurers must keep these reports available for regulatory review. Other authorities have implemented 
+measures such as product approval, market conduct guidelines and data verification processes. Some also 
+ensure that both insurers and reinsurers are aware of potential payout issues by requiring detailed models 
+with defined calculations and parameters, access to data verified by independent agents and collaboration 
+with local meteorological offices to accurately interpret weather data. However, most authorities lack 
+specific supervisory processes and instead focus on supervisory requirements designed to  ensure fair 
+customer treatment. 
+Challenges 
+55. The payout trigger is closely interconnected with the index, and similarly, alignment 
+between the trigger and actual losses has been identified as a key challenge by some of the surveyed 
+authorities. Misalignment between the trigger and actual losses contributes to basis risk, undermining 
+trust in parametric insurance, potentially increasing costs, and reducing its effectiveness as a risk 
+management tool. This issue can be exacerbated by challenges rel ated to trigger definition, as noted by 
+some surveyed authorities, where the lack of an appropriate definition may mean that it fail s to capture 
+the characteristics of specific risks, furthering the misalignment. 
+56. Some insurance authorities have underscored the need for insurers to demonstrate that 
+payout triggers are directly linked to actual losses, which will require better data availability, 
+enhanced modelling techniques, and stakeholder collaboration.  High-quality, granular data is crucial 
+for defining payout triggers that accurately reflect losses. Additionally, enhancing modelling capabilities is 
+key to refining triggers and making them more responsive to local conditions. Authorities also noted that 
+addressing these issues will require cooperation and coordination with other stakeholders.
+
+20 Uncertain waters: can parametric insurance help bridge NatCat protection gaps? 
+ 
+ 
+Payout structures 
+Regulatory requirements 
+57. The majority of a uthorities who responded to the survey noted  that insurers in their 
+jurisdictions have flexibility in defining the payout structure for parametric insurance products, 
+with no specific supervisory expectations or requirements governing this process.  In jurisdictions 
+where determination of the payout structure is regulated, participants highlighted detailed requirements, 
+such as clear coverage definitions, parameters and payout calculation formulae, along with transparent 
+communication about the suppliers of the index information and geographical risk locations. 
+58. A range of regulatory measures are in place to promote transparency and fairness in the 
+payout structures. In general, authorities require parametric insurance payouts to follow principles on 
+fair treatment of consumers. Overall, the majority cited the establishment of clear criteria for payout 
+eligibility as the most used measure to ensure transparency and fairness of payouts. Many respondents 
+also mentioned other measures, such as general transparency and disclosure principles or industry-specific 
+regulations. Only a few noted using stakeholder consultations, and none reported the use of regular third-
+party audits. The absence of reg ular audits by independent third parties suggest s a potential area for 
+improvement in ensuring the integrity of the payout process. 
+Market developments 
+59. Industry participants use a mix of payout structures in their parametric insurance products, 
+with some using more than one type.  The most commonly used is the incremental payout structure, 
+chosen by nearly half of respondents, where different payout amounts are set for various levels or tiers of 
+the index value. Fixed payouts, which offer the full payout once the trigger is met, regardless of the actual 
+loss, are used by some respondents . Similarly, some participants use proportional payouts, where the 
+payout amount increases based on how much the index value exceeds the trigger. Additionally, a few 
+participants offer layered payouts, where multiple layers of coverage are provided, each with its own 
+trigger and payout amount. 
+60. Various strategies are used by industry participants to ensure payouts are both timely and 
+aligned with the actual losses experienced  by policyholders. One strategy involves leveraging sensor 
+data and implementing a streamlined claims process. This includes using a loss fund for claims that fall 
+under a certain threshold, enabling insurers to resolve minor claims quickly without the need for extensive 
+investigation. Other strategies involve effective communication between calculation agents, reinsurers and 
+claims administrators to ensure timely payments as well as discussions with policyholders about the assets 
+they wish to insure  and coverage needs. Additionally, partnerships with payment service providers are a 
+strategy to expedite the payment process through direct transfers. 
+61. The survey results show that the majority of industry participants have mechanisms in place 
+to assess and improve the effectiveness of their payout structures.  Internal reviews are the most 
+common, used by the majority of respondents. Additionally, some respondents mentioned other methods, 
+such as focus groups designed to explore the digital journey  to sell insurance, which includes explaining 
+basis risk and simulat ing payouts of historical and simulated  events. No respondents reported using 
+customer surveys, external audits or policyholder forums as part of their assessment mechanisms.  
+Supervisory approaches 
+62. The supervisory approaches used by authorities to assess the timel iness and transparency 
+of parametric insurance payouts vary across jurisdictions. Many jurisdictions reported no specific 
+supervisory process . For example, South Africa has not developed any specific supervisory process as 
+parametric insurance is still in its early stages. Similarly, Hong Kong  SAR relies on general principles 
+embedded in broader conduct regulations to ensure timely payment of claims, without specific rules
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps?  21 
+ 
+ 
+tailored to parametric insurance.  A few authorities  perform prudential and conduct of business  reviews, 
+which include on-site inspections and analysis of claims management. In some pilot projects and sandbox 
+initiatives, supervisory oversight is mainly limited to follow-up actions rather than a fully developed review 
+process. 
+Challenges 
+63. Payout structures, being closer to the consumer end of the supply chain, face challenges 
+related to the fair treatment of consumers. The majority of authorities highlighted that the most critical 
+issue is the lack of insurance awareness and literacy. Supervisors emphasised that promoting financial 
+literacy is crucial to empowering consumers and fostering the adoption of parametric insurance as a 
+complement to traditional coverage. 
+64. Market participants highlighted various challenges with current payout mechanisms.  The 
+most commonly cited issue is the complexity of understanding parametric products, especially from the  
+policyholders’ perspective. A significant number of respondents noted that policyholders often struggle 
+to understand how and when payouts are triggered, indicating  a gap in communication and product 
+clarity. Delays in payment and disputes over trigger events were also frequently mentioned. Many 
+respondents pointed out that disagreements on whether specific events meet the criteria for a payout 
+create friction in the claims p rocess. Additionally, some industry participants expressed concerns about 
+the speed of payout disbursements, which can impact the perceived reliability of parametric insurance.  
+Interestingly, no respondents raised concerns about inadequate compensation in relation to the losses 
+covered by parametric insurance. 
+Section 4 – Recommendations  
+65. Improving the feasibility and encouraging the wider adoption of parametric insurance 
+products, particularly those aimed at mitigating household  and SME losses from NatCat events, 
+requires a focused approach to the challenges identified by survey respondents.  As shown in Graph 
+4, participants pointed out several key challenges and provided targeted recommendations to authorities 
+for overcoming them. This section summarises  these recommendations, offering clear suggestions to 
+promote the wider adoption of these products as effective risk management tools.
+
+22 Uncertain waters: can parametric insurance help bridge NatCat protection gaps? 
+ 
+ 
+ 
+66. In response to the challenges identified earlier, survey respondents provided a variety of 
+key recommendations to authorities for facilitating the adoption of parametric insurance products. 
+The recommendations underscore the importance of targeted actions aimed at improving data quality 
+and availability ; enhancing analytical and modelling capabilities ; increasing education and awareness 
+among consumers; improving risk-based pricing methodologies and enhanc ing information on risk and 
+coverages; increasing regulatory clarity and support ; and enhancing stakeholder collaboration .42 These 
+recommendations generally align with the supervisory actions identified by the IAIS to help address NatCat 
+protection gaps (See Graph 5). 
+  
+ 
+42  In addition to addressing the technical aspects of designing and distributing parametric insurance, special attention should be 
+given to the potential risks to consumers. The IAIS has provided further guidance on addressing consumer risks emerging from 
+NatCat events through its Application paper on climate risk market conduct issues in the insurance sector . This includes: (i) 
+ensuring that coverages use plain language and are easy to understand; ( ii) testing consumers’ understanding of exclusions 
+and promoting transparent advice; (iii) considering the affordability and accessibility of coverage; and (iv) ensuring that claims 
+are managed in a timely and fair manner. See IAIS (2023b). 
+Main challenges identified by survey respondents  Graph 4 
+ 
+Source: FSI and IAIS staff. 
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90%
+Other
+Literacy and awareness
+Legal certainty
+Product scalability
+Product pricing and affordability
+Pay-out alignment with actual losses
+Trigger alignment with actual losses
+Trigger definition
+Index alignment with actual losses
+Index data quality and transparency
+Index data availability
+Index selection
+Industry Authorities
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps?  23 
+ 
+ 
+67. Survey respondents emphasised the importance of establishing clear guidelines for index 
+selection to enhance the effectiveness of parametric insurance products.  They recommended that 
+insurance authorities collaborate with industry stakeholders to define key characteristics of indices tailored 
+for NatCat events. Other suggested actions include improving data quality and availability through high -
+quality, granular data sourced from satellite imagery, sensors and meteorological stations, and building 
+open data sources alongside auditing and co mpliance checks. Additionally, enhanced analytical and 
+modelling capabilities need to be encouraged through advanced analytical tools, historical data analyses 
+and backtesting, leveraging AI and ML risk models. To promote consumer education and transparency, 
+respondents advocated for enhancing risk awareness and informing consumers about tools to assess risks, 
+alongside conducting peer reviews and gathering client feedback on indices. Furthermore, e stablishing 
+clear regulations for indices is vital and this should include standards for data quality and transparency, as 
+well as oversight of parametric products. Finally, enhancing stakeholder collaboration through data quality 
+standards and joint initiatives for best practices will contribute to overcom ing the challenges related to 
+index selection in parametric insurance. 
+68. Recommendations from survey respondents emphasise the importance of implementing 
+effective management strategies to ensure that payment triggers in parametric insurance products 
+align closely with actual losses.  In this regard, they recommend that insurance authorities require 
+accurate and timely data through enhanced data collection practices. Clear regulations for triggers need 
+to be established to ensure that the defined triggers effectively reflect actual loss scenarios. Furthermore, 
+it is important to continuously refine trigger mechanisms, including through catastrophe modelling and 
+leveraging advanced analytical techniques such as AI and ML . Conducting thorough claims analysis and 
+considering consumer feedback for trigger definitions are essential steps in this process. Additionally, 
+collaboration with other agencies to establish standardised transparency requirements will enha nce the 
+overall efficacy of trigger mechanisms. Joint risk and exposure studies should also be undertaken to better 
+understand the potential impacts of NatCat events . By prioritis ing these measures, authorities can 
+significantly enhance the reliability and transparency of payment triggers in parametric insurance . 
+Key recommendations by survey respondents  Graph 5 
+ 
+(*) indicates recommended actions for supervisors. 
+Source: FSI and IAIS staff.
+
+24 Uncertain waters: can parametric insurance help bridge NatCat protection gaps? 
+ 
+ 
+69. Survey participants highlighted the critical need for high -quality data to ensure accurate 
+and fair compensation within parametric insurance products . They recommend ed implementing 
+incremental and proportional payout mechanisms to better align payouts with actual losses. Furthermore, 
+the importance of educating consumers on payout criteria was emphasised, alongside the need to provide 
+clear policy documentation to foster transparency and understanding. Participants also suggested that 
+establishing clear payout guidelines, including market conduct requirements and well defined parameters, 
+could significantly streamline the payout process. Engaging expert third -party reviews was noted as a 
+method to identify and implement best practices for payouts. 
+Section 5 – Concluding remarks 
+70.  The survey responses provide a comprehensive overview of the current landscape of 
+parametric insurance, highlighting key regulatory requirements, market developments and 
+challenges associated with NatCat parametric products.  The insights gathered from respondents 
+underscore the diverse approaches to regulation, the recent progress and innovations introduced by 
+market participants and the critical issues faced in the adoption and implementation of parametric 
+insurance solutions for households and SMEs. 
+71. The regulatory landscape for parametric insurance varies significantly across jurisdictions.  
+While some authorities have established specific laws and regulations, others regulate  these products 
+under broader insurance laws or through legal opinions and pilot projects. This diversity reflects the 
+evolving nature of parametric insurance and the need for flexible regulatory frameworks that can 
+accommodate innovation while ensuring consumer protection and market stability. 
+72. Market participants are actively engaged in offering parametric insurance products 
+tailored to various NatCat events such as earthquakes, windstorms and floods. By adopting advanced 
+technologies like AI, telematics, IoT and blockchain, the industry is improving product design and 
+operational efficiency . The introduction of microinsurance products for vulnerable groups highlights 
+efforts towards inclusivity and accessibility. 
+73. Despite the advancements, significant challenges remain.  Limited market data and low 
+market penetration highlight the need for better data collection and reporting mechanisms. The 
+complexity of index selection and the alignment of payout triggers with actual losses are critical issues 
+that require ongoing attention. Enhancing data quality, improving modelling techniques and fostering 
+multi-sectoral cooperation are essential steps to address these challenges. 
+74. Several measures may  improve the adoption and efficacy of parametric insurance . These 
+are: 
+• Undertaking efforts to enhance data availability and quality , and  enhancing analytical and 
+modelling capabilities by leveraging digital innovation; 
+• Supporting the implementation of risk-based pricing, underpinned by enhanced information on 
+risks and coverages for better consumer outcomes; 
+• Empowering consumers by raising risk awareness and coverage understanding through financial 
+literacy initiatives; 
+• Reducing regulatory uncertainty by establishing an enabling regulatory and supervisory 
+framework that sets out clear supervisory expectations and guidance for index selection, trigger 
+definition and payouts; and, 
+• Fostering cooperation with relevant stakeholders to address data limitations, ensure reliability of 
+triggers and facilitate timely payouts to support broader adoption of parametric products.
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps?  25 
+ 
+ 
+75. These insights should hopefully contribute to advancing the adoption of parametric 
+insurance solutions as complementary risk management tools for NatCat events.  The 
+recommendations identified above could provide useful guidance to supervisory authorities in addressing 
+the existing challenges related to parametric insurance so that it can serve as a risk management tool that 
+can better serve households and SMEs, ultimately strengthening resilience against NatCat events. Through 
+the introduction of innovative parametric solutions, the protection gap can be narrowed, transitioning the 
+insurance landscape from reactive disaster recovery to proactive financial resilience and safeguarding 
+communities against the uncertainties of nature.
+
+26 Uncertain waters: can parametric insurance help bridge NatCat protection gaps? 
+ 
+ 
+References 
+Access to Insurance Initiative (A2ii) and United Nations Capital Development Fund (UNCDF) (2022): Index 
+insurance best practices for insurance regulators and practitioners in the Pacific Island countries , March. 
+Allied Market Research (2024): Parametric insurance market size, competitive landscape and trend analysis 
+report, 2024-2033, August. 
+Banerjee, C, L Bevere, T Corti, J Finucane and R Lecher (2023): “ Natural catastrophes in 2022 ”, sigma, 
+01/2023, Swiss Re Institute, March. 
+Banerjee, C, L Bevere, H Garbers, B Grollimund, R Lechner and A Weigel (2024): “Natural catastrophes in 
+2023”, sigma, 01/2024, Swiss Re Institute, March. 
+Bevere, L (2017): “ Natural catastrophes and man -made disasters in 2016 ”, sigma, 02/2017, Swiss Re 
+Institute, March. 
+________ (2018): “Natural catastrophes and man-made disasters in 2017”, sigma, 01/2018, Swiss Re Institute, 
+April. 
+Bevere, L and M Gloor (2019): “Natural catastrophes and man -made disasters in 2018 ”, sigma, 02/2019, 
+Swiss Re Institute, April. 
+Bevere, L and L Mueller (2014): “ Natural catastrophes and man -made disasters in 2013 ”, sigma, 01/2014, 
+Swiss Re Institute, March. 
+Bevere, L and K Orwig (2015): “Natural catastrophes and man -made disasters in 2014 ”, sigma, 02/2015, 
+Swiss Re Institute, March. 
+Bevere, L and F Remondi (2022): “Natural catastrophes in 2021”, sigma, 01/2022, Swiss Re Institute, March. 
+Bevere, L and K Vipin (2016): “Natural catastrophes and man -made disasters in 2015 ”, sigma, 01/2016, 
+Swiss Re Institute, March. 
+________ (2020): “Natural catastrophes in times of economic accumulation and climate change ”, sigma, 
+02/2020, Swiss Re Institute, April. 
+Bevere, L and A Weigel (2021): “Natural catastrophes in 2020”, sigma, 01/2021, Swiss Re Institute, March. 
+Bonazzi, A,  B Lowes, I Candian, M Solana and L  Carter (2024): Parametric insurance to build financial 
+resilience, UNDP Insurance and Risk Finance Facility and Generali Group, October. 
+Casanova, F, C Da Souza Rodrigues Cabral, J Finucane, R Lechner, P Mahesh, W Yao and J Zhu (2024): 
+“World insurance: strengthening global resilience with a new lease of life ”, sigma, 03/2024, Swiss Re 
+Institute, June. 
+Cho, R (2022): “With climate impacts growing, insurance companies face big challenges”, Columbia Climate 
+School, November. 
+Clere, A (2022): “Timeline: charting the history of parametric insurance”, InsurTech Digital, 2 September. 
+Comisión para el Mercado Financiero (CMF) (2024): Informe normativo. Norma de caracter general seguros 
+parametricos, September. 
+Descartes Underwriting Insights (2023): “ Parametric insurance trends on the horizon against climate and 
+emerging risks”, Insights, 29 May. 
+EIOPA (2024): “ Measures to address demand -side aspects of the NatCat protection gap ”, EIOPA Staff 
+Paper, EIOPA-BoS-24/022, February.
+
+Uncertain waters: can parametric insurance help bridge NatCat protection gaps?  27 
+ 
+ 
+European Central Bank (ECB) and European Insurance and Occupational Pensions Authority (EIOPA) (2023): 
+“Policy options to reduce the climate insurance protection gap”, discussion paper, April. 
+Foxe Blader, R (2024): “AI is supercharging parametric insurance”, Forbes, 15 February. 
+G7 Italia Presidency (2024): “ High-level framework for p ublic-private insurance programmes against 
+natural hazards”, G7 Finance Ministers and Central Bank Governors’ Meeting, G7 Finance Track, May . 
+Global Market Insights (2024): Parametric insurance market size, application and forecast 2024 -2032, July. 
+Holzheu, T and G Turner (2018): “The natural catastrophe protection gap: measurement, root causes and 
+ways of addressing underinsurance for extreme events”, The Geneva Papers on Risk and Insurance – Issues 
+and Practice, vol 43, no 1, January. 
+International Association of Insurance Supervisors (IAIS) (2018): Issues paper on index -based insurances, 
+particularly in inclusive insurance markets, June. 
+________ (2019): IAIS Glossary, November. 
+________ (2023a): A call to action: the role of insurance supervisors in addressing natural catastrophe 
+protection gaps, November. 
+________ (2023b): Public consultation on application paper on climate risk market conduct issues in the 
+insurance sector, November. 
+Keller, B (2020): Promoting responsible artificial intelligence in insurance, The Geneva Association, January. 
+Khoo, F and J Yong (2023): “ Too hot to insure – avoiding the insurability tipping point ”, FSI Insights on 
+policy implementation, no 54, November. 
+Kousky, C, H Wiley and L Shabman (2021): “Can parametric microinsurance improve the financial resilience 
+of low-income households in the United States ?”, Economics of Disasters and Climate Change, vol 5,  
+October. 
+Monetary Authority of Singapore ( MAS) (2024): “Driving Asia’s growth: the role of reinsurance in 
+sustainable development”, keynote address by Mr Gan Kim Yong, Deputy Prime Minister and Minister for 
+Trade and Industry, and Chairman of the Monetary Authority of Singapore, at the 20th Singapore 
+International Reinsurance Conference, November.  
+Polacek, A (2018): “Catastrophe bonds: a primer and retrospective ”, Chicago Fed Letters , no 405, Federal 
+Reserve Bank of Chicago. 
+PWC (2024): Basis risk in parametric insurance: challenges and mitigation strategies . 
+Rye, C (2023): “ Why natural catastrophe frequency -severity adjustments underestimate tail risks from 
+climate change”, The European Actuary, no 35, September, pp 13–15. 
+Sengupta, R and C Kousky (2020): “ Parametric insurance for d isasters”, Wharton Risk Center Primer , 
+Wharton Risk Center, Philadelphia, September. 
+Simoes, R (2021): Index insurance: 2020 status and regulatory challenges, March. 
+Sirur, S (2024): “India experiments with parametric insurance to mitigate costs of disasters”, Mongabay, 20 
+June. 
+Skujins, A (2024): “ Switzerland’s deadly flooding shows how vulnerable it is to natural disasters, 
+government warns”, Euronews, 1 July. 
+Sullivan, K J (2023): “Insuring for climate change: the role of parametric insurance”, LexisNexis Insights, 25 
+January. 
+Swiss Re Corporate Solutions (2023): “What is parametric insurance?”, 7 July.
+
+28 Uncertain waters: can parametric insurance help bridge NatCat protection gaps? 
+ 
+ 
+________ (2024): Comprehensive guide to parametric insurance, February. 
+Swiss Re Institute (2011): The fundamentals of insurance-linked securities, November. 
+________ (2024): “Natural catastrophes in 2023: gearing up for today’s and tomorrow’s weather risks”, sigma, 
+no 1/2024. 
+Thind, S (2024): “ Spanish floods are worst climate disaster in history, says insurance body president ”; 
+InsuranceERM, 5 November.  
+United Nations Development Programme  (UNDP) (2022): “ Parametric insurance product becomes first 
+solution admitted for testing in FinTech regulatory sandbox”, 6 January. 
+________ (2023): “Colombia: El desarrollo del seguro paramétrico”, Documentos de Desarollo, no 002/2023, 
+July. 
+World Bank Group (2014): “Financial protection against natural disasters: an operational framework for 
+disaster risk financing and insurance”, Report no 94988, March.  
+________ (2015): “Disaster risk financing and insurance in the disaster risk management framework”, Report 
+no 97452, July.

@@ -1,0 +1,1 @@
+Summary: # French translation of the IAIS ICPs 2024 has now been published

@@ -1,0 +1,571 @@
+Roadmap 
+2026 – 2027
+
+2
+IAIS Roadmap  |  2026 – 2027
+Table of contents 
+About the IAIS 3
+Introduction 4
+IAIS projects and activities by core objective 5
+1.  Monitor and respond to key risks and trends in the insurance sector 5
+2.  Set and maintain globally recognised standards for supervision 7 
+ that are effective and proportionate  
+3.  Support members by sharing good supervisory practices, promoting  8  
+ understanding of supervisory issues and facilitating capacity building
+4.  Assess comprehensive and globally consistent implementation  11 
+ of global standards
+Operational priorities 12 
+Calendar of consultations, publications and 13 
+stakeholder engagement 
+Acronyms  15
+
+3
+IAIS Roadmap  |  2026 – 2027
+About the IAIS
+The International Association of Insurance Supervisors 
+(IAIS) is a voluntary membership organisation of 
+insurance supervisors and regulators from more than 
+200 jurisdictions. The mission of the IAIS is to promote 
+effective and globally consistent supervision of the 
+insurance industry in order to develop and maintain fair, 
+safe and stable insurance markets for the benefit and 
+protection of policyholders and to contribute to global 
+financial stability.
+Established in 1994, the IAIS is the international 
+standard-setting body responsible for developing 
+principles, standards and other supporting material for 
+the supervision of the insurance sector and assisting in 
+their implementation. The IAIS also provides a forum for 
+members to share their experiences and understanding 
+of insurance supervision and insurance markets.
+The IAIS coordinates its work with other international 
+financial policymakers and associations of supervisors 
+or regulators, and assists in shaping financial 
+systems globally. In particular, the IAIS is a member 
+of the Financial Stability Board (FSB), member of 
+the Standards Advisory Council of the International 
+Accounting Standards Board (IASB) and partner in 
+the Access to Insurance Initiative (A2ii). In recognition 
+of its collective expertise, the IAIS also is routinely 
+called upon by the G20 leaders and other international 
+standard-setting bodies for input on insurance  
+issues as well as on issues related to the regulation  
+and supervision of the global financial sector.
+For more information, please visit www.iais.org and 
+follow us on LinkedIn: IAIS – International Association 
+of Insurance Supervisors.
+
+4
+IAIS Roadmap  |  2026 – 2027
+The Roadmap 2026 – 2027 sets out the IAIS’ workplan 
+for the next two years, building on the foundation 
+established in 2025 – the first year of the IAIS Strategic 
+Plan 2025 – 2029. The Strategic Plan provides the 
+direction for the Association over this five-year period 
+and guides the priorities reflected in the Roadmap.  
+The Roadmap outlines the IAIS’ ongoing efforts to 
+achieve its four core objectives: 
+ › Monitoring and responding to key risks and  
+trends in the global insurance sector; 
+ › Setting and maintaining globally recognised and 
+proportionate supervisory standards; 
+ › Supporting members through capacity building, 
+knowledge sharing and promoting  
+understanding of supervisory issues; and
+ › Ensuring the comprehensive and consistent 
+implementation of global standards.
+The 2026 – 2027 Roadmap reflects continuity in the 
+projects and activities carried forward from the 
+previous year. The IAIS will continue to assess key risks 
+and trends impacting the global insurance sector 
+while supporting its members in addressing supervisory 
+challenges arising from accelerating trends. This 
+includes a focus on the IAIS’ three strategic themes:
+Strengthening supervisory response  
+to climate change; 
+Adapting to increasing digital innovation 
+and cyber risks; and 
+Supporting insurance to serve its societal 
+purpose of building resilience.
+Introduction
+The IAIS will also continue to prioritise the 
+comprehensive and consistent implementation of  
+its global standards. This includes an enhanced 
+programme of implementation assessment, including 
+for both the Insurance Capital Standard (ICS) and  
+the qualitative standards of the Common Framework 
+for the Supervision of Internationally Active  
+Insurance Groups (ComFrame)1. 
+A key focus remains on assisting members in  
+emerging market and developing economy (EMDE) 
+jurisdictions, helping them keep pace with the growth 
+and evolution of their insurance markets. This  
+includes facilitating peer exchange, capacity building 
+and developing resources on supervisory practices.
+In 2026, the IAIS will transition to a new organisational 
+structure at the committee level, aligning with the  
+IAIS Strategic Plan 2025 – 2029. This new structure will 
+streamline responsibilities, enhance collaboration 
+across committees and foster engagement, particularly 
+with members from EMDE jurisdictions. 
+The Roadmap 2026 – 2027 is structured around the 
+key elements of the Strategic Plan, with projects  
+and activities organised by core objective, strategic 
+theme and operational priority. To advance these 
+initiatives the IAIS will continue to collaborate with the 
+Financial Stability Board (FSB), other standard-setting 
+bodies and international organisations such as the 
+International Monetary Fund (IMF), the Organisation for 
+Economic and Development (OECD), and the World 
+Bank, as well as its implementation partners. 
+Stakeholder engagement remains a priority across  
+IAIS work, ensuring input from industry, experts  
+and consumer representatives. A summary of planned 
+consultations, publications and stakeholder 
+engagements is provided at the end of this document.
+1 ComFrame  establishes supervisory standards and guidance specifically focused on the effective group-wide supervision of internationally  
+active insurance groups (IAIGs).
+
+5
+IAIS Roadmap  |  2026 – 2027
+The Global Monitoring Exercise (GME) will continue to underpin the 
+IAIS’ efforts to monitor and respond to key risks and trends in the global 
+insurance sector, with results published in the annual Global Insurance 
+Market Report (GIMAR). A mid-year GIMAR will also present interim results.
+Following on from the 2025 GIMAR special topic edition, focused on  
+the potential financial stability implications of natural catastrophe (NatCat) 
+protection gaps, preparatory work will commence in 2026 for the next 
+GIMAR special topic edition, to be published in 20272. 
+Following the 2025 publication of a comprehensive, in-depth analysis in 
+the Issues Paper examining structural shifts in the life insurance sector, 
+work will continue on addressing vulnerabilities and implementing effective 
+supervisory practices. This will include enhanced data collection through 
+the GME and exploration of an in-depth systemic risk analysis of the impact of 
+insurers’ increased investment allocations to alternative assets (particularly, 
+private credit) and the growth of asset-intensive reinsurance (AIR). 
+Throughout the year, the IAIS will continue contributing to various FSB 
+workstreams to provide an insurance perspective in its assessment of risks, 
+trends and vulnerabilities impacting global financial stability.
+IAIS projects and activities  
+by core objective
+Monitor and respond  
+to key risks and trends  
+in the insurance sector
+Core 
+objective 1
+2 The GIMAR special topic editions delve deeper into relevant topics stemming from each year’s GME or on other priority topics of the IAIS.
+
+6
+IAIS Roadmap  |  2026 – 2027
+The IAIS’ annual GME is a key component of the Holistic Framework3,  
+to assess global insurance market trends and developments, and to detect  
+the possible build-up of systemic risk in the global insurance sector.  
+It involves data collection, analysis, reporting and a collective discussion 
+among members on findings and supervisory responses. The GME 
+examines potential systemic risk from sector-wide trends and individual 
+insurer exposures, and the outcomes are published in the annual GIMAR. 
+Alongside the public GIMAR, participating insurers and supervisors 
+receive benchmarking reports. From 2026, the GME will adopt a revised 
+methodology following the 2025 triennial review.
+In 2026, the IAIS will also progress implementation of ancillary  
+indicators on credit risk, reinsurance, derivatives and amendments to  
+the liquidity metrics.
+GME
+Key projects and activities
+In 2026, the IAIS will undertake follow-on work from its 2025 Issues Paper 
+on structural shifts in the life insurance sector covering the two related 
+trends of increased asset allocation to alternative assets and growth in 
+cross-border AIR. This includes:
+ › Enhancements to the GME data collection regarding alternative  
+assets (in particular, private credit) and AIR; and
+ › Exploration of in-depth analysis of potential systemic risks arising from 
+these structural shifts, based on enhanced data.
+Structural shifts  
+in the life insurance 
+sector
+3 The Holistic Framework  is the IAIS’ framework for the assessment and mitigation of systemic risk in the insurance sector.
+
+7
+IAIS Roadmap  |  2026 – 2027
+Set and maintain globally  
+recognised standards for supervision  
+that are effective and proportionate
+Core 
+objective 2
+In 2026, the IAIS will finalise the project to develop new ICS-related 
+standards on supervisory reporting and public disclosure, applicable to 
+Internationally Active Insurance Groups (IAIGs). Public consultation on the 
+ICS-related standards on supervisory reporting and public disclosure was 
+launched end-November 2025, with planned adoption in November 2026. 
+In addition, the IAIS will undertake a review of supervisory material to 
+address issues identified with respect to structural shifts in the  
+life insurance sector (alternative assets and AIR), building on the gap 
+analysis and findings from the recently published Issues Paper. 
+Key project
+Develop ComFrame standards and guidance in the Insurance Core 
+Principles (ICPs) related to supervisory reporting (ICP 9) and  
+public disclosure (ICP 20) of ICS results to ensure their transparency,  
+in line with ICS Principle 9.
+Building on the gap analysis and findings from the 2025 Issues Paper on 
+structural shifts in the life insurance sector, review of supervisory material 
+to ensure they remain relevant, comprehensive and effective in addressing 
+emerging risks and challenges posed by these structural shifts.
+ICS-related  
+ComFrame  
+standards
+Structural shifts  
+in the life insurance 
+sector
+
+8
+IAIS Roadmap  |  2026 – 2027
+Under the IAIS’ third core objective, a variety of projects and activities  
+will continue during the 2026 – 2027 period, aligned with the IAIS strategic 
+themes while also addressing other priority topics that are central to the 
+IAIS mission. These efforts will include development or finalisation of Issues 
+and Application Papers, member-only notes, continued peer exchange 
+through IAIS Forums, and the delivery of capacity-building programmes 
+through implementation partners, to support members in strengthening 
+supervisory practices.
+The IAIS will deepen its engagement with implementation partners and 
+actively pursue collaboration with other organisations where goals and 
+priorities align. These efforts aim to enhance member support in addressing 
+emerging risks and trends, strengthen supervisory capabilities and ensure 
+the IAIS’ initiatives deliver maximum impact. 
+Key projects and activities
+Building on the 2025 Issues Paper on structural shifts in the life insurance 
+sector, supporting material will be developed on: (i) increased allocation 
+to alternative assets; and (ii) increased adoption of AIR. These paper(s) 
+will include practical examples regarding supervisory practices to address 
+these shifts. 
+Following the publication in April 2025 of a comprehensive Application 
+Paper on the supervision of climate-related risks, the IAIS’ work in the 
+coming years is focused on providing supervisors with practical materials 
+and tools to monitor, assess and address climate-related risks to the 
+insurance sector. This includes:
+ › A members-only report on climate metrics (in support of supervisory 
+reporting and public disclosures). 
+ › A members-only report on how climate change is being reflected in the 
+NatCat models used by the insurance industry.
+ › Analysis of the results of climate scenarios performed by members, 
+including a discussion of challenges and approaches, to support  
+knowledge sharing.
+ › Support to EMDE jurisdictions in integrating climate risk in supervisory 
+activities, focusing initially on NatCat physical risks and on climate  
+scenario analysis.
+Structural shifts  
+in the life insurance 
+sector
+Climate risk
+Core 
+objective 3
+Support members by sharing good  
+supervisory practices, promoting  
+understanding of supervisory issues  
+and facilitating capacity building
+
+9
+IAIS Roadmap  |  2026 – 2027
+ › Structured knowledge sharing on a range of climate risk-related issues,  
+and establishment of a repository of climate risk supervisory initiatives.
+The IAIS will also continue its collaboration and joint work with partners, 
+including the Network for Greening the Financial System (NGFS) and 
+Sustainable Insurance Forum (SIF).
+Following the publication in July 2025 of an Application Paper on the 
+supervision of artificial intelligence (AI), in 2026 – 2027 the IAIS FinTech 
+Forum will continue to provide a platform for supervisors to share 
+knowledge and updates on emerging digitalisation trends, their impact 
+on the global insurance sector and support implementation of effective 
+supervisory practices in relation to these trends. The focus will be 
+particularly on:
+ › AI, including emerging trends in AI within the global insurance sector.  
+This will include finalisation of an AI question bank to support supervisors  
+in their engagement with insurers on AI use cases. 
+ › Supervisory technology (SupTech) – with a focus on governance  
+processes and the use of AI in SupTech. This will include a members-only 
+report on the use of agentic AI in the insurance sector to identify  
+prudential and conduct risk.
+Following two public consultations, the Application paper on operational 
+resilience objectives and toolkit to support authorities in their oversight 
+of insurance sector operational resilience will be published in early 2026. 
+Following on from this, the IAIS will develop a members-only analytical 
+report on emerging third-party trends and practices in the insurance sector.
+The IAIS will sustain its focus in 2026 on helping supervisors play their  
+role in supporting insurance to deliver its societal purpose of building 
+resilience. This involves consideration of how insurance is meeting societal 
+needs across its products and services, with an emphasis on financial 
+inclusion, NatCat protection gaps and fair treatment of consumers.  
+In 2026, work in support of this theme will include:
+ › Building on the joint IAIS-World Bank input paper into the G20 Sustainable 
+Finance Working Group (SFWG), the IAIS will work to provide practical 
+guidance, references and case studies outlining how supervisors and 
+policymakers can put into place actions to address NatCat protection gaps  
+in their own jurisdictions. This work will be developed in collaboration  
+with partners including the World Bank.
+ › Consulting on and publishing an updated Application Paper on regulation 
+and supervision supporting inclusive insurance markets.
+ › Consulting on and publishing an Issues Paper aimed at facilitating 
+understanding of issues related to customers receiving fair value from 
+insurance products.
+Digital innovation  
+and operational 
+resilience
+Supporting insurance 
+to serve its societal 
+purpose of building 
+resilience (including 
+protection gaps, 
+financial inclusion  
+and consumer 
+protection)
+
+10
+IAIS Roadmap  |  2026 – 2027
+Following a public consultation launched in November 2025, the IAIS 
+will finalise the revised Application Papers on recovery and resolution. 
+The papers are being revised to reflect updates made to the related 
+IAIS standards (adopted in 2024) and to further align with FSB key 
+attributes. The IAIS coordinates closely with the FSB Cross-border Crisis 
+Management Working Group for Insurers (iCBCM) in this area.
+Supervisory and / or supporting material will also be updated as they  
+relate to macroprudential supervision and liquidity risk management, 
+following the revisions made to ICPs and ComFrame in response to the 
+Targeted Jurisdictional Assessment (TJA) of the implementation  
+of the Holistic Framework supervisory material.
+Following the release in 2025 of the public version of the guidance for 
+transitioning to a RBS regime, work will continue to develop guidance on 
+transitioning to RBS regimes, including quantitative, qualitative  
+and disclosure requirements. This covers how to implement an RBS regime 
+using both the Own Risk Solvency Assessment (ORSA) and IFRS 17.
+Under the Roadmap 2026 – 2027, the IAIS will continue to support its 
+capacity-building programme, including training and peer exchange,  
+in cooperation with partners such as the Access to Insurance Initiative 
+(A2ii), Bank for International Settlements’ Financial Stability Institute (FSI), 
+Frankfurt School, International Actuaries Association (IAA), IMF, OECD, 
+SIF, Toronto Centre and World Bank.
+ › Overseeing the identification of IAIGs and maintaining  
+the public IAIG register.
+ › Monitoring developments in accounting and auditing standards,  
+including the implementation of International Financial Reporting  
+Standard (IFRS) 17, and engaging in consultations on international 
+sustainability standards.
+ › Supporting accessions and applications to the IAIS Multilateral 
+Memorandum of Understanding (MMoU) to enhance supervisory 
+cooperation and confidential information exchange.
+ › Promoting peer exchange and alignment of supervisory practices  
+through various Forums. 
+ › Development of a resource for supervisors that provides practical ideas  
+and guidance for how supervisors can approach their interactions with 
+insurers on the effectiveness of their governance and risk-management.
+Work will continue on the development of supporting material for ICS 
+implementation. This will include technical parameters for the production 
+of yield curves and the maintenance of a Q&A process for members.
+Application Papers  
+on recovery  
+and resolution
+Macroprudential 
+supporting material
+Risk-based solvency 
+(RBS)
+Capacity building 
+Other areas
+ICS supporting  
+material
+
+11
+IAIS Roadmap  |  2026 – 2027
+4 As set out in the Aggregation Method comparability assessment report , an Aggregation Method (AM) developed by the United States (US) provides a basis  
+for implementation of the ICS to produce comparable outcomes. The comparability assessment highlights some areas where work as part of implementation  
+of the final AM in the US will help ensure convergence, specifically treatment of interest rate risk and appropriate timing of supervisory intervention.
+Assess comprehensive and  
+globally consistent implementation  
+of global standards
+Core 
+objective 4
+In 2026, the IAIS will continue or initiate several implementation assessment 
+projects. These efforts align with the Strategic Plan 2025 – 2029,  
+reinforcing the commitment to further enhance the IAIS’ implementation 
+assessment framework. Building on lessons learnt, the IAIS will employ 
+a range of approaches, from conducting in-depth implementation 
+assessments to strengthening the capacity of its members to perform  
+their own evaluations.
+Key projects and activities
+Following the adoption of ICS at the end of 2024, the IAIS has shifted to 
+the implementation phase of the ICS. In 2026, the IAIS will:
+ › Coordinate an ICS baseline self-assessment among IAIS members of  
+their status of ICS implementation; and
+ › Continue to develop an ICS implementation assessment methodology 
+for the comprehensive and consistent implementation of ICS across 
+jurisdictions – leveraging the IAIS' general principles and methodologies 
+for assessing its standards, while taking into account the quantitative 
+nature of the ICS. This will take into consideration the specificities of the 
+implementation of the ICS via the US Aggregation Method4.
+In the second half of 2026, the IAIS will coordinate a ComFrame  
+baseline self-assessment among IAIS members of their status of 
+implementation of qualitative ComFrame standards.
+In 2026, the IAIS will release a public report on the second phase of the 
+TJAs of the implementation of the Holistic Framework supervisory material. 
+This second TJA covered six additional jurisdictions. The publication  
+will also provide an update on the progress achieved by the ten jurisdictions 
+previously assessed, focusing on their efforts to address the gaps  
+identified in the 2022 TJA report. 
+The IAIS will continue to conduct MAPs, which are a comprehensive 
+assessment of implementation of IAIS supervisory material in volunteer 
+jurisdictions. The MAP for Costa Rica will be completed in 2026.
+ICS implementation 
+assessment
+ComFrame 
+implementation 
+assessment 
+Assessment of 
+implementation of 
+Holistic Framework 
+supervisory material 
+Member Assessment 
+Programme (MAP) 
+Holistic Framework 
+supervisory material
+
+12
+IAIS Roadmap  |  2026 – 2027
+The IAIS conducts PRPs on a thematic basis (covering certain ICPs) and 
+prepares individual jurisdictional reports and a public aggregate report.  
+In 2026, the IAIS will complete a PRP on ICP 13 (Reinsurance) culminating  
+in a public aggregate report. The IAIS will also undertake the process  
+for determining the topic of the next PRP.
+In 2026, the IAIS will:
+ › Produce an updated version of the Coordinated Implementation  
+Framework (CIF) to strengthen alignment across its implementation work. 
+ › Finalise revision of the IAIS assessment handbook. 
+ › Conduct outreach activities following the relaunch of the ICP  
+Self-Assessment Tool (SAT) to support jurisdictions in evaluating their 
+observance of the ICPs.
+ › Provide training for IAIS members to become assessors of IAIS  
+supervisory material.
+Peer Review Process 
+(PRP) 
+Other assessment 
+activities
+In 2026, the IAIS will continue its efforts to improve the efficiency of 
+its operations and impact of its outputs. This includes ongoing review 
+of the IAIS governance structures and updates to IAIS information and 
+communication technology tools.
+Additionally, the IAIS is progressing a project to review its outputs to assess 
+their accessibility, usefulness and responsiveness to members’ needs. 
+The project will identify potential improvements to IAIS work products and 
+processes, with recommendations for best practices moving forward.
+Operational priorities
+
+13
+IAIS Roadmap  |  2026 – 2027
+Q1 2026 Consultation Public consultation on Application Paper on regulation and 
+supervision supporting inclusive insurance markets
+Publication Publication of Application Paper on operational resilience  
+objectives and toolkit
+Publication of public aggregate report of the 2024 – 2025  
+Targeted Jurisdictional Assessment of the Holistic Framework 
+supervisory material
+Publication of IAIS Year in Review 2025
+Publication of aggregate report of Peer Review Process (PRP)  
+on ICP 13
+Q2 2026 Consultation Public consultation on draft Issues Paper on issues related to 
+customers receiving fair value from insurance products
+Stakeholder 
+engagement
+Engagement with consumer groups (virtual) 
+CRO Roundtable (virtual)
+Publication Publication of thematic notes focusing on technical aspects of RBS 
+regimes, focused on Own Risk Solvency Assessment (ORSA)  
+and on using IFRS 17 as a basis for implementing an RBS regime
+Calendar of consultations, publications 
+and stakeholder engagement
+
+14
+IAIS Roadmap  |  2026 – 2027
+Q3 2026 IAIS event IAIS Global Leadership Dialogue (virtual)
+Stakeholder 
+engagement
+GME Roundtable (virtual)
+Publication Publication of the GIMAR 2026 mid-year update
+Publication of revised Application Papers on recovery and resolution
+Publication of Application Paper on regulation and supervision 
+supporting inclusive insurance markets
+Q4 2026 IAIS event IAIS AGM and Annual Conference (China, Hong Kong)  
+(9 – 13 November)
+Publication Publication of GIMAR 2026
+Adoption of ICS-related ComFrame standards (supervisory  
+reporting (ICP9) and public disclosure (ICP 20) of ICS results)
+2027 IAIS event IAIS Global Leadership Dialogue (virtual)
+IAIS AGM and Annual Conference (Morocco) (8 – 12 November)
+Stakeholder 
+engagement
+CRO Roundtable (virtual)
+GME Roundtable (virtual)
+Engagement with consumer groups (virtual)
+Publication Publication of IAIS Year in Review 2026
+Publication of the GIMAR 2027 mid-year update 
+Publication of supervisory material and/or supporting material related 
+to structural shifts in the life insurance sector (TBC early 2026)
+Publication of GIMAR 2027
+Publication of GIMAR special topic edition
+Publication of Issues Paper on issues related to customers  
+receiving fair value from insurance products
+Consultation Public consultation on draft Application Paper on availability  
+of capital (ICS)
+
+15
+IAIS Roadmap  |  2026 – 2027
+Acronyms
+A2II  Access to Insurance Initiative
+AIR  Asset intensive reinsurance
+AGM  Annual General Meeting
+AI   Artificial intelligence
+AM   Aggregation Method
+ComFrame   Common Framework for the Supervision 
+of Internationally
+EMDE  Emerging market and developing 
+economy
+FinTech Financial technology
+FSB Financial Stability Board
+FSI Financial Stability Institute
+G20 Group of 20
+GIMAR Global Insurance Market Report
+GME Global Monitoring Exercise
+IAA International Actuarial Association
+IAIG Internationally Active Insurance Group
+iCBCM  FSB Cross-border Crisis Management 
+Working Group for Insurers
+ICP Insurance Core Principle
+ICS Insurance Capital Standard
+IFRS  International Financial Reporting 
+Standard
+IMF International Monetary Fund
+MAP Member Assessment Programme
+MMoU  Multilateral Memorandum of 
+Understanding
+NatCat Natural catastrophe
+NGFS  Network for Greening the Financial 
+System
+OECD  Organisation for Economic Cooperation 
+and Development
+PRP Peer Review Process
+RBS Risk-based solvency
+SFWG  (G20) Sustainable Finance Working 
+Group
+SIF Sustainable Insurance Forum
+SupTech Supervisory technology
+TJA Targeted Jurisdictional Assessment
+
+International Association of Insurance Supervisors  
+c/o Bank for International Settlements
+Centralbahnplatz 2
+CH-4002 Basel
+Switzerland
++41 61 280 80 90
+info@iais.org 
+www.iais.org
+ 
+This document is available on the IAIS website.  
+© International Association of Insurance Supervisors, 2026. 
+All rights reserved. Brief excerpts may be reproduced  
+or translated provided the source is stated.

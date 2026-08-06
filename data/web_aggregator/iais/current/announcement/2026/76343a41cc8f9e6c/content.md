@@ -1,0 +1,95 @@
+STATEMENT  
+12 June 2025 
+ 
+ 
+ 
+CGAP to become new host of the Access to Insurance Initiative (A2ii)  
+CGAP will become the new host and convenor of the Access to Insurance Initiative (A2ii) effective 1 
+July 2025 and the International Association of Insurance Supervisors ( IAIS) will become a member 
+of CGAP. 
+This partnership, shaped by a thorough and inclusive consultative process, reflects the global 
+recognition that access to insurance is c ritical for achieving global financial inclusion and financial 
+health goals. The strong strategic alignment and complementary expertise of the A2ii and CGAP, 
+along with the IAIS’ convening power with the global insurance supervisory community, will advance 
+inclusive insurance and foster broader financial sector development through an agenda of 
+knowledge generation, advocacy and collaboration with global stakeholders. 
+Under CGAP stewardship, the A2ii will now sharpen its focus on advancing the frontier of fi nancial 
+inclusion and inclusive insurance through the following strategic priorities: 
+• Championing the Inclusive Insurance Declaration , advocating for its adoption within national 
+financial inclusion strate gies, and guiding policymakers and supervisors in setting actionable 
+objectives and indicators.  
+• Leading the Inclusive Insurance Innovation Labs which serve as peer exchange platforms to 
+explore and test innovative approaches, with insights shared widely t o benefit the supervisory 
+community.  
+• Contributing to relevant IAIS activities, ensuring that knowledge from inclusive insurance work 
+informs global policy discussions. 
+ 
+IAIS Executive Committee Chair, Shigeru Ariizumi : “I am pleased to see this milestone 
+partnership take shape, as integrating the A2ii – the IAIS’ key implementation partner on financial 
+inclusion – into the CGAP environment reflects strong strategic alignment between the A2ii, CGAP 
+and IAIS, and creates new opportunities to support supervis ors and enhance the global financial 
+inclusion agenda in the insurance sector.” 
+ 
+CGAP CEO, Sophie Sirtaine: “I am delighted that CGAP will be hosting the next phase of A2ii. It 
+will enable us to leverage the synergies between the IAIS, the ongoing work of insurance supervisors 
+throughout the world, and CGAP’s research and guidance on the role of inclusive insurance in 
+supporting key development objectives such as building resilience to health and climate crises. 
+Together, we can advance adoption of inclusiv e insurance, while testing new approaches and 
+sharing knowledge of what works.” 
+ 
+Chair, A2ii Governing Council and Executive Committee, Peter Braumüller: “This partnership 
+marks an exciting new phase for the A2ii under CGAP, driven by a shared vision and strong 
+supervisory voice to support the insurance community effectively. I am pleased that the critical 
+mission of the A2ii will continue, and I am confident our impact will be enhanced with CGAP.”
+
+As of 1 July, current A2ii materials will be accessible on CGAP’s website and the self-assessment 
+tool will be available on the IAIS’ website. Other key materials produced before the transition will 
+be accessible through this link.   
+A2ii’s current collection of training tools and materials will now be supported and advanced by 
+dedicated training institutes, including the Toronto Centre, the Frankfurt School of Finance and 
+Management and the International Actuarial Association in partnership with the IAIS. To build on 
+A2ii’s foundational efforts in providing training materials to insurance supervisors and other 
+stakeholders, the IAIS will continue to strengthen its relationships with these institutes and foster 
+new partnerships, ensuring sustained capacity-building support for the global supervisory 
+community. 
+ 
+Background 
+ 
+About the A2ii 
+The A2ii is a global partnership with the mission to inspire and support supervisors to promote 
+inclusive and responsible insurance, thereby reducing vulnerability. The Initiative was created in 
+2009 to respond to requests from policymakers, regulators and supervisors for learning and advice 
+on access to insurance. Through its efforts, A2ii has significantly strengthened supervisory practices, 
+fostered innovation and helped expand access to insurance for underserved populations, ultimately 
+ensuring greater financial resilience and protection for vulnerable communities. As the IAIS ‘ key 
+partner on financial inclusion , the A2ii works directly with supervisors to disseminate knowledge, 
+support peer learning a nd build capacity with the goal of building inclusive insurance markets that 
+are aligned with IAIS standards. Follow A2ii on LinkedIn.  
+ 
+About CGAP 
+CGAP is a global p artnership of more than 40 development organisations working to advance the 
+lives of people living in poverty, through financial inclusion. Housed at the World Bank, it works at 
+the frontier of inclusive knowledge to test solutions, spark innovation, generate evidence, and share 
+insights. As a global public good, its independent research and analysis is available to all. Learn 
+more at www.cgap.org. Follow CGAP on LinkedIn or subscribe to its newsletter.  
+About the IAIS 
+The IAIS is a global standard -setting body whose objectives are to promote effective and globally 
+consistent supervision of the insurance industry to develop and maintai n fair, safe and stable 
+insurance markets for the benefit and protection of policyholders and to contribute to the 
+maintenance of global financial stability. Its membership includes insurance supervisors from more 
+than 200 jurisdictions. Learn more at www.iais.org. Follow us on LinkedIn: IAIS – International 
+Association of Insurance Supervisors. 
+ 
+Media contacts 
+ 
+IAIS 
+Melanie Clowes 
++41 61 280 8442 
+press@iais.org 
+ 
+ 
+ 
+CGAP 
+Jahda Swanborough 
++1 (202) 938 7498  
+jswanborough@worldbank.org

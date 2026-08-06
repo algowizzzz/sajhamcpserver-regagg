@@ -1,0 +1,24 @@
+{
+  "doc_id": "76343a41cc8f9e6c",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2025/06/IAIS-Statement-%E2%80%93-CGAP-to-become-new-host-of-the-A2ii.pdf",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2025/06/IAIS-Statement-%E2%80%93-CGAP-to-become-new-host-of-the-A2ii.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f8bc5cfc9ea18e05847caf1dea2c90d31ecb0be533719cc1290a8a72197900ca",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/76343a41cc8f9e6c",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

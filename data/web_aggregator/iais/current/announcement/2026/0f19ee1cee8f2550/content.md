@@ -1,0 +1,1213 @@
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+June 2022 | Issue 114 
+  
+Follow us on LinkedIn 
+Newsletter 
+From the 
+Secretary 
+General 
+The end of June brings a busy 
+and much anticipated month of 
+meetings and project 
+deliverables to a close.  
+The high point was the return to 
+in-person interactions during our 
+committee meetings and Global 
+Seminar held in Dubrovnik, 
+Croatia. We benefitted from an 
+inspiring location and excellent hospitality from our 
+colleagues at the Croatian Financial Services 
+Supervisory Agency (Hanfa), leading to productive 
+meetings and engagements amongst members and 
+with stakeholders.  
+This ability to meet in person not only added to the 
+efficiency and effectiveness of our decision-making 
+processes but it contributed considerably to rebuilding 
+social capital. It was a chance to reaffirm our 
+commitment to working together, across members and 
+stakeholders, on pressing topics of resilience and 
+sustainability.  
+The Executive Committee (ExCo) meeting saw a 
+packed agenda, with topics ranging from progress on 
+implementation of key reforms like the Insurance 
+Capital Standard (ICS) and Holistic Framework for the 
+assessment and mitigation of systemic risk in the 
+insurance sector,  to our work on strategic topics such 
+as Diversity, Equity and Inclusion (DE&I), cyber risk 
+and climate risk.  
+A detailed description of the outcomes of the ExCo 
+meeting is provided in the section on Committee and 
+Subcommittee Activities below, but I did want to take 
+this opportunity to highlight a few key achievements 
+and decisions. 
+We reached another key milestone in the ICS project 
+with agreement to launch the public consultation on 
+the draft criteria that will be used to assess whether 
+the Aggregation Method provides comparable 
+outcomes to the ICS. 
+With respect to our work on implementation 
+assessment of the Holistic Framework supervisory 
+material, we have made good progress on the second 
+phase – the Targeted Jurisdictional Assessments 
+(TJAs). The preliminary results of the TJAs were 
+shared with and supported by the ExCo.  
+And finally, regarding the 2022 Global Monitoring 
+Exercise (GME), ExCo reached agreement on the 
+scope of the collective discussion on the assessment 
+of systemic risk in the global insurance sector and the 
+appropriate supervisory response to systemic risk if it 
+arises. The ExCo collective discussion will be held in 
+September and will provide important input for 
+reviewing the initial years of implementation of the 
+Holistic Framework. 
+The 2022 IAIS Global Seminar then picked up on 
+these themes as well as others top of mind for the 
+insurance sector, providing a rich set of discussions.
+
+IAIS NEWSLETTER | June 2022   Page 2 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+These discussions have provided us with excellent 
+inputs for our September strategic retreat, when we 
+will be discussing IAIS priorities for the year to come.  
+To follow on the heels of these successful in-person 
+meetings, ExCo also agreed on both the dates and 
+venues for the 2023 milestones events. Committee 
+meetings and the Global Seminar will take place the 
+week of 12-16 June in Seattle, US and the committee 
+meetings, Annual General Meeting and Annual 
+Conference will take place the week of 6-10 
+November in Tokyo, Japan.  
+Although we learned to operate effectively in the 
+virtual environment during the pandemic, we have also 
+seen the tangible benefits that flowed from this week 
+of in-person engagement. I look forward to continuing 
+to build our connections and sharing of experiences in  
+our in-person meetings to come. 
+Jonathan Dixon, Secretary General 
+ 
+ 
+ 
+ 
+ 
+ 
+IAIS Executive Committee members gathered in 
+Dubrovnik for the IAIS committee meetings and Global 
+Seminar, June 2022.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In this Issue Calendar Notes 
+From the Secretary General .............................................. 1 
+In Focus ............................................................................. 3 
+News .................................................................................. 5 
+Event Spotlight .................................................................. 7 
+Forum Updates .................................................................. 8 
+Capacity Building ............................................................... 9 
+Meet our Staff .................................................................. 10 
+Appointments ................................................................... 11 
+Committee and Subcommittee Activities ......................... 11 
+Calendar of meetings and events.................................... 13 
+Access to Insurance Initiative (A2ii) Report .................... 15 
+ 
+ 
+The IAIS has released the dates and locations of its 
+Committee meeting and milestone events in 2023, as 
+approved by the Executive Committee on 15 June. 
+Please mark your calendars!  
+MEETINGS  DATES  LOCATIONS 
+Committee meetings  
+6 – 8 
+March 
+2023 
+Basel, 
+Switzerland  
+Committee meetings and 
+Global Seminar  
+12 – 16 
+June 
+2023 
+Seattle, WA, 
+USA 
+Macroprudential 
+Committee collective 
+discussion and Executive 
+Committee Strategic 
+Retreat 
+20 – 22 
+September 
+2023 
+Basel, 
+Switzerland 
+Committee meetings, 
+Annual General Meeting 
+and Annual Conference  
+6 – 10 
+November 
+2023 
+Tokyo,  
+Japan
+
+IAIS NEWSLETTER | June 2022   Page 3 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+In Focus 
+Mapping the resilience of the insurance sector
+The IAIS Global Seminar tackled key issues on 
+insurance sector resilience as the world starts to 
+emerge from the Covid-19 pandemic and faces an 
+uncertain economic outlook.  
+Returning after a three-year break as a result of the 
+global pandemic, the Global Seminar welcomed over 
+350 participants from 70 countries to Dubrovnik on 16-
+17 June. 
+The event opened with an update from members of the 
+IAIS Executive Committee (ExCo) leadership team on 
+key projects and themes, and the main outcomes of 
+the previous three days of committee meetings, during 
+which the rapidly changing macro-economic outlook 
+was a key topic for discussion. Stakeholders were 
+invited to take the opportunity to ask IAIS ExCo 
+members about the IAIS’ priorities and work.  
+ 
+Challenging times 
+The Global Seminar’s panel discussions began with a 
+session on how inclusive insurance can support 
+sustainable development. Panellists noted the 
+importance of financial education and the benefits of 
+digitalisation to increase access to insurance products. 
+During a lively panel discussion on climate risk 
+assessment, panellists highlighted the urgency of 
+addressing risks posed to the insurance sector by 
+climate change after the United Nation’s recent “red 
+alert”. The panel also noted the importance of work to 
+build supervisory capacity.  
+With constantly increasing cyber risks in the insurance 
+sector, a third panel discussed several of the risks, 
+including those from silent coverage, increased cyber 
+underwriting and model maturity, and the pressing 
+challenge of talent shortages. This discussion 
+highlighted the importance of the IAIS’ work to support
+
+IAIS NEWSLETTER | June 2022   Page 4 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+supervisory understanding of the operational risks 
+posed by cyber and how those risks need to be 
+managed with the growth of the cyber underwriting 
+market.  
+“Rebuilding social capital for the 
+insurance supervisory community 
+is key to delivering our objectives.” 
+Jonathan Dixon 
+IAIS Secretary General 
+Momentum for key reforms 
+In the face of growing macroeconomic risks, a panel 
+discussed the steps supervisors and insurers need to 
+take to address risks on the horizon. They discussed 
+the benefits of the IAIS’ Holistic Framework, which 
+helps to assess and mitigate risks to the global 
+insurance sector with both a sector-wide and entity-
+based view on emerging risks.  
+Members of the IAIS ExCo then discussed the 
+momentum for the Insurance Capital Standard (ICS) 
+as it enters the third year of the monitoring period and 
+moves from a conceptual framework to the 
+implementation of a global standard. The session also 
+served as a background session for the consultation 
+on draft criteria that will be used to assess whether the 
+Aggregation Method provides comparable outcomes to 
+the ICS. There was a strong call to action for 
+stakeholder input to the consultation.  
+The Global Seminar provided excellent inputs as the 
+IAIS develops its 2023-2024 Roadmap. The 
+importance of addressing climate protection gaps, 
+cyber risk and a continued focus on the ICS are 
+expected to be key priorities.  
+In his closing remarks, IAIS Secretary General 
+Jonathan Dixon thanked our hosts, the Croatian 
+Financial Services Supervisory Agency (Hanfa), for 
+their excellent hospitality and welcomed the 
+opportunity to come together again in November 2022 
+at the IAIS Annual Conference in Santiago, Chile. 
+Replays 
+Video recordings of the Global Seminar are 
+available on the IAIS website:  
+2022 Global Seminar
+
+IAIS NEWSLETTER | June 2022   Page 5 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+News
+PARTNERSHIPS  
+Renewal of the IAIS A2ii IAA 
+Partnership Agreement for 
+Actuarial Skills Capacity Building 
+On 17 June, the IAIS, Access to Insurance Initiative 
+(A2ii) and the International Actuarial Association (IAA) 
+signed the extension of their Partnership Agreement for 
+Actuarial Skills Capacity Building for five years. The 
+objective of the partnership is to enhance supervisory 
+understanding and application of actuarial concepts and 
+tools, and this new agreement will become effective on 
+1 November 2022. 
+This partnership contributes to the IAIS high-level goals 
+(HLG) 3 – Supervisory Practices and 4 – Observance of 
+standards, by leveraging supervisors’ actuarial skillset 
+to help ensure that the preconditions for observance of 
+the IAIS standards can be met.  
+The partners have already  developed a training 
+curriculum for an intensive one- week course for 
+insurance supervisors. In 2019, the course was 
+delivered to Sub- Saharan Africa, the Caribbean and 
+Asian supervisors, reaching 91 insurance supervisors 
+from 53 jur isdictions. In 2021, the curriculum was 
+adapted to a combination of self -paced online modules 
+and live virtual sessions, reaching 43 supervisors from 
+20 jurisdictions in the Sub- Saharan Africa region. In 
+2022, the course took place in Spanish for the first time 
+for 50 Latin American supervisors. 
+Under the extension, the partners aim to further their  
+outreach through enhanced virtual access  on A2ii’s 
+digital learning platform for supervisors and reduce 
+barriers to understanding by delivering the training in 
+different languages. While maintaining its global focus, 
+the curriculum will continue to reflect regional diversity 
+and varying needs. Finally, the partners will also 
+recognise the relevance of emerging risks and trends in 
+the design of the training material. 
+The extension was signed by Victoria Saporta, Chair of 
+the IAIS Executive Committee; Peter Braumüller, Chair 
+of the Governing Council of the A2ii; and Roseann e 
+Harris, President of the IAA. 
+The IAIS, A2ii and IAA celebrate this  milestone to 
+reinforce their commitment to the supervisory 
+community and look forward to the next five years.  
+To access the document, please click here.  
+Read the A2ii update below. 
+For more information contact Carlos Lopez Moreira at 
+carlos.lopezmoreira@bis.org. 
+PUBLICATIONS  
+IAIS publishes Report on 
+Supervisors’ use of key indicators 
+to assess insurer conduct 
+The IAIS recognises culture and conduct as a key 
+focus area in insurance supervision and observes that 
+conduct risks can lead to financial soundness concerns 
+for the sector and vice versa.  
+Accordingly, supervisors are increasingly looking to 
+adopt more forward looking and outcomes-based 
+approaches to conduct supervision. This includes 
+using certain data points as key indicators of insurer 
+conduct.  
+On 29 June, the IAIS published a short report prepared 
+by the Market Conduct Working Group on the findings 
+of an IAIS member survey on current supervisory 
+approaches and challenges related to using key 
+indicators to assess insurer conduct. Fifty-one 
+authorities across developed and EMDE jurisdictions 
+responded to the survey.
+
+IAIS NEWSLETTER | June 2022   Page 6 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+The report covers: 
+• The number and type of indicators collected by 
+supervisors; 
+• The purposes for which supervisors use the conduct 
+indicators; and 
+• The challenges encountered by supervisors. 
+Supervisors are encouraged to consider the 
+information in this report as they continue to build out 
+their own approaches to conduct supervision.  
+As a next step, the IAIS is working on developing 
+practical guidance for member supervisors on the use 
+of key indicators to proactively monitor conduct risks to 
+enable more timely response to emerging conduct 
+trends and risks. This is expected to be made available 
+to IAIS members in Q1 2023. 
+To access the report, please click here.  
+For more on the topic of conduct and culture, mark 
+your calendars for an upcoming A2ii-IAIS Supervisory 
+Dialogue on 21 July focused on insurer culture.  
+For more information contact Lauren Eckermann at 
+lauren.eckermann@bis.org. 
+ 
+ 
+CONSULTATIONS  
+IAIS launches consultation on 
+draft Comparability Criteria 
+The IAIS has released a public consultation on the 
+draft criteria that will be used to assess whether the 
+Aggregation Method (AM) being developed by the US 
+and other interested jurisdictions provides comparable 
+outcomes to the Insurance Capital Standard (ICS). 
+The draft criteria have been developed in such a way 
+that the AM is neither precluded at the outset as an 
+outcome equivalent approach to the ICS for measuring 
+group capital nor given a free pass. 
+Stakeholder feedback on the draft criteria is particularly 
+important to provide a range of perspectives on this 
+unprecedented area of work and gauge views on the 
+appropriateness of the draft criteria. Responses to the 
+consultation will help ensure the criteria take account 
+of the complex issues that have to be addressed with 
+this work. 
+The ICS panel held at the IAIS Global Seminar served 
+as a background session for this consultation. The 
+session can be viewed by clicking here. 
+The session panellists emphasised the importance of 
+the public consultation and encouraged stakeholder 
+feedback to inform future discussions. 
+Following consideration of stakeholder comments, as 
+well as ongoing work within the IAIS on the technical 
+parameters, the IAIS will finalise the criteria that will be 
+used to assess whether the AM provides comparable 
+outcomes to the ICS. The final criteria, along with the 
+definition of comparable outcomes and six high-level 
+principles, are expected to be adopted at the IAIS 
+Annual General Meeting in November 2022.  
+Stakeholders are invited to respond to the consultation 
+at the following link until 15 August 2022 midnight 
+CEST.  
+For more information contact Danita Pattemore at 
+danita.pattemore@bis.org. 
+Key takeaways 
+• Most supervisors collect 20 or fewer indicators to 
+assess insurer conduct.  
+• Complaints data and claims data are the 
+dominant sources of key conduct indicators. 
+• Analysed conduct data typically identifies 
+potential misconduct and supports formal 
+enforcement measures.  
+• About half of the survey respondents use 
+conduct data to inform product interventions and 
+consumer education initiatives. 
+• Poor prioritisation of conduct-related issues by 
+insurers and a lack of supervisory resources are 
+the top two challenges faced by supervisors.  
+• Difficulties interpreting and using conduct data 
+arise due to definitional issues, insurers’ inability 
+to provide certain data, and poor data quality.
+
+IAIS NEWSLETTER | June 2022   Page 7 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+MEMBERSHIP  
+MMoU signing ceremony for 
+Albania 
+As previously announced, the Albanian Financial 
+Supervisory Authority (AFSA) recently became a 
+Signatory of the IAIS Multilateral Memorandum of 
+Understanding (MMoU) – our international supervisory 
+cooperation and information exchange agreement.  
+To mark the occasion, on 14 June, the IAIS organised 
+a signing ceremony during the committee week in 
+Dubrovnik. Victoria Saporta, Chair of the IAIS 
+Executive Committee, Mr Ervin Mete, General 
+Executive Director of the AFSA, Mr Jonathan Dixon, 
+Secretary General of the IAIS, as well as some 
+colleagues of the AFSA and the IAIS participated in the 
+signing ceremony.  
+For more information contact Miho Chen at 
+miho.chen@bis.org. 
+Event Spotlight
+ 
+ RECENT  
+EIOPA 2022 conference | Virtual | 
+21 June 
+IAIS Executive Committee Chair Vicky Saporta spoke 
+at the European Insurance and Occupational Pensions 
+Authority (EIOPA) 2022 conference on 21 June. In her 
+speech, Vicky set out the emerging risks to the 
+insurance sector with the changing economic outlook. 
+She set out the importance of global coordination of 
+emerging risks such as climate change and cyber, 
+which by their very nature are cross-border.  
+Vicky also provided an update on the progress of the 
+monitoring period of the Insurance Capital Standard 
+(ICS) and the details on the recently published 
+consultation on draft criteria that will be used to assess 
+whether the Aggregation Method provides comparable 
+outcomes to the ICS. 
+Watch the video here.  
+For more information contact Joe Perry at 
+joe.perry@bis.org. 
+ 
+ 
+ 
+ 
+ 
+ 
+2022 Annual Conference 
+Now that the 2022 IAIS Global Seminar has 
+successfully concluded, planning has commenced 
+for our next milestone meetings coming up in 
+November 2022 in Santiago, Chile:  
+• 7-9 November: Committee meetings 
+• 10-11 November: Annual General Meeting and 
+Annual Conference.  
+Please save the dates and stay tuned for more 
+details.
+
+IAIS NEWSLETTER | June 2022   Page 8 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+BIS Annual General Meeting | 
+Basel | 25 June 
+IAIS Secretary General Jonathan Dixon took part in a 
+panel discussion at the Annual General Meeting of the 
+Bank for International Settlements (BIS) together with 
+Secretaries General from the other international 
+financial standard setters to discuss action to address 
+climate risks in the financial system.  
+Jonathan noted the consensus amongst IAIS members 
+on the need for immediate action to address risks 
+posed to the insurance sector by climate change, 
+including the need to address spill overs to other parts 
+of the financial system.  
+He highlighted the four pillars of the IAIS’ work on 
+climate risk:  
+• Risk analysis – using the Global Monitoring 
+Exercise to gather data on insurance sector 
+exposures to climate risk on both sides of insurers’ 
+balance sheets.  
+• Standard setting – climate risk is a driver of existing 
+risks and needs to be integrated into insurers’ 
+sound governance and risk management. The IAIS 
+will make changes to the guidance for the 
+Insurance Core Principles and consult on new 
+supporting materials next year to ensure effective 
+treatment of climate risk. 
+• Supervisory practices – the IAIS is supporting its 
+members to address practical challenges to the 
+assessment of climate risk with capacity building on 
+climate scenario analysis. 
+• Disclosure –the IAIS is actively engaging with the 
+work of the International Sustainability Standards 
+Board.  
+Jonathan also noted that the IAIS expects to start new 
+work later this year on the role of supervisors in 
+helping to address climate protection gaps.  
+For more information contact Joe Perry at 
+joe.perry@bis.org. 
+Forum Updates 
+Forums provide an ongoing and flexible platform for technical experts to share insights and 
+discuss developments in a specific area relevant for insurance supervision and regulation, 
+including but not limited to supervisory practices, cross-cutting topics and emerging trends. 
+ 
+Financial Crime Forum | Virtual |  
+2 June 
+The first Financial Crime Forum (FCF) meeting took 
+place on 2 June. 
+Members of the FCF gathered virtually to: 
+• Receive an update on recent activities of the 
+Financial Action Task Force (FATF); 
+• Discuss the draft 2022 FCF workplan; and 
+• Have a tour de table discussion on the following 
+three topics: (1) greenwashing in the context of 
+fraud; (2) implications of sanctions in light of the war 
+in Ukraine; and (3) acceptance and payment of 
+crypto assets in the insurance sector. 
+Members agreed on the workplan for the rest of 2022, 
+which will be centred on topics such as the proliferation 
+financing risks in the insurance sector. 
+During the tour de table discussion, members shared 
+jurisdictional examples and exchanged views on key 
+trends. The FCF will continue to monitor developments 
+on these topics. 
+The next FCF virtual meeting will take place in 
+September 2022. 
+For more information contact Yasuaki Ohara at 
+yasuaki.ohara@bis.org.
+
+IAIS NEWSLETTER | June 2022   Page 9 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+Financial Inclusion Forum | Virtual 
+| 30 June 
+The 6th Financial Inclusion Forum (FIF) plenary took 
+place on 30 June. 
+Members of the FIF gathered virtually to discuss the 
+topic of “Reviewing regulatory frameworks for inclusive 
+insurance – tools and approaches to measure and 
+assess the impact” and to reflect on the Application 
+Paper on Regulation and Supervision Supporting 
+Inclusive Insurance Markets. 
+In the first half of the meeting, FIF members shared the 
+most recent inclusive insurance developments and 
+challenges in their jurisdictions, including reviews of 
+micro-insurance frameworks and recommendations. 
+This was followed by a peer exchange led by Craig 
+Thorburn, Lead Financial Sector Specialist from the 
+World Bank, based on the Application Paper and 
+reflecting on further developments since the 
+publication. Participants also sought to identify trends 
+and opportunities. Forty participants from across seven 
+regions attended the session. 
+The next FIF meeting will take place in Q4, in Costa 
+Rica, and will address the topic of climate risk and the 
+protection gap. The FIF is also organising a workshop 
+on disaster preparedness.  
+For more information contact Carlos Lopez Moreira at 
+carlos.lopezmoreira@bis.org.  
+ 
+Capacity Building 
+UPCOMING  
+Public roundtable on the 
+implementation of the Holistic 
+Framework | Virtual |19 July  
+The IAIS’ Holistic Framework is designed to assess 
+and mitigate systemic risk in the global insurance 
+sector. Nearly three years since the Framework was 
+launched and in advance of a review by the Financial 
+Stability Board on the future of the identification of 
+Global Systemically Important Insurers, the IAIS will 
+hold a virtual public roundtable to seek stakeholder 
+feedback on the implementation of the Holistic 
+Framework from 13.00-15.30 CEST on Tuesday, 19 
+July.  
+Sign up for the roundtable on the IAIS website. 
+For more information contact Joe Perry at 
+joe.perry@bis.org. 
+ 
+ 
+ 
+ 
+Inclusive Insurance Training 
+Program for Insurance 
+Supervisors | Virtual | 23 August – 
+15 September  
+The Inclusive Insurance Training for Insurance 
+Supervisors program offered in cooperation with our 
+implementation partners, A2ii and the Toronto Centre, 
+and based on the IAIS Application Paper on 
+"Regulation and Supervision Supporting Inclusive 
+Insurance Markets", will take place from 23 August to 
+15 September 2022.  
+The curriculum covers various aspects of financial 
+inclusion, ranging from the role of regulation and 
+supervision to emerging risks and trends. The training 
+seeks to equip supervisors with skills and knowledge 
+to enhance supervisory capacity and foster insurance 
+market development. 
+For further information on the curriculum and 
+registrations, please refer to the A2ii section below.
+
+IAIS NEWSLETTER | June 2022   Page 10 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+IAIS-FSI FIRST ONE Programme 
+| Virtual | 25 August – 1 December  
+The 8th edition of the IAIS-FSI Regulatory and 
+Supervisory Training (FIRST ONE) Online Programme 
+will run from 25 August to 1 December. Designed as a 
+combination of FSI Connect self-study tutorials and live 
+webinars, this online course is aimed at entry-level 
+supervisors and experienced professionals who are 
+new to insurance supervision.  
+The FIRST ONE curriculum builds on the IAIS 
+supervisory material and addresses fundamental 
+insurance concepts and the building blocks of 
+insurance supervision, including prudential and 
+conduct aspects and emerging risks. This year’s 
+course will also provide an overview of the global 
+reform package by the IAIS, namely ComFrame, the 
+global Insurance Capital Standard and the Holistic 
+Framework.  
+FIRST ONE is also recommended for members who 
+intend to participate in the Bootcamp for supervisory 
+assessment skills training in 2023.  
+All IAIS members have been invited to nominate up to 
+5 staff members to join the course. Kindly complete the 
+registration by 15 July 2022. 
+For more information contact Carlos Lopez Moreira at 
+carlos.lopezmoreira@bis.org.
+Meet our Staff 
+Each month get to know one IAIS staffer and the projects they are working on. 
+ 
+Staff profile  
+Name: Melanie Clowes-Haug 
+Current role: Senior Policy Adviser, Communications 
+Time with the IAIS: Since April 2020 
+Last employer: F. Hoffman La Roche 
+Favourite pastimes: Being active in the fresh air, 
+apéros with friends and family, investigating the 
+intersection of media, culture and society.  
+ 
+Melanie spent almost 20 years working at two of the 
+world’s largest Pharma companies: Novartis and 
+Roche/Genentech. Over that period, she led many 
+large-scale global projects and teams in various areas 
+of communications, including executive 
+communications, where she supported the CEO and 
+Chairman; media and stakeholder relations; issues and 
+crisis management; change management; social 
+media; employee engagement and marketing 
+communications.  
+She was delighted to have joined the IAIS, remaining 
+in an international environment but having the 
+opportunity to be immersed in a completely new sector 
+and organisational setting – especially one with such a 
+prominent and vital role in society. 
+Her main focus has been to further professionalise the 
+communications of the Association and embed a 
+reputation-building and audience-focused mindset 
+across all of the Secretariat’s activities.  
+Building on the refreshed brand identity and channels 
+launched this year, her future efforts will focus on 
+increasing alignment and targeting of 
+member/stakeholder touchpoints, ensuring clarity and 
+consistency of messaging around key projects, and 
+deepening opportunities with social and traditional 
+media.
+
+IAIS NEWSLETTER | June 2022   Page 11 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+ 
+Appointments 
+The Selection Committee recently appointed Aakash Mishra (Mauritius) as Vice Chair of the Governance Working 
+Group (GWG). 
+Committee and Subcommittee 
+Activities 
+Committee Activities 
+AUDIT AND RISK COMMITTEE  
+The Audit and Risk Committee (ARC) met in 
+Dubrovnik, Croatia on 13 June to advance the 
+implementation of IAIS’ recently updated Risk 
+Management Framework (RMF). This included: 
+• Discussing the Secretariat management team’s 
+assessment of the key risks impacting the 
+Association’s ability to achieve its objectives in 
+the next three to six months;  
+• Discussing the outcomes of periodic 
+assessments of activity-based risks (this relates 
+to processes that underpin and enable the 
+achievement of the Association’s strategic 
+objectives);  
+• Assessing the adequacy and sufficiency of 
+existing insurance policies; and 
+• Reviewing the preliminary outcomes of the 2021 
+external audit. 
+The next meeting of the ARC will be held in 
+November 2022 in Santiago, Chile.  
+Secretariat support: ruby.garg@bis.org  
+BUDGET COMMITTEE  
+The Budget Committee (BC) met in-person in 
+Dubrovnik, Croatia on 13 June. The BC was 
+informed that the external audit of the IAIS 2021 
+accounts was successfully carried out and that the 
+auditors plan to recommend the approval of the 
+financial statements at the IAIS Annual General 
+Meeting. 
+The members also reviewed the 2022 budget and 
+fee execution and received updates on the 
+upcoming 2022 and 2023 Annual Conferences and 
+2023 Global Seminar. 
+The next BC meeting is scheduled to take place 
+virtually in October 2022. 
+Secretariat support: danita.pattemore@bis.org and 
+joao.carneiro@bis.org  
+EXECUTIVE COMMITTEE 
+The Executive Committee (ExCo) met in Dubrovnik, 
+Croatia on 15 June. During this meeting, ExCo: 
+• Discussed work underway to progress the IAIS’ 
+commitment to Diversity, Equity and Inclusion;  
+• Approved the publication of the report: 
+Supervisors’ use of key indicators to assess 
+insurer conduct; 
+• Discussed the outcome of the monitoring of 
+identification of Internationally Active Insurance 
+Groups (IAIGs) in 2022 and the status of public 
+disclosure of the identification of IAIGs by group-
+wide supervisors; 
+• Agreed upon the public communication to be 
+issued with respect to the consultation on the 
+draft criteria for the Aggregation Method 
+Comparability Assessment;  
+• Received an update on progress with finalising 
+the Targeted Jurisdictional Assessments (TJAs) 
+of implementation of the Holistic Framework 
+supervisory material; 
+• Provided initial feedback on the final report on the 
+Member Assessment Process: Mexico; 
+• With respect to the 2022 Global Monitoring 
+Exercise, agreed upon the scope of the collective
+
+IAIS NEWSLETTER | June 2022   Page 12 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+discussion on the assessment of systemic risk in 
+the global insurance sector and the appropriate 
+supervisory response, to be held in September;  
+• Provided initial steer on the 2023-2024 Roadmap; 
+and 
+• Discussed certain proposals from the ExCo small 
+group on internal governance, relating to internal 
+policies and procedures (the IAIS Member 
+Handbook) and initial work on a mid-term review 
+of the 2020-2024 financial outlook.  
+The next meeting of ExCo will be on 15-16 
+September in Basel.  
+Secretariat support: malene.duncan@bis.org; 
+gemma.schneider@bis.org and zoe.smoke@bis.org 
+IMPLEMENTATION AND ASSESSMENT 
+COMMITTEE  
+The Implementation and Assessment Committee 
+(IAC) met in Dubrovnik, Croatia on 14 June to 
+discuss: 
+• Updates on the activities of the Standards 
+Assessment Working Group and the Signatories 
+Working Group throughout the first half of 2022; 
+and 
+• Market Conduct Working Group work on conduct 
+indicators. 
+The next meeting of the IAC will be held virtually on 
+13 September. 
+ 
+Secretariat support: carlos.lopezmoreira@bis.org 
+and miho.chen@bis.org  
+MACROPRUDENTIAL COMMITTEE  
+The Macroprudential Committee (MPC) met in 
+Dubrovnik, Croatia on 13 June to:  
+• Discuss the financial stability outlook;  
+• Decide on the recommendation to the Executive 
+Committee on the scope of collective discussion 
+on the 2022 Global Monitoring Exercise (GME); 
+• Discuss the outline of the IAIS report to the FSB 
+on the review of the Holistic Framework; 
+• Discuss updates from the respective Chairs of 
+the Climate Risk Steering Group; 
+Macroprudential Supervision Working Group and 
+Resolution Working Group; 
+• Discuss the three-year review of the GME’s 
+Individual Insurer Monitoring assessment 
+methodology; and 
+• Discuss progress on the development of Liquidity 
+Metrics and the 2022 GIMAR special topic edition 
+on the potential financial stability impact of cyber 
+risk. 
+The next meeting of the MPC will be held on 14-
+15 September 2022 in Basel, Switzerland.  
+Secretariat support: nicolas.colpaert@bis.org and 
+sylvie.ellet@bis.org.  
+POLICY DEVELOPMENT COMMITTEE  
+The Policy Development Committee (PDC) met in 
+Dubrovnik, Croatia on 14 June. The PDC: 
+• Agreed to release the members-only report on 
+remuneration in the insurance sector on the IAIS 
+members extranet and gave its endorsement to 
+the Governance Working Group to develop a 
+project plan reflecting the recommendations in 
+the report; and 
+• Received updates on: 
+o Progressing the IAIS’ commitment to 
+Diversity, Equity and Inclusion; 
+o The development of an Issues Paper on 
+Operational Resilience; 
+o The work on the ICS treatment of investments 
+in infrastructure and strategic equity; 
+o Other Capital, Solvency and Field Testing 
+Working Group activities; 
+o Identification of Internationally Active 
+Insurance Groups; 
+o Resolution Working Group activities; and 
+o Work on supervisory guidance on addressing 
+climate-related risks. 
+Secretariat support: yasuaki.ohara@bis.org and 
+alka.sharma@bis.org
+
+IAIS NEWSLETTER | June 2022   Page 13 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+Subcommittees Activities 
+ACCOUNTING AND AUDIT WORKING GROUP  
+The Accounting and Auditing Working Group 
+(AAWG) met virtually on 9 June. The main agenda 
+items were updates on:  
+• Work of the Climate Risk Steering Group; 
+• Draft revisions to ICP 14 (Valuation); and 
+• Supervisory activities. 
+The next meeting of the AAWG will be on 12-13 
+September 2022 in Basel. 
+Secretariat support: becky.easland@bis.org 
+MACROPRUDENTIAL MONITORING WORKING 
+GROUP  
+The Macroprudential Monitoring Working Group 
+(MMWG) met virtually on 29 June to prepare for the 
+feedback loop questions to supervisors on insurance 
+groups and overarching themes in scope of the 2022 
+collective discussion on the Global Monitoring 
+Exercise.  
+Secretariat support: nicolas.colpaert@bis.org 
+ 
+ 
+ 
+Calendar of meetings and 
+events  
+The following groups are scheduled to meet between July and September 
+2022.  
+Meetings will be held in virtual format, unless otherwise noted. For the full IAIS calendar, visit our website. 
+Date Group Location 
+July 2022  
+11 Operational Resilience Task Force Virtual 
+14 Retirement Income and Pensions Forum Virtual 
+19 Public roundtable on the implementation of the Holistic 
+Framework 
+Virtual 
+August 2022  
+23 August – 15 
+September 
+Inclusive Insurance Training Program for Insurance 
+Supervisors 
+Virtual 
+25 Aug – 1 Dec IAIS-FSI FIRST ONE Programme Virtual 
+30 Climate Risk Steering Group Virtual 
+30 Standards Assessment Working Group Virtual 
+31 (TBC) Macroprudential Supervision Working Group Virtual
+
+IAIS NEWSLETTER | June 2022   Page 14 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+September 2022   
+1 Macroprudential Monitoring Working Group Virtual 
+12 Policy Development Committee Virtual 
+12-13 Accounting & Audit Working Group Virtual 
+13 Implementation & Assessment Committee Virtual 
+14-15 Macroprudential Committee Basel 
+15-16 Executive Committee  Basel 
+21-22 Resolution Working Group Basel 
+26-27 Capital, Solvency and Field Testing Working Group Basel 
+27 Macroprudential Monitoring Working Group Virtual
+
+IAIS NEWSLETTER | June 2022   Page 15 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+Access to 
+Insurance 
+Initiative 
+(A2ii) Report 
+ 
+ 
+The Access to Insurance Initiative (A2ii) is a 
+unique global partnership which inspires and 
+supports insurance supervisors in promoting 
+access to insurance for underserved and low-
+income populations. It is the IAIS implementation 
+partner on financial inclusion. 
+ 
+Useful tools on the A2ii website 
+• The Covid-19 Insurance Supervisory Response 
+Tracker  
+• The Supervisory KPIs Lexicon  
+• The Inclusive Insurance Regulations map  
+• The ICP Self-assessment Tool  
+• The Connect.A2ii e-learning platform  
+ 
+iii-lab update 
+III - LAB COUNTRY WORKSHOPS  | 8 - 29 JUNE  
+The third Inclusive Insurance Innovation Lab (iii-lab) 
+is a 12-month long process aimed at helping multi-
+stakeholder teams from four different countries to 
+come up with innovations to increase resilience of 
+the most vulnerable segments in their societies 
+against the impacts of climate change.  
+In June, the final country-level workshops took place 
+in Costa Rica, Grenada, Zambia and Zimbabwe. 
+Leading up to this, the teams completed the 
+innovation phase of the lab, where they developed 
+their respective prototypes. 
+During the in-person country workshops, the country 
+teams presented their work to external stakeholders 
+to receive feedback and activate the local ecosystem 
+to work with the iii-lab’s outcomes. 
+For more details about the prototypes, see the iii-lab 
+webpage. 
+ 
+Recent Events 
+NEW FORMAT: Q&A SPECIAL ON THE 
+IMPLEMENTATION OF IFRS 17 | 9 JUNE  
+About 50 supervisors joined this very first A2ii Q&A 
+Special. This one-hour session followed our recent 
+Supervisory Dialogue Reflection on the 
+Implementation of IFRS 17, where time was too 
+short to address the significant number of questions.  
+Building on the content of the May dialogue, Peter 
+Windsor, International Monetary Fund (IMF), as well 
+as Zine Mshengu, Nonhlanhla Ndlovu and Stian 
+Smit from the Prudential Authority within the South 
+Africa Reserve Bank first addressed a collection of 
+pre-submitted questions along four major themes: 
+(1) the impact of IFRS 17 on solvency, regulatory 
+adjustments and reporting, (2) adoption and 
+application of IFRS 17, (3) training of supervisors 
+and (4) the role of actuaries. This was followed by an 
+open Q&A with participants.  
+A2ii Q&A Specials are designed as focused 1-hour 
+long sessions that extend and deepen the exchange 
+between supervisors and experts on important 
+topics. We welcome supervisors’ suggestions on 
+potential topics. 
+Recordings of both the May dialogue as well as the 
+Q&A Special are available to supervisors on 
+Connect.A2ii.
+
+IAIS NEWSLETTER | June 2022   Page 16 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+A2II PARTICIPATION IN THE IAIS GLOBAL 
+SEMINAR | 16 - 17 JUNE  
+The A2ii participated in the IAIS’ annual Global 
+Seminar, which took place in Dubrovnik, Croatia, on 
+June 16 and 17 and was hosted by the Croatian 
+Financial Services Supervisory Agency (HANFA). 
+During the Seminar, Hannah Grant, Head of 
+Secretariat at the A2ii, participated in a panel to 
+discuss the role of inclusive insurance in addressing 
+inequality and promoting sustainable development. 
+The panel, entitled “Addressing social challenges of 
+the day – How inclusive insurance can support 
+sustainable development”, was also joined by 
+Tomás Soley, General Superintendent of Insurance 
+of Costa Rica, Ilijana Jeleč, Deputy President of the 
+Board, Croatian Financial Services Supervisory 
+Agency, and Shari Spiegel, Chief of Policy Analysis 
+and Development, Financing for Sustainable 
+Development Office, United Nations.  
+The panel discussed obstacles and opportunities for 
+innovative solutions to increase uptake of inclusive 
+insurance, including technological innovation, 
+public/private risk-sharing initiatives to address 
+protection gaps and adapting product offerings to 
+meet customer needs in a post-pandemic world.  
+Recordings are available on the IAIS website. 
+EXTENSION OF A2II - IAA - IAIS PARTNERSHIP 
+AGREEMENT | 17 JUNE  
+The A2ii is pleased to renew the partnership 
+agreement with the IAIS, and International Actuarial 
+Association (IAA) for an additional five years. The 
+partnership agreement will ensure continued 
+capacity-building training in actuarial skills for 
+insurance supervisors. The training is designed to 
+strengthen the understanding and application of 
+actuarial concepts and tools needed to support 
+effective insurance supervision and regulation. 
+Victoria Saporta, Chair of the IAIS Executive 
+Committee, Peter Braumüller, Chair of the 
+Executive Committee and Governing Council of the 
+A2ii, and Roseanne Harris, President of the IAA, 
+signed the renewal of the agreement, which will 
+become effective on 1 November 2022. 
+Almost 200 supervisors participated in the five 
+regional training courses since 2019, and demand 
+from the supervisory community keeps growing. 
+The A2ii is looking forward to continuing this 
+partnership for another five years and the work on 
+some exciting new ideas and projects coming up!  
+See the IAIS update above. 
+PRESENTATION AT INTO INDOCHINA 
+INSURANCE VIRTUAL SUMMIT | 25 MAY  
+The A2ii participated in the 3rd edition of the “Into 
+Indochina Insurance Virtual Summit, 2022” on 25 - 
+26 May. The summit’s focus was on how the 
+insurance markets of Cambodia, Laos, Myanmar, 
+Thailand and Vietnam are poised for growth and 
+how the economies in Indochina are on a recovery 
+trajectory with tremendous potential for growth and 
+investment.  
+The session was moderator by Arup Chatterjee, 
+Principal Financial Sector Specialist, Asian 
+Development Bank (ADB). 
+The opening session on “Unlocking Market 
+Opportunities – Digitalisation, Partnership and 
+Collaboration” was kicked off by Conor Donaldson, 
+CEO, Global-Asia Insurance Partnership (GAIP) who 
+introduced the partnership and its role in addressing 
+today’s emerging risks in the Asian market, as well 
+as how regulators have a key role in developing 
+inclusive insurance markets.  
+Showing how regulators in the region are taking 
+steps to create an enabling environment for 
+insurance to be more inclusive through leveraging 
+technology, Dr Sovathana Hor, Deputy Director 
+General, Insurance Regulator of Cambodia (IRC) 
+talked about the latest regulatory initiatives 
+undertaken in Cambodia, which are giving a push to 
+digitally driven insurance models in the country. This 
+was followed by U Thant Zin, Deputy Director 
+General, Financial Regulatory Department, Ministry 
+of Planning and Finance (MoPF), Myanmar who 
+shared the state of digitalisation of the insurance 
+market in Myanmar.
+
+IAIS NEWSLETTER | June 2022   Page 17 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+Microinsurance Network’s Asia coordinator, Kim Am 
+presented on the landscape of inclusive insurance in 
+South East Asia.  
+One key question that came up during the 
+discussions was, what can insurance supervisors do 
+to effectively regulate the rising use of technology 
+and digitalisation of the insurance markets in the 
+region?  
+Addressing these questions, A2ii’s Manoj Pandey 
+presented on the supervisory responses to digital 
+insurance models, greater usage of RegTech and 
+SupTech and also touched upon the emergent 
+discussions on how insurance supervisors need to 
+ensure the human touch remains in the rapid rise of 
+big data analytics and artificial intelligence driven 
+models.  
+ 
+Upcoming Events 
+INCLUSIVE INSURANCE TRAINING 
+PROGRAMME | 23 AUGUST –  15 SEPTEMBER  
+This training programme is offered in partnership 
+with the Toronto Centre and IAIS. It will be offered to 
+supervisors from all regions in English. Live sessions 
+with trainers will take place virtually over 8 days, 
+Tuesdays and Thursdays from 23 August to 15 
+September 2022, from 13:00 to 17:00 CEST on MS 
+Teams. Participants will also be required to complete 
+online modules on the Connect.A2ii platform. 
+The training is targeted to entry- to mid- level 
+insurance supervisors. 
+Topics covered in the training include: 
+• Regulation and Supervision Supporting Inclusive 
+Insurance Markets 
+• The Role of the Supervisor 
+• Prudential Aspects in Inclusive Insurance 
+Supervision 
+• Climate and Environmental Risks 
+• Understanding the Market and the Environment 
+• Uses of Technology in Inclusive Insurance 
+• Key Performance Indicators 
+• Sustainable Development Goals and Insurance 
+Places will be limited – if interested, please register 
+on the A2ii website by 15 July 2022. 
+CONDUCT AND CULTURE -  SUPERVISORY 
+DIALOGUE | 21 JULY  
+ 
+Matters related to conduct and culture are of growing 
+importance to both conduct and prudential 
+supervisors, especially in the context of rapidly 
+changing financial markets driven by innovation, 
+changes in consumer expectations and broader 
+societal changes. 
+The IAIS defines corporate culture as “the set of 
+norms, values, attitudes and behaviours of an 
+insurer that characterises the way in which the 
+insurer conducts its activities”. How does culture 
+shape firm behaviour in treating vulnerable 
+customers fairly? How can firms to see purpose in 
+inclusive insurance approaches? 
+These and other questions will be addressed on 21 
+July, when the A2ii together with the IAIS will host a 
+Supervisory Dialogue on Conduct and Culture. 
+Lauren Eckermann from the IAIS will be presenting 
+the Issues Paper on Insurer Culture, published in 
+November 2021. 
+The presentation will be followed by a panel 
+discussion featuring supervisory examples on the 
+topic moderated by Charlotte Cross, Chair of the 
+IAIS Market Conduct Working Group and Financial 
+Conduct Authority UK. 
+This webinar will be restricted to supervisors and will 
+be taking place at 10:00 CET (with French 
+interpretation), and at 16:00 CET (with Spanish 
+interpretation). 
+Link to 10:00 registration 
+Link to 16:00 registration 
+Visit our website version. 
+If you have any questions or comments, please send 
+them to dialogues@a2ii.org.
+
+IAIS NEWSLETTER | June 2022   Page 18 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+GENEVA ASSOCIATI ON WEBINAR ON 
+INSURANCE DEVELOPMENT IN EMERGING 
+MARKETS: THE ROLE OF PUBLIC POLICY AND 
+REGULATION | 6 JULY  
+A2ii will participate in the webinar on a new, joint 
+report by The Geneva Association and Insurance 
+Development Forum (IDF), examining how 
+regulation and broader government policies can 
+promote thriving insurance markets in emerging 
+countries – ultimately helping to close critical 
+protection gaps. 
+This discussion will expound some of the best 
+practices identified, through research and expert 
+interviews in 14 emerging countries, for tackling 
+barriers to boosting re/insurance markets and 
+expanding insurance coverage in emerging markets. 
+Click here to register for the webinar. 
+_________________________________ 
+View full newsletters on the A2ii website and 
+subscribe to the A2ii mailing list.
+
+IAIS NEWSLETTER | June 2022   Page 19 of 19 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2022 
+About the IAIS 
+ 
+The International Association of Insurance Supervisors (IAIS) is a voluntary membership organisation of 
+insurance supervisors and regulators from more than 200 jurisdictions. The mission of the IAIS is to promote 
+effective and globally consistent supervision of the insurance industry in order to develop and maintain fair, safe 
+and stable insurance markets for the benefit and protection of policyholders and to contribute to global financial 
+stability.  
+ 
+Established in 1994, the IAIS is the international standard setting body responsible for developing principles, 
+standards and other supporting material for the supervision of the insurance sector and assisting in their 
+implementation. The IAIS also provides a forum for members to share their experiences and understanding of 
+insurance supervision and insurance markets.  
+ 
+The IAIS coordinates its work with other international financial policymakers and associations of supervisors or 
+regulators and assists in shaping financial systems globally. In particular, the IAIS is a member of the Financial 
+Stability Board (FSB), member of the Standards Advisory Council of the International Accounting Standards 
+Board (IASB) and partner in the Access to Insurance Initiative (A2ii). In recognition of its collect ive expertise, the 
+IAIS also is routinely called upon by the G20 leaders and other international standard- setting bodies for input on 
+insurance issues as well as on issues related to the regulation and supervision of the global financial sector.  
+ 
+ 
+International Association of Insurance Supervisors  
+c/o Bank for International Settlements 
+CH-4002 Basel 
+Switzerland 
+Tel: +41 61 280 80 90 
+iaisweb.org 
+ 
+ 
+For news in real-time, follow us on LinkedIn 
+ 
+The publication is available free of charge on the IAIS website 
+ 
+©International Association of Insurance Supervisors 2022. 
+All rights reserved. Brief excerpts may be reproduced or translated provided the source is stated.

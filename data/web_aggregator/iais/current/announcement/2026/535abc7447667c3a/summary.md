@@ -1,0 +1,1 @@
+Summary: # IAIS adopts Insurance Capital Standard and other enhancements to its global standards to promote a resilient insurance sector

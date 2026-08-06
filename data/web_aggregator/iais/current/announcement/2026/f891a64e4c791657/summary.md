@@ -1,0 +1,1 @@
+Summary: # IAIS welcomes global climate-related financial disclosure standards

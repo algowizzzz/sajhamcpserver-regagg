@@ -1,0 +1,24 @@
+{
+  "doc_id": "56138ad26e756b03",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2025/04/Resolution-of-consultation-comments-on-Climate-Risk-Package-3-supporting-material.pdf",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2025/04/Resolution-of-consultation-comments-on-Climate-Risk-Package-3-supporting-material.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0fb81023bc7fb08e207a09b38465c9ee0f8835e66bdedee60571f818062b0f5e",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/56138ad26e756b03",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

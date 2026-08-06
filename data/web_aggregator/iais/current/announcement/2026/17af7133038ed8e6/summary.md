@@ -1,0 +1,1 @@
+Summary: # FSI and IAIS publish joint note on parametric insurance

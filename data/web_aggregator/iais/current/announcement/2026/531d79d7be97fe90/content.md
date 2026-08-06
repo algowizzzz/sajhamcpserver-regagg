@@ -1,0 +1,29 @@
+# Videos, summaries and photos of the 2022 IAIS Global Seminar now available
+
+[28 Jun 2022](https://www.iais.org/2022/06/videos-summaries-and-photos-of-the-2022-iais-global-seminar-now-available/)
+
+in [Events](https://www.iais.org/category/events/), [Global Seminar](https://www.iais.org/category/global-seminar/), [Latest news](https://www.iais.org/category/latest-news/), [Stakeholder events](https://www.iais.org/category/stakeholder-events/)
+
+With the resonant theme of insurance sector resilience, the [**2022 IAIS Global Seminar**](https://iaisweb.us20.list-manage.com/track/click?u=863024fec344714c0eec40618&id=779d708a45&e=51e1fdbadb) welcomed over 350 participants from 70 countries to Dubrovnik on 16-17 June. Together, panellists and participants engaged and exchanged on the steps needed to strengthen insurance sector resilience following the unprecedented challenges of the past two and a half years.
+
+The Global Seminar kicked off with an engaging and interactive session whereby the IAIS senior leadership provided highlights on progress made with key IAIS projects and then opened the floor for a wide-ranging Q&A session, covering topics including diversity, equity and inclusion, FinTech, next steps in the Insurance Capital Standard (ICS) project and the effective and efficient approach to addressing climate risk.
+
+This was followed by five panel discussions, where distinguished panellists from amongst the IAIS membership, industry and other experts considered key opportunities and challenges facing the insurance sector, including climate change, inclusive insurance, cyber and operational risks, as well engagement on two key deliverables for the IAIS – the Holistic Framework on the assessment and mitigation of systemic risk in the insurance sector and the ICS, including its recently launched public consultation on the draft criteria that will be used to assess whether the Aggregation Method provides comparable outcomes ICS.
+
+Visit our [**event page**](https://iaisweb.us20.list-manage.com/track/click?u=863024fec344714c0eec40618&id=573f9e8ccc&e=51e1fdbadb) to read summaries of the sessions, watch the replays and see the pictures from the event.
+
+![](https://www.iais.org/uploads/2022/03/2022-03-04-Web-banner-with-hotel-1024x239.jpg)
+
+30 Dec 2022
+
+[IAIS Members](https://www.iais.org/tag/iais-members/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2022%2F06%2Fvideos-summaries-and-photos-of-the-2022-iais-global-seminar-now-available%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

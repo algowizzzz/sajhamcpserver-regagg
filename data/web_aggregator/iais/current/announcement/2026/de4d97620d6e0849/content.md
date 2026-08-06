@@ -1,0 +1,3592 @@
+Year in Review  2025
+Activities from  
+January to December
+
+Contents
+Message from the Chair of the Executive Committee
+Message from the Secretary General
+About the IAIS
+IAIS 2025 in numbers
+Monitoring and responding to key risks and trends
+Setting and maintaining globally recognised standards
+Supporting supervisory practices and capacity building
+Assessing implementation of global standards
+Operational priorities
+Appendices
+ Distinguished Fellow 2025
+ Committees 2025
+ Executive Committee members
+ IAIS Secretariat staff
+ IAIS organisational structure
+ Acronyms
+3-5
+6-9
+10-15
+16-17
+18-21
+22
+23-35
+36-40
+41-47
+48-56
+IAIS Year in Review 2025
+2
+
+Message from the 
+Chair of the Executive 
+Committee
+It was my honour to assume the role of Chair of  
+the IAIS Executive Committee in November 2025.  
+I would like to acknowledge the IAIS’ outgoing Chair, 
+Shigeru Ariizumi, for the exceptional leadership and 
+significant achievements during his term, due to his 
+unwavering commitment to fostering collaboration 
+across the global insurance supervisory community. 
+As we look back on a year marked by challenging 
+economic, geopolitical and financial market 
+complexities, it is reassuring to note that the global 
+insurance sector has remained resilient and that recent 
+global insurance supervisory reforms have served us 
+well. In this Year in Review, I am pleased to reflect on 
+the past year and share insights on the road ahead.
+2025 marked the beginning of the IAIS’ new five-
+year Strategic Plan. It marks a shift from a period of 
+intensive standard setting to a new phase, where we 
+turn our focus towards implementing the standards we 
+have developed, while at the same time being vigilant 
+about assessing and addressing emerging trends and 
+risks in the global insurance sector. Our Strategic Plan 
+2025–2029 sets out three strategic themes that will 
+guide us as we navigate the risks and opportunities of 
+a complex and rapidly changing external environment.
+Toshiyuki Miyoshi
+Chair, IAIS Executive Committee
+IAIS progress on strategic 
+themes
+The IAIS Strategic Plan has solidified our focus on 
+critical issues reshaping the insurance sector. We have 
+identified three broad, cross-cutting strategic themes 
+for our work programme: 
+1. Strengthening the supervisory response to climate 
+change;
+2. Adapting to digital innovation and cyber risks; and
+3. Supporting insurance to serve its societal purpose 
+of building resilience.
+These themes are global in nature, cut across the 
+purview of the global supervisory community, and 
+have the potential to significantly impact or even 
+reshape the insurance sector, warranting heightened 
+attention and action. The IAIS examines them 
+through its monitoring and assessment activities 
+and shares robust supervisory practices on how to 
+respond proactively to developments in these areas. 
+Recognising the cross-sectoral nature of these 
+themes, the IAIS coordinates and collaborates with 
+other standard-setting bodies and stakeholders, 
+offering an important insurance sector perspective.
+IAIS Year in Review 2025
+3
+
+Emphasis on implementation 
+assessment
+Following the milestone adoption of the Insurance 
+Capital Standard (ICS) in 2024, the IAIS has shifted its 
+focus to ensuring the comprehensive and consistent 
+implementation of the ICS across jurisdictions. 
+In July 2025, the IAIS published the high-level 
+principles that will inform the development of the ICS 
+implementation assessment methodology by the end 
+of 2026. In parallel, the IAIS will coordinate a baseline 
+self-assessment by IAIS members of their progress 
+in implementing the ICS. An ICS self-assessment 
+questionnaire was approved in November 2025, for 
+completion in the first half of 2026. This will serve as a 
+baseline for detailed jurisdictional assessments of ICS 
+implementation by the ICS, aimed to start in 2027. 
+At the same time, the IAIS continued its concerted 
+efforts on implementation assessment across its range 
+of standards, including further Targeted Jurisdiction 
+Assessments of the Holistic Framework supervisory 
+material and a Peer Review Process on implementation 
+of ICP 13 (Reinsurance and other forms of risk 
+transfer).
+Strengthening supervisory response to climate 
+change
+We continue to support insurance supervisors as they 
+define expectations for insurers to understand and 
+manage the consequences of climate-related risks 
+for their business and for policyholder outcomes. The 
+finalisation in 2025 of the Application Paper on the 
+supervision of climate-related risks in the insurance 
+sector marks a significant milestone in this regard. 
+Following that, work commenced on creating member-
+only practical tools in connection with climate-related 
+risk metrics and with how climate change is reflected 
+in natural catastrophe (NatCat) models.
+Adapting to increasing digital innovation
+We also continued to support members in 
+understanding and adapting to the impact of digital 
+innovation on the insurance sector. We published 
+an Application Paper on the supervision of artificial 
+intelligence, which outlines how existing supervisory 
+expectations around governance, risk management 
+and market conduct remain essential considerations 
+for supervisors and insurers when using artificial 
+intelligence (AI) systems in insurance. The adoption 
+and governance of AI by insurers were also highlighted 
+as a sector-wide theme in the IAIS Global Insurance 
+Market Report (GIMAR) 2025.
+On the related topic of cyber risks, which affect 
+insurers both as an inherent risk to their own 
+operations and from an underwriting perspective, we 
+produced a draft Application Paper on operational 
+resilience, which was published for consultation in July 
+2025. The paper aims to support supervisory efforts to 
+enhance operational resilience in the global insurance 
+sector in the face of rapid technological innovation. 
+Additionally, the GIMAR 2025 examined trends in 
+the cyber insurance underwriting market, providing 
+supervisors with a greater understanding of how the 
+market is developing and of potential emerging risks.
+Supporting insurance to serve its societal purpose 
+of building resilience
+Building broad societal resilience through inclusive 
+insurance markets is a key challenge of the day. The 
+IAIS Strategic Plan highlights the pivotal role insurance 
+supervisors have in supporting and shepherding 
+insurance to foster resilience and sustainable 
+development, particularly for vulnerable communities.  
+Several strands of the IAIS’ activities in 2025 connect 
+to the important role insurance supervisors can 
+play in supporting the insurance sector to deliver its 
+societal purpose of building resilience. As the growing 
+frequency and severity of extreme weather events, 
+together with other factors, are driving increasingly 
+perilous NatCat protection gaps, the IAIS has placed 
+a core focus on promoting collaborative action in 
+both understanding and addressing these risks. This 
+included a special topic edition of the GIMAR 2025 on 
+the potential financial stability implications of NatCat 
+protection gaps and collaboration with the World Bank 
+for the G20 on actions that supervisors, policymakers, 
+insurers and other stakeholders can collectively take 
+to address NatCat protection gaps, particularly in 
+Emerging Market and Developing Economy (EMDE) 
+jurisdictions. 
+Other work on this theme in 2025 included guidance 
+on supervisory practices with respect to fair 
+treatment of a wide range of customers, value for 
+money for insurance customers, financial inclusion, 
+and engagement with insurers’ boards and senior 
+management on their perspectives and practices with 
+respect to the broader societal purpose of insurance.
+IAIS Year in Review 2025
+4
+
+To deliver on our many ambitions, we recognise that 
+a broad-based, multi-stakeholder approach adds 
+significant value, both in terms of our assessment 
+of emerging risks and trends, and in terms of 
+incorporating a diverse range of perspectives into our 
+work on supervisory practices and standards.
+In 2025, the IAIS stepped up its engagement with 
+policymakers and international fora. The IAIS 
+demonstrated particular leadership, together with 
+the World Bank, in ensuring that the imperative of 
+addressing NatCat protection gaps remains firmly on 
+the international policy agenda, including the G20. 
+Through a series of co-hosted events with the IMF and 
+the World Bank, we strengthened our relationships 
+with these institutions and elevated the IAIS’ work 
+on the global policy agenda. At the same time, we 
+deepened collaboration with the Bank for International 
+Settlements, the Financial Stability Board and other 
+international organisations to provide an important 
+insurance sector perspective on cross-sectoral 
+trends such as climate change, digital innovation and 
+developments in private markets.  
+Lastly, the IAIS thrives because of the diversity of its 
+members, who bring a broad range of perspectives, 
+experiences and expertise. This diversity enables us to 
+tackle global challenges with a collaborative, inclusive 
+approach, ensuring that our work is responsive to the 
+unique needs of our members and the communities 
+they serve. We were delighted to welcome three new 
+members to the IAIS in 2025, bringing our total number 
+of member jurisdictions to 229. 
+Looking ahead, we see the insurance sector playing 
+an increasingly critical role in addressing challenges 
+to societal resilience and sustainable development. 
+The IAIS, with its global perspective and collaborative 
+spirit, is well-positioned to navigate these challenges 
+and opportunities.
+Amid the strains of geopolitical fragmentation, 
+IAIS members have demonstrated an unwavering 
+commitment to finding collective solutions to common 
+challenges and opportunities. This reflects the true 
+strength of the IAIS as a body with deep technical 
+expertise and the ability to convene supervisors, 
+industry and consumer stakeholders. By speaking with 
+a common voice, we will support insurance’s vital role 
+in fostering resilience and sustainable development, 
+ensuring that shared goals translate into meaningful 
+and swift action.
+We are lucky to be supported by the IAIS’ small 
+but highly effective Secretariat, which continues 
+to enhance its operational capabilities, improving 
+efficiency, governance and decision-making with a 
+strong member-centric focus. My heartfelt thanks go 
+to them, our members and all stakeholders for your 
+collaboration and unwavering commitment.
+Toshiyuki Miyoshi
+Enhancing global 
+collaboration
+Looking ahead
+In 2025, the IAIS elevated its engagement with 
+policymakers and international fora, demonstrating 
+particular leadership in ensuring that the imperative  
+of addressing NatCat protection gaps remains firmly  
+on the international policy agenda.
+IAIS Year in Review 2025
+5
+
+Message from the 
+Secretary General
+I am pleased to present the IAIS’ Year in Review 2025, 
+showcasing our ongoing commitment to supporting 
+policyholder protection, financial stability and societal 
+resilience. 
+The past year, the first under our new Strategic Plan 
+2025–2029, saw us pivot from an intensive period 
+of standard setting to a greater emphasis on the 
+implementation of these standards. We promote this in 
+two ways: by providing implementation support in the 
+form of guidance on effective supervisory practices, 
+peer-exchange forums and capacity building; and, 
+secondly, by assessing the comprehensive and 
+consistent implementation of IAIS standards. 
+This Year in Review outlines the Association’s many 
+accomplishments in 2025, structured by our four core 
+objectives, the key highlights of which are summarised 
+as follows. 
+Jonathan Dixon  
+IAIS Secretary General
+Monitoring and responding 
+to key risks and trends
+Our efforts to monitor, assess and address key risks 
+and trends in the global insurance sector remain 
+paramount as we face increasing complexity driven by 
+the rapid evolution of the financial sector, heightened 
+interconnectedness and geoeconomic risks. 
+Our annual Global Monitoring Exercise (GME) 
+provides an assessment of global insurance market 
+trends, evaluates individual insurer and sector-wide 
+systemic risks, and enables a collective discussion on 
+appropriate supervisory responses at the global level. 
+In 2025, the IAIS conducted its three-year review of 
+the GME, refining it to include an updated Individual 
+Insurer Monitoring (IIM) assessment methodology and 
+an additional set of ancillary risk indicators on credit 
+risk, reinsurance and derivatives. 
+Aligned with this timing, in November the Financial 
+Stability Board finalised its three-year review of its 
+experience with utilising the IAIS Holistic Framework 
+for the assessment and mitigation of systemic 
+risk in the insurance sector (Holistic Framework), 
+reaffirming its decision that it will continue to use 
+the Holistic Framework assessments for purposes 
+of its assessment of systemic risk in the insurance 
+sector instead of an annual identification of global 
+systemically important insurers. 
+IAIS Year in Review 2025
+6
+
+The outcomes of the GME are published in our annual 
+Global Insurance Market Report (GIMAR). The 2025 
+GIMAR highlighted three sector-wide themes shaping 
+insurance supervisory priorities:
+1. Geoeconomic fragmentation and its impact on 
+insurers’ asset and liability management;
+2. Insurers’ adoption and governance of artificial 
+intelligence (AI), at a time when AI is transforming 
+the value chain, but also introducing new 
+operational, conduct and cyber risks; and 
+3. Insurer’s increased investment in private credit –  
+a trend that brings diversification benefits, but 
+also raises questions about liquidity risk, valuation 
+uncertainty and interconnectedness.
+Connected to the third theme, the IAIS published in 
+November its Issues Paper on structural shifts in the 
+life insurance sector. It offers an in-depth analysis of 
+the increasing allocation to alternative assets in life 
+insurers’ portfolios and the growing adoption of asset-
+intensive reinsurance – trends that can bring benefits 
+but also risks that supervisors need to ensure are 
+properly managed. 
+In addition, a special topic edition GIMAR was 
+published, examining the potential financial stability 
+implications of natural catastrophe (NatCat) protection 
+gaps and underscoring the critical role of insurance 
+in mitigating the economic and societal impacts of 
+NatCat events.
+Setting and maintaining 
+global standards
+Following an intensive standard-setting phase, 
+which saw the adoption of the Holistic Framework 
+and the Common Framework for the Supervision of 
+Internationally Active Insurance Groups (ComFrame), 
+including the Insurance Capital Standard (ICS), the 
+IAIS’ focus has shifted from setting new standards 
+to the ongoing maintenance and refinement of global 
+standards. 
+In 2025 the IAIS developed specific supervisory 
+reporting and public disclosure requirements related 
+to the ICS and initiated a public consultation to collect 
+feedback on the proposed revisions. Based on the 
+outcomes of this consultation, the IAIS is expected 
+to adopt the ICS supervisory reporting and public 
+disclosure requirements by the end of 2026.
+Supervisory practices and 
+capacity building
+Supporting IAIS members in their efforts to put our 
+standards into practice and respond proactively 
+to risks and opportunities arising from global 
+trends remains a cornerstone of our work. As 
+detailed throughout this Year in Review, we have 
+shared learnings, best practices, perspectives and 
+benchmarks with our global audience in areas such as 
+Global standards are only as strong as their 
+implementation, which is why the IAIS puts a priority 
+on assessing the comprehensive and consistent 
+implementation of our standards.
+IAIS Year in Review 2025
+7
+
+Implementation assessment
+Global standards are only as strong as their 
+implementation, which is why the IAIS puts a priority 
+on assessing the comprehensive and consistent 
+implementation of our standards.
+In 2025, we finalised the second set of Targeted 
+Jurisdictional Assessments (TJA) of the implementation 
+of Holistic Framework supervisory material. This 
+tranche included six major insurance markets, bringing 
+the total to 16 assessed jurisdictions. In parallel, 
+the IAIS conducted its second progress monitoring 
+exercise to report progress in implementing the 
+Governance and operations
+2025 saw a change in our leadership, with Shigeru 
+Ariizumi passing the baton to Toshiyuki Miyoshi as 
+Executive Committee Chair following an impactful 
+two-year term. Shigeru’s dedication and ability to unite 
+diverse perspectives were instrumental in driving some 
+of the Association’s most significant milestones and 
+elevating the relevance of insurance in the global policy 
+agenda.
+In Toshiyuki we have an exceptional leader with 
+seniority, extensive international experience and an 
+impressive track record, who will be a great asset at a 
+time when the interconnections between the insurance 
+sector and other parts of the financial system continue 
+to grow.
+To ensure that the IAIS is well-positioned to deliver 
+on the core objectives outlined in our Strategic 
+Plan and to effectively address our ambitious work 
+programme in the coming years, the Annual General 
+Meeting in 2025 adopted a new committee structure 
+starting from 1 January 2026. These changes involve 
+a redistribution of responsibilities amongst the three 
+climate-risk, NatCat protection gaps, AI, operational 
+resilience, as well as on core supervisory topics such 
+as recovery and resolution, risk-based solvency and 
+market conduct.
+In order to support members in the consistent and 
+effective implementation of the ICS, the IAIS launched 
+several initiatives in 2025. These included providing 
+a technical Q&A process, an ICS technical note, 
+an interactive online tool, trainings and educational 
+materials, and ongoing production of technical 
+parameters such as yield curves.
+Our collaborative efforts with capacity-building 
+partners such as the Access to Insurance Initiative 
+(A2ii), Financial Stability Institute (FSI), Frankfurt 
+School, International Actuarial Association (IAA), 
+and Toronto Centre have continued to yield 
+impressive results. For instance, the A2ii’s Cape 
+Town Declaration on Inclusive Insurance, which 
+aims to support supervisors in integrating inclusive 
+insurance into national financial inclusion strategies 
+and setting actionable objectives, now has over 50 
+jurisdictions aspiring to implement it. And the IAIS, 
+together with the Bank for International Settlements’ 
+Financial Stability Institute (FSI), conducted the 11th 
+edition of the FIRST-ONE programme, covering the 
+fundamentals of insurance regulation and supervision, 
+with a total of 221 participants from 57 institutions 
+across 54 jurisdictions. 
+We’ve also expanded skills and fostered inclusivity 
+through various IAIS-led programmes and events, 
+reaching an additional 700 participants with 10 
+targeted events around the globe.
+Holistic Framework supervisory material by the 10 
+jurisdictions that participated in the first tranche of the 
+TJA in 2022.
+As highlighted in the Chair’s report, we have also made 
+significant progress in laying the groundwork for the 
+assessment of the comprehensive and consistent 
+implementation of the ICS across jurisdictions, starting 
+with a baseline self-assessment by jurisdictions in 
+2026, in preparation for more intensive implementation 
+assessments by the IAIS, with a target date of 2027 
+onwards. 
+Lastly, we have continued to strengthen other 
+elements of our implementation assessment 
+framework, including both support for IAIS members 
+to undertake their own implementation assessments 
+through the Peer Review Process (PRP) and IAIS-led 
+implementation assessments such as the intensive 
+Member Assessment Programme (MAP). In 2025, 80 
+jurisdictions participated in the seventh PRP, which 
+focused on ICP 13 (Reinsurance and other forms of 
+risk transfer) and we published the completed MAP of 
+the Sultanate of Oman.
+IAIS Year in Review 2025
+8
+
+Farewell
+In closing, and in what will be my final Year in Review 
+as my term as Secretary General of the IAIS comes to 
+an end, I take great comfort in knowing that I will be 
+leaving the Association in a position of strength and 
+opportunity. 
+We have established a meaningful and impactful 
+agenda that will undoubtedly continue to guide the 
+way forward. Moreover, the unwavering commitment of 
+our supervisory community has been a cornerstone of 
+our progress, and I am confident that your continued 
+efforts will ensure the Association’s enduring impact 
+and growth. 
+It is the personal interactions and shared journeys that 
+leave the deepest impression. I am thankful for all the 
+wonderful friendships I have formed with the members 
+and stakeholders of this community over my eight or 
+so years as Secretary General and past 17 years of 
+IAIS involvement. I am also immensely proud of the 
+exceptional Secretariat and what we have collectively 
+built: an inclusive, committed, mutually supportive and 
+winning team. 
+Thank you for the support, collaboration and shared 
+achievements that have made this journey so 
+rewarding.
+Jonathan Dixon
+committees, designed to optimise their effectiveness. 
+The committees will adopt new names that better 
+reflect their updated mandates: the Monitoring and 
+Risk Assessment Committee (MRC), the Standards 
+and Supervisory Practices Committee (SSC) and the 
+Implementation Assessment Committee (IAC). 
+We are also steadfast in our commitment to 
+continuous improvement in our operations. Our 
+operational priorities include fostering inclusivity, 
+promoting sustainability, strengthening our 
+engagement with members and stakeholders, and 
+continuing to implement further efficiencies.
+Serving the differing needs of our members lies at 
+the core of the IAIS’ mission as a global membership 
+association. In 2025, we launched a major project to 
+ensure that the work of the IAIS remains impactful, 
+accessible and valuable to our members. We will focus 
+on strengthening inclusion so that a breadth of our 
+members can participate meaningfully by improving 
+access to our deep catalogue of supervisory guidance, 
+enhancing the usability of publications and recordings, 
+and advancing regional engagement and peer learning 
+opportunities.
+The unwavering commitment of our supervisory 
+community has been a cornerstone of our progress, and 
+I am confident that your continued efforts will ensure the 
+Association’s enduring impact and growth.
+IAIS Year in Review 2025
+9
+
+About the IAIS
+The IAIS is a voluntary membership organisation of 
+insurance supervisors from over 200 jurisdictions, 
+constituting 97% of the world’s insurance premiums. 
+The IAIS develops international standards and 
+supports their implementation and assessment, with 
+the aim of promoting effective and globally consistent 
+supervision of the insurance industry to develop and 
+maintain fair, safe and stable insurance markets. 
+In pursuit of its mission, the IAIS identifies, assesses 
+and mitigates systemic risk within the global insurance 
+sector. Additionally, it serves as an international 
+forum for discussing and addressing the challenges 
+and opportunities faced by the insurance sector and 
+insurance supervisors. The Association works closely 
+with other standard setters to support global financial 
+stability while also bringing the insurance supervisory 
+perspective to cross-sectoral issues in alignment with 
+other international bodies. 
+The IAIS has a forward-looking role in identifying 
+key trends and developments that could reshape the 
+business of insurance. This supports IAIS members in 
+addressing emerging risks and challenges in insurance 
+supervision.
+Established in 1994, the IAIS is hosted by the Bank 
+for International Settlements and operates with the 
+support of a Secretariat based in Basel, Switzerland, 
+under the direction of a Secretary General.
+The International Association of Insurance Supervisors 
+is the global standard-setting body for insurance 
+supervision.
+Structure
+To fulfil its mission, the IAIS employs a committee 
+system composed of its members. The Executive 
+Committee (ExCo) is the lead committee, with 40 
+member representatives from all regions of the 
+world, encompassing both advanced and developing 
+economies. The ExCo is responsible for providing 
+strategic direction and managing IAIS affairs as 
+specified in its by-laws. It appoints the Secretary 
+General and takes all essential decisions for advancing 
+the IAIS mission in accordance with the resolutions of 
+the General Meeting of Members (which includes all 
+IAIS members).
+The ExCo is supported by five committees established 
+under the by-laws1:
+• Audit and Risk Committee
+• Budget Committee
+• Implementation Assessment Committee
+• Monitoring and Risk Assessment Committee
+• Standards and Supervisory Practices Committee
+See pages 50-51 for more information on IAIS 
+committees.
+IAIS Executive Committee June 2025
+1 New committee structure as of 1 January 2026.
+IAIS mission
+The IAIS’ mission is to promote effective and 
+globally consistent supervision of the insurance 
+industry to develop and maintain fair, safe and 
+stable insurance markets for the benefit and 
+protection of policyholders and to contribute to  
+the maintenance of global financial stability.
+IAIS Year in Review 2025
+10
+
+Strategy
+The IAIS’ work is guided by its Strategic Plan  
+2025–2029.
+The Strategic Plan articulates the core objectives of 
+the IAIS, identifies a set of strategic themes and sets 
+out the operational priorities. 
+Together, these elements shape the IAIS’ activities 
+over the five years 2025–2029. Under the Strategic 
+Plan, the IAIS will deliver support for its members 
+across the full range of supervisory mandates, 
+including financial stability, policyholder protection, fair 
+treatment of customers, financial inclusion and market 
+development.
+To operationalise its strategy, the IAIS develops an 
+annual work programme, known as the Roadmap. The 
+Roadmap prioritises IAIS projects and activities over a 
+two-year period but undergoes annual adaptations to 
+align with newly identified risks and trends.
+Core objectives
+In the coming period, the IAIS will continue to 
+perform and enhance its dual role as a broad-based, 
+membership-driven association, established to 
+support members in their own efforts to strengthen 
+insurance supervision and as a standard-setting body 
+within the global financial architecture (part of the 
+Basel Process1). 
+The IAIS seeks to perform these roles, and achieve 
+its mission, through a mutually reinforcing cycle of 
+activities, which can be characterised as four core 
+objectives. These core objectives are: 
+1. The IAIS monitors and responds to key risks and 
+trends in the global insurance sector; 
+2. The IAIS sets and maintains globally recognised 
+standards for supervision that are effective and 
+proportionate; 
+3. The IAIS supports its members by sharing good 
+supervisory practices, promoting understanding 
+of supervisory issues and facilitating supervisory 
+capacity building; and 
+4. The IAIS assesses comprehensive and globally 
+consistent implementation of its global standards.
+Monitoring and responding to key risks and trends
+The IAIS assesses market trends and developments 
+in, or relevant to, the global insurance sector and 
+responds to issues that present opportunities, 
+challenges and risks. 
+As a key element of the IAIS’ Holistic Framework, 
+the annual Global Monitoring Exercise (GME) is 
+designed to assess global insurance market trends 
+and developments and to detect the possible build-up 
+of systemic risk in the global insurance sector. This 
+process involves a collective discussion amongst IAIS 
+members on the assessment of potential systemic 
+risks and appropriate supervisory responses at both 
+an individual insurer and a sector-wide level. Outcomes 
+are reported to the Financial Stability Board (FSB). The 
+IAIS also shares GME results with GME participants 
+(insurers and supervisors) and the public in its yearly 
+Global Insurance Market Report (GIMAR) and GIMAR 
+mid-year update.
+1 https://www.bis.org/about/basel_process.htm
+The IAIS has a forward-
+looking role in identifying 
+key trends and 
+developments that could 
+reshape the business of 
+insurance. 
+IAIS Year in Review 2025
+11
+
+Standard setting
+The IAIS develops supervisory principles, standards
+and guidance for the effective supervision of 
+insurance-related activities. Notably, the IAIS has 
+developed the Insurance Core Principles (ICPs) 
+and the Common Framework for the Supervision of 
+Internationally Active Insurance Groups (ComFrame).
+As part of ComFrame, the IAIS developed the first 
+comprehensive global capital standard for insurance 
+supervision, the Insurance Capital Standard (ICS), 
+providing a globally comparable risk-based measure of 
+the capital adequacy of Internationally Active Insurance 
+Groups (IAIGs).
+Integrated into the ICPs and ComFrame is the 
+Holistic Framework-related supervisory material. This 
+encompasses an enhanced set of supervisory policy 
+measures for macroprudential purposes, designed to 
+increase the overall resilience of the insurance sector 
+and help prevent vulnerabilities and exposures from 
+developing into systemic risk.
+Supervisory practices and capacity building
+As the global standard setter for insurance 
+supervision, the IAIS has an essential role in 
+supporting insurance supervisors in implementing 
+its standards and understanding and responding to 
+key risks and trends affecting the global insurance 
+sector and insurance supervision. This is realised by 
+sharing good supervisory practices and facilitating the 
+understanding of supervisory issues through capacity 
+building and information exchange. 
+To this end, the IAIS develops various supporting 
+materials, including Application Papers, Issues Papers 
+and Notes. These materials are developed based on 
+feedback from implementation assessment activities 
+or may address emerging trends and developments in 
+the insurance sector.
+Working closely with implementation partners such as 
+the Access to Insurance Initiative (A2ii), the Financial 
+Stability Institute (FSI), the Toronto Centre and the 
+Frankfurt School, as well as international organisations 
+and regional associations of supervisors, the IAIS 
+supports the organisation of training seminars 
+and conferences. Through cooperation with these 
+organisations, the IAIS extends its geographical reach 
+and bolsters its capacity-building efforts.
+IAIS outputs
+IAIS activities aimed at supporting supervisory 
+practices can be categorised into three main types:
+• Peer exchange and information sharing 
+amongst supervisors:  This includes the 
+facilitation of in-person and virtual events to 
+enable the sharing of experiences amongst 
+supervisors. It also includes the creation and 
+dissemination of member-only reports, which 
+allow for the sharing of practical materials 
+about supervisory challenges and experiences 
+amongst our members in a safe and confidential 
+environment.
+• Notes, reports and summaries:  These are 
+public documents, typically exploratory in nature. 
+They are developed in a relatively short time 
+frame, leveraging inputs from both members 
+and stakeholders, but without a formal public 
+consultation. These materials allow the IAIS to 
+share information with the public in a flexible 
+and agile manner, addressing emerging trends 
+or developments that are relevant to insurance 
+supervision.
+• Official “supporting materials” – Issues and 
+Application Papers: These publications undergo 
+a formal public consultation process. Issues 
+Papers are more exploratory in nature, offering 
+background information on specific topics 
+and detailing current practices, or identifying 
+the regulatory and supervisory issues and 
+challenges related to specific topics. Application 
+Papers provide supporting material related to 
+supervisory content (ICPs or ComFrame). While 
+not introducing new requirements, they offer 
+further advice, illustrations, recommendations 
+or examples of good practice to supervisors on 
+implementing supervisory material.
+IAIS Year in Review 2025
+12
+
+Key strategic themes
+As the global community of insurance supervisors, 
+IAIS members must remain keenly aware of the main 
+trends and developments affecting the insurance 
+sector and the broader financial system, and respond 
+to them with agility and insight. Accordingly, the IAIS 
+has identified key themes that affect the sector and 
+has intensified its efforts to be forward-looking and 
+collaborative in supporting members to adopt effective 
+supervisory responses to these themes. 
+As part of the Strategic Plan 2025–2029, the IAIS has 
+identified three strategic themes for its work: 
+1. Strengthening the supervisory response to climate 
+change;
+2. Adapting to digital innovation and cyber risks; and
+3. Supporting insurance to serve its societal purpose 
+of building resilience.
+These themes are global in nature and cut across the 
+global supervisory community. The IAIS examines 
+them through its monitoring and assessment activities 
+and by promoting robust supervisory practices on 
+how to respond proactively to developments in these 
+areas. Recognising the cross-sectoral nature of these 
+themes, the IAIS coordinates and collaborates with 
+other standard-setting bodies and stakeholders, 
+offering an insurance sector perspective.
+The IAIS also supports a Multilateral Memorandum of 
+Understanding and various forums to facilitate sharing 
+of experiences and practices amongst supervisors, 
+helping them to better understand emerging 
+supervisory issues and proactively tackle supervisory 
+challenges.
+Many of the challenges faced by the insurance sector 
+are also faced by the financial sector more broadly. 
+Therefore, the IAIS continues to strengthen its 
+collaboration with other standard-setting bodies.
+Implementation assessment
+Credible, independent and transparent assessment 
+of the implementation of IAIS supervisory material is 
+critically important to supporting effective and globally 
+consistent supervision.
+The IAIS actively promotes and assesses the 
+observance of its supervisory material through 
+various initiatives, including providing a tool for self-
+assessments, conducting thematic peer reviews and 
+undertaking comprehensive member assessments.
+Additionally, the IAIS supports capacity-building 
+efforts to enable its members to conduct their own 
+assessments effectively.
+Core 
+objectives 
+1 2
+34
+Monitor and 
+respond to key risks 
+and trends
+Support members 
+on supervisory 
+practices and facilitate 
+capacity building
+Assess consistent 
+implementation 
+of global standards
+Set and maintain 
+globally recognised 
+standards
+IAIS Year in Review 2025
+13
+
+IAIS framework of 
+supervisory standards  
+and practices
+The IAIS’ efforts to enhance international standards 
+and practices for the supervision of the global 
+insurance sector have contributed to more advanced 
+risk management and greater resilience in the 
+insurance sector. These comprise three key elements: 
+the ICPs, ComFrame (including the ICS) and the 
+Holistic Framework. The IAIS’ framework serves as the 
+global benchmark for effective insurance supervision 
+and supports the IAIS’ mission of policyholder 
+protection and contributing to the maintenance of 
+global financial stability.
+Insurance Core Principles
+The ICPs provide the globally accepted foundation 
+of standards for the supervision of the insurance 
+sector. Comprising principle statements, standards 
+and guidance, the ICPs aim to foster the maintenance 
+of consistently high supervisory standards in IAIS 
+member jurisdictions.
+ComFrame
+Building upon the ICPs, ComFrame establishes 
+supervisory standards and guidance dedicated to 
+the effective group-wide supervision of IAIGs. This 
+comprehensive and outcome-focused framework 
+facilitates effective group-wide supervision of IAIGs 
+by providing qualitative and quantitative supervisory 
+minimum requirements tailored to the international 
+activity and size of IAIGs. By providing supervisors 
+with a common language for the supervision of 
+IAIGs, ComFrame enhances coordination and helps 
+supervisors address group-wide risks and avoid 
+supervisory gaps.
+Insurance Capital Standard
+The ICS is the quantitative element of ComFrame. 
+It creates a common language for supervisory 
+discussions on group solvency for IAIGs to enhance 
+global convergence amongst group capital standards. 
+The ICS serves as a group-wide prescribed capital 
+requirement, which is a solvency control level below 
+which supervisors will intervene on group capital 
+adequacy grounds. 
+Operational priorities
+To maximise its effectiveness in fulfilling its core 
+objectives and addressing the strategic themes, the 
+IAIS is committed to continuous improvement in how it 
+operates. Through 2025–2029, IAIS operations will be 
+guided by four operational priorities:
+1. Derive strength from our differences, particularly 
+by respecting diversity of thought and prioritising 
+inclusiveness;
+2. Operate sustainably and with sensitivity to our 
+environmental impact;
+3. Strengthen engagement with our members and 
+stakeholders in ways that create benefit for them 
+and for the IAIS; and
+4. Implement efficiencies that enable us to focus on 
+what matters most and yield impact.
+The IAIS anticipates that leveraging technology will 
+be an important enabler to achieve these operational 
+priorities.
+IAIS Year in Review 2025
+14
+
+Holistic Framework 
+The Holistic Framework aims to assess and mitigate 
+the potential build-up of systemic risk in the global 
+insurance sector.
+The Holistic Framework consists of three key pillars:
+• The GME, including a collective discussion on the 
+assessment of risk and supervisory responses;
+• An enhanced set of macroprudential supervisory 
+policy measures and powers of intervention, 
+integrated into the ICPs and ComFrame; and
+• The assessment of the implementation of the 
+Holistic Framework supervisory material.
+Three pillars of the Holistic Framework
+Global Monitoring Exercise
+• Individual insurer monitoring 
+covering ~60 of the largest 
+international insurance groups.
+• Sector-wide monitoring covering 
+over 90% of global written 
+premiums.
+• Collective discussion of 
+identified insurance groups, 
+as well as specific themes 
+identified through the 
+monitoring process, including 
+the supervisory response.
+• Findings are reported to the 
+FSB as well as to the public in 
+the GIMAR.
+Enhanced macroprudential 
+supervisory policy measures
+• A set of supervisory policy 
+measures for macroprudential 
+purposes integrated into the 
+ICPs and ComFrame.
+• ComFrame standards are  
+applicable to IAIGs (60), and 
+other insurers as necessary.
+ - Includes requirements related 
+to liquidity risk management 
+as well as to recovery and 
+resolution, in line with the FSB 
+Key Attributes.
+Robust implementation 
+assessment
+• Baseline assessment: self-
+assessment by 26 jurisdictions,  
+including all FSB jurisdictions.
+• Targeted Jurisdictional 
+Assessments: onsite 
+assessment of 16 major 
+insurance markets. 
+• Progress monitoring: review 
+of the progress reported by 
+jurisdictions participating in 
+the TJA to address the gaps 
+observed.
+The FSB uses the Holistic Framework as a basis for 
+assessing and mitigating systemic risk in the insurance 
+sector.
+The Financial Stability 
+Board uses the IAIS  
+Holistic Framework as a 
+basis for assessing and 
+mitigating systemic risk in 
+the insurance sector.
+IAIS Year in Review 2025
+15
+
+IAIS 2025 in numbers
+Welcomed
+New IAIS members1 3New signatory to the MMoU
+Spanish Insurance and Pension Funds Authority, 
+the Dirección General de Seguros y Fondos de 
+Pensiones
+• El Salvador – Superintendencia del  
+Sistema Financiero
+• French Polynesia – French Polynesia 
+Presidency
+• Pakistan – Securities and Exchange 
+Commission of Pakistan
+Published
+Supervisory practices
+• Application Paper on the supervision of 
+artificial intelligence
+• Application Paper on the supervision of 
+climate-related risks in the insurance sector
+• Application Paper on fair treatment of a wide 
+range of consumers
+• Guidance on transitioning to a risk-based 
+solvency regime
+• G20 input paper on natural catastrophe 
+protection gaps
+Implementation assessments
+• High-level principles for the development of the 
+ICS implementation assessment methodology
+• Member Assessment Programme report for 
+Sultanate of Oman
+2
+5Financial stability
+• Ancillary risk indicators in the Global 
+Monitoring Exercise
+• GIMAR 2025 mid-year update
+• GIMAR 2025
+• GIMAR 2025 special topic edition – potential 
+financial stability implications from natural 
+catastrophe insurance protection gaps
+• Global Monitoring Exercise document
+• Issues Paper on structural shifts in the life 
+insurance sector
+6
+Launched
+Member-only surveys 
+Public consultations6
+7 Member Assessment Programme 
+• Costa Rica1
+Peer Review Process
+• ICP 131
+IAIS Year in Review 2025
+16
+
+Engaged
+Stakeholder workshops and webinars 
+attendees/viewers
+Global Seminar virtual attendees 
+Supervisors from >100 jurisdictions 
+attended IAIS regional events
+AGM/Annual Conference participants 
+from >110 jurisdictions 
+(Tirana, Albania)
+Stakeholder interactions
+Jurisdictions participated in the  
+Peer Review Process on ICP 13 
+(Reinsurance and other forms of risk transfer)
+Jurisdictions participated in the 2025  
+Global Monitoring Exercise 
+Insurers participated in the 2025  
+Global Monitoring Exercise 
+Stakeholder workshops and webinars
+Chief Risk Officer Roundtable
+Global Monitoring Exercise Roundtable  
+with the Macroprudential Committee
+Chief Economists Roundtable
+>3,500
+>1,000
+>650
+>500
+112
+80
+57
+17
+1st
+6th
+58
+2nd
+Communicated
+LinkedIn impressions 
+(+7% from 2024)
+LinkedIn followers  
+(+22% from 2024)
+Newsletter subscribers  
+News alerts and press releases
+Public videos
+Newsletters
+~480K
+11,870
+4,218
+46
+10
+32
+Partnered
+Supervisors from 57 member organisations 
+joined the FSI-IAIS FIRST-ONE programme
+Regional training seminars
+IAIS-FSI High-level meetings 
+(co-organised with ASSAL, AFIR and NFRA)
+IAIS-A2ii supervisory dialogue
+221
+6
+4
+1
+IAIS Year in Review 2025
+17
+
+Monitoring and 
+responding to key  
+risks and trends
+2025 was a milestone year for the IAIS’ work relating 
+to monitoring and responding to key risks and trends, 
+marked by three key achievements.
+The IAIS finalised its three-year review of its Global 
+Monitoring Exercise (GME), which is a data-driven 
+framework to assess key risks and trends and the 
+potential build-up of systemic risk in the insurance 
+sector. Aligned with this timeline, in November 2025 
+the Financial Stability Board (FSB) completed its three-
+year review of its experience with utilising the IAIS’ 
+Holistic Framework for the assessment and mitigation 
+of systemic risk in the insurance sector (Holistic 
+Framework), reaffirming its decision that it will continue  
+to use the IAIS’ Holistic Framework assessments for 
+the purposes of its evaluation of systemic risk in the 
+insurance sector instead of an annual identification of 
+global systemically important insurers. 
+Additionally, the IAIS published both its annual Global 
+Insurance Market Report (GIMAR) and a GIMAR 
+special topic edition on the potential financial stability 
+implication of natural catastrophe (NatCat) protection 
+gaps, underscoring the critical role of insurance in 
+mitigating economic and societal impacts of NatCat 
+events.
+Finally IAIS published its Issues Paper on structural 
+shifts in the life insurance sector, focused on insurers’ 
+growing investment allocations to alternative assets 
+and the increased use of cross-border asset-intensive 
+insurance. The Issues Paper outlines the global 
+supervisory perspective on drivers, risks, measures 
+and next steps on these trends.
+Advances with the Global 
+Monitoring Exercise
+The purpose of the annual GME is to assess global 
+insurance market risks and trends and detect any 
+build-up of systemic risk in the insurance sector. It 
+builds on data collected from close to 60 of the largest 
+international insurance groups and aggregate sector-
+wide data from supervisors across the globe, covering 
+over 90% of global written premiums. Forward-looking 
+qualitative input from insurers and supervisors, 
+insights from stakeholder engagement and recent 
+financial market data are integral to the GME process, 
+a key pillar of the Holistic Framework. 
+In 2025, the IAIS continued to advance the GME, 
+including through an updated systemic risk 
+assessment methodology and new set of ancillary 
+indicators.
+Effectively monitoring and responding to key risks and 
+trends in the global insurance sector is core to the IAIS’ 
+mission to protect policyholders and contribute to global 
+financial stability.
+Macroprudential Monitoring Working Group meeting, Chicago, USA, April 2025
+IAIS Year in Review 2025
+18
+
+Updated Global Monitoring Exercise methodology
+An updated GME document was published in 
+November, reflecting the outcome of the review of 
+the Individual Insurer Monitoring (IIM) assessment 
+methodology. The updated GME methodology 
+is effective starting 2026. The IIM assessment 
+methodology calculates a total score for each of the 
+approximately 60 IIM participating insurers. This score 
+provides an indication of the extent of the possible 
+build-up of systemic risk in the individual insurer. 
+Changes have been made to include updates to the 
+insurer pool selection criteria, amendments to the 
+definition of the Level 3 assets indicator to make it less 
+accounting sensitive, simplification of certain indicator 
+calculations, and updating the indicator denominators 
+and weights.
+Finalised set of ancillary indicators
+The ancillary risk indicators in the GME document 
+introduced a further set of risk indicators on credit risk, 
+derivatives and reinsurance to aid the IAIS assessment 
+of potential systemic risk in the global insurance 
+sector. Additionally, some amendments to the liquidity 
+metrics were introduced. These ancillary indicators do 
+not impact the total systemic risk scores of individual 
+insurers but provide additional context that can inform 
+the overall assessment of systemic risk.
+The FSB reaffirms its decision to use the Holistic 
+Framework
+In line with the GME assessment methodology review 
+timeline, following a further three-year review, in 
+November 2025 the FSB reconfirmed its 2022 decision 
+that the Holistic Framework provides a more effective 
+basis for assessing and mitigating systemic risk in 
+the insurance sector than the annual identification of 
+global systemically important insurers. Going forward, 
+the IAIS will continue to support the FSB’s evaluation 
+of systemic risk in the insurance sector by providing 
+annual reports on the outcomes of its GME and on the 
+implementation of the Holistic Framework supervisory 
+material by its members.
+Jurisdictions that participated in the sector-wide monitoring data collection
+IAIS Year in Review 2025
+19
+
+leading to greater uncertainty in asset valuations 
+and more complex asset-liability management for 
+internationally active insurance groups. Supervisors 
+globally are responding by strengthening scenario 
+analysis, data collection and fostering cross-border 
+supervisory coordination.
+Private credit: heightened supervisory focus
+The GIMAR’s dedicated chapter on private credit 
+highlights its growing significance in life insurers’ 
+investment strategies. Although aggregate exposures 
+remain moderate, the report notes the rapid growth of 
+private credit allocations across several jurisdictions. 
+This asset class offers advantages such as liability-
+matching benefits and illiquidity premiums; however, 
+it also presents distinct risks, including valuation 
+uncertainty, liquidity challenges, borrower credit 
+quality concerns and structural complexity. The 
+GIMAR links these findings to the Issues Paper on 
+structural shifts in the life insurance sector, outlined on 
+the next page.
+Adoption and governance of AI:  
+opportunities and risks 
+The use of AI and generative AI is expanding in 
+underwriting, pricing and claims management. 
+Although insurers report significant operational 
+benefits, the GIMAR also highlights supervisory 
+concerns regarding model governance and 
+transparency, cyber and operational risks, potential for 
+data bias and third-party concentration risks.
+Global Insurance Market 
+Report 2025 
+The IAIS published its annual GIMAR , highlighting 
+the outcomes of the GME and supervisory collective 
+discussion. The GIMAR includes an overview of 
+global insurance market developments in the past 
+year in terms of macro-financial developments, 
+assets, liabilities, solvency, profitability and liquidity, 
+key sector-wide themes identified in the insurance 
+sector, aggregate results from the IIM, climate-related 
+risks in the insurance sector and findings from the 
+global reinsurance market analysis. The GIMAR 2025 
+underscores the resilience of the global insurance 
+sector, supported by strong solvency, liquidity and 
+profitability, alongside a slight decline in aggregate 
+systemic risk.
+Key sector-wide themes in supervisory focus of the 
+2025 GME include: 
+1. The impact of geoeconomic fragmentation on 
+insurers’ management of assets and liabilities;
+2. Insurers’ increasing investments in private credit; 
+and
+3. Insurers’ adoption and governance of artificial 
+intelligence (AI).
+Geoeconomic fragmentation: impacting insurers’ 
+management of assets and liabilities
+The 2025 GIMAR highlights that trade tensions, 
+sanctions, divergent monetary policies and market 
+fragmentation are contributing to financial market 
+volatility, affecting currencies and interest rates, and 
+The GIMAR’s dedicated chapter on private credit 
+highlights its growing significance in life insurers’ 
+investment strategies.
+IAIS Year in Review 2025
+20
+
+In November 2025 and following public consultation, 
+the IAIS published its Issues Paper on structural shifts 
+in the life insurance sector, outlining a comprehensive 
+supervisory analysis and agreeing on a path forward to 
+respond to potential risks arising from the increasing 
+allocation to alternative assets and adoption of 
+cross-border asset-intensive reinsurance (AIR) by life 
+insurers. 
+The paper highlights key supervisory focus areas 
+related to these structural shifts and provides a 
+framework to assist supervisors and insurers in 
+assessing potential financial stability implications. 
+A globally agreed, principles-based classification of 
+alternative assets is introduced to help supervisors 
+and insurers assess and address risks associated 
+with valuation uncertainty, illiquidity and complexity. 
+Furthermore, the paper outlines supervisory concerns 
+regarding AIR transactions, including their inherent 
+complexity, recapture risk, concentration risk and the 
+potential exploitation of cross-jurisdictional differences 
+in reserve valuation, capital requirements and 
+investment flexibility. 
+To address the risks emerging from these trends, the 
+IAIS will undertake enhanced monitoring, explore in-
+depth systemic risk analysis and develop supervisory 
+guidance.
+Issues Paper on structural 
+shifts in the life insurance 
+sector
+GIMAR special topic edition 
+on natural catastrophe 
+protection gaps
+In addition to the regular GIMAR, the IAIS published 
+a special topic edition of the GIMAR, which 
+examines the financial stability implications of natural 
+catastrophe (NatCat) protection gaps. 
+The report highlights that significant portions of 
+economic losses remain uninsured – particularly in 
+emerging markets and developing economy (EMDE) 
+jurisdictions – potentially exposing economies to 
+greater risks and challenging financial systems.  
+Drawing on six case studies, the report highlights how 
+uninsured losses can strain public resources, disrupt 
+economic stability and create systemic risks. 
+Findings underscore the critical role of insurance in 
+mitigating economic and societal impacts of NatCat 
+events and highlight the need for proactive measures 
+to mitigate these spillovers into sectors such as 
+banking, real estate and government finances.
+The Issues Paper highlights 
+key supervisory focus areas
+related to structural shifts 
+in the life insurance sector 
+and provides a framework 
+to assist supervisors and 
+insurers in assessing 
+potential financial stability 
+implications.
+IAIS Year in Review 2025
+21
+
+Setting and 
+maintaining globally 
+recognised standards
+As the global standard-setting body for insurance 
+supervision, the IAIS develops standards for the effective 
+supervision of the insurance sector worldwide.
+Following an intensive standard-setting phase, 
+the IAIS’ focus has now shifted from setting new 
+standards to the ongoing maintenance and refinement 
+of the global standards, and a greater emphasis on 
+supporting comprehensive and globally consistent 
+implementation of the standards (see the chapter on 
+Supervisory practices and capacity building ).
+The primary objective of the Insurance Capital 
+Standard (ICS) is to provide a common language 
+for supervisory discussions on the group solvency 
+of Internationally Active Insurance Groups (IAIGs), 
+thereby fostering global convergence in group capital 
+standards.
+ICS supervisory reporting 
+and public disclosure 
+requirements
+The Insurance Core Principles  (ICPs) form the 
+globally accepted framework for supervision of the 
+insurance sector, with 24 ICPs covering a broad range 
+of areas including governance, risk management, 
+solvency, conduct of business and macroprudential 
+supervision. 
+The Common Framework for the Supervision of 
+Internationally Active Insurance Groups (IAIGs), 
+or ComFrame, builds upon the ICPs to establish 
+supervisory standards and guidance specifically 
+focused on the effective group-wide supervision 
+of IAIGs. ComFrame provides both qualitative and 
+quantitative supervisory requirements tailored to the 
+international activities and size of IAIGs, which are 
+large insurance groups with significant international 
+presence. At end-2025, 61 IAIGs have been identified 
+by relevant group-wide supervisors from 19 
+jurisdictions. 
+The ICPs were first adopted in 2011 and have been 
+regularly updated since. The last update to the ICPs 
+was in December 2024. ComFrame was first adopted 
+in 2019, with the quantitative element (the Insurance 
+Capital Standard) adopted in December 2024 as a 
+globally comparable risk-based measure of capital 
+adequacy for IAIGs.
+Following the adoption of the ICS in 2024, in 2025 the 
+IAIS developed specific supervisory reporting and 
+public disclosure requirements related to the ICS. 
+These ComFrame requirements will be integrated 
+into Insurance Core Principle (ICP) 9 (Supervisory 
+reporting) and ICP 20 (Public disclosure).
+In November 2025, the IAIS initiated a public 
+consultation to collect feedback on the proposed 
+revisions. Based on the outcomes of this consultation, 
+the IAIS is expected to adopt the ICS supervisory 
+reporting and public disclosure requirements by the 
+end of 2026.
+IAIS Year in Review 2025
+22
+
+Supporting supervisory 
+practices and capacity 
+building
+The IAIS plays a crucial role in supporting its members 
+to implement global standards for insurance supervision 
+and respond to emerging risks and trends.
+To achieve this, the IAIS develops tailored supporting 
+materials that provide guidance on how to implement 
+IAIS standards in light of specific risks and topics, and 
+fosters a deeper understanding of supervisory issues 
+through information exchange. Throughout 2025, the 
+IAIS made progress on more than 10 reports, papers, 
+letters and notes across various subject areas. 
+Additionally, the IAIS works to promote cooperation 
+and information exchange amongst insurance 
+supervisors and facilitates supervisory capacity-
+building initiatives to address gaps and challenges in 
+members’ implementation of IAIS standards and to 
+encourage good supervisory practices.
+Accounting and Auditing Working Group meeting, Warsaw, Poland, 
+September 2025
+Accounting and auditing 
+The IAIS monitors accounting, auditing and financial 
+reporting developments affecting insurers. 
+The implementation of International Financial 
+Reporting Standards (IFRS) 17 (Insurance contracts) 
+was a priority in 2025, with the IAIS collaborating with 
+the Global Public Policy Committee Insurance Working 
+Group to assess readiness, address challenges and 
+share best practices. The IAIS also facilitated training 
+and capacity-building activities, including moderating 
+an IFRS 17 session during the FSI-IAIS-International 
+Monetary Fund (IMF) Policy Implementation Meeting, 
+focusing on EMDE jurisdictions. 
+During the year, two stakeholder webinars provided 
+updates and sought feedback on key accounting 
+and auditing issues, emphasising consistency, 
+transparency and practicality in financial reporting. 
+Supervisory practices areas
+IAIS-developed supporting 
+materials provide guidance 
+on how to implement 
+IAIS standards in light of 
+specific risks and topics.
+IAIS Year in Review 2025
+23
+
+Climate risk
+In their role both as underwriters and investors, 
+insurers’ business models are particularly impacted by 
+climate change. The IAIS is committed to advancing 
+work to address associated risks. 
+In 2025, the IAIS published an Application Paper on 
+the supervision of climate-related risks in the insurance 
+sector, to replace a previous paper from 2021. The 
+new paper was developed over a two-year period 
+involving four consultations and extensive member 
+and stakeholder engagement. With a scope of 11 of 
+the ICPs, it comprehensively supports supervisors in 
+effectively integrating climate-related risk into their 
+supervisory practices.
+The Application Paper outlines good practices and 
+guidance for supervisors in several areas, including:
+• The role of supervisors in assessing climate-related 
+risks;
+• Integration of climate-related risk into supervisory 
+frameworks with respect to corporate governance, 
+risk management and internal controls;
+• The impact of climate-related risk on valuation and 
+investment practices;
+• Supervisory reporting, public disclosure and 
+macroprudential supervision of climate-related 
+risks;
+• Group supervisory issues;
+• The role of climate-related risk scenario analysis; 
+and 
+• Considerations for the impact of climate-related risk 
+on market conduct.
+The IAIS also assists supervisors with practical tools, 
+and in 2025 began developing two member-only 
+resources that will be published on the IAIS member 
+extranet in Q2 2026. The first is on climate metrics, 
+aiming to complement the sections in the Application 
+Paper on the supervision of climate-related risks on 
+supervisory reporting and public disclosures. The 
+material will include supervisory reporting template 
+examples and a list of metrics. The second is an 
+exploratory report on how climate change is being 
+reflected in the natural catastrophe (NatCat) models 
+used by the insurance industry.
+Artificial intelligence  
+The adoption of artificial intelligence (AI) systems is 
+rapidly accelerating worldwide and is anticipated to 
+have a profound impact across various sectors of the 
+economy, including the insurance sector. 
+In 2025, the IAIS published an Application Paper 
+on the supervision of AI, providing comprehensive 
+guidance on the supervision of AI systems in the 
+insurance sector. The paper focuses on both 
+consumer protection and prudential soundness, 
+addressing five key areas: (i) risk-based supervision 
+and proportionality; (ii) governance and accountability; 
+(iii) robustness, safety and security; (iv) transparency 
+and explainability; and (v) fairness, ethics and redress.
+To complement the Application Paper, a member-only 
+supervisory question bank is under development, 
+which will be a practical tool to assist IAIS members 
+in engaging with insurers on their AI use cases. 
+It is designed to help supervisors enquire about 
+the governance and risk management practices 
+insurers are adopting for AI systems. The resource 
+will be shared with members in Q1 2026, followed by 
+member-only webinars to provide further support and 
+insights.
+To foster dialogue and knowledge exchange on 
+AI-related issues in the insurance sector, the IAIS’ 
+FinTech Forum received insurer, industry association 
+and international organisation guest speakers at its 
+meetings throughout 2025.
+FinTech Forum, Amsterdam, Netherlands, October 2025 
+IAIS Year in Review 2025
+24
+
+Financial crime  
+The IAIS, through its Financial Crime Forum, provides a 
+platform for experts to exchange insights and discuss 
+developments in areas of financial crime, including 
+combatting money laundering, terrorist financing, 
+proliferation financing and fraud in insurance. 
+In 2025, the forum facilitated discussions on sectoral 
+risk assessments, anti-money laundering (AML) and 
+combatting the financing of terrorism (CFT) controls, 
+on-site inspections, and unregulated third-party 
+misrepresentation application fraud (also referred to 
+as “ghost broking”). The forum also enabled member 
+exchange on financial crime developments in their 
+jurisdictions and updates on recent activities of 
+the Financial Action Task Force, which is the inter-
+governmental body that sets international standards 
+for AML and CFT. 
+Financial inclusion 
+Financial inclusion remains a central focus for the 
+IAIS and its members, as inclusive insurance markets 
+are critical for societal resilience. The IAIS’ Financial 
+Inclusion Forum (FIF) serves as a platform to advance 
+inclusive insurance initiatives.
+In 2025, the FIF hosted peer exchange sessions that 
+addressed four key aspects of inclusive insurance: 
+(i) inclusive insurance and financial health; (ii) data 
+collection and analysis for inclusive insurance; (iii) 
+digital innovation in inclusive insurance; and (iv) 
+financial literacy, risk prevention and reduction. 
+Market Conduct Working Group meeting, Basel, Switzerland,  
+December 2025
+Fair treatment of customers 
+The expectation that insurers and intermediaries 
+treat customers fairly is the cornerstone of conduct 
+supervision and contributes to insurance serving its 
+societal purpose of building resilience.
+In 2025, the IAIS published an Application Paper on the 
+fair treatment of a wide range of consumers . The paper 
+focuses on the critical role that insurers, intermediaries 
+and supervisors all play through implementation of 
+ICP 19 (Conduct of business) to remove barriers and 
+ensure that a wide range of consumers, not only 
+those who fit within a more normative or mainstream 
+customer profile, have access to the insurance 
+products they need to protect themselves and are 
+treated fairly in their interactions with the insurance 
+sector throughout the product lifecycle.
+Through 2025, the IAIS again engaged with consumer 
+representatives to strengthen the consumer voice in 
+the IAIS’ work across various topics. The engagement 
+between the IAIS’ Market Conduct Working Group and 
+consumer representatives had a particular focus on 
+claims handling. 
+The IAIS also held a widely attended member-only 
+webinar focused on the critical role of conduct 
+supervision in fostering trust, fairness and resilience 
+in the insurance sector, and the interplay between 
+conduct and prudential supervision. The webinar also 
+highlighted threats and opportunities to protecting 
+consumers’ interests arising from climate change, 
+digital innovation and cyber risk.
+Joint FIF-MCWG meeting, San Jose, Costa Rica, April 2025
+IAIS Year in Review 2025
+25
+
+including with respect to understanding the insurer’s 
+perspectives and practices on its contribution to the 
+broader societal purpose of insurance.
+NatCat protection gaps  
+Addressing NatCat protection gaps presents a 
+broad societal challenge that requires a coordinated 
+response from a wide range of parties. 
+In 2025, the IAIS continued to progress its agenda 
+of supporting supervisors in addressing NatCat 
+insurance protection gaps. In collaboration with the 
+World Bank, the IAIS delivered an Input Paper to the 
+G20 Sustainable Finance Working Group. The paper 
+serves as a “guide for action” to help jurisdictions 
+narrow NatCat insurance protection gaps, and it 
+outlines practical and implementable actions that 
+governments, supervisors and the insurance industry 
+can take, with a particular focus on EMDEs. 
+Additionally, the IAIS published a special topic edition 
+of the Global Insurance Market Report (GIMAR) , which 
+examines the financial stability implications of NatCat 
+protection gaps. The report highlights how uninsured 
+losses can strain public resources, disrupt economic 
+stability and create systemic risks. It underscored 
+the need for proactive measures to mitigate these 
+spillovers into sectors such as banking, real estate and 
+government finances. 
+G20, IAIS and World Bank Group side event on “Addressing the natural 
+catastrophe insurance protection gap: a multi-stakeholder approach”,  
+during the G20 Finance Ministers and Central Bank Governors meetings, 
+Durban, South Africa, July 2025
+Governance Working Group meeting, Sydney, Australia, March 2025
+The IAIS is also updating the Application Paper on 
+regulation and supervision supporting inclusive 
+insurance markets to reflect developments since its 
+original publication in 2012. The revised paper will 
+emphasise the vital role of inclusive insurance in 
+enhancing financial health and societal resilience, and 
+consultation will be launched in 2026.
+To enhance discussions and incorporate diverse 
+perspectives, the IAIS has strengthened its 
+collaboration with other organisations, including 
+through the enhanced cooperation arrangements on 
+financial inclusion with other standard setting bodies 
+and financial inclusion organisations such as the Office 
+of the United Nations Secretary General’s Special 
+Advocate for Financial Health, the Global Partnership 
+for Financial Inclusion and CGAP.
+Governance
+The ICPs refer to the need for insurers to have a 
+corporate governance framework, including with 
+effective systems of risk management and internal 
+controls, that provides for sound and prudent business 
+management and oversight, and which protect 
+policyholder interests. 
+To support this, in 2025 work commenced to develop 
+a member-only resource for supervisors with practical 
+ideas and guidance for having effective interactions 
+with insurers’ boards and senior management on 
+their corporate governance and risk management, 
+IAIS Year in Review 2025
+26
+
+The papers are updated versions of the existing 
+Application Papers, reflecting the updated standards 
+in the ICPs and ComFrame related to recovery 
+and resolution in ICP 12 (Exit from the market and 
+resolution) and ICP 16.15 (Recovery planning), 
+including their related ComFrame material, which 
+were adopted in December 2024. The revisions to 
+the papers provide further guidance on the updated 
+ICPs and ComFrame standards, as well as insights 
+into more recent practices and examples to support 
+their application. Following the consultation, the final 
+versions of the papers are planned to be published in 
+Q3 2026.
+Retirement income and pension 
+Insurers have an important role to play in supporting 
+societies as they age and face challenges in funding 
+retirement. The Retirement Income and Pensions 
+Forum (RIPF) provides a platform for discussion on 
+retirement income and pension supervision issues. The 
+RIPF works closely with the International Organisation 
+of Pensions Supervisors and engages with experts 
+and other international organisations on these issues. 
+In 2025 the forum discussed the following topics: 
+• Pension advice, as an input to the Organisation for 
+Economic Co-operation and Development’s (OECD) 
+work on this topic. Discussions considered the 
+different regulatory frameworks adopted and the 
+difficulties of securing access to advice; 
+• A presentation from the IMF on its report on 
+pensions and financial stability, and developments 
+in the long-term care insurance market; and 
+• Longevity trends, pension adequacy and work to 
+assess pension value for money. 
+Operational Resilience Working Group meeting, Washington DC, March 2025
+Operational resilience  
+As insurers’ operations become more complex, 
+interconnected and dependent on technology and 
+third-party service providers, the likelihood and impact 
+of operational disruptions and the importance of 
+operational resilience have increased. 
+In 2025, the IAIS continued with the development 
+of an Application Paper on operational resilience 
+objectives and toolkit. The paper consists of the 
+operational resilience objectives (the objectives) and 
+the supporting practices and tools (the toolkit). The 
+objectives provide an outcomes-based articulation 
+of the application of ICPs in light of developments 
+in operational resilience, while the toolkit provides a 
+selection of practices that could be used to achieve 
+(or work towards achieving) the objectives. The draft 
+paper was consulted upon from July–September 2025, 
+and the final paper will be published in Q1 2026. 
+During the year, the IAIS also engaged with 
+stakeholders on issues including critical services, 
+third-party and cyber risks, and incident reporting.
+Recovery and resolution  
+Recovery and resolution frameworks are essential 
+in mitigating the risk of disorderly failures of insurers 
+and minimising the potential adverse impacts on 
+policyholders and financial stability. In November 2025, 
+the IAIS launched a public consultation on two draft 
+revised Application Papers on recovery and resolution:
+• Draft revised Application Paper on resolution 
+powers, preparation and plans; and
+• Draft revised Application Paper on recovery 
+planning.
+IAIS Year in Review 2025
+27
+
+insights gathered through engagements with members 
+and external experts. The resource is scheduled for 
+publication in Q1 2026, with follow-up member-only 
+webinars planned for later in the year.
+Value for money 
+Insurance that is affordable, accessible and meets 
+customers’ needs through its product design and 
+servicing is a foundation of the insurance sector 
+serving its societal purpose of building resilience. 
+In 2025, the IAIS began work to facilitate 
+understanding of issues related to customers receiving 
+value from insurance products. An Issues Paper is 
+being developed with insights on product design or 
+governance aspects that may diminish value, and, 
+on the other hand, that may provide opportunity to 
+reinforce the delivery of good value to customers. 
+The paper will present examples of actions taken in 
+various jurisdictions to address low-value products 
+and improve consumer outcomes. Public consultation 
+is planned for Q2 2026.
+The consumer representatives participating in the IAIS 
+consumer engagement programme provided insights 
+on the topic of value, and the Annual Conference 
+roundtable session on keeping insurance affordable 
+and valued by customers yielded insights from a wide 
+range of stakeholders and members.
+Risk-based solvency 
+A risk-based solvency (RBS) regime is a structured 
+approach, both quantitative and qualitative, supported 
+by a robust corporate governance framework, that 
+ensures insurers maintain adequate capital in line 
+with their risk profiles. The Risk-based Solvency 
+Implementation Forum (RBSIF) is focused on 
+advancing the transition to RBS regimes, particularly in 
+EMDE jurisdictions.
+In June 2025, the IAIS released a public version of 
+its Guidance on transitioning to an RBS regime. The 
+Guidance, developed in cooperation with the IMF, 
+provides insights into the design and implementation 
+of an RBS regime. The IAIS is now developing two 
+thematic notes: one on how to build an RBS regime 
+using an insurer’s Own Risk and Solvency Assessment 
+(ORSA) as a basis, and the other on implications of 
+IFRS 17 for implementing RBS. Both member-only 
+and public versions of the notes are expected to be 
+published in the first half of 2026.
+In 2025, the IAIS also continued facilitating peer 
+exchange on:
+• Members’ plans to update and revise solvency 
+regimes and requirements;
+• Approaches to implementing the ORSA; and 
+• Members’ experiences in implementing IFRS 17. 
+SupTech 
+Supervisory technology (SupTech) offers significant 
+benefits for enhancing the effectiveness and efficiency 
+of insurance supervision. 
+In early 2025, nearly 80 IAIS members completed a 
+survey about their use of SupTech initiatives in key 
+areas such as data gathering, analysis and automation. 
+Building upon the survey insights, in October 2025 a 
+SupTech workshop was held that focused on critical 
+areas including change management, real-time 
+reporting, receiving supervisory reports and analysing 
+supervisory data. The workshop provided an in-
+depth overview of use cases from diverse member 
+jurisdictions, illustrating their benefits, challenges and 
+approaches to risk management.
+To further support IAIS members in leveraging 
+SupTech, the IAIS is developing a member-only 
+report, showcasing examples of SupTech use cases 
+and lessons learnt, and sharing emerging issues and 
+IAIS forums
+IAIS forums are intended to provide an ongoing 
+and flexible platform for technical experts to share 
+insights and explore developments in various areas 
+relevant to insurance supervision and regulation. 
+These forums cover a spectrum of topics, including 
+supervisory practices, cross-cutting issues and 
+emerging trends.
+Presently, the IAIS has six forums:
+• Financial Crime Forum
+• Financial Inclusion Forum
+• FinTech Forum
+• Retirement Income and Pensions Forum
+• Risk-based Solvency Implementation Forum
+• Supervisory Forum
+IAIS Year in Review 2025
+28
+
+signatories and introduce new IAIS members to the 
+MMoU accession process. In 2025, the outreach 
+efforts were focused on sub-Saharan Africa and the 
+Asia region, aiming to enhance awareness and foster 
+a better understanding of the MMoU and its benefits. 
+These efforts reflect the IAIS’ ongoing commitment 
+to strengthening global supervisory cooperation and 
+information exchange.
+Supervisory Forum 
+The IAIS’ Supervisory Forum (SF) serves as a platform 
+for senior supervisors to exchange information on 
+evolving risks, as well as practices and approaches 
+to addressing supervisory challenges. Across six 
+meetings in 2025, the SF facilitated knowledge 
+exchange on a wide range of topics, including those 
+discussed in this chapter, such as NatCat protection 
+gaps, pension reforms, operational resilience and 
+cyber risks, and other priority topics for insurance 
+supervisors. These additional topics included the 
+supervision of captives, environmental, social and 
+governance investing, reserving practices and stress 
+testing for liability management. 
+Throughout the year, the SF’s activities demonstrated 
+its commitment to fostering collaboration through open 
+dialogue, providing members with valuable insights 
+and practical tools to navigate supervisory challenges 
+in the insurance sector.
+807676737165625644403421146
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Growth of IAIS MMoU signatories by year
+85 86
+2023 2024
+87
+2025
+Supervisory cooperation 
+and information exchange
+MMoU 
+The IAIS Multilateral Memorandum of Understanding 
+(MMoU) serves as a global framework for cooperation 
+and information exchange among insurance 
+supervisors. 
+Prospective signatories undergo a rigorous 
+assessment of their confidentiality regimes against 
+ICP 3 (Information sharing and confidentiality 
+requirements), with the validation and approval 
+process managed by the Signatories Working Group 
+(SWG). This ensures that, upon accession, each 
+signatory can rely on the mutual adherence to a 
+strict confidentiality framework without the need for 
+individual verification.
+The IAIS remains committed to expanding the number 
+of MMoU signatories. In 2025, the Spanish Insurance 
+and Pension Funds Authority (Dirección General de 
+Seguros y Fondos de Pensiones) joined as a new 
+signatory. By the end of 2025, the MMoU had 87 
+signatories across all regions, collectively representing 
+over three-quarters of global gross written premiums.
+In addition, the IAIS has pursued outreach initiatives 
+through regional platforms to encourage potential 
+IAIS Year in Review 2025
+29
+
+FIRST-ONE Course 
+The FSI-IAIS Insurance Regulatory and Supervisory 
+Training Online Course (FIRST-ONE) is designed 
+to provide a foundational understanding of 
+insurance supervision for entry-level or experienced 
+professionals who are new to insurance supervision. 
+The 11th edition of the FIRST-ONE programme was 
+conducted between August and November 2025. 
+This online course uses a combination of FSI Connect 
+online tutorials and webinars to cover various topics. 
+A total of 221 participants from 57 institutions across 
+54 jurisdictions benefited from the programme, 
+completing over 12 hours of tutorials and five one-
+hour live webinars with experts, focusing on the IAIS’ 
+supervisory material and emerging risks and trends 
+related to core insurance supervisory topics.
+Furthermore, the IAIS contributed to the development 
+of insurance content on the supervisors-only 
+e-learning platform FSI Connect, the BIS e-learning 
+platform. In 2025, this content included tutorials on:
+• The implementation of RBS regimes;
+• ICS based on the standards adopted in December 
+2024;
+• The supervision of AI in the insurance sector, based 
+on the related Application Paper; and 
+• IFRS 17. 
+Capacity building
+Capacity building is a cornerstone of the IAIS' 
+enhanced strategic focus on implementation of its 
+supervisory material, aimed at supporting its members 
+in understanding supervisory issues, addressing gaps 
+and challenges in implementing IAIS standards and 
+promoting good supervisory practices.
+In 2025, the IAIS collaborated with key implementation 
+partners, including the Access to Insurance Initiative 
+(A2ii), the Bank for International Settlements’ Financial 
+Stability Institute (FSI), the Frankfurt School, the 
+International Actuarial Association (IAA) and the 
+Toronto Centre, as well as international organisations 
+such as the IMF and regional groups like associations 
+of supervisors, to deliver capacity-building 
+programmes to its diverse and global membership.
+These efforts benefited over 1,000 supervisors 
+globally, with a focus on EMDE jurisdictions. 
+Key topics included core supervisory issues, 
+such as implementing RBS regimes and market 
+conduct supervision, as well as fostering a deeper 
+understanding of emerging risks and trends, notably 
+on climate-related risks and IFRS 17. 
+To further strengthen capacity building, the IAIS hosted 
+webinars on transitioning to RBS regimes, market 
+conduct supervision and other emerging trends, with 
+audience feedback from these sessions informing 
+future work. Furthermore, significant efforts were 
+made to strengthen regional engagement to facilitate 
+peer exchange and knowledge sharing. In 2025, the 
+IAIS also began laying the foundation to support the 
+implementation of the ICS.
+In 2025, the IAIS collaborated with key implementation 
+partners and international organisations  
+to support capacity-building programmes for its  
+diverse and global membership.
+IAIS Year in Review 2025
+30
+
+GIICS – Group of International Insurance Centre Supervisors
+ASSAL – Asociación de Supervisores de Seguros de América Latina 
+FSI – Financial Stability Institute
+NFRA – National Financial Reporting Authority of China
+AFIR – Asian Forum of Insurance Regulators
+MENA – Middle East and North Africa 
+CEET – Central Eastern Europe and Transcaucasia
+SSA – Sub-Saharan Africa
+IAIS regional engagements 2025
+Central Eastern Europe and 
+Transcaucasia
+Slovenia
+CEET Regional Seminar
+Latin America
+El Salvador
+ASSAL Regional Training Seminar
+Argentina
+Ninth ASSAL-IAIS-FSI HLM Sub-Saharan Africa
+Angola
+Regional Seminar
+Asia
+Nepal
+Seventh AFIR-IAIS-FSI HLM on Insurance Supervision
+China
+BIS-IAIS-NFRA High-level Global Seminar
+India
+Eighth AFIR-IAIS-FSI HLM on Insurance Supervision 
+Meeting on Insurance Supervision
+Offshore and Caribbean
+England
+GIICS Annual Conference  
+and General Meeting
+Offshore and Caribbean
+The Bahamas
+GIICS Regional Training Seminar
+Middle East and North Africa
+Morocco
+MENA Seminar on Inclusive 
+Insurance and Digitalisation
+These regional seminars addressed a wide range of 
+supervisory issues, including:
+• On-site supervision and off-site monitoring of 
+insurers, including AML/CFT.
+• Conduct of business and the fair treatment of 
+consumers.
+• Corporate governance and solvency regimes, 
+including capital requirements, valuation methods 
+and accounting standards such as IFRS 17.
+• Emerging risks and trends, such as inclusive 
+insurance, climate-related risks, digital innovation 
+(including FinTech, SupTech and AI), cyber security 
+and operational resilience.
+High-level meetings
+IAIS regional engagements also include HLMs co-
+organised with the FSI and regional associations of 
+supervisors, targeted senior-level supervisors and 
+decision-makers. These meetings focused on strategic 
+and policy-level discussions, fostering collaboration 
+and alignment on supervisory priorities and emerging 
+global trends.
+Regional engagements
+In 2025, the IAIS enhanced its regional outreach, 
+engaging close to 700 individual insurance supervisors 
+from 89 jurisdictions through eight regional seminars 
+and four high-level meetings (HLM), with 78% of 
+participating jurisdictions being from EMDEs.
+Regional seminars
+Regional seminars provide a valuable platform for 
+discussing supervisory issues and challenges, as 
+well as to share supervisory knowledge. IAIS regional 
+seminars are tailored to the unique challenges of 
+specific regions and allow supervisors to examine 
+global developments through a local lens, fostering 
+peer exchange and knowledge sharing. Collaborating 
+with key implementation partners, regional bodies and 
+other development organisations, the IAIS supported 
+regional seminars in Asia, Central, Eastern Europe and 
+Transcaucasia (CEET), Latin America, Middle East and 
+North Africa (MENA), Offshore and the Caribbean, and 
+sub-Saharan Africa (SSA) regions.
+IAIS Year in Review 2025
+31
+
+ICS implementation support
+With the ICS adopted in 2024, the focus as of 2025 
+shifted to implementation – a phase that is equally 
+essential to achieving the ICS objectives. To assist 
+members in implementing the ICS consistently and 
+effectively, the IAIS launched several initiatives in 2025, 
+notably by providing a technical Q&A process, an ICS 
+technical note, an interactive online tool, trainings and 
+educational materials, ongoing production of technical 
+parameters such as yield curves, and initiating an 
+Application Paper on availability of capital. 
+ICS technical Q&A process
+The IAIS has created a Q&A process to address 
+technical queries and to provide implementation 
+support to members, striving to ensure a common 
+understanding necessary for correct implementation. 
+This process serves as a platform for members to seek 
+clarification and guidance on technical aspects of the 
+ICS. IAIS members can ask questions via this link .
+ICS technical note
+In June 2025, the IAIS published an ICS technical note. 
+This document contains examples and explanatory 
+text aimed to facilitate the understanding and 
+implementation of the ICS. Its content originates from 
+the 2024 ICS data collection technical specifications 
+and should be read in conjunction with ICS Level 1 and 
+Level 2 texts.
+ICS online tool 
+An interactive ICS online tool was developed by the 
+IAIS in 2025. This tool, publicly available on the IAIS 
+website, is an online engine providing a comprehensive 
+compendium of the Level 1 and Level 2 texts, as well 
+as their associated explanatory texts and examples.
+Providing easy-to-access, interactive and 
+comprehensive documentation on the ICS will help 
+members navigate the standard better, therefore 
+easing its implementation.
+ICS trainings and educational material
+In September 2025, the IAIS hosted a webinar where 
+the high-level principles (HLPs) for the development 
+of the ICS implementation assessment methodology 
+were presented.
+In October, the IAIS organised training sessions 
+focused on yield curves, aiming to deepen members’ 
+understanding of this highly technical component of 
+the ICS.
+Additionally, the IAIS has developed training materials 
+on various aspects of the ICS (valuation, capital 
+requirement, capital resources and other methods) 
+to further support members in their implementation 
+efforts. These materials are available to all members 
+here on the members extranet.
+ICS technical parameters production
+Following the adoption of the ICS, the IAIS continues 
+to play a pivotal role in producing technical inputs to 
+support implementation. This includes the ongoing 
+production and distribution of yield curves to 
+members, providing a valuable benchmark reference 
+to aid in their implementation efforts.
+Application Papers
+In 2025, the IAIS commenced work on an Application 
+Paper on availability of capital. The paper aims to 
+share experiences on how group-wide supervisors 
+address the “availability of capital” issues in their 
+group supervision, particularly when applying a 
+consolidated group standard, such as the ICS. This 
+paper is also expected to provide examples of how 
+supervisors address cases of double or multiple 
+capital gearing in the absence of fully consolidated 
+group standards, where intra-group holdings of 
+regulatory capital may overstate group capital.
+To assist members in implementing the ICS  
+consistently and effectively, the IAIS launched  
+several initiatives in 2025.
+IAIS Year in Review 2025
+32
+
+Financial Stability Institute
+The Financial Stability Institute (FSI) was created 
+in 1998 to assist supervisors around the world in 
+improving and strengthening their financial systems.
+In 2025, the FSI supported IAIS activities through:
+i) Capacity building
+FIRST ONE online course 
+Between August and December, the IAIS and 
+FSI conducted the 11th edition of the FIRST ONE 
+programme covering the fundamentals of insurance 
+regulation and supervision. 
+A total of 221 participants from 57 institutions across 
+54 jurisdictions benefited from this programme. 
+ii) Outreach events
+HLM and seminars
+In 2025, the FSI supported regional engagements 
+aimed at senior leaders of supervisory authorities 
+across Latin America and Asia-Pacific, including:
+• The ASSAL-FSI-IAIS HLM for Latin America, held in 
+Buenos Aires, Argentina.
+• Two Asian Forum of Insurance Regulators 
+(AFIR)-FSI-IAIS HLMs in Kathmandu in January 
+2025 (hosted by the Nepal Insurance Authority, 
+postponed from 2024) and in Hyderabad in 
+December 2025 (hosted by the Insurance 
+Regulatory and Development Authority of India). 
+• A high-level international seminar in Shanghai in 
+April in collaboration with the IAIS and the National 
+Financial Regulatory Administration (NFRA), 
+People’s Republic of China. 
+These regional engagements addressed a wide range 
+of priority topics on supervisory and policy agendas, 
+including macroeconomic developments, supervisory 
+mandates, regulatory reforms, implementation of 
+RBS regimes, climate-related financial risks, NatCat 
+protection gaps, insurer resolution, reinsurance and 
+financial innovation.
+Access to Insurance Initiative
+The Access to Insurance Initiative (A2ii), convened 
+by CGAP, is the IAIS’ key implementation partner, 
+promoting inclusive and responsible insurance for 
+underserved populations by supporting supervisors 
+through knowledge sharing, peer learning and 
+stakeholder dialogue.
+In 2025, the A2ii supported supervisors through:
+• Advocating for the adoption of the Cape Town 
+Declaration on Inclusive Insurance within national 
+financial inclusion strategies and supporting 
+policymakers and supervisors in setting actionable 
+objectives, with over 50 jurisdictions aspiring to 
+implement it.
+• Joint A2ii-IAIS dialogues on the collection and 
+use of data to foster inclusive insurance growth, 
+and gender disaggregated data with 30 and 20 
+participants, respectively.
+• The launch of the fifth Inclusive Insurance 
+Innovation Lab (iii-lab), a peer exchange multi-
+stakeholder platform where Guatemala's 
+Superintendencia de Bancos (SIB) and Namibia 
+Financial Institutions Supervisory Authority will 
+collaborate with key stakeholders over a year to 
+design innovative insurance solutions for managing 
+health risks.
+• A multi-stakeholder consultative forum together 
+with CGAP, IAIS and the Microinsurance Network 
+(MiN) on Inclusive Insurance in Quito, Ecuador, 
+entitled “Incentives for the industry – how can 
+insurance supervisors encourage insurers to reach 
+underserved populations?”.
+To achieve its ambitious capacity-building goals, 
+the IAIS collaborates with a diverse range of 
+implementation partners to address foundational 
+aspects of insurance supervision, emerging risks and 
+trends, and region-specific priority areas.
+Cooperation with 
+implementation partners
+IAIS Year in Review 2025
+33
+
+International Monetary Fund
+The International Monetary Fund (IMF) cooperates with 
+the IAIS in supporting capacity building across several 
+areas, including on implementation of RBS regimes, 
+and related issues such as the implications of IFRS 17.
+The IMF is actively involved in the RBSIF and has 
+contributed to the development of the Guidance on 
+transitioning to RBS regimes and supported policy 
+discussions with mid- and senior-level supervisors on 
+IFRS 17.
+The IMF also hosted an IMF-IAIS panel on structural 
+shifts in life insurance and implications for financial 
+stability during the October 2025 IMF-World Bank 
+Annual Meetings, drawing 492 in-person and 691 on-
+line participants.
+Toronto Centre
+The Toronto Centre (TC) is a global leader in 
+financial supervision capacity building, dedicated to 
+strengthening the capabilities of financial regulators 
+and supervisors. 
+The TC supports IAIS members through training 
+programmes, workshops and peer learning, with an 
+emphasis on financial stability, inclusion with an
+emphasis on financial stability, inclusion, resilience, 
+and risk-based supervision, particularly in EMDE 
+jurisdictions.
+In 2025, the TC supported engagements with over 100 
+supervisors in sub-Saharan Africa and 80 supervisors 
+in Latin America. It also introduced a complimentary 
+Inclusive Insurance Certificate for insurance 
+supervisors.
+Frankfurt School
+The Frankfurt School of Finance & Management (FS) 
+is a leading business school offering undergraduate, 
+graduate and executive education. Through its Climate 
+and Disaster Risk Finance and Insurance Competence 
+Centre, FS manages the InsuResilience Solutions Fund 
+(ISF), the Global Risk Modelling Alliance (GRMA) and 
+the Global Shield Solutions Platform (GSSP). FS will 
+also host the Global Shield Secretariat from January 
+2026.
+FS offers free learning opportunities for insurance 
+supervisors through the GSSP Knowledge Hub. In 
+2025, FS partnered with the International Actuarial 
+Association to deliver actuarial training for French-
+speaking supervisors.
+International Actuarial Association
+The International Actuarial Association (IAA) is a 
+worldwide association of actuarial professionals 
+and plays a key role in supporting the IAIS efforts to 
+facilitate supervisory capacity building. 
+In 2025, the IAA supported engagements with over 100 
+supervisors in sub-Saharan Africa and 50 supervisors 
+in the Middle East and North Africa to discuss 
+challenges and approaches to building actuarial 
+capacity, supporting sound risk management and 
+responding to emerging risks and trends.
+Policy implementation meetings
+• The FSI and IAIS also organised a policy 
+implementation meeting on the implementation 
+of IFRS 17 in the insurance sector. The meeting 
+covered topics related to the global implementation 
+progress, the evolution of key performance 
+indicators, audit challenges and actuarial insights.
+iii) Policy publications
+The FSI and the IAIS secretariats co-authored a 
+joint publication entitled “Mind the climate-related 
+protection gap – reinsurance pricing and underwriting 
+considerations”.
+IAIS Year in Review 2025
+34
+
+Capacity-building resources
+A2ii
+• FeMa-Meter – an MS Excel-based toolkit for 
+collecting and reviewing gender-disaggregated 
+data.
+• Inclusive Insurance Regulations Map – an 
+interactive tool that presents data on existing 
+regulations for inclusive insurance, as well as other 
+regulations that support inclusive insurance.
+• Past A2ii resources continue to be available on 
+CGAP’s FinDev Gateway.
+FSI
+• In 2025, the FSI published four new FSI Connect 
+tutorial suites covering key IAIS publications. Topics 
+covered the ICS, RBS regimes and climate risks, 
+and an Executive Summary on RBS. 
+• IAIS members continue to benefit from its FSI 
+Connect subscription, which allocates a certain 
+number of FSI Connect accounts to each member 
+institution.
+A2ii meeting, Tirana, Albania, November 2025
+Climate Training Alliance
+• An online platform that centralises all climate and 
+environmental-related training resources for central 
+banks and financial authorities globally. 
+The resources are free of charge for employees of 
+IAIS members, allowing individuals to progress at 
+their own pace, with no restriction on the number of 
+staff per IAIS member. To explore these offerings or 
+register, visit www.climatetrainingalliance.org.
+Frankfurt School
+• Global Shield Knowledge Hub@FS.
+Toronto Centre
+• The TC provides practical supervisory guidance  
+on risk-based supervision implementation, risks 
+to the financial sector and insights on the broader 
+supervisory objectives.
+Additional resources
+• Self-directed training programmes on inclusive 
+insurance previously offered by A2ii are accessible 
+on the platforms of the Toronto Centre and 
+Frankfurt School, in addition to other training 
+programmes available to strengthen the capacity of 
+insurance supervisors.
+IAIS Year in Review 2025
+35
+
+Assessing 
+implementation of 
+global standards
+Credible, independent and transparent assessment 
+of the implementation of IAIS supervisory material is 
+critically important to supporting effective and globally 
+consistent supervision. In 2025, the IAIS continued to 
+strengthen its implementation assessment framework, 
+including both support for IAIS members to undertake 
+their own implementation assessments (such as the 
+IAIS Self-Assessment Tool (SAT) and Peer Review 
+Process (PRP)), as well as intensive implementation 
+assessments undertaken by the IAIS, such as the 
+Member Assessment Programme (MAP) and the 
+Targeted Jurisdictional Assessments (TJA) of the 
+Holistic Framework supervisory material. 
+The number of member representatives participating 
+as assessors has increased, reflecting the IAIS 
+membership’s focus on contributing to strengthening 
+global standards. In addition, the IAIS undertook 
+preparations for the upcoming implementation 
+assessments of the Common Framework for the 
+Supervision of Internationally Active Insurance Groups 
+(ComFrame), including the Insurance Capital Standard 
+(ICS).
+In 2025, the IAIS shifted to a greater emphasis on 
+supporting the comprehensive and globally consistent 
+implementation of IAIS supervisory material, including 
+through an expanded programme of implementation 
+assessment.
+2023
+A key element of the Holistic Framework for 
+the assessment and mitigation of systemic risk 
+in the insurance sector (Holistic Framework) is 
+the assessment by the IAIS of the consistent 
+implementation of the relevant supervisory material, 
+including enhanced ongoing supervisory policy 
+measures and powers of intervention. These 
+supervisory materials are integrated into the Insurance 
+Core Principles (ICPs) and ComFrame by enhancing 
+or adding supervisory policy measures specifically 
+designed to assess and mitigate potential systemic 
+risk building up in the insurance sector. 
+The outcomes from these assessment activities  
+provide evidence-based insights that guide 
+supervisory enhancements, bolster macroprudential 
+oversight and improve preparedness for stress events.
+Implementation assessment 
+of the Holistic Framework 
+supervisory material
+21 25 30
+2024 2025
+Number of IAIS assessors
+IAIS Year in Review 2025
+36
+
+2025 Targeted Jurisdictional Assessments
+In 2025, the IAIS finalised the second tranche of the 
+TJA, covering Australia, Bermuda, Italy, Singapore, 
+South Africa and Spain. This is in addition to the 
+10 jurisdictions assessed as part of the 2022 TJA 
+exercise. In total, implementation in 16 major insurance 
+markets has now been assessed as part of the TJA,  
+15 of which are Financial Stability Board members. 
+The TJA assessed implementation across 23 ICPs and 
+ComFrame standards in three thematic areas: 
+1. Internationally Active Insurance Group (IAIG) 
+identification and macroprudential supervision; 
+2. Liquidity risk management and disclosure; and 
+3. Crisis management, recovery planning and 
+resolution. 
+The assessments evidenced solid progress while 
+identifying gaps to guide further supervisory 
+enhancements and strengthen financial stability. The 
+TJA report will be published in 2026.
+Progress monitoring
+In 2025, the IAIS conducted the second progress 
+monitoring exercise to assess progress in 
+implementing the Holistic Framework supervisory 
+material by the 10 jurisdictions that participated in the 
+first tranche of the TJA in 2022. 
+The 2025 progress monitoring exercise demonstrated 
+steady progress, with most previous gaps having 
+narrowed. Advances were made in resolution powers, 
+recovery planning, crisis management, liquidity risk 
+management and macroprudential supervision. The 
+remaining gaps relate chiefly to aspects of resolution 
+powers and planning, and liquidity risk disclosures. 
+Continued monitoring will support further progress and 
+take account of recent updates to IAIS standards.
+Jurisdictions that participated in the Holistic Framework implementation assessments
+2025 TJA
+2022 TJA
+2020 BLA only
+TJA 2022 jurisdictions
+Canada; China; China, Hong Kong; France; 
+Germany; Japan; the Netherlands; Switzerland;  
+the United Kingdom and the United States.
+TJA 2024 jurisdictions 
+Australia, Bermuda, Italy, Singapore, South Africa 
+and Spain.
+IAIS Year in Review 2025
+37
+
+In 2025, the IAIS began preparations for the 
+implementation assessment of ComFrame. This 
+globally recognised framework, consisting of 
+approximately 100 standards integrated into the ICPs, 
+strengthens the group-wide supervision of IAIGs. 
+ComFrame applies to 60 IAIGs (at 7 January 2026), 
+which are supervised by 27 group-wide supervisors.
+The quantitative requirements of ComFrame constitute 
+the ICS, a risk-based, globally comparable measure of 
+capital adequacy.
+ICS implementation assessments 
+Following the adoption of the ICS in December 2024, 
+the IAIS established a high-level timeline to assess the 
+comprehensive and consistent implementation of the 
+ICS across jurisdictions. 
+ComFrame implementation 
+assessments – advancing 
+group-wide supervision
+Building on the successful assessment practices of the 
+Holistic Framework supervisory material, the IAIS is 
+employing a two-phased approach:
+ - Phase 1 (2026): A baseline self-assessment by 
+IAIS members that are group-wide supervisors of 
+IAIGs, to gauge implementation progress, identify 
+gaps and challenges, and inform the sequencing of 
+intensive jurisdictional assessments. This will use 
+the ICS self-assessment questionnaire, approved 
+by ExCo in November 2025.
+ - Phase 2 (aimed at 2027 onwards) : In-depth 
+implementation assessments by the IAIS. The 
+ICS implementation assessment methodology, 
+initiated in 2025 and expected to be finalised by the 
+end of 2026, will build on the ICS implementation 
+assessment high-level principles  (HLPs) as 
+published by ExCo in July 2025. 
+The IAIS will continue to work closely with its member 
+jurisdictions to ensure a smooth transition to the 
+ICS and to provide necessary guidance and support 
+throughout the implementation process.
+2007-2008
+Global  
+Financial  
+Crisis
+IAIS announces 
+new focus on 
+supervision of 
+IAIGs
+2021-2024
+Adoption of 
+ComFrame
+2009 2019
+2019
+2024 2025-2027 2026
+2027 
+Onwards
+Assessment of the ComFrame 
+standards of the Holistic Framework:
+• 2021: Baseline assessment
+• 2022: TJA of 10 major insurance 
+markets
+• 2024: Second TJA of 6 additional 
+jurisdictions
+Targeted updates 
+to ComFrame
+Development of 
+ICS and qualitative 
+ComFrame assessment 
+methodology
+Baseline self- 
+assessments of 
+ComFrame and 
+ICS
+Intensive 
+assessments of 
+ComFrame and 
+ICS
+2013 2017
+IAIS announces 
+plans for  
+risk-based ICS 
+by 2016
+ICS 1.0  
+released
+ICS 2.0 released 
+under the Abu 
+Dhabi Agreement 
+(monitoring period 
+established)
+ComFrame
+IAIS Assessments
+Insurance Capital Standard (ICS) 
+IAIS Common Framework for the Supervision of Internationally Active Insurance Groups
+2024
+ICS as a prescribed capital 
+requirement adopted
+IAIS Year in Review 2025
+38
+
+Implementation assessment of ComFrame 
+qualitative standards
+In 2025, alongside progress on the ICS programme 
+of implementation assessment, the IAIS developed 
+and agreed on the approach and timing for assessing 
+the implementation of the qualitative ComFrame 
+standards. 
+The assessment will be conducted in two phases. 
+ - Phase 1 (from mid-2026) : A baseline self-
+assessment by IAIS members using a simplified 
+self-assessment questionnaire focused on 61 
+ComFrame standards. This will support group-
+wide supervisors and other involved supervisors 
+in assessing implementation progress, identifying 
+gaps and challenges, while providing insights for 
+future in-depth assessments.
+ - Phase 2: In-depth implementation assessments 
+by the IAIS, based on the outcomes of the 2026 
+baseline self-assessment. 
+For each phase, timelines will be staggered to 
+complement the ICS implementation assessment.
+Inclusive assessments for a 
+diverse membership
+To meet the needs of its global membership, the 
+IAIS offers assessment tools that can help deepen 
+understanding and observance of the ICPs. Through 
+the PRP and the more intensive MAP, members can 
+see their observance levels and receive tailored 
+guidance and peer learning that support consistent 
+implementation.
+Peer Review Process 
+The PRP is open to all IAIS members and concentrates 
+each cycle on a limited number of ICPs. It combines 
+jurisdiction self-assessment with expert peer review to 
+identify gaps, disseminate good practices and support 
+consistent implementation across diverse market 
+contexts. 
+In 2025, 80 jurisdictions participated in the seventh 
+PRP, focused on ICP 13 (Reinsurance and Other Forms 
+of Risk Transfer). The project is scheduled to conclude 
+in the first quarter of 2026 with an aggregate report 
+containing key findings and illustrative examples to 
+support effective implementation.
+Implementation and Assessment Committee, Tirana, Albania, November 2025 
+IAIS Year in Review 2025
+39
+
+Member Assessment Programme 
+The MAP provides IAIS members with detailed insights 
+into the observance of the entire set of ICPs within 
+a single jurisdiction, combining off-site analysis and 
+on-site assessment. The output is a comprehensive 
+report with recommendations to strengthen 
+supervisory standards, similar to the IMF and World 
+Bank’s Report on the Observance of the Standards 
+and Codes (ROSC) initiative and Financial Sector 
+Assessment Program (FSAP). 
+In 2025, the IAIS published its assessment of the 
+Sultanate of Oman, noting a good level of observance 
+of the ICPs. The authority has advanced regulation 
+and supervision in recent years, introducing new 
+risk-based capital requirements and enhancing 
+insurer supervision, including actuarial review. Work 
+also continued on the sixth MAP, in Costa Rica, with 
+completion and publication scheduled for mid-2026. 
+The IAIS also continued its evaluation of the 
+effectiveness of its assessment toolkit and is in the 
+process of updating the Assessment Handbook .
+ICP1 Objectives, Powers 
+and Responsibilities  
+of the Supervisor
+ICP2 Supervisor ICP4 Licensing ICPS Suitability  
+of Persons
+ICP7 Corporate 
+Governance
+ICP8 Risk management 
+and internal controls
+ICP9 Supervisory  
+Review & Reporting
+ICP10 Preventive 
+Measures, Corrective 
+Measures and Sanctions
+ICP16 Enterprise Risk 
+Management for
+Solvency Purposes
+ICP19 I Conduct of 
+Business – Insurers
+ICP19 II Conduct of 
+Business – lntermediaires
+ICPs available in the SAT
+In 2025, the IAIS published its assessment of
+the Sultanate of Oman, noting a good level
+of observance of the ICPs.
+Two flagship digital programmes advanced in 2025:
+ - The ICP Self-Assessment Tool  (SAT), developed 
+in collaboration with the Access to Insurance 
+Initiative (A2ii), offers a structured and user-friendly 
+platform for jurisdictions to efficiently evaluate 
+and enhance their compliance with the ICPs. In 
+2025, the IAIS relaunched the SAT with improved 
+usability, functionality and security. 
+ - The Implementation Dashboard  was set up as 
+a new digital tool to consolidate IAIS assessment 
+results and provide an integrated view of 
+jurisdictions’ observance of ICPs and ComFrame 
+standards. The dashboard became operational 
+and accessible to members via the eBIS platform, 
+offering features such as filters to explore data by 
+compliance levels, assessment types, jurisdictions, 
+memberships and ICP standards.
+Enhancing supervisory 
+tools through digital 
+innovation
+IAIS Year in Review 2025
+40
+
+Operational priorities
+Whereas the primary focus of the Year in Review is 
+to report on the external work of the IAIS, it is equally 
+important for the IAIS to report on how we operate as 
+an Association. 
+Effective and efficient operations are key to enabling 
+impactful delivery of our dual role as: 
+• A broad-based, membership-driven Association 
+supporting members in their own efforts to 
+strengthen insurance supervision; and
+• A standard-setting body within the global financial 
+architecture (part of the Basel Process).
+The Strategic Plan 2025–2029 determined four 
+operational priorities for the IAIS:
+1. Derive strength from our differences, particularly 
+by respecting diversity of thought and prioritising 
+inclusiveness; 
+2. Operate sustainably and with sensitivity to our 
+environmental impact; 
+3. Strengthen engagement with our members and 
+stakeholders in ways that create benefit for them 
+and for the IAIS; and 
+4. Implement efficiencies that enable us to focus on 
+what matters most and yields impact.
+Operational priorities
+To maximise our effectiveness in fulfilling our core 
+objectives and addressing strategic themes, the IAIS is 
+committed to continuous improvement in our operations. 
+Throughout 2025, IAIS leadership maintained a  
+strong presence at regional and global events, ensuring 
+that the Association’s work was well-represented at over 
+110 engagements.
+IAIS Year in Review 2025
+41
+
+The data identifies trends and outliers that can 
+be further explored in the IAIS’ ongoing efforts to 
+enhance DEI in its activities, and is discussed amongst 
+the Executive Committee and shared with all IAIS 
+members. 
+It is important to note that the intention is not to label 
+certain representation proportions as either “success” 
+or “failure”. 
+In 2025, the IAIS also continued the practice of 
+providing more comprehensive information on the 
+diversity of Chairs and Vice Chairs to the Selection 
+Group. This data serves as an additional input to their 
+consideration of appointments and as a basis for the 
+Executive Committee discussion on potential avenues 
+to enhancing diversity in the IAIS Chairs and Vice 
+Chairs cohort.
+Secretariat personnel diversity split through 2025
+38 staff, of which four management team members
+The information presented below reflects IAIS Secretariat personnel as  
+at 31 December 2025.
+13%
+34%
+45%
+Americas 
+Asia and Oceania
+Middle East and Africa
+Europe
+The IAIS aims to derive strength from our differences, 
+particularly by respecting diversity of thought and 
+prioritising inclusiveness. We believe the quality of our 
+work is enhanced by fostering diverse perspectives, 
+promoting greater inclusion through improved meeting 
+processes, and implementing equitable initiatives to 
+increase diverse participation in IAIS activities. 
+This operational priority represents a continuation of 
+the IAIS’ commitment to diversity, equity and inclusion 
+(DEI), as described in the public statement on DEI at 
+the IAIS, as approved by the Executive Committee in 
+2022.
+DEI statistics 
+Diversity information collected and reported on by 
+the IAIS includes gender and regional representation 
+statistics for the following groups: Chairs and Vice 
+Chairs, member representatives participating across 
+the IAIS’ 24 main committees, subcommittees and 
+forums, speakers at IAIS milestone events, and 
+Secretariat personnel.
+Diversity of thought and 
+inclusiveness
+The IAIS aims to derive 
+strength from our 
+differences, particularly 
+by respecting diversity of 
+thought and prioritising 
+inclusiveness.
+8%
+61% 39%
+Female- 
+presenting
+Male- 
+presenting
+Secretariat personnel
+25% 75%
+Female- 
+presenting
+Male-
+presenting
+Management team
+IAIS Year in Review 2025
+42
+
+North America
+Oceania
+Offshore and the Caribbean
+Sub-Saharan Africa
+Western Europe
+Asia
+Central, Eastern Europe and Transcaucasia (CEET)
+International Organisations
+Latin America
+Middle East and North Africa (MENA)
+Chair and Vice Chair roles
+52 leadership positions
+37%
+Female-presenting
+63%
+Male-presenting
+29% 
+25% 
+12%
+10%
+10% 
+8%
+2% 
+2% 
+2%
+2%
+Speakers at IAIS milestone events in 2025
+47 speakers
+30%
+23%
+19%
+11%
+4%
+4%
+4%
+2%
+2%
+36%
+Female-presenting
+64%
+Male-presenting
+Composition of total IAIS membership
+224 member organisations
+28%
+14% 
+10%
+10% 
+10% 
+8% 
+6% 
+6% 
+4% 
+3%
+EMDE members
+47%
+Participating members
+448 unique individuals participating in the 24 committees,  
+subcommittees and forums
+39%
+Female-presenting
+61%
+Male-presenting
+24% 
+17% 
+15% 
+10% 
+8%
+7% 
+6%
+6%
+5% 
+2% 
+IAIS gender split and regional representation through 2025
+The information presented below is based on membership data as at 21 October 2025. October was selected 
+as the best proxy to reflect the 2025 year as it is prior to the Annual General Meeting of Members, at which time 
+several changes in Chairs and Vice Chairs occurred.
+IAIS Year in Review 2025
+43
+
+The IAIS has an Environmental Policy that provides 
+guidelines for the Association’s own performance in 
+addressing environmental issues. The underlying goal 
+is to foster sustainable behaviours and reduce the 
+overall carbon footprint of the Association.
+Travel
+Since 2020, following the adoption of the 
+Environmental Policy, the IAIS has gradually 
+transitioned to a new meeting and event cycle that 
+balances in-person and virtual meetings throughout 
+the year. This cycle generally includes a maximum 
+of two in-person meetings for the committees, and 
+one or two in-person meetings for subcommittees. 
+Additional virtual meetings are scheduled as needed 
+throughout the year. The mid-year Global Seminar has 
+been converted into a virtual event, while the Annual 
+General Meeting and Annual Conference remains the 
+milestone event that brings together both members 
+and stakeholders for in-person discussions and 
+engagement.
+In line with this, the IAIS also actively monitors and 
+aims to manage Secretariat travel by reviewing actual 
+carbon emissions from air travel and the total distance 
+covered. In 2025, the carbon emissions were 58% 
+lower and the distance travelled was 24% lower than 
+the previous year. The reduction in carbon emissions is 
+Operate sustainably higher than the reduction in the distance travelled due 
+to the changes in the CO2e calculation methodology 
+in 2025 to reflect the increased post-Covid flight 
+occupancy rates. 
+The key reason for the significant reduction in the 
+Secretariat’s travel is that the 2025 IAIS AGM and 
+Annual Conference was held in Tirana, Albania, 
+whereas in 2024 it was held in Cape Town, South 
+Africa. As such, annual fluctuations in carbon 
+emissions and distance travelled are to be expected; 
+however, overall Secretariat travel continues to be on a 
+general downward trend.
+Other initiatives
+In addition, the IAIS also advocates for resource 
+utilisation awareness, including waste management 
+and reducing reliance on printed paper. For instance, 
+for IAIS meetings and events, we systematically reduce 
+food waste by adapting food orders and increasing 
+the use of recyclable materials during in-person 
+meetings. As in prior years, the IAIS purchased carbon 
+credits for the CO2 equivalent of all secretariat travel 
+in 2025. For this, the IAIS engages with the non-profit 
+organisation myclimate. The IAIS invests in myclimate’s 
+portfolio, supporting international climate protection 
+projects designed to prevent or reduce emissions in 
+emerging markets and developing economies (EMDE) 
+jurisdictions.
+Annual evolution of Secretariat travel
+Compared to base year 2019 (set at 100%)
+75%
+50%
+25%
+0%
+Estimated  
+carbon emissions
+Estimated  
+distance travelled
+100%
+2019 2020 2021 2022 2023 2024 2025
+In 2025, the Secretariat’s 
+carbon emissions were 
+58% lower and the distance 
+travelled was 24% lower 
+than the previous year.
+IAIS Year in Review 2025
+44
+
+In 2025, the IAIS continued to build on its efforts to 
+ensure accessible and transparent communication 
+and facilitate meaningful dialogue on critical issues 
+between members and stakeholders. The IAIS 
+engages with all its stakeholders in a range of different 
+formats, including: 
+• IAIS-hosted events, such as the Global Seminar 
+and Annual Conference;
+• Executive-level industry roundtables;
+• High-level Meetings (HLM) between the Executive 
+Committee and senior stakeholder representatives;
+• Public consultation and informational webinars;
+• Bilateral meetings; and
+• Participation in member and stakeholder-initiated 
+events, international conferences and media 
+engagement. 
+Throughout 2025, IAIS leadership maintained a strong 
+presence at regional and global events, ensuring that 
+the Association’s work was well-represented at over 
+110 engagements. These efforts complement the 
+extensive engagement undertaken by members within 
+their own national and regional contexts, reinforcing 
+the IAIS’ commitment to collaboration and dialogue.
+Engagement with members 
+and stakeholders
+The IAIS also strengthened its participation in, and 
+collaboration with, global policy forums by contributing 
+to joint international conferences, policy agendas and 
+events. These efforts allowed the IAIS to amplify its 
+voice on critical insurance supervisory issues and 
+foster a deeper understanding of its work across 
+diverse audiences.
+Milestone events
+The IAIS Global Seminar and Annual Conference 
+serve as the highlights of our annual engagement 
+initiatives. These events gather supervisors, industry 
+representatives and other stakeholders, creating 
+a forum for global discussion on key insurance 
+and supervisory topics. Additionally, they offer 
+transparency on IAIS work.
+Global Seminar
+In July 2025, the IAIS welcomed over 1,000 
+participants to its virtual Global Seminar. Over the 
+course of three days, the Global Seminar provided 
+opportunities for IAIS leadership to update on its work 
+programme and achievements in the first half of the 
+year and to share insights into the priorities for the 
+Association for the second half of the year via the 
+ExCo Leadership Dialogue and three committee Chair 
+engagement sessions. These sessions explored how 
+the IAIS continues to support members in addressing 
+important issues such as natural catastrophe (NatCat) 
+Global Seminar, Virtual, July 2025
+IAIS Year in Review 2025
+45
+
+Consumer engagement 
+In 2025, the IAIS reaffirmed its commitment 
+to safeguarding policyholders by continuing 
+its engagement with consumer organisations. 
+Building on the momentum of previous years, the 
+Association continued its structured engagement 
+framework to ensure that consumer perspectives 
+remain central to the IAIS’ work programme.
+Throughout the year, the IAIS convened two 
+interactive virtual meetings with consumer bodies. 
+These sessions served as an important platform 
+for exchanging insights on key deliverables and 
+identifying emerging risks that could impact 
+policyholders. The third meeting, with IAIS 
+Executive Committee Leadership, will be held in 
+2026. 
+risks, insurance protection gaps and the growth in use 
+of artificial intelligence (AI) in the insurance sector.
+Two expert panel discussions explored these topics 
+further, covering risks in the global insurance sector 
+and how stakeholders can work together to address 
+NatCat protection gaps.
+Annual Conference
+The IAIS Annual Conference 2025, held in November in 
+Tirana, Albania, brought together over 500 participants 
+from more than 110 jurisdictions to explore the theme 
+“Navigating uncertainty: Enhancing societal resilience 
+amidst growing complexity”. 
+Over a day and a half of engaging discussions, the 
+conference highlighted the critical role of insurance 
+in fostering societal resilience in an increasingly 
+interconnected and volatile world. The conference 
+featured a distinguished line-up of speakers, thought-
+provoking panels and several interactive roundtable 
+discussions that enabled deeper conversations 
+and feedback on key issues between members and 
+stakeholders.
+Stakeholder engagement
+Fostering meaningful dialogue with stakeholders 
+continues to be a cornerstone of the IAIS’ mission, 
+enabling a deeper understanding of evolving global 
+risks and trends in the insurance sector and ensuring 
+the IAIS’ standards and supervisory guidance remain 
+timely and relevant. By incorporating a broad spectrum 
+of perspectives, the IAIS also enhances the practical 
+implementation of agreed-upon standards. This 
+collaborative approach ensures that the Association 
+remains responsive in a rapidly shifting global 
+landscape.
+Throughout 2025, the IAIS embraced a dynamic 
+and inclusive approach to stakeholder engagement 
+to foster robust exchange between members and 
+stakeholders. From milestone events and targeted 
+bilateral discussions addressing specific policy 
+initiatives to ongoing dialogues with global trade 
+associations and consumer advocacy groups, high-
+level meetings and roundtables, the IAIS maintains a 
+strong framework of interaction. These touchpoints 
+play a pivotal role in ensuring that the Association’s 
+work remains inclusive and impactful.
+A particular highlight is the engagement with chief 
+economists, chief risk officers and other experts 
+held through virtual roundtables to provide an input 
+to the IAIS’ global monitoring exercise (GME). These 
+roundtables provide an enriching platform for expert 
+input from industry representatives on financial 
+stability matters that feed into the IAIS’ own work. 
+All stakeholder engagements can be found here . 
+Communication channels
+The IAIS is committed to transparent and timely 
+communication with members and stakeholders 
+through a range of accessible channels. These 
+mobile-friendly platforms ensure flexibility and allow 
+stakeholders to stay informed and engaged in a way 
+that suits their preferences.
+Readership and engagement with IAIS communication 
+channels have steadily increased, reflecting broader 
+use of the following resources:
+• www.iais.org, which showcases the IAIS and its 
+work comprehensively and concisely;
+• The IAIS Newsletter, which shares the IAIS’ most 
+recent news and explores special topics 10 times 
+per year;
+• LinkedIn, which delivers timely news and updates;
+• Email news alerts, which offer subscribers 
+personalised updates as soon as new content is 
+posted; and
+• The members extranet, which provides a detailed 
+overview of IAIS work for members only.
+IAIS Year in Review 2025
+46
+
+In 2025, the IAIS made significant advancements in our 
+IT systems, enhancing user security and experience, 
+collaboration and efficiency. Key developments 
+include the launch of a new invoicing system, the 
+IAIS Directory, the ICP Self-Assessment Tool (SAT) 
+and the Insurance Capital Standard (ICS) Online 
+Tool. Additionally, the IAIS launched the review of 
+outputs project, with the comprehensive research and 
+recommendations generation phases completed in 
+2025. 
+Review of IAIS outputs project
+In 2025, the IAIS launched an operational project 
+aimed at ensuring that the work of the IAIS is 
+accessible, impactful and valuable to members. Within 
+scope are written and non-written outputs generated 
+by the IAIS – for instance, public papers and reports, 
+member-only resources, dashboards, webinars and 
+seminars etc. 
+Implement efficiencies The IAIS engaged a consultancy agency to carry out a 
+thorough review focused on understanding members’ 
+experiences and perspectives, and to then develop 
+recommendations that the IAIS may implement 
+going forward to ensure the value and impact of IAIS 
+outputs, while also satisfying all the IAIS operational 
+priorities. The consultant delivered its work for the 
+Executive Committee’s initial discussion in Q4 2025. 
+In 2026, the Executive Committee will agree an action 
+plan and the IAIS will begin implementing changes 
+to enhance our practices around how outputs are 
+developed, presented, disseminated, utilised and 
+measured, with the aim of ensuring that a breadth of 
+members derive utility from IAIS work.
+Annual Conference, roundtable session, Tirana, Albania, November 2025
+IAIS Year in Review 2025
+47
+
+Distinguished Fellow 2025
+Committees 2025
+Executive Committee 
+members
+IAIS Secretariat staff
+IAIS organisational 
+structure
+Acronyms
+Appendices
+IAIS Year in Review 2025
+48
+
+Distinguished  
+Fellow 2025
+Alberto Corinti was a representative of the Italian 
+supervisory authority, IVASS, to the IAIS for over 20 
+years. In 2015, he was appointed Chair of the former 
+Financial Stability Committee and in 2018 the inaugural 
+Chair of the former Macroprudential Committee. 
+His leadership and expertise were instrumental in 
+advancing some of the IAIS’ most complex and 
+high-profile initiatives over the past decade, including 
+the development of the Holistic Framework for the 
+assessment and mitigation of systemic risk in the 
+insurance sector.
+Alberto Corintini  
+(formerly Member of the Board 
+of Directors (Consigliere) of the 
+Italian Insurance Supervisory 
+Authority (IVASS))
+IAIS Distinguished Fellows
+The programme honours former member 
+representatives for their dedication and significant 
+involvement in IAIS activities, going above and 
+beyond in contributing their time and expertise to 
+advance the IAIS mission.
+Alberto played a key role in the IAIS’ systemic risk 
+discussions. His efforts enabled the Association to 
+develop a practical and effective framework that 
+strengthened policyholder protection and global 
+financial stability. These contributions also enhanced 
+the IAIS’ reputation as a global standard-setter.
+Alberto’s inclusive approach and ability to foster 
+collaboration ensured unity in addressing challenges. 
+His commitment to building relationships and bridging 
+differences ensured that the IAIS could navigate 
+complex challenges with unity and purpose. His vision 
+and dedication have left a lasting impact on the IAIS, 
+setting a standard of excellence for the future. 
+IAIS Year in Review 2025
+49
+
+Chair 
+Shigeru Ariizumi  
+(Japan, FSA)
+Vice Chair
+Petra Hielkema
+(EIOPA)
+Vice Chair
+Andrew Mais
+(USA, Connecticut)
+Vice Chair
+Siham Ramli  
+(Morocco, ACAPS)
+The Executive Committee is responsible for providing overall strategic 
+direction and managing IAIS activities in a manner consistent with 
+the specific duties set forth in the Association’s by-laws. More 
+generally, the Executive Committee is charged with doing all things 
+necessary to ensure the sound functioning and furtherance of the 
+mission of the Association. The Executive Committee is supported 
+by the Audit and Risk, Budget, Macroprudential, Policy Development 
+and Implementation and Assessment Committees, as well as some 
+additional supporting groups and task forces. 
+Committees 2025
+Executive Committee
+Chair  
+Suzanne Smith
+(Australia, APRA)
+The Audit and Risk Committee is responsible for reviewing the 
+internal controls of the Association and monitoring that its activities 
+achieve their objectives through effective and efficient operations and 
+are compliant with applicable procedures and resolutions.
+Audit and Risk Committee
+Chair
+Ryan Workman  
+(USA, NAIC)
+The Budget Committee is responsible for overseeing the financial 
+position and financial management of the IAIS, monitoring the IAIS’ 
+financial situation on a regular basis, making recommendations on 
+annual fee and expenditure levels, recommending and reviewing the 
+IAIS’ policies on investment and reserves, and reviewing proposals 
+for significant unbudgeted expenditures.
+Budget Committee
+Up to 12 November 2025
+IAIS Year in Review 2025
+50
+
+Chair
+Peter Braumüller  
+(Austria, FMA)
+Vice Chair
+Tony Chan
+(China, Hong Kong, HKIA)
+Vice Chair  
+Rashmi Sutton 
+(USA, NAIC)
+Implementation activities support our standard-setting mandate and 
+are critical to achieving effective and globally consistent supervision. 
+The Implementation and Assessment Committee (IAC) supports 
+members in implementing IAIS supervisory material by assessing 
+observance of IAIS standards, providing guidance on supervisory 
+practices, promoting information exchange and supervisory 
+cooperation, and facilitating supervisory capacity building and 
+promoting financial inclusion, in particular for EMDE jurisdictions.  
+The IAC is supported by nine groups: 
+• Financial Crime Forum
+• Financial Inclusion Forum 
+• FinTech Forum 
+• Protection Gaps Task Force
+• Retirement Income and Pension Forum 
+• Risk-based Solvency Implementation Forum
+• Standards Assessment Working Group 
+• Supervisory Forum 
+• Signatories Working Group
+Implementation and Assessment Committee
+Chair 
+Matt Walker
+(USA, FRB) 
+(Left in September 2025)
+Vice Chair
+Paolo Cadoni 
+(UK, PRA)
+Vice Chair
+Ricardo Garcia 
+(Bermuda, BMA)
+The Policy Development Committee (PDC) oversees the development 
+and review of supervisory and supporting material in collaboration 
+with the other relevant committees. In carrying out its mandate, the 
+PDC is supported by seven subcommittees: 
+• Accounting and Auditing Working Group 
+• Capital and Solvency Working Group
+• Governance Working Group 
+• Market Conduct Working Group 
+• Operational Resilience Working Group 
+• Resolution Working Group 
+• Supervisory Material Review Task Force
+Policy Development Committee
+Chair
+Dieter Hendrickx  
+(Belgium, NBB)
+Vice Chair
+Marcelo Ramella  
+(Bermuda, BMA)
+Vice Chair
+Steven Seitz  
+(USA, Treasury/FIO)
+The Macroprudential Commitee (MPC) is responsible for steering  
+and overseeing the financial stability work of the IAIS.  
+The implementation of the Holistic Framework is one of the 
+committee’s key projects, including the Global Monitoring Exercise 
+and work aimed at supporting IAIS members in implementing 
+the Holistic Framework. In carrying out its mandate, the MPC is 
+supported by two subcommittees: 
+• Macroprudential Monitoring Working Group 
+• Macroprudential Supervision Working Group
+Macroprudential Committee
+IAIS Year in Review 2025
+51
+
+Peter Braumüller (ex officio) 
+Austria
+Financial Market Authority (FMA)
+Chair, IAC
+Petra Hielkema 
+European Insurance and Occupational Pensions 
+Authority (EIOPA)
+Vice Chair
+Shigeru Ariizumi 
+Japan 
+Financial Services Agency (FSA)
+Chair (until 12 November 2025)
+Suzanne Smith
+Australia
+Australian Prudential Regulation Authority (APRA)
+Chair, ARC
+Dieter Hendrickx  
+(ex officio and non-voting) 
+Belgium
+National Bank of Belgium (NBB)
+Chair, MPC
+Executive Committee 
+members
+Ryan Workman (ex officio)
+United States
+National Association of Insurance Commissioners (NAIC)
+Chair, BC
+Executive Committee Members  
+from 1 January to 12 November 2025
+Dean Cameron
+United States
+Idaho Department of Insurance
+Matt Walker (ex officio)
+United States
+Board of Governors of the  
+Federal Reserve System (FRB)
+Chair, PDC (Until September 2025)
+Alessia Angelilli
+Italy 
+Istituto per la Vigilanza sulle Assicurazioni (IVASS)
+(from March 2025)
+Siham Ramli
+Morocco
+Autorité de Contrôle des Assurances et  
+de la Prévoyance Sociale (ACAPS)  
+Vice Chair
+Andrew Mais 
+United States 
+Connecticut Department of Insurance
+Vice Chair
+Ajay Seth
+India
+Insurance Regulatory and Development Authority  
+of India (IRDAI)
+(from September 2025)
+Augusto Iglesias-Palau
+Chile 
+Comisión para el Mercado Financiero (CMF)
+Aznan Abdul Aziz
+Malaysia
+Bank Negara Malaysia
+(until Feb 2025)
+Beom-joon Kim
+Korea (Republic of)
+Financial Supervisory Service (FSS) 
+(from May 2025)
+Birgit Rutishauser
+Switzerland
+Swiss Financial Market Supervisory Authority (FINMA)
+(until April 2025)
+Carlos Izaguirre 
+Peru 
+Superintendencia de Banca, Seguros y Administradoras 
+Privadas de Fondos de Pensiones del Peru
+Cindy Siah
+Malaysia
+Bank Negara Malaysia
+(from May 2025)
+Clement Cheung
+China, Hong Kong 
+Insurance Authority (IA)
+David Onoprishvili
+Georgia 
+Insurance State Supervision Service of Georgia
+Debasish Panda
+India
+Insurance Regulatory and Development Authority  
+of India (IRDAI)  
+(until March 2025)
+IAIS Year in Review 2025
+52
+
+Ricardo Ochoa 
+Mexico 
+Comision Nacional de Seguros y Fianzas
+Marcus Lim
+Singapore 
+Monetary Authority of Singapore (MAS)
+Eric Dunning
+United States 
+Nebraska Department of Insurance
+(from March 2025)
+Scott White
+United States
+Virginia State Corporation Commission,  
+Bureau of Insurance
+Jeremy Quick
+Guernsey
+Financial Services Commission (GFSC)
+Steven Seitz (non-voting) 
+United States 
+Federal Insurance Office of the United States  
+Department of Treasury (FIO)
+Evelyne Massé
+France 
+Autorité de Contrôle Prudentiel et de Résolution (ACPR)
+Lara Lylozian (non-voting)
+United States
+Board of Governors of the Federal Reserve System (FRB)
+Kenneth Matomola
+Namibia
+Namibia Financial Institutions Supervisory Authority 
+(NAMFISA) 
+Tilman Lueder (non-voting)
+European Commission (EU)
+Lin Cong
+China
+National Financial Regulatory Administration (NFRA)
+Soo-whan Cha
+Korea (Republic of)
+Financial Supervisory Service (FSS)
+Gorazd Cibej 
+Slovenia
+Insurance Supervision Agency
+Jacqueline Friedland
+Canada 
+Office of the Superintendent of  
+Financial Institutions (OSFI)
+Ricardo Garcia
+Bermuda 
+Bermuda Monetary Authority (BMA)
+Vera Carspecken
+Switzerland
+Swiss Financial Market Supervisory Authority (FINMA)
+(from May 2025)
+Elizabeth Dwyer
+United States
+Rhode Island Insurance Division
+Gareth Truran
+United Kingdom  
+Prudential Regulation Authority (PRA)
+Grace Muradzikwa
+Zimbabwe
+Insurance and Pensions Commission (IPEC)
+Julia Wiens
+Germany
+Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)
+Seána Cunningham
+Ireland
+Central Bank of Ireland
+(from February 2025)
+Ebrahim AlZaabi
+United Arab Emirates
+Central Bank of the United Arab Emirates (CBUAE)
+(until 12 Nov 2025)
+IAIS Year in Review 2025
+53
+
+Jonathan Dixon
+Secretary General
+Tekla Ashton
+Finance Officer
+Marie Therese Bitterlich
+Senior Policy Adviser
+(Stakeholder Engagement and Outreach)
+Lazhare Bouldi
+Senior Policy Adviser
+Melanie Clowes-Haug 
+Senior Policy Adviser (Communications)
+Nicolas Colpaert
+Deputy Head of Financial Stability 
+Aurélien Cosma
+Senior Policy Adviser
+(Date left: November 2025)
+Conor Donaldson
+Head of Implementation  
+and Assessment
+Lauren Eckermann
+Senior Policy Adviser
+Sylvie Ellet
+Administrative Officer
+Jo-Ann Ferreira
+Senior Policy Adviser (Legal)
+Elisa Frost
+Project and Change Manager
+(Date joined: April 2025)
+Fabian Garavito
+Senior Policy Adviser 
+(Date left: March 2025)
+Ruby Garg
+Senior Policy Adviser (Risk Officer) 
+Arianna Gasparotto
+Graduate Associate
+(Date joined: October 2025)
+Claire Gilray
+Administrative Officer
+(Date joined: March 2025)
+Alistair Gough
+Senior Policy Adviser 
+Martin Hahn
+Senior Policy Adviser
+Inwook Hwang*
+Policy Adviser
+(Date left: January 2025)
+Ivan-Klaus Iga
+Communications and Executive Support
+(Date joined: August 2025)
+Ayana Ishii*
+Policy Adviser
+Yuhan Jiang
+Graduate Associate
+(Date left: August 2025)
+Linta Kakkattu
+Technical Administrator
+Lydia Kimumwe
+Senior Policy Adviser
+Malou Lenoir
+Events and Communications Officer 
+Carole Lin
+Administrative Officer
+(Date joined: July 2025)
+Sharon Lin*
+Policy Adviser
+Federica Mazzoni
+Graduate Associate
+(Date joined: October 2025)
+Carlos Lopez Moreira
+Senior Policy Adviser
+Aurelie Landauer Ostermann
+Administrative Officer 
+Roberto Ottolini
+Senior Policy Adviser
+Romain Paserot
+Deputy Secretary General  
+Head of Capital and Financial Stability 
+IAIS Secretariat staff 
+Joe Perry 
+Senior Policy Adviser  
+Miroslav Petkov
+Senior Policy Adviser
+Videshree Rooplall
+Senior Policy Adviser 
+Guillaume Scheffler
+Senior Policy Adviser
+Zoe Smoke
+Administrative Officer
+(Date left: June 2025)
+Shunsuke Tani*
+Policy Adviser
+Hanne van Voorden
+Head of Supervisory Practices  
+and Operations
+Suhui Wang
+Senior Policy Adviser
+Tom Wicling
+Senior Policy Adviser 
+Hison Wong
+Graduate Associate
+(Date left: August 2025)
+Jing Xu*
+Policy Adviser
+Zhongbo Zhang*
+Policy Adviser
+Can Zhou
+Administrative Officer 
+Manuela Zweimüller  
+Special Adviser 
+(Date left: September 2025)
+Staff not financed by the IAIS 
+indicated by an asterisk (*)
+IAIS Year in Review 2025
+54
+
+Implementation and  
+Assessment Committee
+FinTech Forum
+Financial Inclusion Forum
+Standards Assessment  
+Working Group
+Retirement Income and  
+Pension Forum
+Supervisory Forum
+Distinguished Fellows  
+Nomination Group
+Selection Group
+Venue Selection Group
+Signatories  
+Working Group
+IAIS organisational 
+structure
+Performance and Compensation 
+Group
+Parent Committee
+Executive Committee Group
+Steering Group
+Working Group
+Task Force
+Forum
+Executive CommitteeCoordination Group*
+General Meeting
+Macroprudential Committee
+Macroprudential Monitoring  
+Working Group
+Macroprudential Supervision  
+Working Group
+Policy Development 
+Committee
+Budget Committee
+Audit and Risk Committee
+Accounting and Auditing  
+Working Group
+Capital and Solvency  
+Working Group
+Financial Crime Forum
+Governance  
+Working Group
+Market Conduct  
+Working Group
+Operational Resilience  
+Working Group
+Small Group on the  
+Insurance Capital Standard
+Resolution  
+Working Group
+Supervisory Material Review  
+Task Force
+The IAIS Committee structure changed effective  
+1 January 2026. For the most current structure, 
+visit the IAIS website .
+Climate Risk  
+Steering Group
+Risk-based Solvency 
+Implementation Forum
+ Strategic Plan and  
+Financial Outlook Task Force
+Protection Gaps  
+Task Force
+*Disbanded by end-2025
+IAIS Year in Review 2025
+55
+
+Acronyms 
+All rights reserved. Brief excerpts may be reproduced 
+or translated provided the source is stated. 
+Design: www.ctballmer.ch
+© International Association of Insurance Supervisors 
+(IAIS) 2026.
+A2ii Access to Insurance Initiative
+AFIR Asian Forum of Insurance Regulators
+AGM Annual General Meeting
+AI artificial intelligence
+AIR asset-intensive reinsurance
+AML anti-money laundering 
+ASSAL Asociación de Supervisores de Seguros  
+ de América Latina
+BLA baseline assessment
+CEET Central, Eastern Europe and Transcaucasia
+CFT combatting the financing of terrorism 
+CGAP Consultative Group to Assist the Poor
+CO2e carbon dioxide equivalent
+ComFrame Common Framework for the Supervision of IAIGs
+DEI diversity, equity and inclusion
+EMDE Emerging Market and Developing Economy
+FATF Financial Action Task Force 
+FIF Financial Inclusion Forum 
+FinTech Financial technology
+FIRST-ONE FSI-IAIS Insurance Regulatory and  
+ Supervisory Training Online Course
+FS Frankfurt School
+FSAP Financial Sector Assessment Program
+FSB Financial Stability Board
+FSI Financial Stability Institute 
+GIICS Group of International Insurance  
+ Centre Supervisors
+GIMAR Global Insurance Market Report
+GME Global Monitoring Exercise 
+HLM high-level meetings
+IAA International Actuarial Association
+IAC Implementation Assessment Committee
+IAIG Internationally Active Insurance Group
+IAIS International Association of Insurance Supervisors
+ICP Insurance Core Principle
+ICS Insurance Capital Standard 
+IFRS International Financial Reporting Standards 
+IIM Individual Insurer Monitoring 
+IMF International Monetary Fund
+IVASS Italian Insurance Supervisory Authority
+MAP Member Assessment Programme
+MENA Middle East and North Africa
+MMoU Multilateral Memorandum of Understanding
+MRC Monitoring and Risk Assessment Committee
+NatCat natural catastrophe
+NFRA National Financial Reporting Authority of China
+OECD Organisation for Economic Co-operation  
+ and Development
+ORSA Own Risk and Solvency Assessment
+PRP Peer Review Process
+RBS risk-based solvency
+RBSIF Risk-based Solvency Implementation Forum 
+RIPF Retirement Income and Pensions Forum
+ROSC Observance of the Standards and Codes
+SAT Self-Assessment Tool 
+SF Supervisory Forum
+SSA sub-Saharan Africa
+SSC Standards and Supervisory Practices Committee
+SupTech supervisory technology
+SWG Signatories Working Group
+TC Toronto Centre
+TJA Targeted Jurisdictional Assessment
+IAIS Year in Review 2025
+56
+
+International Association of Insurance Supervisors
+c/o Bank for International Settlements
+Centralbahnplatz 2
+CH-4002 Basel
+Switzerland
+Tel:  +41 61 280 80 90
+Email:  info@iais.org
+Web:  www.iais.org

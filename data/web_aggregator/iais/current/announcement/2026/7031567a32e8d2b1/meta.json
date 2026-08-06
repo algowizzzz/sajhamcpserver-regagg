@@ -1,0 +1,24 @@
+{
+  "doc_id": "7031567a32e8d2b1",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "The IAIS issues a comment letter to the IASB exposure draft on Climate-related and Other Uncertainties in the Financial Statements - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/2024/11/the-iais-issues-a-comment-letter-to-the-iasb-exposure-draft-on-climate-related-and-other-uncertainties-in-the-financial-statements/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:9773c7755f61eedbb38237f204119753c48a49dd383483e5908df51b91b17cb0",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/7031567a32e8d2b1",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

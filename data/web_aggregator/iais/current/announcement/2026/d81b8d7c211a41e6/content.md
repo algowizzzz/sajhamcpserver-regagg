@@ -1,0 +1,100 @@
+# Public consultation on draft Application Paper on operational resilience objectives and toolkit
+
+[1 Jul 2025](https://www.iais.org/2025/07/public-consultation-on-the-draft-application-paper-on-operational-resilience-objectives-and-toolkit/)
+
+in [Application Papers](https://www.iais.org/category/application-papers/), [closed consultations](https://www.iais.org/category/closed-consultations/), [Consultations](https://www.iais.org/category/consultations/), [Latest news](https://www.iais.org/category/latest-news/), [Supervisory and supporting material](https://www.iais.org/category/supervisory-and-supporting-material/)
+
+**This consultation is now closed and the Application Paper has been published.**
+
+###### Objectives and toolkit consultation (September 2025 - closed)
+
+[Consultation](https://www.iais.org/2025/07/public-consultation-on-the-draft-application-paper-on-operational-resilience-objectives-and-toolkit/)
+
+[Stakeholder event](https://www.iais.org/events/public-background-session-on-the-application-papers-on-artificial-intelligence-and-operational-resilience/)
+
+[Resolution of comments](https://www.iais.org/uploads/2026/02/Resolution-of-public-consultation-comments-on-Draft-Application-Paper-on-Operational-Resilience-Objectives-and-Toolkit.pdf)
+
+[Final paper](https://www.iais.org/uploads/2026/02/Application-Paper-on-operational-resilience-objectives-and-toolkit.pdf)
+
+[Stakeholder event](https://www.iais.org/events/public-discussion-webinar-on-the-application-paper-on-operational-resilience-objectives-and-toolkit/)
+
+###### Objectives consultation (August 2024 - closed)
+
+[Consultation](https://www.iais.org/2025/07/public-consultation-on-the-draft-application-paper-on-operational-resilience-objectives-and-toolkit/)
+
+[Stakeholder event](https://www.iais.org/events/public-background-session-on-the-draft-application-paper-on-operational-resilience-objectives-and-toolkit/)
+
+[Resolution of comments](https://www.iais.org/uploads/2025/07/Resolution-of-public-consultation-comments-on-Draft-Application-Paper-on-Operational-Resilience-Objectives.pdf)
+
+[Final paper](https://www.iais.org/uploads/2026/02/Application-Paper-on-operational-resilience-objectives-and-toolkit.pdf)
+
+The IAIS has published its [Application Paper on operational resilience objectives and toolkit](https://www.iais.org/uploads/2026/02/Application-Paper-on-operational-resilience-objectives-and-toolkit.pdf).
+
+The Insurance Core Principles (ICPs) establish the importance of insurers having effective risk and governance processes to manage all risks. The Application Paper supports supervisors and insurers in understanding how to assess and address operational resilience in light of the ICPs, in particular the links to:
+
+* ICP 2 (Supervisor)
+* ICP 3 (Information Sharing and Confidentiality Requirements)
+* ICP 7 (Corporate Governance)
+* ICP 8 (Risk Management and Internal Controls)
+* ICP 9 (Supervisory Review and Reporting)
+* ICP 10 (Preventive Measures, Corrective Measures and Sanctions)
+* ICP 16 (Enterprise Risk Management for Solvency Purposes)
+* ICP 24 (Macroprudential Supervision)
+* ICP 25 (Supervisory Cooperation and Coordination)
+
+The Application Paper, which has been updated following consultations in 2024 and 2025, consists of the operational resilience objectives (the objectives) and supporting practices and tools (the toolkit). The first component, the objectives, provides the basis for a high-level framework for meeting the ICPs, while the second component, the toolkit, provides supervisors with practical implementation approaches.
+
+Following the consultation, minor changes were made to the Application Paper to better highlight the operational resilience that emerges from several governance and risk management practices and disciplines. Some edits were made to the division of responsibilities for boards and senior management for Objective 1.1 and updates were made to some of the examples.
+
+The toolkit, which shares practices adopted by insurance supervisors, was based on the results of a member survey conducted in late 2024. The responses indicated:
+
+* A convergence in supervisory practices adopted for the governance and management of operational resilience; and
+* A wide variety of practices adopted by supervisors for the key elements of operational resilience regimes.
+
+For more information about IAIS’ ongoing work on operational resilience, please visit our dedicated page on [cyber risk and operational resilience](https://www.iais.org/activities-topics/cyber-risk/).
+
+A public discussion webinar was held on **19 February 2026** **at 13:00–14:00 CET** to present the final version of the Application Paper, the outcomes of the consultation and answer any questions from stakeholders. Click [here](https://www.iais.org/events/public-discussion-webinar-on-the-application-paper-on-operational-resilience-objectives-and-toolkit/) for details.
+
+### [Application Paper on operational resilience objectives and toolkit](https://www.iais.org/uploads/2026/02/Application-Paper-on-operational-resilience-objectives-and-toolkit.pdf) 12 Feb 2026
+
+[Download](https://www.iais.org/uploads/2026/02/Application-Paper-on-operational-resilience-objectives-and-toolkit.pdf)
+
+### [Resolution of public consultation comments on Draft Application Paper on Operational Resilience Objectives and Toolkit](https://www.iais.org/uploads/2026/02/Resolution-of-public-consultation-comments-on-Draft-Application-Paper-on-Operational-Resilience-Objectives-and-Toolkit.pdf) 12 Feb 2026
+
+[Download](https://www.iais.org/uploads/2026/02/Resolution-of-public-consultation-comments-on-Draft-Application-Paper-on-Operational-Resilience-Objectives-and-Toolkit.pdf)
+
+### [Draft Application Paper on operational resilience objectives and toolkit](https://www.iais.org/uploads/2025/07/Draft-Application-Paper-on-operational-resilience-objectives-and-toolkit.pdf) 1 Jul 2025
+
+The Application Paper provides a high-level framework together with practical examples to meet the Insurance Core Principles related to operational resilience.
+
+[Download](https://www.iais.org/uploads/2025/07/Draft-Application-Paper-on-operational-resilience-objectives-and-toolkit.pdf)
+
+### [Public consultation questions draft Application Paper on operational resilience objectives and toolkit](https://www.iais.org/uploads/2025/07/Public-consultation-questions-draft-Application-Paper-on-operational-resilience-objectives-and-toolkit.docx) 1 Jul 2025
+
+[Download](https://www.iais.org/uploads/2025/07/Public-consultation-questions-draft-Application-Paper-on-operational-resilience-objectives-and-toolkit.docx)
+
+### [Resolution of public consultation comments on Draft Application Paper on Operational Resilience Objectives](https://www.iais.org/uploads/2025/07/Resolution-of-public-consultation-comments-on-Draft-Application-Paper-on-Operational-Resilience-Objectives.pdf) 1 Jul 2025
+
+[Download](https://www.iais.org/uploads/2025/07/Resolution-of-public-consultation-comments-on-Draft-Application-Paper-on-Operational-Resilience-Objectives.pdf)
+
+### [Questions for public consultation on Draft Application Paper on Operational Resilience Objectives (and Toolkit)](https://www.iais.org/uploads/2024/08/Questions-for-public-consultation-on-Draft-Application-Paper-on-Operational-Resilience-Objectives-and-Toolkit.docx) 8 Aug 2024
+
+[Download](https://www.iais.org/uploads/2024/08/Questions-for-public-consultation-on-Draft-Application-Paper-on-Operational-Resilience-Objectives-and-Toolkit.docx)
+
+### [Draft Application Paper on Operational Resilience Objectives and Toolkit](https://www.iais.org/uploads/2024/08/Draft-Application-Paper-on-Operational-Resilience-Objectives-and-Toolkit.pdf) 8 Aug 2024
+
+[Download](https://www.iais.org/uploads/2024/08/Draft-Application-Paper-on-Operational-Resilience-Objectives-and-Toolkit.pdf)
+
+6 Mar 2026
+
+[Cyber risk](https://www.iais.org/tag/cyber-risk/)[Digital innovation (Fintech)](https://www.iais.org/tag/digital-innovation-fintech/)[Governance](https://www.iais.org/tag/governance/)[ICPs and ComFrame](https://www.iais.org/tag/icps-and-comframe/)[Operational Resilience](https://www.iais.org/tag/operational-resilience/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2025%2F07%2Fpublic-consultation-on-the-draft-application-paper-on-operational-resilience-objectives-and-toolkit%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

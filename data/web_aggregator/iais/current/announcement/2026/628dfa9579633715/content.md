@@ -1,0 +1,25 @@
+# IAIS recognises 2022 Distinguished Fellows
+
+[10 Nov 2022](https://www.iais.org/2022/11/iais-recognises-2022-distinguished-fellows/)
+
+in [Latest news](https://www.iais.org/category/latest-news/)
+
+The IAIS recognised yesterday its 2022 Distinguished Fellows. Awarded since 2004, Distinguished Fellows recognition honours former IAIS Member representatives for exemplary involvement in IAIS activities as well as outstanding service.
+
+The 2022 Distinguished Fellow recipients are: Thomas Schmitz-Lippert, Director-General, International Policy and Financial Stability, BaFIN and Eric Cioppa, formerly Maine Superintendent of Insurance. Both of this year’s recipients were recognised for their long records of dedication to, and leadership within, the IAIS.
+
+To learn more about IAIS Distinguished Fellows click [here](https://www.iais.org/about-the-iais/distinguished-fellows/).
+
+10 Nov 2022
+
+[IAIS Members](https://www.iais.org/tag/iais-members/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2022%2F11%2Fiais-recognises-2022-distinguished-fellows%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

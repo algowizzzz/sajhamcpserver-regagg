@@ -1,0 +1,1 @@
+Summary: # Public consultation on Insurance Capital Standard as a Prescribed Capital Requirement

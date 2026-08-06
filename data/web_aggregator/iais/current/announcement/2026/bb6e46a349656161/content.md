@@ -1,0 +1,681 @@
+Public 
+ 
+ 
+ 
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 1 of 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Frequently Asked Questions on the 
+IAIS Multilateral Memorandum of 
+Understanding (IAIS MMoU) 
+ 
+ 
+ 
+December 2021
+
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 2 of 15 
+ 
+About the IAIS   
+  
+The International Association of Insurance Supervisors (IAIS) is a voluntary membership 
+organisation of insurance supervisors and regulators from more than 200 jurisdictions. The 
+mission of the IAIS is to promote effective and globally consistent supervision of the insurance 
+industry in order to develop and maintain fair, safe and stable insurance markets for the benefit 
+and protection of policyholders and to contribute to global financial stability.  
+  
+Established in 1994, the IAIS is the international sta ndard setting body responsible for 
+developing principles, standards and other supporting material for the supervision of the 
+insurance sector and assisting in their implementation. The IAIS also provides a forum for 
+Members to share their experiences and u nderstanding of insurance supervision and 
+insurance markets.  
+ 
+The IAIS coordinates its work with other international financial policymakers and associations 
+of supervisors or regulators, and assists in shaping financial systems globally. In particular, 
+the IAIS is a member of the Financial Stability Board (FSB), member of the Standards Advisory 
+Council of the International Accounting Standards Board (IASB), and partner in the Access to 
+Insurance Initiative (A2ii). In recognition of its collective expertise , the IAIS also is routinely 
+called upon by the G20 leaders and other international standard setting bodies for input on 
+insurance issues as well as on issues related to the regulation and supervision of the global 
+financial sector.  
+ 
+ 
+International Association of Insurance Supervisors  
+c/o Bank for International Settlements   
+CH-4002 Basel   
+Switzerland   
+Tel:  +41 61 280 8090  Fax: +41 61 280 9151 
+ www.iaisweb.org  
+   
+This document was prepared in April 2013 and most recently updated on 7 December 2021 
+by the Signatories Working Group. This document is available on the IAIS website 
+(www.iaisweb.org). 
+© International Association of Insurance Supervisors (IAIS), 2021.   
+All rights reserved. Brief excerpts may be reproduced or translated provided the source is 
+stated.
+
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 3 of 15 
+ 
+Contents 
+Acronyms ................................ ................................ ................................ ..............................  4 
+1 Introduction ................................ ................................ ................................ .................... 5 
+2 Background & policy information ................................ ................................ .................... 5 
+2.1 What is the IAIS MMoU? ................................ ................................ ......................... 5 
+2.2 What are the objectives of the IAIS MMoU? ................................ ............................ 5 
+2.3 Why was the IAIS MMoU developed? ................................ ................................ ..... 6 
+2.4 Is the IAIS MMoU legally binding? ................................ ................................ .......... 6 
+2.5 Does the IAIS MMoU affect other agreements? ................................ ...................... 6 
+2.6 What types of information can be exchanged under the IAIS MMoU? ..................... 7 
+2.7 Does the IAIS MMoU apply to the exchange of information within supervisory 
+colleges? ................................ ................................ ................................ ........................... 7 
+2.8 Can signatories exchange information outside the scope of the IAIS MMoU? ......... 7 
+2.9 What mechanisms are in place to ensure signatories’ ongoing compliance with the 
+IAIS MMoU regime? ................................ ................................ ................................ .......... 7 
+2.10 Can a signatory’s participation in the IAIS MMoU be terminated? ........................... 8 
+2.11 Where can I find the official text of the IAIS MMoU and its annexes? ...................... 8 
+2.12 Which supervisory materials and other IAIS documents are relevant to supervisory 
+information exchange in an international context? ................................ ............................. 8 
+3 Confidentiality and Disclosure ................................ ................................ ........................ 9 
+3.1 What are the cornerstones of the IAIS MMoU confidentiality regime? ..................... 9 
+3.2 How is confidentiality of information maintained under the IAIS MMoU? ................. 9 
+3.3 Does a signatory who receives a request for confidential information have any 
+discretion in deciding whether to share the information?................................ .................. 10 
+3.4 To what extent can confidential information received under the IAIS MMoU be 
+disclosed to third parties? ................................ ................................ ................................  10 
+3.5 Who may challenge a requested authority’s decision to share confidential 
+information? ................................ ................................ ................................ ..................... 11 
+3.6 How is confidential information protected if the laws applicable to the requested 
+authority are more stringent than the laws applicable to the requesting authority and there 
+is a request to the latter authority to pass on confidential information? ............................ 12 
+3.7 What happens when a signatory is required to disclose confidential information  
+provided to it under the IAIS MMoU to other local, regional, state, federal or international 
+law enforcement or regulatory officials who have authority over the regulated entity? ..... 12 
+3.8 What happens if confidentiality laws applicable to different signatory authorities 
+conflict with each other? ................................ ................................ ................................ .. 13 
+3.9 What actions should signatories take in case of a breach of confidential information 
+exchanged under the IAIS MMoU ? ................................ ................................ ................. 13 
+4 Accession and Validation Process ................................ ................................ ............... 13 
+4.1 Who can become a signatory to the IAIS MMoU? ................................ ................. 13 
+4.2 What are the requirements for becoming a signatory to the IAIS MMoU? ............. 13 
+4.3 How is the validation process structured? ................................ ............................. 14 
+4.4 What is the time for completing the validation process? ................................ ........ 15 
+4.5 What procedures apply if a signatory authority undergoes reorganisation 
+subsequently after acceding to the IAIS MMoU? ................................ ............................. 15
+
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 4 of 15 
+ 
+ 
+Acronyms 
+General 
+AML Anti-money laundering 
+CFT Combating the financing of terrorism 
+CMG Crisis Management Group 
+ComFrame Common Framework for the Supervision of Internationally Active 
+Insurance Groups 
+IAIG Internationally Active Insurance Group 
+IAIS  International Association of Insurance Supervisors  
+ICP  Insurance Core Principle 
+MMoU Multilateral Memorandum of Understanding 
+MoU Memorandum of Understanding 
+IAIS Committees, Subcommittees and other groups 
+ExCo Executive Committee  
+HLC High Level Committee 
+IAC Implementation and Assessment Committee 
+MPC Macroprudential Committee 
+PDC Policy Development Committee  
+SWG Signatories Working Group
+
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 5 of 15 
+ 
+1 Introduction 
+These Frequently Asked Questions (FAQs) provide information on the background, features 
+and procedures of the IAIS MMoU and are based upon the discussions held in the now defunct 
+IAIS Supervisory Cooperation Subcommittee and the Signatories Working Group (SWG).1  
+2 Background & policy information 
+2.1 What is the IAIS MMoU? 
+The IAIS MMoU is a global framework for cooperation and information exchange between 
+insurance supervisors. 
+Like any other Memorandum of Understanding (MoU), it is a statement of its signatories’ intent.   
+In this case, the intent is to cooperate in the field of information exchange and to follow agreed 
+procedures for handling information requests.  
+The IAIS MMoU requires a supervisor’s jurisdiction to have legislation in place that meets a 
+common standard.  This imposes an obligation on a supervisor to maintain information  it 
+receives in its statutory role as confidential, in order to allow such information to be shared in 
+furtherance of administering its regulatory duties and functions and to assist other supervisors 
+in fulfilling similar duties and functions under their domestic laws (see 3.1 et seq.). Therefore, 
+under the IAIS MMoU , the intent  is to assist supervisors in facilitating the protection of  the 
+confidential status of information received  and shared  by them in fulfilling their statutory 
+mandates. Essentially, t he IAIS MMoU provides a process f or signatory authorities  to 
+confidently share information with one another, based upon them all administering similar 
+confidentiality regimes in their respective jurisdictions.   
+Supervisors may not accede to the IAIS MMoU simply by signing it. Firstly, they must undergo 
+a rigorous assessment of their confidentiality regimes (the "validation process" or "application 
+process"). This assessment is achieved by benchmarking an applicant supervisor's domestic 
+confidentiality laws against minimum standards required by the IAIS MMoU framework (in 
+particular Annex B). 
+The way in which t he IAIS MMoU benefits its signatories  is that upon  accession, each 
+signatory may rely on one another’s compliance with the strict confidentiality regime imposed 
+under their respective domestic laws, which each signatory would have previously confirmed, 
+evidenced and had reviewed by the SWG, before acceding to the IAIS MMoU (see 4.2). Thus, 
+signatories may exchange relevant information with and provide assistance to other 
+signatories freely, thereby promoting the financia l soundness and stability of cross -border 
+insurance operations for the benefit and protection of policyholders.  
+The application  and review of a jurisdiction’s confidentiality laws  is carried out under the 
+auspices of the SWG. Further, as signatories must continually adhere to the IAIS MMoU ’s 
+standards, monitoring compliance of signatories to the IAIS MMoU also falls with in the remit 
+of this group. 
+2.2 What are the objectives of the IAIS MMoU? 
+The IAIS MMoU benefits supervisors by establishing a formal basis for cooperation and 
+information exchange between signatory authorities  regarding the supervision of insurers 
+where cross-border aspects arise. All signatories to the IAIS MMoU must undergo a validation 
+of their laws and regulations to demonstrate compliance with the strict confidentiality regime  
+ 
+1 The SWG is the group in which all admitted signatories to the IAIS MMoU participate.
+
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 6 of 15 
+ 
+of the IAIS MMoU. This process ensures that the IAIS MMoU removes hurdles to the effective 
+exchange of supervisory information by verifying that a supervisor meets the requirements for 
+admission, including those with respect to confidential treatment of information. Therefore, 
+when signatories need to exchange confidential information , they need not indepe ndently 
+verify whether each counterparty has the appropriate provisions and procedures in place to 
+protect the confidentiality of such information (eg confidentiality requirements based on the 
+principle statement and standards of Insurance Core Principle ( ICP) 3 (Information Sharing 
+and Confidentiality Requirements).  
+2.3 Why was the IAIS MMoU developed? 
+Close cooperation and information exchange amongst insurance supervisors are extremely 
+important factor s for supervising insurers , including insurance groups and Internationally 
+Active Insurance Groups ( IAIGs) in an effective and strengthened manner while preserving 
+financial stability. This is particularly underscored in the context of supervision of insurers that 
+have extensive cross-border operations. Thus, the IAIS MMoU was developed to promote 
+close cooperation and information exchange  by providing a set of defined  international 
+standards relative to confidentiality regimes that insurance supervisors must comply with to 
+become signatories.  
+By joining the IAIS MMoU, signatories commit to: 
+• Providing each other with the fullest assistance possible consistent with their 
+functions, subject to domestic Applicable Law;2 
+• Considering requests from one another seriously and reply without undue delay;3 and 
+• Relying on each other’s compliance with the strict confidentiality regime.4 
+The IAIS MMoU may also greatly facilitate effective cooperation and information exchange 
+within supervisory colleges (see 2.7).  
+Staff of signatory authorities will benefit from the legal certainty that comes with authorities' 
+compliance with the IAIS MMoU regime. 
+2.4 Is the IAIS MMoU legally binding? 
+The IAIS MMoU itself is not an international treaty or law. It is an arrangement amongst 
+insurance supervisors in order to facilitate the exchange of information between themselves 
+in the discharge of their supervisory responsibilities. It does not create any legal ly binding 
+obligations, modify, or supersede any jurisdictional law, or create any directly or  indirectly 
+enforceable rights.  Nevertheless, the IAIS MMoU incorporates monitoring mechanisms to 
+ensure ongoing compliance by signatories with requirements under the IAIS MMoU (see 2.9 
+and 2.10) 
+2.5 Does the IAIS MMoU affect other agreements? 
+The IAIS MMoU is not intended to affect other multilateral or bilateral agreements. 5 It is 
+common practice that supervisors are signatories to more than one agreement with other 
+jurisdictions regulating information exchange. In some instances, these may go wider than the 
+IAIS MMoU, for example by covering group supervision arrangements. In other instances the 
+scope of the IAIS MMoU may be wider than existing agreements between supervisors as the 
+ 
+2 IAIS MMoU, Article 4, Provision 2. 
+3 ibid. 
+4 IAIS MMoU, Article 4, Provision 3. 
+5 IAIS MMoU, Article 3, Provision 6.
+
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 7 of 15 
+ 
+IAIS MMoU also covers areas such as reinsurance, intermediaries and Anti-money laundering 
+and combating the financing of terrorism (AML/CFT) matters.6  
+2.6 What types of information can be exchanged under the IAIS MMoU?  
+The IAIS MMoU  does not specify or limit the form or type of confidential information which 
+may be shared amongst supervisors, for example,  information requests in relation to the 
+supervision of insurers, regulated entities, and persons. However, all signatories must have a 
+legitimate interest in the information requested. Information related to emerging topics such 
+as climate risks, cyber security and pandemic risks would also fall into the realm of information 
+exchange under the IAIS MMoU, where it meets the aforementioned criteria. It should be noted 
+that the IAIS MMoU does not apply to publicly available information, which does not need to 
+be shared through the IAIS MMoU’s confidentiality protocols.  
+2.7 Does the IAIS MMoU apply to the exchange of information within supervisory 
+colleges? 
+Yes. The IAIS MMoU is applicable to the exchange of information within supervisory colleges, 
+including those established for IAIGs. 
+All signatories to the IAIS MMoU undergo a validation of their laws and regulations to 
+demonstrate compliance with the strict confidentiality regime of the IAIS MMoU (see 4.2). For 
+this reason, if  all relevant parties are signatories to the IAIS MMoU,  it is the preferred 
+framework for multilateral information exchange.7 Where a supervisory college includes non-
+signatories to the IAIS MMoU, then such members of the supervisory college should enter into 
+a similar long-term agreement covering information exchange and confidentiality, which could 
+be included in the college coordination agreement.8 
+Likewise, signatories may consider applying the IAIS MMoU to the exchange of information 
+within other types of coordination arrangements,9 such as a Crisis Management Group (CMG). 
+2.8 Can signatories exchange information outside the scope of the IAIS MMoU? 
+Yes. The IAIS MMoU does not affect the freedom of signatories to cooperate and exchange 
+information on a formal or on an informal basis, to the extent permitted by applicable domestic 
+law. 
+2.9 What mechanisms are in place to ensure signatories’ ongoing compliance with 
+the IAIS MMoU regime? 
+The SWG oversees ongoing compliance with the IAIS MMoU regime. Where SWG members 
+observe that a signatory is not acting in accordance with provisions set forth under the IAIS 
+MMoU,10 then that issue could be subject to  a review by the SWG. Such a review could be 
+triggered by a request from an affected signatory. Based upon the results of the review 
+undertaken, the SWG may determine that there has been a demonstrable change in the 
+ 
+6 IAIS MMoU, Article 3, Provision 4. 
+7 ICP 3.2.2. 
+8 ICP 25.6.8. The Application Paper on Supervisory Colleges describes the processes and practices related to the 
+establishment and functioning of supervisory colleges including perspectives of information exchange and is 
+available at the following link: https://www.iaisweb.org/page/supervisory-material/application-papers 
+9 Coordination arrangements are mechanisms to foster cooperation and coordination between involved supervisors 
+with regard to the supervision of insurance groups, as well as to promote common understanding, communication 
+and information exchange. One form of coordination arrangements is a supervisory college. 
+10 For example, see IAIS MMoU, Article 4, Provision 2, which stipulates: “Subject to domestic Applicable Law, the 
+Signatory Authorities under this MMoU will provide each other with the fullest assistance possible consistent with 
+their regulatory functions. They will consider requests from one another seriously and reply without undue delay.”
+
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 8 of 15 
+ 
+willingness or ability of that signatory t o meet the provisions of the IAIS MMoU .  In such an 
+instance the SWG will inform the Implementation and Assessment Committee (IAC) and the 
+High Level Committee (HLC) that appropriate remedial measures should be applied.11 Upon 
+the written recommendation of  the SWG, the HLC may apply such remedial actions as are  
+deemed appropriate in order to encourage the signatory’s compliance with the provisions of 
+the IAIS MMoU or it may terminate the signatory’s participation in the IAIS MMoU, according 
+to the procedure as set forth in Article 9, Provision 7 of the IAIS MMoU (see 2.10).12  
+The SWG will not make a recommendation to the IAC nor to the HLC until it has first provided 
+appropriate notice to the signatory and the signatory has had an opportunity to make 
+representations to the SWG.13  
+Where there have been substantial changes in relevant domestic legislation, signatories are 
+required to notify the IAIS Secretariat, who shall then inform all signatory authorities of these 
+changes, as soon as practically possible.14 
+In connection with the foregoing, where a signatory undergoes a reorganisation, the signatory 
+shall, as early as possible,  notify the IAIS Secretariat in writing  to provide all  necessary 
+information in order for its succeeding authority (or authorities) to continue their participation 
+in the IAIS MMoU. The Secretariat shall then inform all signa tory authorities of its 
+reorganisation for review and approval (see 4.5). 
+2.10 Can a signatory’s participation in the IAIS MMoU be terminated? 
+A signatory’s participation in the IAIS MMoU  may be terminated in exceptional cases . 
+Examples of such cases include , but are not limited to,  where a signatory is held to have 
+abused provisions of the IAIS MMoU for its own  or a third party’s purpose, and where a 
+signatory contravenes the confidentiality regime of the IAIS MMoU.15 Based on such grounds, 
+if the SWG determines that there has been a demonstrable change in the willingness or ability 
+of a signatory authority to meet the provisions of the IAIS MMoU, it will inform the IAC (or its 
+successor) and the HLC that appropriate remedial measures should b e undertaken , (see 
+2.9).16 As a last resort, the HLC may terminate the signatory authority’s participation in the 
+IAIS MMoU. 
+2.11 Where can I find the official text of the IAIS MMoU and its annexes? 
+The text of the IAIS MMoU, its annexes and a list of signatories can be found on the IAIS 
+website www.IAISweb.org under MMoU.  
+2.12 Which supervisory materials and other IAIS documents are relevant to 
+supervisory information exchange in an international context? 
+• ICP 3 (Information Sharing an d Confidentiality Requirements),  ICP 25 (Supervisory 
+Cooperation and Coordination) and the Common Framework fo r the Supervision of 
+Internationally Active Insurance Groups (ComFrame) material integrated therein; 
+ 
+11 IAIS MMoU, Annex C, Part B, Provision 15. 
+12 ibid. 
+13 ibid. 
+14 IAIS MMoU, Annex C, Part B, Provision 14. 
+15 IAIS MMoU, Article 9, Provision 7. 
+16 IAIS MMoU, Annex C, Part B, Provision 15. The HLC is composed of the Chairs of the ExCo, IAC, MPC and 
+PDC (or their successors).
+
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 9 of 15 
+ 
+• IAIS MMoU with Annex A (List of Signatory Authorities), Annex B (IAIS MMoU 
+Confidentiality Regime), Annex C (Application and Accession), and Annex D (IAIS MMoU 
+Request Sheet); 
+o Annex C sets out the requirements for applications, in particular with a view to 
+documentation purposes, and describes how the IAIS MMoU processes are 
+monitored;  
+o Annex D is suggested, but not mandatory to use when exchanging inf ormation; 
+and 
+• Administration and Accession Procedures of the IAIS MMoU. This document describes , 
+among others, the role of involved bodies ( the SWG, IAIS Secretariat and the HLC) and 
+the validation process as well as the decision and mediation procedures, (available to IAIS 
+Members only). 
+3 Confidentiality and Disclosure 
+3.1 What are the cornerstones of the IAIS MMoU confidentiality regime? 
+• Applicants must demonstrate that all persons gaining access to shared information in the 
+course of their duties are bound by a legal obligation of professional secrecy. 17 The 
+professional secrecy requirements apply to any person currently or previously employed 
+by or acting on behalf of a signatory authority (see 3.2);18 
+• The exchange of confidential information shall serve no other purpose than those directly 
+related to the fulfilment of a signatory authority’s supervisory functions (valid purpose);19 
+• The obligation of professional secrecy means that all confidential information received may 
+not be divulged to any person or authority whatsoever, except in clearly defined 
+circumstances and subject to requirements;20 
+• Confidential information originating from another signatory authority must remain subject 
+to equivalent confidentiality protections;21 and 
+• Any passing on of confidential information in breach of professional secrecy must be 
+unlawful in the relevant jurisdiction of the signatory authority.22 
+3.2 How is confidentiality of information maintained under the IAIS MMoU? 
+The confidentiality of any non-public information exchanged under the IAIS MMoU is ensured 
+by pre-existing domestic legislation in each signatory jurisdiction that meets or exceeds the 
+requirements set out in the IAIS MMoU. The "obligation of professional secrecy," means, that 
+all persons gaining access to confidential information in the course of their duties remain 
+bound to maintain its confidentiality. 23 These requirements apply to any person currently or 
+previously employed by, or acting on behalf of, a signatory authority, 24 including active staff, 
+retirees/pensioners, temporary workers, part -time workers, and consultants.  Should a 
+ 
+17 IAIS MMoU, Annex B, Part A, Provision 4; IAIS MMoU, Annex C, Part C, Provision 16(b). 
+18 IAIS MMoU, Annex B, Part A, Provision 6. 
+19 IAIS MMoU, Annex B, Part A, Provision 3. 
+20 IAIS MMoU, Annex B, Part A. Provision 5. 
+21 IAIS MMoU, Annex B, Part A, Provision 7. 
+22 IAIS MMoU, Annex B, Part A, Provision 8. 
+23 IAIS MMoU, Annex B, Part A, Provision 4. 
+24 IAIS MMoU, Annex B, Part A, Provision 6.
+
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 10 of 15 
+ 
+signatory authority pass on confidential information, which has been provided under the IAIS 
+MMoU to a third party, eg other domestic bodies competent in the financial services field, such 
+as central banks, then the signatory authority shall ensure that these requirements also apply 
+to the third party (see 3.4). 
+Signatories must have domestic legislation in place, that makes it unlawful for any person to 
+pass on confidential information in breach of the obligation of professional secrecy.25 As part 
+of the validation process , the validation teams assess an applicant jurisdiction’s laws and 
+regulations to determine how a breach of the confidentiality regime will be sanctioned. 
+3.3 Does a signatory who receives a request for confidential information have any 
+discretion in deciding whether to share the information?  
+When confidential information is requested, a signatory is entitled to determine, in its sole 
+discretion, whether or not to share such information. Article 6(3) of the IAIS MMoU sets out 
+criteria that the requested authority may consider before sharing confidential information. 26 
+These criteria are: 
+• Whether the request conforms with the IAIS MMoU;  
+• Whether compliance with the request would be so burdensome as to disrupt the 
+proper performance of the requested authority’s functions;  
+• Whether it would be otherwise contrary to the essential interest of the requested 
+authority’s jurisdiction to provide the information requested;  
+• Any other matters specified by the applicable domestic law of the requested 
+authority’s jurisdiction (in particular, those relating to confidentiality and professional 
+secrecy, data protection and privacy, and procedural fairness); and  
+• Whether complying with the request may otherwise be prejudicial to the performance 
+by the requested authority of its functions.27  
+Where a request is consistent with the IAIS MMoU, the expectation is that the requested 
+information will be provided (ie that discretion will be exercised in favour of sharing information, 
+subject to the exceptions in the IAIS MMoU).  
+3.4 To what extent can confidential information received under the IAIS MMoU be 
+disclosed to third parties? 
+Before a signatory shares information with a third party, including another sig natory, it must 
+obtain the prior explicit consent from the signatory that provided the information.28 Passing on 
+of confidential information shall be decided on a case-by-case basis.29 
+Confidential information may only be passed on to a third party , if they are bound by 
+professional secrecy rules that are at least equivalent to those set out in Annex B, P art A of 
+the IAIS MMoU. 30 If the third party is an IAIS MMoU signatory,  the statutory confidentiality 
+requirements will have been reviewed and approved as equivalent to the threshold conditions 
+ 
+25 IAIS MMoU, Annex B, Part A, Provision 8. 
+26 In this document, “requesting authority” and “requested authority” have the following meanings, consistent with 
+the terminology of the IAIS MMoU: 
+• “Requesting authority” – a signatory making a request under the IAIS MMoU; and 
+• “Requested authority” – a signatory to whom a request is made under the IAIS MMoU. 
+27 IAIS MMoU, Article 6, Provision 3. 
+28 IAIS MMoU, Annex B, Part B, Provision 9. 
+29 IAIS MMoU, Annex B, Part B, Provision 10. 
+30 IAIS MMoU, Annex B, Part A. Provision 7.
+
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 11 of 15 
+ 
+required under the IAIS MMoU, during the validation process. A verification might also have 
+been provided, in connection with another long -term information  sharing agreement .  
+Alternatively, if the third party is another competent authority within the same jurisdiction, there 
+may already be established procedures in place governed by domestic law. In other situations, 
+case-by-case verification may be necessary. 
+Where the conditions above are satisfied, and the third party has committed to protecting the 
+confidentiality of the information and to using the information for no other purposes than those 
+specified in the request, the signatories may consent to passing on of information where it will 
+assist signatories in the fulfilment of their supervisory functions; and other competent domestic 
+bodies  in the financial services field, including central banks, law enforcement agencies and 
+relevant courts in the performance of their duties.31  
+Specified purposes under the IAIS MMoU cover in particular requests in relation to: 
+• Licensing;  
+• Fit and proper criteria;  
+• Ongoing supervision including auditing matters;  
+• Resolution and liquidation;  
+• Criminal and regulatory proceedings; and  
+• The administration of guarantee funds.32  
+Furthermore, signatories shall generally consent to the passing on of confidential information, 
+where the regulated entity to whom the information relates explicitly agrees , in accordance 
+with the requirements of the signatories’ domestic legislation.33 
+3.5 Who may challenge a requested authority’s decision to share confidential 
+information? 
+The ability to exchange confidential supervisory information between supervisors is an integral 
+part of supervisory work as long as such occurs in accordance with the requirements of the 
+signatories’ domestic legislation, which has been verified as part of the validation process to 
+be in compliance with the IAIS MMoU.  
+However, it cannot be ruled out that regulated entities may assert that the criteria applied to 
+the IAIS MMoU  exchange of information  process has not been  met. In this scenario, the 
+domestic laws of the requested signatory may determine  the manner in which  a challenge 
+may occur and how such a challenge shall be resolved. 
+An objection by a signatory that information was not shared in accordance with the IAIS MMoU 
+criterion, is not legal in nature, as the IAIS MMoU does not create enforceable legal obligations. 
+This type of objection would be considered by the SWG, and if appropriate by the HLC, if an 
+SWG member claimed that there has been a demonstrable change in the willingness or ability 
+of a signatory authority to meet the provisions of the IAIS MMoU (see 2.10).34 
+ 
+31 IAIS MMoU, Annex B, Part B, Provision 11. 
+32 IAIS MMoU, Annex B, Part B, Provision 12. 
+33 IAIS MMoU, Annex B, Part B, Provision 13. 
+34 IAIS MMoU, Annex C, Part B, Provision 15.
+
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 12 of 15 
+ 
+3.6 How is confidential information protected if the laws applicable to the requested 
+authority are more stringent than the laws applicable to the requesting authority 
+and there is a request to the latter authority to pass on confidential information? 
+It is important to recognise that despite potential differences, both legal regimes have been 
+found to meet the defined minimum standards of the IAIS MMoU, otherwise the respective 
+supervisors would not be signatories. 
+In order to pass on information to another signatory authority, prior explicit consent needs to 
+be obtained from the authority where the information originates.35 Should the authority where 
+the information originates believe that the information would not be dealt with properly by the 
+requesting authority, or any further requesting authorities, it can decline to give its consent to 
+the passing on of the information. 
+Compliance with the conf identiality and prior consent requirements is an integral part of the 
+strict confidentiality regime of the IAIS MMoU. 
+3.7 What happens when a signatory is required to disclose confidential information 
+provided to it under the IAIS MMoU to other local, regional, state, federal or 
+international law enforcement or regulatory officials who have authority over the 
+regulated entity? 
+In circumstances where  it is necessary for a signat ory to disclose confidential information 
+provided under the IAIS MMoU to other local, regional, state, federal or international law 
+enforcement or regulatory officials who have authority over the regulated entity, it must: 
+• Promptly notify the signatory that has supplied the information; 
+• Obtain prior consent; and  
+• Prior to passing on the information, ensure that each recipient agrees to maintain the 
+confidential status of the information provided and has the legal authority to do so.36  
+An authority may be compelled to disclose information by a court exercising criminal, civil or 
+administrative jurisdiction. If the court issues a subpoena to an authority to produce documents 
+in its possession , the authority would be expected to comply with the court order. In some 
+jurisdictions, Parliamentary Committees or Congressional Committees also have the power to 
+subpoena authorities and seek information.  
+A signatory that has received a court order is r equired to notify the  requested authority that 
+provided the information , that it has been served with a subpoena and must seek the 
+requested authority’s consent to comply with the subpoena. Where consent is given, the 
+information can be disclosed. Where consent is not given, the requesting authority is required 
+to use all reasonable means under its domestic laws to resist the subpoena ("all reasonable 
+legal means").37 The means that actually are available for use by the applicant are assessed 
+during the validation process. 
+In addition, if a requesting authority, at the time of making a request, intends or expects that 
+confidential information provided by a requested authority under the IAIS MMoU is likely to be 
+disclosed to other local, regional, state, federal or international law enforcement or regulatory 
+officials who have authority over the regulated entity, such an intention or expectation must 
+be indicated in the request. 
+ 
+35 IAIS MMoU, Article 4, Provision 4; IAIS MMoU, Annex B, Part B, Provision 9. 
+36 IAIS MMoU, Article 5, Provision 9. 
+37 IAIS MMoU, Article 5, Provision 10.
+
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 13 of 15 
+ 
+3.8 What happens if confidentiality laws applicable to different signatory authorities 
+conflict with each other? 
+During the application process, a supervisor’s legal regime is assessed to ensure that it meets 
+a defined minimum level as set out in the IAIS MMoU. As long as this minimum threshold is 
+met, differences in local or regi onal approaches to professional secrecy are irrelevant for 
+purposes of the IAIS MMoU. Usually, differences in the underlying confidentiality laws are 
+likely to  be immaterial, but on rare occasions, it may be necessary to consider  the gaps 
+between the scope of the confidentiality protections provided by the requested and requesting 
+authorities.38 
+The IAIS MMoU commits each requesting authority to hold all information received under the 
+IAIS MMoU as confidential (see also ICP 2.7.1).39 Information must be treated as confidential 
+if it is confidential under the domestic law of the requested authority.40 Some jurisdictions have 
+incorporated this principle into their domestic law. However, other jurisdictions do not have 
+such laws, or limit their scope to specifi ed classes of information. In such cases, the duty of 
+the requesting authority to protect all information it receives includes the duty to refrain from 
+requesting information that it does not have the power to protect. 
+3.9 What actions should signatories take in case of a breach of confidential 
+information exchanged under the IAIS MMoU? 
+All signatories must have domestic legislation that makes it unlawful to pass on confidential 
+information in breach of the obligation of professional secrecy (see  3.1). In case confidential 
+information exchanged under the IAIS MMoU is either inadvertently or wilfully breached, 
+involved signatories should promptl y take appropriate actions in accordance with their 
+domestic laws or internal procedures. In general, the requesting authority would inform the 
+requested authority of the breach of confidential information a s soon as possible and liaise 
+with the requested authority on any remedial measures. The requesting authority may , or 
+could even be obliged under domestic laws to, inform supervised entities of the breach. 
+4 Accession and Validation Process 
+4.1 Who can become a signatory to the IAIS MMoU? 
+Participation in the IAIS MMoU is open to any insurance supervisor which is an IAIS Member.41  
+4.2 What are the requirements for becoming a signatory to the IAIS MMoU? 
+A signatory authority must fulfil all accession requirements as defined in the IAIS MMoU and 
+its annexes. The IAIS MMoU validation process requires a n applicant  to demonstrate, 
+amongst other things, that confidential information originating from another jurisdiction will 
+remain subject to the same confidentiality protections and that all persons gaining access to 
+this information in the course of their duties are bound by an obligation of professional secrecy.  
+ 
+38 ICP 3.1.1 describes various categories of confidential supervisory information, however, the precise boundaries 
+between public and confidential information vary from jurisdiction to jurisdiction. For example, it is generally agreed 
+that certain financial information must be protected, while other financial information must be publicly disclosed, 
+but some particular items of financial information might be considered public in some jurisdictions and confidential 
+in others. 
+39 IAIS MMoU, Article 5, Provision 4. 
+40 IAIS MMoU, Article 5, Provision 5.  
+41 IAIS MMoU, Annex C, Part A, Paragraph 1 ; consistent with the current version of IAIS By -Laws (published in 
+November 2018), the first sentence of this paragraph should be read as: “All insurance industry supervisors who 
+are IAIS members are eligible to become a Signatory Authority to the MMoU at any time”.
+
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 14 of 15 
+ 
+If an applicant is unable to satisfy the requirements of the IAIS MMoU because of obstacles 
+under its laws or procedures, it will need to remove such obstacles by amending its laws and 
+procedures to ensure consistency with the IAIS MMoU. If it fails to do so, it will not be admitted 
+as a signatory. In order to successfully complete the validation process, the validation team 
+must recommend that the application be approved and the SWG must unanimously approve  
+the application. 
+In ord er to prepare for any legislative or regulatory changes deemed necessary by the 
+validation team, an applicant may ask that its application be suspended for up to six months.42 
+Upon request, this suspension may be extended for a further period of up to six months, but 
+if a period expires without a request from the applicant to extend it, the applicatio n will be 
+treated as withdrawn.43 
+4.3 How is the validation process structured? 
+The validation process consists of the following steps: 
+1. A supervisor submits an online application including relevant supporting material, such 
+as supervisory legislation.  
+2. The IAIS Secretariat checks whether the application is complete (pre liminary 
+screening). 
+3. When the application is complete, the SWG will assign a validation team to review the 
+material and prepare a proposal for admission to the SWG. The validation team 
+consists of several insurance supervisors from different geographic locations selected 
+on the basis of their knowledge and experience. 
+4. When the validation team has prepared its report, the SWG will have 20 business days 
+to express its approval or disapproval. 
+If the SWG approves the application, the HLC, composed of the Chairs of the  IAIS 
+Executive Committee (ExCo), the IAC, the Macroprudential Committee (MPC) and the 
+Policy Development Committee ( PDC) (or their successors) , may endorse the 
+application for admission, in which case the applicant is admitted to the IAIS MMoU. 
+5. If the SWG makes comments or has questions with respect to the application content 
+or review process , the validation team shall provide a response , addressing these 
+points to the SWG within 30 business days. The SWG will then have 20 business days 
+to respond to the information provided by the validation team. Where the SWG remains 
+of the view that the applicant has not satisfied the criterion required by the IAIS MMoU, 
+the validation team may review and discuss the application for an additional  30 
+business days, to achieve a consensus, liaising as necessary with the applicant and 
+the relevant members of the SWG . Once this period has ended, the validation team 
+shall provide a final report. 
+6. Following the review of the final report and if the SWG does not agree to approve the 
+applicant as a signatory, the validation team will advise the applicant as to: 
+• What changes are, in view of the SWG, required for the applicant to become a 
+signatory; or 
+• That it may activate the mediation process.  In this case, a reviewing validation 
+team appointed by the Chair of the IAC will review the outstanding issues and 
+ 
+42 IAIS MMoU, Annex C, Part A, Provision 10. 
+43 IAIS MMoU, Annex C, Part A, Provisions 10 and 11.
+
+Public 
+Frequently Asked Questions on the IAIS MMoU 
+December 2021 Page 15 of 15 
+ 
+submit a recommendation. Where the reviewing validation team and the SWG 
+cannot reach a consensus  after this process has been undertaken , the HLC 
+will act as an arbiter. 
+More information about the validation process is available in the Administration and Accession 
+Procedures of the IAIS MMoU, (available to IAIS Members only). 
+To the extent possible, a  supervisor who intend s to apply for IAIS MMoU Accession is 
+encouraged to notify the Secretariat as to when the Member intends to submit an application. 
+This prior notification would allow the SWG to better plan the overall management of the 
+validation process, including arrangement of a validation team. 
+4.4 What is the time for completing the validation process? 
+There is no fixed time for the completion of a validation, but the SWG and the validation teams 
+endeavour to complete a validation within one year. The timeframe can be longer or shorter 
+depending on the circumstances. In practice, there are various validation processes that have 
+taken longer. In these cases, special circumstances have arisen, for example, a requirement 
+that the applicant waits for a change in legislation before it proceed s. The process may also 
+require an applicant to comply with additional information or meeting requests from the 
+validation team, which could also result in a delay.  
+4.5 What procedures apply if a signatory authority undergoes reorganisation 
+subsequently after acceding to the IAIS MMoU? 
+If a signatory a uthority is renamed , restructured or merged with another authority, the 
+conditions for its legal successor to participate in the IAIS MMoU  are detailed in Part D of 
+Annex C of the IAIS MMoU . Likewise, if a signatory authority is split up, each succeeding 
+authority may participate in the IAIS MMoU subject to the same conditions. 
+Specifically, in these types of cases, the signatory authority needs to notify the Secretariat, as 
+early as possible, of the nature of the measures affecting the authority's legal regime, confirm 
+in writing the legal successor's obligations and purview , including confirmation of the 
+successor body’s eligibility for signatory auth ority status, and provide supporting information 
+and documents. 44 Upon receipt of this information, t he Secretariat will share the submitted  
+information with all signatories to inform them about the transfer of the signatory status.  
+Participation in the IAIS MMoU is limited to insurance supervisors which are IAIS Members  
+(see 4.1). In this respect, continuation of a supervisor’s participation in the IAIS MMoU requires 
+a seamless transition of IAIS membership to the legal successor(s). If the IAIS membership 
+rests or is suspended in order to clarify legal issues, a legal successor will not be able to exert 
+the rights and obligation s which accrue from the signatory status until its membership has 
+been confirmed.45 
+ 
+ 
+44 IAIS MMoU, Annex C, Part D, Provision 20. 
+45 IAIS MMoU, Annex C, Part D, Provision 21.

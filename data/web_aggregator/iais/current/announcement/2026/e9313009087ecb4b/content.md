@@ -1,0 +1,14 @@
+1. [Home](https://www.iais.org/)
+2. Jonathan Dixon
+
+### **Jonathan Dixon**
+
+***Special Advisor***
+
+Jonathan Dixon is Special Advisor as of 15 June 2026.
+
+Jonathan has a long association with the organisation. He served as Secretary General from 1 September 2017 to 14 June 2026. Prior to this, he was a member of the Executive Committee from 2009 – 2017 and served as Chair of the Implementation Committee from 2012 – 2017. In addition, Jonathan chaired the Governing Council of the Access to Insurance Initiative, a joint programme of the IAIS and development partners aimed at strengthening responsible and inclusive insurance. Prior to joining the IAIS, Jonathan was Deputy Executive Officer at the Financial Services Board of South Africa, with responsibility for insurance regulation and supervision. He was appointed to this position by the Minister of Finance in 2008. Previously, he also worked for 10 years for the National Treasury of South Africa on economic and financial sector policy issues.
+
+Jonathan holds a master’s degree in economics from the London School of Economics, UK, and a bachelor’s degree in economics from the University of Cape Town, South Africa.
+
+![](https://www.iais.org/uploads/2023/09/Jonathan-Dixon-external_small-300x211.png)

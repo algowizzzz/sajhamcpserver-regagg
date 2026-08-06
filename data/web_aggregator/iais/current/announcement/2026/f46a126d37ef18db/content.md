@@ -1,0 +1,22 @@
+1. [Home](https://www.iais.org/)
+2. [About the IAIS](https://www.iais.org/about-the-iais/)
+3. IAIS Members
+
+# Members
+
+The IAIS is a voluntary membership organisation of insurance supervisors and regulators from more than 200 jurisdictions, constituting 97% of the world’s insurance premiums. IAIS Membership is broad and diverse and representative of a heterogeneous group of insurance markets. More than half of IAIS Members come from emerging markets and developing economies.
+
+Through agreement, Members recommend principles and standards and provide supervisory guidance.  Another important aspect of IAIS membership is that it provides a forum for members to share their experiences and understanding of insurance supervision and insurance markets.
+
+The IAIS works with Regional Coordinators to advance its implementation support objectives. Please refer to the [Regional Coordinators list](https://www.iais.org/uploads/2026/06/Regional-Coordinators-for-publication.pdf) and contact the relevant coordinator directly for:
+
+* Regional activities, developments and initiatives
+* Coordination of regional meetings, workshops and other events
+
+Loading...
+
+Loading members...
+
+Unable to load members. Please try again later.
+
+No members found matching your search.

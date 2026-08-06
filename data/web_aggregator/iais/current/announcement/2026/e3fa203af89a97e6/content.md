@@ -1,0 +1,33 @@
+# IAIS releases Year in Review 2023, sharing highlights from the past year
+
+[15 Apr 2024](https://www.iais.org/2024/04/iais-releases-year-in-review-2023-sharing-highlights-from-the-past-year/)
+
+in [Annual Report](https://www.iais.org/category/annual-report/), [Latest news](https://www.iais.org/category/latest-news/)
+
+The IAIS Year in Review 2023 is released today! The report highlights progress made over the past year to support our dual mission of policyholder protection and doing our part to maintain global financial stability.
+
+Spanning over 50 pages, the report provides an overview of the IAIS’ mission, strategy and role in the global financial supervisory architecture, then delves into the progress and key achievements of the IAIS committees, working groups, task forces and forums in 2023. The report also provides a consolidated overview of the work delivered that is increasingly cross sectoral and global in nature.
+
+This year’s edition has expanded the Social Responsibility section sharing more detailed DEI statistics for the collective group of Member representatives participating across the 24 main committees, subcommittees and forums of the IAIS.
+
+To share what is coming up next for the IAIS, there is a graphical representation of the 2024 Roadmap. The “IAIS in numbers” has been expanded to two pages to highlight the Association’s quantifiable deliverables in an easy-to-digest overview.
+
+Read the report [here](https://www.iaisweb.org/about-the-iais/annual-report/).
+
+### [IAIS Year in Review 2023](https://www.iais.org/uploads/2024/04/IAIS-Year-in-Review-2023.pdf) 15 Apr 2024
+
+The report highlights the progress made over the past year to support our dual mission of policyholder protection and doing our part to maintain global financial stability.
+
+[Download](https://www.iais.org/uploads/2024/04/IAIS-Year-in-Review-2023.pdf)
+
+15 Apr 2024
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2024%2F04%2Fiais-releases-year-in-review-2023-sharing-highlights-from-the-past-year%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

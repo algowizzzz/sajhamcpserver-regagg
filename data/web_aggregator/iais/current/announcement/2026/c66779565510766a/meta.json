@@ -1,0 +1,24 @@
+{
+  "doc_id": "c66779565510766a",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "IAIS collaborates with the World Bank Group to develop G20 input paper on natural catastrophe protection gaps - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/2025/07/iais-collaborates-with-wbg-on-g20-input-paper/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:59c7e198a199b006b3e8007d54bcb3b3b7f926ec804064f893a657d752a7ab1c",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/c66779565510766a",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

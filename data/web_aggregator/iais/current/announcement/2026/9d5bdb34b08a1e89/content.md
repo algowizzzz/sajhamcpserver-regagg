@@ -1,0 +1,13 @@
+1. [Home](https://www.iais.org/)
+2. Zine Mshengu
+
+### **Zine Mshengu**
+
+***Chair, IAIS Accounting and Auditing Working Group  
+Divisional Head, Financial Conglomerate Supervision Department, Prudential Authority of the South African Reserve Bank***
+
+Zine Mshengu is a Divisional Head in the Financial Conglomerate Supervision Department in the Prudential Authority of the South African Reserve Bank. Prior to this, she headed the Industry Technical Support Division in the Policy, Statistics and Industry Support Department. Her experience in the financial services sector spans over two decades, with various roles in accounting, auditing and capital management within the corporate sector and central bank. Over the years, she has gained expertise in regulation and supervision, and has represented the Prudential Authority at various local and international forums, which have been instrumental in shaping and influencing regulatory policy for the South African financial services sector. She is also a board member of the Independent Regulatory Board for Auditors and chairs its Audit and Risk Management Committee.
+
+Zine is a Chartered Accountant (SA) and holds an MSc Finance degree in Financial Sector Management from the University of London.
+
+![](https://www.iais.org/uploads/2024/11/Zine-Mshengu-scaled-300x391.jpg)

@@ -1,0 +1,65 @@
+Press 
+ Release  
+ 
+ 
+ 
+ 
+Contacts  Melanie Clowes-Haug (IAIS) Malena Kramer (Superintendencia de Seguros 
+de la Nacion Argentina) 
+ +41 61 280 8442 
+Melanie.Clowes-Haug@bis.org 
+ 
++ 541143384000 ext 1608 
+email mkramer@ssn.gob.ar 
+ 
+ 
+ 
+FOR IMMEDIATE RELEASE:   
+ 
+                                                    20 January 2021 
+ 
+  
+The Superintendencia de Seguros de la Nacion Argentina joins  
+IAIS cooperation and information exchange agreement  
+ 
+ 
+ 
+Basel / Buenos Aires – The Superintendencia de Seguros de la Nacion Argentina has become a member of 
+the International Association of Insurance Supervisors ’ (IAIS) Multilateral Memorandum of Understanding 
+(MMoU) – an international supervisory cooperation and information exchange agreement.  
+ 
+“We are pleased to welcome Argentina as a signatory to the MMoU”, said Dr. Vicky Saporta, Chair of the IAIS 
+Executive Committee “In order to achieve our ultimate goal of policyholder protection within the global insurance 
+marketplace, an i nsurance supervisor must be able to coo perate quickly and effectively. The MMoU is an 
+essential regulatory tool for supervisors to foster safer and more stable insurance markets”.  
+ 
+“I am pleased that the Superintendencia de Seguros de la Nacion Argentina has become a signatory to the IAIS 
+MMoU,” stated Malena Kramer, Deputy Man ager of International Relations.  “This agreement strengthens our 
+ability to work cooperatively with other supervisors and monitor large cross -border insurers – cooperation that 
+is critically important to promoting effective supervision and protecting Argentine consumers”. 
+ 
+The IAIS MMoU provides a global framework of compliance and confidentiality to allow for open cooperation 
+and exchange between insurance supervisors. To become a s ignatory to the MMoU, applicants undergo a 
+rigorous assessment of their professional secrecy regimes, conducted by an independent team of IAIS 
+Members. Through membership in the MMoU, supervisors are able to exchange relevant information and 
+provide assistance to other signatories, thereby promoting the financial stability and sound supervision of cross-
+border insurance operations for the benefit and protection of consumers.  
+ 
+Since the first jurisdiction was admitted in June 2009, the number of members has grown significantly to 76 
+signatories, representing approximately 76 percent of worldwide premium volume. A complete list of 
+international signatories and a copy of the MMoU can be found on the IAIS website by clicking here.   
+ 
+ 
+ 
+More information 
+ 
+The Superintendencia de Seguros de la Nacion Argentina is the Supervisor of all insurance entities operating 
+in Argentina. For more information about the Superintendencia de Seguros de la Nacion Argentina, please visit 
+https://www.argentina.gob.ar/superintendencia-de-seguros or follow it on Twitter at @ssn_ar and Instagram 
+at  ssn_ar. 
+ 
+The IAIS is a global standard -setting body whose objectives are to promote effective and globally consistent 
+supervision of the insurance industry to develop and maintain fair, safe and stable insurance markets for the 
+benefit and protection of policyholders and to contribute to the maintenance of global financial stability. Its 
+membership includes insurance supervisors from more than 200 jurisdictions. For more information, please visit 
+www.iaisweb.org and follow us on LinkedIn @IAIS – International Association of Insurance Supervisors.

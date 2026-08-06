@@ -1,0 +1,1029 @@
+Public 
+ 
+  
+ 
+ 
+Thematic note on implications of 
+International Financial Reporting 
+Standards (IFRS) for risk-based solvency 
+(RBS) implementation  
+ 
+ 
+July 2026
+
+Public 
+About the IAIS 
+The International Association of Insurance Supervisors (IAIS) is a voluntary membership 
+organisation of insurance supervisors and regulators from more than 200 jurisdictions. The mission 
+of the IAIS is to promote effective and globally consistent supervisi on of the insurance industry in 
+order to develop and maintain fair, safe and stable insurance markets for the benefit and protection 
+of policyholders and to contribute to global financial stability.  
+Established in 1994, the IAIS is the international standard -setting body responsible for developing 
+principles, standards and other supporting material for the supervision of the insurance sector and 
+assisting in their implementation. The IAIS also provide s a forum for Members to share their 
+experiences and understanding of insurance supervision and insurance markets.  
+The IAIS coordinates its work with other international financial policymakers and associations of 
+supervisors or regulators, and assists in shaping financial systems globally. In particular, the IAIS is 
+a member of the Financial Stability Board (FSB), member of the Standards Advisory Council of the 
+International Accounting Standards Board (IASB), and partner in the Access to Insurance Initiative 
+(A2ii). In recognition of its collective expertise, the IAIS also is routinely called upon by the G20 
+leaders and other international standard-setting bodies for input on insurance issues as well as on 
+issues related to the regulation and supervision of the global financial sector. 
+For more information, please visit www.iais.org and follow us on LinkedIn: IAIS – International 
+Association of Insurance Supervisors. 
+ 
+International Association of Insurance Supervisors  
+c/o Bank for International Settlements  
+CH-4002 Basel  
+Switzerland  
+Tel: +41 61 280 8090  
+  
+This document was prepared by Risk-based Solvency Implementation Forum (RBSIF)  in 
+consultation with IAIS members. 
+This document is available on the IAIS website (www.iais.org). 
+© International Association of Insurance Supervisors (IAIS), 2026. 
+All rights reserved. Brief excerpts may be reproduced or translated provided the source is stated.
+
+Public 
+Content overview 
+ 
+Acronyms ................................ ................................ ................................ ................................ ...... 4 
+ Background and introduction ................................ ................................ ............................ 6 
+1.1 Background ...................................................................................................................................... 6 
+1.2 Introduction....................................................................................................................................... 6 
+ Description of IFRS-based insurance balance sheets ................................ ..................... 7 
+2.1 Adoption and application of IFRS by insurers .................................................................................. 7 
+2.2 Description of IFRS .......................................................................................................................... 9 
+2.3 Description of relevant elements of IFRS 17 ................................................................................... 9 
+2.4 Description of relevant elements of IFRS 9 Financial Instruments ................................................ 12 
+2.5 Interaction between IFRS 17 and IFRS 9 policy choices ............................................................... 13 
+2.6 Accounting policy choices in practice ............................................................................................ 13 
+ Benefits and concerns of using IFRS-based valuation for RBS purposes ................... 15 
+3.1 Benefits .......................................................................................................................................... 15 
+3.2 Concerns for using IFRS-based valuation for RBS purposes ........................................................ 17 
+ Accounting policy choices and how these might be handled ................................ ....... 18 
+ Linkages to solvency reporting and capital requirements ................................ ............. 21 
+ Performance assessment and early warning indicators ................................ ................ 23
+
+Public 
+Acronyms 
+ASBJ Accounting Standard Board of Japan 
+CSM Contractual Service Margin 
+CPC Comitê de Pronunciamentos Contábeis  (Brazilian Accounting Pronouncements 
+Committee) 
+ECL Expected Credit Loss 
+EEA European Economic Area 
+EIOPA European Insurance and Occupational Pensions Authority 
+EMDE Emerging Markets and Developing Economies 
+EU European Union 
+EFRAG European Financial Reporting Advisory Group 
+FHSI Financial Health and Stability Indicators 
+FSI Financial Soundness Indicators 
+FVTOCI Fair Value Through Other Comprehensive Income 
+FVTPL Fair Value Through Profit or Loss 
+GAAP Generally Accepted Accounting Principles 
+GCC Gulf Cooperation Council 
+GMM General Measurement Model 
+GPFR General Purpose Financial Reporting 
+GWP Gross Written Premium 
+IAS International Accounting Standard 
+IASB International Accounting Standards Board 
+ICP Insurance Core Principles 
+ICS Insurance Capital Standard
+
+Public 
+IFRIC International Financial Reporting Standards Interpretations Committee 
+IFRS International Financial Reporting Standards 
+IMF International Monetary Fund 
+Ind AS Indian Accounting Standards 
+KPIs Key Performance Indicators 
+LIC Liability for Incurred Claims 
+LRC Liability for Remaining Coverage 
+MASB Malaysian Accounting Standards Board 
+MAV Market-Adjusted Valuation 
+MFRS Malaysian Financial Reporting Standards 
+MOCE Margin Over Current Estimate 
+OCI Other Comprehensive Income 
+P&C Property and Casualty 
+PAA Premium Allocation Approach 
+RBS Risk-based Solvency 
+RBSIF Risk-based Solvency Implementation Forum 
+SPPI Solely Payments of Principal and Interest 
+SUSEP Superintendência de Seguros Privados 
+UPR Unearned Premium Reserve 
+VFA Variable Fee Approach
+
+Public 
+ Background and introduction 
+1.1 Background 
+1. The IAIS is committed to helping its members from emerging markets and developing 
+economies (EMDEs) to keep pace and /or support their insurance markets’ growth.  
+Through cooperation with implementation partners and regional associations of supervisors, 
+the IAIS will extend its geographical reach and bolster its capacity-building efforts.1 
+2. The Risk-based Solvency Implementation Forum (RBSIF) was established in March 2022 
+to support EMDEs in enhancing their observance of IAIS supervisory material and 
+strengthening members’ supervisory frameworks with respect to Risk-based Solvency (RBS) 
+frameworks. 
+3. The RBSIF published its members-only Guidance on transitioning to an RBS regime 
+(Guidance) on 17 December 2024 .2 This Guidance covers the practical aspects of 
+implementing an RBS regime, covering quantitative, qualitative and disclosure components, 
+as well as procedural aspects of managing the transition , and is targeted at supervisors in 
+EMDEs. 
+1.2 Introduction 
+4. This thematic note has been developed in line with Core Objective 3 of the IAIS 
+Strategic Plan 2025–2029 to support members in implementing a modern RBS regime 
+built on the foundation of International Financial Reporting Standards (IFRS) 17. The 
+note builds on the Guidance, where it was noted that IFRS 17 may provide a starting point 
+for the valuation component of RBS, and develops this in more detail.  
+5. Insurance Core Principle ( ICP) 14 (Valuation) establishes the requirements for 
+valuation of assets and liabilities of an insurer for solvency purposes. ICP 14 considers 
+the valuation requirements that should be met for the purpose of the solvency assessment 
+of insurers. This is within the context of IAIS RBS requirements (see ICP 17 (Capital 
+adequacy)). 
+6. It is important to note that valuation for solvency purposes differs in purpose from 
+general purpose financial reporting (GPFR). It should be noted that GPFR is produced for 
+insurer stakeholders, principally shareholders and creditors, and does put significant focus 
+on determining profit for distribution in a particular reporting period. This purpose is not fully 
+aligned with a supervisor’s purpose of assessing the economic solvency position of an insurer 
+at a point in time. This is the reason why supervisors in some advanced markets have chosen 
+to develop bespoke valuation approaches for solvency purposes.  
+7. The cost-benefit trade-off for EMDEs may be different, and the implementation in many 
+jurisdictions of IFRS 17 from 1 January 2023 may provide more confidence in basing 
+valuation for solvency purposes on GPFR,  even if some adjustments are considered 
+desirable to achieve the necessary comparability and consistency of results for solvency 
+assessment.  
+ 
+1 IAIS Strategic Plan 2025—2029. 
+2 Guidance on transitioning to a risk-based solvency (RBS) regime.
+
+Public 
+ Description of IFRS-based insurance balance sheets 
+2.1 Adoption and application of IFRS by insurers 
+8. The adoption of IFRS has seen significant global uptake, with over 140 jurisdictions 
+requiring or permitting their use for publicly listed companies.3  
+9. Using IFRS as the valuation basis for an RBS regime only makes sense where all 
+insurers already must apply IFRS. This is far from the case in all jurisdictions. As such, this 
+thematic note is most relevant to those jurisdictions where IFRS is applied to all insurers or 
+expected to be applied in the future. 
+10. In the European Union  (EU), a pplication of IFRS is required via an endorsement 
+process,4 which allows for modifications to be made to the adopted standards. This 
+was the case with IFRS 17. IFRS adoption is mandatory for all listed companies in the EU, 
+but not for other companies; therefore, not all insurers apply IFRS to financial reporting.  
+11. Other non-EU European countries have differing approaches. Norway requires IFRS for 
+listed companies due to its membership of the European Economic Area (EEA ), whereas 
+Switzerland permits, but does not require, IFRS for domestic public companies and listings 
+by foreign companies. In the UK, IFRS is required for the consolidated financial statements 
+of UK companies whose securities are admitted to trading on a UK regulated market. UK -
+adopted international accounting standards are IFRS Accounting Standards as issued by the 
+International Accounting Standards Board (IASB) with some limited modifications.  The UK 
+permits optional application of IFRS for all companies. As a result of the manner of adoption 
+of IFRS in Europe, IFRS does not apply to all insurers in Europe , only to listed insurance 
+companies or holding companies of insurance groups. 
+12. In Africa, IFRS adoption varies, with some jurisdictions fully adopting IFRS for into law 
+for all companies  including insurers (for example, South Africa), while others are at 
+different stages of implementation . In Kenya, IFRS applies to listed companies and 
+financial institutions as well as some government -owned companies and , as a result, it 
+applies to all insurers. In other African countries IFRS  has been adopted for all publicly 
+accountable entities , which include s insurers; examples are Ethiopia, Eswatini, Rwanda, 
+Angola and Ghana. In Guinea, Guinea-Bissau and Cameroon, IFRS is only required for listed 
+companies and companies making a public call for capital  (100 shareholders or more); it is 
+not clear to what extent this application covers insurers. As a result, IFRS is applied by many 
+insurers in Africa. 
+13. In Asia, IFRS has been widely adopted , but with notable except ions including large 
+nations such as Japan, China and Ind ia that do not require IFRS reporting . Japan 
+permits voluntary application of IFRS for consolidated financial statements by listed 
+companies if they meet certain criteria, otherwise local Japanese GAAP (Generally Accepted 
+Accounting Principles)5 generally apply. China’s national accounting standards are largely 
+aligned with the IFRS, and the country pledged to adopt IFRS for reporting by domestic 
+ 
+3 See IFRS page on Why global accounting standards?  
+4 The endorsement process for IFRS in the EU involves the European Financial Reporting Advisory Group (EFRAG) providing 
+technical advice to the European Commission, which then drafts a regulation for approval by the Accounting Regulatory 
+Committee, followed by scrutiny from the European Parliament and the Council of the European Union. 
+5 Since 2005, the IASB and the Accounting Standards Board of Japan (ASBJ) have been working together to achieve convergence 
+of IFRS and Japanese GAAP. However, the Japanese GAAP has not yet been aligned with IFRS 17.
+
+Public 
+companies starting from 1 January 2026 .6 South Korea has applied a similar approach to 
+Europe with an endorsement process , and applications to companies with listed securities  
+and its variations from IFRS have been to add additional disclosure requirements. Hong Kong 
+Financial Reporting Standards are converged with IFRS and apply to all companies (ie, 
+applicable to Hong Kong incorporated insurers), whereas all insurance companies in Chinese 
+Taipei are required to fully adopt IFRS for their financial reporting.  Indian Accounting 
+Standards (Ind AS) are substantially converged with IFRS as issued by the Board. However, 
+India has not adopted IFRS for domestic company reporting and has not made a formal 
+commitment to do so. In contrast, many smaller Asian nations have adopted IFRS completely 
+or substantially for all companies, not just listed companies, for example in the Philippines 
+and Singapore. Some Asian nations have adopted IFRS for all publicly accountable entities, 
+including all insurers, fo r example in Thailand, Sri Lanka and Indonesia. In Malaysia, the 
+Malaysian Financial Reporting Standards (MFRS) issued by the Malaysian Accounting 
+Standards Board (MASB) are fully convergent with IFRS. All insurers , both listed and non -
+listed, are required to implement MFRS. 
+14. In the Middle East, the Gulf Cooperation Council (GCC) region countries like Saudi 
+Arabia, the United Arab Emirates and Qatar  have integrated IFRS into their financial 
+reporting frameworks for all companies, listed and unlisted. Jordan and Lebanon have 
+adopted IFRS for all listed companies and financial institutions, thereby including insurers. 
+Israel requires IFRS for all companies, either listed or unlisted, and the insurance supervisor 
+(the Capital Market, Insurance and Savings Authority ) requires the use of IFRS. In Iran, all 
+listed companies, banks and financial institutions including insurers are required to use IFRS. 
+In Iraq, only banks are required to use IFRS, and insurers are not permitted to use IFRS. 
+15. Amongst Central American, South American and North American countries, adoption 
+of IFRS is mixed, as set out in the following examples . Costa Rica requires IFRS to be 
+used by listed companies and financial institutions, including insurers. In Nicaragua, 
+companies can use either IFRS or US GAAP. Brazil has endorsed IFRS 7 (with only minor 
+modifications) for all listed entities , and Superintendência de Seguros Privados  (SUSEP) 
+requires the use of IFRS for insurers. In Argentina, despite the requirement for IFRS to be 
+used by all domestic public companies, the Superintendency of Insurance applies its own 
+accounting regulations for insurers.8 In Chile, while IFRS has been adopted as the national 
+accounting standards for all companies , adoption is not complete in the insurance sector , 
+where IFRS 17 has not been implemented. In Paraguay, IFRS is permitted but used by only 
+a few large listed companies. In Peru, IFRS applies to all listed companies except for financial 
+institutions such as banks and insurers. These financial institutions apply local accounting 
+standards established by the supervisor, which is substantially aligned with IFRS. In Mexico, 
+all listed companies must follow IFRS , except for financial institutions which includes  
+insurance companies. Canada requires all publicly accountable entities, including insurers, 
+to apply IFRS. The United States continues to use GAAP, though it permits IFRS for foreign 
+companies listed on its exchanges. 
+16. In Oceania, the application of IFRS is quite comprehensive. Australia n Accounting 
+Standards are aligned with IFRS and therefore require application of IFRS for all 
+ 
+6 According to requirements of China's Ministry of Finance, all publicly listed insurance companies in China already implemented 
+IFRS 17 and 9 since 1 January 2023, and the implementation date for other insurance companies is 1 January 2026. 
+7 The Comitê de Pronunciamentos Contábeis (CPC), the Brazilian Accounting Pronouncements Committee, is responsible for the 
+issuance of accounting standards. 
+8 This is similar to banks in Argentina, which must apply accounting regulations issued by Banco Central de Republica Argentina.
+
+Public 
+“reporting entities”, which includes all insurers. There are some additional disclosure 
+requirements. New Zealand is fully converged with IFRS (except for additional disclosure 
+rules) and is specifically required for insurers and more broadly for all publicly accountable 
+entities. In Fiji and Papua New Guinea, a very similar application of IFRS is used as in New 
+Zealand. 
+17. A number of jurisdictions have adjusted the implementation of IFRS in one important 
+aspect for insurers, by delaying in the effective implementation date for IFRS 17. Some 
+examples of countries that delayed the IFRS 17 effective date until 1 January 2025 are Israel, 
+Sri Lanka,9 Cambodia, Indonesia, Thailand and Nepal. The Philippines and Costa Rica have 
+delayed adoption of IFRS 17 until 1 January 2027 and 1 January 2028, respectively. 
+18. What stands out from this analysis is that in many advanced economies , particularly 
+in Europe, a choice has been made to only selectively apply IFRS for large publicly 
+listed companies. In EMDEs, implementation of IFRS is more comprehensive and insurers, 
+irrespective of their size and sophistication, will need to apply IFRS and, in particular, IFRS 
+17. This creates challenges for small insurers in jurisdictions with limited access to necessary 
+expertise. There are examples of audit reports being qualified f or some insurers, which is a 
+significant reputational risk for those insurers and a sign that their financial statements and 
+potentially supervisory reporting is unreliable.  
+2.2 Description of IFRS  
+19. For insurers, there are two key accounting standards that have the most material effect 
+on their balance sheet. IFRS 17, applicable to  insurance contracts, introduces a 
+comprehensive framework for the recognition, measurement, presentation and disclosure of 
+insurance contracts. This standard will determine the value of what are referred to in ICP 14 
+and ICP 17 as technical provisions. IFRS 9 (Financial instruments) deals with the recognition 
+and measurement of the most significant assets on an insurer’s balance sheet – financial 
+instruments such as bonds and shares. Together, they set out the requirements for 
+measurement of the most material components of the two sides of an insurer’s balance sheet. 
+For insurers, IASB delayed the implementation date of IFRS 9 so that it could be implemented 
+at the same time as IFRS 17 to reduce the possibility of accounting mismatches.  
+2.3 Description of relevant elements of IFRS 17 
+20. At the core of IFRS 17  is the General Measurement Model (GMM), which sets out the 
+general philosophy of the standard. The other two measurement models are modifications 
+or simplifications of the GMM. The GMM requires insurers to measure contracts using four 
+key components: expected future cashflows, a discount rate to reflect the time value of 
+money, a risk adjustment for non -financial risk, and the Contractual Service Margin (CSM), 
+which represents unearned profit. The GMM is the default model and is designed to provide 
+a consistent and transparent view of an insurer’s financial position by updating assumptions 
+and remeasuring components annually.  
+21. For simpler or shorter -duration contracts, IFRS 17 allows the use of the Premium 
+Allocation Approach (PAA), which is a simplified alternative to the GMM.  The PAA is 
+typically used for contracts with a coverage period of one year or less, or when it can be 
+ 
+9 Although 1 January 2025 was the general implementation date in Sri Lanka, it has been further deferred for some entities (eg 
+the National Insurance Trust Fund).
+
+Public 
+demonstrated that the results would not differ materially from the GMM. Under the PAA, the 
+liability for remaining coverage is measured similarly to the unearned premium reserve (UPR) 
+under previous standards, making it operationally easier to implement. 10 However, once a 
+claim is incurred, the measurement of liabilities aligns with the GMM, ensuring consistency 
+in the treatment of claims. The PAA is mostly applicable to typical non-life insurance contracts 
+with a coverage period of one year. These types of policies are often more prevalent in EMDE 
+countries than longer-term life insurance products.  
+22. The Variable Fee Approach (VFA) is a specialised model under IFRS 17, applicable to 
+insurance contracts with direct participation features  – typically those that are 
+investment-related, such as unit -linked or with-profits products. Unlike the GMM, the 
+VFA allows for the adjustment of CSM to reflect changes in the insurer’s share of the fair 
+value of underlying items, known as the “variable fee”. This approach better captures the 
+economic reality of these contracts by incorporating market movements into the 
+measurement of profitability. The VFA thus provides a more accurate reflection of the 
+insurer’s performance and helps manage balance sheet volatility more effectively. 
+23. The three measurement approaches in IFRS 17 are compared below. 
+ 
+Table 1: Comparison of measurement approaches 
+ 
+Feature GMM PAA VFA 
+Applicability Default model  Optional for short-duration 
+contracts meeting certain 
+criteria 
+Contracts with direct 
+participation features 
+Measurement 
+basis 
+Cash flows, 
+discounting, risk 
+adjustment, CSM 
+Simplified: liability for 
+remaining coverage 
+similar to UPR but liability 
+for incurred claims same 
+as GMM 
+Similar to GMM but 
+adjusts CSM for 
+changes in variable fee 
+ CSM Required and 
+updated over time 
+Not part of measurement 
+model 
+Required and adjusted 
+for changes in insurer’s 
+share of returns 
+Complexity High Low High 
+Discounting Required Optional (if impact is 
+immaterial) 
+Required 
+Risk adjustment Required Required for incurred 
+claims 
+Required 
+Use case 
+examples 
+Long-term life 
+insurance, annuities 
+Short-term property & 
+casualty insurance 
+Unit-linked or with-profits 
+life insurance 
+ 
+24. One of the characteristics of IFRS 17 is that there is a significant amount of discretion 
+and optionality in the application of the standard. There is optionality in the approach to 
+discounting. With the measurement of the risk adjustment, there are choices to be made on 
+ 
+10 Although PAA and UPR are similar concepts, the former is calculated based on premiums received, while the latter is based on 
+premiums issued.
+
+Public 
+the level of aggregation of portfolios and groups, which may impact on recognition of losses 
+on onerous contracts . There are also  discretions on defining what is a coverage unit to 
+determine the release of the contractual service margin (and , therefore, profitability 
+recognition), and there are choices in how acquisition costs can be allocated to groups of 
+contracts and amortised over the coverage period or expensed immediately11 (again affecting 
+profit emergence). Another choice is whether to recognise changes in interest rates , either 
+in profit or loss or other comprehensive income (OCI). 
+25. Despite this optionality, implementing IFRS 17 will undoubtedly create more 
+consistent accounting for insurance contracts across the world because it is based 
+on a consistent set of principles, allowing more meaningful comparison across 
+different insurers’ financial reporting.  IFRS 4 was a standard that effectively 
+grandfathered existing approaches to accounting for insurance contracts in countries that 
+adopted it. Therefore, a wide range of accounting practices were permitted under IFRS 4. In 
+terms of consistency, the IASB sets out a comparison12 of IFRS 4 and IFRS 17, shown below. 
+ 
+Table 2: IFRS 4 versus IFRS 17 – Comparability 
+IFRS 4 – A lack of comparability IFRS 17 – A consistent framework 
+Comparability amongst companies across countries 
+Accounting for insurance contracts varies significantly 
+between companies operating in different countries. 
+Companies will apply consistent accounting for all 
+insurance contracts. 
+Comparability amongst insurance contracts 
+Some multinational companies consolidate their 
+subsidiaries using different accounting policies for 
+the same type of insurance contracts written in 
+different countries. 
+A multinational company will measure insurance 
+contracts consistently within the group, making it 
+easier to compare results by product and 
+geographical area. 
+Comparability amongst industries 
+Some companies present cash or deposits received as 
+revenue. This differs from accounting practice in other 
+industries, in particular banking and investment 
+management. 
+Revenue will reflect the insurance coverage 
+provided, excluding deposit components, as it 
+would in any other industry. 
+Source: IASB 
+26. With respect to enhancements of transparency, the IASB has also helpfully provided a 
+comparison between IFRS 4 and IFRS 17. 
+ 
+Table 3: IFRS 4 versus IFRS 17 – Transparency 
+IFRS 4 – Little transparent or 
+useful information 
+IFRS 17 – More transparent and 
+useful information 
+Information about the value of insurance obligations 
+• Some companies measure insurance 
+contracts using out-of-date information. 
+• Companies will measure insurance contracts at 
+current value. 
+ 
+11 Only available in relation to the PAA. 
+12 IFRS Standards Fact Sheet.
+
+Public 
+• Some companies do not consider the 
+time value of money when measuring 
+liabilities for claims. 
+• Companies will reflect the time value of 
+money in estimated payments to settle 
+incurred claims. 
+• Some companies measure insurance 
+contracts based on the value of their 
+investment portfolios. 
+• Companies will measure their insurance 
+contracts based only on the obligations created 
+by these contracts. 
+Information about profitability 
+• Some companies do not provide consistent 
+information about the sources of profit 
+recognised from insurance contracts. 
+• Companies will provide consistent information 
+about components of current and future profits 
+from insurance contracts. 
+• Many companies provide alternative 
+performance measures – non-GAAP 
+measures – to supplement IFRS 4 
+information, such as embedded value 
+information. 
+• Companies and users of financial statements 
+will use fewer non-GAAP measures; 
+supplementary information will enable more 
+meaningful comparisons. 
+Source: IASB 
+27. A full comparison across different implementations of IFRS 4 and IFRS 17 is beyond 
+the scope of this thematic note. However, this summary should provide some indications 
+of changes, and each jurisdiction would have to compare IFRS 17 to its own implementation 
+of IFRS 4 to understand the specific impact of changes. 
+2.4 Description of relevant elements of IFRS 9 (Financial instruments) 
+28. IFRS 9 , which replaced the I nternational Accounting Standard (IAS) 39, aims to 
+improve and simplify the reporting of financial instruments, addressing concerns 
+about the relevance and reliability of financial information during the financial crises. 
+IFRS 9 addresses three main phases: classification and measurement, impairment, and 
+hedge accounting. The classification and measurement phase requires financial assets to be 
+measured at amortised cost, fair value through other comprehensive income ( FVTOCI), or 
+fair value through profit or loss (FVTPL), based on the business model assessment and the 
+Solely Payments of Principal & Interest (SPPI) test. This phase also includes changes in the 
+recognition of financial liabilities, particularly the treatment of changes in own credit risk (note 
+that ICP 14 specifically prohibits the recognition of changes in own credit risk).  
+29. The impairment phase introduces a forward-looking expected credit loss (ECL) model, 
+which requires entities to recognise credit losses earlier than under IAS 39. This model 
+applies to all financial assets measured at amortised cost or FVTOCI, as well as certain loan 
+commitments and financial guarantee contracts. The ECL model aims to provide more timely 
+and relevant information about credit risk, enhancing transparency and comparability across 
+entities. The hedge accounting phase aligns accounting more closely with risk management 
+practices, allowing more hedging strategies to qualify for hedge accounting.  
+30. Key accounting policy choices under IFRS 9 include the classification and 
+measurement of financial assets and liabilities, the implementation of the ECL model 
+and the selection of hedge accounting requirements . For classification and 
+measurement, entities must decide whether financial assets meet the criteria for amortised 
+cost, FVTOCI or FV TPL based on their business model and the SPPI test . In terms of 
+impairment, entities need to establish methodologies for estimating expected credit losses, 
+considering factors such as historical data, current conditions and forward -looking 
+information.
+
+Public 
+2.5 Interaction between IFRS 17 and IFRS 9 policy choices 
+31. There is one major accounting policy choice that is common to both IFRS 17 and IFRS 
+9, and that is the choice of classification and mea surement. This is a key choice to 
+ensure that there is no profitability volatility created by accounting mismatch. The choice in 
+IFRS 17 is whether to include insurance finance income or expenses for the period in profit 
+or loss or in OCI. IFRS 9 contains a principles-based approach to the classification of financial 
+assets which must be classified into one of four categories: amortised cost, FVTPL, FVTOCI 
+for debt and FVTOCI for equity. Given that IFRS 17 is a current measurement model, it is 
+unlikely that insurers are going to choose to measure any material amount of their investment 
+portfolio at amortised cost as this would create earnings volatility based on changes in 
+interest rates (as similar changes would not be recognised on assets measured at amortised 
+cost). A choice to use either FVTPL or FVTOCI needs to be coordinated across IFRS 9 and 
+IFRS 17 to ensure there is no accounting mismatch. From a solvency perspective, the choice 
+between recording insurance finance and income expenses in profit or loss or in OCI to match 
+IFRS 9 accounting policy choices  should not be a significant issue , as the balance sheet 
+items are still at the same value. However, when trying to assess and benchmark earnings 
+and organic capital growth, the choices of different insurers will be important. 
+2.6 Accounting policy choices in practice 
+32. KPMG13 surveyed the 2024 annual reports of 55 insurance companies to assess the 
+implementation of IFRS 17. Of those 55 insurers, eight insurers disclosed changes in IFRS 
+17 accounting policies indicating insurers are learning and correcting as they become more 
+familiar with IFRS 17  and benchmarked themselves against peers . Some of the key 
+observations about the most material accounting policy choices in IFRS 17 are  set out in 
+Table 4 below. 
+ 
+  
+ 
+13KPMG Insurers’ 2024 annual financial statements.
+
+Public 
+Table 4: Accounting policy choices 
+Accounting 
+policy choice Insights 
+Discounting Of all insurers surveyed, 58% use a bottom-up approach to discounting (like 
+the Insurance Capital Standard ( ICS)), 3% use a top-down approach, 13% 
+use multiple approaches for different portfolios, 4% use a hybrid approach 
+(elements of both) and 22% did not disclose their approach . Ranges 
+between highest and lowest discount rates disclosed for EUR  varied from 
+over 2% at the short and long end of the observable yield curve down to just 
+over 1.5% at the 20 -year term. USD ranges between highest and lowest 
+discount rates varied by around 1% across the yield curve with shorter terms 
+just above 1%.  Some of these differences reflect different approaches for 
+different products (eg top down for annuities), but that range indicates that if 
+supervisors are to use IFRS 17 for solvency purposes, they will need to look 
+at narrowing those ranges of discount rates. 
+Over half of Asia -Pacific insurers chose to discount liability for remaining 
+coverage (LRC) compared with 20% in Africa and almost none in Europe 
+(perhaps due to a difference in discount rates ). In terms of the liability for 
+incurred claims (LIC), 100% of African insurers used discounting. In other 
+regions the usage was lower but there still appeared to be 50% or more  of 
+insurers that used discounting. 
+Risk adjustment 
+and confidence 
+levels 
+Confidence levels varied from less than the 60th percentile to greater than 
+the 90th percentile, with a concentration of insurers around the 70th to 79th 
+percentile. Again, with this range of outcomes, supervisors would need to 
+understand how to take into account such variation or try to reduce or 
+minimise such variation. 
+Expected CSM 
+release 
+There is a significant variation in the granularity of insurer disclosures about 
+future release of CSM. However, it appears insurers in the Americas expect 
+to recognise their CSM balance relatively sooner than other regions , and 
+African insurers are  expecting a significantly slower release of CSM than 
+peers. Variation in CSM release is based on assumptions and how coverage 
+units are determined, and such variation would need to be considered by a 
+supervisor wishing to rely on IFRS 17 for solvency purposes. 
+Acquisition costs Out of 47 insurers using the PAA, 19 chose the option to expense insurance 
+acquisition cashflows when incurred. This was notably the case for African 
+insurers that all used this option, compared with only about half of European 
+insurers.
+
+Public 
+ Benefits and concerns of using IFRS-based valuation for RBS 
+purposes 
+3.1 Benefits  
+33. ICP 14 advocates maintaining a close relationship between GPFR and supervisory 
+reporting. ICP 14.0.1 begins with the following statement: “The methodologies for calculating 
+items in general purpose financial reports should be substantially consistent with the 
+methodologies used for regulatory reporting purposes and ideally with as few changes as 
+possible to satisfy supervisory requirements. However, this may not be possible or 
+appropriate in all respects, considering the differing purposes. Differences between general 
+purpose financial reports and supervisory reports should be publicly explained.”14  
+34. The benefits covered in this section are not specific to IFRS but more generally 
+applicable to using GPFR with as few changes as possible. Although this thematic note 
+is focused on IFRS , the benefits described here are equally applicable to any national 
+accounting standards as applied by insurers in a particular jurisdiction. 
+35. One clear benefit for using GPFR as a basis for supervisory reporting is that it is  
+generally subject to a rigorous audit . Where there are bespoke supervisory reporting 
+requirements, a supervisor may specify certain auditing requirements but is likely to face 
+opposition on the basis of cost. An auditor can also be another source of information for a 
+supervisor and commonality between GPFR, and supervisory reporting will facilitate the 
+exchange of information. Auditors are allies to supervisors in identifying risks, identifying 
+errors in reporting, and in some cases identifying fraud and other kinds of malfeasance by 
+management of companies. The more their work is aligned with the supervisor , the greater 
+the benefit to the supervisor. No matter the level of alignment between GPFR and supervisory 
+reporting, auditors should be considered an important part of the overall system of 
+supervision for insurers. In m any jurisdictions , there are specific requirements for the 
+experience of auditors of insurers, and some jurisdictions approve auditors and require 
+specific reporting from auditors. Auditors can also be engaged to undertake particular 
+investigations on behalf of supervisors in some countries, and this work is aided if the 
+auditor’s yearly work is based on reporting that has as few differences as possible. Guidance 
+attached to ICP 9.4 sets out some ways in which the work of an auditor should be considered 
+by supervisors. 
+36. IFRS provides a comprehensive framework of accounting standards covering not just 
+accounting for insurance contracts and financial instruments but addressing many 
+other accounting issues . IFRS is based on a conceptual framework that provides for 
+consistency of accounting standard setting. Such a comprehensive approach is difficult for 
+supervisors to replicate if they develop their own bespoke valuation methodology. A benefit 
+of using IFRS is that there are significant resources available to help interpret the accounting 
+standards including the IASB’s own IFRS Interpretations Committee (IFRIC). Global 
+accounting networks also have experts all over the world that can be accessed by auditors 
+and consulting clients to address interpretatio n and implementation issues. Bespoke 
+supervisory reporting will not have access to such a global network of expertise. 
+37. In the case of EMDEs, resources for insurers and supervisors are often few and in high 
+demand. Maintaining two reporting systems  – one for GPFR and one for supervisory 
+ 
+14 See also the Guidance, Section 5.2.2.
+
+Public 
+reporting – is a resource-intensive requirement requiring a highly skilled staff of accounting 
+and actuarial experts . In this context, compromise on ultimate comparability or fitness for 
+supervisory purposes may be justified due to the claim on resources to maintain two reporting 
+systems. The additional benefit of bespoke reporting may be difficult to justify in that context. 
+38. Aligning supervisory reporting with IFRS does not necessarily mean accepting 
+identical reporting. The introduction of IFRS 17 has been an expensive development for 
+insurers, requiring significant investment in IT systems. These IT systems are usually capable 
+of being run with different inputs at very little additional cost once the systems are set up and 
+specified correctly. These different inputs could be supervisor-specified accounting policy 
+choices within the IFRS framework. For example, discount rates could be specified by the 
+supervisor and, for supervisory reporting purposes , balance sheet and profit and loss 
+reporting could be provided using these specified rates. The auditing that is carried out is 
+often systems based and relies on verifying that the accounting and actuarial systems are 
+operating correctly. Once this is established, varying certain inputs should not be a significant 
+additional burden. The reporting would be aligned with IFRS but provided on a more 
+consistent, less company -specific basis. In the EU, the experience has been that the 
+discounting methodology and European Insurance and Occupational Pensions Authority 
+(EIOPA)’s published discount curves are used by a number of insurers for the  purposes of 
+IFRS 17 . Therefore, if supervisors specify certain inputs, it may have an im pact on 
+consistency of reporting for GPFR. 
+39. ICP 14 sets out the requirements for valuation for solvency purposes , and it appears 
+that IFRS  17 and IFRS 9 reporting could be considered aligned with these 
+requirements if the compromises inherent in GPFR are understood in the overall 
+solvency framework. As per ICP 17 and ICP 14, a solvency framework should reflect a total 
+balance sheet approach. A total balance sheet approach requires consistent assumptions for 
+the recognition and valuation of assets and liabilities . For setting supervisory capital 
+requirements, the starting point for determining capital resources should be the difference 
+between assets and liabilities.  
+40. ICP 14.1 requires valuation to address the recognition, derecognition and 
+measurement of assets and liabilities that IFRS 17 and IFRS 9 address.  ICP 14.2 
+requires the valuation of assets and liabilities to be undertaken on a consistent basis , and 
+the conceptual framework for IFRS ensures this is the case. ICP 14.3 requires the valuation 
+of assets and liabilities to be undertaken in a reliable , decision useful  and transparent 
+manner. IFRS is made for GPFR, so there can be some debate as to whether it is deci sion 
+useful for supervisors in assessing solvency. One point to note is that for insurers that are 
+experiencing stress to their solvency position, alignment between GPFR and supervisory 
+reporting would enable better coordination for  determining supervisory solvency, and 
+reported solvency under general corporate obligations to only allow solvent companies to 
+continue to operate. Differences between supervisory reporting and GPFR could result in 
+different triggers for resolution or liquidation to be implemented.  ICP 14.4 requires there to 
+be an economic valuation that reflects the risk -adjusted present values of their cashflows. 
+IFRS 17 includes a specific risk adjustment, so it would appear to meet this requirement. For 
+IFRS 9, where fair values (which inherently incorporate risk adjustments) are not used, there 
+is the ECL forward-looking approach to recognising potential credit losses. ICP 14.5 requires 
+technical provisions and other liabilities to not reflect the insurer’s own credit standing. This 
+could be an issue for IFRS 9 valuations of debt instruments issued by insurers , and there 
+may need to be some adjustment in supervisory reporting for the credit standing of the insurer 
+if this changes, particularly adversely.
+
+Public 
+41. IFRS 17 appears aligned with ICP 14.6 , which requires the current estimate to reflect 
+the present value of all relevant projected cashflows that arise in fulfilling insurance 
+obligations using unbiased current assumptions. IFRS 17 is founded on a fulfilment basis 
+of valuation. This approach involves measuring insurance contract liabilities based on the 
+present value of future cashflows that an entity expects to incur as it fulfils its contractual 
+obligations. ICP 14.7 requires technical provisions to correspond to a current estimate and 
+Margin Over Current Estimate (MOCE). IFRS 17 includes the concept of a risk adjustment , 
+which appears aligned with the concept of a MOCE in ICP 14.8 and includes the additional 
+CSM. In cases where the risk adjustment is more prudent than is deemed necessary for the 
+MOCE, some of the IFRS 17 risk adjustment could be recognised as a capital resource. ICP 
+14.9 requires technical provisions to allow for the time value of money and the supervisor to 
+establish criteria for the appropriate determination of discounting rates. IFRS 17 does provide 
+some exceptions to discounting where it is not material , but in general does require 
+recognition of the time value of money. In terms of supervisors making an appropriate 
+determination, this is something supervisors could do to create greater convergence or could 
+determine that the IFRS 17 options for determining discount rates are appropriate and then 
+monitor how these are implemented.  ICP 14.10 requires technical provisions to make 
+appropriate allowance for embedded options and g uarantees. This is one of the key 
+advantages of IFRS 17 compared with most implementations of IFRS 4, as IFRS 17 explicitly 
+requires valuation of embedded options and guarantees (see the Guidance, Section 5.2.2, 
+paragraph 249). 
+3.2 Concerns for using IFRS-based valuation for RBS purposes 
+42. The most significant issue for the use of IFRS, particularly IFRS 17, is that the number 
+of accounting policy choices embedded in the standards does impact comparability. 
+As already outlined in Section 2, there are a number of material accounting policy choices 
+that can create material variation amongst insurers that is not based on , or justified  by, 
+differences in the portfolios of insurers. Different insurers could value very similar portfolios 
+using a number of different policy choices and arrive at materially different valuations. This 
+would be a legitimate application of IFRS 17. However, all valuations require the use of 
+assumptions and judgments.  It is expected that o ver time, through peer  comparison and 
+market pressure, there will be some narrowing of accounting policy choices, and the KPMG 
+report noted that some insurers are reacting to how their peers are reporting. Nonetheless, 
+comparability is a weakness of using IFRS , but there are ways of addressing this through 
+some limited specification of accounting policy choices or through thematic industry -wide 
+reviews that highlight and disclose the range of choices being made. The implementation of 
+IFRS 17 and IFRS 9 is a  journey for insurers that they have just begun. Practice is likely to 
+evolve over time , and that evolution could be prompted by supervisory review particularly 
+where there is reliance on GPFR for supervisory reporting.  
+43. A bespoke solvency reporting framework is an appropriate choice in terms of ensuring 
+comparability and for ensuring the reporting is fit for RBS purposes. However, as stated 
+above, this ultimate aim must be balanced against the costs and how compromised the 
+supervisor’s aims are by comparability issues. The benefits laid out above for the use of IFRS 
+can also be considered the costs of implementing a bespoke solvency reporting framework. 
+Advanced economies with large, well-resourced insurers may be able to justify the costs o f 
+this more tailored approach to solvency reporting. 
+44. Another factor to consider is that the more complex the financial markets in a 
+jurisdiction are, the more likely material variations will emerge due to the range of
+
+Public 
+accounting policy choices in IFRS 17. For example, where there are well-developed 
+markets for a range of publicly and privately traded financial instruments, there is scope for 
+diversity in how discount rates are determined under IFRS 17. However, in a financial market 
+dominated by limited availability of financial instruments  – for example, only government 
+bonds – the diversity in calculated discount rates using the options in IFRS 17 may be less 
+than for an advanced market.  
+45. A conceptual issue is that GPFR is created for a different purpose  than solvency 
+reporting. This speaks to the issue of decision usefulness , which is covered extensively in 
+ICP 14.3 and its guidance. This guidance sets out a wide range of valuation techniques and 
+inputs that in various circumstances can result in decision useful information for supervisors. 
+Supervisors will need to consider what decision useful  means in the context of the overall 
+solvency framework, taking into account how capital requirements and capital resources are 
+specified. Supervisors will have to consider whether the comparability issue covered above 
+sufficiently impacts the decision usefulness of GPFR to justify either requiring modifications 
+for supervisory reporting or a completely bespoke approach to valuation, particularly for 
+technical provisions.  
+46. A concern in applying IFRS-based valuation for RBS purposes is the varying level of 
+understanding of the accounting standards amongst users.15 IFRS 17 introduces a 
+significantly more complex framework compared with IFRS 4, primarily due to its new 
+measurement philosophy and fundamental shifts in approach . As a result, u sers may not 
+initially interpret or analyse financial statements prepared under IFRS 17 with the same level 
+of confidence as those prepared under IFRS 4.  
+47. To bridge this knowledge gap, insurers can provide comparative information in the 
+notes to key performance indicators (KPIs), referencing results under the previous 
+standard. This practice helps build confidence in IFRS 17 valuations until users develop 
+sufficient expertise to independently comprehend the new framework. For example, Canada 
+adopted a similar approach prior to the effective date of IFRS 17 by disclosing solvency ratios 
+under both IFRS 4 and IFRS 17, thereby easing the transition for stakehold ers. Ultimately, 
+widespread understanding of IFRS 17 will only evolve as the standard matures over time and 
+through continued application. 
+ Accounting policy choices and how these might be handled 
+48. This section assume s that a supervisor has decided that the benefits of sticking as 
+closely to IFRS reporting as possible is the way forward given jurisdictional 
+circumstances. One way of going forward may be to gain experience with IFRS -based 
+reporting and continually assess its fitness for purpose. It w ould be useful to find portfolios 
+that are similar across a number of insurers and conduct a n industry-wide assessment of 
+differences in accounting policy choices and how material these different choices can be. 
+Once this information is gathered over the initial years of IFRS 17 and IFRS 9 implementation, 
+a better understanding will be developed as to the trade-off between the costs of specifying 
+some accounting policy choices compared with the benefits of improving comparability and 
+the fitness of purpose of the solvency reporting. 
+49. Supervisors can also assess international developments in IFRS implementation and 
+gain a wider appreciation of how IFRS is being implemented in their jurisdiction 
+ 
+15 The Guidance covers the issues of resourcing and capacity in more detail, for example in Section 3.5.2.
+
+Public 
+compared with international peers. This is one benefit of using an international standard 
+such as IFRS compared with national bespoke standards, as there is much more information 
+available from a wide range of international sources and experts.  
+50. One key issue for supervisors to consider with respect to IFRS 17 is whether the CSM 
+is appropriately classified on an insurer’s IFRS balance sheet when considering 
+solvency purposes. The CSM effectively increases the liability so that day one gains on the 
+sale of an insurance product cannot be recognised. This increases technical provisions and 
+reduces capital resources (not taking into account dividend policy) compared with many 
+approaches to valuation for solvency purposes. One way of considering this is sue is to 
+consider how troubled insurance companies can be rehabilitated or resolved in the case of 
+solvency concerns. A typical process for dealing with troubled insurance companies is to 
+transfer some or all of their business to another insurance company or a bridge insurance 
+company. The valuation of the relevant assets and technical provisions is key to making such 
+a process successful. The question becomes whether the future profitability embedded in 
+insurance liabilities under IFRS 17 would be considered in determining a fair transfer value. 
+Alternatively, given that insurers mostly exhibit a longer time horizon for resolution or 
+rehabilitation, future profits may be a resource that can be used over time to improve the 
+solvency situation of an insurer.  
+51. CSM may be considered to be more like a capital resource rather than a liability of an 
+insurer. Some supervisors have made this choice that, while not the highest quality of 
+capital, future profits  based on robust valuation techniques  are a resource that could be 
+available to insurers to improve their solvency position over time. They can therefore decide 
+to recognise this capital resource upfront by requiring solvency reporting to move CSM to 
+wholly or partly recognise it as a capital resource rather than part of the technical provisions. 
+This does not necessarily require a lot of effort on the part of the insurer, just a reclassification 
+of CSM based on criteria and/or limits provided by the supervisor. This is one key issue in 
+transforming GPFR based on IFRS into solvency reporting that is fit for purpose or decision 
+useful for supervisors. 
+52. Some possible ways of creating greater specificity in the application of accounting 
+policy choices are set out below.  
+Table 5: Accounting choices 
+Accounting choice Possible solution or consideration for solvency 
+reporting 
+Determination of discount rates, using top-
+down or bottom-up approach and different 
+ways of determining the illiquidity premium 
+for the bottom -up approach or the credit 
+risk adjustment for the top-down approach. 
+The supervisor could provide discount curves to be 
+used for the purpose of solvency reporting or could 
+specify a framework  for the determination of 
+discount curves that would narrow the range of 
+practices. 
+Risk adjustment: IFRS 17 allows a range of 
+techniques and differing confidence levels 
+(no matter the technique). 
+The supervisor could specify a technique and 
+calibrate the level at which the risk adjustment 
+should be calculated. Given that all insurers need to 
+disclose a confidence level, the confidence interval 
+approach to risk adjustment would be the easiest
+
+Public 
+and least expensive to implement with a specified 
+level. 
+Variations in level of aggregation  of 
+policies: impact on onerous business 
+recognition and other issues. 
+Attempting to specify levels of aggregation of 
+policies and lines of business and the granularity 
+data for reporting purposes is likely one of the most 
+expensive changes a supervisor could require  – 
+insurers have built systems around their aggregation 
+choices and unwinding this and applying a different 
+aggregation approach would likely involve 
+significant work and cost. 
+Coverage units for CSM release A survey of local jurisdictional practice and 
+international practice may identify material 
+differences that need to be addressed through some 
+specifications. 
+Acquisition cashflow allocation The supervisor could make a determination about 
+whether insurers should capitalise acquisition costs 
+and amortise them or expense acquisition costs 
+immediately. 
+ 
+This box sets out a detailed example of how Canada went about using IFRS -based GPFR as the 
+basis of its solvency framework. 
+Box 1: Canada 
+This shows how IFRS is used as the basis of Canada’s solvency framework , including why, what 
+choices needed to be made, involvement of the Canadian Institute of Actuaries, treatment of CSM, 
+and differences between life and non -life solvency frameworks with respect to using IFRS as the 
+valuation basis. 
+Canada’s success in the transition of all insurers from IFRS 4 to IFRS 17 is likely attributed to:  
+ 
+1. The need for all insurers in Canada to obtain clean audit opinions on their IFRS statements for 
+regulatory filings. Both public and regulatory filings are the same (one version of the truth). 
+2. The regulatory statutory returns are based on IFRS and feed into the solvency available 
+capital. It is one version of financial strength, profitability and capital surplus. 
+3. Insurers benefitted from having detailed data by individual contract in Canada in the IFRS 4 
+environment. On transition to IFRS 17, the detailed underlying data was available to calculate 
+the insurance contract liability. The quality of the data warehouse also allowed insurers to build 
+or buy effective calculation engines.  
+4. The Canadian IFRS 4 environment for all life insurers required policy liabilities to use relevant 
+market-consistent valuations for their contracts. This is similar to the IFRS 17 model.
+
+Public 
+5. Comparability and consistency of application is supported by the C anadian Institute of 
+Actuaries with respect to the assumptions used in calculating discount rate, risk adjustment 
+etc. 
+6. The federal and provincial supervisors required regular IFRS project updates from all insurers 
+and pro-forma financial statements, and three tests were conducted requiring financial 
+statement submissions before the effective date of IFRS 17 . These tests included solvency 
+ratios of the insurers IFRS 4 vs IFRS 17. 
+The basis of Canada’s solvency framework for both Life and Property and Casualty (P&C) with 
+respect to Available Capital is based on IFRS GAAP audited surplus or equity as the starting point. 
+IFRS book equity is then adjusted for items such as goodwill and CSM etc to arrive at solvency 
+Available Capital. The Life industry has different adjustments and additions than the P&C industry. 
+The use of IFRS provides the regulator with some assurance that the Available Capital component 
+in the solvency ratio is consistent, comparable and in all material respects correct. 
+ Linkages to solvency reporting and capital requirements  
+53. Many solvency reporting requirements in EMDEs around the world have been 
+modelled on the European Solvency I requirements. However, the valuation of technical 
+provision requirements has been aligned with local GAAP requirements. So, solvency capital 
+requirements based on a percentage of premium or a percentage of claims provisions use 
+local GAAP accounting inputs. With the alignment of local GAAP requirements with IFRS and 
+the transition from IFRS 4 to IFRS 17, these inputs have fundamentally changed.  
+54. Changes in terminology , let alone calculation differences, may result in legal 
+uncertainty for existing solvency requirements.  If solvency reporting requirements are 
+linked to local GAAP terminology and references that no longer exist after IFRS 17 
+implementation, that may create significant uncertainty as to the enforceability of existing 
+solvency reporting requirements. It may also cause issues due to confusion from insurers as 
+to how to complete quantitative reporting templates that refer to terminology no longer in use 
+in accounting. As well as legal uncertainty, this is likely to lead to data quality issues in the 
+quantitative reporting of insurers. 
+55. A typical implementation of IFRS 4 involved the presentation of revenue including 
+premium income and investment income. From this, the premium income figure could be 
+used to apply the percentage of premiums  calculation for the first part of the Solvency I 
+formula. Under IFRS 17, no such line item appears in the income statement. Instead , there 
+is insurance contract revenue, which consists of a number of different items: expected claims 
+(excluding the investment component), expected maintenance expenses, allocation of 
+acquisition cost cashflows, release of contractual service margin and release of risk 
+adjustment. Premium income does not feature in an IFRS 17-based income statement.  
+56. Premiums received ( similar to gross written premium ( GWP)) will still be a figure 
+available in the notes to the accounts of an insurer implementing IFRS 17. One of the 
+many disclosure requirements of IFRS 17 is the requirement to provide a reconciliation in 
+movements in net insurance and reinsurance contract amounts  from the beginning of the 
+year to the end of the year (insurance contract liability roll forward statements).16 Necessarily, 
+part of this reconciliation will include premiums received. So, the information about insurance 
+ 
+16 IFRS 17, paragraphs 98–105 and paragraph 114.
+
+Public 
+revenue must be maintained by insurers and disclosed. This could be used by supervisors 
+to continue a similar Solvency I calculation. However, legislative or regulatory references may 
+need to be updated as this will no longer be a primary disclosure in the income statement but 
+will be a disclosure that will be in the notes to the financial statements.  
+57. Failure to update this legislative or regulatory reference may make it legally impossible 
+to calculate solvency requirements on a continuing basis and/or may require dual 
+reporting17 by insurers. Insurers in EMDEs are voicing their frustration with the need to 
+maintain two systems of reporting and the associated costs because solvency requirements 
+and solvency reporting requirements have not been updated by governments and 
+supervisory authorities (see the Guidance, Section 5.2.2, paragraph 249). 
+58. With respect to the percentage of claims reserves, the name of the equivalent item in 
+the balance sheet has changed under IFRS 17 as well as the underlying calculation.  
+Portfolios of insurance contracts that result in i nsurance contract liabilities and portfolios of 
+insurance contracts that result in insurance contract assets are reported separately  under 
+IFRS 17. Under IFRS 4 , typically portfolios of insurance contracts that would result in an 
+asset value were netted off against portfolios of insurance con tracts that would result in a 
+liability value, and the net figure was reported as claims reserves. As a result, the equivalent 
+“liabilities for incurred claims” may have a materially higher balance depending on the nature 
+of the insurer’s business.  The two effects of this change are that previous legislative or 
+regulatory references to claims reserves in solvency requirements may have no legal effect 
+given the renaming of the equivalent item. The second effect is if the reference to the 
+“liabilities for incurred claims” is updated and there was previously a material netting effect of 
+portfolios in an asset position, applying a percentage to just the liability (rather than the net 
+figure of liability minus asset) may cause a material increase in solvency requirements for 
+the insurers.  
+59. In many EMDE countries, the insurance industry is  dominated by non-life insurance 
+that will mostly meet the requirements for application of the PAA . The liabilities for 
+remaining coverage  are calculated in ways similar to many jurisdictions as for IFRS 4 
+implementation, but as this figure is not part of the required capital calculation based on 
+premiums and claims reserves , this does not ensure consistency of solvency calculations 
+from an IFRS 4 basis to an IFRS 17 basis. In addition, use of the PAA does not change the 
+presentation of the financial state ments. A cashflow figure for premiums received must be 
+disclosed in the notes to the financial statements in the reconciliation of opening liabilities to 
+closing liabilities ,18 and this could potentially be used as a proxy in the required capital 
+calculation based on premium revenue. For insurers using the PAA, the liability for incurred 
+claims must still be calculated in the same way as for other insurers, and so this figure could 
+be used. However, it must be noted that this now includes discounting and a risk margin, 
+neither of which were likely elements of the jurisdiction’s IFRS 4 implementation.  
+60. Another aspect to consider is that the introduction of CSM into the insurance contract 
+liabilities for remaining coverage will likely decrease reported available capital without 
+policy changes. Where previously profits could be recognised on sale of a contract, this 
+increased retained earnings, a component of available capital. With those future profits now 
+represented as a liability in the form of the contractual service margin, equity or assets in 
+excess of liabilities reduces, decreasing the apparent ava ilable capital. This will mean the 
+solvency ratio will decline as the reported amount of capital will decline, all other things being 
+ 
+17 GPFR under IFRS 17 and solvency reporting under the previous implementation of IFRS 4. 
+18 IFRS 17, paragraph 105(a)(i).
+
+Public 
+equal. There may need to be consideration given to the recognition of CSM or part of CSM 
+as available capital in order to maintain consistent solvency ratios. 
+61. So, while a supervisor may want to put all their resources into an RBS project, there 
+may need to be some maintenance on the existing requirements. Both the numerator 
+and the denominator of the solvency ratio can be affected without making policy adjustments 
+as described above. A priority must be maintaining legally enforceable solvency requirements 
+at all times. If the changes to IFRS 17 -based income statements and balance sheets 
+undermine the legal certainty of solvency requirements, that is an issue that  must be dealt 
+with urgently. Legislative references, regulatory references and supervisory reporting 
+requirements (as required according to ICP 9) may need alignment with IFRS 17 in priority 
+to further development of RBS in the short term to maintain the legal certainty of the existing 
+solvency requirements.  
+62. When developing new solvency reporting and capital requirements, supervisors can 
+use the IAIS’ ICS19 and its Market Adjusted Valuation (MAV) methodology as a useful 
+resource by which to develop their own methodology. 
+ 
+ Performance assessment and early warning indicators 
+63. Supervisors that do not have an RBS yet implemented often rely on Financial Health 
+and Stability Indicators  (FHSI) to assess insurer solvency and performance  in their 
+supervisory processes . The World Bank published a paper 20 that was developed in 
+cooperation with the IMF and IAIS setting out the use of these indicators, possible ranges of 
+calibration of these indicators and how they are defined based on a survey of IAIS members. 
+These indicators are often also referred to as KPIs , and the IMF requires some of these 
+indicators to be reported by countries as Financial Stability Indicators.  For the purposes of 
+this thematic note, the term FHSI is used but the indicators may be referred to as KPIs or 
+Financial Soundness Indicators (FSIs) in other contexts.  
+64. Under IFRS 17, the income statement for insurers is fundamentally different from IFRS 
+4-based income statements and there are changes to the balance between liabilities 
+and equity in the statement of financial position due to CSM and gross reporting of 
+insurance liabilities and assets . Many of the FHSIs used by insurance supervisors to 
+monitor insurers’ performance and solvency will be affected. In some cases, there are 
+changes to the numerator and/or denominator of ratios , and in other cases the numerator 
+and/or denominator will not be readily available from financial statements without delving into 
+the notes to the financial statements. 
+65. An example of an indicator that is no longer able to be calculated from the income 
+statement is the combined ratio , which is a key performance indicator for non -life 
+insurers. The insurance industry is still using this indicator in its reporting to shareholders 
+after the implementation of IFRS 17. The numerator of the ratio, claims costs and expenses 
+can still be found in disclosures in the notes to the financial statements21 as premium received 
+(as described above). Supervisors need to be aware that they can and should require 
+ 
+19 IAIS, Insurance Capital Standard. 
+20 World Bank, Developing Insurance Markets : Use of Financial Health and Stability Indicators in Insurance Supervision (English). 
+21 IFRS 17, paragraph 105(a)(ii).
+
+Public 
+reporting of  this data in supervisory reporting , even though the income statement in 
+supervisory reporting may not include these figures to align with IFRS 17. Due to the 
+disclosure requirements, insurers must have systems in place to report this data under IFRS 
+17, so it is reasonable to require the data be reported as there is no additional burden in 
+calculating these figures. Another possibility is redefining the combined ratio or developing a 
+new FHSI based on IFRS 17 reporting (eg the ratio of insurance service expenses/insurance 
+revenue). However, this may not be directly comparable to previous combined ratios as IFRS 
+17 only includes directly attributable expenses, so a combined ratio calculated this way may 
+be lower than in the past under IFRS 4. A factor potentially leading to a higher combined ratio 
+is the need to recognise losses on onerous contracts upfront. 
+66. Any FHSI that includes equity in the numerator or denominator of the ratio will 
+potentially need to be recalibrated (ie changed expectations) or redefined due to CSM. 
+In many jurisdictions, the transition from IFRS 4 to IFRS 17 has reduced reported equity and 
+increased reported insurance contract liabilities due to CSM. In insurers’ reporting to 
+shareholders, in any ratio where equity is part of the calculation , they are generally adding 
+CSM to equity in order to create continuity compared with previously reported ratios. For 
+example, return on equity becomes profit/loss divided by equity and CSM.  
+67. IFRS 17 reporting  also provides an opportunity for new FHSIs to be developed. 
+Insurers are starting to use new KPIs or metrics in their reporting to shareholders. An 
+example is the use of CSM to develop new metrics of future profitability. The run-off of CSM 
+is becoming an important item for insurers to report, as this provides insights into how quickly 
+profits locked up in CSM will emerge in future years. Whether supervisors will be interested 
+in such a metric will be determined by whether they are already adding CSM to availab le 
+capital in solvency calculations or to equity in FHSIs. Another example that is seen in some 
+life insurer reporting is organic movement of CSM. This is explained in the illustrative chart 
+below.
+
+Public 
+ 
+68. The r econsideration of FHSIs in the context of IFRS 17 and IFRS 9 requires 
+considerable work. A full exploration of the topic would likely require a substantial paper to 
+be developed. This section is only meant to provide some indications of the issues in 
+maintaining continuity of existing FHSIs if this is considered desirable and the possibility of 
+developing new metrics based around IFRS 17 reporting.

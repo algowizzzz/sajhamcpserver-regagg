@@ -1,0 +1,2486 @@
+1/48 
+ 
+ 
+ 
+Insurance Core Principles (ICP) 
+ 
+UPDATED NOVEMBER 2019 
+Principes de base d'assurance (PBA) 
+ 
+MIS À JOUR NOVEMBRE 2019 
+Translated in February 2020 
+Last revision of the translation: January 2024 
+Traduits en février 2020 
+Dernière révision de la traduction : janvier 2024 
+ 
+La présente traduction a été effectuée par l’autorité de contrôle d’assurance du Maroc, l’ACAPS.   
+Tous commentaires, questions, suggestions sur cette traduction, peuvent être adressés à l’une ou aux deux adresses suivantes : 
+contact@acaps.ma ;   2774-GCAF-UT@acpr.banque-france.fr
+
+2/48 
+Liste des PBA 
+ 
+PBA 1. Objectifs, compétences et responsabilités du contrôleur 
+PBA 2. Le contrôleur 
+PBA 3. Exigences en matière d’échange d’information et de 
+confidentialité 
+PBA 4. Agrément 
+PBA 5. Aptitude des personnes 
+PBA 6. Changement de contrôle et transferts de portefeuille 
+PBA 7. Gouvernance d’entreprise 
+PBA 8. Gestion des risques et contrôles internes 
+PBA 9. Contrôle, et rapportage (reporting) au contrôleur 
+PBA 10. Mesures préventives et correctives, et sanctions 
+(PBA 11 supprimé) 
+PBA 12. Sortie du marché et résolution 
+PBA 13. Réassurance et autres formes de transfert de risques 
+PBA 14. Valorisation (évaluation des actifs et des passifs) 
+PBA 15. Placements 
+PBA 16. Gestion des risques d’entreprises à des fins de solvabilité 
+PBA 17. Adéquation / Suffisance du capital 
+PBA 18. Intermédiaires 
+PBA 19. Pratiques commerciales 
+PBA 20. Information du public 
+PBA 21. Lutte contre la fraude dans le secteur des assurances 
+PBA 22. Lutte contre le blanchiment d’argent et le financement du 
+terrorisme 
+PBA 23. Contrôleur du groupe 
+PBA 24. Surveillance macroprudentielle et contrôle des assurances 
+PBA 25. Coopération et coordination en matière de contrôle
+
+3/48 
+ 
+ English Français 
+ICP 1 Objectives, Powers and Responsibilities of the Supervisor Objectifs, pouvoirs et responsabilités du contrôleur  
+1 Each authority responsible for insurance supervision, it s powers and 
+the objectives of insurance supervision are clearly defined. 
+Les autorités responsables du contrôle des assurances, leurs pouvoirs 
+et leurs objectifs sont clairement définis. 
+1.1 Primary legislation clearly defines the authority (or authoritie s) 
+responsible for insurance supervision. 
+La législation primaire définit clairement l’autorité ou les autorités 
+responsables du contrôle des assurances. 
+1.2 Primary legislation clearly determines the objectives of insurance 
+supervision and these includes at least to : 
+• Protect policyholders; 
+• Promote the maintenance of a fair, safe and stable insurance 
+market; and 
+• Contribute to financial stability. 
+La législation primaire détermine clairement les objectifs du contrôle 
+de l’assurance, qui incluent au minimum de:  
+• protéger les assurés ; 
+• promouvoir le maintien d'un marché des assurances 
+équitable, sûr et stable ; et 
+• contribuer à la stabilité financière. 
+1.3 Primary legislation gives the supervisor adequate powers to meet its 
+responsibilities and objectives. 
+La législation primaire donne au contrôleur des pouvoirs suffisants 
+pour lui permettre de s’acquitter de ses responsabilités et d'atteindre 
+ses objectifs. 
+1.4 The supervisor initiates or proposes changes in legislation whe re 
+current responsibilities, objectives or powers are not sufficient to meet 
+the intended supervisory outcomes. 
+Le contrôleur prend l'initiative ou propose des modifications de la 
+réglementation lorsque les responsabilités, les objectifs ou les 
+pouvoirs ac tuels ne sont pas suffisants pour atteindre les résultats 
+escomptés en matière de contrôle. 
+ICP 2 Supervisor Le contrôleur 
+2 The supervisor is operationally independent, accountable and 
+transparent in the exercise of its responsibilities and powers, and has 
+adequate resources to discharge its responsibilities. 
+Le contrôleur est indépendant sur le plan opérationnel, responsable et 
+transparent dans l'exercice de ses responsabilités et pouvoirs, et 
+dispose de ressources suffisantes pour s'acquitt er de ses 
+responsabilités 
+2.1 The supervisor is operationally independent and free from undue 
+government or industry interference that compromises that 
+independence. 
+Le contrôleur est indépendant sur le plan opérationnel et libre de toute 
+ingérence indue du gouvernement ou de l'industrie qui 
+compromettrait cette indépendance.
+
+4/48 
+2.2 Legislation governing the supervisor provides the necessary legal 
+protection from legal action against the supervisor and its staff for 
+actions taken in good faith while discharging their duties. In addition, 
+the supervisor’s staff is adequately protected against the costs of 
+defending their actions. 
+La réglementation régissant le contrôleur prévoit la protection 
+juridique nécessaire contre toute action en justice contre le contrôleur 
+et son personnel pour les actions entreprises de bonne foi dans 
+l'exercice de leurs fonctions. En outre, le personnel du contrôleur est 
+suffisamment protégé contre les couts de défense de ses actions. 
+2.3 Procedures regarding the appointment and dismissal of the head of 
+the supervisor and members of its governing body (if such a governing 
+body exists) are transparent. 
+Les procédures concernant la nomination et la révocation du chef du 
+contrôleur et des membres de son organe directeur (si un tel organe 
+directeur existe) sont transparentes. 
+ Accountability  Responsabilité 
+2.4 The supervisor has effective internal governance structures, processes 
+and procedures to preserve the integrity of its actions and decisions 
+and to enable it to account to its stakeholders 
+Le contrôleur dispose de structures, processus et procédures de 
+gouvernance interne efficaces pour préserver l'intégrité de ses actions 
+et décisions , et lui permettre de rendre des comptes aux parties 
+intéressées. 
+2.5 The supervisor applies requirements and supervisory procedures 
+consistently and equitably. 
+Le contrôleur applique les exigences et les procédures de contrôle de 
+manière cohérente et équitable. 
+2.6 There are processes to appeal against supervisory decisions which do 
+not unduly impede the ability of the supervisor to make timely 
+interventions in order to protect policyholders’ interests or contribute 
+to financial stability. 
+Il existe des procédures de recours contre les décisions du contrôleur 
+qui n’entravent pas indument la capacité du contrôleur à intervenir en 
+temps opportun pour protéger les intérêts des assurés ou contribuer 
+à la stabilité financière. 
+2.7 The supervisor, including its staff and any third party acting on its 
+behalf (presently or in the past), are required by legislation to protect 
+confidential information in the possession of the supervisor. 
+Le contrôleur, y compris son personnel et tout tiers agissant en son 
+nom (actuellement ou dans le passé), sont tenus par la réglementation 
+de protéger les i nformations confidentielles en l a possession  du 
+contrôleur. 
+ Transparency Transparence 
+2.8 The supervisor is transparent to the public, supervised entities and the 
+government about how it exercises its responsibilities. 
+Le contrôleur est transparent pour le public, les entités contrôlées et 
+le gouvernement sur la manière dont il exerce ses responsabilités. 
+2.9 The supervisor publishes its requirements, policies and supervisory 
+procedures. The supervisor consults publicly on significant changes 
+that it makes to requirements, policies and supervisory procedures. 
+Le contrôleur publie ses exigences, ses politiques et ses procédures de 
+contrôle. L e contrôleur réalise des consultations publiques sur les 
+modifications importantes qu'il apporte aux exigences, aux politiques 
+et aux procédures de contrôle.
+
+5/48 
+ Resources Ressources 
+2.10 The supervisor has sufficient resources, including human, 
+technological and financial resources, to enable it to conduct effective 
+supervision. 
+Le contrôleur dispose de ressources suffisantes, notamment 
+humaines, technologiques et financières, pour lui permettre d'exercer 
+un contrôle efficace. 
+2.11 Where the supervisor outsources supervisory activities to third parties, 
+the supervisor:  
+• sets expectations for their role and work;  
+• monitors their performance;  
+• ensures their independence from the supervised entity or any 
+other related party; and  
+• subjects them to the same confidentiality rules and 
+professional standards as the staff of the supervisor. 
+Lorsqu'il confie des activités de contrôle à des tiers, le contrôleur :  
+• fixe les attentes concernant leur rôle et leur travail ;  
+• contrôle leurs performances ;  
+• garantit leur indépendance par rapport à l'entité contrôlée ou 
+à toute autre partie liée ; et  
+• les soumet aux mêmes règles de confidentialité et aux mêmes 
+normes professionnelles que le personnel du contrôleur. 
+ICP 3 Information Sharing and Confidentiality Requirements Règles d'échange d'informations et de confidentialité 
+3 The supervisor obtains information from, and shares information with, 
+relevant supervisors and authorities subject to confidentiality, purpose 
+and use requirements. 
+Le contrôleur obtient des informations et en échange avec les autres 
+contrôleurs et les autorités concernées, sous réserve des exigences de 
+confidentialité, d’objet et d’utilisation. 
+3.1 The supervisor requests information, including non -public 
+information, from relevant supervisors and authorities with respect to 
+insurers. 
+Le contrôleur demande des informations, y compris des informations 
+non publiques, aux autorités de contrôle et aux autorités compétentes 
+en ce qui concerne les assureurs. 
+3.2 The supervisor shares information, including non -public information, 
+with relevant supervisors and authorities at its sole discretion and 
+subject to appropriate safeguards. 
+Le contrôleur partage des informations, y compris des informations 
+non publiques, avec les contrôleurs et les autorités compétentes à sa 
+seule discrétion et sous réserve des garanties appropriées. 
+3.3 The supervisor requesting confidential information (the requesting 
+supervisor) has a legitimate interest and valid supervisor y purpose 
+related to the fulfilment of its supervisory functions in seeking 
+information from another relevant supervisor or authority. 
+Le contrôleur qui demande des informations confidentielles (l e 
+contrôleur requérant) a un intérêt légitime et un objectif  de contrôle 
+valable lié à l'exercice de ses fonctions de contrôle en recherchant des 
+informations auprès d'un autre contrôleur ou autorité compétente. 
+3.4 The supervisor that has received a request for confidential information 
+(the requested supervisor) from another relevant supervisor or 
+authority:  
+Le contrôleur qui a reçu une demande d'informations confidentielles 
+(le contrôleur ayant reçu la requête) d'un  autre contrôleur ou une 
+autre autorité compétente :  
+• évalue chaque demande d'information au cas par cas; et
+
+6/48 
+• assesses each request for information on a case-by-case basis; 
+and 
+•  responds to requests in a timely and comprehensive manner. 
+• répond aux demandes en temps utile et de manière 
+exhaustive. 
+3.5 The requesting supervisor uses confidential information received from 
+the requested supervisor or authority only for the purposes specified 
+when the information was requested. Unless otherwise agreed, before 
+using the information for another purpose or passing it on to others, 
+the requesting supervisor obtains agreement of the requested 
+supervisor or authority. 
+Le contrôleur requérant n'utilise les informatio ns confidentielles 
+reçues du contrôleur ou de l’autorité ayant reçu la requête qu'aux fins 
+spécifiées lors de la demande d'informations. Sauf accord contraire, 
+avant d'utiliser les informations à une autre fin ou de les transmettre 
+à d'autres personnes, 
+le contrôleur requérant obtient l'accord du 
+contrôleur ou de l'autorité ayant reçu la requête. 
+3.6 In the event the requesting supervisor has received notice of 
+proceedings, which may legally compel it to disclose confidential 
+information which it has received from the requested supervisor, the 
+requesting supervisor:  
+• to the extent permitted by law, promptly notifies the 
+requested supervisor; and  
+• where consent to disclosure is not given, uses all reasonable 
+means to resist the demand and to protect the confidentiality 
+of the information. 
+Dans le cas où le contrôleur requérant  a reçu une notification de 
+procédure, qui peut légalement l'obliger à divulguer des informations 
+confidentielles qu'elle a reçues du contrôleur ayant reçu la requête, le 
+contrôleur requérant :  
+• dans la mesure où la loi l'autorise, en informe rapidement l e 
+contrôleur ayant reçu la requête; et  
+• lorsque le consentement à la divulgation n'est pas donné, 
+utilise tous les moyens raisonnables pour résister à la 
+demande et pour protéger la confidentialité des informations. 
+ICP 4 Licensing  Agrément 
+4 A legal entity which intends to engage in insurance activities must be 
+licensed before it can operate within a jurisdiction. The requirements 
+and procedures for licensing must be clear, objective and public, and 
+be consistently applied. 
+Une entité juridique qui a l'intention d'exercer des activités 
+d'assurance doit être agréée avant de pouvoir opérer dans une 
+juridiction. Les exigences et les procédures d'octroi d’a gréments 
+doivent être claires, objectives et publiques, et être appliquées de 
+manière cohérente. 
+ Licensing requirements Exigences d’agrément 
+4.1 The insurance legislation: 
+• includes a definition of insurance activities which are subject 
+to licensing; 
+• prohibits unauthorized insurance activities; 
+La réglementation des assurances :  
+• définit les activités d’assurance qui sont soumises à 
+l’agrément;  
+• interdit les activités d’assurance qui n’ont pas été agréées;
+
+7/48 
+• defines the permissible legal forms of domestic insurance legal 
+entities; 
+• allocates the responsibility for issuing licenses; and 
+• sets out the procedure and form of establishment by which 
+foreign insurers are allowed to conduct insuran ce activities 
+within the jurisdiction. 
+• définit les formes juridiques permis es pour les assu reurs 
+nationaux;  
+• attribue la responsabilité de la délivrance des agréments;  
+• met en place la procédure et la forme d’établissement par 
+laquelle les assureurs étrangers sont autorisés à exercer des 
+activités d’assurance dans la juridiction. 
+4.2 A jurisdiction controls through licensing which entities are allowed to 
+conduct insurance activities within its jurisdiction. 
+La juridiction contrôle à travers les agréments les entités habilitées à 
+exercer les activités d’assurances dans son territoire. 
+4.3 Licensing requirements and procedures are clear, objective and public, 
+and are consistently applied. The applicant is required at least to: 
+• have sound business and financial plans; 
+• have a corporate or group structure that does not hinder 
+• effective supervision; 
+• establish that the applicant’s Board Members, both 
+individually and collectively, Senior Management, Key Persons 
+in Control Functions and Significant Owners are suitable; 
+• have an appropriate governance framework; and 
+• satisfy capital requirements. 
+Les critères et les procédures pour obtenir l’agrément sont clairs, 
+objectifs et publics  ; ils sont appliqués de manière cohérente. Le 
+demandeur doit au moins :  
+• avoir des plans d’affaires et financiers solides; 
+• avoir une structure d'entreprise ou de group e qui n'entrave 
+pas un contrôle efficace; 
+• établir que les membres d e son conseil d’administration 
+(individuellement et collectivement), la direction générale, les 
+personnes clés dans les fonctions de contrôle et les 
+propriétaires importants, sont appropriés; 
+• disposer d'un cadre de gouvernance approprié;  
+• satisfaire aux exigences de capital. 
+ Requirements on the supervisor Exigences concernant le contrôleur 
+4.4 The supervisor assesses applications, makes decisions and informs 
+applicants of the dec ision within a reasonable time, which is clearly 
+specified, and without undue delay. 
+Le contrôleur évalue les demandes, prend des décisions et en informe 
+le demandeur dans un délai raisonnable, clairement spécifié, et sans 
+retard excessif. 
+4.5 The supervisor refuses to issue a license where the applicant does not 
+meet the licensing requirements. Where the supervisor issues a 
+license, it imposes additional requirements, conditions or restrictions 
+on an applicant where appropriate. If the license is denied, conditional 
+or restricted, the applicant is provided with an explanation. 
+Le contrôleur refuse de délivrer l’agrément si le demandeur ne répond 
+pas aux critères requis. Le contrôleur a le pouvoir d’imposer  au 
+demandeur, s’il y a lieu, des exigences,  des conditions ou des 
+restrictions supplémentaires. Si l’agrément est refusé, conditionné ou 
+restreint, une explication est fournie au demandeur. 
+4.6 A license clearly states its scope. L’agrément précise clairement sa portée.
+
+8/48 
+4.7 The supervisor publish es a complete list of licensed insurance legal 
+entities and the scope of the licenses granted. 
+Le contrôleur publie la liste complète des entités agréées et la portée 
+des agréments accordés.  
+ Foreign operations Opérations à l’étranger 
+4.8 In deciding whether and if so on what basis, to license or continue to 
+license a branch or subsidiary of a foreign insurer in its jurisdiction, the 
+supervisor consults the relevant supervisor(s) as necessary. 
+Pour décider si et sur quelle base, agréer ou cont inuer à agréer une 
+succursale ou à une filiale d'un assureur étranger au sein de sa 
+juridiction, le contrôleur consulte le(s) contrôleur(s) compétent(s), si 
+nécessaire. 
+4.9 Where an insurance legal entity is seeking to conduct cross -border 
+insurance activities without a physical presence in the jurisdiction of 
+the host supervisor, the host supervisor concerned consults the home 
+supervisor, as necessary, before allowing such activities. 
+Quand un assureur étranger entend exercer des activités d’assurance 
+transfrontières sans présence physique dans la juridiction du pays 
+d’accueil, le contrôleur du pays d’accueil consulte, si nécessaire , son 
+homologue du pays d’origine avant d’autoriser ces activités. 
+ICP 5 Suitability of Persons Aptitude des personnes 
+5 The supervisor requires Board Members, Senior Management, Key 
+Persons in Control Functions and Significant Owners of an insurer to 
+be and remain suitable to fulfil their respective roles. 
+Le contrôleur exige que les membres du conseil d'administration, la 
+direction générale, les personnes clés dans les fonctions de contrôle et 
+les propriétaires importants d'un assureur soient et restent aptes à 
+remplir leurs rôles respectifs. 
+5.1 Legislation identifies which persons are required to meet suitability 
+requirements. At a minimum, the legislation includes Board Members, 
+Senior Management, Key Persons in Control Functions and Significant 
+Owners. 
+La réglementation définit les personnes qui répondent aux exigences 
+d’aptitude. Au minimum, la réglementation  doit mentionner les 
+membres du conseil d’administration, la direction générale , les 
+personnes clé chargées des fonctions de contrôle et les propriétaires 
+importants. 
+5.2 The supervisor requires that in order to be suitable to fulfil their roles: 
+• Board Members (individually and collectively), Senior 
+Management and Key Persons in Control Functions possess 
+competence and integrity; and 
+• Significant Owners possess the necessary financial soundness 
+and integrity. 
+Le contrôleur exige que pour être aptes : 
+• les membres du conseil d’administration (à titre individuel et 
+collectif), la direction générale et les personnes clés chargées 
+des fonctions de contrôle possèdent la compétence et 
+l’intégrité nécessaires;  
+• les propriétaires importants possèdent la solidité financière et 
+l’intégrité nécessaires. 
+5.3 The supervisor requires the insurer to demonstrate initially and on an 
+ongoing basis, the suitability of Board Members, Senior Management, 
+Le contrôleur exige de l’assureur qu’il démontre, initialement et 
+ensuite de manière continue, l’aptitude des membres du conseil
+
+9/48 
+Key Persons in Control Functions and Significant Owners. The 
+suitability requirements and the extent of review requir ed by the 
+supervisor depend on the person’s role. 
+d’administration, de la direction générale, des personnes clé chargées 
+des fonctions de contrôle et des propriétaires importants. Les critères 
+d’aptitude et la portée de l’examen requis dépendent du rôle de la 
+personne considérée. 
+5.4 The supervisor requires notification by insurers of any changes in 
+Board Members, Senior Management, Key persons in Control 
+Functions and Significant Owners, and of any circumstances that may 
+materially adversely affect the suitability of its Board Members, Senior 
+Management, Key Persons in Control Functions and Significant 
+Owners. 
+Le contrôle ur exige de se voir notifier par les assureurs tout 
+changement des membres du conseil d’administration, de la direction 
+générale, des personnes clés en charge de fonctions de contrôle et de 
+propriétaires importants, et toute circonstance susceptible d’avoir une 
+incidence défavorable significative sur l’aptitude des membres du 
+conseil d’administration, de la direction générale, des personnes clé en 
+charge de fonctions de contrôle et des propriétaires importants. 
+5.5 The supervisor takes appropriate action t o rectify the situation when 
+Board Members, Senior Management and Key Persons in Control 
+Functions or Significant Owners no longer meet suitability 
+requirements. 
+Le contrôleur prend les mesures appropriées pour remédier à la 
+situation quand des membres du conseil d’administration, de la 
+direction générale , des personnes clé en charge de fonctions de 
+contrôle ou des propriétaires importants ne répondent plus aux 
+critères d’aptitude. 
+5.6 The supervisor exchanges information with other authorities inside 
+and outside its jurisdiction where necessary to check the suitability of 
+Board Members, Senior Management, Key Persons in Control 
+Functions and Significant Owners of an insurer. 
+Le contrôleur échange des informations avec d’autres autorités dans 
+sa juridiction et en dehors de celle-ci quand il est nécessaire de vérifier 
+l’aptitude des membres du conseil d’administration, de la direction 
+générale, des personnes clé chargées de fonctions de contrôle et des 
+propriétaires importants d’un assureur. 
+ICP 6 Change of Control and Portfolio Transfers Changement de contrôle et transferts de portefeuilles 
+6 The supervisor assesses and decides on proposals: 
+• to acquire significant ownership of, or an interest in, an insurer 
+that results in a person (legal or natural), directly or indirectly, 
+alone or with an associate, exercising control over the insurer; 
+and 
+• for portfolio transfers. 
+Le contrôleur évalue et décide des propositions : 
+• afin d'acquérir une participation importante dans un 
+organisme d'assurance, ou une participation dans un assureur, 
+qui a pour conséquence qu'une personne (morale ou 
+physique), directement ou indirectement, seule ou avec un 
+associé, exerce un contrôle sur l'organisme d'assurance; et 
+• pour les transferts de portefeuilles.
+
+10/48 
+ 
+ Change of Control Changement de contrôle 
+6.1 Legislation addresses change of control of insurers, including: 
+• having a definition of control; and 
+• oversight and enforcement of requirements related to change 
+of control. 
+La réglementation inclut dans la notion du changement de contrôle 
+des assureurs : 
+• la définition du contrôle; et 
+• la supervision et l’application des exigences relatives au 
+changement de contrôle. 
+6.2 The supervisor requires the insurer to provide notification of a 
+proposed change of control of the insurer. The supervisor assesses and 
+decides on proposals for change of control. 
+Le contrôleur exige que l’assureur lui notifie des propositions de 
+changement de contrôle. Le contrôleur examine et décide du sort des 
+propositions de changement de contrôle. 
+ (De)Mutualisation (Dé)Mutualisation 
+6.3 A change of a mutual company to a stock company, or vice versa, is 
+subject to the supervisor’s approval. 
+Tout changement d’une société mutuelle à une société par actions, ou 
+vice versa, est soumis à l’approbation du contrôleur. 
+ Portfolio Transfer Transfert de portefeuille 
+6.4 The supervisor assesses and decides on the transfer of all or a part of 
+an insurer’s business taking into account at least the financial 
+condition of the transferee and the transferor and whether the 
+interests of the policyholders of both the transferee and transferor will 
+be protected. 
+Le contrôleur examine et décide du sort du transfert d’une partie ou 
+de la totalité des activités de l’assureur en tenant compte au moins de 
+la situation financière du cessionnaire et du cédant. Il s’assure que les 
+intérêts des assurées du cédant et du cessionnaire seront protégés. 
+ICP 7 Corporate Governance   Gouvernance d'entreprise   
+7 The supervisor requires insurers to establish and implement a 
+corporate governance framework which provides for sound and 
+prudent management and oversight of the insurer’s business and 
+adequately recognizes and protects the interests of policyholders. 
+Le contrôleur exige des assureurs qu'ils établissent et mettent en 
+œuvre un cadre de gouvernance d'entreprise qui prévoit une gestion 
+et une surveill ance saines et prudentes des activités de l'assureur et 
+qui reconnaisse  et protège de manière adéquate les intérêts des 
+assurés. 
+ Appropriate allocation of oversight and management responsibilities Répartition appropriée des responsabilités de surveillance et de gestion 
+7.1 The supervisor requires the insurer’s Board to:  
+• ensure that the roles and responsibilities allocated to the 
+Board, Senior Management and Key Persons in Control 
+Functions are clearly defined so as to promote an appropriate 
+Le contrôleur exige que le conseil d’administration de l’assureur : 
+• veille à ce que les rôles et les responsabilités attribués aux 
+membres du conseil d’administration, à la direction générale , 
+aux personnes respons ables des fonctions clés de contrôle
+
+11/48 
+separation of the oversight function from the management 
+responsibilities; and  
+• provide oversight of the Senior Management. 
+soient clairement définis afin d’assurer une séparation 
+adéquate entre la fonction de surveillance et  les 
+responsabilités de gestion; et 
+• assure une surveillance adéquate de la direction générale. 
+ Corporate culture, business objectives and strategies of the insurer Culture d'entreprise, objectifs commerciaux et stratégies de l'assureur 
+7.2 The supervisor requires the insurer’s Board to set and oversee the 
+implementation of the insurer’s corporate culture, business objectives 
+and strategies for achieving those objectives, in line with the insurer’s 
+long term interests and viability.  
+Le contrôleur exige que le conseil d’administration de l’assureur 
+établisse et surveille la mise en œuvre d’une culture de gouvernance, 
+des objectifs commerciaux de l’assureur et des stratégies pour 
+atteindre ces objectifs, en conformité avec les intérêts et la vi abilité à 
+long terme de l’assureur. 
+ Structure and governance of the Board Structure et gouvernance du conseil 
+7.3 The supervisor requires the insurer’s Board to have, on an on -going 
+basis:  
+• an appropriate number and mix of individuals to ensure that 
+there is an overall adequate level of competence at the Board 
+level commensurate with the governance structure;  
+• appropriate internal governance practices and procedures to 
+support the work of the Board in a manner that promotes the 
+efficient, objective and i ndependent judgment and decision 
+making by the Board; and  
+• adequate powers and resources to be able to discharge its 
+duties fully and effectively. 
+Le contrôleur exige que le conseil d’administration de l’assureur ait sur 
+une base permanente :  
+• un nombre adéquat et une bonne diversité de membres, de 
+sorte qu’il y ait un niveau général de compétenc es au niveau 
+du conseil proportionné à la structure de gouvernance;  
+• des pratiques  de gouvernance interne et des procédures 
+adéquates pour soutenir le tra vail du c onseil d’une manière 
+qui favorise un jugem ent et une prise de décisions efficaces, 
+objectifs et indépendants du conseil; et  
+• des pouvoirs et ressources adéquats pour pouvoir s’acquitter 
+pleinement et efficacement de ses fonctions. 
+ Duties of individual Board members Obligations de chaque membre du conseil  
+7.4 The supervisor requires that an individual member of the Board:  
+• act in good faith, honestly and reasonably;  
+• exercise due care and diligence;  
+• act in the best interests of the insurer and policyholders, 
+putting those interests ahead of his/her own interests;  
+Le contrôleur demande à chaque membre du conseil :  
+• d’agir de bonne foi, de manière honnête et raisonnable;  
+• de faire preuve de prudence et de diligence;  
+• d’agir dans les meilleurs intérêts de l’assureur et des assurés, 
+de placer les intérêts de ces dern iers avant ses propres 
+intérêts;
+
+12/48 
+• exercise independent judgment and objectivity in his/her 
+decision making, taking due account of the interests of the 
+insurer and policyholders; and  
+• not use his/her position to gain undue personal advantage or 
+cause any detriment to the insurer. 
+• d’exercer un jugement indépendant et objectif dans s a prise 
+de décision , en tenant d ument compte des intérê ts de 
+l’assureur et des assurés; et 
+• de ne pas utiliser sa fonction pour obtenir des avantages 
+personnels indus ni de causer de préjudice à l’assureur. 
+ Duties related to risk management and internal controls Obligations en termes de gestion des risques et de contrôle interne 
+7.5 The supervisor requires the insurer’s Board to provide oversight in 
+respect of the design and implementation of risk management and 
+internal controls. 
+Le contrôleur exige du conseil de l’assureur qu’il surveille la conception 
+et la mise en œuvre de la gestion des risques et du contrôle interne. 
+ Duties related to remuneration Obligations liées à la rémunération 
+7.6 The supervisor requires the insurer’s Board to:  
+• adopt and oversee the effective implementation of a  written 
+remuneration policy  for the insurer, which does not induce 
+excessive or inappropriate risk taking, is in line with the 
+corporate culture, objectives, strategies, identified risk 
+appetite, and long term interests of the insurer, and has 
+proper regard to the  interests of its  policyholders and other 
+stakeholders; and  
+• ensure that such a remuneration policy, at a minimum, covers 
+those individuals who are members of the Board, Senior 
+Management, Key Persons in Control Functions and other 
+employees whose actions may have a material impact on the 
+risk exposure of the insurer (major risk–taking staff). 
+Le contrôleur exige du conseil de l’assureur : 
+• d’adopter et de superviser la mise en œuvre effective d'une 
+politique écrite de rémunération de l'assureur, qui n'entrai ne 
+pas de prise de risque excessive ou inappropriée, qui est 
+conforme à la culture d'entreprise, aux objectifs, aux 
+stratégies, à l'appétit pour le risque identifié et aux intérêts à 
+long terme de l'assureur, et qui tient d ument compte des 
+intérêts de ses assurés et autres parties prenantes; et 
+• de veiller à ce qu'une telle politique de rémunération couvre 
+au minimum les personnes qui sont membres du conseil, de la 
+direction générale, des personnes clés dans les fonctions de 
+contrôle et d'autres employés do nt les actions peuvent avoir 
+un impact significatif sur l'exposition au risque de l'assureur 
+(personnel en mesure de prendre des risques)  
+ Reliable and transparent financial reporting Rapports financiers fiables et transparents 
+7.7 The supervisor requires the insurer’s Board to ensure there is a reliable 
+financial reporting process for both public and supervisory purposes 
+that is supported by clearly defined roles and responsibilities of the 
+Board, Senior Management and the external auditor. 
+Le contrôleur exige du conseil d’administration de l’assureur qu’il 
+s’assure qu’il y a un processus fiable de compte rendus financiers, tant 
+au public qu’au contrôleur. Ce processus doit être soutenu par des 
+rôles et responsabilités  clairement définis du Conseil, de la direction 
+générale et de l’auditeur externe.
+
+13/48 
+ 
+ External Audit Audit externe 
+7.8 The supervisor requires the insurer's Board to ensure that there is 
+adequate governance and oversight of the external audit process. 
+Le contrôleur exige du conseil de l'assureur qu'il s’assure de l’existence 
+d’une gouvernance et une surveillance adéquates du processus d'audit 
+externe. 
+ Communications Communication 
+7.9 The supervisor requires the insurer’s Board to have system s and 
+controls to ensure appropriate, timely and effective communications 
+with the supervisor on the governance of the insurer. 
+Le contrôleur exige que le conseil de l’assureur ait des systèmes et des 
+contrôles pour assurer des communications appropriées, rapides et 
+efficaces avec le contrôleur sur la gouvernance de l’assureur. 
+ Duties of Senior Management Obligations de la direction générale 
+7.10 The supervisor requires the insurer to ensure that Senior 
+Management:  
+• carries out the day-to-day operations of the insurer  effectively 
+and in accordance with the insurer’s corporate culture, 
+business objectives and strategies for achieving those 
+objectives in line with the Insurer's long term interests and 
+viability;  
+• promotes sound risk management, compliance and fair 
+treatment of customers;  
+• provides the Board adequate and timely information to enable 
+the Board to carry out its duties and functions  including the 
+monitoring and review of the performance and risk exposures 
+of the insurer, and the performance of Senior Management; 
+and  
+• maintains adequate and orderly records of the internal 
+organisation. 
+Le contrôleur exige de l’assureur de s’assurer que la direction générale 
+: 
+• exécute les activités quotidiennes de l’assureur de manière 
+efficace et conformément à sa culture d’entreprise, ses 
+objectifs commerciaux et ses stratégies pour atteindre ces 
+objectifs conformément à s es intérêts et à sa viabilité à long 
+terme; 
+• favorise une saine gestion  des risques, la conformité et un 
+traitement équitable des clients; 
+• fournit au conseil des informations adéquates et opportunes 
+pour lui permettre de s'acquitter de ses devoirs et fonctions, y 
+compris le suivi et l'examen des performances et des 
+expositions aux risques de l'assureur, ainsi que la performance 
+de la direction générale; et 
+• tient des registres adéquats et ordonnés de l'organisation 
+interne. 
+ Supervisory review Revue du contrôleur 
+7.11 The supervisor requires the insurer to demonstrate the adequacy and 
+effectiveness of its corporate governance framework. 
+Le contrôleu r exige  de l’assureur de démontrer la pertinence et 
+l’efficacité de son cadre de gouvernance d’entreprise.
+
+14/48 
+ 
+ICP 8 Risk Management and Internal Controls Gestion des risques et contrôles internes 
+ 
+8 The supervisor requires an insurer to have, as part of its overall 
+corporate governance framework, effective systems of risk 
+management and internal controls, including effective functions for 
+risk management, compliance, actuarial matters and internal audit. 
+Le contrôleur exige qu'un assureur dispose, dans le cadre de son cadre 
+général de gouvernance d'entreprise, de systèmes efficaces de gestion 
+des risques et de contrôles internes, y compris des fonctions efficaces 
+de gestion des risques, de conformité, d'actuariat et d'audit interne. 
+ Systems for risk management and internal controls Systèmes de gestion des risques et de contrôles internes 
+8.1 The supervisor requires the insurer to establish, and operate within, 
+an effective risk management system which includes, at least:  
+• a risk management strategy that defines the insurer’s risk 
+appetite;  
+• a risk management policy outlining how all material risks are 
+managed within the risk appetite; and  
+• the ability to respond to changes in the insurer’s risk profile in 
+a timely manner. 
+Le contrôleur exige de l'assureur qu'il établisse et opère au sein d'un 
+système de gestion des risques efficace qui comprend au moins: 
+• une stratégie de gestion des risques qui définit l'appétit pour 
+le risque de l'assureur; 
+• une politique de gestion des risques décrivant comment tous 
+les risques importants sont gérés dans le cadre de l'appétit 
+pour le risque; et 
+• la capacité de réagir aux changements dans le profil de risque 
+de l’assureur en temps opportun. 
+8.2 The supervisor requires the insurer to establish, and operate within, 
+an effective system of internal controls. 
+Le contrôleur exige de l’assureur qu’il établisse et opère au sein d’un 
+système efficace de contrôles internes. 
+ Control functions (general) Fonctions de contrôle (général) 
+8.3 The supervisor requires the insurer to have effective control functions 
+with the necessary authority, independence and resources. 
+Le contrôleur exige de l'assureur qu'il dispose de fonctions de contrôle 
+efficaces avec l'autorité, l'indépendance et les ressources nécessaires. 
+ Risk management function Fonction de gestion des risques 
+8.4 The supervisor requires the insurer to have an effective risk 
+management function capable of assisting the insurer to 
+• identify, assess, monitor, mitigate and report on its key risks in 
+a timely way; and 
+• promote and sustain a sound risk culture. 
+Le contrôleur exige de l'assureur qu'il dispose d'une fonction efficace 
+de gestion des risques capable d'aider l'assureur à: 
+• identifier, évaluer, surveiller, atténuer et rendre co mpte de 
+ses principaux risques en temps opportun; et 
+• promouvoir et maintenir une solide culture du risque. 
+ Compliance function Fonction de conformité
+
+15/48 
+8.5 The supervisor requires the insurer to have an effective compliance 
+function capable of assisting the insurer to i) meet its legal, regulatory 
+and supervisory obligations; and ii) promote and sustain a compliance 
+culture, including through the monitoring of related internal policies. 
+Le contrôleur exige que l'assureur ait une fonction d e conformité 
+efficace capable d'aider l'assureur à i) remplir ses obligations légales, 
+réglementaires et de contrôle; et ii) promouvoir et maintenir une 
+culture de conformité, notamment par le suivi des politiques internes 
+connexes. 
+ Actuarial function Fonction actuarielle 
+8.6 The supervisor requires the insurer to have an effective actuarial 
+function capable of evaluating and providing advice regarding, at a 
+minimum, technical provisions, premium and pricing activities, capital 
+adequacy, reinsurance and compliance with related statutory and 
+regulatory requirements. 
+Le contrôleur exige de l'assureur qu'il dispose d'une fonction 
+actuarielle efficace capable d'évaluer et de fournir des conseils 
+concernant, au minimum, les provisions techniques, les activités  de 
+primes et de prix, la suffisance du capital, la réassurance et le respect 
+des exigences légales et réglementaires connexes. 
+ Internal audit function Fonction d’audit interne 
+8.7 The supervisor requires the insurer to have an effective internal audit 
+function capable of providing the Board with independent assurance 
+in respect of the quality and effectiveness of the insurer’s corporate 
+governance framework. 
+Le contrôleur exige de l’assureur qu’il dispose d’une fonction d’audit 
+interne ef ficace capable de fournir au conseil une assurance 
+indépendante quant à la qualité et à l’efficacité du cadre de 
+gouvernance d’entreprise de l’assureur. 
+ Outsourcing of material activities or functions Externalisation d'activités ou de fonctions importantes 
+8.8 The supervisor requires the insurer to retain at least the same degree 
+of oversight of, and accountability for, any outsourced material activity 
+or function (such as a control function) as applie s to non-outsourced 
+activities or functions. 
+Le contrôleur exige de l'assureur qu'il conserve au moins le même 
+degré de surveillance et de responsabilité pour toute activité ou 
+fonction importante externalisée (comme une fonction de contrôle) 
+que pour les activités ou fonctions non externalisées. 
+ICP 9 Supervisory Review and Reporting Contrôle, et rapportage (reporting) au contrôleur  
+9 The supervisor uses off -site monitoring and on -site inspections to: 
+examine the business of each insurer; evaluate its financial condition, 
+conduct of business, corporate governance framework and overall risk 
+profile; and assess its compliance with relevant legislation and 
+supervisory requirements. The supervisor obtains the necessary 
+information to conduct effective supervision of insurers and evaluate 
+the insurance market. 
+Le contrôleur utilise le contrôle sur pièces et le contrôle sur place pour: 
+examiner les activités de chaque assureur; évaluer sa situation 
+financière, s es pratiques commerciales , son cadre  de gouvernance 
+d'entreprise et son profil de risque global; et évaluer sa conformité 
+avec la réglementation et les exigences de contrôle. Le contrôleur 
+obtient l ’information nécessaire pour  un contrôle et une évaluation 
+efficaces des assureurs et du marché de l'assurance. 
+ Framework for supervisory review and reporting Cadre du contrôle et du rapportage au contrôleur
+
+16/48 
+9.1 The supervisor has a documented framework which outlines its 
+approach for supervisory review and reporting. The supervisor reviews 
+periodically that this framework remains effective and adequate. 
+Le contrôleur dispose d'un cadre documenté qui décrit la 
+méthodologie de contrôle et de rapportage . Le contrôleur vérifie 
+périodiquement que ce cadre reste efficace et adéquat. 
+9.2 As part of the supervisory framework, the supervisor develops 
+supervisory plans which set priorities and determine the appropriate 
+depth and level of off-site monitoring and on-site inspection activity. 
+Dans ce cadre de contrôle, le contrôleur élabore des programmes de 
+contrôle qui établissent les priorités et déterminent l ’étendue et le 
+niveau appropriés des contrôles sur pièces et sur place. 
+9.3 The supervisor reviews outsourced material activities or functions to 
+the same level as non-outsourced material activities or functions. 
+Le contrôleur contrôle le s activités ou fonctions importantes 
+externalisées avec la même précision qu’il contrôle les activités ou 
+fonctions importantes non externalisées. 
+ Supervisory Reporting Rapports au contrôleur 
+9.4 The Supervisor:  
+• establishes documented requirements for the regular 
+reporting of qualitative and quantitative information from all 
+insurers licensed in its jurisdiction;  
+• defines the scope, content and frequency of the information 
+to be reported;  
+• sets out the relevant accounting and auditing standards to be 
+used;  
+• requires that an external audit opinion is provided on annual 
+financial statements;  
+• requires insurers to report on any material changes or 
+incidents that could affect their condition or customers; 
+• requires insurers to correct inaccurate reporting as soon as 
+possible; and 
+• requires more frequent reporting and/or additional 
+information from insurers as needed. 
+Le contrôleur : 
+• établit des exigences documentées pour le rapportage régulier 
+d'informations qualitatives et quantitatives de s assureurs 
+agréés dans sa juridiction; 
+• définit la portée, le contenu et la fréquence des informations 
+à lui rapporter; 
+• définit les normes comptables et d'audit pertinentes à utiliser; 
+• exige qu'une opinion d'audit externe soit fournie sur les états 
+financiers annuels; 
+• oblige les assureurs à signaler tout changement important ou 
+tous incidents pouvant affecter leur situation ou les clients; 
+• oblige les assureurs à rectifier dès que possible tout 
+rapportage inexact;  
+• demande aux assureurs, si nécessaire, un rapportage ou plus 
+fréquent ou des informations supplémentaires.  
+ Off-site monitoring Contrôle sur pièces 
+9.5 The supervisor monitors insurers on an ongoing basis, based on 
+communication with the insurer and analysis of information obtained 
+Le contrôleur surveille les assureurs de maniè re continue, sur la base 
+des communications avec l'assureur, des informations qui proviennent
+
+17/48 
+through supervisory reporting as well as market and other relevant 
+information 
+du rapportage réglementaire et du marché , et de toute autre 
+information pertinente. 
+ On-site inspection Contrôle sur place 
+9.6 The supervisor sets the objective, scope and timing for on -site 
+inspections of insurers, develops corresponding work programmes 
+and conducts such inspections. 
+Le contrôleur fixe l'objectif, la portée et le calendrier des contrôles sur 
+place des assureurs, élabore les programmes d e travail 
+correspondants et effectue ces contrôles. 
+ Supervisory feedback and follow-up Retour et suivi du contrôleur 
+9.7 The supervisor discusses with the insurer as soon as practical any 
+relevant findings of the supervisory review and the need for any 
+preventive or corrective measures. 
+Le contrôleur discute dès que possible avec l'assureur des conclusions 
+pertinentes du contrôle, et de la nécessité de mesures préventives ou 
+correctives. 
+ICP 10 Preventive Measures, Corrective Measures and Sanctions Mesures préventives et correctives ; sanctions 
+10 The supervisor:  
+• requires and enforces preventive and corrective measures; 
+and  
+• imposes sanctions  
+which are timely, necessary to achieve the objectives of insurance 
+supervision, and based on cle ar, objective, consistent, and publicly 
+disclosed general criteria 
+Le contrôleur :  
+• requiert des mes ures préventives et correctives , et les fait 
+appliquer ; 
+• impose des sanctions  
+Ces mesures et sanctions sont opportunes, nécessaires pour atteindre 
+les objectifs du contrôle des assurances, et reposent sur des critères 
+généraux clairs, objectifs, cohérents et rendus publics 
+10.1 The supervisor acts against individuals or entities that conduct 
+insurance activities without the necessary licence.  
+Le contrôleur agit contre des individus ou des entités qui mènent des 
+activités d'assurance sans l'agrément nécessaire. 
+10.2 The supervisor requires preventive measures if the insurer seems likely 
+to operate in a manner that is inconsistent with regulatory 
+requirements. 
+Le contrôleur exige des mesures préventives si l'assureur semble 
+risquer d'opérer d'une manière non réglementaire. 
+10.3 The supervisor requires corrective measures if the insurer fails to 
+operate in a manner that is consistent with regulatory requirements. 
+Le contrôleur exige des mesures correctives si l'assureur opère d'une 
+manière non réglementaire. 
+10.4 The supervisor:  
+• requires the insurer to take actions that address the 
+supervisor’s identified concerns;  
+• periodically checks that the insurer is taking action; and  
+• assesses the effectiveness of the insurer’s actions. 
+Le contrôleur : 
+• oblige l’assureur à prendre des mesures pour répondre aux 
+préoccupations que le contrôleur a identifiées; 
+• vérifie périodiquement que l'assureur prend ces mesures ;  
+• évalue l’efficacité des mesures prises.
+
+18/48 
+10.5 The supervisor escalates, including enforcing, preventive or corrective 
+measures if its concerns are not addressed by the insurer’s actions. 
+Le contrôleur intensifie ses actions, notamment les mesures 
+d’exécution, préventives et correctives, si ses préoccupations ne sont 
+pas satisfaites par les actions de l’assureur.  
+10.6 The supervisor imposes sanctions on insurers and individuals 
+proportionate to the breach of regulatory requirements or other 
+misconduct. 
+Le contrôleur impose aux assureurs et aux individus des sanctions 
+proportionnées à la gravité des infractions à la réglementation ou des 
+autres fautes. 
+ICP 11 There is no longer an ICP 11 Il n’y a plus d’ICP 11 
+ICP 12 Exit from the Market and Resolution Sortie du marché et résolution 
+12 Legislation provides requirements for:  
+• the voluntary exit of insurers from the market; and  
+• the resolution of insurers that are no longer viable or are likely 
+to be no longer viable, and have no reasonable pro spect of 
+returning to viability. 
+La réglementation prévoit des exigences pour :  
+• la sortie volontaire des assureurs du marché  
+• la résolution des assureurs qui ne sont plus viables ou qui 
+risquent de ne plus l'être, et qui n'ont aucune perspective 
+raisonnable de retour à la viabilité. 
+ Voluntary exit from the market Sortie volontaire du marché 
+12.1 Legislation provides a framework for voluntary exit from the market 
+that protects the interests of policyholders. 
+La réglementation fournit un cadre pour la sortie volontaire du marché 
+qui protège les intérêts des assurés. 
+ Objectives of the resolution of insurers Objectifs de la résolution des assureurs 
+12.2 Legislation provides a framework for resolving insurers which:  
+• protects policyholders; and  
+• provides for the absorption of losses in a manner that respects 
+the liquidation claims hierarchy 
+La réglementation fournit un cadre pour résoudre les assureurs qui :  
+• protège les assurés; et  
+• prévoit l'absorption des pertes d’une manière qui respecte la 
+hiérarchie des créanciers en liquidation. 
+ 
+ Planning Planification 
+12.3 The supervisor and/or the resolution authority requires, as necessary, 
+insurers to evaluate prospectively their specific operations and risks in 
+possible resolution scenarios and to put in place procedures for use 
+during a resolution. 
+Le contrôleur et/ou l'autorité de résolution exigent, le cas échéant, que 
+les assureurs évaluent de manière prospective leurs opérations et 
+risques spécifiques dans les scénarios de résolution possibles et 
+mettent en place des procédures à utiliser lors d'une résolution. 
+ Cooperation and coordination Coopération et coordination
+
+19/48 
+12.4 The roles and responsibilities of relevant authorities within a 
+jurisdiction that are involved in exit of insurers from the market or 
+their resolution are clearly defined. 
+Les rôles et les responsabilités des autorités compétentes au sein 
+d'une juridiction qui sont impl iquées dans la sortie des assureurs du 
+marché ou leur résolution sont clairement définis. 
+12.5 The supervisor and/or resolution authority shares information 
+cooperates and coordinates with other relevant authorities for the exit 
+of insurers from the market or their resolution. 
+Le contrôleur et/ou l’autorité de résolution partage des informations, 
+coopère et se coordonne avec d'autres autorités compétentes pour la 
+sortie des assureurs du marché ou leur résolution. 
+ Triggers Déclencheurs 
+12.6 Legislation p rovides criteria for determining the circumstances in 
+which the supervisor and/or resolution authority initiates resolution of 
+an insurer. 
+La réglementation fournit des critères pour déterminer les 
+circonstances dans lesquelles le contrôleur et/ou l’autorité de 
+résolution initie la résolution d'un assureur. 
+ Powers Pouvoirs 
+12.7 Legislation provides an appropriate range of powers to resolve 
+insurers effectively. These powers are exercised proportionately and 
+with appropriate flexibility. 
+La réglementation prévoit un ensemble de pouvoirs appropriés pour 
+résoudre de manière efficace des assureurs. Ces pouvoirs sont exercés 
+avec proportionnalité, et avec une flexibilité appropriée. 
+12.8 Legislation provides that the supervisor is involved in the initiation of 
+the liquidation of an insurance legal entity (or a branch of a foreign 
+insurer in its jurisdiction). 
+La réglementation prévoit que le contrôleur soit impliqué dans 
+l'initiation de la liquidation d'une entreprise d'assurance (ou d'une 
+succursale d'un assureur étranger dans sa juridiction). 
+12.9 Legislation provides a high legal priority to policyholders’ claims within 
+the liquidation claims hierarchy. 
+La réglementation accorde une priorité juridique élevée aux créances 
+des assurés dans la hiérarchie des créances de liquidation. 
+ Safeguards GarDE6FOUS 
+12.10 The resolution authority exercises resolution powers in a way that 
+respects the liquidation claims hierarchy and adheres to the NCWOL 
+principle. If the resolution authority departs from the general principle 
+of equal treatment of creditors of the same class (p ari passu), the 
+resolution authority substantiates the reasons for such departure to 
+all affected parties 
+L'autorité de résolution exerce les pouvoirs de résolution d'une 
+manière qui respecte la hiérarchie des créances de liquidation et 
+adhère au principe NCWOL  / ACP prL —Aucun Créancier Péjoré par 
+rapport à la Liquidation. Si l'autorité de résolution s'écarte du principe 
+général d'égalité de traitement des créanciers d ’une même catégorie 
+(pari passu), elle en expose les raisons à toutes les parties concernées 
+12.11 Legislation provides whether insurance liabilities may be restructured 
+and whether policyholders may absorb losses. 
+La législation prévoit si les passifs d'assurance peuvent être 
+restructurés et si les assurés peuvent absorber les pertes. 
+ Issues specific to groups and branches Problèmes spécifiques aux groupes et aux succursales
+
+20/48 
+12.12 Where the insurance legal entity belongs to a group and the head of 
+the insurance group is located in the same jurisdiction as the legal 
+entity, mechanisms are in place through which the head of the 
+insurance group is able to be resolved. 
+Lorsque l'entité juridique d'assurance appartient à un groupe et que le 
+chef du groupe d'assurance est situé dans la même juridiction que 
+l'entité juridique, des mécanismes sont mis en place permettant de 
+résoudre le chef du groupe d'assurance. 
+12.13 The resolution authority has the authority to r esolve a branch of a 
+foreign insurer located in its jurisdiction and, in such circumstance, 
+coordinates and cooperates with the supervisor and/or resolution 
+authority responsible for the insurance legal entity. 
+L'autorité de résolution a le pouvoir de réso udre une succursale d'un 
+assureur étranger située dans sa juridiction et, dans cette 
+circonstance, coordonne et coopère avec le contrôleur et/ou l'autorité 
+de résolution responsable de l'entité juridique d'assurance. 
+ICP 13 Reinsurance and Other Forms of Risk Transfer Réassurance et autres formes de transfert de risques 
+13 The supervisor requires the insurer to manage effectively its use of 
+reinsurance and other forms of risk transfer. The supervisor takes into 
+account the nature of reinsurance b usiness when supervising 
+reinsurers based in its jurisdiction. 
+Le contrôleur exige de l'assureur qu'il gère efficacement son utilisation 
+de la réassurance et des autres formes de transfert de risques. Le 
+contrôleur tient compte de la nature des activités d e réassurance 
+lorsqu'il contrôle des réassureurs basés dans sa juridiction. 
+13.1 The supervisor requires ceding insurers to have a reinsurance 
+programme that is appropriate to their business and part of their 
+overall risk and capital management strategies.  
+Le contrôleur exige que les assureurs cédants disposent d'un 
+programme de réassurance adapté à leur activité et faisant partie de 
+leurs stratégies globales de gestion des risques et du capital. 
+13.2 The supervisor requires ceding insurers to establish effective internal 
+controls over the implementation of their reinsurance programme. 
+Le contrôleur exige des assureurs cédants qu'ils établissent des 
+contrôles internes efficaces sur la mise en œuvre de leur programme 
+de réassurance. 
+13.3 The supervisor requires ceding insurers to demonstrate the economic 
+impact of the risk transfer originating from their reinsurance contracts. 
+Le contrôleur exige des assureurs cédants qu'ils démontrent l'impact 
+économique du transfert de risque provenant de leurs contrats de 
+réassurance. 
+13.4 When supervising ceding insurers purchasing reinsurance across 
+borders, the supervisor takes into account the supervision performed 
+in the jurisdiction of the reinsurer. 
+Lorsqu'il contrôle des assureurs cédants qui achètent de la réassurance 
+à l'étranger, le contrôleur tient compte du contrôle exerc é dans la 
+juridiction du réassureur. 
+13.5 The supervisor requires the ceding insurer to consider the impact of its 
+reinsurance program in its liquidity management. 
+Le contrôleur exige que l'assureur cédant prenne en compte l'impact 
+de son programme de réassurance dans sa gestion de la liquidité. 
+13.6 In jurisdictions that permit risk transfer to the capital markets, the 
+supervisor understands and assesses the structure and operation of 
+Dans les juridictions qui autorisent le transfert des risques vers les 
+marchés des capitaux, le contrôleur comprend et évalue la structure
+
+21/48 
+such risk transfer arrangements, and addresses any issues that may 
+arise. 
+et le fonctionnement de ces accords de transfert des risques et traite 
+les problèmes qui peuvent survenir. 
+ICP 14 Valuation Valorisation (évaluation des actifs et des passifs) 
+14 The supervisor establishes requirements for the valuation of assets 
+and liabilities for solvency purposes. 
+Le contrôleur établit des critères d'évaluation des actifs et des passifs 
+à fin de la solvabilité. 
+14.1 The valuation addresses recognition, derecognition and 
+measurement of assets and liabilities. 
+L’évaluation porte sur la comptabilisation, la dé-comptabilisation et la 
+mesure des actifs et des passifs. 
+14.2 The valuation of assets and liabilities is undertaken on consistent 
+bases. 
+L'évaluation des actifs et des passifs est effectuée sur des bases 
+cohérentes. 
+14.3 The valuation of assets and liabilities is undertaken in a reliable, 
+decision useful and transparent manner. 
+L'évaluation des actifs et des passifs est effectuée de manière fiable, 
+utile à la décision et transparente. 
+14.4 The valuation of assets and liabilities is an economic valuation. L'évaluation des actifs et des passifs est une évaluation économique. 
+14.5 An economic valuation of assets and liabilities reflects the risk-
+adjusted present values of their cash flows. 
+Une évaluation économique des actifs et des passifs reflète les 
+valeurs actualisées ajustées du risque de leurs flux de trésorerie. 
+14.6 The value of technical provisions and other liabilities does not reflect 
+the insurer’s own credit standing 
+La valeur des provisions techniques et autres passifs ne reflète pas la 
+note de crédit de l’assureur.  
+14.7 The valuation of technical provisions exceeds the Current Estimate by 
+a margin (Margin over the Current Estimate or MOCE). 
+L’évaluation des provisions techniques dépasse l’estimation actuelle 
+d’une marge (Marge sur l’estimation actuelle ou MOCE) 
+14.8 The Current Estimate reflects the expected present value of all 
+relevant future cash flows that arise in fulfilling insurance obligations, 
+using unbiased, current assumptions.  
+L'estimation actuelle reflète la valeur actuelle attendue de tous les 
+flux de trésorerie futurs pertinents résultant de l'exécution des 
+obligations d'assurance, en utilisant des hypothèses non biaisées et 
+actuelles. 
+14.9 The MOCE reflects the inherent uncertainty related to all relevant 
+future cash flows that arise in fulfilling insurance obligations over the 
+full time horizon thereof. 
+Le MOCE reflète l'incertitude inhérente à tous les flux de trésorerie 
+futurs pertinents résultant de l'exécution des obligations d'assurance 
+sur toute la durée de ceux-ci 
+14.10 The valuation of technical provisions allows for the time value of 
+money. The supervisor establishes criteria for the determination of 
+L’évaluation des provisions techniques tient compte de la valeur 
+temps de l’argent. Le contrôleur établit des critères pour la
+
+22/48 
+appropriate rates to be used in the discounting of technical 
+provisions. 
+détermination des taux appropriés à utiliser pour l'actualisation des 
+provisions techniques. 
+14.11 The supervisor requires the valuation of technical provisions to make 
+appropriate allowance for embedded options and guarantees. 
+Le contrôleur requiert que l’évaluation des provisions techniques  
+prenne en compte les options et garanties incorporées. 
+ICP 15 Investment Placements 
+15 The supervisor establishes regulatory investment requirements for 
+solvency purposes in order for insurers to make appropriate 
+investments taking account of the risks they face. 
+Le contrôleur établit une réglementation des placements à fin de 
+solvabilité, afin que les assureurs effectue nt des placements 
+appropriés et tenant compte des risques auxquels ils sont exposés. 
+ Basis for Establishing Regulatory Investment Requirements Base d'établissement d’une réglementation des placements  
+15.1 The supervisor establishes regulatory investment requirements on 
+the investment activities of the insurer. 
+Le contrôleur réglemente les activités de placement de l'assureur. 
+ Regulatory investment requirements regarding the asset portfolio Règles concernant le portefeuille d'actifs 
+15.2 The supervisor requires the insurer to invest assets so that, for its 
+portfolio as a whole: 
+• payments to policyholders or creditors can be made as they 
+fall due; and 
+• assets are adequately diversified. 
+Le contrôleur demande à l'assureur d'investir dans des actifs de sorte 
+que, pour le portefeuille dans son ensemble: 
+• les paiements aux assurés ou aux créanciers peuvent être 
+effectués à leur échéance;  
+• les actifs sont suffisamment diversifiés. 
+ Regulatory investment requirements relating to the nature of the 
+liabilities 
+Règles liées à la nature des passifs 
+15.3 The supervisor requires the insurer to invest in a manner that is 
+appropriate to the nature and duration of its liabilities. 
+Le contrôleur exige de l'assureur qu'il investisse d'une manière 
+appropriée à la nature et à la durée ou duration de son passif. 
+ Regulatory investment requirements regarding risk assessability Règles concernant l'évaluabilité des risques 
+15.4 The supervisor requires the insurer to invest only in assets where it 
+can properly assess and manage the risks. 
+Le contrôleur exige que l'assureur n'investisse que dans des actifs où il 
+peut correctement évaluer et gérer les risques. 
+ Regulatory investment requirements relating to specific financial 
+instruments 
+Règles sur les instruments financiers spécifiques
+
+23/48 
+15.5 The supervisor establishes quantitative and qualitative requirements, 
+where appropriate, on: 
+• the use of more complex and less transparent classes of 
+assets; and 
+• investments in markets or instruments that are subject to less 
+governance or regulation. 
+Le contrôleur établit, le cas échéant, des exigences quantitatives et 
+qualitatives concernant : 
+• l'utilisation de catégories d'actifs plus complexes et moins 
+transparentes; et 
+• les placements sur des marchés ou dans des instruments 
+soumis une gouvernance ou une réglementation moindres. 
+ICP 16 Enterprise Risk Management for Solvency Purposes Gestion des risques d'entreprise à des fins de solvabilité 
+16 The supervisor requires the insurer to establish within its risk 
+management system an enterprise risk  management (ERM) 
+framework for solvency purposes to identify, measure, report and 
+manage the insurer’s risks in an ongoing and integrated manner. 
+Le contrôleur exige de l'assureur qu'il établisse dans son système de 
+gestion des risques un cadre de gestion des risques d'entreprise ( GRE 
+ou ERM, Enterprise Risk Management ) à des fins de solvabilité pour 
+identifier, mesurer, déclarer et gérer les risques de l'assureur de 
+manière continue et intégrée. 
+ Enterprise Risk Management Framework - Risk Identification Cadre de gestion des risques d'entreprise - Identification des risques 
+16.1 The supervisor requires the insurer’s ERM framework to provide for 
+the identification of all reasonably foreseeable and relevant material 
+risks and risk interdependencies for risk and capital management. 
+Le contrôleur exige que le cadre de GRE de l’assureur pr évoie 
+l’identification de tous les risques significatifs pertinents et 
+raisonnablement prévisibles , et de leurs interdépendances pour la 
+gestion des risques et du capital. 
+ Enterprise Risk Management Framework - quantitative techniques to 
+measure risk 
+Cadre de gestion des risques d'entreprise - techniques quantitatives 
+pour mesurer le risque 
+16.2 The supervisor requires the insurer’s ERM framework to: 
+• provide for the quantification of risk and risk 
+interdependencies under a sufficiently wide range of 
+techniques for risk and capital management; and 
+• as necessary, include the performance of stress testing to 
+assess the resilience of its total balance sheet against 
+macroeconomic stresses. 
+Le contrôleur exige que le cadre de GRE (ERM) de l’assureur: 
+• prévoie la quantification des risques et de  leurs 
+interdépendances via un éventail suffisamment large de 
+techniques de gestion des risques et du capital;  
+• le cas échéant, inclu e des tests de résistance qui évaluent la 
+résilience d u bilan de l’assureur aux chocs 
+macroéconomiques. 
+ Enterprise risk management framework - Inter-relationship of risk 
+appetite, risk limits and capital adequacy 
+Cadre de gestion des risques d'entreprise - Interrelation de l'appétit 
+pour le risque, des limites de risque et de la suffisance du capital
+
+24/48 
+16.3 The supervisor requires the insurer’s ERM framework to reflect the 
+relationship between the insurer’s risk appetite, risk limits, regulatory 
+capital requirements, economic capital and the processes and 
+methods for monitoring risk. 
+Le contrôleur exige que le ca dre ERM de l’assureur reflète la relation 
+entre l’appétit pour le risque de l’assureur, les limites de risque, les 
+exigences de capital réglementaire
+, le capital économique et les 
+processus et méthodes de surveillance des risques. 
+ Enterprise risk management framework - risk appetite statement Cadre de gestion des risques d'entreprise - déclaration d'appétit pour 
+le risque 
+16.4 The supervisor requires the insurer to have a risk appetite statement 
+that: 
+• articulates the aggregate level and types of risk the insurer is 
+willing to assume within its risk capacity to achieve its 
+financial and strategic objectives, and business plan; 
+• takes into account all relevant and material categories of risk 
+and their interdependencies within the insurer’s current and 
+target risk profiles; and 
+• is operationalised in its business strategy and day-to-day 
+operations through a more granular risk limits structure. 
+Le contrôleur exige que l'assureur établisse une déclaration d'appétit 
+pour le risque qui: 
+• énonce le niveau global et les types de risques que l'assureur 
+est prêt à assumer dans la limite de sa capacité de risque pour 
+atteindre ses objectifs financiers et stratégiques et son plan 
+d'affaires; 
+• prenne en compte toutes les catégories de risques pertinentes 
+et importantes et leurs interdépendances dans les profils de 
+risque actuels et cibles de l’assureur;  
+• soit opérationnalisée dans sa stratégie commerciale et ses 
+opérations quotidiennes à travers une structure de limites de 
+risque plus granulaire. 
+ Asset-liability management, investment, underwriting and liquidity risk 
+management policies 
+Politiques de gestion actif -passif, d'investissement, de souscription et 
+de gestion du risque de liquidité 
+16.5 The supervisor requires the insurer’s ERM framework to include an 
+explicit asset-liability management (ALM) policy which specifies the 
+nature, role and extent of ALM activities and their relationship with 
+product development, pricing functions and investment 
+management. 
+Le contrôleur exige que le cadre ERM de l'assureur comprenne une 
+politique explicite de gestion actif -passif (ALM) qui spécifie la nature, 
+le rôle et l'étendue des activités d'ALM et leur relation avec le 
+développement de produits, les fonctions de tarification et la gestion 
+des investissements. 
+16.6 The supervisor requires the insurer’s ERM framework to include an 
+explicit investment policy that: 
+• addresses investment risk according to the insurer’s risk 
+appetite and risk limits structure; 
+Le contrôleur exige que le cadre ERM de l'assureur comprenne une 
+politique d'investissement explicite qui: 
+• traite le risque d’investissement en fonction de l’appétit pour 
+le risque et de la structure des limites de risque de l’assureur ;
+
+25/48 
+• specifies the nature, role and extent of the insurer’s 
+investment activities and how the insurer complies with 
+regulatory investment requirements; and  
+• establishes explicit risk management procedures with regard 
+to more complex and less transparent classes of asset and 
+investments in markets or instruments that are subject to 
+less governance or regulation; and 
+• as necessary, includes a counterparty risk appetite statement. 
+• précise la nature, le rôle et l’étendue des activités 
+d’investissement de l’assureur et la manière dont l’assureur se 
+conforme aux exigences réglementaires en matière 
+d’investissement;  
+• établisse des procédures explicites de gestion des risques 
+concernant les cat égories d'actifs et les investissements plus 
+complexes et moins transparents dans des marchés ou des 
+instruments soumis à moins de gouvernance ou de 
+réglementation; et 
+• si nécessaire, compren ne une déclaration d'appétit pour le 
+risque de contrepartie. 
+16.7 The supervisor requires the insurer’s ERM framework to include an 
+underwriting policy that addresses the: 
+• insurer’s underwriting risk according to the insurer’s risk 
+appetite and risk limits structure; 
+• nature of risks to be underwritten, including any material 
+relationship with macroeconomic conditions; and 
+• interaction of the underwriting strategy with the insurer’s 
+reinsurance strategy and pricing. 
+Le contrôleur exige que le cadre ERM de l’assureur comprenne une 
+politique de souscription qui traite : 
+• le risque de souscription de l’assureur selon la structure de 
+l’appétit pour le risque et des limites de risque de l’assureur; 
+• la nature des risques à souscrire, y compris toute relation 
+significative avec les conditions macroéconomiques;  
+• l’interaction de la stratégie de souscription avec la stratégie de 
+réassurance et la tarification de l’assureur. 
+16.8 The supervisor requires the insurer’s ERM framework to address 
+liquidity risk and to contain strategies, policies and processes to 
+maintain adequate liquidity to meet its liabilities as they fall due in 
+normal and stressed conditions. 
+Le contrôleur exige que le cadre ERM de l’assureur traite le risque de 
+liquidité et contienne des stratégies, politiques et processus qui 
+maintiennent une liquidité suffisante pour honorer les passifs à leurs  
+échéances, dans des conditions normales et de stress. 
+16.9 The supervisor requires, as necessary, the insurer to establish more 
+detailed liquidity risk management processes, as part of its ERM 
+framework, that include: 
+• liquidity stress testing; 
+• maintenance of a portfolio of unencumbered highly liquid 
+assets in appropriate locations;  
+Le contrôleur exige, si nécessaire , que l'assureur établisse dans son 
+cadre ERM des processus de gestion du risque de liquidité plus 
+détaillés, qui comprennent: 
+• des tests de résistance de liquidité; 
+• le maintien d'un portefeuille d'actifs très liquides non grevés 
+de droits réels, dans des localisations appropriées;
+
+26/48 
+• a contingency funding plan; and 
+• the submission of a liquidity risk management report to the 
+supervisor. 
+• un plan de financement d'urgence;  
+• la remise d'un rapport de gestion du risque de liquidité au 
+contrôleur. 
+ Own risk and solvency assessment (ORSA) Évaluation interne des risques et de la solvabilité (ORSA) 
+16.10 The supervisor requires the insurer to perform regularly its own risk 
+and solvency assessment (ORSA) to assess the adequacy of its risk 
+management and current, and likely future, solvency position. 
+Le contrôleur exige de l'assureur qu'il procède régulièrement à 
+l’évaluation interne des risques et de la solvabilité (ORSA) , pour 
+évaluer l'adéquation de sa gestion des risques , et de sa situation de 
+solvabilité actuelle et future. 
+16.11 The supervisor requires the insurer’s Board and Senior Management 
+to be responsible for the ORSA. 
+Le contrôleur exige que le conseil et la direction générale de l’assureur 
+soient responsables de l’ORSA. 
+16.12 The supervisor requires the insurer’s ORSA to: 
+• encompass all reasonably foreseeable and relevant material 
+risks including, at least, insurance, credit, market, 
+concentration, operational and liquidity risks and (if 
+applicable) group risk; and 
+• identify the relationship between risk management and the 
+level and quality of financial resources needed and available 
+and, as necessary: 
+• assess the insurer’s resilience against severe but plausible 
+macroeconomic stresses through scenario analysis or stress 
+testing; and 
+• assess aggregate counterparty exposures and analyse the 
+effect of stress events on material counterparty exposures 
+through scenario analysis or stress testing. 
+Le contrôleur exige que l'ORSA de l'assureur: 
+• englobe tous les risques matériels raisonnablem ent 
+prévisibles et pertinents, y compris, au moins, les risques 
+d'assurance, de crédit, de marché, de concentration, 
+opérationnels et de liquidité et (le cas échéant) le risque de 
+groupe;  
+• identifie la relation entre la gestion des risques et le niveau et 
+la qualité des ressources financières nécessaires et disponibles 
+et, si nécessaire: 
+• évalue la résilience de l’assureur face à des contraintes 
+macroéconomiques sévères mais plausibles par le biais d’une 
+analyse de scénarios ou de tests de résistance;  
+• évalue les expositions agrégées aux contreparties et analyse 
+l'effet des événements de stress sur les expositions 
+importantes des contreparties au moyen d'une analyse de 
+scénarios ou de tests de résistance. 
+ ORSA - economic and regulatory capital ORSA - capital économique et réglementaire 
+16.13 The supervisor requires the insurer to: Le contrôleur demande à l'assureur de:
+
+27/48 
+• determine, as part of its ORSA, the overall financial resources 
+it needs to manage its business given its risk appetite and 
+business plans; 
+• base its risk management actions on consideration of its 
+economic capital, regulatory capital requirements, financial 
+resources, and its ORSA; and 
+• assess the quality and adequacy of its capital resources to 
+meet regulatory capital requirements and any additional 
+capital needs. 
+• déterminer, dans le cadre de son ORSA, les ressources 
+financières globales dont il a besoin pour gérer son entreprise 
+compte tenu de s on appétit pour le risque et de ses plans 
+d'affaires; 
+• fonder ses actions de gestion des risques sur la prise en 
+compte de son capital économique, des exigences de capital 
+réglementaire, des ressources financières et de son ORSA; et 
+• évaluer la qualité et la suffisance  de ses ressources en capital 
+pour répondre aux e xigences réglementaires en matière de 
+capital et à tout besoin en capital supplémentaire. 
+ ORSA - continuity analysis ORSA - analyse de continuité 
+16.14 The supervisor requires: 
+• the insurer, as part of its ORSA, to analyse its ability to 
+continue in business, and the risk management and financial 
+resources required to do so over a longer time horizon than 
+typically used to determine regulatory capital requirements; 
+and 
+• the insurer’s continuity analysis to address a combination of 
+quantitative and qualitative elements in the medium and 
+longer-term business strategy of the insurer and include 
+projections of its future financial position and analysis of its 
+ability to meet future regulatory capital requirements. 
+Le contrôleur requiert que : 
+• l'assureur, dans le cadre de son ORSA, analyse sa capacité à 
+poursuivre ses activités et la gestion des risques et les 
+ressources financières nécessaires pour la poursuite de ses 
+activités un horizon plus long que celui habituellement utilisé 
+pour déterminer les exigences de fonds propres 
+réglementaires; et 
+• l’analyse de continuité d’activité de l’assureur aborde une 
+combinaison d’éléments quantitatifs et qualitatifs dans la 
+stratégie commerciale à moyen et long terme de l’assureur et 
+inclut des projections de sa situation financière future et une 
+analyse de sa capacité à répondre aux futures exigences de 
+capital réglementaires. 
+ Recovery Planning Plan de rétablissement 
+16.15 The supervisor requires, as necessary, insurers to evaluate in advance 
+their specific risks and options in possible recovery scenarios. 
+Le contrôleur exige, si nécessaire, que les assureurs évaluent à l'avance 
+leurs risques et options spécifiques dans les scénarios de 
+rétablissement possibles. 
+ Role of supervision in ERM for solvency purposes Rôle du contrôle dans l'ERM à des fins de solvabilité
+
+28/48 
+16.16 The supervisor undertakes reviews of the insurer's ERM framework, 
+including the ORSA. Where necessary, the supervisor requires 
+strengthening of the insurer’s ERM framework, solvency assessment 
+and capital management processes. 
+Le contrôleur examine le cadre ERM de l'assureur, y compris l'ORSA. 
+Le cas échéant, le contrôleur requiert le renforcement du cadre ERM 
+de l’assureur, et des processus d’évaluation de la solvabilité et de 
+gestion du capital.  
+ICP 17 Capital Adequacy Suffisance du capital 
+17 The supervisor establishes capital adequacy requirements for solvency 
+purposes so that insurers can absorb significant unforeseen losses and 
+to provide for degrees of supervisory intervention. 
+Le contrôleur établit des exigences de fonds propres à fin de solvabilité 
+qui permettent aux assureurs d’absorber des pertes importantes et 
+imprévues, et prévoit des niveaux d’intervention. 
+ Capital Adequacy in the Context of a Total Balance Sheet Approach Suffisance du capital dans le cadre d'une approche de bilan total 
+17.1 The supervisor requires that a total balance sheet approach is used in 
+the assessment of solvency to recognise the interdependence 
+between assets, liabilities, regulatory capital requirements and capital 
+resources and to require that risks are appropriately recognised. 
+Le contrôleur exige qu’une approche de bilan total soit utilisée dans 
+l’évaluation de la solvabilité pour tenir compte de l’interdépendance 
+des actifs, des passifs, des besoins en capital réglementaires et des 
+ressources en capital et pour exiger que les risques soient d ument 
+reconnus. 
+ Establishing regulatory capital requirements Établissement des exigences de capital réglementaires 
+17.2 The supervisor establishes regulatory capital requirements at a 
+sufficient level so that, in adversity, an insurer’s obligations to 
+policyholders will continue to be met as they fall due and requires that 
+insurers maintain capital resources to meet the regulatory capital 
+requirements. 
+Le contrôleur fixe les exigences de capital réglementaires à un niveau 
+suffisant pour que, face aux difficultés, les obligations des assureurs 
+envers les assurés continuent à être honorées à leur échéance et exige 
+que les assureurs conservent des ressources en capital pour satisfaire 
+aux exigences de capital réglementaire. 
+ Structure of regulatory capital requirements - solvency control levels Structure des exigences de capital réglementaire - niveaux de contrôle 
+de la solvabilité 
+17.3 The regulatory capital requirements include solvency control levels 
+which trigger different degrees of intervention by the supervisor with 
+an appropriate degree of urgency and requires coherence between the 
+solvency control levels established and the associated corrective 
+action that may be at the disposal of the insurer and/or the supervisor. 
+Les exigences en termes de capital réglementaire  comprennent des 
+niveaux de contrôle de la solvabilité qui déclenchent des degrés 
+d'intervention différents de la part du contrôleur  avec un niveau 
+d’urgence approprié et requièrent une cohérence entre les niveaux de 
+contrôle de la solvabilité mis en place et les actions correctives 
+associées à la disposition de l’assureur et/ou des contrôleurs.
+
+29/48 
+ Structure of regulatory capital requirements - triggers for supervisory 
+intervention in the context of legal entity capital adequacy 
+assessment 
+Structure des exigences de capital réglementaire  – éléments 
+déclencheurs d'une intervention prudentielle dans le cadre de 
+l'évaluation de la suffisance des capitaux d’une entreprise d’assurance 
+17.4 In the context of insurance legal entity capital adequacy assessment, 
+the regulatory capital requirements establish: 
+• a solvency control level above which the supervisor does not 
+intervene on capital adequacy grounds. This is referred to as 
+the Prescribed Capital Requirement (PCR). The PCR is defined 
+such that assets will exceed technical provisions and other 
+liabilities with a specified level of safety over a defined time 
+horizon. 
+• a solvency control level at which, if breached, the supervisor 
+would invoke its strongest actions, in the absence of 
+appropriate corrective action by the insurance legal entity. 
+This is referre
+d to as the Minimum Capital Requirement 
+(MCR). The MCR is subject to a minimum bound below which 
+no insurer is regarded to be viable to operate effectively. 
+Dans le cadre de l’évaluation de la suffisance des capitaux de l’entité 
+juridique d’assurance, les exigences réglementaires déterminent : 
+• un niveau de contrôle de solvabilité au -dessus duquel le 
+contrôleur n’intervient pas pour des motifs d’in suffisance de 
+solvabilité. Ce  niveau s’appelle PCR, «  exigence de capital 
+prescrit ». L e PCR est défini de telle sorte que les actifs 
+excèdent les provisions techniques et les autres passifs à un 
+niveau de prudence spécifié sur un horizon de temps défini ; 
+• un niveau de contrôle de solvabilité pour lequel, en cas de non 
+respect, le contrôleur recourt aux mesures les plus fortes, en 
+l’absence de mesures correctives adéquates prises par 
+l’entreprise d’assurance. Ce niveau s’appelle MCR, « exigence 
+de capital minimal ». Le MCR est soumis à un plancher minimal 
+en dessous duquel aucun assureur n’est  considéré comme 
+viable pour fonctionner efficacement. 
+ Structure of regulatory capital requirements - Triggers for supervisory 
+intervention in the context of group-wide capital adequacy 
+assessment 
+Structure des exigences de capital réglementaire  – éléments 
+déclencheurs d'une intervention prudentielle dans le cadre de 
+l'évaluation de la solvabilité de groupe 
+17.5 In the context of group -wide capital adequacy assessment, the 
+regulatory capital requirements establish solvency control levels that 
+are appropriate in the context of the approach to group -wide capital 
+adequacy that is applied. 
+Dans le contexte de l'évaluation de la solvabilité de groupe, les 
+exigences de capital établissent des niveaux de contrôle de la 
+solvabilité appropriés eu égard à la méthode de calcul de solvabilité de 
+groupe qui est appliquée. 
+ Structure of regulatory capital requirements - approaches to 
+determining regulatory capital requirements 
+Structure des exigences de capital réglementaire – approches pour la 
+détermination des exigences de capital réglementaire 
+17.6 The regulatory capital requirements are established in an open and 
+transparent process, and the objectives of the regulatory capital 
+Les exigences de capital réglementaire sont établies dans un processus 
+ouvert et transparent, et les objectifs des exigences de capital
+
+30/48 
+requirements and the bases on which they are determined are explicit. 
+In determining regulatory capital requirements, the supervisor allows 
+a set of standardised and, if appropriate, other approved more tailored 
+approaches such as the use of (partial or full) internal models. 
+réglementaire ainsi que les bases sur lesquelles elles sont déterminées 
+sont explicites. Lors de la dé termination des exigences de capital 
+réglementaires, le contrôleur autorise un ensemble d'approches 
+standardisées et, le cas échéant, d’autres approches approuvées et 
+mieux adaptées, telles que l'utilisation de modèles internes (partiels 
+ou complets). 
+17.7 The supervisor addresses all relevant and material categories of risk in 
+insurers and is explicit as to where risks are addressed, whether solely 
+in technical provisions, solely in regulatory capital requirements or if 
+addressed in both, as to the extent to which the risks are addressed in 
+each. The supervisor is also explicit as to how risks and their 
+aggregation are reflected in regulatory capital requirements. 
+Le contrôleur aborde toutes les catégories pertinentes et matérielles 
+des risques chez les as sureurs et explicite leur ciblage, à savoir s’ils le 
+sont uniquement dans les provisions techniques, uniquement dans les 
+exigences de capital règlementaire ou dans les deux, et la portée sur 
+laquelle ces risques sont pris en compte dans chacune des catégories. 
+Le contrôleur explicite également la façon dont les risques et leur 
+agrégation sont reflétés dans les exigences de capital réglementaire .
+  
+17.8 The supervisor sets appropriate target criteria for the calculation of 
+regulatory capital requirements, which underlie the calibration of a 
+standardised approach. Where the supervisor allows the use of 
+approved more tailored approaches such as internal models for the 
+purpose of determining regulatory capital requirements, the target 
+criteria un derlying the calibration of the standardised approach are 
+also used by those approaches for that purpose to require broad 
+consistency among all insurers within the jurisdiction. 
+Le contrôleur définit les critères cibles adéquats pour le calcul des 
+exigences de capital réglementaire qui sous-tendent le calibrage d’une 
+approche standardisée. Lorsque le contrôleur permet l’utilisation 
+d’approches approuvées plus adaptées, tels que les modèles internes 
+aux fins de la détermination des exigences de capital réglementaire , 
+les critères cibles sous -jacents au calibrage de l’approche standard 
+sont également utilisés dans ces approches et ont pour effet d’exiger 
+une large cohérence entre tous les assureu rs qui se trouvent au sein 
+de sa juridiction  
+ Variation of regulatory capital requirements Variation des exigences de capital réglementaire 
+17.9 Any variations to the regulatory capital requirement imposed by the 
+supervisor are made within a transparent framework, are appropriate 
+to the nature, scale and complexity according to the target criteria and 
+are only expected to be required in limited circumstances. 
+Toute variation par rapport à l'exigence de capital réglementaire 
+imposée par l e contrôleur est effectuée dans un cadre transparent, 
+convient à la nature, à l'échelle et à la complexité selon les critères 
+cibles et ne devrait être nécessaire que dans des circonstances 
+limitées.
+
+31/48 
+ Identification of capital resources potentially available for solvency 
+purposes 
+Identification des ressources en capital potentielle ment disponibles à 
+des fins de solvabilité 
+17.10 The supervisor defines the approach to determining the capital 
+resources eligible to meet regulatory capital requirements and their 
+value, consis tent with a total balance sheet approach for solvency 
+assessment and having regard to the quality and suitability of capital 
+elements. 
+Le contrôleur définit la méthode de détermination des ressources en 
+capital éligibles pour répondre aux exigences en capital réglementaire 
+et leur valeur, en cohérence avec une approche de bilan total pour 
+l'évaluation de la solvabilité et en tenant compte de la qualité et du 
+caractère approprié des éléments du capital. 
+ Criteria for the assessment of the quality and suitability of capital 
+resources 
+Critères d'évaluation de la qualité et de la suffisance des ressources en 
+capital 
+17.11 The supervisor establishes criteria for assessing the quality and 
+suitability of capital resources, having regard to their ability to absorb 
+losses on both a going-concern and wind-up basis. 
+Le contrôleur établit des critères pour évaluer la qualité et la suffisance 
+des ressources en capital, en tenant compte de leur capacité à 
+absorber les pertes à la fois sur une base de continuité d'activité et sur 
+une base de liquidation. 
+ General provisions on the use of an internal model to determine 
+regulatory capital requirements 
+Dispositions générales relatives à l'utilisation d'un modèle interne pour 
+déterminer les exigences de capital réglementaires 
+   
+17.12 Where a supervisor allows the use of internal models to determine 
+regulatory capital requirements, the supervisor: 
+• establishes appropriate modelling criteria to be used for the 
+determination of regulatory capital requirements, which 
+require broad consistency among all insurers within the 
+jurisdiction; and 
+• identifies the different levels of regulatory capital 
+requirements for which the use of internal models is allowed. 
+Lorsqu'un contrôleur autorise l'utilisation de  modèles internes pour 
+déterminer les exigences de capital réglementaires, le contrôleur: 
+• établit les critères de modélisation appropriés à utiliser pour 
+la détermination des exigences de capital réglementaires, qui 
+nécessitent une large cohérence entre tous les assureurs de la 
+juridiction;  
+• identifie les différents niveaux d'exigences de capital 
+réglementaires pour lesquels l'utilisation de modèles internes 
+est autorisée. 
+ Initial validation and supervisory approval of internal models Validation initiale et approbation prudentielle des modèles internes 
+17.13 Where a supervisor allows the use of internal models to determine 
+regulatory capital requirements, the supervisor requires: 
+Lorsque le contrôleur autorise l'utilisation de modèles internes pour 
+déterminer les exigences de capital réglementaire, il exige:
+
+32/48 
+• prior supervisory approval for the insurer’s use of an internal 
+model for the purpose of calculating regulatory capital 
+requirements; 
+• the insurer to adopt risk modelling techniques and approaches 
+appropriate to the nature, scale and complexity of its current 
+risks and those incorporated within its risk strateg y and 
+business objectives in constructing its internal model for 
+regulatory capital purposes; 
+• the insurer to validate an internal model to be used for 
+regulatory capital purposes by subjecting it, as a minimum, to 
+three tests: “statistical quality test”, “
+calibration test” and 
+“use test”; and 
+• the insurer to demonstrate that the model is appropriate for 
+regulatory capital purposes and to demonstrate the results of 
+each of the three tests. 
+• une autorisation préalable du contrôleur pour l’utilisation par 
+l’assureur d’un modèle interne aux fins du calcul des exigences 
+de capital réglementaires; 
+• que l’assureur adopte des techniques et des méthodes de 
+modélisation du risque adaptées à la nature, à l’ampleur et à 
+la complexité de ses risques actuels et de celles intégrées à sa 
+stratégie de risque et à ses objectifs commerciaux lors de la 
+construction de son modèle interne aux fins du capi tal 
+réglementaire; 
+• que l’assureur valide un modèle interne à utiliser aux fins d’un 
+capital réglementaire en le soumettant au minimum à trois 
+tests: «test de qualité statistique», «test de calibrage» et «test 
+d’utilisation»;  
+• que l’assureur démontre que le modèle répond aux buts de la 
+réglementation de solvabilité, et démontre les résultats de 
+chacun des trois tests. 
+ Statistical quality test for internal models Test de qualité statistique pour les modèles internes 
+17.14 Where a supervisor allows the use of internal models to determine 
+regulatory capital requirements, the supervisor requires: 
+• the insurer to conduct a “statistical quality test” which 
+assesses the base quantitative methodology of the internal 
+model, to demonstrate the appropriateness of this 
+methodology, including the choice of model inputs and 
+parameters, and to justify the assumptions underlying the 
+model; and 
+• that the determination of the regulatory capital requirement 
+using an internal model addresses the overall risk position of 
+the insurer and that the underlying data used in the model is 
+accurate and complete. 
+Lorsqu'un le contrôleur autorise l'utilisation de modèles internes pour 
+déterminer les exigences de capital réglementaire, il exige: 
+• de l’assureur d’effectuer un «test de qualité statistique» qui 
+évalue la méthodologie quantitative de base du modèle 
+interne, afin de démontrer son adéquation, y compris le choix 
+des entrées et paramètres du modèle, et de justifier les 
+hypothèses sous-jacentes au modèle;  
+• que la détermination du capital réglementaire requis à l'aide 
+d'un modèle interne traite la position de risque globale de 
+l'assureur et que les données sous -jacentes utilisées dans le 
+modèle sont précises et complètes.
+
+33/48 
+ Calibration test for internal models Test de calibrage pour les modèles internes 
+17.15 Where a supervisor allows the use of internal models to determine 
+regulatory capital requirements, the supervisor requires the insurer to 
+conduct a “calibration test” to demonstrate that the regulatory capital 
+requirement determined by the internal model satisfies the specified 
+modelling criteria. 
+Lorsqu'un contrôleur autorise l'utilisation de modèles internes pour 
+déterminer les exigences de capital réglementaire , il demande à 
+l'assureur de procéder à un «test de calibrage » afin de démontrer que 
+les exigences de fonds propres réglementaires déterminées par le 
+modèle interne satisfont aux critères de modélisation spécifiés. 
+ Use test and governance for internal models Test d’utilisation et gouvernance pour les modèles internes 
+17.16 Where a supervisor allows the use of internal models to determine 
+regulatory capital requirements, the supervisor requires: 
+• the insurer to fully embed the internal model, its 
+methodologies and results, into the insurer’s risk strategy and 
+operational processes (the “use test”); 
+• the insurer's Board and Senior Management to have overall 
+control of and responsibility for the construction and use of 
+the internal model for risk management purposes, and ensure 
+sufficient understanding of the model's construction at 
+appropriate levels within the insurer's organisational 
+structure. In particular, the supervisor requires the insurer’s 
+Board and Senior Management to understand the 
+consequences of the internal model's outputs and limitations 
+for risk and capital management decisions; and 
+• the insurer to have adequate governance and internal controls 
+in place with respect to the internal model. 
+Lorsqu'un contrôleur autorise l'utilisation de modèles internes pour 
+déterminer les exigences de capital réglementaire, il exige: 
+• de l’assureur d’intégrer pleinement le modèle interne, ses 
+méthodologies et ses résultats dans sa stratégie de risque et 
+ses processus opérationnels (le «test d’utilisation»); 
+• que le conseil d'administration et la direction générale  de 
+l'assureur doivent avoir le contrôle général sur la construction 
+et l'utilisation du modèle interne aux fins de la gestion des 
+risques, et s’assurent que le niveau de compréhension de la 
+construction du modèle aux niveaux appropriés de la structure 
+organisationnelle de l’assureur est suffisant. En particulier, le 
+contrôleur exige que le conseil d’administration et la direction 
+générale 
+de l’assureur comprennent les conséquences des 
+résultats du modèle interne et s es limites en matière de 
+gestion des risques et de la gestion du capital;  
+• de l'assureur de mettre en place une g ouvernance et des 
+contrôles internes adéquats par rapport au modèle interne. 
+ Documentation for internal models Documentation pour les modèles internes 
+17.17 Where a supervisor allows the use of internal models to determine 
+regulatory capital requirements, the supervisor requires the insurer to 
+document the design, construction and governance of the internal 
+model, including an outline of the rationale and assumptions 
+Lorsqu'un contrôleur autorise l'utilisation de modèles internes pour 
+déterminer les exigences de capital réglementaire , il demande à 
+l'assureur de documenter la conception, la construction et la 
+gouvernance du modèle interne, y compris une synthèse des
+
+34/48 
+underlying its methodology. The supervisor requires the 
+documentation to be sufficient to demonstrate compliance with the 
+regulatory validation requirements for internal models, including the 
+statistical quality test, calibration test and use test outlined above. 
+justificatifs et des hypothèses sous -jacentes sa méthodologie. Le 
+contrôleur exige que la documentation soit suffisante pour démontrer 
+la conformité aux exigences de validation réglementaires des modèles 
+internes, y compris le test de qualité statistique, le test de calibrage et 
+le test d'utilisation décrits ci-dessus. 
+ Ongoing validation and supervisory approval of the internal model Validation continue et approbation de la part du contrôleur du modèle 
+interne 
+17.18 Where a supervisor allows the use of internal models to determine 
+regulatory capital requirements, the supervisor requires: 
+• the insurer to monitor the performance of its internal model 
+and regularly review and validate the ongoing appropriateness 
+of the model’s specifications. The supervisor requires the 
+insurer to demonstrate that the model remains fit for  
+regulatory capital purposes in changing circumstances against 
+the criteria of the statistical quality test, calibration test and 
+use test; 
+• the insurer to notify the supervisor of material changes to the 
+internal model made by it for review and continued a pproval 
+of the use of the model for regulatory capital purposes; 
+• the insurer to properly document internal model changes; and 
+• the insurer to report information necessary for supervisory 
+review and ongoing approval of the internal model on a 
+regular basis, as determined appropriate by the supervisor. 
+The information includes details of how the model is 
+embedded within the insurer’s governance and operational 
+processes and risk management strategy, as well as 
+information on the risks assessed by the model and the capital 
+assessment derived from its operation. 
+Lorsqu'un contrôleur autorise l'utilisation de modèles internes pour 
+déterminer les exigences de capital réglementaire, elle exige: 
+• de l’assureur de surveiller les performances de son modèle 
+interne et d’examiner et de valider régulièrement l’adéquation 
+continue des spécifications du modèle. Le contrôleur  
+demande à l'assureur de démontrer que le modèle reste apte 
+aux besoins en capital réglementaire en fonction de l'évolution 
+des circonstances par rapport aux critères du test de qualité 
+statistique, du test de calibrage et du test d'utilisation; 
+• que l'assureur doit informer le contrôleur  des modifications 
+importantes apportées à son modèle  interne aux fins 
+d'examen et d'approbation continue de l'utilisation du modèle 
+à des fins de capital réglementaire; 
+• de l'assureur de documenter correctement les modifications 
+apportées au modèle interne; et 
+• de l’assureur de communiquer régulièrement les informations 
+nécessaires à la révision prudentielle et à l’approbation 
+continue du modèle interne, selon ce que le contrôleur  juge 
+approprié. Ces informations incluent des détails sur la manière 
+dont le modèle est intégré aux processus de gouvernance et 
+opérationnels de l’assureur et à sa stratégie de gestion des 
+risques, ainsi que des informations sur les risques évalués par
+
+35/48 
+le modèle et l’évaluation d u capital résultant de son 
+exploitation. 
+ICP 18 Intermediaries Intermédiaires  
+18 The supervisor sets and enforces requirements for the conduct of 
+insurance intermediaries, in order that they conduct business in a 
+professional and transparent manner. 
+Le contrôleur définit et applique des exigences concernant les 
+intermédiaires d’assurance, afin qu’ils exercent leurs activités de 
+manière professionnelle et transparente. 
+18.1 The supervisor requires insurance intermediaries operating in its 
+jurisdiction to be licensed. 
+Le contrôleur exige que les intermédiaires d’assurance opérant dans 
+sa juridiction soient autorisés. 
+18.2 The supervisor ensures that insurance intermediaries licensed in its 
+jurisdiction are subject to ongoing supervisory review. 
+Le contrôleur s'assure que les intermédiaires d'assurance agréés dans 
+sa juridiction fassent l’objet d’un contrôle permanent. 
+18.3 The supervisor requires insurance intermediaries to maintain 
+appropriate levels of professional knowledge and experience, integrity 
+and competence. 
+Le contrôleur exige que les intermédiaires d’assurance maintiennent 
+un niveau approprié de connaissances et d’expériences professionne-
+lles, d’intégrité et de compétence. 
+18.4 The supervisor requires that insurance intermediaries apply 
+appropriate governance. 
+Le contrôleur exige que les intermédiaires d’assurance appliquent une 
+gouvernance appropriée. 
+18.5 The supervisor requires insurance intermediaries to disclose to 
+customers, at a minimum: 
+• The terms and conditions of business between themselves and 
+the customer; 
+• The relationship they have with the insurers with whom they 
+deal; and  
+•  Information on the basis on which they are remunerated 
+where a potential conflict of interest exists. 
+Le contrôleur exige que l es intermédiaires d’assurances 
+communiquent à leurs clients, au minimum: 
+• les termes et conditions contractuels entre eux et le client; 
+• la relation qu’ils ont avec les assureurs pour lesquels ils 
+intermédient;  
+• les informations sur leur rémunération lorsqu’existe un conflit 
+d'intérêts potentiel. 
+18.6 The supervisor requires an insurance intermediary who handles client 
+monies to have safeguards in place to protect these funds. 
+Le contrôleur exige qu’un intermédiaire d’assurance qui gère des fonds 
+des clients, dispose de garanties pour protéger ces fonds. 
+18.7 Where appropriate, the supervisor takes supervisory measures against 
+licensed insurance intermediaries. 
+Le cas échéant, le contrôleur prend des mesures de contrôle à l’égard 
+des intermédiaires d'assurance autorisés.
+
+36/48 
+18.8 The super visor checks that the intermediary is taking the measures 
+required and escalates such measures if its concerns are not being 
+addressed. 
+Le contrôleur vérifie que les intermédiaires exécutent les mesures qu’il 
+prescrit, et qu’ils renforcent ces mesures si ses préoccupations ne sont 
+pas résolues. 
+18.9 The supervisor takes measures against individuals or entities that 
+conduct insurance intermediation without the necessary license. 
+Le contrôleur agot contre les personnes physiques ou morales qui font 
+de l’intermédiation d’assurance sans l'autorisation requise. 
+ICP 19 Conduct of Business Pratiques commerciales 
+19 The supervisor requires that insurers and intermediaries, in their 
+conduct of insurance business, treat customers fairly, both before a 
+contract is entered into and through to the point at which all 
+obligations under a contract have been satisfied. 
+Le contrôleur exige que les assureurs et les intermédiaires, dans leurs 
+pratiques commerciales, traitent les clients de manière équitable, tant 
+avant la conclusion du contrat que jusqu’à ce que toutes les obligations 
+du contrat aient été remplies. 
+ Fair treatment of customers Traitement équitable des clients 
+19.1 The supervisor requires insurers and intermediaries to act with due 
+skill, care and diligence when dealing with customers. 
+Le contrôleur exige que l es assureurs et les intermédiaires agi ssent 
+avec la compétence, le soin et la diligence requis vis-à-vis des clients. 
+19.2 The supervisor requires insurers and intermediaries to establish and 
+implement policies and procedures on the fair treatment of 
+customers, as an integral part of their business culture. 
+Le contrôleur exige que les assureurs et les intermédiaires définissent 
+et appliquent des politiques et des procédures concernant le 
+traitement équitable des clients, en tant que partie intégrante de leur 
+culture d’entreprise. 
+19.3 The supervisor requires insurers and intermediaries to avoid or 
+properly manage any potential conflicts of interest. 
+Le contrôleur exige que les assureurs et les intermédiaires évitent ou 
+gèrent convenablement tout conflit d’intérêt potentiel. 
+19.4 The supervisor requires insurers and intermediaries to have 
+arrangements in place in dealing with each other to ensure the fair 
+treatment of customers. 
+Le contrôleur exige que les assureurs et les intermédiaires prévoient 
+des dispositions dans leur s relations, qui garantissent un traitement 
+équitable des clients 
+ Product development and pre-contractual stage Élaboration des produits et étape précontractuelle 
+19.5 The supervisor requires insurers to take into account the interests of 
+different types of consumers when developing and distributing 
+insurance products. 
+Le contrôleur exige que les assureurs pren nent en considération les 
+intérêts des différents types de clients au moment de l’élaboration et 
+de la commercialisation des produits d’assurance.
+
+37/48 
+19.6 The supervisor requires insurers and intermediaries to promote 
+products and services in a manner that is clear, fair and not misleading. 
+Le contrôleur exige que les assureurs et intermédiaires d’assurances 
+promeuvent les produits et les services d'une manière correcte, claire 
+et non trompeuse. 
+19.7 The supervisor requires insurers and intermediaries to provide timely, 
+clear and adequate pre -contractual and contractual information to 
+customers. 
+Le contrôleur exige que les assureurs et les intermédiaires fournissent 
+aux clients, en temps opportun, des informations précontractuelles et 
+contractuelles claires et adéquates. 
+19.8 Where customers receive advice before concluding an insurance 
+contract the supervisor requires that the advice provided by insurers 
+and intermediaries takes into account the customer’s disclosed  
+circumstances. 
+Lorsque les clients reçoivent des conseils avant de conclure un contrat 
+d’assurance, le contrôleur  exige que l’assureur ou l’intermédiaire 
+tiennent compte des circonstances communiquées par le client. 
+ Policy Servicing Exécution des contrats  
+19.9 The supervisor requires insurers to:  
+• service policies appropriately through to the point at which all 
+obligations under the policy have been satisfied; 
+• disclose to the policyholder information on any contractual 
+changes during the life of the contract; and 
+• disclose to the policyholder further relevant information 
+depending on the type of insurance product. 
+Le contrôleur exige que les assureurs : 
+• gèrent les contrats de façon appropriée, jusqu’au moment où 
+toutes les obligations du contrat sont honorées; 
+• communiquent à l’assuré toute modification intervenant 
+pendant la vie du contrat ;  
+• communiquent à l’assuré toutes informations pertinentes 
+selon le type de produit d'assurance. 
+19.10 The supervisor requires insurers to handle claims in a timely, fair and 
+transparent manner. 
+Le contrôleur exige que l es assureurs gèrent les sinistres avec 
+diligence, équité et transparence. 
+19.11 The supervisor requires insurers and intermediaries to handle 
+complaints in a timely and fair manner. 
+Le contrôleur exige que les assureurs et les intermédiaires traitent les 
+réclamations avec diligence et équité. 
+19.12 The supervisor requires insurers and intermediaries to have policies 
+and procedures for the protection and use of information on 
+customers. 
+Le contrôleur exige que les assureurs et les intermédiaires élaborent 
+des politiques et des procédures pour la protection et l’utilisation des 
+informations des clients. 
+ Information supporting fair treatment Informations soutenant le traitement équitable
+
+38/48 
+19.13 The supervisor publicly discloses information that supports th e fair 
+treatment of customers. 
+Le contrôleur publie des informations qui justifient que les clients sont 
+traités avec équité. 
+ICP 20 Public Disclosure Communication au public 
+20 The supervisor requires insurers to disclose relevant and 
+comprehensive information on a timely basis in  order to give 
+policyholders and market participants a clear view of their business 
+activities, risks, performance and financial position. 
+Le contrôleur exige que l es assureurs communiquent en temps 
+opportun de s informations pertinentes et détaillées afin de donner 
+aux assurés et aux acteurs du marché une vision claire de leurs activités 
+commerciales, de leurs risques, de leurs résultats et de leur situation 
+financière. 
+20.1 Subject to their nature, scale and complexity, insurers make audited 
+financial statements available at least annually. 
+Selon leur nature, leur taille et leur complexité, les assureurs mettent 
+à disposition des états financiers audités au moins une fois par an. 
+20.2 Insurers disclose, a t least annually and in a way that is publicly 
+accessible, appropriately detailed information on their:  
+• company profile;  
+• corporate governance framework;  
+• technical provisions; 
+• insurance risk exposure; 
+• financial instruments and other investments; 
+• investment risk exposure; 
+• asset-liability management; 
+• capital adequacy; 
+• liquidity risk; and 
+• financial performance. 
+Les assureurs publient, au moins une fois par an et de manière 
+accessible au public, des informations détaillées et appropriées sur: 
+• profil de l’entreprise; 
+• cadre de gouvernance d'entreprise; 
+• provisions techniques; 
+• exposition au risque d'assurance; 
+• instruments financiers et autres placements; 
+• exposition au risque de placement; 
+• gestion actif-passif; 
+• suffisance du capital; 
+• risque de liquidité; et 
+• résultats financiers. 
+ Company Profile Profil de l’entreprise 
+20.3 Disclosures include information about the insurer’s company profile 
+such as: 
+• the nature of its business; 
+• its corporate structure; 
+• key business segments; 
+Les publications comprennent des informations sur le profil de 
+l’entreprise d’assurance, telles que: 
+• la nature de son activité; 
+• sa structure d'entreprise; 
+• secteurs d'activité clés;
+
+39/48 
+• the external environment in which it operates; and 
+• its objectives and the strategies for achieving those objectives. 
+• l'environnement extérieur dans lequel elle opère; et 
+• ses objectifs, et les stratégies pour atteindre ces objectifs 
+ Corporate governance framework Cadre de gouvernance d’entreprise 
+20.4 The supervisor requires that disclosures about the insurer’s corporate 
+governance framework provide information on the key features of the 
+framework, including its internal controls and risk  management, and 
+how they are implemented. 
+Le contrôleur exige que la communication sur le cadre de gouvernance 
+d’entreprise de l’assureur fournisse des informations sur les 
+principales caractéristiques du cadre, y compris ses contrôles internes 
+et la gestion des risques, et la manière dont ils sont mis en œuvre. 
+ Technical provisions Provisions techniques 
+20.5 The supervisor requires that disclosures about the insurer’s technical 
+provisions are presented by material insurance business segment and 
+include, where relevant, information on: 
+• the future cash flow assumptions; 
+• the rationale for the choice of discount rates; 
+• the risk adjustment methodology where used; and 
+• other information as appropriate to provide a description of 
+the method used. 
+Le contrôleur exige que la communication sur les provisions 
+techniques de l'assureur s oit présentée par branche ou secteur  
+d'activité important et comprenne, le cas échéant, des informations 
+sur : 
+• les hypothèses de flux de trésorerie futurs; 
+• la justification du choix des taux d'actualisation; 
+• la méthodologie d'ajustement des risques lorsqu' elle est 
+utilisée; et 
+• toute information appropriée pour fournir une description de 
+la méthode utilisée. 
+ Insurance risk Exposures Expositions au risque d'assurance 
+20.6 The supervisor requires that disclosures about the insurer’s reasonably 
+foreseeable and material insurance risk exposures, and their 
+management, include information on: 
+• the nature, scale and complexity of risks arising from its 
+insurance contracts; 
+• the insurer’s risk management objectives and policies; 
+• models and techniques for managing insurance risks (including 
+underwriting processes); 
+• its use of reinsurance or other forms of risk transfer; and 
+Le contrôleur exige que la communication sur les expositions 
+importantes et raisonnablement prévisibles au risque d’assurance, et 
+sur leur gestion, comprenne des informations sur: 
+• la nature, l'ampleur et la complexité des risques découlant des 
+contrats d'assurance; 
+• les objectifs et politiques de gestion des risques de l’assureur; 
+• les modèles et techniques de gestion des risques d'assurance 
+(y compris les processus de souscription);
+
+40/48 
+• its insurance risk concentrations. • le recours à la réassurance ou à d'autres formes de transfert 
+de risques; et 
+• les concentrations de risques d'assurance. 
+ Financial Instruments and Other Investments Instruments financiers et autres placements  
+20.7 The supervisor requires that disclosures about the insurer’s financial 
+instruments and other investments include information on: 
+• instruments and investments by class; 
+• investment management objectives, policies and processes; 
+and 
+• values, assumptions and methods used for general purpose 
+financial reporting and solvency  purposes, as well as an 
+explanation of any differences, where applicable. 
+Le contrôleur exige que la communication sur les instruments 
+financiers et autres placements de l’assureur comprenne des 
+informations sur: 
+• les instruments et placements par catégories; 
+• les objectifs, politiques et processus de gestion des 
+placements;  
+• les valeurs, hypothèses et méthodes utilisées pour le 
+rapportage financier général et de solvabilité, et une 
+explication de toute différence s’il y a lieu. 
+ Investment Risk Exposures Exposition au risque d’investissement 
+20.8 The supervisor requires disclosures about the insurer’s material 
+investment risk exposures, and their management. 
+Le contrôleur exige des publications sur les expositions importantes de 
+l’assureur au risque d’investissement et sur leur gestion. 
+ Asset-Liability Management Gestion actif-passif 
+20.9 Disclosures about the insurer’s asset -liability management (ALM) 
+include information on: 
+• ALM in total and, where appropriate, at a segmented level; 
+• the methodology used and the key assumptions employed in 
+measuring assets and liabilities for ALM purposes; and 
+• any capital and/or provisions held as a consequence of a 
+mismatch between assets and liabilities. 
+Les publications sur la gestion actif -passif (ALM) de l’assureur 
+comprennent des informations sur: 
+• ALM au total et, le cas échéant, à un niveau segmenté; 
+• la méthodologie utilisée et les hypothèses clés utilisées pour 
+évaluer les actifs et les passifs aux fins de l'ALM; et 
+• tout capital et / ou provisions détenu en raison d'un décalage 
+entre les actifs et les passifs. 
+ Capital Adequacy Suffisance du capital 
+20.10 Disclosures about the insurer’s capital adequacy include information 
+on: 
+Les publications sur la suffisance  des fonds propres de l'assureur 
+comprennent des informations sur:
+
+41/48 
+• its objectives, policies and processes for managing capital and 
+assessing capital adequacy; 
+• the solvency requirements of the jurisdiction(s) in which the 
+insurer operates; and 
+• the capital available to cover regulatory capital requirements. 
+If the insurer uses an internal model to determine capital 
+resources and requirements, information about the model is 
+disclosed. 
+• ses objectifs, politiques et processus de gestion du capital et 
+d'évaluation de la suffisance du capital; 
+• les exigences de solvabilité de la ou des juridictions dans 
+lesquelles l'assureur opère; et 
+• le capital disponible pour couvrir les exigences réglementaires 
+en matière de capital. Si l'assureur utilise un modèle interne 
+pour déterminer les ressources et les be soins en capital, des 
+informations sur le modèle sont divulguées. 
+ Liquidity Risk Risque de liquidité 
+20.11 The supervisor requires that disclosures about the insurer’s liquidity 
+risk include sufficient quantitative and qualitative information to allow 
+a meaningful assessment by market participants of the insurer’s 
+material liquidity risk exposures. 
+Le contrôleur exige que les publications concernant le risque de 
+liquidité de l’assureur comprennent des informations quantitatives et 
+qualitatives suffisante s pour permettre aux acteurs du marché 
+d’évaluer de manière significative les expositions importantes au 
+risque de liquidité de l’assureur. 
+ Financial Performance Résultats financiers 
+20.12 Disclosures about the insurer’s financial performance, in total and at a 
+segmented level include information on: 
+• earnings analysis; 
+• claims statistics including claims development; 
+• pricing adequacy; and 
+• investment performance. 
+Les publications sur l es résultats financiers de l’assureur, globaux et 
+segmentés, comprennent des informations sur: 
+• analyse des bénéfices; 
+• statistiques sur les réclamations, y compris le développement 
+des réclamations 
+• adéquation des prix; et 
+• les résultats des placements. 
+ Non-GAAP Financial Measures Mesures financières hors GAAP / PGRR – Principes Comptables Généra-
+lement Reconnus 
+20.13 Insurers that publicly disclose non -GAAP financial measures are 
+required to adhere to the specified practices regarding those 
+measures, where applicable. 
+Les assureurs qui divulguent publiquement des mesures financières 
+non conformes aux PCGR sont tenus de se conformer aux pratiques 
+spécifiées concernant ces mesures, le cas échéant. 
+ICP 21 Countering Fraud in Insurance Lutte contre la fraude dans le secteur des assurances
+
+42/48 
+21 The supervisor requires that insurers and intermediaries take effective 
+measures to deter, prevent, detect, report and remedy fraud in 
+insurance. 
+Le contrôleur exige que les assureurs et les intermédiaires d’assurance 
+prennent des mesures efficaces pour dissuader, prévenir, détecter et 
+rapporter les fraudes en assurance et y remédier. 
+21.1 Fraud in insurance is addressed by legislation which prescribes 
+adequate sanctions for committing such fraud and for prejudicing an 
+investigation into fraud. 
+La fraude en assurance fait l’objet d’une réglementation qui prévoit 
+des sanctions appropriées pour ces fraudes ou en cas d’entrave à une 
+enquête y afférente. 
+21.2 The supervisor has a thorough and comprehensive understanding of 
+the types of fraud risk to which insurers and intermediaries are 
+exposed. The supervisor regularly assesses the potential fraud risks to 
+the insurance sector and requires insurers and intermediaries to take 
+effective measures to address those risks. 
+Le contrôleur a une compréhension approfondie et globale des types 
+de risque de fraude auxquels sont exposés les assureurs et les 
+intermédiaires. Le contrôleur évalue régulièrement les risques de 
+fraude dans le secteur des assurances , et exige qu’ assureurs et 
+intermédiaires d’assurance prennent des mesures efficaces pour faire 
+face à ces risques. 
+21.3 The supervisor has an effective supervisory framework to monitor and 
+enforce compliance by insurers and intermediaries with the 
+requirements to counter fraud in insurance. 
+Le contrôleur dispose d’un cadre de contrôle efficace pour contrôler et 
+faire respecter par les assureurs et les intermédiaires les règles de lutte 
+contre la fraude en assurance. 
+21.4 The supervisor regularly reviews the effectiv eness of the measures 
+insurers and intermediaries and the supervisor itself are taking to 
+deter, prevent, detect, report and remedy fraud. The supervisor takes 
+any necessary action to improve effectiveness.
+ 
+Le contrôleur examine régulièrement l'efficacité des mesures prises 
+par les assureurs, les intermédiaires et par lui- même pour dissuader, 
+prévenir, détecter, signaler et remédier aux fraude s. Le contrôleur 
+prend toute mesure nécessaire pour améliorer leur efficacité. 
+21.5 The supervisor has effective mechanisms in place, which enable it to 
+cooperate, coordinate and exchange information with other 
+competent authorities, such as law enforcement authorities, as well as 
+other supervisors concerning the development and implementation of 
+policies and activities to deter, prevent, detect, report and remedy 
+fraud in insurance. 
+Le contrôleur dispose de mécanismes efficaces lui permettant de 
+coopérer, de coordonner et d'échanger des informations avec d'autres 
+autorités compétentes, telles que les autorités policières, ainsi qu'avec 
+d'autres contrôleurs concernant l'élaboration et la mise en œuvre de 
+politiques et d'activités visant à dissuader, prévenir, détecter, signaler 
+et remédier à la fraude en matière d'assurance. 
+ICP 22 Anti-Money Laundering and Combating the Financing of Terrorism Lutte contre le blanchiment d'argent et le financement du terrorisme 
+22 The supervisor requires insurers and intermediaries to take effective 
+measures to combat money laundering and terrorist financing. The 
+Le contrôleur exige des assureurs et des intermédiaires qu'ils prennent 
+des mesures efficaces pour lutter contre le blanchiment d'argent et le 
+financement du terrorisme. Le contrôleur prend des mesures efficaces
+
+43/48 
+supervisor takes effective measures to combat money laundering and 
+terrorist financing. 
+pour lutter contre le blanchiment d'argent et le financement du 
+terrorisme. 
+ Part A: Where the insurance supervisor is a designated AML/CFT 
+competent authority 
+Partie A: Lorsque le contrôleur est une autorité compétente désignée 
+en matière de LBC / FT 
+22.1 The supervisor: 
+• has a thorough and comprehensive understanding of the 
+ML/TF risks to which insurers and/or intermediaries are 
+exposed; 
+• uses available information to assess the ML/TF risks to the 
+insurance sector in its jurisdiction on a regular basis; and 
+• applies a Risk-Based Approach (RBA) consistent with FATF 
+Recommendations. 
+Le contrôleur : 
+• a une compréhension approfondie et complète des risques de 
+LBC / FT auxquels les assureurs et / ou intermédiaires sont 
+exposés; 
+• utilise régulièrement les informations disponibles pour 
+évaluer les risques de LBC / FT pour le secteur de l'assurance 
+dans sa juridiction; et 
+• applique une approche basée sur les risques (RBA) conforme 
+aux recommandations du GAFI. 
+22.2 The supervisor: 
+• issues to insurers and/or intermediaries enforceable means 
+on AML/CFT obligations consistent with the FATF 
+Recommendations, for matters which are not in primary 
+legislation; 
+• establishes guidance that will assist insurers and/or 
+intermediaries to implement and comply with their 
+respective AML/CFT requirements; and 
+• provides insurers and/or intermediaries with adequate and 
+appropriate feedback to promote AML/CFT compliance. 
+Le contrôleur: 
+• émet aux assureurs et/ou intermédiaires des moyens 
+exécutoires sur les obligations de LBC/FT conformément aux 
+recommandations du GAFI, pour les questions qui ne figurent 
+pas dans la réglementation primaire; 
+• établit des orientations qui aideront les assureurs et/ou les 
+intermédiaires à mettre en œuvre et à se conformer à leurs 
+exigences respectives en matière de LBC/FT; et 
+• fournit aux assureurs et/ou intermédiaires des retours 
+adéquats et appropriés pour promouvoir la conformité à la 
+LBC/FT 
+22.3 The supervisor has an effective supervisory framework to monitor 
+and enforce compliance by insurers and/or intermediaries with 
+AML/CFT requirements. 
+Le contrôleur dispose d'un cadre de surveillance efficace pour 
+contrôler et faire respecter par les assureurs et/ou les intermédiaires 
+les exigences en matière de LBC/FT. 
+22.4 The supervisor regularly reviews the effectiveness of the measures 
+that insurers and/or intermediaries and the supervisor itself are 
+Le contrôleur examine r égulièrement l’efficacité des mesures prises 
+par les assureurs et/ou les intermédiaires ainsi que  par lui-même en
+
+44/48 
+taking on AML/CFT. The supervisor takes any necessary action to 
+improve effectiveness. 
+matière de LBC/FT. Le contrôleur prend toutes les mesures nécessaires 
+pour améliorer l’efficacité. 
+22.5 The supervisor has effective mechanisms in place which enable it to 
+cooperate, coordinate and exchange information for AML/CFT 
+purposes with other domestic authorities as well as with supervisors 
+in other jurisdictions. 
+Le contrôleur dispose de mécanismes efficaces lui permettant de 
+coopérer, de coordonner et d'échanger des informations à des fins de 
+LBC/FT avec d'autres autorités nationales ainsi qu'avec des 
+contrôleurs d'autres juridictions. 
+ Part B: Where the insurance supervisor is not a designated AML/CFT 
+competent authority 
+Partie B: Lorsque le contrôleur n’est pas une autorité compéten te 
+désignée en matière de LBC/FT 
+22.6 The supervisor is aware of and has an understanding of ML/TF risks to 
+which insurers and/or intermediaries are exposed. The supervisor 
+liaises with and seeks to obtain information from the designated 
+competent authority relating to AML/CFT by insurers and 
+intermediaries. 
+Le contrôleur connait et comprend les risques de LBC/FT auxquels les 
+assureurs et / ou les intermédiaires sont exposés. Le contrôleur assure 
+la liaison avec les assureurs et les intermédiaires et cherche à obtenir 
+de l'autorité compétente désignée des informations sur la LBC/FT. 
+22.7 The supervisor has effective mechanisms in place which enable it to 
+cooperate, coordinate and exchange information for AML/CFT 
+purposes with relevant domestic authorities as well as with 
+supervisors in other jurisdictions. 
+Le contrôleur dispose de mécanismes efficaces lui permettant de 
+coopérer, de coordonner et d'échanger des informations à des fins de 
+LBC/FT avec d'autres autorités nationales ainsi qu'avec des 
+contrôleurs d'autres juridictions. 
+ICP 23 Group-wide supervisor Contrôleur du groupe 
+23 The group -wide supervisor, in cooperation and coordination with 
+other involved supervisors, identifies the insurance group and 
+determines the scope of group supervision. 
+Le contrôleur du groupe, en collaboration et coordination avec les 
+autres contrôleurs concernés, identifie le groupe d’assurance et 
+détermine l’étendue de la supervision de groupe 
+23.1 The group -wide supervisor, in cooperation and coordination with 
+other involved supervisors, identifies all legal entities that are part of 
+the insurance group. 
+Le contrôleur du groupe, en collaboration et coordination avec les 
+autres contrôleurs concernés, identifie toutes les entités juridiques 
+faisant partie du groupe d’assurance 
+23.2 The group -wide supervisor, in cooperation and coordination with 
+other involved supervisors, determines the scope of group -wide 
+supervision. 
+Le contrôleur du groupe, en collaboration et coordination avec les 
+autres contrôleurs concernés, détermine l’étendue de la supervision 
+de groupe
+
+45/48 
+23.3 The group -wide supervisor and other involved supervisors do not 
+narrow the identification of the insurance group or the scope of group-
+wide supervision due to lack of legal authority or supervisory power 
+over particular legal entities. 
+Le contrôleur du groupe et les autres contrôleurs concernés ne 
+limitent pas l’identification du groupe d’assurance ou l’étendue de la 
+supervision de groupe en raison de l’absence d’une autorité légale ou 
+du pouvoir de supervision sur certaines entités juridiques particulières. 
+ICP 24 Macroprudential Surveillance and Insurance Supervision Surveillance macroprudentielle et contrôle des assurances 
+24 The supervisor identifies, monitors and analyses market and financial 
+developments and other  environmental factors that may impact 
+insurers and the insurance sector, uses this information to identify  
+vulnerabilities and address, where necessary, the build -up and 
+transmission of systemic risk at the individual insurer and at the sector-
+wide level. 
+Le contrôleur identifie, surveille et analyse les évolutions du marché et 
+financières et d'autres facteurs environnementaux susceptibles d'avoir 
+un impact sur les assureurs et le secteur de l'assurance, utilise ces 
+informations pour identifier les vulnérabilités et traiter, le cas échéant, 
+l'accumulation et la transmission du risque systémique chez l'assureur 
+individuel et au niveau sectoriel. 
+ Data collection for macroprudential purposes Collecte de données à des fins macroprudentielles 
+24.1 The supervisor collects data necessary for its macroprudential 
+supervision. 
+Le contrôleur collecte les données nécessaires à sa surveillance 
+macroprudentielle. 
+ Insurance sector analysis Analyse du secteur de l’assurance 
+24.2 The supervisor, as part of its macroprudential supervision, performs 
+analysis of financial markets and the insurance sector that: 
+• is both quantitative and qualitative; 
+• considers historical trends as well as the current risk 
+environment; and 
+• considers both inward and outward risks. 
+Le contrôleur, dans le cadre de sa surveillance macroprudentielle, 
+effectue une analyse des marchés financiers et du secteur des 
+assurances qui: 
+• est à la fois quantitative et qualitative; 
+• tient compte des tendances historiques ainsi que de 
+l'environnement de risque actuel; et 
+• prend en compte les risques entrants et sortants. 
+ Assessing systemic importance Évaluation de l'importance systémique 
+24.3 The supervisor has an established process to assess the potential 
+systemic importance of individual insurers and the insurance sector. 
+Le contrôleur dispose d'un processus établi pour évaluer l'importance 
+systémique potentielle des assureurs individuels et du secteur des 
+assurances. 
+ Supervisory Response Réponse du contrôleur
+
+46/48 
+24.4 The supervisor uses the results of its macroprudential supervision, 
+and considers the potential systemic importance of insurers and the 
+insurance sector, when developing and applying supervisory 
+requirements. 
+Le contrôleur utilise les résultats de sa surveillance macroprudentielle 
+et prend en compte l'importance systémique potentielle des assureurs 
+et du secteur des assurances lors de l'élaboration et de l'application 
+des exigences de surveillance. 
+ Transparency Transparence 
+24.5 The supervisor publishes relevant data and statistics on the insurance 
+sector. 
+Le contrôleur publie des données et des statistiques pertinentes sur le 
+secteur des assurances 
+ 
+ICP 25 Supervisory Cooperation and Coordination Coopération et coordination en matière de contrôle 
+25 The supervisor cooperates and coordinates with involved supervisors 
+and relevant authorities to ensure  effective supervision of insurers 
+operating on a cross-border basis. 
+Le contrôleur coopère et se coordonne avec les contrôleurs concernés 
+et les autorités compétentes pour assurer un  contrôle efficace des 
+assureurs ayant des opérations transfrontières. 
+25.1 The supervisor discusses and agrees with the involved supervisors 
+which of them is the group-wide supervisor for cross-border insurance 
+groups operating in its jurisdiction. 
+Le contrôleur discute et approuve avec les contrôleurs concernés qui 
+est le contrôleur d u groupe pour les groupes d'assurance 
+transfrontières opérant dans sa juridiction. 
+25.2 As a group-wide supervisor, the supervisor: 
+• understands the structure and operat ions of the insurance 
+group; and 
+• leads group -wide supervision, taking into account 
+assessments made by the other involved supervisors. 
+Le contrôleur du groupe: 
+• a une compréhension de la structure et d es opérations du 
+groupe d'assurance; et 
+• dirige le contrôle du groupe, en tenant compte des évaluations 
+réalisées par les autres contrôleurs concernés. 
+25.3 As an other involved supervisor, the supervisor understands: 
+• the structure and operations of the group insofar as it 
+concerns the insurance legal entities in its jurisdiction; and 
+• the way that operations of insurance legal entities of the group 
+in its jurisdiction may affect the rest of the group 
+Les autres contrôleurs concernés ont une compréhension: 
+• de la structure et du  fonctionnement du groupe dans la 
+mesure où cela concerne les assureurs individuels qui relèvent 
+de leur juridiction; et 
+• de la manière dont les opérations de ces assureurs individuels 
+dans leur juridiction peuvent affecter le reste du groupe
+
+47/48 
+25.4 The group-wide supervisor discusses and agrees with other involved 
+supervisors to establish suitable  coordination arrangements for 
+crossborder insurance groups operating in its jurisdiction. 
+Le contrôleur du groupe discute et convient avec les autres contrôleurs 
+concernés, d'établir des accords de coordination appropriés pour les 
+groupes d'assurance transfrontières opérant dans sa juridiction. 
+25.5 The group-wide supervisor sets out the coordination arrangements in 
+a written coordination  agreement and puts such arrangements in 
+place. 
+Le contrôleur du groupe définit les dispositifs de coordination dans un 
+accord de coordination écrit et met ces dispositifs en place. 
+25.6 The supervisor discusses and agrees with involved supervisors 
+whether to establish a supervis ory college for cross-border insurance 
+groups operating in its jurisdiction, and if so, how to structure and  
+operate the supervisory college. 
+Le contrôleur discute et convient avec les contrôleurs concernés de 
+l'opportunité de créer un collège de contrôleu rs pour les groupes 
+d'assurance transfrontières opérant dans sa juridiction et, dans 
+l'affirmative, de la manière de structurer et de gérer c e collège de 
+contrôleurs. 
+ Supervisory cooperation in planning for crisis management Coopération des contrôleurs d ans la planification de la gestion des 
+crises 
+25.7 The group -wide supervisor coordinates crisis management 
+preparations with other involved supervisors and relevant authorities. 
+Le contrôleur du groupe coordonne les préparatifs de gestion de crise 
+avec les autres contrôleurs concernés et les autorités compétentes. 
+ Supervisory cooperation during a crisis Coopération pendant une crise 
+25.8 The supervisor: 
+• Informs the involved supervisors as soon as it becomes aware 
+of a crisis; 
+• cooperates and coordinates with the involved supervisors and 
+relevant authorities to analyse and  assess the crisis situation 
+and its implications to reach a common understanding of the 
+situation; and 
+• identifies coordinated, timely and effective solutions to a crisis 
+situation. 
+Le contrôleur :  
+• informe les contrôleurs concernés dès qu'il a connaissance 
+d'une crise; 
+• coopère et se coordonne avec les contrôleurs concernés et les 
+autorités compétentes, pour analyser et évaluer la situation 
+de crise et ses implications , afin de parvenir à une 
+compréhension commune de la situation; et 
+• identifie des solutions coordonnées, rapides et efficaces à une 
+situation de crise. 
+25.9 The group -wide supervisor coordinates with other involved 
+supervisors and relevant authorities on  public communication and 
+communication with the insurance group during the crisis. 
+Le contrôleur du groupe se coordonne avec les autres contrôleurs 
+concernés et les autorités compétentes , sur la communication 
+publique et la communication avec le groupe pendant la crise.
+
+48/48

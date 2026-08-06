@@ -1,0 +1,24 @@
+{
+  "doc_id": "8a21d3d2c1253ccf",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "IAIS welcomes the release of the FSB\u2019s first list of insurers subject to resolution planning standards consistent with the FSB Key Attributes - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/2024/12/iais-welcomes-the-release-of-the-fsbs-first-list-of-insurers-subject-to-resolution-planning-standards-consistent-with-the-fsb-key-attributes-2/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:05ce6cc8246bd5970726dcb97311e7bc14ac68214589be50c6b451bfe7f052d3",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/8a21d3d2c1253ccf",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "93564ef3bc54fa79",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2025/09/IAIS-Newsletter-July-August-2025.pdf",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2025/09/IAIS-Newsletter-July-August-2025.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:af3cd13696e904b946424bf4b8a2e2f51eca96fbad7f63b4fec53f41d1583b83",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/93564ef3bc54fa79",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

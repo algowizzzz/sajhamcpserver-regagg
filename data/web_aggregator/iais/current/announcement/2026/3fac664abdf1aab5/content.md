@@ -1,0 +1,59 @@
+PRESS RELEASE 
+25 January 2024 
+ 
+ 
+ 
+IAIS Roadmap outlines key deliverables for 2024 
+• 2024 will be a defining year for the global Insurance Capital Standard (ICS), with adoption as a 
+prescribed capital requirement (PCR) for Internationally Active Insurance Groups (IAIGs) in 
+December.  
+• The IAIS will support its members in addressing the consequences of climate risk for insurers’ 
+solvency and policyholder protection outcomes, culminating in the publication of a 
+comprehensive application paper in December.  
+• The 2024 IAIS workplan (Roadmap) is the last under the current five-year (2020-2024) IAIS 
+Strategic Plan. The next Strategic Plan – covering 2025-2029 – will be published later this year. 
+Basel, Switzerland – The International Association of Insurance Supervisors (IAIS) today published 
+its 2024 Roadmap . The Roadmap outlines the IAIS’ work programme and is guided by the 2020 -
+2024 Strategic Plan. The 2024 Roadmap provides substantial continuity in the IAIS’ workplan.  
+“Significantly, 2024 marks the culmination of a 13-year journey for the global Insurance Capital 
+Standard (ICS), including extensive data collection and analysis, broad global participation from 
+supervisors and insurance groups during the monitoring period and rigorous consultation,” said 
+Jonathan Dixon, IAIS Secretary General. “Once adopted at the IAIS Annual General Meeting of 
+Members, the ICS will provide, for the first time, a common language for cross-border supervisory 
+discussions on the solvency positions of Internationally Active Insurance Groups (IAIGs).” 
+Alongside feedback from the 2023 public consultation, the IAIS is analysing input on the potential 
+economic impact of ICS implementation.  
+The Association will also continue its annual cycle of assessing global risks and trends through the 
+Global Monitoring Exercise (GME), with deeper analyses of themes identified through the 2023 GME 
+process. 
+In 2024, the IAIS will support its members to respond to key strategic themes that affect the 
+insurance sector – and the broader financial system – on a range of topics, including climate risk, 
+digital innovation, diversity, equity and inclusion (DEI), financial inclusion, operational resilience 
+and cyber risk, and protection gaps. On climate, the IAIS has committed to urgently advance work 
+to address the risks associated with climate change and has made pioneering efforts amongst 
+standard setters. In 2024, the IAIS will deliver an updated, comprehensive application paper on 
+climate risk and will continue to refine its data collection on this topic. 
+Finally, the IAIS will build on its significant progress in implementation assessment and 
+implementation support as part of a strategic shift to a greater focus on the implementation of IAIS 
+standards. In 2024, the IAIS will continue to advance several initiatives designed to help members 
+identify gaps in their observance of IAIS Insurance Core Principles (ICPs). 
+A new IAIS Strategic Plan covering the upcoming five-year period 2025-2029 will be published at 
+the end of 2024. The plan builds on the intensive standard setting of recent years by increasingly 
+focusing on the effective implementation of agreed IAIS standards. At the same time, IAIS activities 
+will continue to adapt to the changing environment, with particular attention to areas such as 
+climate risk, digital innovation and protection gaps. 
+Read the 2024 Roadmap here.
+
+About the IAIS 
+The IAIS is a global standard -setting body whose objectives are to promote effective and globally 
+consistent supervision of the insurance industry to develop and maintain fair, safe and stable 
+insurance markets for the benefit and protection of policyholde rs and to contribute to the 
+maintenance of global financial stability. Its membership includes insurance supervisors from more 
+than 200 jurisdictions. Learn more at www.iaisweb.org. Follow us on LinkedIn: IAIS – International 
+Association of Insurance Supervisors. 
+ 
+Media contact: 
+ 
+Melanie Clowes 
++41 61 280 8442 
+IAIS-Press@bis.org

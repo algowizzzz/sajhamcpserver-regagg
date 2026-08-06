@@ -1,0 +1,11 @@
+1. [Home](https://www.iais.org/)
+2. Todd Coslow
+
+### Todd Coslow
+
+*Chair, IAIS Operational Resilience Task Force*  
+*Assistant Vice President, Federal Reserve Bank of Chicago*
+
+Todd Coslow is an Assistant Vice President at the Federal Reserve Bank of Chicago. His responsibilities include overseeing supervisory teams and risk specialists with responsibility for firm oversight specific to cybersecurity, service providers, and payments and fintech risk. He is also a member of and participates in a number of Federal Reserve System groups including the Service Provider Subcommittee, charged with setting strategic direction for our significant service provider portfolio. Additionally, Mr. Coslow represents the Federal Reserve Board as the Chair of the IAIS Operational Risk Task Force as well as being a member of the Fintech Forum and Governance Working Group.
+
+![](https://www.iais.org/uploads/2022/05/ToddCoslow-300x383.jpg)

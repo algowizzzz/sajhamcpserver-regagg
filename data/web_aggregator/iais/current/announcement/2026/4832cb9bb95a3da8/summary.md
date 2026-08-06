@@ -1,0 +1,1 @@
+Summary: # IAIS outlines actions for insurance supervisors in addressing natural catastrophe protection gaps

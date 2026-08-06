@@ -1,0 +1,29 @@
+# IAIS Year in Review 2024
+
+[28 Apr 2025](https://www.iais.org/2025/04/iais-year-in-review-2024/)
+
+in [Annual Report](https://www.iais.org/category/annual-report/), [Latest news](https://www.iais.org/category/latest-news/)
+
+The IAIS [Year in Review 2024](https://www.iais.org/about-the-iais/annual-report/) showcases our ongoing commitment to policyholder protection and global financial stability. It highlights the progress of the past year, the 30th anniversary of the Association, marked by significant milestones, collaborative efforts and strategic advancements reflecting our dedication to the international community.
+
+Spanning 57 pages, the report provides an overview of the IAIS’ mission, strategy and role in the global financial supervisory architecture, and shares the progress and key achievements of the IAIS committees, working groups, task forces and forums in 2024.
+
+The report also provides an overview of the new [Strategic Plan 2025-2029](https://www.iais.org/uploads/2025/01/Strategic-Plan-2025-2029.pdf).
+
+The “IAIS in numbers” shares over two pages the Association’s quantifiable deliverables in an easy-to-digest overview.
+
+Read the Year in Review 2024 [Year in Review 2024](https://www.iais.org/uploads/2025/04/IAIS-Year-in-Review-2024.pdf).
+
+[![](https://www.iais.org/uploads/2025/04/YIR-cover-image-2024-725x1024.jpg)](https://www.iais.org/uploads/2025/04/IAIS-Year-in-Review-2024.pdf)
+
+28 Apr 2025
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2025%2F04%2Fiais-year-in-review-2024%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

@@ -1,0 +1,24 @@
+{
+  "doc_id": "aa46cef410dfbf1c",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2022/01/210420-20-April-2021-Press-Release_Key-inclusive-insurance-stakeholders-to-discuss-the-role-of-insurance-in-achieving-the-Sustainable-Development-Goals-SDGs_-20-April-2021.pdf",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2022/01/210420-20-April-2021-Press-Release_Key-inclusive-insurance-stakeholders-to-discuss-the-role-of-insurance-in-achieving-the-Sustainable-Development-Goals-SDGs_-20-April-2021.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f1ae29c9fbf49c08e2c819efcba1a79045adaa7d6b2e40e19258f68854ccbd33",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/aa46cef410dfbf1c",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

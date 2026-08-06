@@ -1,0 +1,32 @@
+# Register now for the IAIS Global Seminar 2025!
+
+[15 May 2025](https://www.iais.org/2025/05/register-now-for-the-iais-global-seminar-2025/)
+
+in [Events](https://www.iais.org/category/events/), [Global Seminar](https://www.iais.org/category/global-seminar/), [Latest news](https://www.iais.org/category/latest-news/), [Stakeholder events](https://www.iais.org/category/stakeholder-events/)
+
+Join us online for the [**IAIS Global Seminar 2025**](https://www.iais.org/events/global-seminar/). The event will take place virtually on 8, 9 and 10 July. Every day, the sessions start at 13:00 CEST and last up to two hours.  
+  
+The Global Seminar offers opportunities to engage with IAIS leadership and stakeholders for valuable insights into key issues front of mind for insurance supervisors and industry:  
+  
+**8 July**   
+The IAIS’ Executive Committee leadership dialogue will provide an update of key projects in 2025 under the new Strategic Plan, including on the ICS implementation, and highlight their importance in ensuring fair, safe and stable insurance markets.  
+  
+**9 July**  
+Three consecutive 25-minute sessions with committee chairs to engage on their work.  
+  
+**10 July**  
+Two panel sessions covering risks in the insurance sector and natural catastrophe protection gaps.
+
+[Register now!](https://bis.webex.com/webappng/sites/bis/webinar/webinarSeries/register/1d39a71f6624473db1579fd5d60fb302)
+
+15 May 2025
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2025%2F05%2Fregister-now-for-the-iais-global-seminar-2025%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

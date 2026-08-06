@@ -1,0 +1,78 @@
+Public Page 1 of 2 
+ 
+Career Opportunity with the IAIS – Senior Policy Advisor, Financial Stability  
+The International Association of Insurance Supervisors (IAIS) is the global standard setting body for 
+insurance supervision. Our mission is to promote effective and globally consistent supervision of the 
+insurance industry for the benefit and protection of policyholders and to contribute to global financial 
+stability. We are an independent association of more than 200 insurance supervisors covering 97 
+percent of the world insurance market. We are hosted by the Bank for International Settlements. 
+We are inviting applications for the position of Senior Policy Advisor to join the Financial Stability team.  
+By joining the IAIS 
+You will be part of an international team supporting IAIS global projects and activities, ranging from 
+risk assessment, standard setting to supporting and assessing implementation. You will be part of a 
+small secretariat team of highly motivated individuals, who together function as a point of contact for 
+IAIS members (insurance supervisors), its committees, subcommittees and stakeholders. 
+Job description 
+In this role, you  will support IAIS’ Financial Stability activities, which includes the following primary 
+activities: 
+• Supporting IAIS’ activities in assessing key risks and trends and the potential build- up of 
+systemic risk in the insurance sector, as part of the IAIS’ Holistic Framework for the 
+Assessment and Mitigation of systemic risk in the insurance sector (The Holistic Framework) 
+• Undertaking analyses of macroprudential and financial stability issues in the global insurance 
+sector 
+• Supporting the IAIS’ Macroprudential Committee and its respective Subcommittees, as well as 
+coordinating with other relevant IAIS Committees and Subcommittees 
+• Advancing the IAIS’ relevant projects on macroprudential supervision  
+• Drafting IAIS internal or public reports (such as the Global Insurance Market Report), notably 
+on topics of macroprudential supervision and financial stability in the global insurance sector 
+• Assisting with IAIS contributions to the Financial Stability Board (FSB) activities and work 
+streams 
+• Interpreting data, analysing results using statistical techniques 
+• Providing expert advice and recommendations, as well as policy options 
+• Contributing to IAIS relevant stakeholder engagement and communications plan 
+The general duties of a Senior Policy Advisor may also include the following: 
+• Contributing to meeting planning, preparation, and logistics. 
+• Supporting the Secretary General and Senior Management Team. 
+• Preparing reports, presentations, and documents on behalf of the IAIS, as well as briefing 
+notes for IAIS Leadership in external speaking engagements. 
+• Representing the IAIS in regional and international fora. 
+• Ensuring that IAIS internal policies and procedures are met
+
+Page 2 of 2 
+ 
+• Performing any other relevant work as assigned or delegated by the Secretary General.  
+Job requirements 
+The following are the core requirements for this role: 
+• Higher education in subjects relevant to financial stability. 
+• Good knowledge of insurance business.  
+• Solid understanding of, and experience in, macroprudential surveillance and/ or supervision 
+• Knowledge of the supervisory and supporting material developed by the IAIS. 
+• Demonstrated independence, p roactivity, diplomacy and the ability to build consens us 
+amongst diverse members and partners. 
+• Passion, drive and energy to achieve agreed objectives in a structured and transparent 
+manner. 
+• Proven capacity to work flexibly, effectively and harmoniously in a small team from a wide 
+variety of backgrounds and nationalities, in the context to achieve the successful and timely 
+delivery of project objectives including in time- constrained and/or information constr ained 
+circumstances. 
+• Excellent command of English language (written and spoken)  and ability to communicate 
+effectively both internally with team members and externally with insurance supervisors and 
+representatives from national and other international organisations. 
+• Dedication to work in Basel, ability to sustain regular travel.  
+• Skills in at least one of the other two official IAIS languages (French, Spanish) will be a plus. 
+Who we are 
+The IAIS is a diverse organisation with colleagues fr om many countries. By joining us in the 
+international city of Basel, you will work in a unique, highly rewarding and international work 
+environment. We truly value diversity and inclusion and want to reflect the world we serve. We want 
+the best people to work for us in an inclusive environment so welcome applications from all qualified 
+candidates. We value equity and diversity in all its forms and one way we support diversity and 
+inclusion is through our staff-run networks.   
+What we offer 
+The position is based in Basel, Switzerland, and will involve international travel. We offer attractive 
+employment conditions. The salary will be paid free of Swiss income tax. The contract term is for three 
+years with the possibility of extension. A relocation package will be offered to the successful candidate. 
+You will also benefit from working in an international environment that offers flexible, hybrid working 
+options, with a blend of onsite work from our central office location in Basel and working from home. 
+To apply, please click here. 
+Questions? Please send a message to IAIS.Recruitment@bis.org.  
+Closing date for completed applications:  24 July 2023.

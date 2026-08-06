@@ -1,0 +1,62 @@
+# Public consultation on draft Issues Paper on structural shifts in the life insurance sector
+
+[19 Mar 2025](https://www.iais.org/2025/03/public-consultation-on-draft-issues-paper-on-structural-shifts-in-the-life-insurance-sector/)
+
+in [closed consultations](https://www.iais.org/category/closed-consultations/), [Consultations](https://www.iais.org/category/consultations/), [Issues Papers](https://www.iais.org/category/issues-papers/), [Latest news](https://www.iais.org/category/latest-news/)
+
+[Consultation](https://www.iais.org/2025/03/public-consultation-on-draft-issues-paper-on-structural-shifts-in-the-life-insurance-sector/)
+
+[Stakeholder event](https://www.iais.org/events/public-background-session-for-the-draft-issues-paper-on-structural-shifts-in-the-life-insurance-sector/)
+
+[Resolution of comments](https://www.iais.org/uploads/2025/11/Resolution-of-public-consultation-comments-on-the-draft-Issues-Paper-on-structural-shifts-in-the-life-insurance-sector.pdf)
+
+[Final paper](https://www.iais.org/uploads/2025/11/Issues-Paper-on-structural-shifts-in-the-life-insurance-sector.pdf)
+
+**This consultation is now closed and the Issues Paper has been published.**
+
+The IAIS has now published its [Issues Paper on structural shifts in the life insurance sector](https://www.iais.org/uploads/2025/11/Issues-Paper-on-structural-shifts-in-the-life-insurance-sector.pdf).
+
+This paper focuses on the significant structural changes occurring in the life insurance sector, with a particular emphasis on the increased allocation to alternative assets in life insurers’ portfolios and the rising adoption of cross-border asset-intensive reinsurance (AIR). It highlights the implications of these trends for financial stability and provides a framework to assist supervisors and insurers in understanding and addressing potential risks while recognising the benefits these shifts may offer.
+
+The paper:
+
+* Explores the growing allocation to alternative assets by life insurers, driven by prolonged low interest rates, demographic shifts, and the demand for higher returns and diversification. It highlights the benefits of these assets, such as diversification, inflation hedges, and alignment with long-term liabilities, while acknowledging the risks, including valuation uncertainty, illiquidity, and complexity.
+* Examines the rising adoption of AIR, which transfers risks from insurers to reinsurers for capital-intensive liabilities like annuities and long-term savings products. The paper discusses the potential benefits of AIR, such as capital relief, risk reduction, and access to a broader universe of assets, while addressing supervisory concerns like complexity, recapture risk, and concentration risk.
+* Considers macroprudential and financial stability implications of these structural shifts, including the potential risks of forced asset liquidation, withdrawal from key lending markets, and financial market disruption. It underscores the importance of addressing information gaps to better monitor financial stability impacts and evaluate concentration risks.
+* Reviews the IAIS supervisory material, noting that the Insurance Core Principles (ICPs) and Common Framework for the Supervision of Internationally Active Insurance Groups (ComFrame) broadly encompass the risks associated with these trends. The paper identifies potential areas for future enhancement, such as new guidance or revisions to existing supervisory material.
+
+Comments on the draft Issues Paper were sought during the consultation period. The feedback received and the IAIS’ responses are available in the resolution of comments document.
+
+## Key documents
+
+### [Issues Paper on structural shifts in the life insurance sector](https://www.iais.org/uploads/2025/11/Issues-Paper-on-structural-shifts-in-the-life-insurance-sector.pdf) 18 Nov 2025
+
+The IAIS has published a comprehensive supervisory analysis and agreed on a path forward to respond to potential risks arising from the increasing allocation to alternative assets and adoption of cross-border asset-intensive reinsurance (AIR) by life insurers.
+
+[Download](https://www.iais.org/uploads/2025/11/Issues-Paper-on-structural-shifts-in-the-life-insurance-sector.pdf)
+
+### [Resolution of public consultation comments on the draft Issues Paper on structural shifts in the life insurance sector](https://www.iais.org/uploads/2025/11/Resolution-of-public-consultation-comments-on-the-draft-Issues-Paper-on-structural-shifts-in-the-life-insurance-sector.pdf) 18 Nov 2025
+
+[Download](https://www.iais.org/uploads/2025/11/Resolution-of-public-consultation-comments-on-the-draft-Issues-Paper-on-structural-shifts-in-the-life-insurance-sector.pdf)
+
+### [Public consultation Draft Issues Paper on structural shifts in the life insurance sector](https://www.iais.org/uploads/2025/04/Public-consultation-Draft-Issues-Paper-on-structural-shifts-in-the-life-insurance-sector.pdf) 19 Mar 2025
+
+[Download](https://www.iais.org/uploads/2025/04/Public-consultation-Draft-Issues-Paper-on-structural-shifts-in-the-life-insurance-sector.pdf)
+
+### [Comments from public consultation on draft Issues Paper on structural shifts in the life insurance sector](https://www.iais.org/uploads/2025/04/Comments-from-public-consultation-on-draft-Issues-Paper-on-structural-shifts-in-the-life-insurance-sector-1.docx) 19 Mar 2025
+
+[Download](https://www.iais.org/uploads/2025/04/Comments-from-public-consultation-on-draft-Issues-Paper-on-structural-shifts-in-the-life-insurance-sector-1.docx)
+
+19 Nov 2025
+
+[Financial Stability](https://www.iais.org/tag/financial-stability/)[Holistic Framework](https://www.iais.org/tag/holistic-framework/)[ICPs and ComFrame](https://www.iais.org/tag/icps-and-comframe/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2025%2F03%2Fpublic-consultation-on-draft-issues-paper-on-structural-shifts-in-the-life-insurance-sector%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

@@ -1,0 +1,24 @@
+{
+  "doc_id": "e98748536ca21b09",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2023/10/IAIS-Press-Release-ASIC-joins-IAIS-MMoU.pdf",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2023/10/IAIS-Press-Release-ASIC-joins-IAIS-MMoU.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1ecb65d88d500cc974c49a3ab93bf2d5a230cc74e4dcdf45594db6bc6728328a",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/e98748536ca21b09",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

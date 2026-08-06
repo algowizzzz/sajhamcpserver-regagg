@@ -1,0 +1,90 @@
+Public Page 1 of 2 
+ 
+ 
+CAREER OPPORTUNITY WITH THE IAIS – SENIOR POLICY ADVISOR - IMPLEMENTATION ASSESSMENT  
+ 
+The International Association of Insurance Supervisors (IAIS) is the global standard setting body for 
+insurance. Our mission is to promote effective and globally consistent supervision of the insurance 
+industry for the benefit and protection of policyholders and to contribute to global financial stability. 
+ 
+The International Association of Insurance Supervisors (IAIS) is currently inviting applications for the 
+position of Senior Policy Advisor – Implementation Assessment (SPA IA).  
+ 
+J
+OB DESCRIPTION  
+ 
+The Senior Policy Advisor – Implementation Assessment will work as part of the Implementation and 
+Assessment team. In this role, the successful applicant will support the IAIS’ assessment activities, 
+which includes the following primary responsibilities: 
+• Supporting current and future implementation assessment activities, as necessary, including 
+the IAIS Peer Review Process, Member Assessment Programme, assessment and on-going 
+monitoring of implementation of the supervisory policy measures of the Holistic Framework 
+for the Assessment and Mitigation of Systemic Risk in the Insurance Sector, and assessment 
+and on-going monitoring of implementation of the  Common Framework for the Supervision 
+of Internationally Active Insurance Groups (ComFrame). 
+• Contributing to the development of new assessment approaches. 
+• Preparing and contributing to briefing notes, memos and presentations within the Secretariat 
+and for IAIS Committees and Subcommittees. 
+• Performing any other relevant work as assigned or delegated. 
+The general duties of a Senior Policy Advisor may also include the following: 
+• Contributing to meeting planning and logistics. 
+• Supporting the Secretary General and Senior Management Team. 
+• Preparing reports and documents on behalf of the IAIS, as well as briefing notes for IAIS 
+Leadership in external speaking engagements. 
+• Representing the IAIS in regional and international fora. 
+ 
+The successful candidate will rely on a rich understanding of the methodologies underpinning 
+assessments complemented by a good grasp of the standards of the IAIS Insurance Core Principles 
+(ICPs) and ComFrame and experience in the area of practical insurance supervision.  
+ 
+J
+OB REQUIREMENTS 
+ 
+The following are minimum requirements for all applicants:
+ 
+• Academic degree (preferably Masters-level) in matters relevant to the work of the IAIS. 
+• Extensive experience in insurance supervision and policy making.  
+• Strong knowledge of, and experience in, approaches to the assessment of implementation 
+of global supervisory standards and good practices. 
+• Good knowledge of the supervisory and supporting material developed by the IAIS. 
+• Demonstrated independence, p roactivity, diplomacy and the ability to build consens us 
+amongst diverse members and stakeholders. 
+• Enthusiasm, drive, energy and resilience to achieve agreed objectives in a structured and 
+transparent manner. 
+• Demonstrable experience of managing and leading complex projects. 
+• Good analytical and robust drafting skills.
+
+Page 2 of 2 
+ 
+• Demonstrated capacity to work flexibly, effectively and harmoniously in a small team context 
+to achieve the successful and on- time delivery of project objectives , sometimes under tight 
+deadlines, but also over an extended timeline. 
+• Ability to work constructively with colleagues from a wide variety of backgrounds and 
+nationalities within the Secretariat and within the IAIS membership. 
+• Excellent command of English language (written and spoken)  and ability to communicate 
+effectively both internally with team members and externally with insurance supervisors and 
+representatives from national and other international organisations. 
+• Commitment to work in Basel, ability to sustain remote working and regular travel and 
+willingness to exercise the position for a sufficient period of time.  
+ 
+Desirable experience including (but not limited to): 
+• Experience across microprudential, macroprudential and market conduct supervision. 
+• Experience of supervisory assessment exercises, such as the IMF/World Banks Reports on 
+the Observance of Standards and Codes (ROSC) and/or their Financial Sector Assessment 
+Program (FSAP), or the Basel Committee for Banking Supervision’s Regulatory Consistency 
+Assessment Program (RCAP). 
+• Familiarity with the business, supervision and regulation of other financial services ( eg 
+banking and securities). 
+• Skills in at least one of the other two official IAIS languages (French, Spanish). 
+ 
+The position is based in Basel, Switzerland, and will involve international travel. Attractive 
+employment conditions will be offered. The salary will be paid free of Swiss income tax. The contract 
+term is for three years with the possibility of extension. A relocation package will be offered to the 
+successful candidate.  
+ 
+ 
+To apply, please click here 
+ 
+Questions? Please send a message to IAIS.Recruitment@bis.org.  
+ 
+Closing date for completed applications: 18 August 2022

@@ -1,0 +1,1 @@
+Summary: # IAIS Global Insurance Market Report 2025 highlights growth of investments in private credit, geoeconomic fragmentation and AI adoption as key supervisory priorities

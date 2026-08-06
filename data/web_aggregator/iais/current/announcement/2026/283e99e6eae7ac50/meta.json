@@ -1,0 +1,24 @@
+{
+  "doc_id": "283e99e6eae7ac50",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "Replays and summaries of the IAIS Global Seminar 2024 are now available - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/2024/07/the-iais-welcomed-over-1000-participants-during-its-virtual-global-seminar-2024-this-week-if-you-could-not-join-us-or-wish-to-revisit-the-sessions-the-video-replays-are-now-available/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c44a60fe7442e8dc8861d542a2b4a4fe3bbf8a9ccc02d598d161054d80a64349",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/283e99e6eae7ac50",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

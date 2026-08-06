@@ -1,0 +1,1 @@
+Summary: Public consultation on Draft Application Paper on the supervision of artificial intelligence 

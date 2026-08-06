@@ -1,0 +1,865 @@
+2024 AM Data Collection Technical Specifications 
+  
+ Page 1 of 24 
+ 
+ 
+ 
+ 
+ 
+Instructions for the April 2024 Aggregation Method (AM) Data Collection 
+Exercise of the Monitoring Period Project 
+ 
+(“the AM Technical Specifications”) 
+ 
+ 
+This document must be read in conjunction with the associated 2024 Aggregation Method 
+Data Collection Template and Questionnaire documentation to provide an accurate and up-
+to-date understanding of the data collection. 
+  
+Public
+
+2024 AM Data Collection Technical Specifications Page 2 of 24 
+Contents 
+Introduction and Purpose .................................................................................................................... 3 
+Applicable Technical Standards ......................................................................................................... 3 
+1 Reporting Date and Context ....................................................................................................... 4 
+1.1 Scope ..................................................................................................................................... 4 
+1.2 Proportionality ....................................................................................................................... 4 
+2 Process and Timetable ................................................................................................................ 6 
+3 Aggregation Method Data Collection ........................................................................................ 7 
+3.1 Overview ................................................................................................................................ 7 
+3.2 General Instructions ............................................................................................................. 7 
+3.3 Simplifications ....................................................................................................................... 8 
+3.4 Entity Input............................................................................................................................. 9 
+3.5 Financial Instruments ......................................................................................................... 15 
+3.6 Scaling Options ................................................................................................................... 17 
+3.7 Summary ............................................................................................................................. 20 
+Annex 1 Analysis on Potential AM Scalars ................................................................................ 21 
+Annex 2 Instruction for uploading documents to eBIS ............................................................. 23 
+1. Preparation for data submission .......................................................................................... 23 
+2. Data upload via eBIS ............................................................................................................. 23 
+3. Post-submission data checking............................................................................................ 24 
+4. Submission check list ............................................................................................................ 24 
+Public
+
+2024 AM Data Collection Technical Specifications Page 3 of 24 
+Introduction and Purpose 
+In collaboration with the IAIS, the BIS is conducting this data collection exercise (the “April 
+2024 AM Data Collection”) as part of a multi-year exercise to support the development of 
+ComFrame and additional capital standards (the “Monitoring Period Project”). 
+These Technical Specifications supplement the Guidelines for the Data Collection Exercises 
+of the Monitoring Period Project by setting out the specificities of the April 2024 AM Data 
+Collection conducted for the Monitoring Period Project. The Guidelines provide a general 
+overview of the data collection exercises conducted for the Monitoring Period Project and 
+how the requested data will be utilised and the applicable confidentiality protections. For a 
+complete overview of data collection and processing in connection with the Monitoring 
+Period Project, the Guidelines and these Technical Specifications must be read together.  
+Defined terms in this document shall have the same meaning as ascribed to them in the 
+Guidelines unless otherwise defined herein.  
+Applicable Technical Standards 
+The Relevant Authorities must comply with the following standards when submitting Initial 
+Data to the BIS: 
+• Individual Volunteer Group data must be submitted using the Template and
+Questionnaire distributed on eBIS
+• The Relevant Authorities must name the Template and Questionnaire in
+accordance with the standard given in the “Instructions for uploading documents to
+the eBIS” (Annex 2)
+• The Template and Questionnaire must not be modified in any way
+The BIS will provide an error message on eBIS when Initial Data submitted to the BIS does 
+not comply with the applicable technical standards. The Relevant Authorities are responsible 
+for reviewing these error messages and re-transmitting a Template or Questionnaire that 
+complies with the applicable technical standards. 
+The BIS shall not be obligated to process or permit the Analysis Team to process and 
+analyse any Initial Data that is not transferred by Relevant Authorities in accordance with the 
+applicable technical standards.
+Public
+
+2024 AM Data Collection Technical Specifications Page 4 of 24 
+1 Reporting Date and Context 
+1. The reporting date (or balance sheet date) to be used by all Volunteer Groups should
+be year-end December 2023. Subject to previous discussion with the relevant group -wide
+supervisor (GWS), different valuation dates can be used for the purposes of this exercise (eg
+31 March 2024 for Volunteer Groups based in Japan), as long as the necessary efforts are
+made to ensure the internal consistency of the results. For example, with respect to key
+assumptions such as the reference date to determine currency exchange rates or yield
+curves.
+2. Balance sheet items should be valued in accordance with the specifications set out in
+the relevant sections.
+3. This exercise may evolve and be refined over time.
+1.1 Scope 
+4. In November 2017, the IAIS set out an agreement on the implementation of ICS
+Version 2.0, including a unified path to convergence of group capital standards in
+furtherance of its ultimate goal of a single ICS that achieves comparable outcomes across
+jurisdictions.  The agreement acknowledges the development by the United States of the AM
+to a group capital calculation. While the AM is not part of the ICS, the IAIS aims to be in a
+position by the end of the monitoring period to assess whether the AM provides comparable
+(ie substantially the same in the sense of the ultimate goal) outcomes to the ICS. If so, it will
+be considered an outcome -equivalent approach for implementation of ICS as a prescribed
+capital requirement (PCR). At the same time, the IAIS agreed to help collect data from the
+US and interested jurisdictions that will aid in the development of the AM.
+5. The purpose of this exercise is to collect data for both the development of the
+Aggregation Method (AM) by the US and interested jurisdictions and for the comparability
+assessment1.
+6. Final criteria for assessing comparability were released in March 2023. These criteria
+will neither preclude comparability at the outset nor give a free pass.
+1.2 Proportionality 
+7. Calculations and valuation should be subject to the proportionality principle. When the
+Volunteer Group can demonstrate that taking into account a specific factor / rule in their
+calculation would lead to a significant increase in complexity, without material
+improvement to the quality of the figure produced, or to the assessment of risk linked to
+this figure, then this factor or rule can be ignored or simplified.
+8. The materiality of the impact of using a simplification should be assessed with regard to:
+1 Refer to the Explanatory note on the final criteria for the Aggregation Method comparability assessment – 
+March 2023 
+Public
+
+2024 AM Data Collection Technical Specifications Page 5 of 24 
+• The volume of the item valued
+• The overall volume of the Volunteer Group’s business and available capital
+• The assessment of risk
+9. Moreover, even though the use of a simplification would lead to a figure possibly
+significantly different from a full calculation, it might nevertheless be used subject to
+appropriate adjustment, provided that no other applicable methodology would lead to a
+better proxy.
+Public
+
+2024 AM Data Collection Technical Specifications Page 6 of 24 
+2 Process and Timetable 
+10. The following table summarises the process and timetable to be followed:
+Action Timeline 
+Issuance of Technical Specifications, Template and 
+Questionnaire for AM data collection 26 April 2024 
+Period in which Q&As will be published: 
+- Refer to Q&A documents on
+https://volunteers.iaisweb.org/page/am-data-collection
+As necessary, from 10 
+May to 28 June 2024 
+Deadline for the submission of the AM data collection 
+Template and Questionnaire by the GWS. 
+31 July 2024 in the eBIS 
+system by the GWS 
+Analysis by the Analysis Team & discussions of summary 
+results by the IAIS. 
+August 2024 to October 
+2024 
+Public
+
+2024 AM Data Collection Technical Specifications Page 7 of 24 
+3 Aggregation Method Data Collection 
+3.1 Overview 
+11. The AM Technical Specifications describe the calculation of the Provisional AM as
+well as other possible versions of the final AM . The final AM will have the same structure as
+the Provisional AM but may differ in some areas, such as the choice of scalars, the exact
+adjustments made and the treatment of certain capital resources. Sufficient data is being
+collected to retrospectively recalculate changes (if any) from the Provisional AM to the final
+AM. While care should be taken to enter information for each legal entity correctly, it is of
+utmost importance that the values are reasonable in total. The terms and balances being
+requested, when possible, should be in accordance with the local jurisdictional statutory
+reporting. For entities that do not file statutory reports, local GAAP reporting should be used.
+12. The scope of the AM data collection includes the same legal entities that would be
+reported in the GAAP balance sheet under the Insurance Capital Standard (ICS) as defined
+in the 2024 ICS Data Collection Technical Specifications (see Section 4 – Perimeter of the
+ICS Calculation).
+3.2 General Instructions 
+13. AM Template worksheets
+a) AM24.Read-Me
+b) AM24.Entity Input – Schedule 0 (S0)
+• This worksheet is to identify the Volunteer Group, contact information, reporting
+dates and reporting currency.
+c) AM24.Entity Input – Schedule 1 (S1)
+• This worksheet is to identify legal entities within the Volunteer Group and
+corresponding financial information.
+d) AM24.Entity Input – Schedule 2 (S2)
+• This worksheet is to provide information on the carrying value  (available capital)
+and required capital for all entities in the Volunteer Group before and after de-
+stacking of the entities. This worksheet will include the adjustments to de -stack
+entities and adjust for intra -group arrangements, accounting differences and
+other adjustments to be defined. Each row in this worksheet should correspond to
+an entry in Schedule 1.
+e) AM24.Financial Instruments – Schedule 3 (S3)
+• This worksheet is to be used to gather necessary information to test various
+levels of possible adjustments to increase the Volunteer Group’s available capital
+Public
+
+2024 AM Data Collection Technical Specifications Page 8 of 24 
+based on the concept of structural subordination applied to senior or other 
+subordinated debt issued by the Volunteer Group. 
+f) AM24.Scaling Options – Schedule 4 (S4) through Schedule 6 (S6)
+• This worksheet lists predetermined countries, and provides factors for scaling, as
+available, to set  required capital at a comparable basis.  It also allows for set
+scaling options and will accommodate scaling of capital requirements for non -
+insurance entities. Scaling options are applied at the legal entity level and provide
+an example of what different testing options would look like for each category. In
+practice, the preferred way to handle the many options for scope, grouping and
+testing criteria that are included in the AM data collection is to have the results of
+those options calculated in the background from the input worksheets. The
+results are shown side by side in the AM24.Summary worksheet to reflect a top-
+level summary.
+g) AM24.Summary – Schedule 8 (S8) through Schedule 10 (S10)
+• This worksheet provides summary AM ratios for the Volunteer Group and
+compares options for financial instruments and scaling  that are included in the
+AM data collection.
+h) AM24.Param
+• This worksheet provides parameters used for the AM data collection.
+3.3 Simplifications 
+14. In an effort to facilitate the AM development process and streamline the AM data
+collection, the following simplifications may be used. While most entities should be reported
+on their own line  of the AM24.Entity Input worksheet, certain legal entities, if they meet the
+criteria below, can be grouped together.  Alternative groupings should be described  in the
+Questionnaire.
+15. In situations where the final amount of available/required capital  is not impacted ,
+immaterial legal entities can be reported with their parent. When the capital ratio is the same,
+regardless of whether a  legal entity is stacked or de -stacked, then only the parent entity
+should be reported. If all subsidiaries of a parent have their own row, then the legal entity is
+de-stacked and the row contains a single entity. If the subsidiaries are not reported
+separately, then the legal entity is stacked and the row contains multiple entities. Such
+entries should be marked as “Multiple” on the AM24.Entity Input worksheet; available and
+required capital should be reported for the parent with no adjustment for investment in any
+subsidiary that is not reported on another line. Examples of entities that can be stacked:
+a) Non-insurance/non-financial entities that are not directly subject to a regulatory
+regime.
+b) Insurance/financial entities that represent an immaterial portion of the Volunteer
+Group. The available/required capital for each such entity should be included with
+Public
+
+2024 AM Data Collection Technical Specifications Page 9 of 24 
+that of its parent. For the purposes of these entities, the materiality standard is 2.5% 
+of total available capital. 
+16. Legal entities that have material exposure to the total available capital should not be
+reported with their parent if any of the following conditions apply:
+a) The legal entity is subject to a different regulatory regime than its parent.
+b) The legal entity is in a different Entity Category than its parent. (See the next section
+for the definition of Entity Category)
+c) The legal entity is subject to a regulatory regime where the consolidated group
+capital requirements differ from the sum of the capital requirements for the individual
+legal entities.
+d) The legal entity has issued debt  that is listed on the AM24.Financial Instruments
+worksheet.
+e) If, for any reason, the stacked and de-stacked available/required capital differ, it is
+preferable to report the de-stacked capital.
+f) Foreign branches of a  Volunteer Group that are subject to capital requirements
+should be shown de-stacked as if it were a subsidiary.
+17. Legal entities that are subject to consolidated group capital requirements should be
+reported individually. The Entity Required Capital (Local Regime)  is equal to the
+consolidated capital requirement  for the parent legal entity . The amount reported as
+Investment in Subsidiary for the parent legal entity should be determined by recalculating the
+consolidated requirement for  each subsidiary legal entity . However, if this recalculation
+results in  undue burden, it is permitted to calculate Investment in Subsidiary  using the
+following simplification: Investment in Sub sidiary (Required Capital)  = Investment in
+Subsidiary (Available Capital) – [Sum of each subsidiary legal entity (Available Capital –
+Required Capital)].
+3.4 Entity Input 
+Relevant Worksheet 
+in Template: 
+AM24.Entity Input Due 31 July 2024 
+18. Enter the Name of Group, name of the person the Template is Completed by and the
+Date Completed in Schedule 0 (S0). Also report the Reporting Date  of data provided,
+Reporting Currency  and Currency Unit . All figures should be converted to a common
+reporting currency using the same exchange rates as in the 2024 ICS Data Collection. The
+reporting currency and currency unit should also be the same as in the 2024 ICS Data
+Collection. Lastly, indicate the version number of information being reported in Version of
+reporting.
+19. Enter information on legal entities as follows in Schedule 1 (S1).
+Public
+
+2024 AM Data Collection Technical Specifications Page 10 of 24 
+a) Insurance/Non-Insurance – This will be populated by a fo rmula, so input is not
+required. The column denotes whether this is an insurance or non -insurance legal
+entity.
+b) Does row contain single entity or multiple entities?  – Identify Single if the legal entity
+is fully de -stacked and reported as a sole legal entity without subsidiaries. Identify
+Multiple if multiple legal entities are being reported on the same line (ie  the legal
+entity is stacked or only partially de-stacked and reported with subsidiaries). Refer to
+Section 3.3 Simplifications for more information.
+c) Entity Identifier – Provide a unique string for each legal entity. This will be used as a
+cross reference to other parts of the Template such as the AM24.Financial
+Instruments worksheet. If possible, use a standardised entity code such as ISO Legal
+Entity Identifier or NAIC Company Code (CoCode). CoCodes should be entered as
+text and not number (eg if CoCode is 01234, then the entry should be “01234” and
+not “1234”). If there is a different code that is more appropriate (such as a code used
+for internal purposes), please use that instead. If no code is available, then input a
+unique string or number in each row in whatever manner  is convenient (eg A, B, C,
+D… or 1, 2, 3, 4…). Do not leave blank.
+d) Entity Identifier Type – Enter the type of code that was entered in the Entity Identifier
+column. Choices include ISO Legal Entity Identifier, NAIC Company Code, Volunteer
+Defined and Other.
+e) Entity Name – Provide the name of the legal entity.
+f) Entity Category – Select the local regulatory regime that applies to the legal entity or
+the closest appropriate category. A holding company that is subject to capital
+requirements should be mapped to the underlying entity category.  All other holding
+companies should be mapped to the Non-Insurer Holding Company category. Lloyd’s
+syndicates should be mapped to the regime that is used for their capital requirement.
+For example, a Texas syndicate writing P&C business would be mapped to ‘RBC
+Filing Insurer (P&C)’. Do not add entity categories . An existing category should be
+used and further information about the issue provided in the Questionnaire.
+g) Parent Identifier – Provide the Entity Identifier of the immediate parent legal entity for
+each legal entity, as applicable. If there are multiple parents, select the parent entity
+with the largest ownership perce ntage. Only include one entry.  For the top holding
+company, enter not applicable (N/A).
+h) Parent Name – This will be populated by a formula, so input is not required.
+i) % Owned by Immediate Parent – Enter the percentage ownership by the immediate
+parent of the legal entity (as indicated in Parent Identifier). While the information in
+this column will be useful for many entities, it is understood that it will be inadequate
+where the ownership structure is complex due to the existence of multiple parents, or
+for some other reason.
+Public
+
+2024 AM Data Collection Technical Specifications Page 11 of 24 
+j) % Owned within Group Structure – Enter the percentage ownership by the Volunteer
+Group of the legal entity to represent entities partially -owned by third parties. For
+partially-owned entities of the holding company, the carrying value and required
+capital should only represent the owned portion of the legal entity.
+k) Country – For each legal entity, select the country of domicile from the drop-down list
+in each cell. There should be only one country of domicile selected for each legal
+entity.
+l) Basis of Accounting – Provide a description of the basis of accounting that each legal
+entity uses for its local regulatory reporting. If the legal entity is not subject to
+regulatory reporting, this column should specify the accounting basis applicable to
+the amounts reported as carrying value.
+m) Rating Agency and Rating  – Provide a credit rating of the legal entity  as of the
+reporting date, as applicable.
+n) Revenue – Enter the average of the annual gross revenue of the legal entity for the
+past three years adjusted to eliminate any intercompany income including dividends
+received from subsidiaries. This will be used to test proposals for establishing the
+capital requirement. For insurance and banking entities this column will not be used
+and can be left blank.
+o) Assets, Liabilities, and Equity – Record the assets and liabilities held in each legal
+entity according to local regulatory reporting requirements. For unregulated entities,
+local GAAP can be used. Please do not report regulated entities on the basis of local
+GAAP unless that aligns with local regulatory reporting. Equity is automatically
+calculated as assets less liabilities.
+20. Enter information on adjustments to carrying value  in S2 : Additional clarification
+specific to different types of entities are discussed later in this section.
+a) Carrying Value (Parent Regime) – If a legal entity is subject to a different regulatory
+regime than its immediate parent, then record the carrying value under the parent
+regulatory regime here. All adjustments are made relative to the carrying value under
+the local regulatory regime, which is entered in the next column. This column is for
+informational purposes to assist in u nderstanding reconciling differences caused by
+the parent reporting under a different local regulatory regime than the legal entity. No
+adjustments are made to the figure entered in this column. For the lead entity (eg
+group holding company) where there is no parent regulatory regime, this can be left
+blank.
+b) Carrying Value (Local Regime) – Record the available capital resources recognised
+by the jurisdictional insurance supervisor. The total available capital should be the
+result of the sum of equity items from the balance sheet , plus any debt that is
+recognised as qualifying capital resource s, less any deductions from capital
+resources (eg inadmissible assets). For more information, refer to paragraph 22.
+Public
+
+2024 AM Data Collection Technical Specifications Page 12 of 24 
+c) Investment in Subsidiary – Enter an adjustment to remove the investment carrying
+value of directly owned subsidiary(ies)  from parent’s carrying value. The Sum of
+Subsidiaries column may provide a useful check against this entry but it will not
+necessarily be equal.
+d) Intra-group Financial Instruments – This column is automatically calculated from
+inputs to the  AM24.Financial Instruments worksheet. It reflects an adjustment to
+remove double counting of the carrying value for intra-group financial instruments.
+e) Intra-group Guarantees, LOCs and Other – Enter an adjustment to reflect the
+notional value for reported intra -group guarantees, letters of credit, or other intra -
+group financial support mechanisms.
+f) Other Intra-group Assets/Liabilities – Enter the amounts to adjust for and to remove
+double counting of the carrying value for other intra -group assets, which could
+include intercompany balances, such as:
+• loans, receivables and arrangements to centralise the management of assets
+or cash;
+• derivative transactions;
+• dividends, coupons, and other interest payments;
+• provision of services or agreements to share costs; and
+• purchase, sale or lease of assets.
+g) Other Adjustments – Enter amounts that reflect other differences between Carrying
+Value (Local Regime)  of insurance subsidiaries and the Adjusted Carrying Value .
+This should include (but is not limited to) differences between the GAAP value and
+jurisdictional statutory accounting value for a consolidated non -insurer holding
+company or other legal entity where the accounting basis changes (eg Schedule D
+carrying value of directly owned U.S. insurance subsidiaries).
+21. Enter information on adjustments to required capital in S2  corresponding to
+adjustments to carrying value:
+a) Entity Required Capital (Parent Regime) – If a legal entity is subject to a different
+regulatory regime than its  immediate parent, then record the required capital under
+the parent regulatory regime here. All adjustments should be made relative to the
+required capital under the local regulatory regime, which  is entered in the next
+column. This column is for information purposes to assist in understanding
+reconciling differences caused by the parent reporting under a different local
+regulatory regime than the legal entity.  No adjustments are made to the figure
+entered in this column. Where the parent regulatory regime is the same as the local
+regulatory regime or there is no parent regulatory regime, this column should be
+equal to the Entity Required Capital (Local Regime).
+b) Entity Required Capital (Local Regime) – Enter required capital and adjustments for
+each legal entity using the local reporting value . For more on required capital for
+Public
+
+2024 AM Data Collection Technical Specifications Page 13 of 24 
+insurance and non -insurance entities, see below.  All adjustments should be made 
+relative to the required capital under the local regulatory regime. 
+22. Additional clarification on carrying value and capital requirements:
+a) Insurance Entities – The local capital requirement should be reported, by legal entity,
+at a Prescribed Capital Requirement (PCR) level.
+i. For Australian subsidiaries, the PCR is the target capital as set by the
+insurer/group in accordance with APRA requirements. Effectively, this would
+be "Target capital under ICAAP". PCR is not a set multiple of MCR.
+ii. For Bermudian subsidiaries, the Legal Entity PCR in Bermuda for medium
+and large commercial insurers is called the “Enhanced Capital Requirement”
+(ECR) and is calibrated to Tail -VaR at 99% confidence level over a one -year
+time horizon.
+iii. For Brazilian subsidiaries, the PCR is reported as the Brazilian MCR (in
+Portuguese, CMR – Capital Mínimo Requerido).
+iv. For Canadian life entities, the baseline PCR should be stated to be “100% of
+the LICAT Base Solvency Buffer”. The carrying value should include surplus
+allowances and eligible deposits  on a net of reinsurance basis . For
+property/casualty entities, the PCR should be the MCT capital requirement at
+the target level.
+v. For Chilean subsidiaries, the PCR is 100% of the total capital requirement
+which is the maximum between minimum capital, maximum debt ratios and a
+solvency margin.
+vi. For Chinese subsidiaries, the PCR is 100% of the C-ROSS total capital.
+vii. For Chinese Taipei subsidiaries, the PCR is 200% of the RBC ratio.
+viii. Subsidiaries based in the European Union should use the Solvency II Solo
+SCR (Solvency Capital Requirement) as the PCR.
+ix. For Hong Kong subsidiaries, the PCR is the HKRBC (to be implemented in
+July 2024) prescribed capital amount (PCA), calibrated at a VaR 99.5% level
+over a one-year horizon. However, for YE 2023 reporting the current rule -
+based capital regime is also applicable and if applied similar to the concept of
+PCR, the current regime's PCR would be 150% of MCR for life insurers and
+200% of MCR for non-life insurers.
+x. For Indian subsidiaries, the PCR is a factor -based solvency approach, based
+on a Solvency I type model, to maintain an excess of the value of assets over
+the amount of liabilities of not less than 50% of the amount of minimum
+capital subject to the control level of a solvency ratio of 150%.
+xi. For Japanese subsidiaries, the PCR is the solvency margin ratio of 200%.
+xii. For Korean subsidiaries, the PCR is 100% of risk -based solvency margin
+ratio.
+Public
+
+2024 AM Data Collection Technical Specifications Page 14 of 24 
+xiii. For Malaysian subsidiaries, the PCR is the individual target capital level
+calculated by individual entities based on policy requirements set by the Bank
+Negara Malaysia. It reflects the individual insurer's/Takaful Operator's own
+risk profile and risk management practices, and includes additional capacity
+to absorb unexpected losses beyond those covered in the Risk-Based Capital
+Frameworks for Insurance and Takaful Operators.
+xiv. For Mexican subsidiaries, the PCR is the solvency capital requirement (SCR)
+based on a Solvency II type model, using both Value at Risk (VaR)
+methodologies, considering the time horizon of one year at a confidence level
+of 99.5%, and Probable Maximum Loss (PML) methodologies for catastrophic
+risks.
+xv. For Singaporean subsidiaries, the PCR at the legal  entity level under the
+enhanced valuation and capital framework for  insurers (RBC 2) is calibrated
+at the 99.5% VaR over a one-year period.
+xvi. For South African subsidiaries, the PCR is 100% of the SAM SCR.
+xvii. For Switzerland subsidiaries, the Legal Entity PCR under the “Swiss Solvency
+Test” (SST) is 100% of the target capital, which is calibrated to Tail -VaR at
+99% confidence level over a one-year time horizon.
+xviii. Subsidiaries based in the UK should use the Solvency UK Solo SCR
+(Solvency Capital Requirement) as the PCR , calibrated at a VaR 99.5% level
+over a one-year time horizon.
+xix. For US subsidiaries, the RBC Company Action Level of each insurer should
+be re-calibrated to the point at which regulatory action can be taken in any
+state based on RBC alone, ie, the point at which the trend test begins, which
+is one and a half times company action level.
+xx. For any entities that cannot be mapped to the above categories, please use
+the blank categories (Regime A, Regime B, etc.). Certain legal entities subject
+to similar regimes are to be grouped together as described in Simplifications.
+Provide further information about these local regulatory regimes in the
+Questionnaire.
+b) Non-insurance Financial Entities – For reporting available and required capital, follow
+guidance in Section 7.7.1 Baseline Current Regulatory Reporting  in the 2024 ICS
+Data Collection Technical Specifications. Include available capital resources and the
+capital requirement imposed by any securities, banking or other financial regulator.
+For unregulated banking business, Volunteer Groups are requested to apply the
+Basel III leverage ratio framework and the full RWA calculation under the Basel III
+Framework. The Basel III monitoring workbook is available to calculate these figures
+at https://www.bis.org/bcbs/qis/index.htm.
+23. Reference Calculations Checks – These are calculations that can serve as checks on
+the reasonability/consistency of entries.
+a) Sum of Subsidiaries – This automatically generated column calculates the total
+carrying value of the underlying subsidiaries. It is provided for reference when filling
+Public
+
+2024 AM Data Collection Technical Specifications Page 15 of 24 
+out the Investment in Subsidiary  column. This sum will often, but not always, be 
+equal to the Investment in Subsidiary column. 
+b) Available Capital / Adjusted Required Capital – This is a capital ratio calculated using
+the adjusted figures. Double -check entities with abnormally large/small/negative
+figures to make sure that adjustments were done correctly.
+3.5 Financial Instruments 
+Relevant Worksheet 
+in Template: 
+AM24.Financial Instruments Due 31 July 2024 
+24. Volunteer Groups should provide all relevant information pertaining to paid -up
+financial instruments issued by the Volunteer Group (including senior debt issued by a
+holding company), except for common or ordinary shares and preferred shares. This
+worksheet aims to largely capture financial instruments such as surplus notes, senior debt
+and hybrid instruments. Where a Volunteer Group has issued multiple financial instruments,
+the Volunteer Group should not use a single row to report that information; one instrument
+per row should be reported. Only qualifying debt should be reported whereas other accounts
+such as treasury stock or retained earnings should not be reported.
+a) Surplus Notes – In all cases, treat the assets transferred to the issuer of the surplus
+note as available capital. If the purchaser is an affiliate, eliminate the investment
+value from the affiliated purchaser of the surplus note. If the purchaser is an insurer
+or other regulated legal entity, eliminate the purchaser’s capital charge (eg RBC
+charge) on the Surplus note investment.
+b) Senior Debt , Hybrid Instruments  and Other Debt issued – Various levels of
+recognition for structurally subordinated debt will be tested to increase available
+capital. For purposes of recognition treat as additional capital if both of the following
+criteria are met:
+• The instrument has a fixed term of  at least  five years at the date of issue or
+refinance, and no call options in the first five years.
+• Supervisor’s prior review of dividends paid from an insurance subsidiary to the
+holding company, and in the case of extraordinary dividends, prior supervisory
+approval of dividends paid from an insurance subsidiary to the holding company.
+There shall be no expectation, either implied or through the terms of the
+instrument, that such approval will be granted without supervisory review.
+25. Enter information on legal entities as follows in Schedule 3 (S3).
+a) Name of Issuer – Input the name of the company that issued the financial instrument.
+The name of the issuer will populate automatically from the AM24.Entity Input
+worksheet using the Entity Ref #.
+b) Entity Identifier – Provide the reference number that was input in the AM24.Entity
+Input worksheet.
+Public
+
+2024 AM Data Collection Technical Specifications Page 16 of 24 
+c) Type of Financial Instrument – Select the type from the drop-down list. Selections
+include Senior Debt, Surplus Notes (or similar), Hybrid Instruments and Other.
+d) Instrument Identifier (eg CUSIP) – Provide a unique security identifier.
+e) Entity Category – Links automatically to the selection made on AM24.Entity Input
+worksheet.
+f) Year of Issue – Provide the year that the financial instrument was issued.
+g) Year of Maturity – Enter the year that the financial instrument will mature.
+h) Balance as of the financial statement reporting date – Enter the balance as reported
+in the general purpose financial statements of the issuer.
+i) Treatment on the Entity Input Tab – Select from dropdown whether the instrument is
+treated as a liability, an intragroup financial instrument or recogni sed as capital on
+the AM24.Entity Input worksheet.
+j) Intra-group Issuance – Select whether the financial instrument was issued on an
+intra-group basis (issued to a related legal entity within the group). This column will
+be used to remove double counting. This column includes a drop-down list with the
+options “Y” and “N”.
+k) Purchasing Entity Identifier – Enter the Entity Identifier  of the legal entity that
+purchased the financial instrument. This column should o nly be completed for intra-
+group financial instruments.
+l) Deduct financial instruments issued on an intra -group basis – This column is
+calculated automatically and feeds into the AM24.Entity Input worksheet. The aim is
+to remove the double counting of the carrying value of financial instruments issued
+on an intra-group basis.
+26. For senior debt and other debt with similar characteristics, please provide the
+following information. For all other financial instruments, these cells should be left blank.
+a) Is subordination to policyholders legal/contractual or structural?
+b) Does the financial instrument have an initial maturity of at least five years? (Y/N)
+c) [For structurally subordinated instruments] Are dividends from insurance subsidiaries
+of the holding company subject to prior supervisory approval?  (Y/N/UC (Under
+Certain Circumstances)/NA)
+d) Are distributions linked to the credit standing or financial condition of the insurance
+group? (Y/N)
+e) Does the financial instrument give holders the right to accelerate repayment during or
+outside of a winding up of the issuer? (Y/N)
+Public
+
+2024 AM Data Collection Technical Specifications Page 17 of 24 
+27. For all financial instruments listed, provide the following information that may be used
+for the analysis for the comparability assessment . The associated ICS  principle is
+included in the parentheses.
+a) Is instrument fully paid-up? (availability to absorb losses/permanence)
+b) Does instrument have a maturity date? (permanence)
+c) Does the issuer have full discretion at all times to cancel distributions or payments?
+(loss absorbing capacity/availability to absorb losses)
+d) Is the instrument secured or covered by a guarantee given by the issuer, or a related
+entity of the issuer? (absence of encumbrances and mandatory servicing costs)
+28. Selections as to how these criteria will be applied are made on the AM24.Summary
+worksheet. Given those selections, the following will be calculated:
+a) Base (pre-criteria) – Amount recognised in local regulatory regime.
+b) Disallow financial instruments without selected characteristics – This column is
+calculated automatically and feeds into the AM24.Summary worksheet.
+3.6 Scaling Options 
+Relevant Worksheet 
+in Template: 
+AM24.Scaling Options Due 31 July 2024 
+29. Given differences between solvency frameworks, scalars will be used to bring the
+required capital for each legal entity to a common level. The Template allows for a range of
+scaling methodologies to be tested. Each scaling methodology will indicate one scalar per
+entity category to be used for the full term of the annual AM data collection. Based on an
+assessment of the data and the annual AM data collection process, a decision will be made
+as to which scaling methodology to use in the final version of the AM. The goal is to select a
+scaling methodology for the final AM that is  meaningful from a prudential point of view,
+relevant for the monitoring of financial soundness and helps provide comparable outcomes
+to the ICS. AM results from the annual AM data collection will be recalculated using the
+selected set of scalars.
+30. To achieve the above goal, work is underway to identify the full range of reasonable
+methods of determining scalars. The final scaling methodology will either be one of the
+tested methodologies or some combination/variation that falls within the range of options
+under consideration. The final scaling methodology , once decided, will be calculated under
+FINAL AM (for back -testing) and allow for back-testing results of the annual AM data
+collection. No data inputs from Volunteer Groups are necessary on this worksheet.
+31. The range of scaling methodologies under consideration have been reviewed using
+the framework provided in the American Academy of Actuaries paper “Aggregating
+Regulatory Capital Requirements Across Jurisdictions: Theoretical and Practical
+Considerations”. This is a range of reasonable scaling methodologies that have the potential
+Public
+
+2024 AM Data Collection Technical Specifications Page 18 of 24 
+to achieve the goals of a scaling methodology as described in the AM Level 1 document. 
+Because the AM is expected to continue to evolve, the inclusion of an option here should not 
+be taken to mean that these scalars will ultimately be used. Annex 1  provides additional 
+information on the review of different scaling options. The scaling options are being tested at 
+two calibration levels: one using NAIC RBC at 300% of the Authorized Control Level (ACL) 
+and another using NAIC RBC at 200% of ACL. 
+a) For each option, required capital cannot be negative. The Template automatically
+applies a floor of zero at the entity category level.
+b) Provisional AM – This method will serve as the default calculation while the AM is
+under development. Until such a determination of the final scalars to use in the AM,
+the ‘Provisional AM’ will use scalars of 100% (ie it will be unscaled ). For US entities,
+“unscaled” is equivalent to NAIC RBC at 300% of the ACL.
+c) Pure Relative Ratio Approach (Pure  RRA) – This method adjusts only the capital
+requirement of regulated entities for each local regulatory regime within the Volunteer
+Group. It compares the average capital ratios relative to required capital at the first
+intervention level. For purposes of the Template, scalars have been developed from
+publicly available information for certain jurisdictions where such data was available.
+The scalars may differ if the jurisdiction applies different formulas to the industry
+segments (Life, P/C and Health). The scalars will require periodic maintenance to
+provide accurate scaling for each reporting year but will likely always lag by at least
+one calendar year. For jurisdictions where a scalar has not been provided, scalars
+will not be applied. Scalars will be applied using the prescribed capital requirement
+as the first intervention level.  This option will be tested with both NAIC Risk Based
+Capital at 300% of ACL and at 200% of ACL.
+d) Excess Relative Ratio Approach – This method adjusts both available capital and
+required capital. It adds a step to the Pure RRA by looking at the excess capital (also
+referred to as  free surplus)  ratio above  the first intervention level requirement.
+Therefore, to calculate a jurisdiction’s excess capital ratio, one would first calculate
+the amount of the capital ratio in excess of the capital ratio required at the first
+intervention level. This amount would then be divided by the capital ratio required at
+the first intervention level. As with the Pure RRA, scalars have been provided in the
+Template relying on publicly available information for certain jurisdictions, where such
+data was available. The scalars may differ if the jurisdiction applies different formulas
+to the industry segments (Life, P/C and Health). The scalars will require periodic
+maintenance to provide accurate scaling for each reporting year but will likely always
+lag by at least one calendar year. For jurisdictions where a scalar has not been
+provided, scalars will not be applied. Scalars will be applied using the prescribed
+capital requirement as the first intervention level.  This option will be tested with both
+NAIC Risk Based Capital at 300% of ACL and at 200% of ACL.
+e) 99.5% Value at Risk – This method will include scalars that are calibrated to a 99.5%
+Value at Risk ( VaR). Regimes that are calibrated to a 99.5% VaR level over a one -
+year time horizon and/or are equivalent to regimes calibrated to that level are
+Public
+
+2024 AM Data Collection Technical Specifications Page 19 of 24 
+unscaled under this method. Current scalars were estimated using regimes’ stated 
+confidence levels and existing equivalence agreements. 
+f) Banking Equivalent – This method will include scalars that are calibrated to a level
+equivalent to Basel banking requirements.
+g) Internal Models – This method will include scalars that are calibrated to a level
+equivalent to the average level indicated by a legal entity’s internal model results.
+These scalars will be set to a 99.5% VaR level. This is  the level of policyholder
+protection used for reporting internal models in the ICS. If there are differences
+between the scalars and the Volunteer Group’s  own view of risk, please provide
+further details in the Questionnaire.
+h) Supervisory Assessment Approach – This method uses the local PCR (or equivalent)
+as the required capital for regimes that produce comparable outcomes to the ICS
+based on certain criteria (eg equivalent level of solvency protection). That is, scalars
+are equal to 100%. This approach is a sub -set of the unscaled approach.  This
+approach is numerically equivalent to the Provisional AM; therefore, a separate
+column is not included in the Template.
+i) Reverse Engineered ICS – This method is calibrated to the average  level of ICS
+Version 2.0 for the monitoring period . After review, this method was determined to
+not be within the range of reasonable methodologies that have the potential to
+achieve the goals described in the AM Level 1 document. It is listed here for
+completeness but will not be included in the Template.
+32. To aid with the development of scalars , input was solicited on the reasonableness of
+the methodologies being tested. One response received is that scalar methodologies may
+need to differentiate between risk -based and non -risk-based regimes. A n insurance capital
+regime is risk -based if the amount of capital that an insurer is required to  hold varies with
+its solvency risk. When an appropriate scaling method is chosen , it is possible to scale one
+risk-based regime to a level that is equivalent to another. An example of a non -risk-based
+requirement is a fixed (ie constant) capital requirement. Regimes, material to the AM data
+collection, are being reviewed to determine whether they are risk -based. A list of the status
+of each regime is on the AM24.Scaling Options  worksheet. Regimes that have not been
+reviewed are marked as “non-risk-based”. While the appropriate choice of scalar is expected
+to bring different risk-based regimes to a common level, it is not yet known if this would be
+possible for all types of non-risk-based requirements.
+33. To ensure adequate capital for non -risk-based regimes, results from the AM data
+collection are being used to investigate the materiality of this issue and possible safeguards
+for mitigation. The default safeguard – which is applied automatically in the Template – floors
+required capital for non -risk-based entities at 50% of the amount of available capital.  The
+default safeguard is a placeholder and subject to further review.
+34. In Schedule 4 (S4), entities are aggregated by their category and then scaled.
+Results are shown – both scaled and unscaled – aggregated between insurance and non -
+insurance entities. Schedule 6 (S6) reports each Entity Category in total.
+Public
+
+2024 AM Data Collection Technical Specifications Page 20 of 24 
+3.7 Summary 
+Relevant Worksheet 
+in Template: 
+AM24.Summary Due 31 July 2024 
+35. Summary – This is the main output worksheet. There are drop -down lists to select a
+method of calculation. The calculation itself is automatic. The options presented are meant
+to cover a range of possibilities and should not be taken as an indication of the final form the
+AM will take. Also included is a high-level breakdown of results.
+a) Which scalars to use – Select a preliminary scalar.
+b) Criteria for Recognising Financial Instruments  – Select which criteria should be
+applied to recognise financial instruments.
+c) Limits Applied to Financial Instruments  – Select a limit as a percentage of either
+available or required capital (unscaled).
+Public
+
+2024 AM Data Collection Technical Specifications Page 21 of 24 
+Annex 1 Analysis on Potential AM Scalars 
+The objective of Annex 1 is to further describe the scalar methodologies that are under 
+consideration and the analysis being conducted to evaluate reasonableness. The purpose of 
+providing this context is to assist Volunteer Groups in completing the AM data collection 
+package.  
+The American Academy of Actuaries released a paper on 10 March 2021 “Aggregating 
+Regulatory Capital Requirements Across Jurisdictions: Theoretical and Practical 
+Considerations” (Academy paper). The goal of the Academy paper is to assist group-wide 
+supervisors that are creating an aggregation-based group capital standard. The Academy 
+paper does not make a recommendation as to which scalar(s) should be used nor does it 
+discuss comparability of the AM and ICS. Rather, it provides a useful framework for 
+discussing scalar analysis.  
+Scalar Analysis 
+The Academy paper describes four families of methodologies for estimating scalars. Each 
+includes multiple variations. The following table provides a mapping of the 2024 AM data 
+collection scalar options to the Academy methodology families: 
+AM Scalar Option 
+Academy Methodology 
+Family 
+Provisional AM No Scalar 
+Pure Relative Ratio 
+Approach Capital Ratios 
+Excess Relative Ratio 
+Approach Capital Ratios 
+0.5% Probability of Default Probability of Negative 
+Outcomes 
+Banking Equivalent Equivalence of Two Points 
+Supervisory Assessment 
+Method No Scalar 
+Internal Model No Equivalent Family 
+The Academy paper presents four general criteria for assessment of scalar methodologies: 
+validity, reliability, ease of implementation and stability of parameters. Assessments are 
+provided for each of the four families above. The Academy paper’s description of these 
+criteria is paraphrased below. After each description, there is a discussion of related AM 
+data collection analysis including the role of the data being collected.  
+Validity means that the selected methodology generates values for available and required 
+capital for an entity in a foreign jurisdiction. There are two common ways in which validity of 
+the scalar measures are evaluated: the reasonableness of assumptions, and the correlation 
+of the measure with other known measures of similar quantities. The Academy paper relies 
+on reasonableness of assumptions. The AM data collection analysis also looks at how 
+various measures of group capital adequacy compare to AM results and to each other.  
+Reliability means that any entity or group calculating a scalar will know with confidence they 
+are using the same information which any other entity or group would use. This implies that 
+the definition of the scalars must be: transparent, unambiguous and based on broadly 
+available and understood data. Ease of implementation is based on availability of data and 
+Public
+
+2024 AM Data Collection Technical Specifications Page 22 of 24 
+compatibility with existing procedures. Each Volunteer Group participating in the AM data 
+collection use the same scalars. These are listed on the AM24.Scaling Options worksheet. 
+The following table provides the sources of data used for the AM data collection scalar 
+options. There will be further discussion on the degree to which these sources are available, 
+understood and compatible with existing procedures for analysis.  
+AM Scalar Option Data Source 
+Provisional AM 
+No Scalar (ie same as entity 
+PCR or equivalent as identified 
+by local supervisor) 
+Pure Relative Ratio 
+Approach 
+Industry data as provided by 
+local supervisors 
+Excess Relative Ratio 
+Approach 
+Industry data as provided by 
+local supervisors 
+0.5% Probability of Default 
+Initial factors based on 
+jurisdictions stated calibration-
+level and/or level of 
+jurisdictions they have declared 
+themselves to be equivalent. 
+Subject to review based on 
+empirical estimates of 
+probability. 
+Banking Equivalent Empirical analysis done by 
+local banking regulators 
+Supervisory Assessment 
+Method 
+No Scalar (ie same as entity 
+PCR or equivalent as identified 
+by local supervisor) 
+Internal Model A legal entity’s internal model 
+results  
+Stability of parameters is important if the parameters are to be useful. Depending on the 
+purposes for which the scalars are to be used, more or less sensitivity to changing 
+conditions might be appropriate. The Academy paper discusses sensitivity analysis in two 
+different dimensions: (1) sensitivity of results to changes of parameters within a model and 
+(2) sensitivity of results to differences in methods of calculating scalars.  Sensitivity analysis
+is also performed on the AM data collection.  This is done by reweighting figures on the
+AM24.Entity Inputs worksheet by changing the size of different scalar options and/or looking
+at the impact of individual categories of entities on individual and total results.
+Public
+
+2024 AM Data Collection Technical Specifications Page 23 of 24 
+Annex 2  Instruction for uploading documents to eBIS 
+The completed Template and Questionnaire for the 2024 AM Data Collection Exercise of 
+the Monitoring Period Project should be uploaded to eBIS https://www.ebis.org by the 
+Relevant Authorities before the deadline specified in the documentation. Access to 
+uploaded documents on eBIS is limited to persons authorised by the BIS and respective 
+representatives from Relevant Authorities. 
+1. Preparation for data submission
+• Relevant Authorities are responsible for the data quality. They are kindly asked to
+check data in liaison with the Volunteer Groups and in consultation with other
+functional supervisors.
+• Relevant Authorities and Volunteer Groups should use only the original data
+Template(s) and Questionnaire(s) and not alter their structure or try to unlock
+protected cells.
+• All accompanying qualitative information, if any, must be in English.
+• The submitted documents should be named as follows:
+Due to BIS by 31 July 2024: 
+AM Data 
+Collection 
+Template 
+IAIS2024_AM_ <countryID>_<companyID>_v<versionNumber>.xlsx 
+AM Data 
+Collection 
+Questionnaire 
+IAIS2024_AM_<countryID>_<companyID>_v<versionNumber>.docx 
+Whereby 
+• <countryID> is the ISO ALPHA-2 code, eg. US, FR, ES, CH etc. The country alpha-
+2 ISO codes are available via http://en.wikipedia.org/wiki/ISO_3166-1.
+• <companyID> is 3 letters corresponding to the company name - please ensure the
+companyID does not change with different submissions
+• <versionNumber> starts at 1 for the first submission and should be increased f or
+each subsequent submission.
+If any supplementary materials (beyond the above-indicated submissions) are to be 
+submitted: 
+• Name the file according to the following format:
+IAIS2024_AM _<countryID>_<companyID>_ v<versionNumber>_<short
+descriptive name>.pdf
+• Please provide PDFs only
+2. Data upload via eBIS
+• Documents must be uploaded as individual uncompressed Microsoft Excel files,
+individual uncompressed Microsoft Word files, or individual PDF files.
+Public
+
+2024 AM Data Collection Technical Specifications Page 24 of 24 
+• Relevant Authorities should log on to the secured web address:
+https://www.ebis.org with the provided username and password. At first login the
+user will be requested to change the initial password. Already issued login details
+remain valid.
+It is not possible to edit documents that have been uploaded to eBIS. If a document has 
+been posted and needs to be revised, upload the revised version with a new version 
+number. 
+3. Post-submission data checking
+The BIS will provide an error message via the country’s eBIS folder when the requested
+data does not comply with the applicable technical standards. The Relevant Authorities
+are kindly requested to review the message and resubmit the file in order to achieve
+compliance with the required standards.
+The BIS shall not be obligated to process or permit the Analysis Team to process and
+analyse any Initial Data that is not transferred in accordance with the applicable
+technical standards.
+4. Submission check list
+Please ensure that the following checks are performed prior any submission
+✓ Have you followed the file name convention as outlined in this documentation?
+✓ Have you increased the version number in the file name in case of a resubmission?
+✓ Have you chosen the correct file format (.xlsx for the Template and .docx for the
+Questionnaire)?
+✓ Have you checked that the correct Excel data Template or Word Questionnaire has
+been used?
+Public

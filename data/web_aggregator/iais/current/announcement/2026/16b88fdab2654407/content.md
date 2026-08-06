@@ -1,0 +1,11165 @@
+Public  
+2022 ICS Data Collection Technical Specifications Page 1 of 247 
+ 
+ 
+ 
+ 
+Instructions for the April 2022 Insurance Capital Standard (ICS) Data Collection 
+Exercise of the Monitoring Period Project 
+  
+(“the ICS Technical Specifications”) 
+ 
+ 
+The ICS Technical Specifications have been developed as a supporting document for 
+groups participating in the 2022 ICS Data Collection Exercise and must be read in 
+conjunction with the associated ICS data collection Template, Questionnaire and Yield 
+Curve documentation. All documents are provided for information only. 
+These documents do not replace or supersede the ICS Level 1 and Level 2 documents, 
+which have been agreed and published by the IAIS. 
+Notes: 
+1. The default reporting date is end-December 2021. Subject to previous discussion with 
+the relevant group-wide supervisor, different valuation dates c ould be used for the purposes 
+of this exercise, as long as the necessary efforts are made to ensure the internal consistency 
+of the results.  For example, with respect to key assumptions such as the reference date to 
+determine currency exchange rates or yield curves. 
+2. Balance sheet items are valued in accordance with the specifications set out in the 
+relevant sections.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 2 of 247 
+ 
+ 
+Contents 
+Figures and Tables ................................ ................................ ................................ ............... 6 
+1 Introduction ................................ ................................ ................................ .................... 8 
+1.1 Purpose ................................ ................................ ................................ .................. 8 
+1.2 History/background ................................ ................................ ................................ . 8 
+1.3 ICS as Part of ComFrame ................................ ................................ ....................... 9 
+1.4 Principles for ICS Development ................................ ................................ ............ 10 
+2 Components of ICS Version 2.0 for the monitoring period ................................ ............ 12 
+2.1 Reference ICS ................................ ................................ ................................ ...... 12 
+2.2 Additional reporting ................................ ................................ ...............................  12 
+3 General Guiding Principles ................................ ................................ .......................... 13 
+3.1 Substance over Form ................................ ................................ ............................ 13 
+3.2 Proportionality ................................ ................................ ................................ ....... 13 
+3.3 Look-Through ................................ ................................ ................................ ....... 14 
+3.4 ICS Rating Categories ................................ ................................ .......................... 14 
+4 Reference ICS: Perimeter of the ICS Calculation ................................ ......................... 16 
+4.1 Scope for Starting ICS Balance Sheet ................................ ................................ .. 16 
+4.1.1 GAAP and ICS Balance Sheets: instructions ................................ ................. 18 
+4.2 Development of Starting MAV Balance Sheet ................................ ....................... 22 
+5 Reference ICS: Market-Adjusted Valuation ................................ ................................ .. 23 
+5.1 Valuation Principles ................................ ................................ ..............................  23 
+5.2 Calculation of the Current Estimate ................................ ................................ ....... 24 
+5.2.1 Basis for calculation and cash-flow projection ................................ ................ 24 
+5.2.2 Contract recognition, contract boundaries and time horizon ........................... 28 
+5.2.3 Data quality and setting of assumptions ................................ ......................... 29 
+5.2.4 Management actions ................................ ................................ ...................... 30 
+5.2.5 Discounting ................................ ................................ ................................ .... 30 
+5.3 Margin over Current Estimate (MOCE) ................................ ................................ . 42 
+5.3.1 Definition and underlying principles ................................ ................................  42 
+5.3.2 Calculation of the MOCE ................................ ................................ ............... 42 
+5.3.3 Interaction of MOCE with other components ................................ .................. 42 
+5.4 Obligations replicable by a portfolio of assets ................................ ....................... 42 
+6 Reference ICS: Qualifying Capital Resources ................................ ..............................  44
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 3 of 247 
+ 
+6.1 General considerations ................................ ................................ ......................... 44 
+6.2 Classification of financial instruments................................ ................................ .... 44 
+6.2.1 Tier 1 unlimited financial instruments ................................ ............................. 50 
+6.2.2 Tier 1 limited financial instruments ................................ ................................ . 50 
+6.2.3 Tier 2 financial instruments (other than structurally subordinated) .................. 52 
+6.2.4 Structurally subordinated Tier 2 financial instruments ................................ .... 53 
+6.2.5 Tier 2 Non-paid-up capital ................................ ................................ .............. 54 
+6.3 Capital elements other than financial instruments ................................ ................. 55 
+6.3.1 Tier 1 capital elements ................................ ................................ ................... 55 
+6.3.2 Tier 2 capital elements ................................ ................................ ................... 56 
+6.4 Capital adjustments and deductions ................................ ................................ ..... 57 
+6.4.1 Deductions from Tier 1 capital resources ................................ ....................... 57 
+6.4.2 Deductions from Tier 2 capital resources ................................ ....................... 58 
+6.4.3 Treatment of encumbered assets ................................ ................................ ... 58 
+6.5 Capital composition limits ................................ ................................ ...................... 58 
+7 Reference ICS: Capital Requirement – The Standard Method ................................ ..... 60 
+7.1 ICS Risks and Calculation Methods ................................ ................................ ...... 60 
+7.1.1 Risk mitigation techniques ................................ ................................ ............. 61 
+7.1.2 Geographical segmentation ................................ ................................ ........... 64 
+7.1.3 Management actions ................................ ................................ ...................... 65 
+7.2 Insurance risks ................................ ................................ ................................ ...... 67 
+7.2.1 Grouping of policies for life insurance risks ................................ .................... 67 
+7.2.2 Calculation of Life Insurance risk charge ................................ ........................ 68 
+7.2.3 Calculation of Non-Life risk charge ................................ ................................  82 
+7.2.4 Calculation of Catastrophe risk charge................................ ........................... 94 
+7.3 Market Risks ................................ ................................ ................................ ....... 104 
+7.3.1 Calculation of the Market risk charge ................................ ........................... 104 
+7.3.2 Interest Rate risk ................................ ................................ .......................... 105 
+7.3.3 Non-Default Spread risk ................................ ................................ ............... 109 
+7.3.4 Equity risk ................................ ................................ ................................ .... 111 
+7.3.5 Real Estate risk ................................ ................................ ............................ 114 
+7.3.6 Currency risk................................ ................................ ................................  115 
+7.3.7 Asset Concentration risk ................................ ................................ .............. 121 
+7.4 Credit Risk ................................ ................................ ................................ .......... 124 
+7.4.1 Calculation of Credit risk charge ................................ ................................ .. 124
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 4 of 247 
+ 
+7.4.2 Recognition of collateral, guarantees and credit derivatives ......................... 136 
+7.4.3 Use of external credit ratings ................................ ................................ ....... 143 
+7.4.4 Supervisor-owned and controlled credit assessment (SOCCA) processes .. 148 
+7.5 Operational risk ................................ ................................ ................................ ... 150 
+7.6 Aggregation/Diversification of ICS Risk Charges ................................ ................ 152 
+7.7 Non-Insurance Risk Charges ................................ ................................ .............. 153 
+7.7.1 Baseline Current Regulatory Reporting ................................ ........................ 154 
+8 Reference ICS: Tax ................................ ................................ ................................ ... 158 
+8.1 General principles ................................ ................................ ...............................  158 
+8.2 Deferred tax resulting from the ICS Adjustment ................................ .................. 159 
+8.2.1 Utilisation assessment of DTAs recognised from the ICS Adjustment .......... 159 
+8.3 Tax effect on the ICS insurance capital requirement ................................ ........... 160 
+8.3.1 Component a: tax loss carry backs ................................ ..............................  160 
+8.3.2 Component b: post-stress future taxable income projections ....................... 161 
+8.3.3 Components c and d: Deferred taxes ................................ ........................... 161 
+9 Additional Reporting ................................ ................................ ................................ ... 163 
+9.1 GAAP Plus ................................ ................................ ................................ .......... 163 
+9.1.1 Overview ................................ ................................ ................................ ...... 164 
+9.1.2 Japanese GAAP (J-GAAP) Plus Approach ................................ .................. 165 
+9.1.3 GAAP Plus Instructions ................................ ................................ ................ 169 
+9.1.4 GAAP Plus Updates for 2022 Field Testing ................................ ................. 169 
+9.1.5 GAAP Plus General Instructions ................................ ................................ .. 170 
+9.1.6 Jurisdictional GAAP Plus Approaches ................................ ......................... 172 
+9.1.7 Balance Sheet Template Instructions ................................ ........................... 181 
+9.1.8 Qualifying Capital Resources: Template Instructions ................................ ... 184 
+9.1.9 Margin over Current Estimate: Template Instructions ................................ ... 187 
+9.1.10 ICS Risk Charges: Template Instructions ................................ ..................... 187 
+9.2 Other methods of calculation of the ICS capital requirement (“other methods”) ... 192 
+9.2.1 Internal Models ................................ ................................ ............................ 192 
+9.2.2 Dynamic Hedging ................................ ................................ ........................ 201 
+10 Supplementary Information................................ ................................ ..................... 204 
+10.1 Alternative Balance Sheet ................................ ................................ ................... 204 
+10.1.1 Discounting ................................ ................................ ................................ .. 204 
+10.2 Third Party Capital ................................ ................................ ..............................  208 
+10.3 Regulatory Reserves ................................ ................................ .......................... 209
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 5 of 247 
+ 
+10.4 Commercial Mortgages ................................ ................................ ....................... 212 
+10.5 Segmentation of Investments ................................ ................................ .............. 213 
+10.5.1 Strategic Equity ................................ ................................ ............................ 213 
+10.5.2 Infrastructure Investments................................ ................................ ............ 215 
+Glossary................................ ................................ ................................ ............................ 222 
+ Treatment of Non-Voting Interest Entities (Asset and Insurance Securitisations)
+ 224 
+ Definition of ICS Non-Life Segments ................................ ...............................  226
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 6 of 247 
+ 
+Figures and Tables 
+Figure 1: Example of additional information for portfolios reported in the Middle Bucket ..... 36 
+Figure 2: Example to assess the matching criterion for the Top Bucket eligibility ................ 38 
+Figure 3: Example to assess the matching criterion for the Middle Bucket eligibility ............ 40 
+Figure 4: Categorisation of non -life risk exposure, showing how Singapore Motor -like ICS 
+Category is aggregated ................................ ................................ ................................ ....... 84 
+ 
+Table 1: The ICS Principles................................ ................................ ................................ . 10 
+Table 2: Mapping to ICS RC (for instruments not in default) ................................ ................ 15 
+Table 3: List of currencies and associated instruments and LOT ................................ ........ 32 
+Table 4: Eligibility of types of investment ................................ ................................ ............. 36 
+Table 5: Key Principles for tiering in capital resources ................................ ........................ 45 
+Table 6: Risks, definitions and measurement method ................................ ......................... 60 
+Table 7: Geographical segmentation ................................ ................................ ................... 64 
+Table 8: Life risks correlation matrix ................................ ................................ .................... 68 
+Table 9: Mortality risk stress factors ................................ ................................ .................... 69 
+Table 10: Longevity risk stress factors ................................ ................................ ................ 70 
+Table 11: Morbidity/Disability risk stress factors – Location of risk Japan ............................ 75 
+Table 12: Morbidity/Disability risk stress factors – All other locations of risk ........................ 75 
+Table 13: Level & Trend Lapse risk stress factors ................................ ...............................  76 
+Table 14: Expense risk stress factors ................................ ................................ .................. 80 
+Table 15: Within category correlation factors ................................ ................................ ...... 83 
+Table 16: ICS Non-Life Segmentation ................................ ................................ ................. 85 
+Table 17: Credit stress factors for trade credit ................................ ................................ ..... 97 
+Table 18: Market risks correlation matrix ................................ ................................ ........... 104 
+Table 19: Stress factors for Non-Default Spread risk ................................ ........................ 109 
+Table 20: Stress factors for hybrid debt/preference shares ................................ ............... 112 
+Table 21: Absolute stress factors for implied volatilities ................................ ..................... 112 
+Table 22: Equity correlation matrix ................................ ................................ .................... 113 
+Table 23: Currency risk stress factors ................................ ................................ ............... 118 
+Table 24: Calculation of potential future credit exposure ................................ ................... 127 
+Table 25: Credit risk stress factors for public sector entities ................................ .............. 130 
+Table 26: Credit risk stress factors for corporates and reinsurance ................................ ... 132 
+Table 27: Credit risk stress factors for securitisations................................ ........................ 132 
+Table 28: Credit risk stress factors for re-securitisations ................................ ................... 133 
+Table 29: Mapping of ICS CM categories, Method 1 ................................ ......................... 134 
+Table 30: Stress factors for agricultural and commercial mortgages, Method 1 ................. 134 
+Table 31: Stress factors for agricultural and commercial mortgages, Method 2 ................. 135 
+Table 32: Factors for residential mortgages for which repayment depends on income 
+generated by the underlying property ................................ ................................ ................ 135 
+Table 33: Factors for residential mortgages for which repayment does not depend on income 
+generated by the underlying property ................................ ................................ ................ 136 
+Table 34: Mapping of Chinese domestic credit ratings to ICS RC ................................ ..... 145 
+Table 35: Mapping of ratings by other rating agencies ................................ ...................... 146 
+Table 36: Mapping of NAIC Designations to ICS RC ................................ ......................... 149 
+Table 37: Operational risk exposures and stress factors ................................ ................... 151 
+Table 38: Aggregation matrix between risks ................................ ................................ ...... 152
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 7 of 247 
+ 
+Table 39: Examples of jurisdictional group PCRs ................................ ..............................  155 
+Table 40: Classification of specific types of reserves................................ ......................... 210 
+Table 41: Infrastructure investments ................................ ................................ ................. 215
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 8 of 247 
+ 
+1 Introduction 
+1.1 Purpose 
+1. The purpose of this document is to set out the requirements for the annual confidential 
+reporting of the reference ICS and, at the option of group-wide supervisors (GWS), additional 
+reporting during the five-year monitoring period.  
+2. The documentation framework for ICS Version 2.0 for the monitoring period consists 
+of three document levels: 1 Levels 1 and 2 together form ICS Version 2.0 for the monitoring 
+period; Level 3 (ie this Technical Specification document) builds on the information in Levels 
+1 and 2, with additional information to enable the annual confidential reporting.  
+1.2 History/background 
+3. On 9 October 2013, the IAIS announced its plan to develop a risk-based global 
+insurance capital standard (ICS). This was in response to the request by the Financial Stability 
+Board (FSB) that the IAIS produce a work plan to create “a comprehensive group -wide 
+supervisory and regulatory framework for Internationally Active Insurance Groups (IAIGs).”2 In 
+its statement of 18 July 2013 the FSB stated that “a sound capital and supervisory framework 
+for the insurance sector more broadly is essential for supporting financial stability.” The FSB 
+further reinforced its support for the development of the ICS in its statement of 6 November 
+2014.3 
+4. Since this announcement in October 2013, the IAIS has followed a structured and 
+evidence-based approach to the development of the ICS by undertaking a multi -year 
+quantitative Field Testing process with Volunteer Insurance Groups (Volunteer Groups). The 
+IAIS has conducted six quantitative Field Testing exercises throughout the development stage 
+of the ICS – from 2014 to 2019. Each quantitative ICS Field Testing exercise has been 
+informed by IAIS analysis of submitted data, as well as additional feedback and comments 
+provided by Volunteer Groups as part of their submissions or through dedicated Field Testing 
+workshops. In addition to the Field Testing process, the IAIS has reached out to the broader 
+group of stakeholders during dedicated, in -person stakeholder meetings and by engaging in 
+two public consultations on ICS matters. 
+5. On 2 November 2017, at its Annual Conference in Kuala Lumpur, the IAIS announced 
+a unified path to convergence of group capital standards, in furtherance of its ultimate goal of 
+a single ICS that includes a common methodology by which one ICS achieves comparable (ie 
+substantially the same) outcomes across jurisdictions. The Kuala Lumpur Agreement (KL 
+Agreement) sets out that implementation of ICS Version 2.0 will be conducted in two phases:  
+• A five -year “monitoring period”, during which ICS Version 2.0 will be used for 
+confidential reporting to the GWS and discussion in supervisory colleges. During the 
+ 
+1 Consistent with the objectives and definition of the monitoring period, ICS Version 2.0 for the 
+monitoring period is not for decision making by supervisors (ie ICS results will not be used as a basis 
+to trigger supervisory action). As such, any mention of a supervisory decision or action does not have 
+any force or effect during the monitoring period, unless explicitly indicated otherwise. Such references, 
+provided they are maintained in the agreed specifications of ICS as a PCR, will come into effect only 
+once the ICS is implemented as a PCR. 
+2 http://www.financialstabilityboard.org/publications/r_130718.pdf  
+3 http://www.financialstabilityboard.org/wp-content/uploads/pr_141106a.pdf
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 9 of 247 
+ 
+monitoring period, ICS results will not be used as a basis for triggering supervisory 
+action.; and 
+• The “implementation of the ICS as a group -wide Prescribed Capital Requirement 
+(PCR)” 4. 
+6. The KL Agreement also stated that implementation of ICS Version 2.0 will have two 
+equally important components:  
+• Mandatory confidential reporting by all IAIGs5 of a reference ICS6; and  
+• Additional reporting, at the option of the GWS, of ICS based on Generally Accepted 
+Accounting Principles (GAAP) with Adjustments (GAAP Plus) 7 valuation and/or other 
+methods of calculation of the ICS capital requirement, including internal models (see 
+Section 9.2). 
+7. At the same time, the KL Agreement acknowledged the development of the 
+Aggregation Method (AM) within the United States. The KL Agreement states that “ The IAIS 
+has agreed to collect data fro m interested jurisdictions relevant to the development of the 
+aggregation method. Although this is not part of ICS Version 2.0, the IAIS appreciates the 
+significance of this development, and so it will collect data from interested jurisdictions that will 
+aid in the development of the aggregation method.”  
+8. The IAIS aims to be in a position, by the end of the monitoring period, to assess 
+whether the AM provides comparable, ie substantially the same (in the sense of the ultimate 
+goal), outcomes to the ICS. If so, it will be considered an outcome -equivalent approach for 
+implementation of ICS as a PCR. Development of the AM by interested jurisdictions is 
+underway. Work has begun on developing criteria to assess whether the AM provides 
+comparable outcomes to the ICS, starting with a project plan focused on delivery by the end 
+of the monitoring period. 
+1.3 ICS as Part of ComFrame 
+9. The Common Framework for the Supervision of IAIGs (ComFrame) consists of both 
+quantitative and qualitative supervisory requirements tailored t o the complexity and 
+international scope of IAIGs. The ICS is one of the components of ComFrame. In June 2017, 
+the IAIS agreed to take the following steps regarding the integration of the ICS into ComFrame: 
+• ICS Version 2.0 will be adopted in 2019 as a stand-alone document; 
+ 
+4 Insurance Core Principle (ICP) 17.4 defines a PCR as a solvency control level above which the 
+supervisor does not intervene on capital adequacy grounds. As the ICS is designed as a minimum 
+standard, national supervisory authorities may elect to take a more prudent approach and set a PCR 
+that is higher than the ICS PCR. 
+5 During the monitoring period, other interested Volunteer Groups that do not meet the definition of an 
+IAIG may choose to participate in the mandatory confidential reporting and additional reporting, at the 
+option of the GWS. 
+6 Mandatory confidential reporting has been reflected in ComFrame in terms of a standard that requires 
+GWSs to require IAIGs to report their reference ICS and to discuss the results in supervisory colleges. 
+IAIS Members commit to implement IAIS supervisory material taking into account specific market 
+circumstances. 
+7 GAAP Plus will continue development and field testing (for IFRS, US GAAP and Chinese GAAP) into 
+the monitoring period. Japanese GAAP will enter the five -year monitoring period, along with the 
+reference ICS, beginning in 2020.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 10 of 247 
+ 
+• ICP 14 (Valuation) and ICP 17 (Capital Adequacy) will not be reviewed until after ICS 
+Version 2.0 is adopted; 
+• ComFrame text will be adopted, minus ICS Version 2.0, by end-2019 taking the above 
+into account; and 
+• Integration of ICS Version 2.0 text into ComFrame text will occur after the adoption of 
+ICS Version 2.0. 
+10. Subsequently, the five -year monitoring period for ICS Version 2.0 was agreed. As 
+such, the integration of ICS text into ComFrame will occur by the end of the monitoring period. 
+In order to facilitate the monitoring period and discussion within supervisory colleges, 
+ComFrame includes references to the ICS, covering both the reference ICS and additional 
+reporting. 
+1.4 Principles for ICS Development 
+11. The IAIS published a first version of the principles, set forth in Table 1 below, in 
+September 2014. Principles 3 and 6 were subsequently amended foll owing the 2014 ICS 
+consultation. The amended principles are listed in Table 1 and have been followed in the ICS 
+development. 
+Table 1: The ICS Principles8 
+ICS Principle 1:  The ICS is a consolidated group -wide standard with a globally 
+comparable risk -based measure of capital adequacy for IAIGs and G -SIIs. The 
+standard incorporates consistent valuation principles for assets and liabilities, a definition 
+of qualifying capital resources and a risk-based capital requirement. The amount of capital 
+required to be held and the definition of capital resources are based on the characteristics 
+of risks held by the IAIG irrespective of the location of its headquarters. 
+ICS Principle 2: The main objectives of the ICS are protection of policyholders and 
+to contribute to financial stability. The ICS is being developed in the context of the IAIS 
+Mission, which is to promote effective and globally consistent supervision of the insurance 
+industry in order to develop and maintain fair, safe and stable insurance markets for the 
+benefit and protection of policyholders and to contribute to global financial stability. 
+ICS Principle 3: One of the purposes of the ICS is the foundation for Higher Loss 
+Absorbency (HLA) for G -SIIs. Initially, the Basic Capital Requirements (BCR) is the 
+foundation for HLA for G-SIIs.  
+ICS Principle 4: The ICS reflects all material risks to which an IAIG is exposed. The 
+ICS reflects all material risks of IAIGs’ portfolios of activities taking into account assets, 
+liabilities, non-insurance risks and off-balance sheet activities. To the extent that risks are 
+not quantified in the ICS they are addressed in ComFrame. 
+ 
+8 Note that certain of these principles – specifically those that reference Global Systemically Important 
+Insurers (G -SIIs) – have been superseded by the development of the  holistic framework for the 
+assessment and mitigation of systemic risk in the insurance sector. The holistic framework was adopted 
+by the IAIS in November 2019. In light of the finalised holistic framework, the FSB, in consultation with 
+the IAIS and national authorities, decided to suspend G-SII identification as from the beginning of 2020. 
+Furthermore, a standardised form of a Higher Loss Absorbency (HLA) standard does not form part of 
+the holistic framework. See also IAIS Press Release.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 11 of 247 
+ 
+ICS Principle 5: The ICS aims at comparability of outcomes across jurisdictions and 
+therefore provides increased mutual understanding and greater confidence in 
+cross-border analysis of IAIGs among group-wide and host supervisors. Applying a 
+common means to measure capital adequacy on a group -wide consolidated basis can 
+contribute to a level playing field and reduce the possibility of capital arbitrage. 
+ICS Principle 6: The ICS promotes sound risk management by IAIGs and G-SIIs. This 
+includes an explicit recognition of appropriate and effective risk mitigation techniques.  
+ICS Principle 7: The ICS promotes prudentially sound behaviour while minimising 
+inappropriate pro-cyclical behaviour by supervisors and IAIGs.  The ICS does not 
+encourage IAIGs to take actions in a stress event that exacerbate the impact of that event. 
+Examples of pro-cyclical behaviour are building up high sales of products that expose the 
+IAIG to significant risks in a downturn or fire sales of assets during a crisis.      
+ICS Principle 8: The ICS strikes an appropriate balance between risk sensitivity and 
+simplicity. Underlying granularity and complexity are sufficient to reflect the wide variety 
+of risks held by IAIGs. However, additional complexity that results in limited incremental 
+benefit in risk sensitivity is avoided.  
+ICS Principle 9: The ICS is transparent, particularly with regard to the disclosure of 
+final results. 
+ICS Principle 10: The capital requirement in the ICS is based on appropriate target 
+criteria which underlie the calibration.  The level at which regulatory capital 
+requirements are set reflects th e level of solvency protection deemed appropriate by the 
+IAIS.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 12 of 247 
+ 
+2 Components of ICS Version 2.0 for the monitoring period 
+2.1 Reference ICS 
+12. The reference ICS constitutes a consolidated group -wide standard for IAIGs that 
+consists of three components: 
+• Market-adjusted valuation (MAV); 
+• Criteria for qualifying capital resources; and 
+• Standard method for the ICS capital requirements. 
+13. The reference ICS coverage ratio is calculated as 
+ 
+ 
+ 
+14. The ICS is intended to be a going-concern measure of capital adequacy. 
+2.2 Additional reporting 
+15. During the monitoring period, IAIGs will be able to submit additional reporting, at the 
+option of the GWS, of ICS based on GAAP Plus valuation and/or other methods of calculation 
+of the ICS capital requirement, including internal models (see Section 9.2). Both GAAP Plus 
+and other methods of calculation of the ICS capital requirement are viable options that will be 
+considered for inclusion in the ICS by the end of the monitoring period. 
+  
+ICS Ratio = Qualifying capital resources / ICS capital requirement
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 13 of 247 
+ 
+3 General Guiding Principles 
+3.1 Substance over Form 
+16. The ICS balance sheet differs from publicly reported GAAP financial statements, as it 
+reflects a different objective (prudential supervision as opposed to investor information). For 
+example, certain assets in a GAAP balance sheet do not qualify as assets for the ICS. 
+17. The economic substance of transactions and events are recorded in the balance sheet 
+rather than just their legal form, in order to present a true and fair view of the risk profile of the 
+entity. This may require the use of judgment when preparing the balance sheet.  
+18. The allocation of insurance liabilities to the ICS line of business segments follows the 
+principle of substance over form. This means that insurance liabilities are allocated to the 
+segment that best reflects the nature of the underlying risks r ather than the legal form of the 
+contract. The definitions for the insurance line of business segmentation are specified in 
+Sections 7.2.2 and 7.2.3. 
+3.2 Proportionality 
+19. Calculations and valuation are subject to the proportionality principle. When the IAIG 
+can demonstrate that taking into account a specific factor/rule in their calculation or valuation 
+would lead to a significant increase in complexity, without material improvement to the quality 
+of the figure produced or to the assessment of risk linked to this figure, then this factor or rule 
+can be ignored or simplified. 
+20. The materiality of the impact of using a simplification is assessed with regard to: 
+• The volume of the item valued; 
+• The overall volume of the group’s business and capital resources; and 
+• The assessment of risk. 
+21. Moreover, even though the use of a simplification would lead to a figure possibly 
+significantly different from the full fair value, it might nevertheless be used subject to 
+appropriate adjustment, provided that no other applicable methodology would lead to a better 
+proxy. 
+ 
+Example of proportionality for MAV 
+Consider a portfolio of inflation indexed annuities. In theory, a full stochastic modelling of 
+future inflation may be needed. However, considering: 
+• The complexity of such a modelling (and justification of the associated 
+parameters); and 
+• That inflation and mortality are assumed to not be correlated 
+IAIGs may use a flat future level of inflation for deriving future annuity payments in the 
+calculation of insurance liabilities.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 14 of 247 
+ 
+ 
+3.3 Look-Through 
+22. In order to assess properly the risk inherent in collective investment funds and other 
+indirect exposures, their economic substance needs to be taken into account. This is achieved, 
+to the extent possible, by applying a look-through approach in order to assess the risks of the 
+assets underlying the investment vehicle.  
+23. The look -through approach applies to insurance arrangements and indirect 
+investments (including unleveraged mutual funds, othe r collective investment vehicles, etc.) 
+in order to identify all underlying exposures embedded in such arrangements and investments, 
+including all indirect holdings that may artificially inflate the qualifying capital resources of an 
+IAIG. 
+24. When a full look-through is not possible, a partial look-through may be applied, along 
+the lines provided by the Basel III framework9. 
+25. When no look-through is possible, the full investment is considered as unlisted equity 
+for the purpose of calculating the ICS risk charges. 
+26. In the context of Market risks, look -through is applied, for instance, to collective 
+investment funds, hedge funds, mandatory convertible bonds, etc. in order to identify all of the 
+indirect exposures embedded in such instruments. A look-through approach is applied to the 
+extent possible, in order to identify which assets are sensitive to the stress-based approaches 
+to measuring risks. A similar approach can be applicable in the context of capital resources, 
+in order to identify any relevant adjustm ents to ICS capital resources in respect of indirect 
+holdings or reciprocal cross holdings. 
+27. In the context of Insurance risks, the look-through approach is applied to the underlying 
+risk of investments such as single tranche mortality bonds, catastrophe bonds, etc. in order to 
+appropriately capture the effect on such instruments of the stress scenarios designed for 
+mortality, longevity, catastrophe events and any other relevant scenario. 
+3.4 ICS Rating Categories 
+28. The IAIS has developed a mapping between ICS Rat ing Categories (ICS RC) and 
+credit rating agency ratings. ICS Rating Categories range from 1 to 8. 
+ 
+9 http://www.bis.org/publ/bcbs266.htm. 
+Example  
+Consider an IAIG with capital resources of 10 and insurance liabilities (savings contracts) 
+of 100. The calculation of those insurance liabilities can be achieved either on a policy 
+by policy basis, or by grou ping all policies and using an average actuarial age and 
+average lapse rates. The latter leads to a difference of 1% in the amount of insurance 
+liabilities. Although such a difference can be considered as non -material with regard to 
+the insurance liabilities, the relative impact on the capital resources is 10% (assuming 
+the asset side is unchanged). This should be considered a material difference, and the 
+simplification should be rejected. 
+Please note this example is in no way intended to mean that the materiality threshold is 
+10% of capital resources.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 15 of 247 
+ 
+29. Whenever the use of an ICS RC is needed, IAIGs use the agency ratings listed in the 
+table below. Ratings from AM Best can be used only for purposes of calculating the risk charge 
+on reinsurance exposures. Modifiers such as + or – do not affect the ICS RC. Where two 
+ratings are listed in a cell, the first rating represents a long-term rating, and the second rating 
+represents the short-term rating mapped to the same ICS RC. The short -term rating is used 
+only for instruments with a remaining maturity of one year or less. 
+Table 2: Mapping to ICS RC (for instruments not in default) 
+ICS RC S&P Moody’s Fitch JCR R&I DBRS AM Best 
+1 AAA Aaa AAA AAA AAA AAA  
+2 AA / A-1 Aa / P-1 AA / F1 AA / J-
+1 AA / a-1 AA / R-1 A+ 
+3 A / A-2 A / P-2 A / F2 A / J-2 A / a-2 A / R-2 A 
+4 BBB / 
+A-3 Baa / P-3 BBB / 
+F3 
+BBB / 
+J-3 
+BBB / a-
+3 
+BBB / R-
+3 B+ 
+5 BB Ba BB BB BB BB B 
+6 B / B B / NP B / B B / NJ B / b B / R-4 C+ 
+7 
+CCC / C 
+and 
+lower 
+Caa and 
+lower 
+CCC / C 
+and 
+lower 
+CCC 
+and 
+lower 
+CCC / c 
+and 
+lower 
+CCC / 
+R-5 and 
+lower 
+C and 
+lower 
+ 
+30. Additionally, IAIGs can use ratings issued by a rating agency that the banking regulator 
+in its jurisdiction (or for a subsidiary, in the subsidiary’s jurisdiction) has recognised as an 
+External Credit Assessment Institution (ECAI) under the Basel II framework. The ICS RC 
+corresponding to a rating produced by such an agency is the Basel II rating category to which 
+the supervisor has mapped the rating (the combined rating class AAA/AA corresponds to ICS 
+RC 2). 
+31. ICS RCs 1 to 4 in the table above are considered as investment grade. 
+32. The use of ICS RCs is further developed in Section 7.4.3.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 16 of 247 
+ 
+4 Reference ICS: Perimeter of the ICS Calculation 
+4.1 Scope for Starting ICS Balance Sheet 
+33. The starting point of the ICS is the audited consolidated GAAP balance sheet of the 
+insurance holding company of an insurance group or financial holding company of a financial 
+conglomerate. 
+34. Where an insurer does not prepare audited consolidated GAAP financials, statutory 
+financial statements are aggregated to reflect the group level starting balance sheet. 
+35. The audited GAAP balance sheet is split into two components: (1) entities that are 
+insurers, and entities whose purpose is insurance related; and (2) non-insurance entities.   
+36. The non-insurance entities are reported separately from insurance entities, on a GAAP 
+basis, with the exceptions described below. 
+37. The parameter of the ICS calculation is defined as including all consolidated legal 
+entities within the IAIG. 
+38. The starting point to derive the balance sheet of the in surance group , prior to 
+application of any MAV adjustments, is the consolidated GAAP balance sheet of the Head of 
+the IAIG, as defined in ComFrame. For entities that do not have consolidated GAAP financials, 
+see paragraph 44. 
+39. For purposes of the ICS calculation, balance sheets are segregated  into insurance 
+related and non -insurance components. The insurance portion of the balance sheet is 
+comprised of entities that meet the following definitions: 
+a. Insurer: Insurance legal entity or insurance group. 
+b. Insurance legal entity: A legal entity, including its branches, that is licensed to conduct 
+insurance, regulated and subject to supervision. 
+c. Insurance related entities: Legal entities that mainly exist to support the operations of 
+the insurer. This includes the top tier holding company of an IAIG if that entity does not 
+have other material business. 
+40. Legal entities that comprise the consolidated GAAP balance sheet are further 
+categorised according to the following definitions in order to apply certain accounting treatment 
+that differs from GAAP as well  as to derive a capital requirement for non -insurance 
+components: 
+a. Insurer and insurance related entities; 
+b. Regulated non-insurance financial entity; 
+c. Non-regulated non-insurance financial entity; and 
+d. Non-financial entity. 
+41. The ICS follows GAAP accounting rules for consolidation accounting treatment except 
+for the following:
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 17 of 247 
+ 
+a. For insurer and insurance related entities that are determined under GAAP to be 
+controlled as joint ventures10, a proportional consolidation method is used unless it is 
+determined through consultation with the GWS that such treatment is not considered 
+feasible; in which case the entity remains unadjusted and reported as per GAAP as an 
+equity method investment.  
+b. For insurer and insurance related entities that are determined under GAAP to be 
+controlled as joint operations 11 and reported by recogni sing its own assets, liabilities 
+and transactions, including its share of those incurred jointly, the entity may remain 
+unadjusted (ie proportional consolidation on shared assets). 
+c. For non-insurance financial and non-financial entities that are determined under GAAP 
+to be joint operations and reported by recogni sing its own assets, liabilities and 
+transactions, including its share of those incurred jointly, the entity should instead be 
+reported as an equity method investment. 
+d. For non-insurance financial and non-financial entities that are determined under GAAP 
+to be joint ventures, the entity should be reported as an equity method investment. 
+42. Adjustments related to non-voting interest entities12: 
+a. A non -voting interest entity that has been determined under GAAP to be 
+unconsolidated is consolidated if either the IAIG or its GWS assesses that it poses a 
+material risk13 to the group, either individually or in the aggregate. 
+b. A securitisation originated within the group may not be consolidated provided that it  
+meets all of the conditions outlined in Annex 1. 
+c. Notwithstanding the materiality assessment or application of additional criteria, a non-
+voting interest entity is consolidated when the GWS determines that the nature, scale 
+and complexity of the risks cannot be considered insignificant. 
+43. Other non-GAAP adjustments: Structured settlement agreements with third parties are 
+recorded on a net basis (ie  removed from reserves and reinsurance recoverables) when the 
+underlying claim is settled and the risk to the non -life company is contingent upon the life 
+insurer (and the guarantee fund, if applicable) having the ability to pay. 
+44. Aggregated group balance sheet: IAIGs that do not prepare consolidated or group level 
+financial statements generate a balance sheet on an aggregated basis to reflect group level 
+starting balances. 
+ 
+10 A joint venture is a joint arrangement whereby the parties that have joint control of the arrangement 
+have rights to the net assets of the arrangement. 
+11 A joint operation is a joint arrangement whereby the parties that have joint control of the arrangement 
+have rights to the assets, and obligations for the liabilities, relating to the arrangement.   
+12 A non-voting interest entity is an entity where voting or similar rights are not the dominant factor in 
+assessing control. Entities are often thinly capitalised or contain no capital and are designed for a 
+specific purpose (eg, special purpose entities, structured entities, GP/LP str uctures, trusts and 
+investment partnerships). 
+13 Material risk  in this case relates to the risks posed to the group. In considering what might 
+significantly contribute to group risks, a firm may assess whether the related entity’s gross assets or 
+gross revenue are more than 1% of the group’s gross assets or revenue. In addition, an assessment of 
+all immaterial entities exceeding 5% of the group’s assets or revenue, in the aggregate, may indicate 
+that other entities should be consolidated in order to avoid missing material risks.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 18 of 247 
+ 
+45. Non-insurance entities (financial and non-financial) are incorporated into the reference 
+ICS, based on the entity type and whether or not the entity is subject to a sectoral capital 
+requirement. The capital requirement for financial non -insurance e ntities is based on the 
+entity’s sectoral capital rules (eg banks, institutions for occupational retirement provision, etc.) 
+when available. For financial non-insurance entities without sectoral capital rules and for non-
+financial entities, the capital requirement included in the reference ICS is described in Section 
+7.7. For all non -insurance entities, capital resources follow the capital resources framework 
+set out for the reference ICS. 
+46. The reporting date to be used by all IAIGs is end December 2021. Subject to previous 
+discussion with the relevant GWS, different valuation dates can be used for the purposes of 
+this exercise (eg 31 March 2022 for IAIGs based in Japan), as long as necessary efforts are 
+made to ensure the internal consistency of the results. Fo r example, with respect to key 
+assumptions such as the reporting date to determine currency exchange rates or yield curves. 
+47. In addition to balance sheets as at end December 2021 (or end March 2022), IAIGs 
+are also asked to submit pro forma balance sheets f or end December 2020 (or end March 
+2021), reflecting any material acquisitions and divestitures that occurred during 2021, but 
+following the instructions for the 2021 ICS Data Collection. This will enable the IAIS to better 
+understand the drivers of year-to-year changes. For those IAIGs without any material 
+acquisition or divestitures, the end December 2020 (or end March 2021) balance sheets from 
+the 2021 ICS data collection can be copied and pasted into the Template. 
+4.1.1 GAAP and ICS Balance Sheets: instructions 
+ 
+Relevant Worksheet in Template: GAAP and ICS Balance Sheets 
+ 
+4.1.1.1 GAAP Balance Sheet 
+48. Column GAAP – Amounts per Audited Consolidated Financial Statements (or 
+aggregated statutory financial statements) is the starting point for the balance sheet. Totals 
+should be equal to audited GAAP financial statements (ie Assets, Liabilities, Equity). Other 
+significant balances, to the extent possible, should also be eq ual to reported financial 
+statements without any adjustment (eg total investments, insurance liabilities, retained 
+earnings, accumulated other comprehensive income (AOCI), etc). There are several 
+reclassifications that should be made to the GAAP audited fi nancial statements. Any 
+significant differences should be explained in the Questionnaire.  
+49. For those IAIGs that do not prepare consolidated or group level financial statements 
+and must generate aggregated statutory financial statements, starting balances s hould be 
+reported as specified in Section 4.1.1.1.1. 
+50. The c olumn GAAP – Other than Related to Insurance Activities  is automatically 
+populated. 
+51. The column GAAP – Related to Insurance Activities is the next step. Amounts related 
+to insurance activ ities should be separated from column [1] and reported here. Insurance 
+activities are defined as activities of licensed insurers and regulated and unregulated entities 
+that support the insurance activities (for example subsidiaries that provide claims 
+management or asset management acting mainly for the insurance entities).
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 19 of 247 
+ 
+4.1.1.1.1 Instructions for Generating GAAP Group Financial Statements 
+52. For IAIGs that do not prepare consolidated or group level financial statements it will be 
+necessary to generate financial stat ements on an aggregate basis to reflect group -level 
+starting balances. This is primarily applicable for mutual insurers that do not prepare 
+consolidated GAAP financial statements. 
+4.1.1.1.1.1 US Statutory Accounting Principles (SAP) - Group Level Financials 
+53. The following specifications provide instructions for US mutual IAIGs. Any other IAIG 
+that may need to generate group-level financial statements may use these instructions as an 
+example and apply similar steps as applicable. IAIGs should consult with their GWS for any 
+specific questions not addressed in the instructions below. 
+54. US IAIGs that do not report on a consolidated group basis will need to prepare a group-
+level balance sheet that includes domestic insurance companies (whose financial statements 
+are prepared in accordance with US SAP), foreign insurance company subsidiaries, and non-
+insurance subsidiaries and affiliates (whose financial statements are typically prepared in 
+accordance with US GAAP in the case of subsidiaries and affiliates of a US-based insurer or 
+group). All legal entities under the ultimate parent insurance company should be included. In 
+situations where there are two or more top tier insurance companies that form the group, all 
+legal entities under the top tier insurance companies should be included. 
+55. A group-level, consolidated balance sheet should be prepared as follows: 
+a. Aggregate all US audited statutory financial statements for domestic insurance 
+companies. 
+b. For all non-US insurance companies that file audited financial statements on a no n-
+US statutory basis of reporting, aggregate all balances after performing foreign 
+currency translation into the reporting currency of the US Holding Company or Head 
+of Group entity as specified under FASB ASC Topic 830. Foreign currency translation 
+adjustments should be recorded in the balance sheet equity account AOCI.  
+c. Identify other non-insurance domestic subsidiaries, affiliates and other entities where 
+ownership is greater than 50% or where management controls an entity through the 
+ability to make dec isions that can significantly impact the performance of the entity.  
+For these entities, eliminate the equity investment in each subsidiary and for each 
+balance sheet line item add the corresponding value of reported gross assets and 
+liabilities of those subsidiaries to the parent statutory balances14. Include any minority 
+interest amounts if applicable.  Apply the same approach for foreign entities with the 
+addition of performing foreign currency translation as specified in b) above.  
+d. Make appropriate intercompany eliminations as specified under FASB ASC Topic 810 
+Consolidation. 
+56. The following additional adjustments should be made to approximate a US GAAP  
+balance sheet: 
+a. Long-term and short-term investments reported under SAP that meet the US GAAP 
+definition of available-for-sale or trading should be adjusted to fair value. This mainly 
+applies to debt securities, equities and derivatives. Unrealised gains and losses on 
+ 
+14 This may be a mix of statutory, US GAAP and modified GAAP balances.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 20 of 247 
+ 
+Available for Sale ( AFS) securities should be reported in Accumulated Other 
+Comprehensive Income – debt securities 
+b. Replication (synthetic) assets should be bifurcated, reclassified as debt securities and 
+derivatives.  
+c. Real estate owned should be reported on a gross basis. Amounts should be revalued 
+on the same measurement basis as would be required under US GAAP based on 
+whether the real estate is an investment, held for sale or considered as property for 
+own use. 
+d. Any life insurance deferred premium assets that exist for SAP when the mean reserve 
+method is used for calculating reserves should be written off. 
+e. Non-admitted assets, including any non -admitted deferred tax asset should be 
+reported in the balance sheet using valuation methods that are consistent with  US 
+GAAP.  
+f. The asset valuation reserve and  interest maintenance reserve should be reclassified 
+to Reserves.  
+g. Any reinsurance recoverables that are netted against insurance liabilities for US SAP 
+should be reclassified as assets. 
+h. Pension liabilities: firms that have elected to defer surplus impacts of the US SAP rule 
+change to reflect the full pension benefit obligation should record a liability for the 
+unamortised portion.  
+57. This will result in a quasi -consolidated group -level balance sheet. These balances 
+should be recorded in the worksheet GAAP and ICS Balance Sheets, in the column labelled 
+GAAP – Amounts per Audited Consolidated Financial Statements. 
+4.1.1.1.2 GAAP Balance Sheet Equity 
+58. IAIGs should provide a breakdown of the components of equity as set out in the 
+balance sheet. Definitions for many of the equity line items can be found in Section 6.3 Capital 
+elements other than financial instruments. In particular, please note that share premium and 
+contributed surplus should be reported separately, and that contributed surplus should include 
+the value of equity-settled employee stock options.  
+59. Ordinary shares should be reported on a gross basis with treasury stock reported as a 
+deduction at cost on the separate line that has been added to the Template. 
+60. The value reported as a subset of minority/non -controlling interests (NCI) in the 
+balance sheet is limited to NCI that represents a third party ownership interest not in the form 
+of a financial instrument. This form of NCI must also meet the full description in Section 6.3.1. 
+It may be necessary to reclassify a portion of the valuation adjustment offset amounts related 
+to GAAP Plus or MAV to NCI. This reclassification amount can be reported in the Adjustment 
+section row (-) adjustments already included in other equity items  with the other side of the 
+entry to the NCI line item. 
+61. Where the breakdown and/or total GAAP equity reported in the Template does not 
+correspond to amounts per audited consolidated financial statements 15 (where available), 
+ 
+15 Eg because of differences in reporting currency or the scope of the group.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 21 of 247 
+ 
+IAIGs are requested to explain any discrepancies in the Questionnaire and provide a 
+reconciliation of reported amounts to the equity items in the consolidated GAAP balance sheet.  
+62. Any prudential or legally restricted reserves that appear in an IAIG’s reported starting 
+GAAP balance sheet should be reclassified using column [4] into the row labelled Retained 
+Earnings under the Equity section of the balance sheet. Generally, restricted and legal 
+reserves exist only under prudential reporting and would not be reflected in a GAAP balance 
+sheet and under the ICS  balance sheet.16 A holistic analysis of capital fungibility, including 
+restricted reserves, will be performed during the Monitoring Period.  
+63. Any segregated surplus on par business or demu tualised “closed” block , including 
+policyholder dividend obligations , should be reported under the Equity section in the row 
+Participating policyholders’ equity or account. These items will also be considered during the 
+analysis of fungibility. 
+4.1.1.2 ICS Balance Sheet 
+64. ICS – Reclassification from GAAP should be used to reflect any entries to reclassify 
+amounts from the audited, consolidated jurisdictional GAAP balances as reported in GAAP – 
+Related to Insurance Activities  to the ICS Balance Sheet. Such reclassification differences 
+may result from conso lidation rules, offsetting/netting rules, or variance in other accounting 
+definitions (eg separate accounts). All reclassification entries should sum to zero. IAIGs should 
+provide narrative explanations for reclassification entries in the Questionnaire.  
+65. ICS – Related to Insurance Activities balances should reflect the changes in valuation 
+of invested assets or liabilities as specified under the reference ICS. The specifications are 
+detailed in Section 5 Reference ICS: Market-Adjusted Valuation.  
+66. Offsetting entries for valuation adjustments to assets and liabilities are automatically 
+calculated under Adjustments in the Equity section of the table Balance sheets. 
+4.1.1.3 Other Balance Sheet Information 
+67. This section provides specifications for the tables that appear below the Balance Sheet 
+table in the worksheet GAAP and ICS Balance Sheets. 
+68. Difference between consolidated and insurance assets  – this table provide s a 
+breakdown, by business activity type , of the difference between the consolidated assets 
+reported in column [1] of the Template table Balance sheets and insurance assets reported in 
+column [3]. 
+69. Information on assets and other items subject to deduction from capital resources – 
+this table collects information used in the calculation of ICS capital resources under the 
+reference ICS. See Section 6.4 Capital adjustments and deductions for detailed instructions. 
+70. Utilisability assessment of deferred taxes – this table collects information on deferred 
+tax assets and liabilities for use in the utilisability assessment of deferred tax assets  
+recognised from the ICS adjustment and the tax effect on th e ICS capital requirement. See 
+Section 8 Reference ICS: Tax for further details.  
+ 
+16 The starting point for the ICS is the consolidated balance sheet as reported in a n IAIG’s general-
+purpose, audited financial statements, which for most IAIGs is either on the basis of IFRS or their local 
+jurisdictional GAAP.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 22 of 247 
+ 
+71. Detailed information on insurance liabilities  – The value of insurance liabilities and 
+investment contracts under GAAP and the reference ICS valuation approach should be 
+reported as follows: 
+a. Current Estimate (CE) of insurance liabilities; 
+b. Reconciliation of Non-life insurance liabilities from GAAP to ICS; 
+c. Non-life Premium Liability selection; 
+d. Bucketing of insurance portfolios; 
+e. Investment structure for the General Bucket by currency; 
+f. Information on sovereign and supra-national exposures; and  
+g. Exposure to multilateral development banks and supranational organisations. 
+4.2 Development of Starting MAV Balance Sheet 
+72. The starting MAV balance sheet is comprised of the insurance and insurance-related 
+entities. 
+73. The beginning MAV balance sheet is subject to adjustments as described in Section  
+5.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 23 of 247 
+ 
+5 Reference ICS: Market-Adjusted Valuation 
+ 
+Relevant Worksheet in Template: GAAP and ICS Balance Sheets 
+ 
+5.1 Valuation Principles 
+74. The MAV approach is based on the amounts as reported on audited, consolidated, 
+general-purpose GAAP or Statutory Accounting Principles (SAP) accounts, and includes 
+adjustments to the following items:  
+a. Insurance liabilities and reinsurance balances; 
+b. Financial investments (assets) and instruments (liabilities); and 
+c. Deferred taxes. 
+75. Unless they are replicable by a portfolio of assets (reference Section 5.4), MAV 
+insurance liabilities are the sum of a current estimate and a margin over current estimate 
+(MOCE). The details underpinning the calculation of the current estimate and the MOCE are 
+developed in the following sub-sections. 
+76. When deriving the adjustments to be made to insurance liabilities, reinsurance 
+balances, financial investments and instruments, and tax, IAIGs apply the following principles: 
+a. Property for own use is adjusted to fair value using the fair value guidance under the 
+IAIG’s GAAP or when the IAIG does not produce a GAAP consolidated balance sheet, 
+the GAAP fair value principles in the IAIG’s jurisdiction. 
+b. Mortgages and loans are adjusted to fair va lue using the fair value guidance under 
+the IAIG’s GAAP or when the IAIG does not produce a GAAP consolidated balance 
+sheet, the GAAP fair value principles in the IAIG’s jurisdiction. 
+c. Reinsurance recoverables are restated on a basis consistent with the determination 
+of insurance liabilities. Recoverables on paid and unpaid balances are reported net of 
+allowances for estimated uncollectable amounts. 
+d. Deferred tax assets (DTA) and liabilities (DTL) are treated according to Section 8. 
+e. Deferred acquisition costs and other deferred expenses  that are on the balance 
+sheet at the reporting date are adjusted to zero. Future acquisition costs related to 
+future premiums (within contract boundaries – see Section 5.2.2) are reflected in the 
+value of insurance liabilities. 
+f. Premium receivables falling due after the reporting date and related to contracts that 
+are included in the current estimate calculation ar e reflected in the valuation of 
+insurance liabilities as negative cash flows. Premium receivables for which the due 
+date is prior to the reporting date are not part of the current estimate calculation and 
+remain as assets on the balance sheet. 
+g. Loans to policyholders are reported separately and are not netted against insurance 
+liabilities.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 24 of 247 
+ 
+h. Financial liabilities: upon initial recognition, the valuation of these items is based on 
+the IAIG’s reported GAAP, and there is no subsequent adjustment to take account o f 
+changes to the IAIG’s own credit standing. 
+ 
+77. The following balance sheet items’ valuation should be based on the IAIG’s reported 
+International Financial Reporting Standards ( IFRS) or GAAP valuations, as applicable for 
+consolidated audited general -purpose financial statements in each IAIG’s respective home 
+jurisdiction: 
+a. Goodwill and other intangibles; 
+b. Pension assets/liabilities;  
+c. Other assets (including other reinsurance and other insurance-related assets);  
+d. Provisions other than insurance liabilities; 
+e. Contingent liabilities: add contingent liabilities that are reported in the notes to financial 
+statements in the balance sheet; and 
+f. Other non-financial liabilities. 
+5.2 Calculation of the Current Estimate  
+5.2.1 Basis for calculation and cash-flow projection 
+5.2.1.1 General considerations 
+78. The current estimate corresponds to the probability -weighted average of the present 
+values of the future cash-flows associated with insurance liabilities, discounted using the yield 
+curve relevant for the currency and bucket of each liability. The three buckets to which 
+liabilities can be allocated are described in Section 5.2.5.3. 
+79. The current estimate does not include any implicit or explicit margins. 
+80. Reinsurance recoverables are calculated in a way that is consistent with the current 
+estimates of insurance liabilities, based on the same assumptions and inputs. 
+81. When valuing insura nce liabilities, no adjustment is made to take into account the 
+IAIG’s own credit standing. 
+82. The current estimate calculation is based on the probability weighted average of the 
+future cash flows, taking into account the uncertainty relating to: 
+a. The timing, frequency and severity of claim events; 
+b. Claim amounts and claim inflation, including where relevant any uncertainty on the 
+value of indices used to determine claim amounts; 
+c. The time needed to settle claims; 
+d. The amount of expenses; and 
+Example 
+Subordinated debt issued by the IAIG should not be revalued to market prices. However, 
+the present value of the liability should be updated to reflect changes in the time value of 
+money (update of yield curves).
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 25 of 247 
+ 
+e. Policyholder behaviour. 
+83. Cash flow projections reflect expected future demographic, legal, medical, 
+technological, social or economic developments, and are based on appropriate inflation 
+assumptions, recognising the different types of inflation to which the entity can be exposed. 
+Premium adjustment clauses are also considered, where relevant. 
+84. The current estimate is calculated gross of reinsurance and special purpose vehicles  
+(SPV). Recoverables from reinsurance or SPVs are calculated separately and recognised as 
+an asset. 
+85. The projected cash flows include, at a minimum, the following items within the contract 
+boundaries: 
+a. Benefit and claim payments; 
+b. Direct and indirect expenses incurred; 
+c. Premiums received; 
+d. Subrogation payments and recoveries other than from reinsurance and special 
+purpose vehicles; and 
+e. Other payments made in order to settle the claims. 
+86. All expenses related to existing contracts and contracts that are recognised at the 
+reporting date, but not yet in force, are included in the current estimate calculation. The 
+expenses estimation assumes that the IAIG will write business in the future. Future expenses 
+relating exclusively to future business are not considered for the current estimate calculation. 
+ 
+ 
+87. The current estimate of non-life premium liabilities (PL) should include, but is not 
+limited to the following cash flows: 
+• Cash flows from future premiums falling within the contract boundary. 
+• Cash flows resulting from future claim events ( including the potential for claims that 
+have high severity, low probability of occurrence). 
+Example  
+Future expenses of the IAIG  should be  allocated to all contracts within the contract 
+boundaries. The current estimate should not include the premium, expenses and claims 
+for contracts out of the contract boundaries. The expense assumptions should be on a 
+going concern basis and, ceteris paribus, consistent with the prior years. 
+Therefore if a contract is underwritten on 31.12.N, the current estimate should not reflect 
+the paid expenses to settle the policy ( eg costs associated with pricing the product and 
+selling the product etc.), but should reflect future related expenses (eg overhead, claims 
+management expenses etc.). 
+Calculation Example (Non-life) 
+Allocate the overhead expenses to premiums/claims by determining a per policy/claim 
+expense on a going concern basis and multiply by the policies/claims. The result is that 
+overhead expenses are recognised consistently with premiums/claims.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 26 of 247 
+ 
+• Cash flows arising from all expenses stemming from premiums and on -going 
+administration of existing and future business falling within the contract boundary (a 
+non-exhaustive list of examples includes: administrative expenses, investment 
+management expense s, claim management expenses, acquisition expenses , 
+overhead expenses, commission payments, premium collection costs and investment-
+related expenses ). Acquisition costs should be included in the premium liabilities 
+valuation and not reflected as an asset on the balance sheet. 
+88. Two proxies are included for the purpose of calculating non -life premium liabilities.  
+IAIGs should indicate in the Template which proxy, if any, is used. 
+a. The first proxy attempts to approximate the concept of a current estimate, through the 
+application of a formula composed of several elements: 
+𝑃𝐿 = (𝐶𝑅 − 𝐴𝐸𝑅) × 𝑈𝑃𝑅 + (𝐶𝑅 − 1) × 𝑃𝑉𝐹𝑃 
+Where: 
+PL = Premium liability 
+CR = Combined ratio (including all expenses) 
+AER = Acquisition expense ratio 
+UPR = Unearned premium reserves (difference between written premiums for all 
+contracts on the balance sheet at the valuation date and earned premiums) 
+PVFP = Present value of future premiums (within contract boundaries) 
+b. A second proxy may be used if, for materiality or other reasons, the IAIG needs to  
+further simplify the calculation, in the case where the combined ratio is smaller than 1: 
+𝑃𝐿 = 𝑈𝑃𝑅 = 𝑃𝑟𝑒𝑚𝑖𝑢𝑚𝑠 𝑊𝑟𝑖𝑡𝑡𝑒𝑛 −  𝑃𝑟𝑒𝑚𝑖𝑢𝑚𝑠 𝐸𝑎𝑟𝑛𝑒𝑑 
+89. The current estimate for claim liabilities should reflect all cash flows arising from claims 
+that happened before the valuation date, including incurred but not reported (IBNR) claims. 
+90. Where a yield curve is needed as input to assess future returns on assets, IAIGs make 
+use of the relevant IAIS yield curves with specified adjustments. 
+5.2.1.2 Options and guarantees 
+91. The expected cash flows relating to options and guarantees embedded in the 
+insurance contract are taken into account for the calculation of the current estimate. All 
+payments connected to the risks insured, and profit participation payments in particular, are 
+taken into consideration for the calculation of the value of options and guarantees. 
+92. All options and guarantees are valued using arbitrage-free techniques17 based on the 
+adjusted yield curve as a proxy for the risk-free curve. 
+ 
+17 This implies in particular that where relevant, path dependency is taken into account in the valuation 
+of options and guarantees.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 27 of 247 
+ 
+ 
+5.2.1.3 Policyholder behaviour 
+93. Where relevant, expected cash flows reflect the contractual right of policyholders to 
+change the amount, timing or nature of their benefits. 
+94. The likelihood that policyholders will exercise contractual options, including lapses and 
+surrenders, is taken into account with a prospective view, considering in particular: 
+a. Past and expected behaviour of policyholders, considering also their reaction to 
+management actions; 
+b. How beneficial the exercise of opt ions would be to policyholders under specific 
+circumstances; and 
+c. Economic conditions. 
+95. To the extent that it is deemed representative of future expected behaviour, 
+assumptions on policyholder behaviour are based on appropriate statistical and empirical 
+evidence. 
+96. The assumptions concerning policyholder behaviour are consistent with the assumed 
+investment returns and the yield curves specified by the IAIS. 
+5.2.1.4 Future discretionary benefits 
+97. Future discretionary benefits (FDB) are comprised of all non -guaranteed amo unts, 
+including those bonuses linked to a legal or contractual obligation to distribute a portion of the 
+IAIG’s financial/underwriting profits to policyholders. 
+98. The current estimate recognises FDB expected to be paid consistently with expected 
+future developments, the economic scenarios on which the liability valuation is based and 
+policyholders’ reasonable expectations. 
+99. The projection of FDB is also consistent with the yield curve applicable to the contract, 
+as well as with the modelling of policyholder behaviour as described in Section 5.2.1.3. 
+Example 
+For participating products that have benefits paid linked to the investment returns of the 
+IAIG’s asset portfolio, currently held assets should be reflected in the projection of 
+participating cash flows. As new investments occur in the projection, these new investments 
+should be assumed to earn a yield consistent with the prescribed discount curve. As a result, 
+the asset portfolio rate will begin at the IAIG’s current assumed book port folio rate used in 
+the calculation of participating cash flows and converge with the prescribed yield curve as 
+inforce assets mature and new investments are made. 
+Similarly, where stresses require valuations assuming a different yield curve, liability cash 
+flows should be re -projected to reflect convergence of the returns of the asset portfolio to 
+the prescribed stressed yield curve and participating cash flows should reflect the expected 
+amount of pass through that would occur under the stres s given the resulting portfolio 
+investment returns. 
+Example 
+Variable annuities may contain guaranteed living benefits (eg minimum maturity or 
+withdrawal benefits) tied to the performance of specific assets, which may cause a path 
+dependency of the liability cash flow.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 28 of 247 
+ 
+Consider a simplified example: assume a participating product passes through an IAIG’s 
+investment experience without a spread or guaranteed minimum crediting rate. Assume the 
+portfolio yield on a book basis of assets held at the valuation date is 5% and the prescribed 
+yield curve is consistent with a flat 2% for all years. 20% of the initial assets mature each 
+year until all starting assets have matured by the end of year 5. Application may look as 
+follows: 
+Year 1 2 3 4 5 6 7 8 
+Asset Book Portfolio Rate 5.0% 4.4% 3.9%  3.4%  2.9%  2.0%  2.0%  2.0%  
+Projected Liability Crediting 
+Rate 
+5.0%  4.4%  3.9%  3.4%  2.9%  2.0%  2.0%  2.0%  
+Prescribed Market 
+Rate/Discount Rate 
+2.0%  2.0%  2.0%  2.0%  2.0%  2.0%  2.0%  2.0%  
+*Note that based upon the rate of asset turn-over, the degree of cash flow matching and the type of assets held, the pattern 
+may evolve differently. 
+The initial asset portfolio rate turns over to the prescribed yield curve and the yield of assets 
+held at the valuation date is explicitly included. 
+ 
+5.2.2 Contract recognition, contract boundaries and time horizon 
+100. A contract is recognised when the IAIG becomes a party to that contact, until all 
+obligations related to that contract are extinguished. All contracts that are recognised at the 
+valuation date, and only those, are taken into account for the current estimate calculation. 
+101. The future premiums and associated claims and expenses linked to those recognised 
+contracts are taken into account up to each contract boundary. 
+102. The projection horizon used in the calculation of the current estimate should cover the 
+full lifetime of all the cash in - and out-flows required to settle the obligations (within contract 
+boundaries) related to recognised insurance and reinsurance contracts at the valuation date. 
+103. A contract is recognised and valued as soon as the IAIG becomes party to that 
+contract, without any possibility to amend or cancel it, even when the insurance coverage has 
+not yet started. 
+ 
+104. A contract is derecognised when all possible claims linked to this contract have been 
+completely settled, and all future cash-flows are nil. 
+105. Only those contracts recognised at the reporting date are taken into account in the 
+current estimate calculation; in particular, no future business is included in the calculation. 
+106. All obligations, including future premiums, relating to a recognised contract are taken 
+into account in the current estimate cash flow projection. However, future premiums (and 
+associated claims and expenses) beyond either of the following dates are not considered, 
+Example 
+Consider a contract providing health coverage starting on 1 March N+1. The contract has 
+been underwritten on 20 December N, with no possibility to change the terms of the 
+contracts before the coverage starts. On 31 December N, this contract should be  
+recognised in the balance sheet.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 29 of 247 
+ 
+unless the IAIG can demonstrate that they are able and willing to compel the policyholder to 
+pay the premiums: 
+a. The future date where the IAIG has a unilateral right to terminate the contract or reject 
+the premiums payable under the contract; 
+b. The future date where the IAIG has a unilateral right to amend the premiums or the 
+benefits payable under the contract in such a way that the premiums fully reflect the 
+risks. 
+107. For group policies, similar rules apply. If premiums can be amended unilaterally for the 
+entire portfolio in a way that fully reflects the risks of the portfolio, the second condition above 
+is considered to be met. 
+ 
+ 
+ 
+5.2.3 Data quality and setting of assumptions 
+108. The calculation of the current estimate is based on up-to-date and credible information 
+and realistic assumptions. The determination of the current estimate is objective, 
+comprehensive, and uses observable input data. 
+109. When selecting data for the calculation of the current estimate, IAIGs consider: 
+a. The quality of data based on the criteria of accuracy, c ompleteness and 
+appropriateness; 
+b. The use and setting of assumptions made in the collection and processing of data; and 
+Example 
+Consider an annually renewable life protection policy sold on a group basis. The IAIG 
+does not manage this portfolio on a contract-by-contract basis, but can freely adjust the 
+premiums for the entire portfolio at the policy anniversary date, to ful ly reflect the risks 
+stemming from that portfolio. In this case, the conditions defined in paragraph 106 are 
+deemed to have been met. The calculatio n of current estimates should not include any 
+premiums beyond the next future anniversary date where such adjustment is possible, 
+along with the related claims and expenses. 
+Example 
+Consider a whole life policy, with a level premium. According to the terms of the insurance 
+contract, the IAIG cannot reject any premium, and the premium is constant throughout 
+the life of the contract. Therefore, all (probability -weighted) future premiums  of this 
+contract should be taken into account in the insurance liabilities, along with the related 
+claims and expenses. 
+Example 
+Consider a health policy (medical expenses), starting on 1 July N, with a premium paid 
+monthly. Premium indexation is possible at each anniversary date, and the IAIG has no 
+right to cancel the policy during the first 12 months. On 31 December N, insurance 
+liabilities should include 6 months of future premiums (January – June N+1), along with 
+the related claims and expenses.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 30 of 247 
+ 
+c. The frequency of regular updates and the circumstances that trigger additional 
+updates. 
+110. When only limited or unreliable data are available from the IAIG’s own experience, the 
+IAIG shall supplement its own data with data from other sources. When the characteristics of 
+the portfolio differ from those of the population represented in the external data used, the 
+external data are adjusted in order to ensure consistency with the risk characteristics of the 
+IAIG’s portfolio. 
+111. The assumptions used to calculate the  current estimate reflect current expectations 
+based on all information available. This requires an assessment of expected future conditions, 
+in particular as soon as: 
+a. There is evidence that historical trends will not continue, that new trends will emerge 
+or that economic, demographic and other changes may affect the cash flows that arise 
+from the existing insurance contracts. 
+b. There have been changes in underwriting procedures and claims management 
+procedures that may affect the relevance of historical data to the portfolio of insurance 
+contracts. 
+c. Historical data do not capture types of events that may have an impact on the current 
+estimate. 
+5.2.4 Management actions 
+112. The current estimate calculation may recognise management actions when such 
+actions are objective, realistic and verifiable. Management actions recognised in the 
+calculation cannot be contrary to the IAIG’s obligations to policyholders or to legal provisions 
+applicable to the IAIG. 
+113. The management actions recognised for the calculation of the current estimate are 
+confined to decisions by the IAIG that have an impact on future bonuses or other discretionary 
+benefits for participating/profit sharing and adjustable products. 
+114. Assumed future management actions are consistent with the IAIG’s current business 
+practice and business strategy unless the GWS is satisfied that there is sufficient evidence 
+that the IAIG will change its practices or strategy. 
+115. When calculating the current estimate, future management actions are taken into 
+account only if they can reasonably be expected to be carried out under the specific 
+circumstances to which they apply. 
+116. The assumptions about future management actions take into account the time needed 
+to implement them, as well as any resulting incremental expenses. 
+5.2.5 Discounting  
+5.2.5.1 Determination of yield curves for current estimate discounting 
+117. In order to calculate a current estimate, insurance liabilities are discounted using an 
+adjusted yield curve. The adjusted yield curve is based on: 
+a. Risk adjusted liquid interest rate swaps or government bonds (risk -free yield curve); 
+and  
+b. An adjustment.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 31 of 247 
+ 
+5.2.5.2 Determination of the risk-free yield curve 
+118. The risk-free yield curve is determined based on a three-segment approach:  
+a. Segment 1: based on market information from government bonds or swaps, including 
+a credit risk correction, where necessary; 
+b. Segment 2: extrapolation between the first and third segments; and 
+c. Segment 3: based on a stable currency specific long -term forward rate (LTFR), to 
+which a spread is added in order to represent the expected spread that may be earned 
+from reinvestments in the long-term. 
+119. For each currency, the transition from the first to the second segment occurs at the 
+last maturity for which market information can be observed in deep, liquid and transparent 
+financial markets (the last observed term or LOT). 
+120. For each currency, the LTFR is the sum of an expected real interest rate and an 
+inflation target. 
+121. For the purpose of determining the expected real interest rate, jurisdictions are 
+allocated according to areas that share  common macroeconomic characteristics. The same 
+expected real interest rate is used for all currencies within a given area. For each area, the 
+expected real interest rate is based on a simple average of observed real interest rates over 
+a certain period of time. 
+122. The two components of the LTFR are reviewed annually, in order to reflect potential 
+changes in macroeconomic expectations. However, the magnitude of annual changes to the 
+LTFR is capped in order to mitigate its potential volatility. 
+123. For each currency, the risk-free curve is determined by the relevant IAIS Member for 
+that currency, based on the quantitative parameters and guidance provided by the IAIS. 
+124. For all currencies, the start of the third segment as referred to in paragraph 118 is the 
+later of the following: 
+• 30 years after the Last Observed Term (LOT); and 
+• 60 years. 
+125. The list of currencies for which a risk-free yield curve is calculated and the associated 
+observed instruments and LOT are provided in Table 3.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 32 of 247 
+ 
+Table 3: List of currencies and associated instruments and LOT 
+Currency Observed 
+Instrument LOT (years) 
+Long-term 
+Forward 
+Rate 
+AUD Australian Dollar Government Bonds 30 3.8% 
+BRL Brazilian Real Government Bonds 10 7.0% 
+CAD Canadian Dollar Government Bonds 30 3.8% 
+CHF Swiss Franc Government Bonds 20 2.8% 
+CLP Chilean Peso Swaps 10 5.0% 
+CNY Yuan Renminbi Government Bonds 10 6.0% 
+COP Colombian Peso Swaps 10 6.0% 
+CZK Czech Koruna Swaps 15 3.8% 
+DKK Danish Krone Swaps 20 3.8% 
+EUR Euro Swaps 20 3.8% 
+GBP Pound Sterling Swaps 50 3.8% 
+HKD Hong Kong Dollar Swaps 15 4.4% 
+HUF Forint Government Bonds 15 6.0% 
+IDR Rupiah Swaps 10 8.0% 
+ILS New Israeli Shekel Swaps 20 4.4% 
+INR Indian Rupee Swaps 10 7.0% 
+JPY Yen Government Bonds 30 3.8% 
+KRW Won Government Bonds 20 4.4% 
+MXN Mexican Peso Government Bonds 20 5.0% 
+MYR Malaysian Ringgit Government Bonds 15 5.0% 
+NOK Norwegian Krone Swaps 10 3.8% 
+NZD New Zealand Dollar Swaps 20 4.8% 
+PEN Sol Swaps 10 6.0% 
+PHP Philippine Peso Swaps 10 7.0% 
+PLN Zloty Government Bonds 10 5.0% 
+RON Romanian Leu Government Bonds 10 5.0% 
+RUB Russian Ruble Swaps 10 7.0% 
+SAR Saudi Riyal Swaps 15 6.0% 
+SEK Swedish Krona Swaps 10 3.8% 
+SGD Singapore Dollar Government Bonds 20 3.8% 
+THB Baht Government Bonds 10 5.0%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 33 of 247 
+ 
+TRY Turkish Lira Government Bonds 10 7.0% 
+TWD New Taiwan Dollar Government Bonds 10 4.4% 
+USD US Dollar Government Bonds 30 3.8% 
+ZAR Rand Government Bonds 30 7.0% 
+ 
+126. The LTFR is the sum of the following two components: 
+a. The expected real interest rate, computed as the simple arithmetic mean of annual real 
+interest rates. Annual real rates 𝑟 are calculated as: 
+𝑟 = 𝑠ℎ𝑜𝑟𝑡 𝑡𝑒𝑟𝑚 𝑛𝑜𝑚𝑖𝑛𝑎𝑙 𝑟𝑎𝑡𝑒 − 𝑖𝑛𝑓𝑙𝑎𝑡𝑖𝑜𝑛 𝑟𝑎𝑡𝑒
+1 + 𝑖𝑛𝑓𝑙𝑎𝑡𝑖𝑜𝑛 𝑟𝑎𝑡𝑒  
+The expected real interest rate is rounded to the nearest five basis points. 
+b. The expected inflation target, computed as follows: 
+i. For currencies for which the central bank has announced an inflation target, 
+the expected inflation is based on that inflation target. In this case the expected 
+inflation rate is: 
+▪ 1%, where the inflation target is lower than or equal to 1%; 
+▪ 2%, where the inflation target is higher than 1% and lower than 3%; 
+▪ 3%, where the inflation target is higher o r equal to 3% and lower than 
+4%; and 
+▪ 4%, otherwise. 
+ii. For currencies for which the central bank has not announced an inflation target, 
+the expected inflation rate is set to 2%. However, where past inflation 
+experience and projection of inflation both clearly indicate that the inflation in a 
+currency area is materially higher or lower than 2%, the expected inflation rate 
+is chosen in accordance with those indicators. 
+127. In order to determine the expected real interest rate, countries are grouped in the 
+following three geographical areas: 
+a. Geographical area 1, comprised of the following currency areas : AUD, CAD, CHF, 
+CZK, DKK, EUR, GBP, JPY, NOK, NZD, SEK, SGD, USD; 
+b. Geographical area 2, comprised of the following  currency areas: HKD, ILS, KRW, 
+TWD; 
+c. Geographical area 3, comprised of all other currency areas. 
+128. The value of the expected real interest rate component is: 
+a. 1.8% for geographical area 1; 
+b. 2.4% for geographical area 2; and 
+c. 3.0% for geographical area 3.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 34 of 247 
+ 
+129. The maximum annual change to the LTFR is limited to 15 bps. Th e LTFR is changed 
+according to the following formula: 
+𝐿𝑇𝐹𝑅𝑡 = {
+𝐿𝑇𝐹𝑅𝑡−1 + 15𝑏𝑝𝑠, 𝑖𝑓 𝐿𝑇𝐹𝑅𝑡
+∗ ≥ 𝐿𝑇𝐹𝑅𝑡−1 + 15𝑏𝑝𝑠
+𝐿𝑇𝐹𝑅𝑡−1 − 15𝑏𝑝𝑠, 𝑖𝑓 𝐿𝑇𝐹𝑅𝑡
+∗ ≤ 𝐿𝑇𝐹𝑅𝑡−1 − 15𝑏𝑝𝑠
+𝐿𝑇𝐹𝑅𝑡
+∗, 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒
+ 
+where: 
+• 𝐿𝑇𝐹𝑅𝑡  denotes the LTFR of year 𝑡, after limitation of the annual change; 
+• 𝐿𝑇𝐹𝑅𝑡−1 denotes the LTFR of year 𝑡 − 1, after limitation of the annual change; and 
+• 𝐿𝑇𝐹𝑅𝑡
+∗ denotes the LTFR of year 𝑡, before limitation of the annual change. 
+130. The following sprea d over the LTFR is added to all LTFR calculated according to 
+paragraphs 126 to 129 above: 
+a. 20 basis points for geographical area 1; 
+b. 25 basis points for geographical area 2; and 
+c. 35 basis points for geographical area 3. 
+5.2.5.3 Determination of the adjustment to the risk-free yield curve 
+131. The IAIS yield curves include an adjustment to the risk-free curves. This adjustment is 
+determined using the Three-Bucket Approach. 
+132. The Three-Bucket Approach classifies liabilities into the General Bucket, the Middle 
+Bucket and the Top Bucket, depending on the nature of the liabilities and the assets backing 
+these liabilities. A different yield curve adjustment is determined for each bucket. 
+5.2.5.3.1 Classification criteria 
+133. Insurance liabilities are eligible for the Top Bucket if they meet all of the following 
+criteria: 
+a. They belong to the category of life insurance and disability annuities in payment with 
+no cash benefits on withdrawal, taking into account e) below. 
+b. The portfolio of assets to cover the insurance liabilities is identified and, together with 
+the corresponding liabilities, it is managed separately, without being used to make 
+payments relating to other business of the IAIG.18 
+c. The expected cash flows of the identified portfolio of assets replicate the e xpected 
+cash flows of the portfolio of insurance liabilities in the same currency, up to the LOT 
+of the risk-free yield curve for the relevant currency. Any mismatch, addressed through 
+the carry forward of cash generated from excess of asset cash flows at previous 
+maturities, does not give rise to material risks. Carry forward of cash is limited to 10% 
+of the total undiscounted liability cash flows up to the LOT. Where insurance liabilities 
+ 
+18 For both the Top and Middle Buckets, the separate management of assets does not refer to a legal 
+ring fencing but to a portfolio segmentation of clearly identified assets that would support an identified 
+group of insurance liabilities over their lifetime. Should a portfolio be restructured within the entity, this 
+being exceptional, the assets contained therein can only be transferred to another portfolio when done 
+in conjunction with their corresponding liabilities. This does not preclude changes in investments within 
+a portfolio in the normal course of business.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 35 of 247 
+ 
+are backed with assets denominated in a different currency, those a sset cash flows 
+are taken into account in the cash flow testing, provided that the currency mismatch is 
+fully hedged and the cost of hedging is deducted from the asset cash flows. 
+d. The contracts underlying the insurance liabilities do not include future premiums. 
+e. The portfolio of insurance liabilities includes either no surrender option for the 
+policyholder or only a surrender option where the surrender value does not exceed the 
+value of the assets identified for this portfolio at the reporting date and at a ll future 
+points in time. 
+134. No unbundling is allowed when assessing eligibility for the Top Bucket. 
+135. Insurance liabilities are eligible for the Middle Bucket if they meet all of the following 
+criteria: 
+a. The portfolio of assets to cover the insurance liabilities is identified and, together with 
+the corresponding liabilities, is managed separately, without being used to cover 
+losses arising from other business of the IAIG.18  
+b. The portfolio of insurance liabilities include either no surrender option for the 
+policyholder or only a surrender option where the surrender value does not exceed the 
+value of the assets identified for this portfolio at the reporting date.  
+c. The ICS Lapse risk charge does not represent more than 5% of the current estimate 
+of the liabilities discounted using the risk-free yield curve. 
+d. The total market value of assets identified for this portfolio is, at the reporting date, 
+greater than the current estimate of the liabilities calculated using the risk -free yield 
+curve. For the calculation of the total market value of assets, all assets identified for 
+this portfolio are taken into account, irrespective of their classification in Table 4. 
+e. The contracts underlying the liabilities do not include future premiums or include only 
+future premiums that are contractually fixed. 
+136. No unbundling is allowed when assessing eligibility for the Middle Bucket. 
+137. Unless they are replicable by a portfolio of assets (as specified in Section 5.4), liabilities 
+that are not in the Top or Middle Buckets belong to the General Bucket. 
+138. IAIGs are requested to provide the additional information for portfolios reported in the 
+Middle Bucket in the table Bucketing of insurance portfolios  in the Template . IAIGs should 
+take the following into consideration when providing that information: 
+a. The value of included future premiums [column 10] is calculated using the risk -free 
+yield curve; 
+b. The percentage of future premium in assets (ie the percentage of cash flows that come 
+from premiums) [column 14] is computed using the undiscounted expected premium 
+cash flows and the undiscounted expected cash flows of eligible assets; and 
+c. The percentage of hedged cash flows post-haircut on assets [column 15] is computed 
+using the expected undiscounted cash flows.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 36 of 247 
+ 
+Figure 1: Example of additional information for portfolios reported in the Middle Bucket 
+ 
+5.2.5.3.2 Adjustments to the yield curve 
+5.2.5.3.2.1 Eligible investments 
+139. For the purpose of calculating the Top Bucket and Middle Bucket adjustments, the 
+eligibility of types of investments is specified in the following table: 
+Table 4: Eligibility of types of investment 
+Type of investment Eligible 
+Cash and other liquid assets not for investment purposes  (Excluded from portfolio) 
+Investment income receivable/accrued N 
+Fixed Interest Government Bonds  Y 
+Fixed interest Corporate Bonds  Y 
+Fixed Interest Municipal Bonds  Y 
+Variable Interest Government Bonds Y 
+Variable interest Corporate Bonds  Y 
+Variable Interest Municipal Bonds  Y 
+Convertible notes N 
+Residential Mortgage Loans Y 
+Non-residential Mortgage Loans Y 
+Other (non-mortgage) Loans  Y 
+Loans to policyholders Y 
+Residential Mortgage Backed Securities Y 
+Commercial Mortgage Backed Securities Y 
+Other structured securities  Y 
+Insurance Linked Securities  N
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 37 of 247 
+ 
+Equities N 
+Hedge Funds N 
+Private equity N 
+Real estate (for investment purposes) N 
+Infrastructure debt Y 
+Infrastructure equity N 
+Other investment assets N 
+ 
+140. When determining the spread adjustment for the Top Bucket, only assets in Table 4 
+may be used. However, for purposes of the cash flow test specified in paragraph 133c, assets 
+are not limited to those considered eligible in Table 4. 
+141. Assets backing unit-linked or separate account insurance liabilities are not taken into 
+account when those insurance liabilities are valued using the asset rep lication approach 
+presented in Section 5.4. 
+142. Government bonds include only debt instruments issued or guaranteed by central 
+governments (excluding exposures to municipal and other public sector entities). 
+143. Assets featuring call options (used at the discretion of the issuer) are ineligible to back 
+liabilities, unless it can be demonstrated that the exercise of the option does not imply a loss 
+to the IAIG and that the matching of the liabi lity cash flows can be maintained. For example, 
+this can be achieved by using the proceeds of the sale to buy a similar asset on the market 
+that enables the matching of cash flows to be maintained. 
+5.2.5.3.2.2 Top Bucket 
+144. The adjustment for the Top Bucket is based on the average spread above the risk-free 
+yield curve of the eligible assets, as listed in Table 4, identified by the IAIG to back the portfolio 
+of liabilities meeting the Top Bucket criteria. 
+145. The IAIG may identify different portfolios, which will lead to the calculation of 
+portfolio-specific adjustments. 
+146. A cap at the level of the ICS RC 4 spread applies for assets with a lower credit quality. 
+The ICS RC 4 cap is based on the spreads earned by the IAIG for ICS RC 4 rated assets 
+denominated in the same currency. Where no such assets exist, th e spread defined by the 
+IAIS for the Middle Bucket adjustment calculation is used. 
+147. The spread is adjusted for credit risk and any other risk, using the same risk correction 
+parameters as specified in paragraph 153. 
+148. For the Top Bucket, 100% of the spread adjustment is added to the risk -free rate to 
+discount insurance liabilities. 
+149. The spread adjustment computed according to paragraph 148 is reported as Spread 
+in the table Bucketing of insurance portfolios in the Template. 
+150. IAIGs use the relevant adjusted yield curves according to the currency of the insurance 
+liability cash outflows.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 38 of 247 
+ 
+151. Where insurance liabilities are backed with assets denominated in a different currency, 
+the spread adjustment for the currency of the liability includes spreads which may be earned 
+by the IAIG in those assets, provided that the currency mismatch is hedged. The cost of 
+hedging is deducted from the Top Bucket adjustment. 
+152. The spread adjustment determined according to this methodology is applied as a  
+parallel shift up to the run-off of the liabilities, which may be beyond the relevant LOT. 
+Figure 2: Example to assess the matching criterion for the Top Bucket eligibility 
+ 
+The test is performed up to the LOT. The total carry -forward used is 855 and the cumulative 
+liability cash flows are 4635, causing the test to be failed. 
+5.2.5.3.2.3 Middle Bucket 
+153. For the Middle Bucket, the IAIS provides spreads and risk corrections by credit quality, 
+duration and currency, which serve as a basis for the calculation of the Middle Bucket 
+adjustment. 
+154. The Middle Bucket spread adjustment is a group-wide adjustment calculated using the 
+Weighted Average of Multiple Portfolios (WAMP) approach based on  the eligible assets 
+backing the Middle Bucket liabilities. The Middle Bucket spread adjustment is currency specific 
+but not portfolio-specific; it is applied to all Middle Bucket portfolios in the same currency. 
+155. Where insurance liabilities are backed with assets denominated in a different currency, 
+the weighted average calculation of the spread adjustment for the currency includes spreads 
+earned by the IAIG in those assets, provided that the currency mismatch is hedged. The cost 
+of hedging is deducted from the adjustment to the spread recognised in the calculation of the 
+Middle Bucket adjustment. In case a rolling hedge strategy is in place , the cost of hedging is 
+deducted from the spread adjustment and an additional haircut of 20% is applied to the spread. 
+156. The spread adjustment is calculated according to the WAMP methodology, as 
+specified in the following paragraphs. 
+157. The 𝑊𝑎𝑚𝑝𝑠𝑝𝑟𝑒𝑎𝑑 for a given currency is calculated as follows: 
+𝑊𝑎𝑚𝑝𝑠𝑝𝑟𝑒𝑎𝑑 = 
+𝑤𝑔𝑜𝑣 × 𝑠𝑝𝑟𝑒𝑎𝑑𝑔𝑜𝑣 𝑎𝑓𝑡𝑒𝑟 𝑅𝐶 
++𝑤𝐼𝐶𝑆 𝑅𝐶1 × ( ∑ 𝑤𝑑𝑢𝑟𝑎𝑡𝑖𝑜𝑛 𝑏𝑎𝑛𝑑
+𝐼𝐶𝑆 𝑅𝐶1
+𝑑𝑢𝑟𝑎𝑡𝑖𝑜𝑛𝑠
+× 𝑠𝑝𝑟𝑒𝑎𝑑𝑑𝑢𝑟𝑎𝑡𝑖𝑜𝑛 𝑏𝑎𝑛𝑑
+𝐼𝐶𝑆 𝑅𝐶1 𝑎𝑓𝑡𝑒𝑟 𝑅𝐶) 
++𝑤𝐼𝐶𝑆 𝑅𝐶2 × ( ∑ 𝑤𝑑𝑢𝑟𝑎𝑡𝑖𝑜𝑛 𝑏𝑎𝑛𝑑
+𝐼𝐶𝑆 𝑅𝐶2
+𝑑𝑢𝑟𝑎𝑡𝑖𝑜𝑛𝑠
+× 𝑠𝑝𝑟𝑒𝑎𝑑𝑑𝑢𝑟𝑎𝑡𝑖𝑜𝑛 𝑏𝑎𝑛𝑑
+𝐼𝐶𝑆 𝑅𝐶2 𝑎𝑓𝑡𝑒𝑟 𝑅𝐶) 
++ ⋯
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 39 of 247 
+ 
++𝑤𝑁𝑜𝑛 𝑒𝑙𝑖𝑔𝑖𝑏𝑙𝑒 × 0 
+where: 
+- 𝑤𝑔𝑜𝑣is the weight of government bonds; 
+- 𝑤𝐼𝐶𝑆 𝑅𝐶𝑖is the weight of debt instruments belonging to ICS rating category i; 
+- 𝑤𝑑𝑢𝑟𝑎𝑡𝑖𝑜𝑛 𝑏𝑎𝑛𝑑
+𝐼𝐶𝑆 𝑅𝐶𝑖  is the weight of debt instruments that belong to ICS rating category i 
+within the considered duration band; 
+- 𝑤𝑛𝑜𝑛−𝑒𝑙𝑖𝑔𝑖𝑏𝑙𝑒 is the weight of non -eligible assets in the total portfo lio of assets for 
+that currency; 
+- 𝑠𝑝𝑟𝑒𝑎𝑑𝑔𝑜𝑣 𝑎𝑓𝑡𝑒𝑟 𝑅𝐶 is the spread after risk correction corresponding to government 
+bonds. When a government bond rate is used for the risk -free yield c urve, the 
+applied spread is nil; and 
+- 𝑠𝑝𝑟𝑒𝑎𝑑𝑑𝑢𝑟𝑎𝑡𝑖𝑜𝑛 𝑏𝑎𝑛𝑑
+𝐼𝐶𝑆 𝑅𝐶𝑖 𝑎𝑓𝑡𝑒𝑟 𝑅𝐶 is the spread after risk correction corr esponding to  debt 
+instruments that belong to ICS rating category i within the considered duration band. 
+158. Debt instruments in ICS RC 4 and lower, as well as unrated debt instruments, are 
+allocated to the ICS RC 4. 
+159. In the case of currency unions, the sovereign exposure (and the corresponding weight 
+in the WAMP calculation) is split by jurisdiction within the currency union. 
+160. The Total Observed Matching (𝑇𝑂𝑀) ratio is computed as follows: 
+𝑇𝑂𝑀 = min ( 𝑀 − 1
+min(𝐿𝑂𝑇, 𝑙𝑖𝑓𝑒𝑡𝑖𝑚𝑒 𝑜𝑓 𝑙𝑖𝑎𝑏𝑖𝑙𝑖𝑡𝑦) , 100%) 
+where 
+𝑙𝑖𝑓𝑒𝑡𝑖𝑚𝑒 𝑜𝑓 𝑙𝑖𝑎𝑏𝑖𝑙𝑖𝑡𝑦 is the maturity after which the insurance liabilities are not expected to 
+generate any cash flow, and M is the first maturity for which, under the cash flow test described 
+in paragraph 133.c, either the cash carry forward limit of 10% is breached or the remaining 
+cash becomes negative . For the purpose of determining M, asset cash flows in a different 
+currency than liability cash flows can be taken into consideration provided that either: 
+• the asset cash flows are fully hedged; or 
+• a rolling hedge is in place and the replacement frequency of the hedge is not less than 
+one month. In this case, a 20% haircut is applied on the asset cash flows. 
+The cost of hedging is deducted from the expected cash flows. 
+161. The final spread (𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝑀𝐵) applied to the yield curve is computed such that the 
+spread adjustment for the Middle Bucket is greater than or equal to the spread adjustment for 
+the General Bucket.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 40 of 247 
+ 
+𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝑀𝐵 = 80% × (1 − 𝑇𝑂𝑀) × 𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝐺𝐵
++ 90% × 𝑇𝑂𝑀 × max [𝑊𝐴𝑀𝑃𝑠𝑝𝑟𝑒𝑎𝑑, 80%
+90% × 𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝐺𝐵] 
+162. The value computed according to paragraph 161 is reported as Spread in the table 
+Bucketing of insurance portfolios. 
+163. The spread adjustment determined according to this methodology is applied as a 
+parallel shift up to year 𝑀. After that maturity, the spread adjustment is phased out in such a 
+way that the resulting spot curve remains above the spot curve for the corresponding General 
+Bucket. 
+Figure 3: Example to assess the matching criterion for the Middle Bucket eligibility 
+ 
+ 
+5.2.5.3.2.4 General Bucket 
+164. The spread adjustment for the General Bucket (𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝐺𝐵) is provided by the IAIS, 
+based on a representative portfolio that reflects the assets typically held by IAIGs in a 
+particular currency. 
+165. The spread adjustment includes a correction for credit risk and any other risk.  
+166. For corporate bonds, the aforementione d correction is derived from the annualised 
+cumulative default experience for a hypothetical 1 0-year bond, computed on the basis of 
+transition matrices. 
+167. For government bonds, the risk correction is determined depending on the data 
+underpinning the risk-free rate. Where risk -free rates are determined based on swap rates, 
+risks other than liquidity risk are assumed to represent 30% of the 10 -year average spread. 
+For currencies where risk-free rates are based on government bond rates, no risk correctio n 
+is applied. 
+168. 80% of the spread adjustment determined according to this methodology is applied as 
+a parallel shift up to the LOT. For Segments 2 and 3 of the adjusted yield curve, the same 
+Example 
+The test in Figure 3 is failed in year 15 (=𝑀). According to the assumption the LOT is 20 
+years and the lifetime of the liabilities 16 years.  
+𝑇𝑂𝑀 = min ( 15 − 1
+min(20,16) , 100%) = 87,5%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 41 of 247 
+ 
+extrapolation methodology as used for determining the risk -free yield curve is applied to the 
+adjusted yield curve. 
+169. IAIGs use the relevant adjusted yield curves according to the currency of the insurance 
+liability cash outflows. 
+5.2.5.3.3 Alternative adjustments for the General Bucket 
+170. IAIGs may use two alternative spread adjustment s for the calculation of the General 
+Bucket adjustment: 
+• One specific adjustment for cases where the same currency is shared among different 
+jurisdictions; and 
+• One specific adjustment for cases where the IAIG is materially invested in assets 
+denominated in a currency that is different from the liabilities they are backing. 
+171. Under those two mechanisms, IAIGs may replace the spreads used in the 
+determination of the spread adjustment for a given currency; the weights of the different asset 
+categories remain unchanged. 
+5.2.5.3.3.1 Shared currency mechanism 
+172. Where the same currency is shared among different jurisdictions, IAIGs may replace 
+the spreads provided by the IAIS for each Risk Category in that currency ( 𝑆𝑟𝑐𝑐𝑟𝑛𝑐𝑦) by the 
+spreads (𝑆𝑟𝑐 ) defined as follows: 
+If 
+𝑆𝑟𝑐𝑎𝑑𝑗𝑢𝑠𝑡𝑒𝑑 − 𝑆𝑟𝑐𝑐𝑟𝑛𝑐𝑦 ≥ 50𝑏𝑝𝑠 
+then 
+𝑆𝑟𝑐 = 𝑆𝑟𝑐𝑎𝑑𝑗𝑢𝑠𝑡𝑒𝑑 − 50𝑏𝑝𝑠 
+where: 
+𝑆𝑟𝑐𝑐𝑟𝑛𝑐𝑦 = spread for currency 𝑐𝑟𝑛𝑐𝑦 and Risk Category 𝑟𝑐, as provided by the IAIS 
+𝑆𝑟𝑐𝑎𝑑𝑗𝑢𝑠𝑡𝑒𝑑 = modified spread for Risk Category 𝑟𝑐, using a weighted average of the 
+spreads of the specific jurisdictions (within the common currency) to which the IAIG is 
+actually exposed 
+ 
+5.2.5.3.3.2 Foreign asset mechanism 
+173. IAIGs may replace the spreads provided by the IAIS for each Risk Category in that 
+currency (𝑆𝑟𝑐𝑐𝑟𝑛𝑐𝑦) by the spreads (𝑆𝑟𝑐 ) defined as follows: 
+If 
+ 
+Hedged eligible foreign currency denominated assets
+Total investments (excl. cash) converted into the currency of the liability  ≥ 5%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 42 of 247 
+ 
+then 
+𝑆𝑟𝑐 = 𝑆𝑟𝑐𝑐𝑟𝑛𝑐𝑦 + 50% ∗ (𝑆𝑟𝑐𝑎𝑑𝑗𝑢𝑠𝑡𝑒𝑑 − 𝑆𝑟𝑐𝑐𝑟𝑛𝑐𝑦) 
+where: 
+𝑆𝑟𝑐𝑐𝑟𝑛𝑐𝑦 = spread for currency 𝑐𝑟𝑛𝑐𝑦 and Risk Category 𝑟𝑐, as provided by the IAIS 
+𝑆𝑟𝑐𝑎𝑑𝑗𝑢𝑠𝑡𝑒𝑑 = modified spread including the extra spread that can be earned from the 
+hedged assets denominated in foreign currency that exceed the 5% threshold. Where 
+the 5% threshold is exceeded by a combination of exposures in multiple asset 
+categories, the threshold is proportionally allocated to the different asset categories. 
+5.3 Margin over Current Estimate (MOCE) 
+5.3.1 Definition and underlying principles 
+174. The MOCE is a margin added to the current estimate in order to achieve a market 
+adjusted value of insurance liabilities. The MOCE covers the inherent uncertainty in the cash 
+flows related to insurance obligations. As such, MOCE considers all uncertainties attached to 
+these obligations. 
+5.3.2 Calculation of the MOCE 
+175. The MOCE is calculated as a given percentile of the normal distribution characterised 
+by: 
+• A mean equal to the current estimate of life (and non-life) obligations; and  
+• A 99.5% percentile equal to the life (and non-life) risk charge. 
+176. The 85th percentile is used to compute the life component of the MOCE and the 65 th 
+percentile is used for the non-life component. 
+5.3.3 Interaction of MOCE with other components 
+177. All stress-based calculations include only current estimates for determining the pre - 
+and post-stress Net Asset Value (NAV), ie the MOCE remains constant during the stress. 
+Factors applied to insurance liabilities should only be applied to current estimates. MOCE is 
+neither deducted from the ICS capital requirement, nor added to qualifying capital resources. 
+5.4 Obligations replicable by a portfolio of assets 
+178. Where future cash flows associated with insurance obligations can be replicated 
+reliably, using financial instruments for which a market value is observable, the value of 
+insurance liabilities associated with those future cash flows is determined on the basis of the 
+market value of those financial instruments. 
+179. Insurance liabilities are considered to be replicated reliably when their cash flows are 
+in every circumstance precisely matched by cash flows of corresponding assets. 
+180. The cash flows associated with insurance liabilities are not considered to be reliably 
+replicated when: 
+a. Policyholders can exercise contractual options, including lapses and surrenders.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 43 of 247 
+ 
+b. Obligations depend on mortality, disability, sickness and morbidity rates. 
+c. Expenses associated with insurance obligations cannot be reliably replicated. 
+181. Financial instruments used to replicate insurance liabilities must be traded in deep, 
+liquid and transparent markets.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 44 of 247 
+ 
+6 Reference ICS: Qualifying Capital Resources 
+ 
+Relevant Worksheets in Template: GAAP and ICS Balance Sheets 
+Financial Instruments 
+Tier 2 Non-Paid-Up 
+ 
+6.1 General considerations 
+182. Qualifying capital resources are determined on a consolidated basis for all financial 
+activities and comprise qualifying financial instruments and capital elements other than 
+financial instruments. 
+183. Qualifying capital resources are subject to adjustments, exclusions and deductions, as 
+defined in Section 6.4. Any item deducted from capital resources should be excluded from the 
+calculation of the ICS capital requirement. 
+184. The ICS identifies two tiers of capital: 
+• Tier 1 capital resources comprise financial instruments and capital elements, other 
+than financial instruments, that absorb losses on a going-concern basis and in winding-
+up; and 
+• Tier 2 capital resources comprise financial instruments and capital elements, other 
+than financial instruments, that absorb losses only in winding-up. 
+185. In determining qualifying capital resources, the ICS differentiates between mutual and 
+non-mutual IAIGs. 
+6.2 Classification of financial instruments 
+186. Financial instruments are classified into those two tiers based on consideration of a 
+number of criteria, focused on five key principles:  
+• loss absorbing capacity (on a going-concern basis and/or in winding-up); 
+• subordination; 
+• availability to absorb losses; 
+• permanence; and 
+• absence of both encumbrances and mandatory servicing costs. 
+187. Within each tier, financial instruments are allocated into two categories with differing 
+qualifying criteria: 
+• Tier 1: 
+o Tier 1 financial instruments for which there is no limit (Tier 1 Unlimited); and 
+o Tier 1 financial instruments for which there is a limit (Tier 1 Limited). 
+• Tier 2: 
+o Tier 2 Paid-Up financial instruments (Tier 2 Paid-Up); and
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 45 of 247 
+ 
+o Tier 2 Non-Paid-Up financial instruments (Tier 2 Non-Paid-Up). 
+188. Table 5 presents the features of Tier 1 Unlimited, Tier 1 Limited and Tier 2 Paid -Up 
+capital with respect to the classification of financial instruments against the five key principles: 
+Table 5: Key Principles for tiering in capital resources 
+Key Principles Tier 1 Unlimited Tier 1 Limited Tier 2  
+Paid-Up 
+Loss absorbing 
+capacity 
+Absorbs losses on 
+both a going -concern 
+basis and in winding -
+up. 
+Absorbs losses on 
+both a goi ng-concern 
+basis and in winding -
+up. 
+Absorbs losses in 
+winding-up. 
+Level of 
+subordination 
+Most subordinated (ie 
+is the first to absorb 
+losses); subordinated 
+to policyholders, other 
+non-subordinated 
+creditors, holders of 
+Tier 2 capital 
+instruments, and 
+holders of Tier 1 
+Limited capital 
+instruments. 
+Subordinated to 
+policyholders, other 
+non-subordinated 
+creditors and holders 
+of Tier 2 capital 
+instruments. 
+Subordinated to 
+policyholders and 
+other non -
+subordinated 
+creditors. 
+ 
+Availability to 
+absorb losses 
+Fully paid-up Fully paid-up Fully paid-up 
+Permanence Perpetual Perpetual  
+For mutuals, this 
+requirement is 
+considered to be met 
+if redemption at 
+maturity (for a dated 
+instrument) can be 
+deferred, subject to 
+supervisory approval 
+or a lock -in feature, 
+subject to a 
+sufficiently long initial 
+maturity. 
+No incentives to 
+redeem permitted. 
+Issuer may redeem 
+after a minimum 
+specified period after 
+issuance or 
+repurchase at any 
+time, subject to prior 
+supervisory approval. 
+Sufficiently long initial 
+maturity– may have 
+incentives to redeem 
+but first occurrence 
+deemed to be 
+“effective maturity 
+date”. 
+Absence of both 
+encumbrances 
+IAIG has full 
+discretion to cancel 
+distributions (ie 
+IAIG has full 
+discretion to cancel 
+distributions (ie 
+The instrument is 
+neither undermined 
+nor rendered
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 46 of 247 
+ 
+Key Principles Tier 1 Unlimited Tier 1 Limited Tier 2  
+Paid-Up 
+and mandatory 
+servicing costs 
+distributions are non-
+cumulative); 
+The instrument is 
+neither undermined 
+nor rendered 
+ineffective by 
+encumbrances. 
+distributions are non -
+cumulative); 
+The instrument is 
+neither undermined 
+nor rendered 
+ineffective by 
+encumbrances. 
+ineffective by 
+encumbrances. 
+ 
+189. With regard to Tier 2 Paid -Up capital, the form of subordination can be either 
+contractual or str uctural. Structurally subordinated instruments are subject to certain 
+conditions that capture the specificities of structural subordination. 
+190. The recognition of Tier 2 Non -Paid Up capital is restricted to mutual IAIGs. It is also 
+required that once these items become paid-up, the resulting capital element will possess the 
+features required of Tier 1 or Tier 2 Paid-Up capital resources. 
+191. The list of criteria and conditions associated with each tier of capital is in Sections 6.2.1 
+to 6.2.5 below. 
+192. The worksheet Financial Instruments in the Template features three tables for the 
+reporting and assessment of paid-up financial instruments: 
+a. The ICS Classification Table provides the ICS classification result for each financial 
+instrument reported, along with its qualifying amount. This table also performs 
+amortisation calculations for financial instruments that are to be amortised over the 
+final five years to their effective maturity dates. The columns in this table source 
+information from the Assessment Table described in point c) below. 
+b. The Data Input Table is used to collect information required to perform an assessment 
+against ICS qualifying criteria. IAIGs should report all relevant information on financial 
+instruments issued to external investors in the Data Input Table . IAIGs should not 
+include any intra-group financial instruments issued between entities included within 
+the scope of the group, ie involving transactions that are eliminated in the consolidated 
+ICS balance sheet. 
+c. The Assessment Table contains calculations to perform an automated assessment of 
+each instrument against the ICS qualifying criteria, based on the data submitted for 
+each financial instrument in the Data Input Table . The results are used to populate 
+entries in the ICS Classification Table. 
+193. In the Data Input Table, IAIGs should provide all relevant information pertaining to paid-
+up financial instruments issued by the IAIG and included on its consolidated balance sheet as 
+of the reporting date. This includes senior debt issued by a holding company and any ordinary 
+shares issued by consolidated subsidiaries to third parties. A separate worksheet Tier 2 Non-
+Paid-Up is dedicated to information on non-paid-up capital items. Any instruments issued after 
+the balance sheet reporting date should not be reported within the Templ ate. Each financial 
+instrument reported is assessed against the qualifying criteria described in Sections 6.2.1 to 
+6.2.5 below.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 47 of 247 
+ 
+194. IAIGs should use a separate row to report information on each financial instrument (ie 
+one row for each instrument). For the avoidance of doubt, where an IAIG has issued multiple 
+instruments with largely similar features, IAIGs should not use a single row to report that 
+information; in that case, IAIGs should split the data in to multiple entries to ensure that 
+accurate information is provided in respect of each specific instrument. 
+195. The information reported in the Data Input Table should reflect the contractual terms 
+and conditions of the financial instrument, unless otherwise i ndicated. Some data inputs will 
+require IAIGs to provide information on the features of the regulatory and/or legal environment 
+in which an instrument was issued (eg in the case of structural and contractual subordination). 
+Where inputs relate to the features of the regulatory and/or legal environment, rather than the 
+terms and conditions of the financial instrument, this is clearly indicated. 
+196. Many of the columns in the Data Input Table utilise drop-down lists in order to collect 
+information in a specific format. IAIGs should not amend the list of available items under any 
+circumstances. If IAIGs have issued financial instruments with features that cannot be 
+accurately captured within the Template, this should be indicated in the Questionnaire.  
+197. Financial in struments may take a number of different forms including common or 
+ordinary shares, preferred shares, hybrid capital instruments, subordinated debt, surplus 
+notes, etc. In the Data Input Table, the column labelled Type of Financial Instrument contains 
+a dr op-down list of different types of financial instruments. For each financial instrument 
+reported, IAIGs should select the category that best describes the instrument.  
+198. For each financial instrument reported, IAIGs should indicate the type of issuing entity 
+in column Type of issuing entity of the Data Input Table and whether it is a mutual entity in the 
+adjacent column. In instances where more than one description may apply to the issuing entity, 
+please select the one that is considered most appropriate. The types of issuing entities listed 
+in the drop-down list are as follows: 
+a. Parent non-insurance holding company – this refers to a parent holding company (ie 
+an ultimate or intermediate parent) that does not undertake insurance activities; 
+b. Parent insurance co mpany – ie ultimate or intermediate parent that undertakes 
+insurance activities; 
+c. Insurance subsidiary – this refers to controlled subsidiaries of a parent that undertake 
+insurance activities; 
+d. Special purpose vehicle; 
+e. Banking subsidiary 
+f. Other financial subs idiary – this refers to controlled subsidiaries of a parent that 
+undertake financial activities other than insurance or banking; 
+g. Other. 
+199. Mutual IAIGs should also provide the information whether redemption at maturity is 
+subject to prior supervisory approval. 
+200. IAIGs should provide information on the subordination of financial instruments in 
+columns labelled Subordination Information of the Data Input Table . In particular, for each 
+financial instrument IAIGs should specify the degree of subordination (ie to whom the 
+instrument is subordinated) and the type of subordination (eg contractual or structural).
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 48 of 247 
+ 
+201. IAIGs should provide details about whether the financial instrument reported is treated 
+as a liability in any applicable jurisdictional insolvency law tests that determine whether the 
+issuer’s liabilities exceed its assets. That is, whether the financial instrument would contribute 
+to the firm’s insolvency in any applicable solvency test. 
+202. IAIGs should provide relevant information on key dates (eg issue date, maturity date, 
+first ordinary call date, etc.) in columns labelled Date Information of the Data Input Table . 
+These columns have been pre -set to date format in Excel and when completed correctly 
+should display the information in long dat e format (eg in Europe, 22/06/2015 should read as 
+22 June 2015; the same output should be obtained by reporting 06/22/2015 in North America). 
+The entry “various” does not constitute a valid entry for reporting the issue date of multiple 
+financial instruments with similar features (eg several common/ordinary share issuances). In 
+this case, IAIGs should split the data into multiple entries by issue date. For perpetual 
+instruments, the text “Perpetual” should be entered in column Date Information – Maturity of 
+the Data Input Table. When providing information in column First Ordinary Call  of the Data 
+Input Table, IAIGs should provide information in respect of ordinary calls that fall after the 
+issue date, rather than extraordinary call rights. Data on extraordin ary call rights should be 
+provided in the adjacent columns clearly marked for that purpose.  
+203. The existence of a principal loss-absorbency mechanism (ie write-down or conversion 
+feature) in the terms of an instrument should be provided in the column labelled PLAM of the 
+Data Input Table. 
+204. The Data Input Table  contains two columns labelled Prior Supervisory Approval  to 
+collect information on requirements for supervisory approval of the redemption or repurchase 
+of a financial instrument prior to contractual maturity. Redemption refers to the repayment, in 
+whole or in part, of the principal of a financial instrument at the issuer’s option at any time prior 
+to or at contractual maturity. This redemption right (ie call option) resides only with the issuer. 
+Repurchase refers to any purchase of an IAIG’s own financial instruments (eg an open market 
+purchase of an IAIG’s own financial instrument or through a tender offer by private agreement 
+with investors). The table also contains a series of columns to collect information on financial 
+instruments and supervisory conditions where supervisory approval is not a feature of the 
+regulatory jurisdiction in which an instrument was issued. 
+205. IAIGs should provide information on any lock -in features specific to a financial 
+instrument, or any other special conditions that might apply to a financial instrument, in 
+particular as it nears maturity in the column labelled Special conditions of the Data Input Table. 
+A lock-in feature typically involves the suspension of distributions and/ or redemption where 
+there is non-compliance with a regulatory capital requirement and is usually specified in the 
+terms and conditions of a financial instrument. Another common feature is amortisation of the 
+amount of an instrument that can be recognised a s a qualifying capital resource as the 
+instrument approaches its maturity date. Amortisation is normally a feature of the local 
+regulatory jurisdiction rather than being specified within the terms of an instrument. 
+206. For dated financial instruments that do n ot have a lock -in feature, the amount 
+recognised as a qualifying capital resource will be amortised from 100% to 0% on a straight -
+line basis in the final five years prior to its effective maturity (defined in paragraph 216 below). 
+The amortisation calculation is applied automatically in the ICS Classification Table. 
+207. For each financial instrument reported, IAIGs should provide the par (face) value of 
+the issued instrument in the column labelled Face Amount (Par Value) of the Data Input Table,
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 49 of 247 
+ 
+and any share premium associated with the instrument in the column labelled Share Premium 
+associated with the issuance. IAIGs should report the gross par (face) value, ie without making 
+deduction for treasury stock or direct investments in own financial instruments, as otherwise, 
+this would lead to a double deduction from capital resources. This information is captured and 
+applied as a deduction elsewhere in the Template (treasury stock should be reported in 
+worksheet GAAP and ICS Balance Sheets and direct investments in own financial instruments 
+should be reported in the worksheet ICS Summary ). In situations where the IAIG has 
+redeemed or repurchased a portion of a financial instrument, the amount reported should be 
+the par value of the outstanding portion of the instrument. In cases where the IAIG is required 
+by its local regulator to amortise the financial instrument’s par value included within regulatory 
+capital, the amount reported should be the par value before amortisation (the ICS amortisation 
+is then calculated automatically in the Template). 
+208. For each debt instrument (includi ng senior debt, subordinated debt, hybrids, etc.), 
+IAIGs should provide the value of the corresponding liability recognised on the balance sheet 
+in columns labelled Debt instrument – Balance sheet values of the Data Input Table. For each 
+instrument, IAIGs should provide two different balance sheet values, corresponding to the 
+valuation in the GAAP and ICS balance sheets. The MAV amounts reported should follow the 
+valuation approaches specified in Section 5. Furthermore, the balance sheet values of debt 
+financial instruments reported in the worksheet Financial Instruments should be consistent 
+with the information reported for debt instruments and borrowings in the worksheet GAAP and 
+ICS Balance Sheets. 
+209. In the Data Input Table, information should be provided on whether an expectation of 
+cancellation or repurchase has been created in the terms of an instrument or by the IAIG. For 
+example, an expectation would be created if the IAIG has made a communication to investors 
+that could reasonably be considered as an indication that the duration of an instrument will be 
+shorter than its contractual maturity (ie the IAIG has indicated intent to repurchase the 
+instrument or exercise a contractual right to call the instrument). Such communication could 
+take place either within the terms and conditions of an instrument, within other investor facing 
+documentation or through other formal communication with investors. For the avoidance of  
+doubt, call options and incentives to redeem are not relevant to this data item (ie the presence 
+of a call option and/or an incentive to redeem within the terms and conditions of a financial 
+instrument does not necessarily mean that a n IAIG should report “Y” for this specific data 
+item). Information on call options and incentives to redeem is collected elsewhere in the Data 
+Input Table. 
+210. IAIGs should provide information on the presence of any acceleration clauses within 
+the legal terms and conditions of a financial instrument in the column Acceleration Clauses of 
+the Data Input Table . Acceleration clauses provide for acceleration of payments (eg 
+distributions, redemption amounts) owed in respect of a financial instrument. 
+211. Columns labelled SPV Issuance of the Data Input Table apply specifically to financial 
+instruments issued by a special purpose vehicle (SPV). 
+212. The Assessment Table contains formula-based assessments against the qualifying 
+criteria for each financial instrument reported. These columns are populated automatically and 
+IAIGs should not overwrite these by manually entering information in these columns. Each 
+column header provides a description of the criterion tested.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 50 of 247 
+ 
+213. The outcome of the assessment against each criterion is specified as “Pass”, “Fail” or 
+“ERROR” (or “N/A” if not applicable). A minimum amount of information should be provided 
+by IAIGs in the Data Input Table in order for the automated classification logic to accurately 
+determine whether a financial instrument complies with a given criterion. The assessment will 
+return “ERROR” if the information provided is insufficient, or is entered in an incorrect format. 
+Such error messages can be used by IAIGs to identify whether amendments or additional data 
+need to be provided in the Data Input Table. IAIGs should submit completed Templates that 
+are free of error messages. If an IAIG cannot determine the reason behind an error message 
+then this should be reported in the Questionnaire. 
+6.2.1 Tier 1 unlimited financial instruments 
+214. Financial instruments that meet all of the following criteria qualify as ICS Tier 1 
+unlimited capital resources: 
+a. The instrument is fully paid-up. 
+b. The instrument is in the form of issued capital such that it is the first instrument to 
+absorb losses as they occur. 
+c. The instrument represents the most subordinated claim in a winding -up of the IAIG 
+where the holder has a claim on the residual assets proportional to its share of the 
+issued share capital after all other claims have been repaid, and whic h is not subject 
+to a fixed or capped amount. 
+d. The instrument is perpetual (ie it does not have a maturity date). 
+e. The principal amount of the instrument is not repaid outside winding-up, other than by 
+means of discretionary repurchase permitted under national law. 
+f. There is not an expectation created by the IAIG at issuance, through the terms of the 
+instrument or otherwise, that the IAIG will repurchase or cancel the instrument. 
+g. There are no circumstances under which a distribution is obligatory (non-payment of a 
+distribution is, therefore, not an event of default). 
+h. Distributions are paid out of distributable items, including retained earnings. 
+i. The instrument is neither undermined nor rendered ineffective by encumbrances. In 
+particular, the priority of claims is not compromised by guarantees or security 
+arrangements given by either the IAIG or a related entity over which the IAIG exercises 
+control or significant influence, for the benefit of investors. 
+j. Neither the IAIG nor a related entity over which the IAIG exercises control or significant 
+influence has purchased the instrument, nor has the IAIG directly or indirectly funded 
+the purchase of the instrument. 
+k. The paid-in amount is recognised as equity capital (ie is not recognised as a liability) 
+where a determination that liabilities exceed assets constitutes a test of insolvency. 
+6.2.2 Tier 1 limited financial instruments 
+215. Financial instruments that do not qualify as Tier 1 unlimited capital resources, but meet 
+all of the following criteria, qualify as ICS Tier 1 limited capital resources: 
+a. The instrument is fully paid-up.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 51 of 247 
+ 
+b. The instrument is subordinated to policyholders and other non-subordinated creditors 
+and holders of Tier 2 financial instruments but may rank senior to holders of Tier 1 
+unlimited financial instruments. 
+c. The instrument is perpetual (ie it does not have a ma turity date). For mutual IAIGs 19, 
+the requirement for an instrument to be perpetual is considered to be met if redemption 
+at maturity (for a dated instrument) can be deferred subject to supervisory approval or 
+a lock-in20 feature, and where an instrument has an initial maturity of at least ten years. 
+d. The instrument does not contain any incentive to redeem, such as a step-up. 
+e. The instrument is only callable at the option of the issuer after a minimum of five years 
+from the date of issue and prior supervisory  approval is required for any redemption. 
+However, extraordinary calls (defined as tax and regulatory event calls) are permitted 
+at any time after issuance of an instrument, subject to prior supervisory approval, and 
+provided the IAIG was not in a position to anticipate such a call at the time of issuance. 
+Also, an IAIG may not exercise the extraordinary call within the first five years of 
+issuance unless, prior to or concurrent with the exercise of the call, it replaces the 
+called instrument with capital of the same or better quality, and the replacement of the 
+called instrument is made on terms that are sustainable for the income capacity of the 
+IAIG. 
+f. The instrument may be repurchased by the issuer at any time with prior supervisory 
+approval. 
+g. There is not an expectation created by the IAIG, through the terms of the instrument 
+or otherwise, that the IAIG will repurchase the instrument or exercise any right to call 
+the instrument, or that the repurchase or redemption will receive supervisory approval. 
+h. The IAIG has full discretion at all times to forego or cancel distributions (ie dividends 
+and coupon payments are non -cumulative). The IAIG’s obligation to pay missed 
+distributions is forever extinguished and non-payment is not an event of default. 
+i. Distributions are paid out of distributable items, including retained earnings. 
+j. The instrument does not have distributions that are linked to the credit standing or 
+financial condition of the IAIG or a related entity, such that those distributions may 
+accelerate winding-up. 
+k. The instrument is neither undermined nor rendered ineffective by encumbrances. In 
+particular, the priority of claims is not compromised by guarantees or security 
+arrangements given by either the IAIG or a related entity over which the IAIG exercises 
+control or significant influence, for the benefit of investors. 
+l. Neither the IAIG nor a related entity over which the IAIG exercises control or significant 
+influence has purchased the instrument, nor has the IAIG directly or indirectly fund ed 
+the purchase of the instrument. 
+ 
+19 Characteristics of a mutual group typically include the inability to issue substantial amounts of 
+common equity and an ultimate parent within the group that cannot issue common equity. 
+20 A lock-in feature is a requirement for the IAIG to suspend repayment or redemption if it is in breach 
+of its applicable regulatory capital requirement or would breach it if the instrument is repaid or 
+redeemed.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 52 of 247 
+ 
+m. The paid-in amount is recognised as equity capital (ie is not recognised as a liability) 
+where a determination that liabilities exceed assets constitutes a test of insolvency. 
+n. The instrument does not possess features that  hinder recapitalisation, such as 
+provisions that require the issuer to compensate investors if a new instrument is issued 
+at a lower price during a specified time frame. 
+o. If the instrument is not issued out of an operating entity or the holding company of the 
+IAIG (eg it is issued out of an SPV), proceeds are made immediately available, without 
+limitation, to an operating entity or the holding company of the IAIG, through the 
+issuance of an instrument that meets or exceeds all of the other criteria for inclusion in 
+Tier 1 limited capital resources (ie the SPV may only hold assets that are intercompany 
+instruments issued by the IAIG or a related entity with terms and conditions that meet 
+or exceed the criteria for Tier 1 limited capital resources). 
+6.2.3 Tier 2 financial instruments (other than structurally subordinated) 
+216. Financial instruments that do not qualify as Tier 1 (unlimited or limited) capital 
+resources, but meet all of the following criteria qualify as Tier 2 capital resources: 
+a. The instrument is fully paid-up. 
+b. The instrument is subordinated to policyholders and other non-subordinated creditors 
+of the IAIG. 
+c. The instrument has an initial maturity of at least five years with its effective maturity 
+date defined to be the earlier of: 
+i. The first call date, togethe r with a step -up or other incentive to redeem the 
+instrument; and 
+ii. The contractual maturity date fixed in the instrument’s terms and conditions. 
+d. The instrument’s availability to absorb losses as it nears its effective maturity is 
+captured by either:  
+i. Decreasing the qualifying amount of the instrument from 100% to 0% on a 
+straight-line basis in the final five years prior to maturity; or 
+ii. The existence of a lock-in clause. 
+e. If the instrument is callable within the first five years from the date of issue: 
+• Any such call is at the option of the issuer only; 
+• Any such call is subject to supervisory approval; and 
+• The called instrument must be replaced in full before or at redemption by a new 
+issuance of the same or higher quality instrument. 
+Other than in cases of repl acement outlined above, the instrument is only callable at 
+the option of the issuer after a minimum of five years from the date of issue and prior 
+supervisory approval is required for any redemption prior to contractual maturity.21  
+ 
+21 In the absence of a requirement for prior supervisory approval, this criterion is considered to be met 
+if the following conditions are met:
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 53 of 247 
+ 
+f. The instrument may be repurchased by the issuer at any time with prior supervisory 
+approval. 
+g. There is not an expectation created by the IAIG, through the terms of the instrument 
+or otherwise, that the IAIG will repurchase the instrument or exercise its right t o call 
+the instrument, or that the repurchase or redemption will receive supervisory approval. 
+h. The instrument does not have distributions that are linked to the credit standing or 
+financial condition of the IAIG or a related entity, such that those distrib utions may 
+accelerate winding-up. 
+i. The instrument does not give holders rights to accelerate the repayment of scheduled 
+principal or coupon payments, except in winding-up. 
+j. The instrument is neither undermined nor rendered ineffective by encumbrances. In 
+particular, the priority of claims is not compromised by guarantees or security 
+arrangements given by either the IAIG or a related entity over which the IAIG exercises 
+control or significant influence, for the benefit of investors. 
+k. Neither the IAIG nor a related entity over which the IAIG exercises control or significant 
+influence has purchased the instrument, nor has the IAIG directly or indirectly funded 
+the purchase of the instrument. 
+l. If the instrument is not issued out of an operating entity or the holding company of the 
+IAIG (eg it is issued out of an SPV), proceeds are made immediately available, without 
+limitation, to an operating entity or the holding company of the IAIG, through the 
+issuance of an instrument that meets or exceeds all of the other criteria for inclusion in 
+paid-up Tier 2 capital resources (ie the SPV may only hold assets that are 
+intercompany instruments issued by the IAIG or a related entity with terms and 
+conditions that meet or exceed the criteria for Tier 2 Paid-Up capital resources). 
+6.2.4 Structurally subordinated Tier 2 financial instruments 
+217. Structural subordination of debt refers to a situation where a holding company issues 
+a financial instrument directly to third party investors and then down-streams the proceeds into 
+insurance subsidiaries. 
+218. Structurally subordinated financial instruments that meet the criteria for Tier 2 financial 
+instruments, subject to the clarifications of criteria b), e), and f), and new criteria n), o), and p) 
+below, qualify as Tier 2 capital resources: 
+b. Subordination to other non -subordinated creditors of the IAIG is not relevant to 
+structurally subordinated instruments that are issued by an IAIG’s holding company to 
+senior creditors. 
+e. The requirement for supervisory approval of such a call within the first five years from 
+the date of issue can be fulfilled through the exercise of supervisory controls and 
+ 
+• The terms of the financial instrument include a lock-in feature that prevents redemption when a firm 
+does not comply with its regulator y capital requirement (or where redemption would lead to non -
+compliance); 
+• Either: 
+- the supervisor receives prior notification upon redemption, or 
+- call dates are fixed and known and the supervisor monitors potential redemption; and  
+• The supervisor has the right to prevent redemption of the instrument.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 54 of 247 
+ 
+supervisory review, including the ability (direct/indirect) for supervisors to limit, defer 
+and/or disallow the issuance or redemption of financial instruments. 
+The requirement for supervisory approval of redemptions after a minimum of five years 
+can be fulfilled through supervisory approval22 of dividends prior to their payment from 
+an insurance subsidiary to the holding company. 
+f. The requirement for supervisory approval of repurchases can be fulfilled through 
+supervisory approval22 of dividends prior to their payment from an insurance subsidiary 
+to the holding company. 
+n. The debt instrument has been issued by a clean holding company, which is defined as 
+a holding company that does not have policyholder liabilities on its stand-alone balance 
+sheet. 
+o. The IAIG and its GWS have determined that the proceeds of the instruments, which 
+have been down-streamed into insurance subsidiaries, are being tracked and reported 
+appropriately. 
+p. Amounts from the instrument issuance have been down -streamed into an insurance 
+subsidiary of the holding company and the insurance subsidiary is located in a 
+jurisdiction whose regulatory regime proactively enforces structural subordination 
+through appropriate regulatory/supervisory controls over distributions from insurance 
+subsidiaries23. 
+6.2.4.1 National discretion on acceleration clauses 
+219. Criterion i). in paragraph 216 is subject to a national discretion. When a GWS elects to 
+apply that national discretion, criterion i). is waived for all IAIGs headquartered in the 
+jurisdiction of that GWS. 
+220. IAIGs to which the na tional discretion applies provide a reconciliation of the impact 
+between the reference ICS with and without applying the national discretion. 
+6.2.5 Tier 2 Non-paid-up capital 
+221. Non-paid-up capital consists of commitments, received by entities of the IAIG from 
+third parties non-related to the IAIG, to provide capital upon request. Non-paid-up capital items 
+may take a number of different forms, including unpaid preference shares, unpaid 
+subordinated debt, letters of credit, guarantees and mutual member calls. 
+ 
+22 For structurally subordinated financial instruments, supervisory approval of ordinary dividends can 
+be met if the supervisor has in place supervisory controls over distributions, including the ability for the 
+supervisor to limit, defer and/or disallow the payment of any distributions should it find that the insurer 
+is presently, or may potentially become, financially distressed. 
+23 Supervisory controls over distributions from insurance subsidiaries refer to th e supervisory review 
+and/or prior supervisory approval of all distributions, including the ability for the supervisor to limit, defer 
+and/or disallow the payment of any distributions should it find that the insurer is presently, or may 
+potentially become, financially distressed. As part of its review and/or prior approval of distributions, the 
+relevant supervisor considers surplus adequacy, financial flexibility, the quality of earnings, and other 
+factors deemed to be pertinent as they relate to the financi al strength of the insurer and policyholder 
+protection.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 55 of 247 
+ 
+222. Financial items, contracts and arrangements established by mutual IAIGs qualify as 
+Tier 2 Non-paid-up capital resources when they meet all of the following criteria: 
+a. The item has been approved by the supervisor as satisfying criteria b) to g) below as 
+to its characteristics and amount. 
+b. The item can be called up on demand by the mutual IAIG and is not subject to any 
+contingencies or conditions that prevent or act as a disincentive to the call being made 
+or satisfied. 
+c. When called up, the item becomes either a financ ial instrument that meets in full the 
+criteria for inclusion in Tier 1 or Tier 2 paid -up capital resources or a capital element 
+listed in Section 6.3. 
+d. The item is legally enforceable in each relevant jurisdiction. 
+e. The counterparty to the contract to provide capital is able and willing to pay the agreed 
+amounts when called upon by the mutual IAIG. 
+f. The item is neither undermined nor rendered ineffective by encumbrances. 
+g. The mutual IAIG is required to notify the supervisor of any changes of fact or 
+circumstance that could affect the supervisor’s approval of the item. 
+223. IAIGs should provide information on any Non-paid-up capital item in the blue cells of 
+the Data Input Table of the worksheet Tier 2 Non-Paid-Up. IAIGs should indicate the expected 
+classification for the item under the ICS framework, if the item was paid -up, as well as the 
+expected ICS qualifying amount, in the columns labelled Expected classification and Expected 
+amount of paid-up item. 
+6.3 Capital elements other than financial instruments 
+224. Information on capital elements other than financial instruments (CEOFI) that are 
+included in capital resources for ICS should be reported by IAIGs in the equity section of the 
+balance sheet in worksheet GAAP and ICS Balance Sheets.  
+6.3.1 Tier 1 capital elements 
+225. Subject to any exclusion, adjustment or deduction as specified in Section 6.4.1, Tier 1 
+capital elements, other than financial instruments, include the following items:  
+a. Retained earnings , defined as the accumulated balance of income less losses 
+resulting from operations, including earnings retained as surplus held in the 
+participating policyholders’ equity account for joint stock companies, and in the non-
+participating account for mutual companies; 
+b. Share premium, resulting from the issuance of instruments included in Tier 1, and other 
+forms of contributed surplus earned from sources other than profits  (eg members’ 
+contributions and initial funds for mut ual companies and other contributions by 
+shareholders in excess of amounts allocated to share capital for joint stock 
+companies);  
+c. Accumulated Other Comprehensive Income (AOCI); 
+d. The fair market value of equity -settled employee stock options, provided that a 
+corresponding expense is recorded in the profit and loss account of the IAIG, under
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 56 of 247 
+ 
+applicable accounting standards . This should be reported in the balance sheet as 
+contributed surplus.24 25; and 
+e. Other allocated to equity, which includes:  
+i. Minority/Non-controlling interests (NCI) reported in worksheet GAAP and ICS 
+Balance Sheets, representing third party equity interest in consolidated 
+subsidiaries. This includes any interest generated by share issuance and 
+subsequent changes in reserves of issuing entities; and 
+ii. Adjustments applied to the IAIG’s consolidated balance sheet (as per audited 
+financial statements) to produce the ICS balance sheet.  This item is 
+automatically calculated based on other balance sheet inputs. 
+226. Item e) in the above list (Other allocated to equity) does not include amounts reported 
+in the line labelled Other in the equity section of the balance sheet. The line for Other items 
+does not contribute directly to capital resources within the Template. 
+6.3.2 Tier 2 capital elements 
+227. Subject to any exclusion, adjustment or deduction as specified in Section 6.4, Tier 2 
+capital elements, other than financial instruments, include the following: 
+a. Share premium resulting from the issuance of instruments included in Tier 2 Paid -Up 
+capital resources; 
+b. The value of encumbered assets in excess of the on-balance sheet liabilities secured 
+by the encumbered assets and incremental ICS capital requirement, in respect of those 
+assets and liabilities excluded from Tier 1 (see Section 6.4.3 for details on the 
+treatment of encumbered assets); and 
+c. The Tier 2 basket, comprised of proportions of the following three items which relate 
+to deductions from Tier 1 (see Section 6.4.1): 
+i. the value of each net defined benefit pension fund that is an asset on the IAIG’s 
+balance sheet, net of any eligible Deferred Tax Liability (DTL); 
+ii. Deferred Tax Asset (DTA) deducted from Tier 1 capital resources; and 
+iii. the value of computer software intangibles (net of amortisation) deducted from 
+Tier 1 capital resources, net of any eligible DTL. 
+228. The Tier 2 basket is subject to a limit, expressed as a p ercentage of the ICS capital 
+requirement. 
+229. The proportions of the three items included in the Tier 2 basket, as well as the overall 
+limit applicable to the basket, are specified below. 
+230. The Tier 2 basket comprises the following three items, subject to a limit of 15% of the 
+ICS capital requirement: 
+ 
+24 Equity-settled employee stock options refer to contracts under which employees of the IAIG are 
+granted rights to purchase shares of the IAIG at pre -determined strike prices. Employee stock options 
+that can be settled in cash should not be included as capital resources. 
+25 The granting (and vesting) of equity-settled employee stock options is capital neutral. Once an equity-
+settled employee stock option is exercised, capital resources would in crease by the amount paid in by 
+the employee to purchase the underlying shares at the applicable strike price.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 57 of 247 
+ 
+a. 50% of the value of each net defined benefit pension fund that is an asset on the IAIG’s 
+balance sheet, net of any eligible DTL; 
+b. 100% of the DTA deducted from Tier 1 capital resources; and 
+c. 10% of the value of computer software intangibles (net of amortisation) deducted from 
+Tier 1 capital resources, net of any eligible DTL. 
+6.4 Capital adjustments and deductions 
+231. Qualifying capital resources are subject to the adjust ments and deductions listed in 
+Sections 6.4.1, 6.4.2 and 6.4.3. In that respect, IAIGs should complete the table Information 
+on assets and other items subject to deduction from capital resources in the worksheet GAAP 
+and ICS Balance Sheets. 
+6.4.1 Deductions from Tier 1 capital resources 
+232. To the extent that they have not already been excluded through valuation in the ICS 
+balance sheet, the following items are deducted from Tier 1 capital resources: 
+a. Goodwill; 
+b. Intangible assets, including computer software intangibles; 
+c. Each asset recognised on the IAIG’s balance sheet that relates to a defined benefit 
+pension fund;  
+d. DTAs on the ICS balance sheet;  
+e. Reciprocal cross holdings, arranged either directly or indirectly between financial 
+institutions and that artificially inflate the Tier 1 capital position of the IAIG. IAIGs should 
+apply a look -through approach (as described in Section 3.3) when reporting this 
+information; 
+f. Direct and indirect investments in own Tier 1 capital instruments, not otherwise 
+eliminated. IAIGs should apply a look-through approach (as described in Section 3.3) 
+when reporting this information; 
+g. Reinsurance assets arising from arrangements deemed to constitute non -qualifying 
+reinsurance. Non-qualifying reinsurance refers to agreements: 
+i. With entities providing reinsurance that are neither regulated nor subject to risk-
+based solvency supervision, including appropriate capital requirements; or 
+ii. That do not provide a sufficient transfer of risk. 
+h. Encumbered assets in excess of the on -balance sheet liabilities secured by the 
+encumbered assets and incremental ICS capital requirement in respect of those assets 
+and liabilities (see S ection 6.4.3 for details on the treatment of encumbered assets) . 
+This figure is automatically calculated in the table Encumbered assets of the worksheet 
+ICS Summary, based on the information provided by the IAIG in that table. 
+i. The value of equity and debt owned by the IAIG in entities that are excluded from the 
+scope of the group. 
+233. Items a) to c) are net of any associated DTL that would be extinguished if the item 
+becomes impaired or derecognised under the valuation approach.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 58 of 247 
+ 
+234. Information on all items a) to i) above should be provided in the worksheet GAAP and 
+ICS Balance Sheets, unless otherwise specified. 
+6.4.2 Deductions from Tier 2 capital resources 
+235. To the extent that they have not already been excluded through valuation in the ICS 
+balance sheet, the following items are deducted from Tier 2 capital resources: 
+a. Reciprocal cross holdings, arranged either directly or indirectly between financial 
+institutions and that artificially inflate the Tier 2 capital position of the IAIG; and 
+b. Direct and indirect investments in own Tier 2 capital instruments, not otherwise 
+eliminated. 
+236. In determining the amounts a) and b) above, IAIGs should apply a look -through 
+approach (as described in Section 3.3). 
+6.4.3 Treatment of encumbered assets 
+237. An encumbered asset is an asset that the IAIG has pledged as collateral to a 
+counterparty to either meet regulatory requirements or in order to participate in certain 
+activities involving for instance: centrally cleared derivatives, over -the-counter (OTC)  
+derivatives, mortgage borrowing, on-balance sheet repurchase agreements/securities lending 
+and reverse repurchase agreements/securities lending, letters of credit/guarantees, collateral 
+for reinsurance, assets held in trust, etc. 
+238. When an IAIG holds encumb ered assets in excess of the liabilities and associated 
+risks for which those assets have been encumbered, an adjustment to Tier 1 capital resources 
+is made. 
+239. The deduction from ICS Tier 1 capital resources is calculated as the total value of 
+encumbered assets in excess of the sum of the value of the IAIG’s on-balance sheet liabilities 
+secured by the encumbered assets, plus the value of the IAIG’s incremental ICS capital 
+requirement for encumbered assets and secured liabilities. 
+240. No ICS Tier 1 deduction is re quired for encumbered assets relating to off -balance 
+sheet securities financing transactions (ie securities lending and borrowing, repos and reverse 
+repos) that do not result in a liability on the balance sheet. 
+241. The amount of encumbered assets deducted from Tier 1 capital resources is included 
+in Tier 2 capital resources, subject to the limits applicable to Tier 2 (see Section 6.5 on Capital 
+composition limits). 
+242. IAIGs should indicate in the table Encumbered assets of the worksheet ICS Summary 
+the total amount of encumbered assets, the value of on -balance sheet liabilities secured by 
+the encumbered assets and their split between Life current estimate, Non-life current estimate 
+and non-insurance liabilities. The Template implements the calculation of a proxy for the IAIG’s 
+incremental capital requirement for encumbered assets and secured liabilities. 
+6.5 Capital composition limits 
+243. Capital composition limits are used within the ICS to appropriately reflect the quality of 
+capital resources and the ability of those resources to absorb losses. 
+244. The Tier 1 Limited and Tier 2 capital resources after adjustments, exclusions and 
+deductions are subject to limits expressed as a percentage of the ICS capital requirement.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 59 of 247 
+ 
+Those limits, which may differ depending o n the IAIG being mutual or non -mutual, are 
+specified in paragraphs 247 to 249. 
+245. The GWS, in consultation with the supervisory college, may apply temporary 
+supervisory forbearance on the limit on Tier 1 Limited capital resources for mutual IAIGs, 
+provided that the IAIG submits a plan to restore its capital position. 
+246. Tier 1 Limited capital resources that are in excess of the associated limit are eligible 
+for inclusion within Tier 2 capital resources, and become subject to the limit applicable to Tier 
+2 capital resources. 
+247. For non-mutual IAIGs, the following limits are applicable: 
+a. Tier 1 Limited capital resources are limited to 10% of the ICS capital requirement; this 
+limit is increased to 15%, provided that the instruments in excess of the 10% limit 
+possess a Principle Loss Absorbency Mechanism (PLAM); 
+b. Tier 2 capital resources are limited to 50% of the ICS capital requirement; and  
+c. There is no allowance for Tier 2 Non-Paid Up capital. 
+248. For the purpose of paragraph 247, a PLAM is defined as a mechanism providing for 
+either a write -down of the liability (principal and dividend/coupon) or a conversion of the 
+instrument (into a Tier 1 unlimited financial instrument as defined in Section 6.2.1) in 
+contractually predefined going-concern conditions. 
+249. For mutual IAIGs, the following limits are applicable: 
+a. Tier 1 Limited capital resources are limited to 30% of the ICS capital requirement; 
+b. Tier 1 Limited + Tier 2 capital resources are limited to 60% of the ICS capital 
+requirement; and  
+c. Tier 2 Non-Paid Up capital are limited to 10% of the ICS capital requirement.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 60 of 247 
+ 
+7 Reference ICS: Capital Requirement – The Standard Method 
+7.1 ICS Risks and Calculation Methods 
+250. The categories of risk included in the standard method are: Insurance risk, Market risk, 
+Credit risk and Operational risk. Table 6 lists the risk categories, along with the individual risks 
+in each risk category. 
+251. The ICS capital requirement is based on the potential adverse changes in qualifying 
+capital resources resulting from unexpected changes, events or other manifestations of the 
+specified risks.  
+252. Risks are measured using two approaches: a stress approach and a factor -based 
+approach. There is one exception, which is natural catastrophe risk, where a vendor model 
+may be used. 
+253. The stress approach follows a dynamic approach looking at the balance sheet at two 
+points in time: the IAIG’s current balance sheet pre-stress and the IAIG’s balance sheet post-
+stress. The risk charge for each individual risk is determined as the decrease between the 
+amount of capital resources on the pre-stress balance sheet (CR0) and the amount of capital 
+resources on the post-stress balance sheet (CR1). Stresses can be applied individually with 
+individual stressed balance sheets being calculated (CR0 – CR1) to determine the risk charge 
+with respect to each individual stress. As a simplification, the change in net asset value is used 
+as a proxy for the changes in qualifying capital resources. 
+254. The factor -based approach is determined by applying factors to specific exposure 
+measures. 
+255. The scope of the risks covered by the ICS capital requirement, as well as the applicable 
+measurement method, are outlined in Table 6. 
+ 
+Table 6: Risks, definitions and measurement method 
+Categories 
+of risk Risk Scope/definition: Risk of adverse change in the value 
+of capital resources due to 
+Measurement 
+Method 
+Insurance 
+risk  
+Mortality risk 
+(life) 
+Unexpected changes 26 in the level, trend or volatility of 
+mortality rates. 
+Stress 
+Longevity risk 
+(life) 
+Unexpected changes 26  in the level, trend or volatility of 
+mortality rates. 
+Stress 
+Morbidity/Disa
+bility risk (life) 
+Unexpected changes 26 in the level, trend or volatility of 
+disability, sickness and morbidity rates. 
+Stress 
+Lapse risk 
+(life) 
+Unexpected changes 26 in the level or volatility of rates of 
+policy lapses, terminations, renewals and surrenders. 
+Stress 
+Expense risk 
+(life) 
+Unexpected changes 26 in liability cash flows due to the 
+incidence of expenses incurred. 
+Stress 
+ 
+26 Expected impacts are assumed to be incorporated in valuation methodologies .
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 61 of 247 
+ 
+Premium risk 
+(non-life) 
+Unexpected changes26 in the timing, frequency and severity 
+of future insured events (to the extent not already captured 
+in Morbidity/Disability risk). 
+Factor 
+Claims reserve 
+risk (non-life) 
+Unexpected changes26 in the expected future payments for 
+claims or events that have already occurred (whether 
+reported to the IAIG or not) and not yet fully settled (to the 
+extent not already captured in Morbidity/Disability risk). 
+Factor 
+Catastrophe 
+risk 
+Unexpected changes 26 in the occurrence of low frequency 
+and high severity events. 
+Stress, except 
+for natural 
+catastrophe, 
+which may use 
+a model. 
+Market risk Interest Rate 
+risk 
+Unexpected changes 26 in the level or volatility of interest 
+rates. 
+Stress 
+Non-default 
+spread risk 
+Unexpected changes 26 in the level or volatility of spreads 
+over the risk-free interest rate term structure, excluding the 
+default component. 
+Stress 
+Equity risk Unexpected changes 26 in the level or volatility of market 
+prices of equities. 
+Stress 
+Real Estate 
+risk 
+Unexpected changes 26 in the level or volatility of market 
+prices of real estate or from the amount and timing of cash 
+flows from investments in real estate. 
+Stress 
+Currency risk Unexpected changes 26 in the level or volatility of currency 
+exchange rates. 
+Stress 
+Asset 
+Concentration 
+risk 
+The lack of diversification in the asset portfolio. Factor 
+Credit risk Credit risk Unexpected changes 26 in actual defaults, as well as in the 
+deterioration of an obligor’s creditworthiness short of default, 
+including migration risk and spread risk due to defaults. 
+Factor 
+Operational 
+risk 
+Operational 
+risk 
+Operational events including inadequate or failed internal 
+processes, people and systems, or from external events. 
+Operational risk includes legal risk, but excludes strategic 
+and reputational risk. 
+Factor 
+ 
+256. The individual risk charges are combined in a way that recognises risk diversification, 
+using correlation matrices. 
+257. The ICS target criteria is a 99.5% Value at Risk (VaR), over a one -year time horizon, 
+of adverse changes in the IAIG’s qualifying capital resources. 
+7.1.1 Risk mitigation techniques 
+258. In order to promote good risk management and achieve an appropriate level of risk 
+sensitivity, the ICS recognises the effect of risk mitigation techniques, provided certain criteria
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 62 of 247 
+ 
+are met. These criteria are designed to ensure that the risk mitigation techniques are 
+accurately and appropriately reflected within the risk charges. 
+259. In addition, there are certain conditions that must be met regarding the renewal of risk 
+mitigation arrangements. The conditions vary depending on whether the risk mitigation 
+arrangement applies to a Market risk exposure or non-life Premium risk.  
+260. Risk mitigation techniques may be recognised in the ICS risk charges provided they 
+meet all of the following requirements: 
+a. The risk mitigation technique is effective and legally enforceable in all relevant 
+jurisdictions and results in an effective transfer of risk to a third party. 
+b. The contractual arrangement ensures that the risk transfer is clearly defined. 
+c. The calculation of the ICS risk charges allows for the effects of risk mitigation 
+techniques through a reduction of the risk charge commensurate with the extent of risk 
+mitigation. It makes reasonable allowance for any basis risk effects due to changes in 
+risk mitigation assumptions and relationships during a stress scenario and there is 
+appropriate treatment for any corresponding risk embedded in the use of risk mitigation 
+techniques (eg Credit risk). These two effects are treated separately. 
+d. The calculation is made on the basis of assets and liabilities existing at the reporting 
+date of the ICS calculation. 
+e. There is no double counting of mitigation effects. 
+f. The documentation fo r the arrangement sets out a direct claim on the IAIG’s 
+counterparty in the event of its default, insolvency, bankruptcy or other credit event. 
+g. Providers of risk mitigation are of an adequate credit quality (demonstrable through 
+either adequate rating, cap italisation or collateralisation levels) to ensure with 
+appropriate certainty that the IAIG will receive the protection in the cases specified by 
+the contracting parties. Credit quality is assessed consistently with the definition of  
+credit categories provided in Section 7.4. 
+261. In addition to these requirements, market risk mitigation techniques are based on an 
+explicit reference to specific exposures or a pool of exposures. 
+262. Where risk mitigation techniques are in force for a period shorter than 12 months and 
+meet the qualitative criteria above, a proportional factor is applied to the risk mitigation effect 
+taken into account in the ICS risk charges. That factor is defined as either: 
+a. The proportion of the full term of the risk exposure covered by the risk mitigation 
+technique up to a maximum of 100%, where the risk exposure’s term is less than 12 
+months; or 
+b. The proportion of 12 months covered by the risk mitigation technique up to a maximum 
+of 100%, where the risk exposure term is 12 months or more. 
+263. However, where the IAIG plans to replace a risk mitigation arrangement relating to a 
+Market risk exposure at the time of its expiry with a similar arrangement, this renewal may be 
+taken into account if the IAIG expects to renew and all of the foreseeable costs of renewal 
+within the time horizon are taken into account. The requirement of an expectation to renew is 
+considered to be met if all of the following conditions are met:
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 63 of 247 
+ 
+a. The renewal is consistent with previous business practice and documented strategy. 
+b. The replacement of the risk mitigation instrument does not take place more often than 
+every three months, except for Currency risk or Equity risk where the replacement o f 
+the risk mitigation instrument does not take place more often than every month.  
+c. The risk that the risk mitigation arrangement cannot be replaced due to an absence of 
+liquidity in the market is not material under different market conditions and there is no 
+material basis or operational risks compared to the risk mitigation effect. If the 
+instruments mitigating Currency or Equity risk are replaced more frequently than every 
+three months, then the IAIG justifies to its group wide supervisor that: 
+i. the market for these instruments is sufficiently liquid at the relevant tenor; and  
+ii. these instruments do not pose a materially greater risk than those replaced less 
+frequently than every three months. 
+d. The replacement of the risk mitigation arrangement is not conditional on any future 
+event that is outside of the control of the IAIG. Where the replacement of the risk 
+mitigation arrangement is conditional on any future event that is within the control of 
+the IAIG, then the conditions are clearly set out in the documented strategy referred to 
+in point a).  
+e. The renewal is realistic regarding the availability of the arrangement and its cost is 
+deducted from the value attributed to the instrument. This deduction takes into account 
+the risk that the cost may increase during the following 12 months. 
+f. Any additional risk stemming from the risk mitigation arrangement (eg Credit risk) is 
+taken into account in the ICS risk charges. 
+g. The IAIG is able to demonstrate to i ts GWS that the required instruments will be 
+available for renewal from a deep and liquid market under all reasonably foreseeable 
+eventualities over the following 12 months. Where this is not the case, the benefit 
+recognised for the renewal of the risk mit igation arrangement is limited to 80% of the 
+full risk mitigating value of the arrangement at the reporting date. 
+264. The renewal of risk mitigation arrangements with respect to non-life Premium risk may 
+be taken into account if the IAIG expects to renew and t he costs of renewal within the time 
+horizon are taken into account. The requirement of an expectation to renew is considered to 
+be met if all of the following conditions are met: 
+a. The renewal is consistent with previous business practice and documented strategy; 
+b. The renewal is realistic with regards to availability of the arrangement and its cost 27; 
+and 
+c. Any additional risk stemming from the risk mitigation arrangement (eg Credit risk) is 
+taken into account in the relevant ICS risk charges. 
+265. When modelling nat ural catastrophe risk, the renewal of the arrangements may be 
+taken into account if all of the following conditions are met: 
+a. The renewal is consistent with previous business practice and documented strategy; 
+ 
+27 Costs may include, but are not limited to, ceded premiums to the reinsurer and commissions.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 64 of 247 
+ 
+b. The renewal is realistic regarding the availability of the arrangement and its cost; and 
+c. Any additional risk stemming from the risk mitigation arrangement (eg Credit risk) is 
+also taken into account in the natural catastrophe risk modelling. 
+266. Risk mitigatio n arrangements are not recognised in the calculation of the ICS 
+Operational risk charge. 
+7.1.2 Geographical segmentation 
+267. For some of the risks, a geographical segmentation is used to calculate the risk charge.  
+268. For those risk charges calculated using a geographi cal segmentation, the following 
+regions are used: 
+a. European Economic Area (EEA) and Switzerland; 
+b. US and Canada; 
+c. China; 
+d. Japan; 
+e. Other developed markets; and 
+f. Other emerging markets. 
+269. The jurisdictions included in each region are listed in Table 7: 
+Table 7: Geographical segmentation 
+Region Jurisdictions included 
+EEA and 
+Switzerland  
+Austria, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, 
+Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, 
+Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, 
+Romania, Slovakia, Slovenia, Spain, Sweden, United Kingdom,  Iceland, 
+Liechtenstein, Norway and Switzerland 
+US and Canada US28 and Canada  
+China Mainland China and Macao SAR 
+Japan Japan 
+Other developed  
+markets29 
+Australia, New Zealand, Israel, San Marino, Korea, Singapore, Chinese Taipei 
+and Hong Kong SAR 
+Other emerging 
+markets 
+A list of emerging markets is provided in Table E of the Statistical Appendix of 
+the IMF World Economic Outlook April 201630. For completeness, if a country 
+is not listed in the regions above, it is classified as “Other emerging markets”. 
+ 
+28 Including American Samoa, Guam, Northern Mariana Island, Puerto Rico and US Virgin Islands.  
+29 ‘Other developed’ taken from IMF list of advanced economies minus countries mentioned in other 
+regions as of April 2016. 
+30 See http://www.imf.org/external/pubs/ft/weo/2016/01/pdf/text.pdf (accessed on 12 May 2016).
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 65 of 247 
+ 
+ 
+270. A different geographical segmentation, specified in Section 7.3.4, is used for the 
+calculation of the Equity risk charge. The definition of emerging and developed markets used 
+for Equity risk is based on the FTSE Developed Index and the FTSE Emerging Markets Index. 
+271. When providing information related to insurance business, the Template should be 
+completed on the basis of location of risk. Where this information is not available, the location 
+where the business was written may be used as a proxy. 
+7.1.3 Management actions 
+272. A credit for exercising management actions is taken into account at the level of each 
+risk in the ICS capital requirement, subject to a cap, as described below. 
+273. The impact of management actions for each individual risk is calculated consistently 
+with the provisions set out in Section 5.2.4. The impact of management actions  is based on 
+realistic assumptions and reflects the IAIG’s obligations to policyholders as well as legal 
+provisions applicable to the IAIG. 
+274. A cap on the overal l credit for management actions is set at the total amount of 
+insurance liabilities for future bonuses or other discretionary benefits. This cap is applied after 
+aggregating the total of management actions post-diversification across the risks. 
+Example: Management actions considered after an equity stress 
+Consider a n IAIG  with a portfolio of savings contracts. Those savings contracts do not 
+include any legally enforceable profit participation, however the IAIG has an internal policy 
+aimed at redistributing approximately 80% of each year’s financial profits (when positive) to 
+policyholders. Such a policy leads to an amount of 80 of discretionary benefits in the current 
+estimate figure, corresponding to the maximum loss absorbency that the IAIG would be able 
+to pass through to policyholders in case of adverse financial scenarios. 
+However, for reasons of competitiveness and avoiding mass lapses, the IAIG is, in practice, 
+not likely to pass through the maximum possible amount of loss to policyholders. For 
+instance, while a drop of 40% in the value of its equity investments would have a negative 
+impact of 100 on the value of assets, and normally result in an amount of discretionary 
+benefits reduced to 0 by applying the distribution policy unchanged, the IAIG could assume 
+that it would decide to distribute future discretionary benefits for an amount of 30. Therefore, 
+the impact of the shock after management actions would be 100 – (80 – 30) = 50. 
+This example can be summarised as follows: 
+Balance sheet before shock: 
+ 
+Assets 1000 Capital resources 150 
+of which equity 250 MOCE 50 
+of which other 750 Current estimate 800 
+    of which discretionary 80 
+ 
+Balance sheet after shock, before management actions:
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 66 of 247 
+ 
+Assets 900 Capital resources 50 
+of which equity 150 MOCE 50 
+of which other 750 Current estimate 800 
+    of which discretionary 80 
+ 
+Balance sheet after shock, after management actions: 
+Assets 900 Capital resources 100 
+of which equity 150 MOCE 50 
+of which other 750 Current estimate 750 
+    of which discretionary 30
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 67 of 247 
+ 
+7.2 Insurance risks 
+7.2.1 Grouping of policies for life insurance risks 
+275. For life risks, stress scenarios are applied at the level of homogeneous risk groups. 
+276. The projections of the stressed cash flows are conducted at the same level of 
+granularity as the pre-stress cash flows. Where the pre-stress cash flows have been projected 
+by applying some grouping of policies, the same grouping of policies is applied to the stressed 
+cash flows.  
+277. From a practicality standpoint, grouping by portfolios of products (or policies) exposed 
+to homogeneous insurance risks within the class can be applied. For this purpose, a 
+homogeneous risk group encompasses a collection of policies with similar risk characteristics.  
+278. Homogeneous risk groups are reasonably stable over time. Where necessary, for the 
+determination of homogeneous risk groups, IAIGs take into account items such as: 
+a. Underwriting policy; 
+b. Claims settlement pattern; 
+c. Risk profile of policyholders; 
+d. Product features, in particular guarantees; and 
+e. Future management actions. 
+279. For some policies, an upward stress may produce an increase in the risk charge, while 
+for others a downward stress may result in an increase in the risk charge. Even if cash flow 
+projections are mostly performed at a policy level, to determine whether to apply an upward 
+or a downward stress, it is necessary to decide on the appropriate grouping of policies. The 
+level of prudence of the resulting risk charge depends on the granularity of the policy groupings 
+adopted by the IAIG.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 68 of 247 
+ 
+7.2.2 Calculation of Life Insurance risk charge 
+ 
+Relevant Worksheet in Template: ICS Insurance Risk Charges 
+ 
+280. Life risk charges are applicable to life business and similar to life health business (refer 
+to paragraph 302). 
+281. The Life Insurance risk charge is calc ulated by aggregating, using the life risks 
+correlation matrix specified in Table 8, the following five sub-risk charges. 
+• Mortality risk; 
+• Longevity risk; 
+• Morbidity/Disability risk; 
+• Lapse risk; and 
+• Expense risk. 
+282. Life Insurance risk charges are calculated based on the geographi cal segmentation 
+specified in Section 7.1.2. 
+283. For each of the five sub -risks, the risk charge is calculated both with and without the 
+impact of management actions. 
+284. The correlation matrix used for aggregating the life risk charges is the following: 
+Table 8: Life risks correlation matrix 
+ 
+Mortality Longevity Morbidity/ 
+Disability Lapse Expense 
+Mortality 100% -25% 25% 0% 25% 
+Longevity -25% 100% 0% 25% 25% 
+Morbidity/ 
+Disability 25% 0% 100% 0% 50% 
+Lapse 0% 25% 0% 100% 50% 
+Expense 25% 25% 50% 50% 100%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 69 of 247 
+ 
+7.2.2.1 Mortality risk 
+285. The Mortality risk charge is calculated as the change in net asset value after applying 
+the prescribed stress to the level of mortality rates. The prescribed stresses, based on the 
+geographical segmentation, are specified below.  
+286. The Mortality risk charge only applies to those policies that are negatively affected by 
+an increase in mortality rates. 
+287. The prescribed stress for the calculation of the Mortality risk charge consists of an 
+increase of x% in mortality rates at all ages for all policies where an increase in mortality rates 
+leads to a decrease in the NAV. 
+288. The stress factors for Mortality risk are given in Table 9: 
+Table 9: Mortality risk stress factors 
+Region x% 
+EEA and Switzerland 12.5 % 
+US and Canada 12.5 % 
+China 12.5 % 
+Japan 10.0 % 
+Other developed markets 12.5 % 
+Other emerging markets 12.5 % 
+ 
+289. IAIGs should calculate the Mortality risk charge with and without the impact of 
+management actions. The effect of such management actions should be recorded separately 
+in the worksheet ICS Insurance Risk Charges to enable a comparison of the change in NAV 
+with and without the impact of management actions. 
+290. Input data required are:  
+a. The pre-stress NAV, ie value of assets less insurance liabilities before applying the 
+prescribed stress, net of reinsurance; 
+b. The NAV after applying the prescribed stress, net of reinsurance, without the impact 
+of management actions; and 
+c. The effect of management actions on NAV after applying the prescribed stresses. 
+291. No geographical diversification is assumed when calculating the Mortality risk charge. 
+292. Even though the stresses are a pplied to different geographical regions, double 
+counting of the risk mitigating impact of reinsurance arrangements covering more than one 
+geographical area should be avoided.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 70 of 247 
+ 
+7.2.2.2 Longevity risk 
+293. The Longevity risk charge is calculated as the change in net asset value after applying 
+the prescribed stress to the level of mortality rates. The prescribed stresses, based on the 
+geographical segmentation, are specified below. 
+294. The Longevity risk charge only applies to those policies that are negatively affected by 
+a decrease in mortality rates. 
+295. The prescribed stress for the calculation of the Longevity risk charge consists of a 
+decrease of x% in mortality rates at all ages for all policies where a decrease in mortality rates 
+leads to a decrease in the NAV. 
+296. The stress factors for Longevity risk are given in Table 10: 
+Table 10: Longevity risk stress factors 
+Region x% 
+EEA and Switzerland 17.5 % 
+US and Canada 17.5 % 
+China 17.5 % 
+Japan 17.5 % 
+Other developed markets 17.5 % 
+Other emerging markets 17.5 % 
+ 
+297. IAIGs should calculate the Longevity risk charge with and without the impact of 
+management actions. The effect of such management actions should be recorded separately 
+in the worksheet ICS Insurance Risk Charges to enable a comparison of the change in NAV 
+with and without the impact of management actions. 
+298. Input data required are:  
+a. The pre-stress NAV, ie value of assets less insurance liabilities before applying the 
+prescribed stress, net of reinsurance; 
+b. The NAV after applying the prescribed stress, net of r einsurance, without the impact 
+of management actions; and 
+c. The effect of management actions on NAV after applying the prescribed stresses. 
+299. No geographical diversification is assumed when calculating the Longevity risk charge. 
+300. Even though the stresses are ap plied to different geographical regions, double 
+counting of the risk mitigating impact of reinsurance arrangements covering more than one 
+geographical area should be avoided.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 71 of 247 
+ 
+7.2.2.3 Morbidity and Disability risk 
+301. The Morbidity/Disability risk charge is calculated as the change in net asset value after 
+applying the prescribed stresses to the four specified mutually exclusive benefit segments. 
+The prescribed stresses, based on the geographic al segmentation, benefit segments and 
+contract length, are specified below. 
+302. Similar Morbidity/Disability benefits may be classified as life or non -life; however, the 
+Morbidity/Disability risk charge only applies to those policies with benefits classified as similar 
+to life. For those classified as similar to non-life, the non-life risk charges (Premium and Claims 
+Reserve risk) apply. 
+7.2.2.3.1 Segmentation 
+303. The Morbidity and Disability risk is applied to benefits evaluated on a similar to life 
+technical basis. Irrespective of the legal or contractual classification of insurance obligations, 
+the assignment to life or non-life activities is based on the type of techniques used to calculate 
+insurance obligations31. 
+304. The following is a (non-exhaustive) list of major types of Morbidity/Disability risks that 
+can be pursued on similar to life technical bases: 
+a. Sickness; 
+b. Accident at work/occupational disease while employed and post -employment 
+(particularly with respect to occupational disease); 
+c. Critical illness, specifically tied to benefit availability dependent on surviving a specified 
+period of time following confirmation of diagnosis; 
+d. Disability, including temporary and permanent, temporary and full, physical and non -
+physical (mental); 
+e. Loss of income, including past and future income and includes (but not limited to) 
+salary replacement; 
+f. Long-term care – all forms of insurance that address full or partial loss of ability to 
+perform all defined and established functions of daily living; 
+g. Health insurance – medical and directly related expenses; and 
+h. Health insurance – other than medical and directly related expenses such as 
+preventative health and wellness benefits. 
+ 
+31 A technical basis is considered similar to life when it involves the explicit use of biomet ric variables 
+such as mortality, morbidity and recovery rates by age.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 72 of 247 
+ 
+Example 
+Segmentation of a classic health insurance product (no levelling of premiums) with a 
+morbidity benefit 
+• If the health insurance liabilities are calculated on the basis of claims triangles or unearned 
+premiums, this liability should be classified into a non -life segment. If the morbidity liability 
+calculations are based on a morbidity/disability table, then this liability should be classified 
+into a life segment. 
+• If the insurance liability calculation methodology changes after the occurrence of an event 
+in order to reflect the evolution of the underlying risk, the segmentation should reflect this 
+evolution. 
+ 
+Example 
+Segmentation of a disability product: 
+• The disability liability should be classified into a non-life segment during the period in which 
+the policyholder does not have a declared disability, if the insurance liability calculation 
+methodology is based on claims triangles or unearned premiums. 
+• If the insurance liability calculation methodology changes when a policyholder declares a 
+disability and takes into account biometric variables from that moment, this disability liability 
+should be classified into a life segment after the occurrence of the claim. 
+ 
+Example 
+Segmentation of morbidity and disability products where the insurance liability calculation is 
+based on loss ratios: 
+• The morbidity or disability liability should be classified into a non -life segment if the 
+determination of the loss ratio was based on non-life techniques such as claims triangles. 
+• The morbidity or disability liability should be classified into a life segment if the 
+determination of the loss ratio was based on life techniques such as morbidity/disability 
+tables. 
+ 
+7.2.2.3.2 Sub-risks to be covered 
+305. For the purpose of the calculation of the Morbidity and Disability risk charge, similar to 
+life insurance obligations are split in the following four mutually exclusive benefit segments: 
+a. Category 1: Medical expenses 
+• Products providing any kind of compensation (either fixed or based on real 
+costs) for medical expenses, in -patient or not. The compensation depends 
+directly on the treatment or expenses incurred by the policyholder, and is not 
+directly dependent on the time spent in a given health status.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 73 of 247 
+ 
+• Typical examples are medical expense / supplemental medical contracts that 
+provide benefits for practitioner fees, medication fees, vision and dental 
+expenses, etc. 
+b. Category 2: Lump sum in case of a health event 
+• Products providing a single payment at the occurrence of a specified health 
+event or the occurrence of an accident resulting in a certain level of disability. 
+• Typical examples are accident, critical illness, and permanent disability policies 
+that provide a lump sum payment on occurrence of a claim. This category also 
+generally includes accidental death and dismemberment policies. 
+c. Category 3: Short-term recurring payments 
+• Products providing a recurring amount of compensation for a period depending 
+on the time spent in a given temporary health status, such as inability to work 
+or hospitalisation. 
+• Typical examples are hospital indemnity, personal accident / loss of income 
+policy, short-term disability income protection (generally in the context of group 
+insurance). 
+d. Category 4: Long-term recurring payments 
+• Products providing a fixed annuity in case of long -term/permanently 
+deteriorated health status. 
+• Typical examples are pers onal or group policies for permanent disability  and 
+long-term care. 
+306. The typical examples provided above are indicative and are not meant to be 
+exhaustive. The terminology may also vary across jurisdictions. 
+307. The distinction between Category 3 and Category 4 is made according to the 
+temporary versus permanent characteristics of the recurring benefit. A benefit tha t is 
+contractually limited to a given period, common to all policyholders, is classified as short-term 
+recurring. A benefit that is to be paid life -long, or for a period depending on individual 
+policyholder circumstances, without any upfront short-term limitations, is considered as long-
+term recurring. 
+308. Each benefit category is divided into two segments by original contract term: 
+a. Short-term: Includes contracts with an original term of up to five years. 
+b. Long-term: Includes contracts with an original term longer than five years. 
+Example 
+• Short-term recurring payments with long contract term (Category 3): 
+Medical benefit products with a 10 -year renewal or whole life term that provide 
+hospitalisation benefits are typically categorised as short-term recurring payments 
+with long contract term. 
+• Long-term recurring payments with short contract term (Category 4):
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 74 of 247 
+ 
+Group disability contracts that are typically one year in duration but for which the 
+associated benefits could continue to be paid to individuals until age 65 or 70. 
+309. A policy may actually include coverage belonging to several of the above benefit 
+categories. For instance, a policy may provide: 
+a. Regular payments in case of short-term (temporary) disability; 
+b. Regular payments in case of long-term disability; and 
+c. A lump sum in case of critical illness. 
+310. When a policy includes coverage belonging to several of the above benefit categories, 
+each of the different components of such a policy is subject to the relevant stress. When a 
+policy provides a combination of benefits between medical expenses and short-term recurring 
+payments (Categories 1 and 3), it may either be split into both categories, or considered under 
+Category 3 altogether. 
+311. However, if it is not feasible for the individual stresses to be applied to each component 
+of the policy, the stress applied to a given policy should be based on the dominant component 
+of that policy. 
+7.2.2.3.3 Calculation 
+312. The prescribed stresses for the calculation of the Morbidity/Disability risk charge 
+depend on the benefit category: 
+a. For benefit categories i = 1, 2 and 3, the stress is defined as an instantaneous relative 
+increase in inception rates, as specified in Table 11 and Table 12. 
+The inception rate stress is applied differently depending on the underlying type of 
+benefits: 
+• For benefits where claim costs are explicitly modelled using inception rates 
+and/or recovery rates, the stress is only applied to inception rates. If only 
+recovery rates are modelled, the stress is applied as a decrease in recovery 
+rates. 
+• For other benefits in categories 1 -3, with no explicit  inception rates and/or 
+recovery rates, the stress factors are directly applied to medical claim payment 
+amounts. 
+b. For the benefit category 4, the risk charge is calculated for both contract term segments 
+as the maximum of the Inception Rate risk charge and the Recovery Rate risk charge, 
+where: 
+• The Inception Rate risk charge is calculated as the change in NAV following 
+the increase in inception rates as specified in Table 11 and Table 12; and 
+• The Recovery Rate risk charge is calculated as the c hange in NAV following 
+the decrease in recovery rates of 20%  (same stress for both short -term and 
+long-term contracts).
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 75 of 247 
+ 
+Table 11: Morbidity/Disability risk stress factors – Location of risk Japan 
+Category (i) Short-term Long-term 
+1 20% 8% 
+2 25% 8% 
+3 20% 10% 
+4 
+inception rate stress 
+= 25%, recovery 
+rate stress=20% 
+inception rate stress 
+= 20%, recovery 
+rate stress = 20% 
+ 
+Table 12: Morbidity/Disability risk stress factors – All other locations of risk 
+Category (i) Short-term Long-term 
+1 20% 8% 
+2 25% 20% 
+3 20% 12% 
+4 
+inception rate stress 
+= 25%, recovery 
+rate stress=20% 
+inception rate stress 
+= 20%, recovery 
+rate stress = 20% 
+ 
+313. Input data required are:  
+a. The pre-stress NAV, ie value of assets less insurance liabilities before applying the 
+prescribed stress, net of reinsurance; 
+b. The NAV after applying the prescribed stress, net of reinsurance, without the impact 
+of management actions; and 
+c. The effect of management actions on NAV after applying the prescribed stresses. 
+314. If applying management actions per category is not feasible, IAIGs may apply 
+management actions on an overall basis.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 76 of 247 
+ 
+7.2.2.4 Lapse risk 
+315. The Lapse risk charge is calculated as the maximum of the Lapse risk charge for the 
+Level and Trend component and the Lapse risk charge for the Mass Lapse component. 
+316. The Lap se risk charges for the Level and Trend component and the Mass Lapse 
+component are calculated as the change in net asset value after applying the prescribed 
+stresses to the two components. The prescribed stresses, based on the geographic al 
+segmentation, are specified below. 
+317. The Lapse risk charge takes into account all legal or contractual options that can 
+change the value of future cash flows.  This includes options to partially or fully terminate, 
+surrender, renew, extend, reduce or increase insurance coverage as well as the reduction or 
+suspension of premium payments and changes in take up rates of options such as 
+annuitisation options. 
+318. The calculation of the maximum of the Level and Trend component and Mass Lapse 
+component is performed at the level of each region listed in Section 7.1.2. 
+319. The Lapse risk charge for the IAIG is then obtained as the sum of Lapse risk charges 
+over all regions. 
+7.2.2.4.1 Level and Trend component 
+320. For each region listed in Section 7.1.2, the prescribed stress for the calculation of the 
+Level and Trend component is the most adverse of an upward stress and a downward stress. 
+321. The upward stress consists of an increase of x% in the assumed option take-up rates, 
+subject to a maximum of 100%, in all future years for all homogeneous risk groups adversely 
+affected by such risk. 
+322. The downward stress consists of a decrease of x% in the assumed option take -up 
+rates in all future years for all homogeneous risk groups adversely affected by such risk. 
+323. The stress factors are specified in Table 13: 
+Table 13: Level & Trend Lapse risk stress factors 
+Region x% 
+EEA and Switzerland 40% 
+US and Canada 40% 
+China 40% 
+Japan 20% 
+Other developed markets 40% 
+Other emerging markets 40% 
+ 
+324. All options that can affect the amount of insurance coverage, including options that 
+allow for partial or full termination, or increase in the insurance cover, are affected by the lapse 
+stress factors. 
+325. Options that allow for a reduction in insurance coverage (eg options to partially or fully 
+terminate cover) will be affected by the increase (decrease) in take-up rates. Where an option
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 77 of 247 
+ 
+allows for an increase (decrease) in insurance cover (eg extension of cover), the X% increase 
+(decrease) should be applied to the rate that would apply if the option is not taken up (ie not 
+exercised). In the case of an increase, the resulting shocked lapse rate should not exceed 
+100%, ie min [100%, (1 + 𝑋%) × 𝑏𝑎𝑠𝑒 𝑜𝑝𝑡𝑖𝑜𝑛 𝑡𝑎𝑘𝑒𝑢𝑝 𝑟𝑎𝑡𝑒 𝑎𝑠𝑠𝑢𝑚𝑝𝑡𝑖𝑜𝑛𝑠]. In the case of a 
+decrease, the resulting shocked lapse rate should be floored at 0%, ie max [0%, (1 −
+𝑋%) × 𝑏𝑎𝑠𝑒 𝑜𝑝𝑡𝑖𝑜𝑛 𝑡𝑎𝑘𝑒𝑢𝑝 𝑟𝑎𝑡𝑒 𝑎𝑠𝑠𝑢𝑚𝑝𝑡𝑖𝑜𝑛𝑠]. 
+326. For each region listed in S ection 7.1.2, the Level and Trend component is first 
+determined for each homogeneous risk group before aggregating across all homogeneous 
+risk groups. 
+327. When the calculation of the current estimate involves the use of a dynamic lapse 
+function32, the Level and Trend component stress is applied to the base rate of the dynamic 
+lapse function. 
+328. Input data required are:  
+a. The pre-stress NAV, ie value of assets less insura nce liabilities before applying the 
+prescribed stress, net of reinsurance; 
+b. The NAV after applying the prescribed stress, net of reinsurance, without the impact 
+of management actions; and 
+c. The effect of management actions on NAV after applying the prescribed stresses. 
+Example for Level and Trend component 
+The following example illustrates how results should be aggregated in a given Region A, 
+assuming that there are only two homogeneous risk groups for Region A 
+ 
+  Pre-stress NAV 
+  Assets 
+(a) 
+PV Benefits 
+(b) 
+PV 
+Expenses 
+(c) 
+PV 
+Premiums 
+(d) 
+Current 
+Estimate 
+(e)=(b)+(c)-
+(d) 
+Homogenous 
+Risk Group 1 
+Base 100 200 20 150 70 
+Homogenous 
+Risk Group 2 
+Base 80 100 10 50 60 
+Total  180 300 30 200 130 
+ 
+Base NAV for Region A=(100-70)+(80-60)=50 
+ 
+  Post stress NAV (net of reinsurance and without the impact of 
+management actions) 
+ 
+32 A dynamic lapse function varies the lapse rate used in the calculation of insurance liabilities depending 
+on the difference between the return the insurer is providing on its policies and the returns provided by 
+competitors.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 78 of 247 
+ 
+ 
+ Assets 
+(a) 
+PV Benefits 
+(b) 
+PV 
+Expenses 
+(c) 
+PV 
+Premiums 
+(d) 
+Current 
+Estimate 
+(e)=(b)+(c)-
+(d) 
+Homogenous 
+Risk Group 1 
+Upward 
+stress 
+100 150 10 100 60 
+Downward 
+stress 
+100 220 30 160 90 
+Homogenous 
+Risk Group 2 
+Upward 
+stress 
+60 80 10 40 50 
+Downward 
+stress 
+80 110 20 70 60 
+ 
+Assuming no impact of management actions 
+ 
+  Post stress NAV (net of reinsurance and with the impact of 
+management actions) 
+  Assets PV Benefits PV 
+Expenses 
+PV 
+Premiums 
+Current 
+Estimate 
+Homogenous 
+Risk Group 1 
+Upward 
+stress 
+100 150 10 100 60 
+Downward 
+stress 
+100 220 30 160 90 
+Homogenous 
+Risk Group 2 
+Upward 
+stress 
+60 80 10 40 50 
+Downward 
+stress 
+80 110 20 70 60 
+ 
+Post stress NAV for Group 1 = Min(100-60,100-90)=10 (downward stress resulted in larger 
+drop in NAV) 
+ 
+Post stress NAV for Group 2 = Min(60 -50, 80-60)=10 (upward stress resulted in a larger 
+drop in NAV)  
+ 
+Reported in Template for Region A 
+ 
+Lapse risk (Level and Trend component) 
+ 
+  Pre-
+stress 
+NAV 
+Post stress NAV 
+without the impact 
+of management 
+actions 
+Risk charge 
+without the impact 
+of management 
+actions 
+Credit for 
+exercising 
+management 
+actions 
+Risk charge 
+with the impact 
+of management 
+actions
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 79 of 247 
+ 
+ Region 
+A 
+ 50 20 30 0 30 
+  
+ 
+7.2.2.4.2 Mass Lapse Component 
+329. For each region listed in Section 7.1.2, the prescribed stress for the calculation of the 
+Mass Lapse component consists of: 
+• an immediate surrender of 30% of retail policies; and 
+• an immediate surrender of 50% of non-retail policies. 
+330. The Mass Lapse component for each homogeneous risk group is subject to a floor of 
+zero. 
+331. For each region listed in Section 7.1.2, the Mass Lapse component is first determined 
+for each homogeneous risk group before aggregating across all homogeneous risk groups. 
+332. Input data required are:  
+a. The pre-stress NAV, ie value of assets less insurance liabilities before applying the 
+prescribed stress, net of reinsurance; 
+b. The NAV after applying the prescribed stress, net of reinsurance, without the impact 
+of management actions; and 
+c. The effect of management actions on NAV after applying the prescribed stresses.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 80 of 247 
+ 
+7.2.2.5 Expense risk 
+333. The Expense risk charge covers both unit expense risk and expense inflation risk. 
+334. Unit expense risk is the risk of adverse change in the value of qualifying capital 
+resources due to unexpected changes in the level of expenses incorporated within the 
+insurance liabilities. Such expenses would include admin istrative and overhead expenses, 
+management expenses and acquisition expenses excluding commissions expected to be 
+incurred in future. 
+335. Expense inflation risk is the risk of expenses increasing at a higher rate than the 
+inflation rate assumed in the calcula tion of insurance liabilities due to adverse changes in 
+factors relating specifically to the insurance sector. This risk is applicable only to life business 
+and similar to life health business. 
+336. The Expense risk charge is calculated as the change in net ass et value after 
+simultaneously applying the prescribed stresses to the unit expense and expense inflation 
+assumptions. The prescribed stresses, based on the geographical segmentation, are specified 
+below. 
+337. The prescribed stresses for the calculation of the Expense risk charge consists of a 
+relative increase of x% in unit expense assumptions and an absolute increase of y% per 
+annum in expense inflation, with x and y specified in Table 14. 
+ 
+Table 14: Expense risk stress factors 
+Region x% 
+(unit expense) 
+y% 
+(expense inflation) 
+EEA and Switzerland 6% 1% 
+US and Canada 6% 1% 
+China 8% 
+Year 1 – 10: 3%; 
+Year 11 – 20: 2%; 
+Year 21 onwards: 1% 
+Japan 6% 1% 
+Other developed markets 8% Year 1 – 10: 2%; 
+Year 11 onwards: 1% 
+Other emerging markets 8% 
+Year 1 – 10: 3%; 
+Year 11 – 20: 2%; 
+Year 21 onwards: 1% 
+ 
+338. Expenses that are not subject to any estimation uncertainty are excluded from both 
+the unit and inflation stresses. The expense inflation stress is applied only to expenses that 
+are sensitive to inflation. 
+Example 
+For calculating the current estimate of liabilities, a global expected amount of expenses 𝒆𝒕 
+is projected for each future year 𝒕. This amount is split between an inflation -sensitive 
+amount ∏ (𝟏 + 𝒊𝒔)𝒕
+𝒔=𝟏 . 𝒆𝒊𝒔𝒕 (where 𝒊𝒔 is the expected future inflation for year s), an amount 
+𝒆𝒏𝒔𝒕 that is not sensitive to inflation and an amount 𝒆𝒅𝒕 that is deterministic (for instance,
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 81 of 247 
+ 
+𝒆𝒅𝒕 may include commissions based on a contractually determined percentage of future 
+fixed premiums). 
+After stress, the amount of expenses for year 𝒕 should be calculated as: 
+𝒆𝒕̃ = 𝒆𝒅𝒕 + (𝟏 + 𝒙) [∏(𝟏 + 𝒊𝒔 + 𝒚𝒔)
+𝒕
+𝒔=𝟏
+. 𝒆𝒊𝒔𝒕 + 𝒆𝒏𝒔𝒕] 
+where 𝒙 and 𝒚𝒔 are the risk factors specified in Table 14. 
+ 
+339. Input data required are:  
+a. The pre-stress NAV, ie value of assets less insurance liabilities before applying the 
+prescribed stress, net of reinsurance; 
+b. The NAV after applying the prescribed stress, net of reinsurance, without the impact 
+of management actions; and 
+c. The effect of management actions on NAV after applying the prescribed stresses.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 82 of 247 
+ 
+7.2.3 Calculation of Non-Life risk charge 
+ 
+Relevant Worksheet in Template: ICS Insurance Risk Charges 
+ 
+7.2.3.1 Segments/Lines of Business 
+340. Non-Life risk charges are applicable to non-life business and similar to non-life health 
+business. 
+341. The Non-Life risk charge comprises both Premium risk and Claims Reserve risk, which 
+are captured by a factor-based approach with factors applied to ICS segments within defined 
+regions, as specified below. The Claims Reserve risk factors include the effects of Latent 
+Liability risk. 
+342. Premium and Claims Reserve risk charges are calculated based on the geographical 
+segmentation specified in Section 7.1.2. The geographical segmentation is further segmented 
+into lines of business based on statutory reporting in certain regions. 
+343. Each exposure for Premium risk and Claims Reserve risk is mapped to a line of 
+business based on the location of risk. Each line of business has a correspo nding ICS 
+segment, as specified in Table 16. If location of risk information is not available, the location 
+of the legal entity underwriting the business may be used as a proxy. Any jurisdiction not 
+explicitly listed in Table 16 is allocated to either Other developed markets or Other emerging 
+markets according to Table 7. 
+7.2.3.2 Definition of ICS Segments and Risk Charges 
+344. Each ICS segment is assigned: 
+a. An ICS category: a high level grouping of the type of business (property -like, liability-
+like, motor-like, other, mortgage and credit); and 
+b. A risk factor for the purpose of calculating the risk charge. 
+345. Premium risk factors do not include the impact of catastrophe events since 
+Catastrophe risk is a separate risk within the ICS.  
+346. Some of the Claims Reserve risk factors take into account Latent Liability risk. The 
+purpose of the Latent Liability risk charge is to capture risk from liability exposures that is not 
+adequately captured by historical claims experience.  
+347. Table 16 provides the list of ICS segments, the associated ICS category, as well as 
+the risk charges for Premium and Claims Reserve risks. The definitions of ICS segments are 
+provided in Annex 2. 
+7.2.3.3 Aggregation 
+348. The Non-Life risk charge is calculated using an aggregation approach that recognises 
+diversification across lines of business and regions. The correlation factors are specified 
+below. The aggregation approach recognises the following sources of diversification: 
+• Between Premium risk and Claims Reserve risk; 
+• Within ICS categories, which is a high-level grouping of the type of business;
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 83 of 247 
+ 
+• Within a region; and 
+• Across regions. 
+349. The calculation of Non-Life risk charges for each ICS segment takes into account 
+diversification effects. 
+350. The first step of aggregation combines each ICS segment’s Premium risk and Claims 
+Reserve risk charges, applying a 25% correlation factor between the Premium and Claims 
+Reserve risk charges for all segments (with the exception of mortgage and credit as outlined 
+below). 
+351. Mortgage business and credit business are added across all regions and then 
+aggregated with Real Estate risk and Credit risk, respectively. 
+352. The second step of aggregation is within ICS categories, where a correlation matrix is 
+applied across segments of a given category. The correlation factors are specified in Table 15 
+below: 
+Table 15: Within category correlation factors 
+ICS Categories 
+Correlation factor 
+between segments 
+within the category 
+Liability-like 50% 
+Motor-like 75% 
+Property-like 50% 
+Other 25% 
+  
+353. The third step of aggregation is within each region listed in Section 7.1.2, using a 50% 
+correlation factor between each of the four ICS categories. 
+354. The fourth step of aggregation is across regions, using a 25%  correlation factor 
+between each region’s total risk charge. 
+355. As an example, Figure 4 shows how Non-Life risk exposures are categorised into 
+regions, geographical segments, ICS categories and ICS segments.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 84 of 247 
+ 
+Figure 4: Categorisation of non-life risk exposure, showing how Singapore Motor-like ICS 
+Category is aggregated 
+ 
+7.2.3.4 Input Data Required 
+356. The following amounts are required for each relevant region and ICS segment within 
+that region: 
+357. Premium Risk 
+a. Net premium – Earned – Report the net earned premium (net of ceded reinsurance) 
+as defined under statutory reporting in each region for the latest financial year (eg from 
+1 January 2021 to 31 December 2021 for end of December reporting date). 
+b. Net premium – To be earned (Y +1) – Report the expected premium, net of ceded 
+reinsurance, to be earned in the next financial year (eg from 1 January 2022 to 31 
+December 2022 for end of December reporting date). This figure should be consistent 
+with the business already written and include expected new business. 
+c. Net premium – Written – Report the net written premium (net of ceded reinsurance) as 
+defined under statutory reporting in that country/region for the latest financial year (eg 
+from 1 January 2021 to 31 December 2021 for end of December reporting date). 
+The Premium risk charge for each ICS segment is calculated as the relevant risk factor 
+multiplied by the greater of the net premium earned and net premium to be earned.  
+When net premium earned is not reported by the IAIG, net written premium is used as 
+a proxy.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 85 of 247 
+ 
+358. Claims Reserve Risk 
+Net current estimate – Claims – Report the net current estimate for claims as at the 
+end of the most recent financial year (eg 31 December 2020 for end of December 
+reporting date). 
+The Claims Reserve risk charge for each ICS segment is calculated as the relevant 
+risk factor multiplied by the net current estimate. 
+Table 16: ICS Non-Life Segmentation 
+ 
+ICS Segment 
+ICS 
+Category 
+Premium 
+risk 
+factor 
+Claims 
+Reserve 
+risk 
+factor 
+EEA and 
+Switzerland 
+Medical expense insurance Other 15% 10% 
+Income protection Other 25% 35% 
+Workers' Compensation Liability-like 25% 27% 
+Motor vehicle liability - Motor 
+third party liability Motor-like 20% 15% 
+Motor, other classes Motor-like 20% 15% 
+Marine, aviation and 
+transport Property-like 35% 25% 
+Fire and other damage Property-like 17.5% 17.5% 
+General liability - third party 
+liability Liability-like 35% 27% 
+Credit and suretyship Credit 35% 50% 
+Legal expenses Other 15% 40% 
+Assistance Other 15% 50% 
+Miscellaneous financial loss Other 30% 35% 
+Non-proportional health 
+reinsurance Other 50% 45% 
+Non-proportional Casualty 
+reinsurance Liability-like 55% 45% 
+Non-proportional marine, 
+aviation and transport 
+reinsurance 
+Property-like 55% 40% 
+Non-Proportional property 
+reinsurance Property-like 45% 40% 
+Canada 
+Property - personal Property-like 35% 25% 
+Home Warranty Property-like 30% 25%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 86 of 247 
+ 
+ 
+ICS Segment 
+ICS 
+Category 
+Premium 
+risk 
+factor 
+Claims 
+Reserve 
+risk 
+factor 
+Product Warranty Property-like 30% 25% 
+Property - commercial Property-like 30% 30% 
+Aircraft Property-like 45% 35% 
+Automobile - liability/personal 
+accident Motor-like 35% 20% 
+Automobile - other Motor-like 35% 20% 
+Boiler and Machinery Property-like 30% 25% 
+Equipment Warranty Property-like 30% 25% 
+Credit Insurance Credit 45% 30% 
+Credit Protection Credit 45% 30% 
+Fidelity Other 45% 30% 
+Hail Property-like 35% 30% 
+Legal Expenses Other 45% 40% 
+Liability Liability-like 50% 38% 
+Mortgage Mortgage 45% 30% 
+Surety Credit 45% 30% 
+Title Liability-like 35% 30% 
+Marine Property-like 45% 35% 
+Accident and Sickness Other 45% 30% 
+Other Approved Products Other 45% 35% 
+US 
+Auto physical damage Motor-like 12.5% 10% 
+Homeowners/ Farm owners  Property-like 30% 15% 
+Special property Property-like 25% 17.5% 
+Private passenger auto 
+liability/ medical Motor-like 15% 15% 
+Commercial auto/ truck 
+liability/ medical Motor-like 15% 15% 
+Workers' compensation Liability-like 15% 16% 
+Commercial multi-peril Liability-like 30% 26% 
+Medical professional liability -
+- Occurrence Liability-like 40% 45%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 87 of 247 
+ 
+ 
+ICS Segment 
+ICS 
+Category 
+Premium 
+risk 
+factor 
+Claims 
+Reserve 
+risk 
+factor 
+Medical professional liability 
+– Claims-Made Liability-like 30% 35% 
+Other Liability – Occurrence Liability-like 17.5% 28% 
+Other Liability – Claims-Made  Liability-like 15% 20% 
+Products liability Liability-like 45% 47% 
+Reinsurance – non-
+proportional assumed 
+property 
+Property-like 35% 25% 
+Reinsurance – non-
+proportional assumed liability Liability-like 45% 39% 
+Special liability Liability-like 30% 25% 
+Mortgage insurance Mortgage 45% 30% 
+Fidelity/surety Credit 35% 40% 
+Financial Guaranty Credit 45% 25% 
+Other Other 25% 35% 
+Reinsurance – non-
+proportional assumed 
+financial lines 
+Other 45% 20% 
+China 
+Motor Motor-like 10% 20% 
+Property, including 
+commercial, personal and 
+engineering 
+Property-like 30% 45% 
+Marine and Special Property-like 25% 45% 
+Liability Liability-like 10% 36% 
+Agriculture Property-like 25% 35% 
+Credit Credit 45% 35% 
+Short-term Accident Other 10% 10% 
+Short-term Health Other 10% 10% 
+Short-term Life Other 10% 20% 
+Others Other 35% 20% 
+Japan 
+Fire Property-like 20% 35% 
+Hull Property-like 40% 35%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 88 of 247 
+ 
+ 
+ICS Segment 
+ICS 
+Category 
+Premium 
+risk 
+factor 
+Claims 
+Reserve 
+risk 
+factor 
+Cargo Property-like 35% 40% 
+Transit Property-like 40% 35% 
+Personal Accident Other 10% 15% 
+Automobile Motor-like 7.5% 10% 
+Aviation Property-like 50% 45% 
+Guarantee Ins. Credit 35% 40% 
+Machinery Property-like 35% 40% 
+General Liability Liability-like 17.5% 27% 
+Contractor's All Risks Property-like 35% 40% 
+Movables All Risks Property-like 17.5% 25% 
+Workers' Compensation Liability-like 35% 22% 
+Misc. Pecuniary Loss Other 35% 45% 
+Nursing Care Ins. Other 35% 45% 
+Others Other 35% 40% 
+Australia and 
+New Zealand 
+Householders Property-like 30% 20% 
+Commercial Motor Motor-like 25% 20% 
+Domestic Motor Motor-like 25% 20% 
+Other type A Other 25% 20% 
+Travel Other 35% 25% 
+Fire and ISR Property-like 30% 25% 
+Marine and Aviation Property-like 35% 25% 
+Consumer Credit Credit 35% 15% 
+Other Accident Other 35% 25% 
+Other type B Other 35% 35% 
+Mortgage Mortgage 45% 30% 
+CTP Motor-like 45% 35% 
+Public and Product Liability Liability-like 45% 31% 
+Professional Indemnity Liability-like 45% 35% 
+Employers’ Liability Liability-like 45% 36%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 89 of 247 
+ 
+ 
+ICS Segment 
+ICS 
+Category 
+Premium 
+risk 
+factor 
+Claims 
+Reserve 
+risk 
+factor 
+Short tail medical expenses Other 15% 25% 
+Other type C Other 45% 35% 
+Householders - non-prop 
+reins Property-like 45% 30% 
+Commercial Motor - non-prop 
+reins Motor-like 45% 30% 
+Domestic Motor - non-prop 
+reins Motor-like 45% 30% 
+Other non-prop reins type A Other 45% 30% 
+Travel - non-prop reins Other 45% 35% 
+Fire and ISR - non-prop reins Property-like 55% 40% 
+Marine and Aviation - non-
+prop reins Property-like 55% 40% 
+Consumer Credit - non-prop 
+reins Credit 55% 40% 
+Other Accident - non-prop 
+reins Other 55% 40% 
+Other non-prop reins type B Other 55% 35% 
+Mortgage - non-prop reins Mortgage 50% 35% 
+CTP - non-prop reins Motor-like 55% 40% 
+Public and Product Liability - 
+non-prop reins Liability-like 55% 43% 
+Professional Indemnity - non-
+prop reins Liability-like 55% 40% 
+Employer’s Liability - non-
+prop reins Liability-like 55% 43% 
+Other non-prop reins type C Other 55% 40% 
+Hong Kong 
+SAR 
+Accident and health Other 30% 25% 
+Motor vehicle, damage and 
+liability Motor-like 25% 15% 
+Aircraft, damage and liability Property-like 45% 40% 
+Ships, damage and liability  Property-like 45% 40% 
+Goods in transit Property-like 45% 50%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 90 of 247 
+ 
+ 
+ICS Segment 
+ICS 
+Category 
+Premium 
+risk 
+factor 
+Claims 
+Reserve 
+risk 
+factor 
+Fire and Property damage Property-like 35% 20% 
+General liability Liability-like 45% 26% 
+Pecuniary loss Other 45% 35% 
+Non-proportional treaty 
+reinsurance Property-like 45% 25% 
+Proportional treaty 
+reinsurance Property-like 35% 35% 
+Korea 
+Fire, technology, overseas Property-like 25% 30% 
+Package Property-like 35% 50% 
+Maritime Property-like 45% 45% 
+Personal injury Other 35% 50% 
+Workers accident, liability Liability-like 12.5% 31% 
+Foreigners Other 15% 10% 
+Advance payment refund 
+guarantee Credit 50% 50% 
+Other Non-life Other 45% 50% 
+Private vehicle (personal 
+injury) Motor-like 15% 30% 
+Private vehicle (property, 
+vehicles damage) Motor-like 25% 35% 
+Vehicle for commercial or 
+business purpose(personal 
+injury) 
+Motor-like 25% 20% 
+Vehicle for commercial or 
+business purpose(property, 
+vehicles) 
+Motor-like 25% 20% 
+Other motor Motor-like 15% 20% 
+Singapore 
+Personal Accident Other 30% 25% 
+Singapore/Health Other 25% 20% 
+Singapore/Fire Property-like 30% 25% 
+Marine and Aviation - Cargo Property-like 35% 30% 
+Motor Motor-like 30% 25%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 91 of 247 
+ 
+ 
+ICS Segment 
+ICS 
+Category 
+Premium 
+risk 
+factor 
+Claims 
+Reserve 
+risk 
+factor 
+Work Injury Compensation Liability-like 35% 31% 
+Bonds Credit 35% 30% 
+Engineering Construction Property-like 35% 30% 
+Credit Credit 35% 30% 
+Mortgage Mortgage 35% 30% 
+Others- non liability class Other 35% 30% 
+Marine and Aviation - Hull Property-like 45% 35% 
+Professional indemnity Liability-like 35% 35% 
+Public liability Liability-like 35% 31% 
+Others - liability class Liability-like 35% 31% 
+Chinese 
+Taipei 
+Fire - residence Property-like 25% 40% 
+Fire - commercial Property-like 55% 45% 
+Marine - inland cargo Property-like 30% 25% 
+Marine - overseas cargo Property-like 30% 25% 
+Marine - hull Property-like 55% 45% 
+Marine - fish boat Property-like 45% 45% 
+Marine - aircraft Property-like 55% 45% 
+Motor - personal vehicle Motor-like 25% 25% 
+Motor - commercial vehicle Motor-like 25% 25% 
+Motor - personal liability Motor-like 25% 25% 
+Motor - commercial liability Motor-like 25% 25% 
+Liability - public, employer, 
+product, etc. Liability-like 35% 36% 
+Liability - professional Liability-like 35% 35% 
+Engineering Property-like 55% 45% 
+Nuclear power station Property-like 55% 45% 
+Guarantee - surety, fidelity Credit 55% 45% 
+Credit Credit 55% 45% 
+Other property damage Property-like 35% 40% 
+Accident Other 15% 10%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 92 of 247 
+ 
+ 
+ICS Segment 
+ICS 
+Category 
+Premium 
+risk 
+factor 
+Claims 
+Reserve 
+risk 
+factor 
+Property Damage - 
+commercial earthquake Property-like 45% 35% 
+Comprehensive - personal 
+property and liability Property-like 45% 45% 
+Comprehensive - commercial 
+property and liability Property-like 45% 45% 
+Property damage - typhoon 
+and flood Property-like 55% 45% 
+Property damage - 
+compulsory earthquake Property-like 55% 45% 
+Health Other 15% 10% 
+Other 
+Developed 
+ 
+Motor Motor-like 30% 20% 
+Property damage Property-like 30% 25% 
+Accident, protection and 
+health (APH) Other 35% 30% 
+Short tail medical expenses Other 35% 25% 
+Other short tail Other 35% 30% 
+Marine, Air, Transport (MAT) Property-like 35% 35% 
+Workers' compensation Liability-like 35% 36% 
+Public liability Liability-like 35% 31% 
+Product liability Liability-like 35% 43% 
+Professional indemnity Liability-like 35% 35% 
+Other liability and other long 
+tail Liability-like 35% 36% 
+Non-proportional motor, 
+property damage, APH and 
+MAT 
+Property-like 50% 40% 
+Catastrophe reinsurance Property-like 50% 40% 
+Non-proportional liability Liability-like 50% 44% 
+Non-proportional professional 
+indemnity Liability-like 50% 40% 
+Mortgage insurance Mortgage 45% 35% 
+Commercial credit insurance Credit 45% 35%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 93 of 247 
+ 
+ 
+ICS Segment 
+ICS 
+Category 
+Premium 
+risk 
+factor 
+Claims 
+Reserve 
+risk 
+factor 
+Other medium-term Other 50% 40% 
+Other 
+Emerging 
+Motor Motor-like 35% 25% 
+Property damage Property-like 35% 30% 
+Accident, protection and 
+health (APH) Other 35% 30% 
+Short tail medical expenses Other 35% 25% 
+Other short tail Other 35% 30% 
+Marine, Air, Transport (MAT) Property-like 35% 35% 
+Workers' compensation Liability-like 45% 36% 
+Public liability Liability-like 45% 36% 
+Product liability Liability-like 45% 47% 
+Professional indemnity Liability-like 45% 35% 
+Other liability and other long 
+tail Liability-like 45% 36% 
+Non-proportional motor, 
+property damage, APH and 
+MAT 
+Property-like 50% 45% 
+Catastrophe reinsurance Property-like 50% 45% 
+Non proportional liability Liability-like 50% 48% 
+Non-proportional professional 
+indemnity Liability-like 50% 45% 
+Mortgage insurance Mortgage 50% 40% 
+Commercial credit insurance Credit 50% 40% 
+Other medium-term Other 55% 40%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 94 of 247 
+ 
+7.2.4 Calculation of Catastrophe risk charge 
+ 
+Relevant Worksheet in Template: ICS Insurance Risk Charges 
+ 
+359. Catastrophe risk is a risk that affects both life and non-life business. The Catastrophe 
+risk charge covers risks associated with low frequency, high severity events occurring at any 
+point in time in the next 12 months and takes into account all expected in-force business when 
+the event occurs. 
+360. Risk mitigation arrangements (eg outwards reinsurance protection purchased) may 
+reduce the overall Catastrophe risk charge. 
+361. Catastrophe risk is segmented at the risk/peril level. Perils cover both naturally 
+occurring perils (natural catastrophes) and man -made perils/scenarios (other catastrophes) 
+and their consequences. 
+7.2.4.1 Scope of Calculation 
+362. When calculating the Ca tastrophe risk charge, all lines of business exposed to 
+Catastrophe risk are considered. For example, a natural catastrophe such as an earthquake 
+could impact not only the residential property, commercial property, auto and marine (incl. 
+energy offshore) lines of business, but also specie/fine art, personal accident, aviation, liability, 
+workers’ compensation and some life or health insurance lines of business.  To avoid double 
+counting with the other ICS risk charges, the following principles are applied: 
+a. Life and similar to life health business are included only for the pandemic and terrorism 
+scenarios; and 
+b. The impact on financial markets and the whole economy (Market and Credit risks) is 
+not included in the calculation of Catastrophe risk. 
+363. Before performing a detailed calculation, IAIGs should assess the materiality of the 
+impact of catastrophe events based on their contractual exposure to the perils and scenarios 
+listed. If it is determined that possible exposure to a specific scenario is immaterial, then a 
+detailed calculation is not required. 
+364. IAIGs should report losses gross , as well as net , of protection from qualifying risk 
+mitigation arrangements. The amounts reported gross of protections should be calculated net 
+of reinstatement premium received (ie net of inward reinstatement premium). The amounts 
+reported net of protections should take into account any reinstatement premiums received and 
+paid (ie net of inward and outward reinstatement premium). 
+7.2.4.2 Covered Perils 
+365. The perils covered by Catastrophe risk are: 
+a. Natural catastrophe: 
+i. Tropical cyclone, hurricane, typhoon; 
+ii. Extra-tropical windstorm/winter storm; 
+iii. Earthquake; and
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 95 of 247 
+ 
+iv. Other material natural perils, such as: 
+• Flood; 
+• Tornado, hail, convective storms; and 
+• Other risks. 
+b. Other catastrophes (Man-Made Perils/Scenarios): 
+i. Terrorist attack; 
+ii. Pandemic; and 
+iii. Credit and Surety. 
+366. The impact of catastrophe claim events include not only the main peril (eg windstorm, 
+earthquake) but also the secondary perils associated with the primary peril. Secondary perils 
+can affect all lines of business within the scope of the calculation.  
+367. The impact of catastrophe claim events include both the main peril and any secondary 
+perils associated with the main peril. For example, the main peril tropical cyclone may cause 
+secondary perils such as storm surge and events such as dam breaking as well as de mand 
+surge or loss amplification. Similarly, fire or tsunami following an earthquake, sprinkler leakage 
+and demand surge or loss amplification should be associated with the earthquake scenario, 
+as appropriate. 
+7.2.4.3 Natural Catastrophe 
+368. Stochastic catastrophe models may be used to calculate loss amounts resulting from 
+natural catastrophe events. The models may be either vendor or proprietary models. 
+369. Loss amounts are calculated considering: 
+a. The impact of natural catastrophe on all lines of business affected; 
+b. An allowance for non-modelled exposures including expected new business over the 
+target time horizon of one year that could be affected by the listed perils; and 
+c. An allowance for non-modelled perils and regions reported as part of the other natural 
+catastrophe losses. This may include perils and regions that are not modelled 
+individually or specifically but for which potential losses are assessed using other 
+approaches. 
+370. For each peril to which the IAIG is exposed, the following amounts are reported:  
+a. Total annual aggregate losses gross of protections (eg gross of external reinsurance 
+protection); and 
+b. Total annual aggregate losses net of protections (eg net of external reinsurance 
+protection). 
+371. The natural catastrophe risk charge is the difference between the 99.5th percentile and 
+the mean of the total annual aggregate losses, net of protections. The annual aggregate losses 
+are calculated as the aggregation of losses across all regions and perils.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 96 of 247 
+ 
+7.2.4.4 Other Catastrophe Scenarios 
+372. The loss amounts for the following perils are determined according to the scenarios 
+described below. 
+373. The impact of the scenarios is calculated for all lines of business affected by the 
+respective scenario, unless otherwise specified in the scope of the calculation. 
+374. For each scenario, the loss amounts (both gross and net of external protections ) 
+should be reported. For scenarios that a re not material, IAIGs may adopt a simplified and 
+prudent approach to provide a reasonable approximation. 
+7.2.4.4.1 Terrorist Attack 
+375. The risk charge is the sum of the losses from the following two components: 
+a. Total loss of property (including building, content, motor vehicles) from insurance 
+contracts and the impact on other insurance contracts resulting directly from the loss 
+of property; and 
+b. The losses from life insurance contracts, health coverage and workers’ compensation. 
+376. For both the life and non-life components, the scenario is a five -tonne bomb blast for 
+the largest geographical risk concentration partly or fully located within a radius of 500 metres. 
+To determine this concentration, all buildings (including properties for own use) are 
+considered. The largest concentration is determined separately for the  life and non -life 
+components. 
+377. For property damage, including insured properties and related covers, the following 
+assumptions are made: 
+• 100% damage ratio within a circular zone of a 200 metre radius; 
+• 25% damage ratio for the next circular zone up to a 400 metre radius; and 
+• 10% damage ratio between 400 and 500 metres. 
+378. For fatalities, the following assumptions are made: 
+• 15% fatality rate within a circular zone of a 200 metre radius; and 
+• 1.5% fatality rate between 200 and 500 metres. 
+379. For disabilities, the following assumptions are made: 
+• 20% disability rate within a circular zone of a 200 metre radius; and 
+• 10% fatality rate between 200 and 500 metres. 
+380. Fatalities and disabilities should only take into ac count liabilities from insurance 
+contracts (eg life and health insurance policies). In particular, liabilities to own staff not 
+originating from insurance contracts (eg through benefits or other forms of exposure) should 
+not be included. For life insurance liabilities for which the geographical location is not available, 
+IAIGs should make a best effort estimation of the concentration of exposures considering, in 
+particular, group policies. 
+7.2.4.4.2 Pandemic
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 97 of 247 
+ 
+381. The scenario is an increase in the number of deaths following a global pandemic. The 
+risk charge is the total loss amount to all individual and group insurance products covering 
+Mortality risk in any part of the world resulting from the increase of 1.0 in the number of deaths 
+per thousand insureds. 
+7.2.4.4.3 Credit and Surety 
+382. The risk charge is the sum of the losses from the following three components: 
+a. Mortgage insurance; 
+b. Trade credit; and 
+c. Surety. 
+7.2.4.4.3.1 Mortgage insurance 
+383. The scenario is calculated as an aggregate loss amount resulting from an increase in 
+frequency and severity due to the specified decline in home prices. A 25% decline in home 
+prices is assumed to persist for the entire one-year time period. The total loss amount includes 
+the impact of both an increase in frequency of delinquency and defaults and an increased loss 
+severity that result from the decline in home prices. 
+384. In implementing the stress scenario and to account for differences in risk profiles 
+across various exposures and activities, portfolios and business activities are segmented into 
+categories based on common or related risk characteristics. Appropriate models should be 
+used to translate the relevant risk factor (home price decline) into the financial impact 
+(increased losses). Where applicable, those models that the IAIG already uses to calculate 
+stress losses, premium deficiency reserves or other loss measures should be used. 
+7.2.4.4.3.2 Trade Credit 
+385. The credit stress scenario for trade credit is defined as the total loss amount due to the 
+inability of customers of the policyholder to pay for goods delivered and/or services provided. 
+The trade credit coverage indemnifies the policyholder for bad debt losses incurred due to a 
+customer’s inability to pay. A policyholder’s custo mer’s inability to pay is indicated by an 
+increase in both the probability of default and the loss given default of that customer. The total 
+loss amount is adjusted for any existing loss mitigation, including reimbursements from 
+policyholder, retention etc. 
+386. To help approximate these total loss amounts, IAIGs should first calculate their 
+aggregate net earned premium for trade credit by external credit rating category: investment 
+grade vs. non -investment grade. Then the following factors are applied to net pr emiums 
+earned in the past year by rating category. Considering that the scenario does not require the 
+identification of specific defaulting customers, the factors should be applied to the net premium 
+earned as a way to reflect the impact of reinsurance. No  further adjustment for reinsurance 
+protection (eg non-proportional reinsurance) is required to calculate the loss amount. 
+Table 17: Credit stress factors for trade credit 
+Rating category Factor 
+Investment Grade 80% 
+Non-Investment Grade 200%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 98 of 247 
+ 
+387. The investment grade and non-investment grade categories are determined using the 
+current rating of the policyholder’s customers (if available). If a customer is not rated, the IAIG 
+may use its internal rating system or assume it is non-investment grade. 
+388. If the IAIG is not able to apply the above factors due to internal data limitations, the 
+company should apply a stress loss ratio equal to the worst experience that occurred between 
+2008 and 2010 to the net earned premium for trade credit. 
+7.2.4.4.3.3 Surety 
+389. The credit stress scenario for surety is defined as the total net potential loss amount 
+based on the penal sum of the surety bond. A surety bond indemnifies the policyholder from 
+the principal’s inability to perform its contractua l obligation. The penal sum represents the 
+maximum amount that the IAIG is required to pay to the beneficiary. The IAIG calculates the 
+largest net potential losses for its ten largest exposures to surety counterparties (principals) 
+using the methodology described below. The total net potential loss amount assumes that the 
+two largest net losses have occurred, and is therefore equal to the sum of the two largest net 
+losses. 
+390. The net potential loss amount for a principal is calculated using the gross exposure of 
+the principal (after any contractual amortisation that has occurred). The loss severity model 
+95% probable maximum loss (PML) factor is applied to the gross exposure. For US exposures, 
+the loss severity model 90% PML for each principal can be calculated using the most current 
+construction loss severity model developed by the Surety & Fidelity Association of America. 
+For non-US exposures, a loss severity model 95% PML worst gross loss to exposure ratio for 
+the past 10 years in that country or for that exp osure type is used, whichever is the most 
+granular. The loss amount is then adjusted for any co-surety arrangements, acceptable cash 
+collateral (currently in the custody of the IAIG) and any reinsurance arrangements.  
+391. The co-surety amount and the adjustment for reinsurance are calculated using existing 
+terms of the surety exposure. Adjustments can only be made for cash collateral already in 
+custody with the IAIG or in a trust for which the IAIG is a beneficiary. 
+Example of Credit Stress for Surety 
+ 
+ Loss calculation Surety 
+Exposure 
+1 Gross Exposure for Principal  10,000,000 
+2 Loss Severity Model 95% PML Factor 0.4 
+3 Loss Severity Model 95% PML Amount = (1) 
+* (2) 
+4,000,000 
+4 Adjustment for co-surety (co-surety % * (3)) 400,000 
+5 Net PML Amount after Co-surety = (3) - (4) 3,600,000 
+6 Acceptable cash collateral 100,000 
+7 Net PML amount = (5) - (6) 3,500,000 
+8 Adjustment for reinsurance 50,000 
+9 Net potential Loss amount  3,450,000
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 99 of 247 
+ 
+7.2.4.5 Aggregation of Catastrophe Risks 
+392. For the purpose of calculating the Catastrophe risk charge, the other catastrophe 
+scenarios are assumed to be mutually independent and independent of the natural 
+catastrophe perils. Consequently, the total ICS catastrophe risk charge will be calculated as 
+follows: 
+𝐼𝐶𝑆𝐶𝑎𝑡 =  √𝐼𝐶𝑆𝑁𝑎𝑡𝐶𝑎𝑡
+2 + 𝐼𝐶𝑆𝑇𝑒𝑟𝑟𝑜𝑟
+2 + 𝐼𝐶𝑆𝑃𝑎𝑛𝑑
+2 + 𝐼𝐶𝑆𝐶𝑟𝑒𝑑𝑖𝑡 & 𝑆𝑢𝑟𝑒𝑡𝑦
+2   
+7.2.4.6 Calculation of the Recoverable Amount to be used for the Calculation of Contingent 
+Credit Risk 
+393. The recoverable amount is calcul ated as the difference between the risk charge for 
+Catastrophe risk calculated as if the risk mitigation arrangements did not exist, and the risk 
+charge for Catastrophe risk calculated taking into account qualifying risk mitigation 
+arrangements. 
+394. The recoverable amount is allocated by credit rating categories, using the following 
+steps: 
+a. For the aggregate of the Natural Catastrophe risk and for each other catastrophe 
+scenario, calculate the recoveries by rating class and the gross and net losses; 
+b. Aggregate all gross and net losses using the aggregation approach described above. 
+The difference between aggregated gross and net losses is the total recoverable; and 
+c. The recoverable by rating class is equal to the total recoverable multiplied by the ratio 
+of the sum over all scenarios of the recoveries in that rating class to the sum over all 
+scenarios of the recoveries for all rating classes. 
+395. The approach is illustrated by the following example. For simplicity, it is assumed that 
+the terrorist attack scenario is the  only other catastrophe scenario and therefore the 
+Catastrophe risk charge is the square root of the sum of the square of the Natural Catastrophe 
+risk charge and the Terrorist Attack risk charge.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 100 of 247 
+ 
+Example 
+ 
+    
+Natural 
+catastrophe 
+Terrorist 
+attack 
+Catastrophe 
+risk charge 
+Gross Loss: A ICS RC 150 50 158 
+Reinsurance recoverable      
+ Recovery 1: B1 1 20 10   
+ Recovery 2: B2 1 20 10   
+ Recovery 3: B3 2 10 5   
+Net loss: C = A - B1 - B2 - B3  100 25 103 
+Recoverable amount: D= A - C       55 
+     
+     
+All recoverable in ICS RC 1: B1 + B2 40 20 60 
+All recoverable in ICS RC 2: B3 10 5 15 
+       
+% recoverable in ICS RC 1 : E1 = (B1 + B2 ) / (B1 + B2 + B3)  80% 
+% recoverable in ICS RC 2 : E2 = B3 / (B1 + B2 + B3)  20% 
+       
+Total recoverable amount = D    55 
+Recoverable in ICS RC 1: D * E1    44 
+Recoverable in ICS RC 2: D * E2       11 
+ 
+ 
+396. The recoverable amounts by ICS RC are reported in the column Reduction in ICS risk 
+charges of the relevant Credit risk section of the worksheet ICS Insurance Risk Charges and 
+are subject to the risk charge for maturities of 1-2 years. 
+7.2.4.7 Safeguards for Natural Catastrophe Models 
+397. In order to assess the appropriateness of stochastic natural catastrophe models, IAIGs 
+provide information on the following safeguards. 
+398. Safeguard 1 – Description of the scope of application: IAIGs describe the perimeter of 
+the natural catastrophe model’s calculation.  This description includes a list of catastrophes 
+that are modelled. Catastrophes that are not modelled should also be described, which will be 
+further detailed in the section on Safeguard 7. 
+399. Safeguard 2 – Validation: IAIGs demonstrate that a rigorous proc ess is in place by 
+which they can establish whether their natural catastrophe model framework is sound or 
+whether improvements are needed.  
+400. Validation should enable IAIGs to better understand the capabilities and limitations of 
+the natural catastrophe mode l and confirm that the natural catastrophe model and the 
+supporting processes are adequate and appropriate for the purpose. Validation should be an 
+iterative process by which IAIGs using a natural catastrophe model periodically refine 
+validation tools in response to changing market and operating conditions. There is no universal
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 101 of 247 
+ 
+validation method, and the structure of the validation approach depends on the technical 
+specifications of the natural catastrophe model, its purpose and its intended use. When local 
+regulations explicitly specify that a natural catastrophe model may be used for the calculation 
+of insurance liability or premium rates, and the GWS verifies that the model appropriately 
+reflects the risk characteristics of the IAIG, this safeguard is sa tisfied provided that the IAIG 
+demonstrates its understanding of the capabilities and limitations of the model. 
+401. Validation should encompass both quantitative and qualitative elements. While it might 
+be possible to think of validation as a purely technical/ mathematical exercise in which 
+outcomes are compared to estimates using statistical techniques, it is insufficient to focus 
+solely on comparing predictions to outcomes. In assessing the overall performance of a natural 
+catastrophe model, it is important to assess the overall model and each of its building blocks 
+regarding the structure, governance, data and processes. 
+402. Finally, to achieve an effective validation, an objective challenge is essential. 
+Independent model validation helps the IAIG evaluate and ve rify the overall performance of 
+their natural catastrophe model. Proper independence of the validation function is therefore 
+important, whether the validation is internal or external, and individuals performing the 
+validation must possess the necessary skills, knowledge, expertise and experience. 
+403. Safeguard 3 – Sign-off by senior management: The senior management of the IAIG 
+has ownership of the natural catastrophe model, and the model complies with the validation 
+process prescribed by the natural catastroph e model governance process. Moreover, senior 
+management should have a certain level of engagement concerning the natural catastrophe 
+models as part of the use test, which will be further detailed in the section on Safeguard 5. 
+404. Safeguard 4  – Statistical quality test : The statistical quality test addresses issues 
+related to the following technical aspects of the natural catastrophe model: 
+• methodology and assumptions; 
+• coverage of material risks; 
+• data (including external data) and expert judgment; 
+• aggregation of risks and diversification effects; 
+• consistency with the method used for the calculation of technical provisions; 
+• allowance for risk mitigation techniques and future management actions; and 
+• financial guarantees and contractual options. 
+405. The statistical quality test concentrates on the individual building blocks of a natural 
+catastrophe model. The different elements making up the natural catastrophe model and the 
+inputs used must pass this test. 
+406. The statistical quality test also sets the boundar ies within which IAIGs should take 
+responsibility for specifying their approach to assess and aggregate risks. In conjunction with 
+natural catastrophe model validation requirements, the statistical quality test promotes a well-
+structured, documented and controlled process of model development and refinement which 
+should be consistently applied across the IAIG, including the different modelling areas. 
+407. Data used to build the natural catastrophe model are one of the main drivers of its 
+performance. Natural cat astrophe model s need high -quality data in order to produce 
+sufficiently reliable results. The data used for a natural catastrophe model should be current
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 102 of 247 
+ 
+and sufficiently credible, accurate, complete and appropriate. Hence, a ‘statistical quality test’ 
+should examine the appropriateness of the underlying data used in the construction of the 
+natural catastrophe model. Any data not specific to the insurer would need to be carefully 
+considered before deciding if it is appropriate for use as the basis for an in surer's ‘statistical 
+quality test’. Even where deemed appropriate, it may still be necessary to adjust the data to 
+allow for differences in features between the data source and the insurer. 
+408. The statistical quality test should include future projections within the model and, to the 
+extent practicable, ‘back-testing’ (the process of comparing the predictions from the model 
+with actual experience). 
+409. When local regulations explicitly specify that a natural catastrophe model may be used 
+for the calculation of insurance liability or premium rates, and the GWS verifies that the model 
+appropriately reflects the risk characteristics of the IAIG, this safeguard is satisfied provided 
+that the IAIG demonstrates the validity of the assumptions set by the IAIG itself, including input 
+data, expert judgment and the impact of risk mitigation and future management actions, etc. 
+410. Safeguard 5 – Use test and governance : The use test reflects the IAIG’s view of its 
+risks and is used in decision making. 
+411. The IAIG should demonstrate th at its natural catastrophe model  is widely used and 
+plays an important role in risk management and decision -making, at different levels of 
+management in the organisation, and the assessment of the economic and solvency capital. 
+412. The IAIG provides evidence that the natural catastrophe model is fully embedded in its 
+operational and organisational structure and demonstrate that the model remains useful and 
+is applied consistently over time. 
+413. Furthermore, the IAIG should demonstrate to its GWS that a natural catastrophe model 
+used for regulatory capital purposes remains useful and is applied consistently over time and 
+that it has the full support of and ownership by the senior management. 
+414. Another key aspect of the use test is that the IAIG's senior management is responsible 
+for the design and im plementation of the natural catastrophe model and for ensuring the 
+ongoing appropriateness of the model. 
+415. For a model to pass the use test it is expected that an insurer has a framework for the 
+model's application across business units. This framework should define lines of responsibility 
+for the production and use of information derived from the model. 
+416. When local regulations explicitly specify that a natural catastrophe model may be used 
+for the calculation of insurance liability or premium rates, and the GWS verifies that the model 
+appropriately reflects the risk characteristics of the IAIG, this safeguard is satisfied. 
+417. Safeguard 6  – Documentation standards : The documentation of the natural 
+catastrophe model, including its use and other related aspects: 
+• facilitates the supervisory review of the model; 
+• facilitates Senior Management’s understanding; and 
+• recognises the weaknesses of the model. 
+418. This documentation should include the design, construction and governance of the 
+natural catastrophe model, including an outline of the rationale and assumptions underlying 
+its methodology.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 103 of 247 
+ 
+419. The documentation should be thorough, detailed and complete enough to be sufficient 
+for a knowledgeable professional in the field to be able to understand its design and 
+construction. This documentation should include justifications for and details of the underlying 
+methodology, assumptions and quantitative and financial bases, as well as information on the 
+modelling criteria used to assess the level of capital needed. 
+420. The insurer should also document, on an ongoing basis, the development of the model 
+and any major changes, as well as instances where the model is shown to  not perform 
+effectively. Where there is reliance on an external vendor/supplier, the reliance should be 
+documented along with an explanation of the appropriateness of the use of the external 
+vendor/supplier. 
+421. IAIGs should properly document natural catastro phe model changes and notify their 
+GWS of material changes to the natural catastrophe model. IAIGs should also report 
+information necessary for supervisory review such as, but not limited to, the identification and 
+characteristics of the models used, information on the risk profile and natural catastrophe risks 
+to which the IAIG is exposed, justification of the choice of a particular model over others, 
+information on the way the model has been used (eg adjustments made), and some 
+restrictions, if any, to th e way the models have been used (eg regarding the use of some 
+options or parameters provided by vendor models, and/or regarding potential adjustments). 
+422. Safeguard 7 – List of catastrophe risk sources that are not modelled: IAIGs recognise 
+the limitations in the scope of their natural catastrophe model.  IAIGs make a list of natural 
+catastrophe risks specified in the ICS but not modelled, and explain why those risks are not 
+modelled. 
+423. IAIGs should list natural catastrophes they face and identify which are not modelled in 
+their natural catastrophe models, as well as those that are modelled. IAIGs should also justify 
+the reason why these natural catastrophes are not modelled and assess the impact of these 
+natural catastrophes, and report to their GWS, if necessary. IAIGs should have an iterative 
+process of reviewing this list to demonstrate that the model remains useful and is applied 
+consistently over time.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 104 of 247 
+ 
+7.3 Market Risks 
+7.3.1 Calculation of the Market risk charge 
+424. The Market risk charge is calculated by aggregating, using the market risks correlation 
+matrix specified below, the following six sub-risk charges: 
+• Interest Rate risk; 
+• Non-Default Spread risk; 
+• Equity risk; 
+• Real Estate risk; 
+• Currency risk; and 
+• Asset Concentration risk. 
+425. When calculating the Market risk charges, the following impacts are considered: 
+• The direct impacts of the prescribed stress scenarios on the value of assets and 
+liabilities; and 
+• The indirect impacts linked to potential changes in policyholder behaviour following the 
+prescribed stress scenarios. 
+426. For each of the six sub -risks, the risk charge is calculated both with and without the 
+impact of management actions. 
+427. The correlation matrix used for aggregating the Market risk charges is the following: 
+Table 18: Market risks correlation matrix 
+ Interest 
+Rate 
+NDSR 
+Up 
+NDSR 
+Down Equity Real 
+Estate Currency Asset 
+Concentration 
+Interest Rate 100% 25% 25% 25% 25% 25% 0% 
+NDSR Up 25% 100% 100% 75% 50% 25% 0% 
+NDSR Down 25% 100% 100% 0% 0% 25% 0% 
+Equity 25% 75% 0% 100% 50% 25% 0% 
+Real Estate 25% 50% 0% 50% 100% 25% 0% 
+Currency 25% 25% 25% 25% 25% 100% 0% 
+Asset 
+Concentration 0% 0% 0% 0% 0% 0% 100%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 105 of 247 
+ 
+7.3.2 Interest Rate risk 
+ 
+Relevant Worksheet in Template: ICS Insurance Risk Charges 
+ 
+428. The calculation of the Interest Rate risk charge is based on a combination of five 
+stresses applied to the entire risk -free yield curve for each relevant currency as identified in 
+paragraph 430: 
+• A mean-reversion scenario; 
+• A level up scenario; 
+• A level down scenario; 
+• A twist up-to-down scenario; and 
+• A twist down-to-up scenario. 
+429. The stress scenarios are applied only to assets and liabilities that are sensi tive to a 
+change in the level of risk -free rates; the identification of assets and liabilities subject to the 
+stresses is specified in paragraph 431. The impact of those stresses on lapse rates, due to 
+the influence of market conditions on policyholder behaviour, is taken into account as specified 
+in paragraph 432. 
+430. The impact of the scenarios listed above is calculated for all currencies in which the 
+IAIG holds interest rate sensitive assets or liabilities. Currencies for which the exposure is non-
+material may be grouped together. The stress impacts calculated for each currency or group 
+thereof are then combined to derive the overall Interest Rate risk charge. 
+431. All assets and liabilities sensitive to changes in interest rates are taken into account in 
+the calculation of the Interest Rate risk charge, with the except ion of financial instruments 
+issued by the IAIG that qualify as capital resources.  Non-interest sensitive assets such as 
+cash, investment income due and accrued and common shares are excluded from the 
+calculation and should not show any change under the in terest rate stresses. Subordinated 
+debt and preferred shares held as assets are treated as interest -sensitive within the 
+calculation. 
+432. For current estimates calculated with a dynamic lapse function that uses the interest 
+rate as an input variable, the base lapse assumptions stay unchanged under the interest rate 
+stresses, but lapse rates react to the interest rate scenarios used to calculate the Interest Rate 
+risk charge. 
+433. The Interest Rate risk charge is calculated as: 
+𝑚𝑎𝑥 (0, ∑ 𝑀𝑅𝑖
+𝑖
++ VaR99.5 (∑ 𝐿𝑇𝑖
+𝑖
+)) 
+where: 
+• 𝑖 is an index over all currencies in which the IAIG is exposed to Interest Rate risk; 
+• 𝑀𝑅𝑖 is the result of the mean reversion scenario for currency 𝑖, obtained as described 
+in paragraph 436; and
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 106 of 247 
+ 
+• 𝐿𝑇𝑖 is a random variable encompassing the results of the level up, level down, twist up-
+to-down and twist down-to-up scenarios for currency 𝑖, as specified in paragraph 434. 
+434. For currency 𝑖, 𝐿𝑇𝑖 is defined as: 
+1
+𝑁−1(0.995) × (𝐿𝑈𝑖 max(𝑋𝑖, 0) − 𝐿𝐷𝑖 min(𝑋𝑖, 0) + 𝑇𝑈𝑖 max(𝑌𝑖, 0) − 𝑇𝐷𝑖 min(𝑌𝑖, 0)) 
+where: 
+• 𝑁−1(0.995) is the 99.5% quantile of the standardised normal distribution; 
+• 𝐿𝑈𝑖 and 𝐿𝐷𝑖 are the results of the level up and level down scenarios respectively, 
+obtained as described in paragraph 436; 
+• 𝑇𝑈𝑖 and 𝑇𝐷𝑖 are the results of the twist up -to-down and twist down -to-up scenarios 
+respectively, obtained as described in paragraph 436; and 
+• 𝑋𝑖 and 𝑌𝑖 are i ndependent random variables following a standardised normal 
+distribution. 
+435. In addition, the random variables 𝑋𝑖 and 𝑌𝑖 are such that: 
+• For any 𝑖 ≠ 𝑗, 𝑐𝑜𝑟𝑟(𝑋𝑖, 𝑋𝑗) = 𝑐𝑜𝑟𝑟(𝑌𝑖, 𝑌𝑗) = 0.75; and 
+• For any 𝑖 and 𝑗, 𝑐𝑜𝑟𝑟(𝑋𝑖, 𝑌𝑗) = 0. 
+436. For currency 𝑖, 𝑀𝑅𝑖, 𝐿𝑈𝑖, 𝐿𝐷𝑖, 𝑇𝑈𝑖 and 𝑇𝐷𝑖 correspond to the change in the IAIG’s Net 
+Asset Value when recalculating the value of all relevant assets and liabilities using the mean 
+reversion, level up, level down, twist up -to-down and twist down-to-up stressed yield curves 
+respectively, obtained using the methodology described in paragraphs 439 to 447. 
+437. The stress approach is aligned with the three -segment approach used for valuation, 
+with stress scenarios defined for the first segment and the LTFR. Segments 2 and 3 of the 
+stressed yield curve are obtained using the same extrapolation methodology as used to 
+determine the pre-stress yield curve. 
+438. When reporting scenario results, gains should be treated as negative losses, so that 
+losses are entered as positive amounts and gains are entered as negative amounts. 
+439. For each currency, the stressed yield curve for the mean reversion scenario is obtained 
+by adding the following yield curve to the initial yield curve, up to the LOT: 
+∆𝐿. 𝐿𝑒𝑣𝑒𝑙 𝑐𝑢𝑟𝑣𝑒 + ∆𝑆. 𝑆𝑙𝑜𝑝𝑒 𝑐𝑢𝑟𝑣𝑒 + ∆𝐶. 𝐶𝑢𝑟𝑣𝑎𝑡𝑢𝑟𝑒 𝑐𝑢𝑟𝑣𝑒 
+where: 
+• 𝐿𝑒𝑣𝑒𝑙 𝑐𝑢𝑟𝑣𝑒 is the curve equal to 1 for all maturities; 
+• 𝑆𝑙𝑜𝑝𝑒 𝑐𝑢𝑟𝑣𝑒 is the curve equal to 
+1−𝑒−𝜆𝜏
+𝜆𝜏  for any maturity 𝜏; 
+• 𝐶𝑢𝑟𝑣𝑎𝑡𝑢𝑟𝑒 𝑐𝑢𝑟𝑣𝑒 is the curve equal to 
+1−𝑒−𝜆𝜏
+𝜆𝜏 − 𝑒−𝜆𝜏 for any maturity 𝜏;
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 107 of 247 
+ 
+• 𝜆 is the e xponential decay rate of the Nelson -Siegel model 33 for the risk -free yield 
+curve; 
+• (
+∆𝐿
+∆𝑆
+∆𝐶
+) is the vector defined as (𝐼 − 𝑒−𝐾)(𝜇 − 𝑉0); 
+• 𝐼 is the 3𝑥3 identity matrix; 
+• 𝐾 = (
+𝐾1 0
+𝐾2
+0 𝐾3
+) and 𝜇 = (
+𝜇1
+𝜇2
+𝜇3
+) are parameters of the process followed by the vector 
+𝑉𝑡 below, described by the equation: 
+𝑑𝑉𝑡 = 𝐾(𝜇 − 𝑉𝑡)𝑑𝑡 + Σ𝑑𝑊𝑡 
+• 𝑉𝑡 = (
+𝛽1𝑡
+𝛽2𝑡
+𝛽3𝑡
+), where 𝛽1𝑡, 𝛽2𝑡 and 𝛽3𝑡 correspond to the Nelson-Siegel parameters33 for 
+the risk-free yield curve at time 𝑡; and 
+• 𝑊𝑡 is a 3-dimensional Wiener process and Σ is a lower triangular matrix of real non -
+negative factors. 
+440. For the mean reversion scenario, the value of the LTFR remains unchanged. 
+441. For each currency, the stressed yield curve for the level up scenario is obtained by 
+adding the following yield curve to the initial yield curve, up to the LOT: 
+𝑠. 𝑁−1(0.995). [𝑠𝑙1. 𝐿𝑒𝑣𝑒𝑙 𝑐𝑢𝑟𝑣𝑒 + 𝑠𝑙2. 𝑆𝑙𝑜𝑝𝑒 𝑐𝑢𝑟𝑣𝑒 + 𝑠𝑙3. 𝐶𝑢𝑟𝑣𝑎𝑡𝑢𝑟𝑒 𝑐𝑢𝑟𝑣𝑒] 
+where: 
+• (
+𝑠𝑙1
+𝑠𝑙2
+𝑠𝑙3
+) = 𝑐𝑜𝑠(𝜃)𝑀𝑒1 + 𝑠𝑖𝑛(𝜃)𝑀𝑒2; 
+• 𝑀 = √(ΣΣ𝑇)⨀ (
+1−𝑒−(𝐾𝑖+𝐾𝑗)
+𝐾𝑖+𝐾𝑗
+)
+𝑖𝑗
+, with Σ and 𝐾𝑖 denoting the parameters of the equation 
+described in paragraph 439, and ⨀ the Hadamard product operator; 
+• 𝑒1 and 𝑒2 are the eigenvectors associated with the highest  and second highest 
+eigenvalues, respectively, of the matrix 𝑁𝑇𝑁; 
+• 𝑁 = (
+𝐿𝑂𝑇 0
+𝑎
+0 𝑏
+) 𝑀; 
+• 𝑎 = ∑ 1−𝑒−𝜆𝜏
+𝜆𝜏
+𝐿𝑂𝑇
+𝜏=1  and   𝑏 = ∑ (
+1−𝑒−𝜆𝜏
+𝜆𝜏 − 𝑒−𝜆𝜏)𝐿𝑂𝑇
+𝜏=1 ; 
+• 𝜃 = 𝐴𝑟𝑐𝑡𝑎𝑛
+∑ ℎ2(𝜏)𝐿𝑂𝑇
+𝜏=1
+∑ ℎ1(𝜏)𝐿𝑂𝑇
+𝜏=1
+; 
+ 
+33 As described in the article Diebold, F.X. and Li, C (2006) Forecasting the Term Structure of 
+Government Bond Yields in Journal of Econometrics, 130, 337-364.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 108 of 247 
+ 
+• ℎ𝑖(𝜏) = (1,
+1−𝑒−𝜆𝜏
+𝜆𝜏 ,
+1−𝑒−𝜆𝜏
+𝜆𝜏 − 𝑒−𝜆𝜏) 𝑀𝑒𝑖, 𝑖 = 1, 2; and 
+• 𝑠 = {1   𝑖𝑓 (𝑠𝑙1. 𝐿𝑒𝑣𝑒𝑙 𝑐𝑢𝑟𝑣𝑒𝐿𝑂𝑇 + 𝑠𝑙2. 𝑆𝑙𝑜𝑝𝑒 𝑐𝑢𝑟𝑣𝑒𝐿𝑂𝑇 + 𝑠𝑙3. 𝐶𝑢𝑟𝑣𝑎𝑡𝑢𝑟𝑒 𝑐𝑢𝑟𝑣𝑒𝐿𝑂𝑇) ≥ 0
+−1 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒                                                                                                                                . 
+442. For the level up scenario, the LTFR is increased by 10%. 
+443. For each currency, the stressed yield curve for the level down scenario is obtained by 
+adding the following yield curve to the initial yield curve, up to the LOT: 
+− 𝑠. 𝑁−1(0.995). [𝑠𝑙1. 𝐿𝑒𝑣𝑒𝑙 𝑐𝑢𝑟𝑣𝑒 + 𝑠𝑙2. 𝑆𝑙𝑜𝑝𝑒 𝑐𝑢𝑟𝑣𝑒 + 𝑠𝑙3. 𝐶𝑢𝑟𝑣𝑎𝑡𝑢𝑟𝑒 𝑐𝑢𝑟𝑣𝑒] 
+444. For the level down scenario, the LTFR is decreased by 10%. 
+445. For each currency, the stressed yield curve for the twist up -to-down scenario is 
+obtained by adding the following yield curve to the initial yield curve, up to the LOT: 
+𝑁−1(0.995). [𝑠𝑡1. 𝐿𝑒𝑣𝑒𝑙 𝑐𝑢𝑟𝑣𝑒 + 𝑠𝑡2. 𝑆𝑙𝑜𝑝𝑒 𝑐𝑢𝑟𝑣𝑒 + 𝑠𝑡3. 𝐶𝑢𝑟𝑣𝑎𝑡𝑢𝑟𝑒 𝑐𝑢𝑟𝑣𝑒] 
+where: 
+ (
+𝑠𝑡1
+𝑠𝑡2
+𝑠𝑡3
+) = 𝑐𝑜𝑠(𝜃)𝑀𝑒2 − 𝑠𝑖𝑛(𝜃)𝑀𝑒1 
+446. For each currency, the stressed yield curve for the twist down -to-up scenario is 
+obtained by adding the following yield curve to the initial yield curve, up to the LOT: 
+− 𝑁−1(0.995). [𝑠𝑡1. 𝐿𝑒𝑣𝑒𝑙 𝑐𝑢𝑟𝑣𝑒 + 𝑠𝑡2. 𝑆𝑙𝑜𝑝𝑒 𝑐𝑢𝑟𝑣𝑒 + 𝑠𝑡3. 𝐶𝑢𝑟𝑣𝑎𝑡𝑢𝑟𝑒 𝑐𝑢𝑟𝑣𝑒] 
+447. For the twist scenarios, the LTFR remains unchanged. 
+448. Since there is no simple closed form solution to obtain the aggregate Interest Rate risk 
+charge, the risk charge is calculated using direct simulation. The simulation algorithm is based 
+on a large number of scenarios using two random variables {𝑋𝑖} and {𝑌𝑖} with the correlation 
+structure specified in paragraph 435, and for each scenario calculates the quantity ∑ 𝐿𝑇𝑖𝑖 . The 
+aggregate requirement is the sum of all mean reversion losses and the 99.5th percentile of the 
+level and twist sums.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 109 of 247 
+ 
+7.3.3 Non-Default Spread risk 
+ 
+Relevant Worksheet in Template: ICS Insurance Risk Charges 
+ 
+449. Non-Default Spread risk is calculated as a bi-directional stress applied to both assets 
+and liabilities. The Non-Default Spread risk charge is calculated as the maximum of an upward 
+and downward stress, subject to a floor of zero.  
+450. The downward stress is a combination of an absolute and relative stress to the spread 
+levels. This downward stress is specified in a way that prevents positive spreads from 
+becoming negative after applying the stress. The upward stress is designed as an absolute 
+increase of the spread levels. 
+451. All liabilities sensitive to changes in spreads are taken into account in the calculation 
+of the NDSR charge, with the exception of financial instruments issued by the IAIG that qualify 
+as capital resources. 
+452. All assets that contribute to the calculation of the spread adjustments for valuation 
+purposes ( Table 4 in Section 5.2.5.3.2.1), are taken into account in the calculation of the 
+NDSR charge, with the exception of sovereign assets. 
+453. The stresses are applied to spreads after risk correction. For insurance liabilities, the 
+prescribed stresses are applied as parallel shift s to the spreads by risk category used to 
+compute the adjustments specified in Section 5.2.5 for valuation purposes. 
+454. The upward and downward stresses used for the calculation of the NDSR charge are 
+specified in Table 19. 
+Table 19: Stress factors for Non-Default Spread risk 
+ICS RC Up (in bps) Down (in bps) 
+1 +50 -50 
+2 +50 -50 
+3 +70 -70 
+4-7 +100 -100 
+Subject to the following relative limit, calculated based on the absolute value of the 
+spread over the risk-free yield curve: 
+Relative limit No relative limit 50%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 110 of 247 
+ 
+ 
+  
+Example of calculation of the NDSR stress 
+ 
+Currency 
+X 
+Current 
+Spread 
+Up 
+Shock 
+Resulting 
+Spread 
+(Up Shock) 
+Down 
+Shock 
+ABS 
+down 
+REL 
+down 
+(50%) 
+Resulting 
+Spread 
+(Down 
+Shock) 
+ 
+A B C = A+B D E=A+D F=A-
+0.5x|A| 
+=max(E,F) 
+ICS RC 1 -21.2 +50 28.8 -50 -71.2 -31.8 -31.8 
+ICS RC 2 57.3 +50 107.31 -50 7.3 28.7 28.7 
+ICS RC 3 111.2 +70 181.2 -70 41.2 55.6 55.6 
+ICS RC 4 & 
+lower 
+116.7 +100 216.7 -100 16.7 58.4 58.4
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 111 of 247 
+ 
+7.3.4 Equity risk 
+ 
+Relevant Worksheet in Template: ICS Insurance Risk Charges 
+ 
+455. The Equity risk charge is calculated as the change in net asset value following the 
+occurrence of stress scenarios that impact the level and volatility of the fair value of equities, 
+after management actions . The level scenarios  are specified by segments of assets . A  
+volatility scenario is measured separately.  
+456. The Equity risk charge applies to direct and indirect exposures to all assets and 
+liabilities with values sensitive to changes in the level or volatility of the fair value of equities. 
+457. Indirect impacts are linked to assets and liabilities held by IAIGs that are sensitive to a 
+change in equity prices. Such indirect exposures may include, but are not limited to: 
+a. Mutual funds invested in equity (see Section 3.3 on Look-Through); 
+b. Derivatives sensitive to equity prices and/or volatilities; 
+c. Equity linked variable annuities; and 
+d. Participating and unit-linked products whose value is influenced by equity markets. 
+458. The Equity risk charge uses the following segmentation of assets as defined below: 
+• Listed equity in developed markets; 
+• Listed equity in emerging markets; 
+• Hybrid debt/preference shares; and 
+• Other equity. 
+459. Listed equity in developed markets includes equities listed on the securities exchanges 
+of equity markets included in the FTSE Developed Index: Australia, Austria, Belgium, Canada, 
+Denmark, Finland, France, Germany, Hong Kong SAR, Ireland, Israel, Italy, Japan, 
+Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, Singapore, South Korea, 
+Spain, Sweden, Switzerland, UK, and US. 
+460. Any equity market not included in the FTSE Developed Index is considered an 
+emerging market. 
+461. Investments in subordinated debt are included in the Equity risk charge within the 
+segment hybrid debt/preference shares. Subordinated debt is not included in the Credit risk 
+charge. 
+462. The segment other equity is comprised of all investments not included in the previous 
+equity segments. Examples include: unlisted equities, hedge funds, limited partnerships, 
+commodities and other alternative investments. 
+463. The four level scenarios (one for each asset segment) and volatility scenario are 
+defined as: 
+a. An instantaneous decrease by 35% of the market prices of all listed shares in 
+developed markets.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 112 of 247 
+ 
+b. An instantaneous decrease by 48% of the market prices of all listed shares in emerging 
+markets. 
+c. An instantaneous decrease of the market prices of hybrid debt/preference shares by 
+x%, with x based on the ICS rating category (RC) of the asset , as specified in Table 
+20. 
+Table 20: Stress factors for hybrid debt/preference shares 
+ICS RC x% 
+1-2 4% 
+3 6% 
+4 11% 
+5 21% 
+6-7 35% 
+ 
+d. An instantaneous decrease by 49% of the market prices of all assets classified as other 
+equity, as defined in paragraph 462. 
+e. An instantaneous absolute increase by x% of the implied volatilities of all the asset 
+classes listed above, with x having the values  provided in Table 21. For example, an 
+initial implied volatility level of 42% plus a stress of 39% equals a post-scenario implied 
+volatility of 81%. For maturities not specified, the increase is interpolated linearly. 
+Table 21: Absolute stress factors for implied volatilities 
+Maturity 
+(months) 
+x% 
+0-1 42% 
+3 28% 
+6 23% 
+12 20% 
+24 17% 
+36 16% 
+48 15% 
+60 14% 
+84 14% 
+120 12% 
+144 11% 
+180 10% 
+240 7%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 113 of 247 
+ 
+300 4% 
+360 and 
+above 0% 
+ 
+464. The results of the stresses listed above are aggregated in two steps: 
+a. Step 1: The total level risk is calculated by aggregating the impact of the stress for  
+each level scenario, floored at zero, using the following correlation matrix: 
+Table 22: Equity correlation matrix 
+Equity segment Developed Emerging Hybrid/preferred Other 
+Developed 100% 75% 100% 75% 
+Emerging 75% 100% 75% 75% 
+Hybrid/preferred 100% 75% 100% 75% 
+Other 75% 75% 75% 100% 
+ 
+b. Step 2: The total Equity risk charge is calculated by summing the total level risk (from 
+Step 1) and the impact of the stress under the volatility scenario. 
+465. IAIGs should p rovide the value for each of these asset segments before and after 
+applying the stress scenario.  
+466. IAIGs should report the impact on the current estimate, separately for life and non-life 
+business, and non-insurance liabilities. The impact on reinsurance recoverables/assets should 
+also be reported separately.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 114 of 247 
+ 
+7.3.5 Real Estate risk 
+ 
+Relevant Worksheet in Template: ICS Insurance Risk Charges 
+ 
+467. The Real Estate risk charge is calculated as the change in the net asset value, 
+following the occurrence of a prescribed stress scenario, based on a change in the level of 
+real estate prices, after management actions. 
+468. The Real Estate risk stress scenario is applied to both direct and indirect exposures to 
+real estate prices, without distinguishing between commercial, residential and real estate for 
+own use (see Section 3.3 on Look-Through). 
+469. Residential and commercial mortgages are not included in Real Estate risk (see 
+Section 7.4 on Credit risk).  
+470. The Non-Life risk charge stemming from mortgage insurance is added to Real Estate 
+risk. 
+471. Investments in companies engaged in real estate management, facility management 
+or real estate administration, or investments in companies engaged in real estate project 
+development or similar activities are excluded from Real Estate risk. 
+472. The stress scenario is a decrease of 25% in real estate prices. Assets and liabilities 
+subject to the stress are: 
+a. Commercial investment real estate; 
+b. Residential investment real estate; 
+c. Real estate for own use; 
+d. Other assets whose value is impacted by a change in real estate prices; and 
+e. Liabilities, both insurance and other, whose value is impacted by a change in rea l 
+estate prices.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 115 of 247 
+ 
+7.3.6 Currency risk 
+ 
+Relevant Worksheet in Template: ICS Insurance Risk Charges 
+ 
+473. The Currency risk charge is equal to the higher of the aggregated losses incurred 
+under two stress scenarios on the exchange rates between the IAIG’s reporting currency and 
+those currencies in which the IAIG holds assets or liabilities. The prescribed stresses are 
+applied to the net open position determined for each relevant currency. 
+474. The net open position in a currency takes into account all direct and indirect exposures 
+to that currency. Where relevant, an amount corresponding to jurisdictional capital 
+requirements in that currency, subject to a cap, may be deducted from the net open position. 
+475. The two stress scenarios are: 
+a. Scenario 1: All of the currencies in which the IAIG has a net long position decrease in 
+value against the reporting currency, while all of the currencies in which the IAIG has 
+a net short position remain unchanged; or 
+b. Scenario 2: All of the currencies in which the IAIG has a net short position increase in 
+value against the reporting currency, while all of the currencies in which the IAIG has 
+a net long position remain unchanged. 
+476. Within each scenario, the losses by currency are aggregated using a correlation 
+formula.  
+477. The prescribed str esses for each currency pair, the aggregation formula, as well as 
+the rules applicable to the determination of net open positions, are specified below. 
+478. In order to determine the Currency risk charge, IAIGs determine their net open position 
+for all currencies other than the reporting currency. The net open position for each currency is 
+calculated as the sum of the following: 
+a. The net spot position, defined as all assets less liabilities, including accrue d interest 
+and accrued expenses; 
+b. The net forward position, defined as all net amounts under forward foreign exchange 
+transactions, including currency futures and the interest and principal on currency 
+swaps; 
+c. The delta equivalent amounts of currency options; 
+d. Guarantees and similar instruments that are certain to be exercised a nd are likely to 
+be irrevocable; 
+e. At the discretion of the IAIG, net future income and expenses not yet a ccrued but 
+already fully hedged; 
+f. Any other item representing a profit or loss in the foreign currency; 
+g. Minus the a mount of capital required locally to support the activities in the foreign 
+currency, subject to a cap of 10% of net insurance liabilities in that currency.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 116 of 247 
+ 
+479. The deduction referred to in point g) of paragraph 478 is applied to long positions only 
+and shall not change any long position to a short position. This deduction applies only if the 
+IAIG has operations in the jurisdiction of the foreign currency. 
+480. The net open currency position excludes assets that are fully deducted from capital 
+resources, and liabilities that qualify for inclusion in consolidated capital resources. 
+481. The net insurance liability reported for each currency consists of the current es timate 
+net of any reinsurance assets, plus all deferred tax assets and liabilities associated with the 
+current estimate and reinsurance assets. 
+482. Forward currency positions are valued at spot market exchange rates as at the 
+reporting date. 
+483. The reporting currency referred to in paragraph 473 is the currency used for the IAIG’s 
+consolidated accounts, unless the GWS considers that the solvency position should be 
+assessed in another currency. In such case, the IAIG should indicate the currency in which 
+the solvency position is assessed in the worksheet Participant of the Template; this currency 
+will then be used as the reporting currency for the calculation of the Currency risk charge. 
+484. For the purpose of confidential reporting, the net open positions mentioned in 
+paragraph 478 should be calculated for 35 predefined currencies. A World Bucket34 is provided 
+for exposures in any currency not included in the predefined list. When choosing the 
+currencies to report, IAIGs should apply the general principles of proportionality as presented 
+in Section 3.2. 
+485. IAIGs should report in the table of exposures their net open position for each currency. 
+Net long positions should be reported as positive entries, and net short positions should be 
+reported as negative entries. All positions should be reported in units of the IAIG’s base 
+currency, converted using spot exchange rates in effect at the reporting date. 
+486. IAIGs should also report in the table of ex posures their current estimate net of 
+reinsurance for all currencies, including the reporting currency; those figures should be 
+consistent with the amounts reported in the ICS balance sheet. 
+487. The Currency risk charge is equal to the higher of the aggregated  losses incurred 
+under the following two scenarios:  
+a. Scenario 1: all currencies in which the IAIG has a net long position decrease in value, 
+while all of the currencies in which the IAIG has a net short position remain unchanged. 
+The amount of the decrease of each foreign currency relative to the reporting currency 
+is found in the currency stress matrix in Table 23 below. 
+b. Scenario 2: all currencies in which the IAIG has a net short position increase in value, 
+while all of the currencies in which the IAIG has a net long position remain unchanged. 
+The amount of the increase of each foreign currency relative to the reporting currency 
+is found in the currency stress matrix in Table 23 below. 
+488. IAIGs should report in the relevant columns of the table of exposures the new value of 
+each net open position under the two scenarios specified in paragraph 487. 
+ 
+34 The one exception to the World bucket is the BND. The  stresses for the BND are the same as the 
+SGD. BND against the SGD will receive the lowest stress factor, which is 5%.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 117 of 247 
+ 
+489. For each scenario, the losses by currency are aggregated using a correlation formula 
+for which the assumed correlation of losses between each pair of foreign currencies is 50%.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 118 of 247 
+ 
+Table 23: Currency risk stress factors 
+ Against            
+Ref 
+Curr AUD BRL CAD CHF CLP CNY COP CZK DKK EUR GBP HKD 
+AUD 0% 50% 25% 40% 35% 40% 40% 35% 35% 35% 35% 40% 
+BRL 50% 0% 50% 65% 50% 55% 55% 60% 60% 60% 55% 55% 
+CAD 25% 50% 0% 35% 30% 25% 35% 35% 30% 30% 30% 25% 
+CHF 40% 60% 35% 0% 45% 30% 45% 25% 20% 20% 30% 35% 
+CLP 35% 50% 30% 45% 0% 30% 40% 40% 40% 40% 35% 30% 
+CNY 35% 55% 25% 35% 30% 0% 35% 35% 30% 30% 25% 5% 
+COP 40% 55% 35% 50% 40% 35% 0% 45% 45% 45% 40% 35% 
+CZK 35% 55% 35% 30% 40% 35% 45% 0% 15% 15% 30% 35% 
+DKK 35% 55% 30% 20% 35% 30% 40% 15% 0% 5% 25% 30% 
+EUR 35% 55% 30% 20% 35% 30% 40% 15% 5% 0% 25% 30% 
+GBP 35% 55% 30% 30% 35% 25% 40% 30% 25% 25% 0% 25% 
+HKD 35% 55% 25% 35% 30% 5% 35% 35% 30% 30% 25% 0% 
+HUF 40% 60% 40% 35% 45% 45% 50% 25% 25% 25% 35% 45% 
+IDR 45% 60% 40% 50% 45% 35% 45% 50% 45% 45% 45% 35% 
+ILS 35% 55% 30% 35% 35% 25% 35% 35% 30% 30% 30% 25% 
+INR 35% 50% 25% 35% 30% 20% 35% 35% 30% 30% 30% 15% 
+JPY 50% 65% 40% 35% 45% 30% 50% 45% 35% 35% 40% 30% 
+KRW 30% 50% 25% 40% 30% 25% 35% 35% 35% 35% 30% 25% 
+MXN 35% 50% 30% 45% 35% 30% 35% 40% 40% 40% 40% 30% 
+MYR 35% 50% 25% 35% 30% 15% 30% 35% 30% 30% 25% 15% 
+NOK 35% 55% 30% 30% 40% 35% 40% 25% 20% 20% 30% 35% 
+NZD 20% 55% 30% 40% 40% 40% 45% 40% 35% 35% 35% 40% 
+PEN 35% 50% 25% 35% 30% 15% 30% 35% 30% 30% 30% 15% 
+PHP 35% 50% 25% 35% 30% 15% 35% 35% 30% 30% 30% 15% 
+PLN 35% 55% 35% 40% 40% 40% 45% 25% 25% 25% 35% 40% 
+RON 35% 50% 35% 30% 40% 30% 45% 25% 20% 20% 30% 30% 
+RUB 45% 60% 40% 50% 40% 35% 45% 45% 40% 40% 45% 35% 
+SAR 40% 55% 25% 35% 30% 5% 35% 35% 30% 30% 25% 5% 
+SEK 35% 55% 30% 30% 40% 35% 45% 25% 20% 20% 30% 35% 
+SGD 30% 50% 20% 30% 30% 15% 30% 30% 25% 25% 25% 15% 
+THB 35% 55% 30% 35% 30% 20% 35% 35% 30% 30% 30% 20% 
+TRY 70% 75% 70% 75% 70% 70% 75% 70% 70% 70% 70% 70% 
+TWD 35% 50% 25% 30% 30% 10% 35% 35% 25% 25% 25% 10% 
+USD 40% 55% 25% 35% 30% 5% 35% 35% 30% 30% 25% 5% 
+ZAR 45% 60% 45% 55% 50% 55% 55% 50% 50% 50% 50% 55%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 119 of 247 
+ 
+ 
+ Against            
+Ref 
+Curr HUF IDR ILS INR JPY KRW MXN MYR NOK NZD PEN PHP 
+AUD 40% 45% 35% 35% 50% 30% 35% 35% 35% 20% 40% 35% 
+BRL 60% 60% 55% 55% 70% 50% 50% 50% 55% 55% 55% 55% 
+CAD 40% 40% 30% 25% 40% 25% 30% 25% 30% 30% 25% 25% 
+CHF 35% 50% 35% 35% 35% 40% 45% 35% 25% 40% 35% 35% 
+CLP 45% 45% 35% 30% 45% 30% 35% 30% 40% 40% 30% 30% 
+CNY 45% 35% 25% 15% 30% 25% 30% 15% 35% 40% 15% 15% 
+COP 50% 45% 35% 35% 50% 35% 35% 30% 40% 45% 35% 35% 
+CZK 25% 50% 35% 35% 45% 35% 40% 35% 25% 40% 35% 35% 
+DKK 25% 45% 30% 30% 35% 30% 40% 30% 20% 35% 30% 30% 
+EUR 25% 45% 30% 30% 35% 35% 40% 30% 20% 35% 30% 30% 
+GBP 35% 45% 30% 30% 40% 30% 35% 25% 30% 35% 30% 30% 
+HKD 45% 35% 25% 15% 30% 25% 30% 15% 35% 40% 15% 15% 
+HUF 0% 55% 40% 40% 55% 40% 45% 40% 30% 40% 45% 45% 
+IDR 55% 0% 40% 35% 50% 40% 45% 35% 45% 50% 35% 35% 
+ILS 40% 40% 0% 25% 40% 30% 30% 25% 35% 40% 25% 25% 
+INR 40% 35% 25% 0% 35% 25% 30% 20% 35% 35% 20% 20% 
+JPY 50% 50% 40% 35% 0% 40% 50% 35% 40% 50% 35% 35% 
+KRW 40% 40% 30% 25% 40% 0% 30% 25% 35% 35% 25% 25% 
+MXN 45% 45% 35% 30% 50% 30% 0% 25% 40% 40% 30% 30% 
+MYR 40% 35% 25% 20% 35% 25% 25% 0% 30% 35% 20% 20% 
+NOK 30% 45% 35% 35% 40% 35% 40% 30% 0% 35% 35% 35% 
+NZD 40% 50% 40% 35% 50% 35% 40% 35% 35% 0% 40% 40% 
+PEN 45% 35% 25% 20% 35% 25% 30% 20% 35% 40% 0% 20% 
+PHP 40% 35% 25% 20% 35% 25% 30% 20% 35% 35% 20% 0% 
+PLN 25% 50% 40% 40% 55% 35% 40% 40% 30% 40% 40% 40% 
+RON 30% 45% 30% 30% 40% 35% 40% 30% 30% 40% 35% 35% 
+RUB 50% 50% 40% 35% 50% 40% 40% 35% 40% 50% 35% 40% 
+SAR 45% 35% 25% 15% 30% 25% 30% 15% 35% 40% 15% 15% 
+SEK 25% 45% 35% 35% 45% 35% 40% 30% 20% 35% 35% 35% 
+SGD 35% 35% 20% 15% 30% 20% 30% 15% 25% 30% 15% 15% 
+THB 40% 35% 25% 20% 35% 25% 35% 20% 35% 35% 20% 20% 
+TRY 70% 75% 70% 70% 75% 70% 70% 70% 70% 70% 70% 70% 
+TWD 40% 35% 25% 15% 30% 20% 30% 15% 30% 35% 15% 15% 
+USD 45% 35% 25% 15% 30% 25% 30% 15% 35% 40% 15% 15% 
+ZAR 50% 60% 50% 50% 65% 45% 50% 45% 45% 50% 50% 50%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 120 of 247 
+ 
+ 
+ Against           
+Ref Curr PLN RON RUB SAR SEK SGD THB TRY TWD USD ZAR 
+AUD 35% 40% 45% 40% 35% 30% 35% 55% 35% 40% 45% 
+BRL 55% 50% 60% 55% 55% 50% 55% 70% 55% 55% 65% 
+CAD 35% 30% 40% 25% 30% 20% 30% 55% 25% 25% 45% 
+CHF 35% 30% 45% 35% 30% 25% 35% 65% 30% 35% 55% 
+CLP 40% 40% 40% 30% 40% 30% 35% 60% 30% 30% 50% 
+CNY 40% 30% 35% 5% 35% 15% 20% 60% 10% 5% 50% 
+COP 45% 45% 45% 35% 45% 35% 35% 60% 35% 35% 55% 
+CZK 25% 25% 45% 35% 25% 30% 35% 60% 35% 35% 50% 
+DKK 25% 20% 40% 30% 20% 25% 30% 60% 25% 30% 50% 
+EUR 25% 20% 40% 30% 20% 25% 30% 60% 25% 30% 50% 
+GBP 35% 30% 40% 25% 30% 25% 30% 60% 25% 25% 50% 
+HKD 40% 30% 35% 5% 35% 15% 20% 60% 10% 5% 55% 
+HUF 25% 30% 50% 45% 25% 35% 40% 60% 40% 45% 50% 
+IDR 50% 45% 50% 35% 45% 35% 35% 70% 35% 35% 60% 
+ILS 35% 30% 40% 25% 35% 20% 25% 55% 25% 25% 50% 
+INR 40% 30% 35% 15% 35% 15% 20% 55% 15% 15% 50% 
+JPY 50% 40% 50% 30% 40% 30% 35% 70% 30% 30% 65% 
+KRW 35% 35% 40% 25% 35% 20% 25% 55% 20% 25% 45% 
+MXN 40% 40% 40% 30% 40% 30% 35% 60% 30% 30% 50% 
+MYR 35% 30% 35% 15% 30% 15% 20% 55% 15% 15% 45% 
+NOK 30% 30% 40% 35% 20% 25% 35% 60% 30% 35% 45% 
+NZD 40% 40% 50% 40% 35% 30% 35% 60% 35% 40% 50% 
+PEN 40% 30% 35% 15% 35% 15% 20% 60% 15% 15% 50% 
+PHP 40% 30% 40% 15% 35% 15% 20% 55% 15% 15% 50% 
+PLN 0% 30% 45% 40% 30% 35% 40% 55% 40% 40% 50% 
+RON 30% 0% 40% 30% 25% 25% 35% 60% 30% 30% 50% 
+RUB 45% 40% 0% 35% 45% 35% 40% 65% 35% 40% 55% 
+SAR 40% 30% 35% 0% 35% 15% 20% 60% 10% 5% 55% 
+SEK 30% 25% 45% 35% 0% 30% 35% 60% 30% 35% 50% 
+SGD 35% 25% 35% 15% 30% 0% 15% 55% 10% 15% 45% 
+THB 40% 30% 40% 20% 35% 15% 0% 55% 20% 20% 50% 
+TRY 70% 70% 75% 70% 70% 65% 70% 0% 70% 70% 75% 
+TWD 35% 30% 35% 10% 30% 10% 20% 55% 0% 10% 50% 
+USD 40% 30% 35% 5% 35% 15% 20% 60% 10% 0% 55% 
+ZAR 50% 50% 55% 55% 50% 45% 50% 60% 50% 55% 0%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 121 of 247 
+ 
+7.3.7 Asset Concentration risk 
+ 
+Relevant Worksheet in Template: ICS Insurance Risk Charges 
+ 
+490. The Asset Concentration risk charge is an incremental risk charge above the Market 
+and Credit risk charges , which acknowledges that assets held by IAIGs are not perfectly 
+diversified. Assets in separate accounts or where the investment risks fully flow -through35 to 
+policyholders are excluded from the calculation of the Asset Concentration risk charge.  
+491. For real estate, a specified factor is applied to assets in excess of specified threshold. 
+492. The methodology to calculate the Asset Concentration risk charge is specified below. 
+7.3.7.1 Assets other than real estate 
+493. For assets other than real estate, the Asset Concentration risk charge is calculated as: 
+𝑓 × (
+∑ (𝐸𝑖 − 𝑇)(𝑑. 𝐾𝑖
+𝑒𝑞 + 𝐾𝑖
+𝑐𝑟)𝐸𝑖>𝑇
+(𝑑. 𝐾𝑒𝑞 + 𝐾𝑐𝑟) + 𝑇) 
+where: 
+• 𝑓 = 0.71656; 
+• 𝑑 = 0.95; 
+• 𝐸𝑖 is the net exposure to group of connected counterparties 𝑖; 
+• 𝑇 is an exposure threshold determined by the IAIG in such a way that the number of 
+groups of connected counterparties 𝑖 for which 𝐸𝑖 > 𝑇 is equal to or greater than 10 
+but does not exceed 100; 
+• 𝐾𝑖
+𝑒𝑞 is the Equity risk charge associated with counterparty 𝑖, before diversification and 
+management actions; 
+• 𝐾𝑖
+𝑐𝑟 is the Credit risk charge associated with counterparty 𝑖, before diversification and 
+management actions; 
+• 𝐾𝑒𝑞 is the total Equity risk charge of the IAIG, before diversification and management 
+actions; and 
+• 𝐾𝑐𝑟 is the total Credit risk charge of the IAIG, before diversification and management 
+actions. 
+494. Groups of connected counterparties are determined according to the definition 
+provided by the Basel Committee on Banking Supervision (BCBS)36. Specifically, two or more 
+natural or legal persons are considered a group of connected counterparties if at least one of 
+the following criteria is satisfied:  
+ 
+35 Not considering any guarantee to policyholders that may exist on the value of the overall investment 
+fund(s) such as on variable annuity products. 
+36 As specified in the BCBS publication Supervisory framework for measuring and controlling large 
+exposures (April 2014), which also outlines criteria for assessing whether ‘control’ or ‘economic 
+interdependence’ exists.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 122 of 247 
+ 
+a. Control relationship: one of the counterparties, directly or indirectly,  has control over 
+the other(s); or 
+b. Economic interdependence: if one of the counterparties were to experience financial 
+problems, the other(s), as a result, would also be likely to encounter financial problems.  
+495. Exposures to national governmen ts are excluded from the Asset C oncentration risk 
+charge calculation. Public sector exposures, not issued or guaranteed by a national 
+government, such as provincial, state or municipal debt, are included within t he Asset 
+Concentration risk charge calculation with their corresponding Credit and Equity risk charges. 
+496. The determination of the gross counterparty exposures includes both on - and off -
+balance sheet positions, and considers the following: 
+a. Exposures to reinsurance counterparties are included on a pre-stress basis37; 
+b. The determination of OTC derivatives exposures is based on a credit-equivalent basis, 
+as applicable, and exposures to central counterparties are excluded; 
+c. Exposures are based on a look-through approach for investment funds and structured 
+products; 
+d. Non-affiliated (external) guarantees, commitments, bank deposits, receivables and 
+any other items subject to the possibility of financial loss due to co unterparty default 
+are included; and 
+e. Gross exposures are calculated based u pon the MAV basis described in Section 5, 
+except where otherwise specified. 
+497. The determination of net counterparty exposures considers the following: 
+a. Exposures from assets held in separate accounts or life insurance contracts where the 
+investment risks fully flow-through to policyholders are excluded. Nevertheless, assets 
+backing any guarantees to policyholders are included; 
+b. Asset exposures may be netted against liability exposures to the extent that they are 
+subject to a legally enforceable right of offset; 
+c. For exposures covered by collateral or unconditional and irrevocable guarantees, the 
+substitution approach specified in Sections 7.4.2.1.1 and 7.4.2.2.3 may be used for the 
+portion of the exposure covered by the collateral or the guarantees. The exposure to 
+the primary counterparty is then replaced by the exposure to the collateral or guarantor. 
+This approach should also be used for bank deposits if an explicit guarantee (such as 
+a national government guarantee) exists.  Where national government exposures are 
+substituted for corporate exposures, the corresponding amounts are excluded from the 
+determination of the Asset Concentration risk charge, in line with the provisions of 
+paragraph 495; and 
+d. For collateralised non-life reinsurance exposures, the haircut approach specified in 
+Section 7.4.2.1.2 is used in lieu of the substitution approach.  The exposure to the 
+reinsurer is the adjusted net exposure calculated in Section 7.4 on Credit risk. The 
+collateral received is excluded from the counterparty exposure. However, the asset 
+ 
+37 The contingent risk associated with catastrophe scenarios is not included in the exposure.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 123 of 247 
+ 
+concentration risk for the collateral calculated on a standalone basis is one component 
+of the haircut applied to the collateral. 
+7.3.7.2 Real estate 
+498. In order to calculate the Asset Concentration risk charge for real estate, property 
+exposures are determined on the basis of single property, or group of properties within a 250 
+metres radius, including exposures from both direct and ind irect holdings (such as funds of 
+properties). 
+499. The Asset Concentration risk charge for any property exposure as defined above is 
+calculated as 25% of the net property exposure exceeding 3% of the IAIG’s total net 
+investment assets relating to insurance activities. The net property exposures are calcula ted 
+in line with paragraphs 496 and 497.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 124 of 247 
+ 
+7.4 Credit Risk 
+ 
+Relevant Worksheet in Template: ICS Insurance Risk Charges 
+ 
+7.4.1 Calculation of Credit risk charge 
+500. The Credit risk charge is the determined by applying prescribed stress factors to 
+specified net exposure amounts. The Credit risk charge is the sum of each stress factor 
+applied based on the specified net exposures amounts. Management actions are taken int o 
+consideration in the calculation of the Credit risk charge. 
+7.4.1.1 Exposure classes 
+501. The Credit risk charge applies to all senior debt obligations of specified exposure 
+classes of borrowers. Preferred shares and hybrid obligations, including subordinated debt, 
+are excluded from the calculation of the Credit risk charge, and are instead subject to the 
+Equity risk charge for hybrid debt/preference shares described in Section 7.3.4. 
+502. Credit exposures to national governments, multilateral development banks and 
+supranational organisations are not subject to the Credit risk charge. Regional governments 
+and municipal authorities and other government entities whose debt is not issued or 
+guaranteed by the national government, are classified as public sector entities. Exposures to 
+commercial undertakings owned but not guaranteed by governments or municipal authorities 
+are classified in the corporates category. 
+503. The corporates categ ory includes exposures to banks and securities dealers, but 
+excludes exposures to reinsurers. Rated commercial mortgages are included in the corporate 
+exposure class. 
+504. The securitisation category includes all holdings of mortgage -backed securities and 
+other asset-backed securities. It also includes any other assets where the cash flow from an 
+underlying pool of exposures is used to service payments by a SPV to bondholders. If any of 
+the assets in the pool of exposures underlying a securitisation exposure is itself a 
+securitisation, then the exposure belongs to the re-securitisation category. 
+505. The category short-term obligations of regulated banks includes demand deposits and 
+other obligations that have an original maturity of less than three months, and that are drawn 
+on a bank subject to the solvency requirements of the Basel Framework. All other bank 
+exposures are included in the corporates category. 
+506. Assets that are held for unit-linked business or in separate accounts and for which all 
+credit risk on the assets fully flows through to policyholders are excluded from the Credit risk 
+charge. However, IAIGs calculate a Credit risk charge for the increase in related liabilities (eg 
+due to decreased future fee income) that would result from a credit risk loss on those assets, 
+calculated as specified in this section. The total amount of separate account assets excluded 
+from Credit risk and the Credit risk charge for separate account liabilities should be reported 
+in the table Separate account of the Template. 
+507. A non-paid-up financial instrument that qualifies for inclusion in capital resources is 
+subject to the same Credit risk charge as a direct credit exposure to the contingent capital 
+provider.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 125 of 247 
+ 
+508. The Credit risk charge for off -balance sheet exposures is based on credi t equivalent 
+amounts calculated as specified in Section 7.4.1.4. 
+7.4.1.2 Distribution of exposures by maturity 
+509. For calculating the Credit risk charge, an effective maturity is calculated as follows for 
+each credit exposure: 
+𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒 𝑀𝑎𝑡𝑢𝑟𝑖𝑡𝑦 =
+∑ 𝑡 ∗ 𝐶𝐹𝑡𝑡
+∑ 𝐶𝐹𝑡𝑡
+ 
+where: 
+CFt denotes the cash flows (principal, interest payments and fees) contractually payable by 
+the borrower in period t. 
+510. This effective maturity should be used to report the Credit risk exposure in the 
+corresponding maturity bucket. 
+511. Where it is not possible to calculate the effective maturity of the contracted payments 
+as noted above, a conservative measure is used, such as the maximum remaining time (in 
+years) that the borrower is permitted to take to fully discharge its contractual obl igation 
+(principal, interest, and fees) under the terms of the loan agreement.  
+512. For OTC derivatives subject to a master netting agreement, the maturity is calculated 
+as the weighted average of the maturities of the transactions subject to netting, with the 
+weights proportional to the transactions’ notional amounts. 
+513. All exposures to a group are aggregated and split by rating category before calculating 
+the effective maturity. 
+514. When an exposure is redistributed into another rating category due to the presence of 
+an eligible guarantee or collateral, the effective maturity is calculated based on the term of the 
+underlying exposure, not the term of the guarantee or collateral. 
+7.4.1.3 Reinsurance exposures 
+515. The use of AM Best credit ratings is restricted to the calculation of the Credit risk charge 
+on reinsurance exposures. The mapping of AM Best insurer financial strength ratings to the 
+ICS ratings categories is provided in Section 3.4. 
+516. Reinsurance exposures include all positive on-balance sheet reinsurance assets and 
+receivables. Negative exposures are not included. 
+517. Reinsurance exposures are considered net of cessions to mandatory insurance pools 
+that are backed by either a govern mental entity or jointly by the insurance market. Cessions 
+to these mandatory pools are subject to a separate calculation. 
+518. Reinsurance exposures include all credit recognised in the ICS risk charges due to the 
+presence of reinsurance.  When an IAIG reduces its ICS risk charges on account of 
+reinsurance, the risk reduction should be reported in the table on Reinsurance exposures other 
+than collateralised non-life reinsurance exposures in the Template. 
+519. In the case of catastrophe scenarios and life insurance stresses, the impact of the 
+scenarios and stresses (before management actions) are calculated on a gross and net of 
+reinsurance basis. The difference between the gross and net of reinsurance basis is then 
+allocated to Credit risk categories based on the profile of the reinsurers that have provided
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 126 of 247 
+ 
+cover. This calculation is made at the Catastrophe risk charge and Life insurance risk charge 
+level (ie after diversification of the components of those risk charges). 
+520. Modified coinsurance and funds withheld arrangements are subject to a risk charge 
+even if there is no on-balance sheet reinsurance asset or the reinsurance asset is fully offset 
+by payables. 
+521. For funds withheld and similar arrangements, IAIGs may  treat payables and other 
+liabilities due to a reinsurer in the same manner as collateral provided that the arrangement 
+meets all of the following conditions:  
+a. The IAIG has executed a written, bilateral netting contract or agreement with the 
+reinsurer from which the asset is due that creates a single legal obligation. As a result 
+of such an agreement, the IAIG would have only one obligation for payment or one 
+claim to receive funds based on the net sum of the liabilities and amounts due in the 
+event the reinsurer failed to perform due to any of the following: default, bankruptcy, 
+liquidation or similar circumstances. 
+b. The IAIG has a written and reasoned legal opinion that, in the event of any legal 
+challenge, the relevant courts or administrative authorities would find the amount owed 
+under the netting agreement to be the net amount under the laws of all relevant 
+jurisdictions. In reaching this conclusion, the legal opinion must address the validity 
+and enforceability of the entire netting agreement under its terms. 
+i. The laws of all relevant jurisdictions are:  
+• The law of the jurisdiction where the reinsurer is incorporated and, if the 
+foreign branch of a reinsurer is involved, the laws of the jurisdiction in 
+which the branch is located;  
+• The law governing the individual insurance transaction; and  
+• The law governing any contracts or agreements required to effect the 
+netting arrangement. 
+ii. A legal opinion is recognised as such by the legal community in the IAIG’s home 
+jurisdiction or by a memorandum of law that addr esses all relevant issues in a 
+reasoned manner. 
+c. The IAIG has procedures in place to update legal opinions as necessary to ensure 
+continuing enforceability of the netting arrangement in light of possible changes in 
+relevant laws. 
+7.4.1.4 Off-balance sheet exposures 
+7.4.1.4.1 Credit equivalent amount for OTC derivatives 
+522. The credit equivalent amount for OTC derivatives is calculated using the current 
+exposure method from Annex 4, section VII of the Basel Framework 38. Under this method, 
+IAIGs calculate the current replacement cost by summing: 
+a. The total replacement cost (obtained by marking to market) of all its contracts with 
+positive value; and 
+ 
+38 Accessible at http://www.bis.org/publ/bcbs128.pdf
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 127 of 247 
+ 
+b. An amount for potential future credit exposure calculated on the basis of the total 
+notional principal amount of its book, split by residual maturity as specified in Table 24. 
+ 
+Table 24: Calculation of potential future credit exposure 
+Residual 
+Maturity 
+Interest 
+Rate 
+Exchange 
+Rate and Gold 
+Equity Precious Metals 
+Except Gold 
+Other 
+Commodities 
+One year or 
+less 0.0% 1.0% 6.0% 7.0% 10.0% 
+Over one year 
+to five years 0.5% 5.0% 8.0% 7.0% 12.0% 
+Over five 
+years 1.5% 7.5% 10.0% 8.0% 15.0% 
+ 
+523. Within the Template, the credit equivalent amount of exposures to OTC derivatives 
+counterparties should be reported in the column OTC Derivatives. 
+524. Credit derivatives are not subject to the current exposure method. Credit protection 
+that is received is treated according to the provisions for guarantees and credit derivatives (cf. 
+Section 7.4.2.2), while credit protection that is sold is treated as an off -balance sheet direct 
+credit substitute subject to a 100% credit conversion factor (cf. Section 7.4.1.4.2). 
+525. For contracts with multiple exchanges of principal, the factors are multiplied by the 
+number of remaining payments in the contract. 
+526. For contracts that are structured to settle outstanding exposure followi ng specified 
+payment dates and where the terms are reset so that the market value of the contract is zero 
+on these specified dates, the residual maturity is considered to be the time until the next reset 
+date. In the case of interest rate contracts with re maining maturities of more than one year 
+and that meet the above criteria, the add-on factor is subject to a floor of 0.5%. 
+527. Contracts not covered by any category in Table 24 are treated as other commodities. 
+528. No potential credit exposure is calculated for single currency floating/floating interest 
+rate swaps; the credit exposure on these contracts is evaluated solely on the basis of their 
+mark-to-market value. 
+529. The add-ons are based on effective rather than stated notional amounts. Where the 
+stated notional amount is leveraged or enhanced by the structure of the transaction, IAIGs 
+use the actual or effective notional amount when determining potential future exposure. 
+530. Potential credit exposure is calculated for all OTC contracts (with the exception of 
+single currency floating/floating interest rate swaps), regardless of whether the replacement 
+cost is positive or negative.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 128 of 247 
+ 
+531. IAIGs may net contracts that are subject to novation39 or any other legally valid form of 
+netting provided the following conditions are satisfied: 
+a. The IAIG has executed a written, bilateral netting contract or agreement with each 
+counterparty that creates a single legal oblig ation, covering all included bilateral 
+transactions subject to netting. The result of such an arrangement is that the IAIG only 
+has one obligation for payment or one claim to receive funds based on the net sum of 
+the positive and negative mark -to-market va lues of all the transactions with that 
+counterparty in the event that counterparty fails to perform due to any of the following: 
+default, bankruptcy, liquidation or similar circumstances. 
+b. The IAIG has a written and reasoned legal opinion that, in the event  of any legal 
+challenge, the relevant courts or administrative authorities will find the exposure under 
+the netting agreement to be the net amount under the laws of all relevant jurisdictions. 
+In reaching this conclusion, the legal opinion addresses the validity and enforceability 
+of the entire netting agreement under its terms. 
+i. The laws of all relevant jurisdictions are:  
+• The law of the jurisdiction where the counterparties are incorporated 
+and, if the foreign branch of a counterparty is involved, the laws  of the 
+jurisdiction in which the branch is located;  
+• The law governing the individual insurance transactions; and  
+• The law governing any contracts or agreements required to effect the 
+netting arrangement. 
+ii. A legal opinion is recognised as such by the legal  community in the IAIG’s 
+home jurisdiction or by a memorandum of law that addresses all relevant issues 
+in a reasoned manner. 
+c. The IAIG has internal procedures to verify that, prior to recognising a transaction as 
+being subject to netting for capital purpos es, the transaction is covered by a legal 
+opinion that meets the above criteria. 
+d. The IAIG has procedures in place to update legal opinions as necessary to ensure 
+continuing enforceability of the netting arrangements in light of possible changes in 
+relevant laws. 
+e. The IAIG maintains all required documentation in its files. 
+532. Any contract containing a walkaway clause40 is not eligible to qualify for netting for the 
+purpose of calculating the Credit risk charge. 
+533. Credit exposure on bilaterally netted forwards, swa ps, purchased options and similar 
+derivatives transactions is calculated as the sum of the net mark-to-market replacement cost, 
+if positive, plus an add-on based on the notional principal of the individual underlying contracts. 
+However, for purposes of calculating potential future credit exposures of contracts subject to 
+ 
+39 Novation refers to a written bilateral contract between two counterparties under which any obligation 
+to each other to deliver a given currency on a given date is automatically amalgamated with all other 
+obligations for the same currency and value date, legally substituting one single amount for the previous 
+gross obligations. 
+40 A walkaway clause is a provision wi thin the contract that permits a non -defaulting counterparty to 
+make only limited payments, or no payments, to the defaulter.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 129 of 247 
+ 
+legally enforceable netting agreements in which notional principal is equivalent to cash flows, 
+notional principal is defined as the net receipts falling due on each value date in each currency. 
+534. These contracts are treated as a single contract because offsetting contracts in the 
+same currency maturing on the same date will have lower potential future exposure as well as 
+lower current exposure. For multilateral netting schemes, the current exposure (ie 
+replacement cost) is a function of the loss allocation rules of the clearing house. 
+535. The calculation of the gross add-ons is based on the legal cash flow obligations in all 
+currencies. This is calculated by netting all receivable and pa yable amounts in the same 
+currency for each value date. The netted cash flow obligations is converted to the reporting 
+currency using the current forward rates for each value date. Once converted the amounts 
+receivable for the value date are added together  and the gross add -on is calculated by 
+multiplying the receivable amount by the appropriate add-on factor. 
+536. The future credit exposure for netted transactions is the sum of: 
+a. 40% of the add-on as calculated in paragraph 535; and 
+b. 60% of the add -on multiplied by the ratio of net current replacement cost to positive 
+current replacement cost (NGR) where: 
+𝑁𝐺𝑅 =
+𝑙𝑒𝑣𝑒𝑙 𝑜𝑓 𝑛𝑒𝑡 𝑟𝑒𝑝𝑙𝑎𝑐𝑒𝑚𝑒𝑛𝑡 𝑐𝑜𝑠𝑡
+𝑙𝑒𝑣𝑒𝑙 𝑜𝑓 𝑝𝑜𝑠𝑖𝑡𝑖𝑣𝑒 𝑟𝑒𝑝𝑙𝑎𝑐𝑒 𝑐𝑜𝑠𝑡 𝑓𝑜𝑟 𝑡𝑟𝑎𝑛𝑠𝑎𝑐𝑡𝑖𝑜𝑛𝑠 𝑠𝑢𝑏𝑒𝑐𝑡 𝑡𝑜 𝑙𝑒𝑔𝑎𝑙𝑙𝑦 𝑒𝑛𝑓𝑜𝑟𝑐𝑒𝑎𝑏𝑙𝑒 𝑛𝑒𝑡𝑡𝑖𝑛𝑔 𝑎𝑟𝑟𝑎𝑛𝑔𝑒𝑚𝑒𝑛𝑡𝑠  
+537. The calculation of NGR can be made on a counterparty by counterparty basis or on an 
+aggregate basis for all transactions subject to legally enforceable netting agreements. On a 
+counterparty by counterparty basis, a unique NGR should be calculated for each counterparty. 
+On an aggregate basis, one NGR should be calculated and applied to all counterparties. 
+7.4.1.4.2 Credit equivalent amount for other off-balance sheet exposures 
+538. Off-balance sheet exposures that are not arising from OTC derivatives are converted 
+into credit exposure equivalents through the use of credit conversion factors (CCFs) app lied 
+to the item’s notional amount: 
+a. Commitments with an original maturity up to one year and commitments with an 
+original maturity over one year receive a CCF of 20% and 50%, respectively. However, 
+any commitments that are unconditionally cancellable at any time by the IAIG without 
+prior notice, or that effectively provide for automatic cancellation due to deterioration 
+in a borrower’s creditworthiness, receive a 0% CCF; 
+b. Direct credit substitutes41 receive a CCF of 100%. If an IAIG has guaranteed, sold a 
+credit derivative for, or otherwise assumed the credit risk of a debt security, the risk 
+charge is the same as if the IAIG were directly holding the underlying security. Such 
+exposures should be reported in the column Other Off-Balance Sheet of the Template, 
+in the row corresponding to the guaranteed security. 
+c. Sale and repurchase agreements and asset sales with recourse, where the Credit risk 
+remains with the IAIG, receive a CCF of 100%; 
+ 
+41 For example, credit derivatives sold, general guarantees of indebtedness (including standby letters 
+of credit serving as financi al guarantees for loans and securities) and acceptances (including 
+endorsements with the character of acceptances).
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 130 of 247 
+ 
+d. Forward asset purchases, forward deposits and partly -paid shares and securities, 
+which represent commitments with certain drawdown, receive a CCF of 100%; 
+e. Transaction-related contingent items receive a CCF of 50%; 
+f. Note issuance facilities ( NIFs) and revolving underwriting facilities (RUFs) receive a 
+CCF of 50%; 
+g. Short-term self-liquidating trade letters of credit that an IAIG either issues or confirms 
+arising from the movement of goods (eg documentary credits collateralised by the 
+underlying shipment) receive a 20% CCF; 
+h. Where there is an undertaking to provide a commitment on an off-balance sheet item, 
+IAIGs apply the lower of the two applicable CCFs; 
+i. Off-balance sheet securitisation exposures receive a CCF of 100%. 
+539. Off-balance sheet exposures  that are not arising from OTC derivatives should be 
+reported in the column Other Off-Balance Sheet of the Template. 
+7.4.1.5 Securities financing transactions 
+540. The rating category for a securities financing transaction is the lower of that of the 
+counterparty to the transaction, or that of the securities lent. Collateral received under 
+securities financing transactions is recognised according to the same criteria as collateral 
+received under regular lending transactions (cf. Section 7.4.2.1). 
+541. Within the Template tables, exposures arising from on -balance sheet securities 
+financing transactions should be reported in the column Balance Sheet Assets, and exposures 
+arising from off -balance sheet securities financing transactions (full notional amount) in the 
+column Other Off-Balance Sheet. 
+7.4.1.6 Credit risk stress factors 
+542. The following tables contain the ICS Credit risk stress factors for the exposure classes 
+by ICS RC and maturity: 
+ 
+Table 25: Credit risk stress factors for public sector entities 
+ICS RC Maturity: 
+0-1 
+ 
+1-2 
+ 
+2-3 
+ 
+3-4 
+ 
+4-5 
+ 
+5-6 
+ 
+6-7 
+ 
+7-8 
+ 
+8-9 
+ 
+9-10 
+ 
+10-11 
+ 
+11-12 
+ 
+12-13 
+ 
+13-14 
+ 
+14+ 
+1 or 2 0.1% 0.4% 0.5% 0.6% 0.7% 0.8% 0.9% 1.0% 1.0% 1.1% 1.1% 1.2% 1.2% 1.2% 1.3% 
+3 0.4% 1.0% 1.3% 1.5% 1.8% 2.0% 2.2% 2.4% 2.5% 2.7% 2.8% 2.9% 3.0% 3.0% 3.1% 
+4 1.0% 2.2% 2.6% 3.0% 3.3% 3.6% 3.9% 4.1% 4.2% 4.4% 4.5% 4.6% 4.7% 4.8% 4.9% 
+5 2.5% 5.1% 6.0% 6.6% 7.0% 7.3% 7.5% 7.6% 7.6% 7.7% 7.8% 7.8% 7.9% 7.9% 7.9% 
+6 6.3% 10.8
+% 
+11.8
+% 
+12.3
+% 
+12.5
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+7 22.0% 24.7
+% 
+25.2
+% 
+25.3
+% 
+25.3
+% 
+25.3
+% 
+25.3
+% 
+25.3
+% 
+25.3
+% 
+25.3
+% 
+25.3
+% 
+25.3
+% 
+25.3
+% 
+25.3
+% 
+25.3
+%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 131 of 247 
+ 
+Unrated 2.5% 5.1% 6.0% 6.6% 7.0% 7.3% 7.5% 7.6% 7.6% 7.7% 7.8% 7.8% 7.9% 7.9% 7.9% 
+In Default 35.0% 35.0
+% 
+35.0
+% 
+35.0
+% 
+35.0
+% 
+35.0
+% 
+35.0
+% 
+35.0
+% 
+35.0
+% 
+35.0
+% 
+35.0
+% 
+35.0
+% 
+35.0
+% 
+35.0
+% 
+35.0
+%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 132 of 247 
+ 
+Table 26: Credit risk stress factors for corporates and reinsurance 
+ICS RC Maturity: 
+0-1 
+ 
+1-2 
+ 
+2-3 
+ 
+3-4 
+ 
+4-5 
+ 
+5-6 
+ 
+6-7 
+ 
+7-8 
+ 
+8-9 
+ 
+9-10 
+ 
+10-11 
+ 
+11-12 
+ 
+12-13 
+ 
+13-14 
+ 
+14+ 
+1 or 2 0.2% 0.7% 0.9% 1.2% 1.4% 1.6% 1.7% 1.9% 2.0% 2.1% 2.2% 2.3% 2.4% 2.4% 2.5% 
+3 0.6% 1.3% 1.6% 1.8% 2.1% 2.3% 2.6% 2.8% 3.0% 3.2% 3.3% 3.4% 3.5% 3.6% 3.7% 
+4 1.4% 3.0% 3.6% 4.1% 4.5% 4.9% 5.1% 5.3% 5.4% 5.6% 5.7% 5.8% 5.9% 6.0% 6.0% 
+5 3.6% 7.1% 8.3% 9.0% 9.4% 9.7% 9.8% 9.8% 9.8% 9.8% 9.8% 9.8% 9.8% 9.8% 9.8% 
+6 8.9% 14.4
+% 
+15.3
+% 
+15.6
+% 
+15.6
+% 
+15.6
+% 
+15.6
+% 
+15.6
+% 
+15.6
+% 
+15.6
+% 
+15.6
+% 
+15.6
+% 
+15.6
+% 
+15.6
+% 
+15.6
+% 
+7 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 
+Unrated 6.3% 10.7
+% 
+11.8
+% 
+12.3
+% 
+12.5
+% 
+12.6
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+12.7
+% 
+In Default 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 35% 
+ 
+Table 27: Credit risk stress factors for securitisations 
+ICS RC Maturity: 
+0-1 
+ 
+1-2 
+ 
+2-3 
+ 
+3-4 
+ 
+4-5 
+ 
+5-6 
+ 
+6-7 
+ 
+7-8 
+ 
+8-9 
+ 
+9-10 
+ 
+10-11 
+ 
+11-12 
+ 
+12-13 
+ 
+13-14 
+ 
+14+ 
+1 or 2 0.2% 0.7% 0.9% 1.2% 1.4% 1.6% 1.7% 1.9% 2.0% 2.1% 2.2% 2.3% 2.4% 2.4% 2.5% 
+3 0.6% 1.3% 1.6% 1.8% 2.1% 2.3% 2.6% 2.8% 3.0% 3.2% 3.3% 3.4% 3.5% 3.6% 3.7% 
+4 1.4% 3.0% 3.6% 4.1% 4.5% 4.9% 5.1% 5.3% 5.4% 5.6% 5.7% 5.8% 5.9% 6.0% 6.0% 
+5 10.8% 21.3
+% 
+24.9
+% 
+27.0
+% 
+28.2
+% 
+29.1
+% 
+29.4
+% 
+29.4
+% 
+29.4
+% 
+29.4
+% 
+29.4
+% 
+29.4
+% 
+29.4
+% 
+29.4
+% 
+29.4
+% 
+6 100% 100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+7 100% 100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+Unrated 100% 100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+In Default 100% 100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+% 
+100
+%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 133 of 247 
+ 
+Table 28: Credit risk stress factors for re-securitisations 
+ICS RC Maturity: 
+0-1 
+ 
+1-2 
+ 
+2-3 
+ 
+3-4 
+ 
+4-5 
+ 
+5-6 
+ 
+6-7 
+ 
+7-8 
+ 
+8-9 
+ 
+9-10 
+ 
+10-11 
+ 
+11-12 
+ 
+12-13 
+ 
+13-14 
+ 
+14+ 
+1 or 2 0.4% 1.4% 1.8% 2.4% 2.8% 3.2% 3.4% 3.8% 4.0% 4.2% 4.4% 4.6% 4.8% 4.8% 5.0% 
+3 1.2% 2.6% 3.2% 3.6% 4.2% 4.6% 5.2% 5.6% 6.0% 6.4% 6.6% 6.8% 7.0% 7.2% 7.4% 
+4 2.8% 6.0% 7.2% 8.2% 9.0% 9.8% 10.2
+% 
+10.6
+% 
+10.8
+% 
+11.2
+% 
+11.4
+% 
+11.6
+% 
+11.8
+% 
+12.0
+% 
+12.0
+% 
+5 21.6% 42.6
+% 
+49.8
+% 
+54.0
+% 
+56.4
+% 
+58.2
+% 
+58.8
+% 
+58.8
+% 
+58.8
+% 
+58.8
+% 
+58.8
+% 
+58.8
+% 
+58.8
+% 
+58.8
+% 
+58.8
+% 
+6 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 
+7 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 
+Unrated 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 
+In Default 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 
+ 
+543. The Credit risk stress factor for policy loans  (which are to be reported in the 
+Miscellaneous Assets table in the Template) is 0%. The stress factor for short-term obligations 
+of regulated banks, as defined in paragraph  505, is 0.4%. The stress factor for receivables 
+from agents and brok ers is 6.3%. All other assets receive a stress factor of 8%. IAIGs may 
+exclude outstanding premiums from the exposure if insurance liabilities are recorded for the 
+contracts relating to the outstanding premiums and the outstanding premiums are unrecorded 
+in line with the release of the insurance liabilities when the contracts expire upon the 
+policyholder’s default. 
+544. IAIGs are requested to provide supplementary granular data for  amounts receivable 
+from agents and brokers: 
+a. Balance receivable but not yet due; 
+b. Balances past due for 90 days or less, net of all balance sheet write-downs and specific 
+provisions if any; 
+c. Balances past due for more than 90 days, net of all balance sheet write -downs and 
+specific provisions if any; and 
+d. The balance-weighted average time in months until due for the balances not yet due 
+reported in a). 
+7.4.1.7 Mortgage Loans 
+7.4.1.7.1 Commercial and agricultural mortgages where repayment depends on property 
+income 
+545. Depending on data availability, the risk charge is calculated using one of the three 
+following methods, in decreasing order of preference:
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 134 of 247 
+ 
+a. Method 1: risk charge based on the ICS Commercial Mortgage (CM) category as 
+determined by loan-to-value (LTV) and debt service coverage ratio (DSCR); 
+b. Method 2: risk charge based on the ICS CM category as determined by LTV only; or 
+c. Method 3: no Credit Quality Differentiator used. 
+546. For agricultural and commercial Method 1, the mapping of the ICS CM categories 1 to 
+5 to LTV and DSCR is provided in Table 29. Categories CM6 and CM7 are for delinquent 
+loans and loans in foreclosure, respectively. 
+ 
+Table 29: Mapping of ICS CM categories, Method 1 
+     LTV           
+  CM <60% 60% to 69.9% 70% to 79.9% 80% to 89.9% 90% to 99.9% >= 100% 
+DSCR < 0.6 CM3 CM3 CM3 CM4 CM4 CM5 
+  0.6 to 0.79 CM3 CM3 CM3 CM4 CM4 CM5 
+  0.8 to 0.99 CM3 CM3 CM3 CM4 CM4 CM5 
+  1 to 1.19 CM2 CM2 CM3 CM3 CM4 CM4 
+  1.2 to 1.39 CM2 CM2 CM3 CM3 CM3 CM3 
+  1.4 to 1.59 CM1 CM2 CM2 CM2 CM3 CM3 
+  1.6 to 1.79 CM1 CM1 CM1 CM2 CM3 CM3 
+  1.8 to 1.99 CM1 CM1 CM1 CM2 CM2 CM2 
+  >= 2 CM1 CM1 CM1 CM2 CM2 CM2 
+ 
+547. For agricultural and commercial Method 1, the following stress factors are used: 
+Table 30: Stress factors for agricultural and commercial mortgages, Method 1 
+ICS CM 
+Categories 
+Stress factors 
+CM1 4.8% 
+CM2 6.0% 
+CM3 7.8% 
+CM4 15.8% 
+CM5 23.5% 
+CM6 35% 
+CM7 35%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 135 of 247 
+ 
+548. For agricultural and commercial Method 2, where only LTV data is available, the 
+mapping of the ICS CM categories 1 to 4 to LTV and the associated stress factors are provided 
+in Table 31. As for Method 1, categories CM6 and CM7 are for delinquent loans and loans in 
+foreclosure, respectively. 
+Table 31: Stress factors for agricultural and commercial mortgages, Method 2 
+ICS CM 
+Categories Stress factors LTV 
+Minimum 
+LTV 
+Maximum 
+CM1 4.8% 0% 59% 
+CM2 6.0% 60% 79% 
+CM3 7.8% 80% 99% 
+CM4 15.8% 100% NA 
+CM5 Not applicable   
+CM6 35%   
+CM7 35%   
+ 
+549. For agricultural and commercial Method 3, where LTV and DSCR data are not 
+available, a flat 8% stress factor is used. 
+7.4.1.7.2 Commercial and agricultural mortgages where repayment does not depend on 
+property income 
+550. When the LTV ratio of the mortgage is above 60%, the risk factor is that of a regular 
+credit exposure to the borrower. When the LTV ratio of the mortgage is 60% or lower, the risk 
+factor is the lower of 3.6% or the risk factor for a regular credit exposure to the borrower. 
+7.4.1.7.3 Residential mortgages  
+551. For performing42 residential mortgage loans for which repayment depends on income 
+generated by the underlying property, the factors applied are based on the mortgage’s LTV 
+ratio, as specified in the following table: 
+Table 32: Factors for residential mortgages for which repayment depends on income 
+generated by the underlying property 
+ 
+42 The distinction between performing and non -performing is consistent with the Basel Committee’s 
+definition, which establishes criteria for categorising loans and debt securities that are centred around 
+delinquency status (90 days past due) and the unlikeliness of repayment. As such, non -performing 
+exposures encompass: (1) all exposures defaulted, as defined under the Basel framework; or (2) a ll 
+exposures impaired (ie exposures that have undergone a downward adjustment to their valuation due 
+to deterioration in their creditworthiness); or (3) material exposures that are more than 90 days past due 
+or where there is evidence that full repayment o f principal and interest without realisation of collateral 
+is unlikely, regardless of the number of days past due. 
+LTV Stress 
+factors 
+LTV ≤ 60% 4.2%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 136 of 247 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+552. For performing residential mortgage loans for which repayment does not depend on 
+income generated by the underlying property, the factors applied are based on the mortgage’s 
+LTV ratio, as specified in the following table: 
+Table 33: Factors for residential mortgages for which repayment does not depend on 
+income generated by the underlying property 
+LTV Stress 
+factors 
+LTV ≤ 40% 1.5% 
+40% < LTV ≤ 60% 1.8% 
+60% < LTV ≤ 80% 2.1% 
+80% < LTV ≤ 90% 2.7% 
+90% < LTV ≤ 100% 3.3% 
+LTV > 100% 4.5% 
+ 
+553. For non-performing mortgage loans, the factor applied is 35%. 
+7.4.2 Recognition of collateral, guarantees and credit derivatives 
+554. In determining the net exposure value, collateral and guarantees may be taken into 
+consideration.  
+7.4.2.1 Recognition of collateral 
+555. A collateralised transaction is one in which: 
+a. An IAIG has a credit exposure or potential credit exposure; and 
+b. That cred it exposure or potential credit exposure is hedged in whole or in part by 
+collateral posted by a counterparty or by a third party on behalf of the counterparty. 
+556. Only the following collateral categories are eligible to be recognised: 
+a. Securities that are either issued by a sovereign entity or have ICS RC 4 or better; 
+b. Gold; 
+c. Mutual funds where: 
+i. a price is publicly quoted daily; and 
+ii. the mutual fund is limited to investing in the eligible collateral listed above; 
+60% < LTV ≤ 80% 5.4% 
+LTV > 80% 7.2%
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 137 of 247 
+ 
+d. Letters of credit. 
+557. The Credit risk charge calculation takes into account collateral provided all of the 
+following requirements are met: 
+a. The effects of collateral are not double counted. In particular, collateral on claims for 
+which an issue -specific rating is used that alrea dy reflects that collateral is not 
+recognised. All criteria around the use of ratings remain applicable to collateral. 
+b. All documentation used in collateralised transactions are binding on all parties and 
+legally enforceable in all relevant jurisdictions. The IAIG has conducted sufficient legal 
+review to verify this and have a well-founded legal basis to reach this conclusion, and 
+undertaken such further review as necessary to ensure continuing enforceability. 
+c. The legal mechanism by which collateral is pledg ed or transferred ensures that the 
+IAIG has the right to liquidate or take legal possession of the collateral in a timely 
+manner in the event of the default, insolvency or bankruptcy (or one or more otherwise-
+defined credit events set out in the transactio n documentation) of the counterparty 
+(and, where applicable, of the custodian holding the collateral). Furthermore, the IAIG 
+has taken all necessary steps to fulfil those requirements under the law applicable to 
+the IAIG ’s interest in the collateral for obtaining and maintaining an enforceable 
+security interest, eg by registering it with a registrar, or for exercising a right to net or 
+set off in relation to title transfer collateral. 
+d. The credit quality of the counterparty and the value of the collateral do not have a 
+material positive correlation. For example, securities issued by the counterparty – or 
+by any related group entity – are not eligible. 
+e. The IAIG has clear and robust procedures for the timely liquidation of collateral to 
+ensure that any legal conditions required for declaring the default of the counterparty 
+and liquidating the collateral are observed, and that collateral can be liquidated 
+promptly. 
+f. Where collateral is held by a custodian, the IAIG takes reasonable steps to ensure that 
+the custodian segregates the collateral from its own assets. 
+g. The collateral is pledged for at least the life of the exposure. 
+558. Where the collateral is denominated in a currency different from that in which the 
+exposure is denominated, the amount of the exposure deemed to be protected is 80% of the 
+amount of collateral, converted at current exchange rates. 
+7.4.2.1.1 Default approach to the recognition of collateral: the substitution approach 
+559. The portion of an exposure that is collateralised by eligible financial collateral valued 
+at market is redistributed into the rating category applicable to the collateral instrument, while 
+the remainder of the exposure is assigned the rating category appropriate to the counterparty. 
+560. The effect of the Credit risk mitigation will be to transfer the exposure from the class of 
+the borrower to that of the collateral or the guarantor. This is done in the Template by including 
+the negative amount of the exposure in column Redistribution for Collateral and Guarantees 
+of the row corresp onding to the class of the underlying exposure, and including the positive 
+amount of the exposure in column Redistribution for Collateral and Guarantees  of the row 
+corresponding to the class of the collateral or of the guarantor. The total entry in each ro w of 
+column Redistribution for Collateral and Guarantees is the net sum of the (positive) exposures
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 138 of 247 
+ 
+redistributed into and (negative) exposures redistributed out of the exposure class. The sum 
+of all entries in column Redistribution for Collateral and Guar antees taken over all exposure 
+classes should be zero. 
+7.4.2.1.2 Alternative approach for collateralised non -life reinsurance exposures: the haircut 
+approach 
+561. Under the haircut approach, collateral may be recognised if it satisfies requirements a) 
+to f) of paragraph 557 and is pledged for at least one year. 
+562. The haircut approach reduces the exposure amount to account for collateral held by 
+the ceding insurer. The adjusted reinsurance exposure is defined by: 
+𝐴𝑑𝑗𝑢𝑠𝑡𝑒𝑑 𝑟𝑒𝑖𝑛𝑠𝑢𝑟𝑎𝑛𝑐𝑒 𝑒𝑥𝑝𝑜𝑠𝑢𝑟𝑒
+= 𝑅𝑒𝑖𝑛𝑠𝑢𝑟𝑎𝑛𝑐𝑒 𝑎𝑠𝑠𝑒𝑡𝑠 𝑎𝑛𝑑 𝑟𝑒𝑐𝑒𝑖𝑣𝑎𝑏𝑙𝑒𝑠 + 𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝑅𝑒𝑞𝑢𝑖𝑟𝑒𝑚𝑒𝑛𝑡𝑠
+− 𝐶𝑜𝑙𝑙𝑎𝑡𝑒𝑟𝑎𝑙  
+Where: 
+Capital Requirements consist of the risk charges for Non -life risk, Catastrophe risk, Market 
+risks and Credit risk on the reinsured business and/or its supporting collateral, aggregated 
+using the correlations specified in Section 7.6. 
+563. The risk charges for Non-Life and Catastrophe risks are equal to the reduction in the 
+ICS risk charges attributable to the reinsurance arrangement. This amount is aggregated with 
+the Market risk charge and the Credit risk charges using 25% correlations. 
+564. The Credit and Market risk charges are specified as follows:  
+a. The Credit risk charge is calculated for all of the assets held as collateral. 
+b. The Asset Concentration risk charge is the granularity adjustment for all of the assets 
+held as collateral, calculated on a standalone basis (ie in isolation from the ceding 
+insurer’s own asset portfolio). 
+c. The Currency risk charge is calculated on a standalone basis for the reinsured liabilities 
+in combination with the assets held as collateral. For the purpose of this calculation, 
+the base currency is taken to be the currency in which the ceded liabilities are 
+denominated, and the deduction referred to in point g) of paragraph 478 is not applied. 
+d. The Interest Rate and Non-Default Spread risk charges are calculated on a standalone 
+basis for the ceded liabilities in combination with the assets held as collateral. 
+e. The Equity and Real Estate risk charges are calculated for all of the assets held as 
+collateral. 
+f. The Asset Concentration, Currency, Interest Rate, Non-Default Spread, Equity and 
+Real Estate risk charges are aggregated to obtain the Market risk charge using  the 
+correlations specified in Section 7.3.1. 
+565. The resulting Credit risk charge for collateralised non -life reinsurance is equal to the 
+adjusted reinsurance exposure multiplied by the Credit risk factor applicable to the reinsurer.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 139 of 247 
+ 
+7.4.2.2 Recognition of guarantees and credit derivatives 
+566. In order to determine the ICS RC of their counterparties, IAIGs may take into account 
+the credit protection provided by guarantees and credit derivatives, provided that  all of the 
+following conditions are met: 
+a. The guarantees or credit derivatives are direct, explicit, irrevocable and unconditional. 
+b. The guarantor or protection provider belong s to a higher rating category than the 
+counterparty covered by the guarantee or protection. 
+c. The IAIG fulfils certain minimum conditions relating to risk management described in 
+Section 7.4.2.2.1. 
+567. The capital treatment is founded on the substitution approach, whereby the protected 
+portion of a counterparty exposure is assigned the rating category of the guarantor or 
+protection provider, while the uncovered portion retains the rating category of the underlying 
+counterparty. 
+7.4.2.2.1 Risk management requirements 
+568. The minimum conditions referred to in paragraph 566, applicable to both guarantees 
+and credit derivatives, are the following: 
+a. The effects of credit protection are not double counted. In particular, no recognition is 
+given to credit protection on claims for which an issue -specific rating is used that 
+already reflects that protection. All criteria around the use of ratings remain applicable 
+to guarantees and credit derivatives. 
+b. With the exception of credit protection provided by sovereigns as specified in 
+paragraph 582, a guarantee, counter-guarantee or credit derivative must represent a 
+direct claim on the protection provider and must explicitly refer to a specific exposure 
+or pool of exposures, so that the extent of the cover is clearly defined and 
+incontrovertible. 
+c. The credit protection contract is irrevocable, except in case of non -payment by the 
+protection purchaser of money due in respect of the credit protection contract. 
+d. There is no clause in the contract that allows the protection provider to unilaterally 
+cancel the credit cover or to increase the effective cost of cover as a result of 
+deteriorating credit quality in the hedged exposure. 
+e. The contract is unconditional, ie there is no clause in the protection contract outside 
+the direct control of the IAIG that could prevent the protection provider from being 
+obliged to pay out in a timely manner in the event that the original counterparty fails to 
+make the payment(s) due. 
+f. All documentation used for documenting guarantees and credit derivatives are binding 
+on all parties and legally enforceable in all relevant jurisdictions. IAIGs have conducted 
+sufficient legal review to verify this and have a well -founded legal basis to reach this 
+conclusion, and undertake such further review as necessary to ensure continuing 
+enforceability. 
+569. In addition to the requirements set in paragraph 568, the recognition of a guarantee is 
+subject to all of the following conditions:
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 140 of 247 
+ 
+a. On the qualifying default/non -payment of the counterparty, the IAIG pursues the 
+guarantor in a timely manner for any monies outstanding under the documentation 
+governing the transaction. The guarantor makes one lump sum payment of all monies 
+under such documentation to the IAIG, or the guarantor assumes the future payment 
+obligations of the counterparty covered by the guarantee. The IAIG has the right to 
+receive any such payments from the guarantor without first having to take legal action 
+in order to pursue the counterparty for payment. 
+b. The guarantee is an explicitly documented obligation assumed by the guarantor.  
+c. Except as noted in the following sentence, the guarantee covers all types of payments 
+the underlying obligor is expected to make under the documentation governing the 
+transaction, for example notional amount, margin payments etc. Where a guarantee 
+excludes certain types of payment, the corresponding amounts are treat ed as 
+unsecured amounts. 
+570. In addition to the requirements set in paragraph 568, the recognition of a credit 
+derivative contract is subject to all of the following conditions: 
+a. The credit events specified by the contracting parties cover at a minimum: 
+i. The failure to pay the amounts due under the terms of the underlying obligation 
+that are in effect at the time of such failure (with a grace period that is in line with 
+the grace period in the underlying obligation); 
+ii. The bankruptcy, insolvency or inability of the obligor to pay its debts, or its failure 
+or admission in writing of its inability generally to pay its debts as they become due, 
+and analogous events; and 
+iii. The restru cturing of the underlying obligation involving forgiveness or 
+postponement of principal, interest or fees that results in a credit loss event (ie 
+charge-off, specific provision or other similar debit to the profit and loss account).  
+b. If the credit derivative covers obligations that do not include the underlying obligation, 
+point g) below governs whether the asset mismatch is permissible.  
+c. The credit derivative does not terminate prior to the expiration of any grace period 
+required for a default on the underlying obligation to occur as a result of a failure to 
+pay. 
+d. Credit derivatives allowing for cash settlement are recognised for capital purposes 
+insofar as a robust valuation process is in place in order to estimate loss reliably. There 
+is a clearly specified period for obtaining post-credit event valuations of the underlying 
+obligation. If the reference obligation specified in the credit derivative for purposes of 
+cash settlement is different than the underlying obligation, point g) below governs 
+whether the asset mismatch is permissible. 
+e. If the protection purchaser’s right/ability to transfer the underlying obligation to the 
+protection provider is required for settlement, the terms of the underlying obligation 
+provide that any required consent to such transfer be not unreasonably withheld. 
+f. The identity of the parties responsible for determining whether a credit event has 
+occurred is clearly defined. This determination is not the sole responsibility of the
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 141 of 247 
+ 
+protection seller. The protection buyer has the right/ability to inform the protection 
+provider of the occurrence of a credit event. 
+g. A mismatch between the underlying obligation and the reference obligation under the 
+credit derivative (ie the obligation used for purposes of dete rmining cash settlement 
+value or the deliverable obligation) is permissible if:  
+i. The reference obligation ranks pari passu  with or is junior to the underlying 
+obligation; and  
+ii. The underlying obligation and reference obligation share the same obligor (ie th e 
+same legal entity) and legally enforceable cross -default or cross -acceleration 
+clauses are in place. 
+h. A mismatch between the underlying obligation and the obligation used for purposes of 
+determining whether a credit event has occurred is permissible if:  
+i. The latter obligation ranks pari passu with or is junior to the underlying obligation; 
+and 
+ii. The underlying obligation and reference obligation share the same obligor (ie the 
+same legal entity) and legally enforceable cross -default or cross -acceleration 
+clauses are in place. 
+i. Only credit default swaps and total return swaps that provide credit protection 
+equivalent to guarantees are eligible for recognition. Where an IAIG buys credit 
+protection through a total return swap and records the net payments received on the 
+swap as net income, but does not record offsetting deterioration in the value of the 
+asset that is protected (either through reductions in fair value or by increasing 
+provisions), the credit protection is not recognised. 
+571. When the restructuring of the underlying obligation is not covered by the credit 
+derivative, but the other requirements above are met, partial recognition of the credit derivative 
+is allowed, up to a maximum of 60% of the lower of: 
+a. The amount of the credit derivative; and 
+b. The amount of the underlying obligation. 
+7.4.2.2.2 Eligible guarantors 
+572. Only the credit protection provided by the following counterparties are eligible for 
+recognition: 
+a. Sovereigns; 
+b. Externally rated public sector entities, banks and securities firms w ith a higher rating 
+category than that of the counterparty; and 
+c. Other entities, including parent, subsidiaries and affiliate companies of an obligor, 
+provided they have a higher rating category than that of the obligor.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 142 of 247 
+ 
+In addition, a guarantee or credit protection provided by a related party (parent, subsidiary or 
+affiliate) of the IAIG is not eligible for recognition.  This treatment follows the principle that 
+guarantees within a corporate group are not a substitute for capital. 
+7.4.2.2.3 Capital treatment 
+573. The protected portion of a counterparty exposure is assigned the rating category of the 
+protection provider. The uncovered portion of the exposure is assigned the rating category of 
+the underlying counterparty. 
+574. Where the amount guaranteed or covered with credit protection is less than the amount 
+of the exposure, and the secured and unsecured portions are of equal seniority (ie the IAIG 
+and the guarantor share losses on a pro -rata basis), the protected portion of the exposure 
+receives the treatment applicable to eligible gua rantees and credit derivatives, and the 
+remainder is treated as unsecured. 
+575. Where an IAIG transfers a portion of the risk of an exposure in one or more tranches 
+to protection sellers and retains some level of risk, and the risk transferred and the risk retained 
+are of different seniority, all tranches are considered as securitisation exposures based on the 
+ratings of the guarantors. If a tranche does not carry a rating, it is considered as an unrated 
+securitisation exposure even if the underlying exposure is rated. Where such treatment leads 
+to a Credit risk charge higher than the risk charge calculated without taking the guarantee into 
+account, IAIGs may ignore the guarantee. 
+576. Materiality thresholds on amounts due below which no payment is made in the event 
+of loss are considered unrated securitisation exposures. 
+7.4.2.2.4 Currency mismatches 
+577. Where the credit protection is denominated in a currency different from that in which 
+the exposure is denominated, the amount of the exposure deemed to be protected is 80% of 
+the nominal amount of the credit protection, converted at current exchange rates. 
+7.4.2.2.5 Maturity mismatches 
+578. When the residual maturity of the credit protection is less than that of the underlying 
+exposure (maturity mismatch) and the credit protection has either an original maturity of less 
+than one year or a residual maturity of less than three months, the protection is not recognised. 
+579. In other cases of maturity mismatch, the following adjustment is applied: 
+𝑃𝑎 = 𝑃 ∗ 𝑡 − 0.25
+𝑇 − 0.25 
+where: 
+• 𝑃𝑎 is the value of the credit protection adjusted for maturity mismatch; 
+• 𝑃 is the nominal amount of the credit protection, adjusted for currency mismatch if 
+applicable; 
+• 𝑇 is the lower of 5 and the residual maturity of the exposure expressed in years; and 
+• 𝑡 is the lower of 𝑇 and the residual maturity of the credit protection a rrangement 
+expressed in years.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 143 of 247 
+ 
+580. The residual maturity of the underlying exposure is taken as the longest possible 
+remaining time before the counterparty is scheduled to fulfil its obligation, taking into account 
+any applicable grace period. 
+581. For the credit protection, embedded options that may reduce the term of the protection 
+are taken into account so that the shortest possible effective maturity is used. In particular: 
+a. Where a call is at the discretion of the protection seller, the residual maturity 
+corresponds to the remaining time to the first call date. 
+b. Where a call is at the discretion of the IAIG buying protection but the terms of the 
+arrangement at origination contain a positive incentive for the IAIG to call the 
+transaction before contractual maturity, the residual maturity corresponds to the 
+remaining time to the first call date.  For example, where there is a step -up cost in 
+conjunction with a call feature or where the effective cost of cover increases over time 
+even if credit quality remains the same or improves, the effective maturity will be the 
+remaining time to the first call. 
+7.4.2.2.6 Sovereign counter-guarantees 
+582. Claims covered by a guarantee that is indirectly counter -guaranteed by a sovereign 
+may be treated as covered by a sovereign guarantee provided that: 
+a. The sovereign counter-guarantee covers all credit risk elements of the claim; 
+b. Both the original guarantee and the counter -guarantee meet all the operational 
+requirements for guarantees, except that the counter-guarantee need not be direct and 
+explicit to the original claim; and 
+c. The cover is robust, and there is no historical evidence suggesting that the coverage 
+of the counter-guarantee is less than effectively equivalent to that of a direct sovereign 
+guarantee. 
+7.4.2.2.7 Other items 
+583. Where an IAIG has multiple types of risk mitigation arrangements covering a single 
+exposure (eg both collateral and a guarantee partially cover an exposure) , this exposure is 
+subdivided into portions covered by each type of risk mitigation arrangement (eg portion 
+covered by collateral, portion covered by guarantee) and the rating category for each portion 
+is determined separately. 
+584. When a credit protection provided by a single protection provider has different 
+maturities, it is subdivided into separate protections. 
+7.4.3 Use of external credit ratings 
+585. External credit ratings may be used for the calculation of the Credit risk charge, 
+provided that the rating agency has published default and transition statistics extending back 
+over a sufficiently long period of time, and sa tisfying six criteria related to: objectivity, 
+independence, international access/transparency, disclosure, resources and credibility. Those 
+criteria, as well as the required time period for which statistics need to have been published, 
+are specified below. 
+586. When external credit ratings are used in accordance with paragraph 585, they are 
+mapped to ICS Rating Categories as described in Section 3.4.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 144 of 247 
+ 
+587. IAIGs may use any ratings by a rating agency currently recognised by their supervisor 
+for local capital determination purposes, subject to clear instructions provided by the 
+supervisor on how to map those credit agency ratings to the ICS Rating Categories and explicit 
+acceptance of the use of those ratings by the IAIS. 
+588. For the monitoring period, the IAIS will recognise ratings issued by credit agencies 
+licensed with China Banking and Insurance Regulatory Commission (CBIRC). The table below 
+provides a mapping of those ratings, which was established after determining that all of the 
+ICS recognition criteria had been met with the exception of the regular publication of default 
+statistics. The default data submission is currently made available to CBIRC only. The average 
+3-year cumulative default rates (CDRs) used in the mapping are based on the default statistics 
+of the total public trading market from 2008 to 2015. The mapping is on an aggregate b asis 
+rather than separately for each agency, because it is very uncommon to differentiate the 
+ratings issued by the above agencies in the China market.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 145 of 247 
+ 
+Table 34: Mapping of Chinese domestic credit ratings to ICS RC 
+ICS RC Chinese ratings 
+1  
+2  
+3 AAA 
+4  
+5 AA/A1, A/A2 
+6 BBB/A3, BB, B 
+7 CCC and lower 
+ 
+7.4.3.1 Eligible external credit ratings 
+589. IAIGs may use ratings produced by rating agencies other than those referred to in 
+paragraph 587, provided that both of the following requirements are met: 
+a. The rating agency is regulated or recognised by a suitable government authority in all 
+of the jurisdictions in which the agency issues ratings that the IAIG chooses to use. 
+b. The rating agency publishes at least annually publicly available default and transition 
+statistics extending back at least seven years, and satisfies all of the following six 
+criteria: 
+i. Objectivity: The rating agency’s methodology for assigning credit assessments is 
+rigorous, systematic, and subject to some form of validation based on historical 
+experience. Moreover, assessments are subject to ongoing review and are 
+responsive to changes in financial conditions. The ag ency has an assessment 
+methodology for each market segment, including rigorous back testing that has 
+been applied for at least one year and, preferably, three years. 
+ii. Independence: The rating agency is independent and is not subject to political or 
+economic pressures that may influence the rating. The assessment process is free 
+from any constraints that could arise in situations where the composition of the 
+board of directors or the shareholder structure of the assessment institution may 
+be seen as creating a conflict of interest. 
+iii. International access/Transparency: The individual assessments, the key elements 
+underlining the assessments, and whether the issuer participated in the 
+assessment process are made publicly available on a non -selective basis. In 
+addition, the general procedures, methodologies and assumptions for arriving at 
+assessments used by the rating agency are publicly available. 
+iv. Disclosure: A rating agency discloses the following information: its code of conduct; 
+the general nature of its compen sation arrangements with assessed entities; its 
+assessment methodologies, including the definition of default, the time horizon, 
+and the meaning of each rating; the actual default rates experienced in each 
+assessment category; and the transitions of the assessments, eg the likelihood of 
+AA ratings becoming A over time.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 146 of 247 
+ 
+v. Resources: A rating agency has sufficient resources to carry out high quality credit 
+assessments. These resources allow for substantial ongoing contact with senior 
+and operational levels with in the entities assessed in order to add value to the 
+credit assessments. Such assessments are based on methodologies that combine 
+qualitative and quantitative approaches. 
+vi. Credibility: The rating agency’s external credit assessments are widely used by 
+independent parties (investors, insurers, trading partners). In addition, the rating 
+agency has internal procedures to prevent the misuse of confidential information. 
+7.4.3.2 Definition of rating categories 
+590. The mapping of the agency’s ratings to ICS RCs is based on the average of the three-
+year Cumulative Default Rates (CDRs) associated with the agency’s ratings, as follows: 
+Table 35: Mapping of ratings by other rating agencies  
+ICS RC 
+Average 3-year CDR 
+based on over 20 
+years of published 
+data 
+Average 3-year CDR 
+based on between 7 
+and 20 years of 
+published data 
+1   
+2 0 ≤ CDR ≤ 0.15%  
+3 0.15% < CDR ≤ 0.35% 0 ≤ CDR ≤ 0.15% 
+4 0.35% < CDR ≤ 1.20% 0.15% < CDR ≤ 0.35% 
+5 1.20% < CDR ≤ 
+10.00% 0.35% < CDR ≤ 1.20% 
+6 10.00% < CDR ≤ 
+25.00% 
+1.20% < CDR ≤ 
+10.00% 
+7 CDR > 25% CDR > 10% 
+ 
+7.4.3.3 Use of ratings 
+591. IAIGs choose the rating agencies they intend to rely on and use their ratings 
+consistently for each type of credit exposure.  
+592. Any rating used to determine an ICS RC is publicly available, ie the rating is published 
+in an accessible form and included in the rating agency’s transition matrix. 
+593. If an IAIG is relying on multiple rating agencies and there is only one rating for a 
+particular security, that assessment is used to determine the ICS RC. If there are two ratings 
+from the rating agencies used by an IAIG, and those two ratings are mapped to different ICS 
+RC, the IAIG uses the ICS RC corresponding to the lower of the two ratings. If there are three 
+or more ratings for a security from an IA IG’s chosen rating agencies, one of the ratings that 
+corresponds to the highest ICS RC is excluded, and the rating that corresponds to the highest 
+rating category of those that remain is used to determine the ICS RC of the security  (ie the 
+IAIG should use the second-highest rating from those that were initially available, allowing for
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 147 of 247 
+ 
+multiple occurrences of the highest rating). For example, if ratings are AA, AA and A, one AA 
+is ignored, and the ICS category is based on the highest remaining, in this case AA, rating.  
+594. Where a particular security has one or more issue-specific rating, the ICS RC for that 
+security is based on these ratings. Otherwise, the following principles apply: 
+a. Where the borrower has a specific rating for an issued debt security other than the one 
+in which the IAIG is invested, an ICS RC of 4 or better on the rated security may only 
+be applied to the IAIG’s unrated investment if it ranks pari passu or senior to the rated 
+security in all respects. If not, the credit rating cannot be u sed and the IAIG’s 
+investment is treated as an unrated obligation. 
+b. Where the borrower has an issuer rating, only senior securities issued by that issuer 
+will benefit from an investment -grade (ICS RC 4 or better) issuer assessment; other 
+unassessed securities issued by that issuer are treated as unrated. If either the issuer 
+or one of its issues has an ICS RC of 5 or weaker, this rating is used to determine the 
+ICS RC for an unrated claim on the issuer. 
+c. Short-term assessments for a given security or facility can be used only for that security 
+or securities issued by that rated facility. They can neither be generalised to other 
+short-term securities nor used to support a rating category assignment for an unrated 
+long-term security. 
+d. Where the rating category for an unrated exposure is based on the rating of an 
+equivalent exposure to the borrower, a foreign currency rating may be used only for 
+exposures denominated in that foreign currency. Domestic currency ratings, if 
+separate, are used to determine the rating category for securities denominated in the 
+domestic currency only. 
+595. The following additional conditions apply to the use of ratings: 
+a. External assessments for one entity within a corporate group are not used to determine 
+the rating category for other entities within the same group. 
+b. No rating based on assets that the entity possesses  is inferred for an unrated entity. 
+The use of internal ratings is not allowed. 
+c. IAIGs do not recognise collateral or guarantees in the Credit risk charge calculation if 
+these credit enhancements have already been reflected in the issue-specific rating. 
+d. IAIGs do not use a rating that is at least partly based on unfunded support (eg 
+guarantees, credit enhancement or liquidity facilities) provided by the IAIG itself or one 
+of its affiliates. 
+e. Any assessment used takes into account the entire amount of Credit risk exposure an 
+IAIG has with regard to all payments owed to it. In particular, if an IAIG is owed both 
+principal and interest, the assessment fully takes into account the Credit risk 
+associated with repayment of both principal and interest. 
+7.4.3.4 Exposures in default 
+596. Assets for which there is reasonable doubt about the timely collection of the full amount 
+of principal or interest, including those assets tha t are contractually more than 90 days in 
+arrears, are considered as defaulted exposures for the calculation of the Credit risk charge.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 148 of 247 
+ 
+597. The exposure amount for a defaulted asset is taken net of all balance sheet write -
+downs and specific provisions that have been recorded for the asset. 
+7.4.4 Supervisor-owned and controlled credit assessment (SOCCA) processes 
+598. A SOCCA process is an independent and objective process for assessing Credit risk, 
+owned and controlled by a financial supervisory authority, and that relies upon credit 
+assessment methodologies deemed suitable by the supervisory authority in determining the 
+regulatory capital requirement for Credit risk of supervised entities. An example of a SOCCA 
+is NAIC Designations.  
+599. A decision on whether SOCCA processes will be part of the ICS standard method as 
+a national discretion or included in other methods43 will be made by the IAIS by the end of the 
+monitoring period, provided that certain specified criteria are met. The use of SOCCA 
+processes for the pur pose of calculating an IAIG’s Credit risk charge is recognised in the 
+calculation of ICS coverage ratios. 
+600. If it is decided that SOCCA processes are to be included in the standard method, then 
+IAIGs would be required to apply the standard method when a rating is available.44  If SOCCA 
+processes are determined to be part of other methods, then IAIGs would be able to use the 
+SOCCA designations, regardless of the availability of other ratings. 
+601. A SOCCA process may be recognised in the ICS if all of the following criteria are met: 
+a. Objectivity: The SOCCA’s methodology for assigning credit assessments is rigorous, 
+systematic, and subject to some form of validation. Moreover, assessments are subject 
+to ongoing review and responsive to changes in financial condition. 
+b. Independence: The SOCCA process is aligned with the regulatory objectives of the 
+supervisor, evidenced by the supervisor’s approval of the credit assessment process. 
+Any outsourcing arrangement of the credit assessment is held to the same standards 
+of competency and independence as the in-house credit assessment processes. 
+c. International access/transparency: IAIGs with operations outside the jurisdiction of the 
+SOCCA process can request designations/ratings be assigned to securities they own. 
+Public access to the credit assessment is available through third-party platforms. 
+d. Disclosure: Default statistics over time are developed for each designation/rating so 
+that three -year cumulative default rates (CDRs) can be derived from published 
+statistics. 
+e. Resources: Staff has appropriate qualifications and experience to undertake the credit 
+assessment process. The SOCCA process relies on adequate resources to carry out 
+the credit assessments required by the supervisor. 
+ 
+43 Other methods refer to alternative methods of calculating the ICS capital requirement, outside of 
+those under the standard method.  Other m ethods of calculation of the ICS capital requirement will be 
+reviewed and considered for inclusion in the ICS by the end of the monitoring period.  
+44 Under the standard method, if more than one rating is available for the same exposure (which implies 
+different ICS Rating Categories), then the second highest resulting ICS Rating category is used.  In 
+order to be comparable, ratings must be based on par value of the instrument and not purchase price.  
+If it is an unrated security, then the designation fr om the supervisor -owned and controlled credit 
+assessment process is used.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 149 of 247 
+ 
+f. Credibility: The SOCCA process relies on internal procedures to prevent the misuse of 
+confidential information. The SOCCA process has at least 10 years of demonstrable 
+business history in assessing the Credit risk of a large number of securities such that 
+statistical performance data can be deriv ed. All designations/ratings are updated at 
+least on a yearly basis; in addition, the designations/ratings are reviewed as soon as 
+a significant event occurs that may affect them. 
+g. Alignment of interests with the purposes of prudential supervision: The enti ty 
+performing the credit assessment is fully owned and controlled by a supervisory 
+authority. There are policies approved by the supervisory authority as to how the credit 
+assessment process is applied. 
+7.4.4.1 NAIC Designation example of a SOCCA 
+602. IAIGs that are able to use the NAIC Designations ’ example of a SOCCA  process 
+should report and calculate the Credit risk charges using the following mapping table. 
+Table 36: Mapping of NAIC Designations to ICS RC 
+ICS RC NAIC 
+Designations 
+1  
+2  
+3 1 
+4 2 
+5 3 
+6 4 
+7 5 
+ 
+603. In order to inform the future decision on whether SOCCA processes will be part of the 
+ICS standard method as a national discretion or included in other methods, the credit risk 
+tables consist of three sections. The top section of each table should be filled by all IAIGs  
+based on all exposures, whether or not a NAIC Designation is available  (ie those IAIGs that 
+have access to NAIC Designations should report the affected exposures as such) . In the 
+bottom section of the table, IAIGs that have access to NAIC Designations should report all 
+exposures by ICS RC  (ie not recognising NAIC Designations). In the middle section of the 
+table, IAIGs should provide exposures for unrated securities that have a NAIC Designation.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 150 of 247 
+ 
+7.5 Operational risk 
+ 
+Relevant Worksheet in Template: ICS Insurance Risk Charges 
+ 
+604. The Operational risk charge is determined by applying prescribed stress factors to 
+specified risk exposures. 
+605. The calculation of the Operational risk charge is based on data items split into 
+geographical segments and the following line of business segments: 
+• Non-Life – insurance products that do not relate to life or similar to life health insurance, 
+often referred to as property an d casualty or general insurance.  Products include 
+auto/motor, property, workers’ compensation/employer’s liabil ity, other liability, and 
+credit/ surety/pecuniary; 
+• Life (risk) – insurance products that relate to life or similar to life health insurance where 
+the insurer bears investment risk. Products include individual life, group life, group 
+pension and annuities (with a life aspect); and 
+• Life (non-risk) – products where the policyholder bears the investment risk. Products 
+may be labelled as savings without guarantees or living benefits.    
+606. The Operational risk charge is calculated as follows: 
+𝑂𝑝 𝑟𝑖𝑠𝑘 𝑐ℎ𝑎𝑟𝑔𝑒 =  max  [non_life_premium_exposure ∗  factor, non_life_liability_exposure 
+∗ factor] + non_life_growth_exposure ∗ factor
++ max [life_(risk)_premium_exposure ∗  factor, life_(risk)_liability_exposure 
+∗ factor] + life_(risk)_growth_exposure ∗ factor 
++ life_(non_risk)_liability_exposure ∗ factor 
+607. The Operational risk components are computed as factors multiplied by risk 
+exposures. The same factors are applied across geographical segments as defined in 7.1.2. 
+608. The exposures and stress factors for Operational risk are specified in the following 
+table.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 151 of 247 
+ 
+Table 37: Operational risk exposures and stress factors  
+Premium Growth Liabilities 
+Risk from Non-Life Operations 
+Exposure Gross written premium 
+(GWP) in 
+most recent financial 
+year 
+GWP in 
+most recent financial year in 
+excess of the growth 
+threshold (20%) compared 
+to the previous year’s GWP 
+Gross current estimate 
+Factor 2.75% 2.75% 2.75%   
+Risk from Life Operations 
+Exposure  Life (risk): GWP in 
+most recent financial 
+year 
+ 
+Life (risk): GWP in 
+most recent financial year in 
+excess of the growth 
+threshold (20%) compared 
+to the previous year’s GWP 
+Life (risk): Gross current 
+estimate 
+Life (non-risk): Gross 
+current estimate 
+ 
+Factor  Life (risk): 4%  Life (risk): 4% Life (risk): 0.45% 
+Life (non-risk): 0.40% 
+ 
+609. GWP includes all business (new and renewal) written during the specified financial 
+year before any allowance for reinsurance or other related recoverables. For single premium 
+policies, premiums are included in full as written during the year. For other insurance policies, 
+GWP includes premiums due to the IAIG during the specified time period (financial year) on 
+all business in-force. 
+610. Gross current estimates are considered before any allowance for reinsurance or other 
+related recoverables. The gross current estimate for life (sum of risk and non -risk) and non-
+life should equal the equivalent entries on the ICS Balance Sheet. 
+611. To calculate the growth risk component of Operational risk, the GWP for the two most 
+recent financial years for non -life and life (risk) are used. The figures are considered before 
+the effect of ceded reinsurance and on a consolidated basis.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 152 of 247 
+ 
+7.6 Aggregation/Diversification of ICS Risk Charges 
+612. ICS Risk charges are aggregated together using multiple levels: 
+• A top-level aggregation between major risk categories (Life risk, Non -Life risk, 
+Catastrophe risk, Market risk, Credit risk and Operational risk) using a correlation 
+matrix; 
+• A medium-level aggregation between the sub -risks of Life risk, Catastrophe risk and 
+Market risk, using correlation matrices; and 
+• An aggregation within individual risk charges (eg Interest Rate risk, Non-Life risk).  
+613. The aggregation of risk charges incorporates a degree of diversification between the 
+individual risks, based on a specified dependency between the risks. 
+614. Correlation matrices are specified for the aggregation of the individual Life Risk 
+charges and the aggregation of individual Market risks charges. A top-level correlation matrix 
+is specified for the aggregation of Life, Non-Life, Catastrophe, Market and Credit risk charges. 
+The Operational risk charge is then added to that aggregate to determine the overall ICS 
+insurance risk charge. 
+615. The top-level aggregation matrix between major risk categories is: 
+Table 38: Aggregation matrix between risks 
+ Life Non-Life Catastrophe Market Credit 
+Life 100% 0% 25% 25% 25% 
+Non-Life 0% 100% 25% 25% 25% 
+Catastrophe 25% 25% 100% 25% 25% 
+Market 25% 25% 25% 100% 25% 
+Credit 25% 25% 25% 25% 100% 
+ 
+616. The aggregation of risk charges is automated in the Template. IAIGs are not required 
+to enter any specific data with respect to aggregation.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 153 of 247 
+ 
+7.7 Non-Insurance Risk Charges 
+ 
+Relevant Worksheet in Template: ICS Non-Insurance & Baseline 
+ 
+617. For insurance or insurance -related entities, the capital requirement is calculated as 
+described in Sections 7.1 to 7.6. 
+618. For financial non -insurance entities with a sectoral capital requirement, the capital 
+requirement is as follows: 
+a. For consolidated banking entities it is the maximum of Basel III risk -weighted assets 
+or leverage ratio. 
+b. For consolidated non-banking entities it is equal to the maximum of the sectoral capital 
+requirement and 15% of three year average gross income.45 
+c. For banking and non -banking entities reported as an equity method investment it is 
+equal to the proportional sectoral charge. 
+d. For both banking and non-banking entities reported as a market value investment it is 
+equal to the equity charge on the investment as described in Section 7.3.4. 
+619. This information should be reported in the worksheet ICS Non-Insurance & Baseline, 
+ICS non-insurance risk charge table under the section labelled Financial non-insurance with 
+a sectoral capital requirement. 
+620. For financial non-insurance entities without a sectoral capital requirement, the capital 
+requirement is as follows: 
+a. For consolidated banking entities it is equal to 4% of the exposure as determined by 
+the leverage ratio. 
+b. For consolidated non-banking entities it is equal to 15% of three year average gross 
+income.45 
+c. For banking entities reported as an equity method investment it is equal to the 
+proportional sectoral leverage ratio. 
+d. For non-banking entities reported as an equity method investment it is equal to the 
+proportional 15% of three year average gross income.45 
+e. For both banking and non-banking entities reported as a market value investment it is 
+equal to the equity charge on the investment as described in Section 7.3.4. 
+621. This information should be reported in the worksheet ICS Non-Insurance & Baseline, 
+ICS non -insurance risk charge  table under the section labelled Financial non -insurance 
+without a sectoral capital requirement. 
+622. For non-financial entities, the capital requirement is equal to the equity charge on the 
+equity method or market value investment as described in paragraph 463, a) to d). 
+ 
+45 For asset managers, gross income relates only to third -party asset management, not the 
+management of the IAIG’s own assets where the risk is captured elsewhere.  Gross income is defined 
+in paragraph 650 of Basel II Comprehensive version (https://www.bis.org/publ/bcbs128.pdf).
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 154 of 247 
+ 
+623. It may be necessary to estimate equity method investment balances for those non -
+financial entities that are consolidated for purposes of GAAP financial reporting.  
+624. This information should be input into the worksheet ICS Non-Insurance & Baseline , 
+ICS non-insurance risk charge table under the section labelled Non-financial entities. 
+7.7.1 Baseline Current Regulatory Reporting 
+625. IAIGs should report their existing group capital requirements and group capital 
+resources, under the supervisory regime currently in force in  their jurisdiction. This baseline 
+information will be used to assess the impact of the ICS against existing or prospective group 
+statutory requirements. 
+626. The worksheet ICS Non-Insurance & Baseline is designed to obtain information about 
+existing insurance-based group-wide capital requirements, as well as other sectoral capital 
+requirements. 
+7.7.1.1 Insurance-related Baseline (Current regulatory reporting table) 
+627. The Insurance-related capital requirement is the existing group capital requirements 
+and group capital resources, under the group-wide supervisory regime currently in force in the 
+home jurisdiction of the IAIG. However, the following exception applies to IAIGs based in the 
+United States who should provide a proxy baseline requirement as follows: 
+a. The analysis should start by identifying the top tier of regulated (insurance) entities. 
+These top-tier entities should then be grouped by regulatory jurisdiction. The capital 
+requirements and available regulatory capital should then be determined for those top-
+tiered entities based on existing capital rules  in each jurisdiction . In doing so, 
+consideration should be given to whether stacking is appropriately reflecte d. For 
+instance, Risk-Based Capital (RBC) as used in the state -based insurance regulatory 
+regime in the United States is structure -neutral for US entities, and assumes that the 
+capital held for foreign subsidiaries is reasonable. 
+b. Several separate figures are to be aggregated as part of this process. The first is the 
+minimum regulatory capital requirement of the IAIG as described in the next paragraph. 
+The second is the available regulatory capital  of the IAIG . In addition, for US life 
+insurers, the Asset Valuation Reserve (AVR) and Interest Maintenance Reserve (IMR) 
+should be aggregated and reported as memo accounts in the table Other Information.  
+c. For each of the top-tier US insurance entities in an insurance group, the RBC Company 
+Action Level of each insu rer should be re -calibrated to the point at which regulatory 
+action can be taken in any state based on RBC alone, ie, the point at which the trend 
+test begins which is one and a half times Company Action Level. The re -calibrated 
+amounts for each top -tier U S insurance entity should then be added together to 
+approximate a combined re-calibrated RBC.  This provides a combined company view 
+of the level at which regulatory action is triggered under the US approach to insurance 
+regulation for the subject insurance legal entities domiciled in the United States. Thus, 
+this aggregation approach is to be used rather than a fully detailed RBC calculation on 
+the combined entities’ annual statement data. This resulting aggregated level of 
+required capital, in turn, would be combined with that of other jurisdictions as described 
+above in paragraph a), pursuant to their respective existing capital requirements (as 
+per the table below). For non-regulated entities, such as a US-based holding company, 
+there is no minimum regulatory capital requirement.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 155 of 247 
+ 
+d. In addition to capital requirements, firms should aggregate available regulatory capital. 
+For US-domiciled insurers, this will be the statutory capital and surplus of each legal 
+entity top -tier insurer per its year -end 2020 annual statement balance sheet. For 
+insurers domiciled in other non -US jurisdictions, and for other regulated financial 
+sectors, this will be pursuant to each jurisdiction’s/sector’s respective rules. Additional 
+guidance for the major non -US jurisdictions is provided in the table below.  For non -
+regulated entities, such as a US -based holding company, available capital will be 
+based on capital resources h eld within that entity, excluding the book value of its 
+investment in insurance subsidiaries.   
+628. Other examples of group PCRs or entity PCRs for the purposes of an aggregated 
+group PCR are provided in the table below.  If a specific jurisdiction is not list ed within this 
+table, IAIGs should consult with their GWS. 
+ 
+Table 39: Examples of jurisdictional group PCRs 
+Jurisdiction Information provided 
+Australia APRA’s “Prudential Capital Requirement”, as set out in prudential 
+standards is the legal entity “MCR” under the ICPs. Groups also have 
+to hold the “Prudential Capital Requirement” as set out in the prudential 
+standards, again an MCR.  
+The PCR is target capital as set by the insurer/group in accordance with 
+APRA requirements. Effectively, this would be "Target capital under 
+ICAAP". PCR is not a set multiple of MCR. 
+Bermuda The Legal Entity PCR in Bermuda for medium and large commercial 
+insurers is called “Enhanced Capital Requirement” (ECR) and is 
+calibrated to Tail -VaR at 99% confidence level over a one -year time 
+horizon. 
+Canada The PCR for Life Groups is 100% of the LICAT Solvency Buffer. 
+The PCR for P&C Groups is the MCT capital requirement at target level. 
+China The PCR is 100% of the C-ROSS total capital.  
+European 
+Union 
+The Group PCR is the Solvency 2 group SCR, calibrated at a VaR 
+99.5% level over a one-year time horizon. 
+Hong Kong For Hong Kong, under the current rule-based capital regime, if applied 
+similar to the concept of PCR of the IAIS data collection exercise, the 
+regime's PCR would be 150% of MCR for life insurers and 200% of 
+MCR for non-life insurers. 
+Japan 200% of solvency margin ratio is deemed as PCR. 
+Korea 100% of risk-based solvency margin ratio is deemed as PCR. 
+Singapore The PCR at the legal entity level under the enhanced valuation and 
+capital framework for insurers (RBC 2) is calibrated at the 99.5% VaR 
+over a one year period.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 156 of 247 
+ 
+South Africa The PCR is 100% of the SAM group SCR. 
+Switzerland The Group PCR under the “Swiss Solvency Test” (SST) is 100% of the 
+target capital, which is calibrated to Tail -VaR at 99% confidence level 
+over a one-year time horizon. 
+Chinese 
+Taipei 
+The Chinese Taipei FSC does not impose a group PCR, and the capital 
+requirement system for insurers (incl. Life, P&C, and Reinsurer) in 
+Chinese Taipei is named “ Risk-based Capital (RBC) System ”.  The 
+PCR level is set at 200% of RBC ratio , where RBC ratio = capital 
+resources/risk-based capital requirement (based on a factor-approach). 
+ 
+629. Qualifying Capital Resources is the capital available to meet the capital requirement 
+reported on the worksheet.  Therefore, this should be reported on the same basis as the capital 
+requirement.   
+630. Equity: Report the amount of equity that qualifies as capital resources within the 
+jurisdictional capital framework. 
+631. Deductions/exclusions from qualifying capital resources is the amount deducted from 
+capital resources within the jurisdictional capital framework and shou ld be reported as a 
+negative figure. 
+632. Liabilities counted towards qualifying capital resources is the amount of liabilities that 
+qualifies as capital resources within the jurisdictional capital framework. 
+7.7.1.2 Securities-related Baseline (Current regulatory reporting table) 
+633. The securities-related capital requirement is any capital requirement imposed by a 
+securities regulator on securities business within the group. The securities -related qualifying 
+capital resources is the regulatory capital available to meet the capital requirement reported 
+on the worksheet.  Therefore, this should be reported on the same basis as the securities -
+related capital requirement. 
+7.7.1.3 Banking-related Baseline (Information on banking activities table) 
+634. For capital requirements related to banking activities, a separate table is provided in 
+order to collect the total risk -weighted assets according to the Basel III Framework 46 (using 
+the approach within the Basel III Framework that is used for regulatory re porting by banking 
+entities in the group) and the total exposure measure for the Basel III leverage ratio framework. 
+635. The method of calculating risk-weighted assets (RWA) for regulated banking activities 
+should be the same as that for reporting to the banking supervisor(s). 
+636. For unregulated banking business, IAIGs should apply the Basel III leverage ratio 
+framework and the full RWA calculation under the Basel III Framework. The Basel III 
+monitoring workbook is available to calculate these figures at 
+http://www.bis.org/bcbs/qis/index.htm. 
+ 
+46 http://www.bis.org/bcbs/basel3.htm
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 157 of 247 
+ 
+7.7.1.4 Assets under Management (Information on assets under management table) 
+637. There are two columns, one for asset management business that is subject to a capital 
+requirement from a banking supervisor and one for asset management business not related 
+to banking (ie where a banking supervisor does not apply a capital requirement in relation to 
+that business). These columns are: Regulated Banking Business and Not Related to Banking. 
+638. For both types of asset management business, the last three years of positive gross 
+annual income must be reported. This income should relate only to third -party asset 
+management, not the management of the IAIG’s own assets. Gross annual income is defined 
+in paragraph 650 of the Basel II Comprehensive version47. 
+639. For asset management business not related to banking, if any capital requirement is 
+imposed by another supervisor (including an insurance supervisor 48) this should be reported 
+so as to facilitate a  comparison to the calculation according to the B asel II standardised 
+approach. 
+640. For asset management business subject to a capital requirement from a banking 
+supervisor, the actual Operational risk charge reported to the banking supervisor(s) must be 
+reported.  If the banking supervisor(s) requires or allows the use of the standardised approach 
+under Basel II, then this figure should be the same as that calculated from the input of the last 
+three years of positive gross annual income from asset management business. 
+  
+ 
+47 http://www.bis.org/publ/bcbs128.pdf  
+48 Only relevant where the asset management business is conducted off-balance sheet and not included 
+in the capital requirement reported on the Current Regulatory Baseline.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 158 of 247 
+ 
+8 Reference ICS: Tax 
+ 
+Relevant Worksheet in Template: ICS Summary 
+ 
+8.1 General principles 
+641. Deferred taxes, as recognised on the consolidated GAAP or SAP balance sheet  
+(“consolidated GAAP”), are also recognised on the ICS balance sheet.  DTA and DTL on the 
+consolidated GAAP should be reported the same way on the ICS balance sheet, whether that 
+be two numbers or a single number.  
+642. There are two areas of the ICS that are tax affected: 
+• Differences in valuation between the consolidated GAAP and the ICS balance sheet 
+(ICS Adjustment), made in accordance with Section 5.1; and 
+• The ICS insurance capital requirement. 
+643. The ICS applies a group level calculation using a group effective tax rate ( G-ETR) to 
+calculate the change in deferred tax resulting from the ICS Adjustment and the tax effect on 
+the ICS insurance capital requirement. 
+644. The G-ETR is calculated as a weighted average effective tax rate, weighted using the 
+previous three-year average of GAAP earnings before tax on a sub -group/entity level basis. 
+The scope of the weighted average calculation is limited to insurance -related activities, and 
+GAAP earnings before tax is floored at zero. 
+645. Statutory tax rates that have been enacted or substantially enacted as of the reporting 
+date are used for the G-ETR calculation.49 
+Example: G-ETR calculation  
+An insurance group consists of the following entities located in different jurisdictions: 
+• Entity A: Insurance entity in country X 
+• Entity B: Insurance entity in country Y 
+• Entity C: Reinsurance entity in country Z 
+• Entity D: Banking entity in country Z 
+ GAAP Earnings before tax 
+Group 
+entities 
+Effective tax 
+rate 
+FY2016 FY2017 FY2018 
+Entity A 30% 500 700 -200 
+Entity B 25% 1,000 -100 900 
+Entity C 20% 2,000 500 1,500 
+Entity D 20% 200 500 300 
+ 
+49 For example, a tax authority announces tax rate changes that would have a material impact for future 
+periods. In such a case, the newly announced statutory tax rate is used in the G-ETR calculation.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 159 of 247 
+ 
+ 
+• GAAP losses for Entity A in FY2018 and Entity B in FY2017 should be floored at 
+zero. 
+• Entity D conducts non-insurance related activities, and should be excluded from 
+the G-ETR calculation. 
+The G-ETR for this insurance group: 
+30% ∗ (500 + 700 + 0) + 25% ∗ (1,000 + 0 + 900) + 20% ∗ (2,000 + 500 + 1,500)
+7,100
+= 23.03% 
+ 
+8.2 Deferred tax resulting from the ICS Adjustment 
+646. The valuation adjustments made to the consolidated GAAP in order to derive the ICS 
+balance sheet give rise to corresponding adjustments to deferred tax assets and liabilities. 
+Any additional DTAs, created as a consequence of the ICS A djustment, are subject to an 
+utilisation assessment. The conditions of calculation and recognition of those deferred tax 
+adjustments, including the utilisation assessment, are specified below. 
+647. The adjustment to deferred tax is determined for each balance sheet line item that has 
+been adjusted in order to arrive at the ICS balance sheet. Line items may yield an adjustment 
+to deferred tax asset, deferred tax liability or no adjustment to deferred tax depending on the 
+tax treatment of the line item. No adjustment for tax is made where the change in a line item, 
+or component of a line item, does not result in a temporary tax difference (eg equity line items, 
+line items representing permanent tax differences such as items that may not be expensed or 
+generate revenue that is exempt for tax  purposes). These line items or components of line 
+items are excluded from the deferred tax adjustment calculation. 
+648. The deferred tax adjustment is calculated on a line by line basis. For all lines or 
+components of lines, other than MOCE, where the adjustment creates a tax impact, the 
+deferred tax is then calculated by multiplying the tax effected difference between consolidated 
+GAAP and ICS balances by the G-ETR (as specified in paragraphs 644 and 645). The sum of 
+DTA and the sum of DTL resulting from this line by line calculation are reported separately. 
+The consolidated GAAP deferred tax is adjusted by the net outcome of the deferred tax 
+resulting from the ICS Adjustment. 
+649. The MOCE is included as an ICS Adjustment and creates a DTA on the ICS balance 
+sheet. The DTA created by MOCE is automatically calculated by the Template. 
+8.2.1 Utilisation assessment of DTAs recognised from the ICS Adjustment 
+650. Before the utilisation assessment, the DTA recognised from the ICS Adjustment is the 
+sum of DTAs resulting from the line by line calculation specified in paragraph 648 and the DTA 
+on MOCE specified in paragraph 649. 
+651. The DTA recognised from the ICS Adjustment after the utilisation assessment is limited 
+to 𝑎 + max (0, 𝑏 − 𝑐 − 𝑑), where: 
+a. The sum of DTLs resulting from the line by line calculation specified in paragraph 648; 
+b. Consolidated GAAP DTL;
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 160 of 247 
+ 
+c. GAAP DTL netted from assets deducted from Tier 1 capital resources, as specified in 
+paragraph 233; and 
+d. Consolidated GAAP DTA. 
+652. The consolidated GAAP DTL and DTA referred to in paragraph 651 are limited to DTL 
+and DTA reported from insurance-related activities. 
+8.3 Tax effect on the ICS insurance capital requirement 
+653. The mitigating effect of tax is taken into account when determining the ICS capital 
+requirement. That tax effect on the ICS capital requirement is based on the increase in net 
+DTA that would result from an instantaneous operational loss equal to the I CS capital 
+requirement before tax, post diversification and post management actions. Any increase in net 
+DTA is subject to an utilisation assessment as specified below. 
+654. The ICS insurance capital requirement is reduced by the amount of utilisable tax effect. 
+655. The utilisable tax effect on the ICS insurance capital requirement is calculated using 
+the following formula: 
+max (0, min(𝑛𝑜𝑡𝑖𝑜𝑛𝑎𝑙 𝑡𝑎𝑥 𝑒𝑓𝑓𝑒𝑐𝑡 𝑜𝑛 𝑖𝑛𝑠𝑢𝑟𝑎𝑛𝑐𝑒 𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑟𝑒𝑞𝑢𝑖𝑟𝑒𝑚𝑒𝑛𝑡, 20%
+× 𝐼𝐶𝑆 𝑖𝑛𝑠𝑢𝑟𝑎𝑛𝑐𝑒 𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑟𝑒𝑞𝑢𝑖𝑟𝑒𝑚𝑒𝑛𝑡, 𝑎 + 𝑏 + 𝑐 − 𝑑)) 
+ 
+where: 
+• 𝑛𝑜𝑡𝑖𝑜𝑛𝑎𝑙 𝑡𝑎𝑥 𝑒𝑓𝑓𝑒𝑐𝑡 𝑜𝑛 𝑖𝑛𝑠𝑢𝑟𝑎𝑛𝑐𝑒 𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑟𝑒𝑞𝑢𝑖𝑟𝑒𝑚𝑒𝑛𝑡 =
+𝐼𝐶𝑆 𝑖𝑛𝑠𝑢𝑟𝑎𝑛𝑐𝑒 𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑟𝑒𝑞𝑢𝑖𝑟𝑒𝑚𝑒𝑛𝑡 × 𝐺 𝐸𝑇𝑅; 
+• 𝑎 = 85% ∗
+∑ min ( 𝑇𝑎𝑥 𝑙𝑜𝑠𝑠 𝑐𝑎𝑟𝑟𝑦 𝑏𝑎𝑐𝑘 𝑐𝑎𝑝𝑎𝑐𝑖𝑡𝑦,
+𝐴𝑙𝑙𝑜𝑐𝑎𝑡𝑒𝑑 𝑛𝑜𝑡𝑖𝑜𝑛𝑎𝑙 𝑡𝑎𝑥 𝑒𝑓𝑓𝑒𝑐𝑡 𝑜𝑛 𝑖𝑛𝑠𝑢𝑟𝑎𝑛𝑐𝑒 𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑟𝑒𝑞𝑢𝑖𝑟𝑒𝑚𝑒𝑛𝑡50)𝑇𝑎𝑥 𝑠𝑢𝑏−𝑔𝑟𝑜𝑢𝑝 𝑒𝑛𝑡𝑖𝑡𝑖𝑒𝑠⁄  
+• 𝑏 = 𝑝𝑜𝑠𝑡 𝑠𝑡𝑟𝑒𝑠𝑠 𝑓𝑢𝑡𝑢𝑟𝑒 𝑡𝑎𝑥𝑎𝑏𝑙𝑒 𝑖𝑛𝑐𝑜𝑚𝑒 × 𝐺 𝐸𝑇𝑅; 
+• c = max (0, DTL for insurance-related activities on ICS balance sheet post -deduction in 
+paragraph 659 – DTA for insurance-related activities on ICS balance sheet); and 
+• d = max [0, min(15% × ICS insurance capital requirement, DTA for insurance -related 
+activities on ICS balance sheet – DTL for insurance-related activities on ICS balance sheet 
+post-deduction in paragraph 659)].    
+8.3.1 Component a: tax loss carry backs 
+656. A tax loss carry back is defined as a mechanism allowing a sub -group/entity to offset 
+current net operating losses against tax obligations from previous years ( whether tax loss 
+carry backs are allowed and the number of years allowed differs by tax jurisdiction).  
+657. In order to perform the calculation of component a in the utilisable tax effect: 
+• The tax loss carry back capacity for insurance-related activities is evaluated at the legal 
+entity or sub -group level  where taxes are assessed , including any fiscal unit y for 
+corporate tax as of the ICS reporting date. 
+ 
+50 Allocated notional tax effect on insurance capital requirement – refer to paragraph 657.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 161 of 247 
+ 
+• The notional tax effect on the ICS insurance capital requirement is allocated between 
+tax sub -groups/entities using a weighted average based on consolidated GAAP 
+insurance liabilities. 
+8.3.2 Component b: post-stress future taxable income projections 
+658. In order to perform the calculation of component b in the utilisable tax effect:  
+• When the IAIG projects consolidated GAAP net losses for the cumulative five -year 
+period, component b is set to zero. 
+• Otherwise, componen t b is approximated by 50% of the total historical five years ’ 
+consolidated GAAP earnings before tax, adjusted for mergers, acquisitions and 
+dispositions. 
+8.3.3 Components c and d: Deferred taxes 
+659. DTL used in components c and d represent the amount after the application of deferred 
+tax from the ICS Adjustment, as described in Section 8.2 and after deduction of the DTL for 
+insurance-related activities associated with assets subject to deduction from Tier 1 capital 
+resources (see Section 6.4.1). 
+Example: Utilisable tax effect on the ICS insurance capital requirement calculation 
+An insurance group has insurance-related activities in the US, UK, Korea and Japan and 
+does not apply a fiscal unity: 
+• Insurance capital requirement: 10,000 
+• G-ETR: 30% 
+• Notional tax effect on the insurance capital requirement: 3,000 (10,000 * 30%) 
+• DTA on ICS balance sheet: 300 (insurance activities 250, non-insurance 
+activities 50) 
+• DTL on ICS balance sheet: 850 (insurance activities 700, non-insurance 
+activities 150) 
+8.3.1 Component a: tax loss carry backs 
+ US UK Korea Japan Total 
+GAAP insurance liabilities 8,000 2,000 6,000 4,000 20,000 
+a. Allocated notional tax effect 
+on insurance capital 
+requirement 
+1,200 300 900 600 3,000 
+b. Maximum tax loss carry back 100 1,000 n/a n/a 1,100 
+Limited maximum tax loss carry 
+back before the 15% deduction 
+(min (a,b)) 
+100 300 n/a n/a 400 
+Tax loss carry backs for the utilisation assessment: 340 = 400 * (1-15%) 
+8.3.2 Component b: post-stress future taxable income projections
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 162 of 247 
+ 
+• Total of the last five years of consolidated GAAP earnings before tax: 8,000 
+• IAIG acquired an entity during the five year period. Earnings before tax of the 
+entity at the beginning of the period before being acquired: 100 
+Post-stress future taxable income projection from insurance business for the utilisation 
+assessment: 1,215 = (8,000+100) * 30% * 50% 
+8.3.3 Components c and d: Deferred taxes 
+Net deferred tax liability for insurance activities: 450 = max (0, 700-250) 
+Net deferred tax asset for insurance activities: 0 = max [0, min (15% * 10,000, 250 - 700)] 
+Utilisable tax effect on the ICS insurance capital requirement calculation: 
+Tax loss carry backs (340) + post-stress future taxable income projections (1,215) + Net 
+DTL for insurance activities (450) – Net DTA for insurance activities (0) = 2,005 
+Utilisable tax effect on the insurance capital requirement: 2,000 = min (3,000, 10,000 * 
+20%, 2,005)
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 163 of 247 
+ 
+9 Additional Reporting 
+660. ICS Version 2.0 also contains additional reporting, at the option of the GWS, of ICS 
+based on GAAP Plus valuation and/or other methods of calculation of the ICS capital 
+requirement. 
+661. As stated in the KL Agreement, “ The reference ICS and additional reporting at the 
+option of the GWS within ICS Version 2.0 are equally important components. Both GAAP Plus 
+and other methods of calculation of the ICS capital requirement are viable options that will be 
+considered for inclusion in the ICS by the end of the monitoring period.” 
+9.1 GAAP Plus 
+ 
+Relevant Worksheets in Template: ICS Summary.GAAP+ 
+ICS Balance Sheet.GAAP+ 
+Financial Instruments.GAAP+ 
+Tier 2 Non-Paid-Up 
+ICS Insurance Risk Charges.G+ 
+ICS Non-Insurance & Baseline 
+ICS Other Methods.GAAP+ 
+ 
+662. GAAP Plus maximises the use of audited, consolidated financial reporting, systems 
+and processes including generally accepted accounting principles as promulgated by the 
+International Accounting Standards Board (IASB) and other jurisdictional standard setters. 
+Adjustments made to the GAAP financials are for prudential purposes and impact the most 
+significant and material items on the balance sheet.   
+663. GAAP Plus is closely tied to jurisdictional accounting rules, some of which are currently 
+being revised (eg IFRS and U.S. GAAP). These revisions will promote further convergence in 
+valuation. However, the timing of new rules will require development of GAAP Plus to continue 
+beyond 2020. Additionally, Chinese GAAP Plus is still being developed as it was only included 
+in Field Testing for one year. As such, GAAP Plus (for IFRS, U.S. GAAP and China) will 
+continue development and field testing into the monitoring period. Japanese G AAP will 
+maintain the original five -year monitoring period, along with the re ference ICS, beginning in 
+2020. 
+664. For the 2022 ICS data collection, the US GAAP/SAP and Chinese C -ROSS GAAP 
+Plus approaches will join Japanese GAAP Plus to be included in the monito ring period. The 
+ICS Level 1 and Level 2 documents will be updated to reflect this after the current 2022 ICS 
+data collection is completed. The specifications for the US GAAP/SAP and Chinese C-ROSS 
+GAAP Plus approaches are unchanged from the prior year. Therefore, only the location of the 
+specifications within the document will need to be revised. Volunteer Groups can continue to 
+follow the specifications for their relevant GAAP Plus approach as in the prior year. 
+665. As the US GAAP/SAP and Chinese C-ROSS GAAP Plus approaches are included in 
+the monitoring period in 2022, it is expected that GAAP Plus results will be discussed in
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 164 of 247 
+ 
+supervisory colleges and included in the annual reporting packages and questionnaires that 
+are provided to group-wide supervisors. 
+9.1.1 Overview 
+666. GAAP Plus begins with the group balance sheet as outlined in Section 4. The following 
+GAAP Plus approaches provide guidelines and specific examples for adjustm ents under the 
+various jurisdictional GAAPs applicable for IAIGs so that each can arrive at a consolidated 
+GAAP Plus balance sheet following the application of these adjustments. Like the MAV 
+approach under the reference ICS, GAAP Plus adjustments address only the most significant 
+or material items on the balance sheet, specifically, insurance -related liabilities and invested 
+assets. 
+667. GAAP Plus consists of four main approaches: US GAAP/SAP, Japanese GAAP, IFRS 
+and Chinese C -ROSS. Japanese GAAP Plus (J -GAAP P lus) is subject to the Monitoring 
+Period as specified in this document. US GAAP/SAP, IFRS and Chinese C -ROSS Plus 
+approaches are excluded from this document as they remain under development and subject 
+to Field Testing. 
+668. For J-GAAP Plus, the following considerations apply: 
+a. A liability is recognised and derecognised in accordance with the IAIG’s jurisdictional 
+GAAP. 
+b. The definition of contract boundaries is in accordance with the IAIG’s jurisdictional 
+GAAP. 
+c. GAAP Plus estimates of insurance liabi lities (and related reinsurance recoverables) 
+are calculated using discounting yield curves or rates as specified under applicable 
+jurisdictional GAAP rules or as outlined in the applicable specific GAAP Plus approach. 
+d. The calculation of GAAP Plus adjustme nts are based on up-to-date information and 
+credible assumptions. 
+e. Policy loans are reported gross of insurance liabilities. 
+f. Non-insurance liabilities (ie issued debt) are reported in accordance with jurisdictional 
+GAAP. Balances reported at cost are not adjusted to fair value.  
+g. Risk margins, conservatism in assumptions and provisions for adverse deviation are 
+removed from the valuation of insurance liabilities where insurance liabilities  are not 
+calculated as a whole. 
+h. MOCE, as defined under the standard met hod, is added to th e balance sheet as a 
+liability. 
+i. Any adjustments to deferred taxes follow the reference ICS as outlined in Section 8. 
+669. When the insurance liability balances are calculated under more than one set of GAAP 
+rules, the IAIG use s the most appropriate GAAP Plus jurisdictional approach for each 
+component of insurance liabilities in the aggregated balance sheet to adjust balances to a 
+current estimate liability. 
+670. An AOCI adjustment is included in capital resources in order to exclude any unrealised 
+gains and losses on available for sale debt securities that meet defined criteria provided in 
+Section 9.1.2.1.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 165 of 247 
+ 
+671. Aside from the AOCI adjustment, all adjustments detailed in Section 6 apply equally to 
+J-GAAP Plus as for the reference ICS. 
+672. J-GAAP Plus provides specific methodologies for certain risk charges. Unless 
+otherwise specified, the risk charges are calculated consist ently with Section 7. These 
+calculations are detailed in Sections 9.1.2.2 to 9.1.2.5. 
+9.1.2 Japanese GAAP (J-GAAP) Plus Approach 
+673. The following pertains to IAIGs reporting audited consolidated financial statements on 
+the basis of Japanese GAAP. 
+674. Invested Assets: No adjustment is required. Invested assets are reported consistent 
+with the treatment under J-GAAP. Certain assets backing life liabilities are subject to the AOCI 
+adjustment t hat reverses unreali sed gains and losses reported in AOCI and , in essence , 
+restates asset values from fair value to cost. See the GAAP Plus AOCI adjustment in Section 
+9.1.2.1. 
+675. Life Insurance Liabilities (excluding group policies): Life insurance liabilities are 
+adjusted to a current estimate by reflecting balances as derived from the Japanese GAAP 
+statutory cash flow test assuming a full time horizon.  
+a. Under the full time horizon cash flow analysis, life insurers are required to assess 
+whether future cash flows generated from current assets cover the future cash flows 
+(net of cash-inflows and cash-outflows) from insurance liabilities.  
+b. The net amount in shortage or excess of insurance liabilities at the end of in -force 
+business is discounted and the resulting value is added to (or deducted from) 
+insurance liabilities.  
+c. The discount rate is the current portfolio investment yield (book yie ld) plus 
+reinvestment assumption that is consistent with cash flows generated on the asset side 
+defined in paragraph 675 d). 
+d. For purposes of projecting cash flows, investment returns from reinvestments and new 
+money are def ined based on an assumption that an IAIG invests in Japanese 
+Government bonds with an average duration equal to the average duration of 
+Japanese government bonds in which the IAIG invested in the previous financial year. 
+e. The actual current experience , including mortality, lapse, expense ratio and interest 
+rate, is used in the calculation of the future cash flows for insurance liabilities.  
+f. New business is not taken into consideration.  
+g. The current portfolio investment yield (book yield) is used to generate the future cash 
+flows from the current asset portfolio.  
+h. The future cash flow projection is on a pre-tax basis. 
+676. Group Life Insurance Liabilities: Group insurance contracts are scoped out from the 
+Japanese GAAP statutory cash flow test. The J -GAAP Plus valu ation approach for group 
+contracts is the same as Japanese GAAP and therefore no adjustment is required. 
+677. Non-life Insurance Liabilities: Non -life insurance liabilities are adjusted to reflect 
+balances as derived from the Japanese GAAP statutory cash flow t est assuming a full time 
+horizon.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 166 of 247 
+ 
+a. Under the full time horizon cash flow analysis, non-life insurers are required to assess 
+whether reported insurance liabilities (GAAP basis premium provision) is adequate to 
+cover all expected future cash flow.  
+b. The net am ount in shortage or excess of insurance liabilities is discounted and the 
+resulting value is added to (or deducted from) insurance liabilities.  
+c. The actual experience including claim frequency, lapse, expense ratio and interest rate 
+is used for the calculation of future cash flows in the insurance liability. New business 
+is not taken into consideration. 
+d. Discounting is based on a government bond yield curve as specified under the future 
+cash flow analysis defined by the article 121 of the Japanese Insurance Act.  
+678. Liabilities for Options and Guarantees: Options and guarantees are adjusted for J -
+GAAP Plus using the method described under the MAV approach.  
+9.1.2.1 Capital Resources: AOCI Adjustment 
+679. The AOCI adjustment is applicable under J-GAAP Plus where life insurance liabilities 
+are discounted using an asset book yield and available for sale debt securities backing those 
+liabilities are reported at fair value. The AOCI adjustment is not applicable where liabilities are 
+discounted using a market rate/curve.  In order to address the asymmetry in accounting and 
+the resulting volatility in capital resources, an AOCI adjustment has been defined under J -
+GAAP Plus such that unrealised gains/losses associated with available for sale debt securities 
+are deducted from Tier 1 capital resources if all of the following criteria are met:  
+a. IAIGs must meet all operational criteria in order to be eligible to use the AOCI 
+adjustment: 
+i. The IAIG maintains Asset/Liability Management Policies that provides for 
+specific identification and duration matching of asset/liability portfolios. 
+ii. The IAIG maintains systems and processes to evaluate the effectiveness of the 
+duration matching including independent verification, regular tests and 
+reporting to the Board of Directors. 
+iii. Evaluation of the effectiveness of duration matching includes the following test 
+which must be met in order for assets to be included in the AOCI adjustment: 
+iv. 0.8 ≤
+𝐷(𝐿)
+𝐷(𝐴) ≤ 1.25 where D is duration. 
+b. The net unrealised gain/loss to be excluded must relate to debt securities that are 
+classified as available for sale and back long-term liabilities. 
+c. The portfolio is segregated for the purpose of asset/liability matching. 
+d. The unrealised gain/loss is not likely to be realised. 
+680. The related asset balances are restated to amortised cost for purposes of calculating 
+the Credit risk charge (Section 7.4) but are not restated on the reported J-GAAP Plus balance 
+sheet. The AOCI adjustment is reported as a direct adjustment to Capital Resources. 
+681. The AOCI adjustment is calculated beginning with t he Accumulated unrealised gains 
+(losses) on AFS debt securities reported in OCI  balance as reported in the J -GAAP Plus
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 167 of 247 
+ 
+balance sheet. Deductions from this balance are applied for any unrealised gains/losses 
+relating to the following: 
+a. Debt securities that are backing short-term insurance liabilities. Short-term is defined 
+as having a contract duration of one year or less. 
+b. Debt securities that are backing liabilities discounted using a market based rate/curve. 
+c. Debt securities designated as fair value accounting hedges. 
+d. Debt securities not meeting the operational criteria (eg not specifically identified in a 
+separate portfolio for asset/liability matching or not meeting the operational criteria 
+effectiveness test).  
+e. Debt securities where, based on management judgment, it is more likely than not that 
+unrealised gains/losses would be realised through sale, conversion, prepayment, etc. 
+For example, this could include certain callable bonds where the call price is lower than 
+the market price or residential mortgage backed securities (RMBS), student loans, 
+consumer or other asset backed securities (ABS) that are likely to be prepaid. A more 
+likely than not assessment in this context is defined as a greater than 50% probability 
+of occurrence based on facts and circumst ances known to management as of the 
+reporting date. 
+f. Debt securities that have experienced significant credit impairment. 
+682. The AOCI adjustment is calculated net of tax, consistent with how unrealised gains 
+and losses are recorded in AOCI. 
+9.1.2.2 Capital Requirement: Interest Rate Risk 
+9.1.2.2.1 Background  
+683. Under J-GAAP Plus, the valuation of life insurance current estimates utilises a discount 
+rate that is equivalent to the current asset book yield plus a reinvestment assumption equal to 
+a government bond rate. Available for sale debt securities backing those liabilities are 
+essentially reported at amortised cost via an adjustment to capital resources referred to as the 
+AOCI adjustment (see Section 9.1.2.1). Other assets such as loans and held to maturity or 
+held for reserves securities are also reported at cost. For non-life insurance products under J-
+GAAP Plus, insurance liabilities are discou nted using a government bond yield curve, and 
+available for sale debt securities are generally measured at fair value. 
+684. A shock to a market based curve does not translate to a change in value for assets 
+valued at cost (including assets subject to the AOCI adjustment). In addition, it does not impact 
+the book yield that is applied to discount cash flows used to measure certain life insurance 
+liabilities. The shock only has an impact on any reinvestment assumption portion of the 
+discount rate. For this reason, IAIGs apply the following method to calculate their J-GAAP Plus 
+Interest Rate risk charge. 
+9.1.2.2.2  Liabilities 
+685. For those insurance liabilities on the J-GAAP Plus balance sheet that are valued using 
+yield curves/rates based on current market information, the Inte rest Rate risk charge is 
+calculated using the reference ICS standard method approach. Thus, the standard method 
+Interest Rate risk approach is applicable for all non -life products under J-GAAP Plus as well 
+as any reported options and guarantees.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 168 of 247 
+ 
+686. Where life insurance liabilities on the J-GAAP Plus balance sheet are discounted using 
+a book yield and a reinvestment assumption, the stressed IAIS yield curve scenarios only 
+apply to the portion of the rate reflecting the reinvestment assumption at each tenor and  
+currency. 
+9.1.2.2.3 Assets  
+687. For assets measured at market value on the J-GAAP Plus balance sheet, the stresses 
+are the same as that used in the reference ICS standard method. 
+688. For assets measured at amortised cost on the J -GAAP Plus balance sheet (eg loans 
+and bonds classified as held to maturity or held for reserves), interest rate risk stresses are 
+not applied.  
+689. Where unrealised gains and losses are added back to capital resources via the AOCI 
+adjustment (see Section 9.1.2.1), assets are essentially measured at amortised cost . T he 
+interest rate risk stresses, applied through the change in asset value, are offset by the change 
+in the AOCI adjustment. Therefore, the net impact of the stresses are zero, or the same as for 
+assets measured at cost. 
+9.1.2.3 Capital Requirement: NDSR 
+9.1.2.3.1 Background  
+690. Under J-GAAP Plus, the valuation of life insurance current estimates utilises a discount 
+rate that is equivalent to a book yield plus a reinvestment assumption equal to a government 
+bond yield. Assets backing those liabilities are essentially reported at amortised cost via an 
+adjustment to capital resources referred to as the AOCI adjustment (see Section 9.1.2.1). 
+Other assets such as loans and debt securities held to maturity or held for reserves may also 
+be reported at cost. For non -life insurance products under J-GAAP Plus, insurance liabilities 
+are valued using a government bond yield curve, and available for sale securities are generally 
+measured at fair value. 
+691. The NDSR stress does not translate to a change in value for assets valued at cost 
+(either via the AOCI adjustment or for assets valued at cost on the J -GAAP Plus balance 
+sheet). In addition, it does not impact the discount rate used to measure life liabilities or the 
+government bond yield curve used to discount non-life liabilities. For this reason, IAIGs apply 
+different methodologies to calculate their GAAP Plus NDSR charge, depending on how 
+insurance liabilities and assets are valued. 
+9.1.2.3.2  Liabilities 
+692. For non-life insurance liabilities on the J-GAAP Plus balance sheet measured using a 
+government bond yield curve, the NDSR stress is not applicable.  
+693. For life insurance liabilities on the J -GAAP Plus balance sheet that are discounted 
+using a book yield with a reinvestment rate based on the government bond rate (eg Japanese 
+life liabilities), a NDSR stress is not applicable. 
+9.1.2.3.3 Assets  
+694. For assets measured at fair value on the J -GAAP Plus balance sheet using yield 
+curves based on current market information, the impact of the NDSR stress is calculated by 
+applying the reference ICS standard method approach.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 169 of 247 
+ 
+695. For assets measured at cost on the J -GAAP Plus balance sheet, an NDSR stress is 
+not applicable. 
+696. Where unrealised gains and losses are added back to capital resources via the AOCI 
+adjustment (see Section 9.1.2.1), assets are essentially being measured at amortised cost . 
+The NDSR stress is applied through the change in asset value, which is offset by the change 
+in the AOCI adjustment. Therefore, the net impact of the stress is zero, or the same as for 
+assets measured at cost. 
+9.1.2.4 Capital Requirement: Credit Risk 
+697. Under J-GAAP Plus, available for sale debt securities that are included in the AOCI 
+adjustment to capital resources are reported on an amor tised cost basis for purposes of 
+determining the credit risk charge. The credit risk factor is applied to the amortised cost 
+balances in order to remain consistent with the valuation method reflected in capital resources. 
+9.1.2.5 Capital Requirement: Real Estate Risk 
+698. Under J -GAAP Plus, the real e state risk charge for owner -occupied property is 
+calculated as the difference, if positive, of the J -GAAP Plus balance sheet value on the 
+reporting date less 75% of the property’s fair value on the reporting date. If the fa ir value of 
+such a property is not available, the risk charge is 25% of the property’s book value. The risk 
+charge is determined on a property-by-property basis. 
+9.1.3 GAAP Plus Instructions  
+699. The following sections, in conjunction with the Level 1 and 2 GAAP Plus sections, 
+provide specifications for IAIGs to report their consolidated financial data in the ICS balance 
+sheet using the GAAP Plus approach to valuation. The GAAP Plus approach is an alternative 
+valuation approach for the ICS and utilis es much of the framework under the r eference ICS 
+including specifications for the calculation of capital resources, capital requirements and tax 
+treatment. Elements that differ from the r eference ICS are detailed in the sub -sections that 
+follow.  
+700. Japanese GAAP (J -GAAP), US GAAP/SAP and Chinese C -ROSS GAAP Plus 
+approaches fall under the Monitoring Period as additional reporting at the option of the GWS. 
+The specifications for completing additional reporting under the Monitoring Period for J-GAAP 
+Plus are outlined in the Section 9.1.2. The specifications for the US GAAP/SAP and Chinese 
+C-ROSS approaches have not yet been relocated to the Level 2 section and can be found in 
+section 9.1.6.  IFRS GAAP Plus, which continues to be under development and is not yet 
+included in the monitoring period, can also be found under section 9.1.6. 
+9.1.4 GAAP Plus Updates for 2022 Field Testing 
+701. GAAP Plus for 2022 Field Testing includes only the IFRS GAAP Plus approach. As 
+noted above, J-GAAP, US GAAP/SAP and Chinese C -ROSS GAAP Plus approaches are 
+included as additional reporting for the Monitoring Period. The final year of GAAP Plus Field 
+Testing was intended to be 2021. The field testing timeline was re-evaluated and extended for 
+the IFRS GAAP Plus approach due in part to delays in  finalisation of IFRS insurance 
+accounting rule amendments and effective dates. The IFRS GAAP Plus approach 
+incorporates the changes in accounting rules issued by the IASB (IFRS 9 Financial 
+Instruments and IFRS 17 Insurance Contracts). Although these rules will not be effective in
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 170 of 247 
+ 
+2022, IAIGs are asked to report their GAAP Plus balance sheet on the basis of the new rules 
+on a best efforts basis. 
+702. The IASB approved the deferral of the effective date of IFRS 17 to periods beginning 
+on or after 1 January 2023. The IASB has also approved the extension of the exemption for 
+insurers in applying IFRS 9 (set out in IFRS 4) to the same date. As the IASB finalised 
+amendments to the new standard in June 2020, IAIGs may not yet be in a position to finalise 
+relevant accounting policies, systems and processes to produce balances based on the new 
+standards.  In addition, local standard setters or regulators may propose refinements or 
+varying interpretations of these IFRS rules that could impact the specifications for GAAP Plus. 
+The IAIS anticipates that some IAIGs will be able to provide balances for Field Testing this 
+year based on preliminary data. Alternatively, IAIGs may be able to adapt their solvency 
+reporting to approximate balances based on new IFRS rules. Therefore, IAIGs reporting under 
+IFRS should provide a GAAP Plus balance sheet reflecting the application of new rules on a 
+best efforts basis. For European Union (EU) and UK IAIGs who report their audited 
+consolidated financial statements on the basis of IFRS as endorsed and adopted by the EU, 
+alternate specifications have been carried over from prior years such that an adjusted 
+Solvency II balance sheet will be reported under IFRS GAAP Plus (see Section 9.1.6.5).  
+703. There have been no significant changes in the specifications for U.S., IFRS or China 
+GAAP Plus for the 2022 ICS data collection. 
+704.  
+9.1.5 GAAP Plus General Instructions 
+705. GAAP Plus begins with the consolidated balance sheet as reported in a n IAIG’s 
+general purpose, audited financial statements, which for most IAIGs is either on the basis of 
+IFRS or their local jurisdictional GAAP. The scope of applicati on, which may require limited 
+adjustments to the consolidated GAAP Balance Sheet, is described in Section 4.1 Scope for 
+Starting ICS Balance Sheet .  F or this section, such general purpose reporting bases are 
+collectively referred to as GAAP.  The following GAAP Plus sub-sections provide instructions 
+for adjustments under the various jurisdictional GAAPs applicable to IAIGs so that each can 
+arrive at a consolidated GAAP Plus Balance Sheet following the application of these Technical 
+Specifications. 
+706. IAIGs that do not report on a consolidated GAAP basis, eg, US mutual insurers, should 
+follow the specifications provided in Section 4.1.1.1.1 to arrive at  their GAAP starting 
+aggregated balance sheet as reported under the balance sheet column: GAAP – Amounts per 
+Audited Consolidated Financial Statements    
+707. When a n IAIG  begins with an aggregated balance sheet, there may be instances 
+where beginning insurance liability balances are calculated under more than one set of GAAP 
+rules. IAIGs need not restate to one single starting GAAP valuation methodology. Rather, 
+IAIGs should use the most appropriate GAAP Plus jurisdictional approach for each component 
+of insurance liabilities in the aggregated balance sheet to arrive at a current estimate liability. 
+708. Under the US GAAP/SAP and J-GAAP Plus approaches, there is an adjustment (AOCI 
+adjustment) that serves to exclude from capital resources any unrealised gains and losses on 
+debt securities that meet defined criteria provided in Section 9.1.8.1.1. Where a n IAIG’s 
+balance sheet is an aggregation that includes liabilities valued under US GAAP, US SAP or
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 171 of 247 
+ 
+Japanese GAAP, these instructions should also be followed for the portion of their balance 
+sheet to which those jurisdictional GAAP Plus approaches apply.  
+709. There are a number of differences in the risk charge calculations between GAAP Plus 
+and the standard method. Under GAAP Plus, assets are not adjusted and are reported as they 
+are in the GAAP financial statements. Therefore, some assets are reported at amortised cost 
+or are adjusted to amortised cost via the AOCI adjustment. The standard method risk charge 
+calculations assume that all assets are reported at market value.  In addition, certain liabilities 
+are unadjusted and reported undiscounted as they are in GAAP financial statements. The 
+standard method risk factors are calibrated to be applied to discounted liabilities.  The ICS 
+Risk Charges section under GAAP Plus (Section 9.1.10) provides instructions that should be 
+followed either in addition to or in place of the standard method in order to address these non-
+market value balances. 
+710. GAAP Plus valuation data should be reported in the worksheet ICS Balance 
+Sheet.GAAP+. See Sections 4.1 and 9.1.7 for detailed specifications on completing the 
+balance sheet columns for balances reported under GAAP and GAAP Plus. 
+711.   The worksheet ICS Balance Sheet.GAAP+ also includes a table AOCI Adjustment to 
+Capital Resources to facilitate the calculation of an AOCI adjustment to capital resources for 
+IAIGs following the US GAAP, US SAP or J-GAAP Plus approaches. Detailed instructions for 
+completing the AOCI adjustment can be found in Section 9.1.8.1.1. 
+712.   The worksheet  ICS Balance Sheet.GAAP+  also includes tables to perform 
+reconciliations of insurance liabilities between GAAP Plus and MAV. Detailed instructions for 
+completing these tables can be found in Section 9.1.7.3. 
+713. There are a series of questions included in the Questionnaire in order to collect detailed 
+descriptions of the methods used to calculate any significant adjustments developed directly 
+by IAIGs as well as explanations for amounts reported in the liability reconciliations. 
+Supplemental narratives to further describe methodologies employed, assumptions used, etc., 
+are invited through the Questionnaire.  There are also specific questions that are targeted to 
+certain GAAP Plus approaches. IAIGs are invited to provide answers to any relevant questions 
+if they so choose.  
+714. The following general considerations are applicable to all IAIGs regardless of the 
+jurisdictional GAAP Plus approach followed: 
+a. General: Unless otherwise stated, assets and liabilities should be in accordance with 
+the IAIG’s reported IFRS or GAAP including but not limited to the following: 
+i. Recognition / Derecognition of insurance liabilities; 
+ii. Contract Boundaries;  
+iii. Discounting: GAAP Plus estimates of insurance liabil ities (and related 
+reinsurance recoverables) should be calculated using yield curves or rates as 
+specified under applicable jurisdictional GAAP rules or as outlined in the 
+applicable specific GAAP Plus approach; 
+iv. Separate Account definition; and 
+v. Non-insurance assets and liabilities.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 172 of 247 
+ 
+b. Policy Loans: Policy loans should be reported in the appropriate row under 
+Investments, rather than being netted against insurance liabilities;  
+c. Insurance Liabilities: Insurance liabilities are adjusted to a current estimate  
+i. Where GAAP accounting relies on historical or locked -in assumptions, these 
+are updated to current reporting period assumptions; 
+ii. Where GAAP accounting includes margins in reserves (eg risk margins, 
+conservatism in assumptions and provisions for adve rse deviation) these 
+amounts are removed from the valuation of insurance liabilities through various 
+methods outlined under the jurisdictional GAAP Plus approaches; and 
+iii. Where GAAP accounting excludes overhead expenses, an estimate of directly 
+attributable overhead expenses is added to the liability.   
+d. MOCE: MOCE, as defined under the reference ICS, is added to the balance sheet as 
+a liability. Where liabilities are undiscounted, an adjustment is applied to remove any 
+double counting of MOCE; 
+e. Deferred acquis ition costs, other deferred expenses (including value of business 
+acquired and sales inducement assets): deferred acquisition costs and other deferred 
+expenses that are on the balance sheet at the reporting date are adjusted to zero; 
+f. Deferred Taxes (Assets/Liabilities): These items follow the same specifications as the 
+reference ICS. See Section 8 Reference ICS: Tax; 
+g. Capital Resources: Capital resources under GAAP Plus follow the same specifications 
+as the reference ICS with the limited exception of the AOCI adjustment as specified 
+under GAAP Plus Section 9.1.8.1.1; 
+h. Adjustment offsetting entries: Most adjustments needed to arrive at a GAAP Plus 
+Balance Sheet require offsetting amounts in the equity section of the balance sheet. 
+These pertain to the elimination of margins, related deferred tax adjustments, and 
+possibly other adjustments made by the IAIG. The Template automatically includes 
+these offsets in  the equity portion of the balance sheet based on the corresponding 
+amounts reported by the IAIG as adjustments to the underlying assets and liabilities.  
+There should be no need to manually make adjustments to equity to report offsetting 
+entries for GAAP Plus adjustments except for certain offsets related to reporting non-
+controlling interests (NCI). See Section 4.1.1.1.2 for additional information; and 
+i. Data quality a nd setting of assumptions: The calculation of GAAP Plus adjustments 
+should be based on up-to-date information and credible assumptions. When selecting 
+data for the calculation of insurance liabilities under the GAAP Plus approach, IAIGs 
+should follow simil ar guidance as provided under the reference ICS including 
+considerations for selecting data for the calculation, working with limited or unreliable 
+data, and supplementing historical data with data from other sources. 
+9.1.6 Jurisdictional GAAP Plus Approaches 
+9.1.6.1 US GAAP Plus Approach 
+715. The following approach pertains to IAIGs that report their audited, consolidated group 
+financial statements on the basis of US GAAP for the purpose of reporting the GAAP Plus 
+Balance Sheet for the current year.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 173 of 247 
+ 
+716. These specifications reflect the application of FASB Accounting Standards Update 
+2018-12, Financial Services – Insurance (Topic 944): Targeted Improvements to the 
+Accounting for Long -Duration Contracts (ASU). The expectation is that IAIGs will have the 
+capability to prepare a balance sheet reflecting application of the ASU on a best efforts basis.  
+9.1.6.1.1 US GAAP Plus approach – Invested Assets 
+717. Investments (including fixed income, equity, mortgages/loans, real estate, and 
+alternative investments) and derivatives should be reported under GAAP Plus as determined 
+under US GAAP standards for reporting. Therefore, no adjustment is required under GAAP 
+Plus.  
+718. Under US GAAP, the majority of investments are valued at fair value. Investments 
+valued at amortised cost, such as securities designated as held to maturity, loans designated 
+as held for investment and certain other investments, should be reported on that basis net of 
+any related impairment, valuation allowance or loan loss reserve. 
+719. AOCI adjustment: Assets backing certain insurance liabilities are subject to an AOCI 
+adjustment to restate asset values from fair value to amortised cost. See the GAAP Plus AOCI 
+Adjustment in Section 9.1.8.1.1. 
+9.1.6.1.2 US GAAP Plus Approach - Insurance Liabilities 
+720. IAIGs currently filing US GAAP reports should apply the following methods to calculate 
+adjustments to reported insurance liabilities, reinsurance recoverables and reinsurance 
+assumed to arrive at a current estimate.  
+721. Under US GAAP there are several accounting models used to estimate insurance 
+liabilities based on product characteristics and length of contract. The US GAAP Plus 
+approach leverages these accounting models and, in certain  cases, outlines adjustments to 
+existing reported balances in order to approximate, to the extent possible, a current estimate 
+(see Section 5.2).     
+722. In order to approximate a current estimate, GAAP Plus insurance liability assumptions 
+and calculations should exclude any implicit or explicit margins in the calculations.  In addition, 
+any amounts that take into account a market participant’s view (eg own credit standing of the 
+IAIG) should be removed. 
+723. Reinsurance recoverables and any actuarially determined reinsurance payables 
+should be calculated consistent with the GAAP Plus estimates  of insurance liabilities. 
+Therefore the same assumptions and inputs that are used for insurance liabilities should be 
+used for the corresponding reinsurance recoverables. 
+9.1.6.1.2.1 US GAAP Plus Approach - Non-life and other Short-term Insurance Liabilities 
+724. For insu rance liability estimates for unpaid claims and other short -term insurance 
+contracts that are measured under US GAAP ASC 944-30-1 to 4, the valuation of these items 
+is based on the IAIG’s reported US GAAP valuation. Generally speaking, this would be on an 
+undiscounted basis, though there could be exceptions (eg tabular discount of certain Workers’ 
+Compensation liabilities). Any significant exceptions should be described in the Questionnaire. 
+725. Deferred acquisition costs related to non-life insurance are set to zero (expensed) on 
+the balance sheet under US GAAP Plus. The Template will automatically record the offset in 
+Other Asset Adjustment Offset in the equity section.   Premium liabilities are reduced by the
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 174 of 247 
+ 
+amount of deferred acquisition costs that are expensed. The Template will record the offset in 
+Insurance Liability/Reinsurance Adjustment Offset in the equity adjustments section.   
+726. In order to address the inclusion of an implicit margin for non -life unearned premium 
+and claims reserves, the Template includes an adjustment to the liability balance to deduct 
+the MOCE, net of the tax effect, which would approximate the implicit margin. The adjustment 
+is reflected in capital resources and does not impact the liability balances or exposures used 
+in the risk charge calculations. See Section 9.1.9 Margin Over Current Estimate below. 
+9.1.6.1.2.2 US GAAP Plus Approach - Life Insurance, Investment Contracts and other 
+Long-term Insurance Liabilities 
+727. For insurance liabilities that are measured under US GAAP as the net present value 
+of cash flows using current or updated assumptions, the valuation of these items is based on 
+the IAIG’s reported US GAAP valuations.  
+728. For  traditional life contracts that will be subject to ASU 2018-12: 
+a. Begin with the liability as it would be reported under ASU 2018 -12, including updated 
+assumptions, elimination of all provisions for adverse deviation, application of a 
+discount rate based on the yields of a representative portfolio of upper-medium quality 
+fixed income instruments and make the following adjustments: 
+i. Adjust the net premium ratio to a gross premium. 
+ii. Add directly attributable overhead expenses51. Overhead expenses are defined 
+as those general expenses that would no longer exist in the absence of the 
+business or portfolio of contracts. For example, overhead expenses could 
+include accounting, human resources, IT and building expenses  not already 
+included as specifically identified expenses and would likely exclude most 
+training and product development costs. Overhead expenses calculated under 
+the reference ICS approach may be used as a practical expedient.   
+b. An adjustment to AOCI may also be required to record the difference between 
+measuring liabilities using a discount rate at inception and the current rate as required 
+under ASU 2018 -12. It is understood that simplifying assumptions or a practical 
+expedient may be required to develop  an estimate of this amount for Field Testing. 
+Please respond to the related question in the Questionnaire to explain how this balance 
+was estimated. 
+729. For participating contracts, non -participating insurance contracts that are measured 
+under a retrospective  deposit method approach (eg universal life insurance contracts 
+measured according to ASC 944 -30-16, formerly SFAS 97) and investment contracts (eg 
+guaranteed investment contracts, retirement products, annuities): 
+a. Adjust the liability utilising the Gross Premium Valuation (GPV) approach as defined 
+in loss recognition (premium deficiency) testing under US GAAP ASC Topic 944 -60. 
+The GPV is calculated by estimating the present value of future payments for benefits 
+and related settlement and maintenance expenses less the present value of future 
+gross premiums based on actual and anticipated experience. Projections may be 
+ 
+51 In order to conform to the definition of a current estimate and to be internally consistent with other 
+GAAP Plus jurisdictional examples, overhead expenses are included under US GAAP Plus for purposes 
+of the ICS.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 175 of 247 
+ 
+based on a single best estimate scenario and may also include the impact of 
+management actions, eg, the current estimate of future premium rate increases ( see 
+Section 5.2.4 Management Actions). 
+b. For non-participating and investment contracts, the discount rate applied is based on 
+a current portfolio (book) yield and expected reinvestment asset yields and cash flows. 
+Gross rates are reduced for expected defaults and investment expenses. 
+c. For participating contracts, the discount rate is the current dividend fund crediting rate. 
+Investment assumptions used in projected dividend cash flows should be consistent 
+with this discount rate.  An example is included in Section 5.2.1.4. 
+730. While acknowledging that overhead expenses are not included in most instances 
+under US GAAP rules, they are included in a current estimate. In order to conform to the 
+definition of a current estimate and to be internally consistent with other GAAP Plus 
+jurisdictional approaches, overhead expenses are included under US GAAP Plus for purposes 
+of the ICS. Although loss recognition testing under US GAAP specifies that overhead 
+expenses are excluded, for purposes of reporting under GAAP Plus, overhead expenses are 
+included. As a practical expedient, the overhead expenses included in the GAAP Plus liabilities 
+can be the same as those included in the reference ICS current estimates. 
+9.1.6.1.2.3 US GAAP Plus Approach - Options and Guarantees 
+731. Insurance contracts may include options and guarantees, such as guarantees of 
+minimum investment returns (including as part of death benefits), maximum charges for 
+mortality, surrender options, or options for the policyholder to reduce or extend coverage. For 
+the current year of  Field Testing, options and guarantees that meet the definition of ‘market 
+risk benefits’ as defined in ASU 2018-12 are valued in accordance with the ASU.  Any amounts 
+made to reflect a market participant’s view (eg adjustments to reflect the credit standing of the 
+IAIG and adjustments for market participant risk margin or load) are excluded from the 
+estimate with an offset as applicable to AOCI and/or retained earnings. 
+732. For options and guarantees that meet the definition of a derivative but not the definition 
+of a market risk benefit, the applicable measurement guidance is ASC Topic 815 (formerly 
+SFAS 133) and ASC Topic 820 (formerly SFAS 157). Any amounts made to reflect a market 
+participant’s view (eg ad justments to reflect the credit standing of the IAIG and adjustments 
+for market participant risk margin or load) are excluded from the estimate. 
+733. For options and guarantees that do not meet the definition of a derivative or a market 
+risk benefit under US GAAP, the applicable guidance is ASC Subtopic 944-40-30-19a to 29 
+(formerly SOP 03-1). Any historical, locked-in assumptions used in this calculation are updated 
+to reflect current information as of the reporting date. 
+9.1.6.1.3 US GAAP Plus Approach – Other Adjustments 
+734. Deferred expenses related to insurance such as deferred acquisition costs, value of 
+business acquired, sales inducement assets, etc. are expensed/reversed. The offsetting entry 
+is automatically generated in the Template.  
+735. FAS 115 shadow adjustments: Adjustments to reflect the impact of unrealised gains 
+and losses on available for sale securities as if they had been realised are reversed and not 
+reflected in asset/liability balances and AOCI.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 176 of 247 
+ 
+736. Assets backing certain long-duration liabilities are subject to the AOCI adjustment to 
+restate asset values from fair value to cost. See Section 9.1.8.1.1 for further specifications. 
+9.1.6.2 US Mutual Life Insurers (US SAP) GAAP Plus Approach 
+737. The following guidance pertains to US mutual insurers that report audited results only 
+on the basis of SAP as defined by state insurance regulators in the United States.   
+738. The US GAAP Plus guidance is applicable to SAP -only reporting US mutuals. 
+However, and as described below, there are some balances that must be uniquely addressed 
+by a US mutual IAIG. 
+9.1.6.2.1 US SAP GAAP Plus Approach – Asset-related Adjustments 
+739. Beginning with the aggregated SAP group balance sheet including adjustments to 
+approximate US GAAP as specified in the Section 4.1.1 GAAP and ICS  Balance Sheet s 
+instructions, the majority of debt securities investments are measured at fair value through 
+AOCI (equivalent to available for sale) and equity securities measured at fair value through 
+net income consistent with US GAAP.  There may be certain other investments that on a US 
+GAAP basis would be reported at amortised cost including debt securities designated as held 
+to maturity, loans designated as held for investment and certain other investments. These 
+investment are reported on that basis net of any related impairment, valuation allowance or 
+loan loss reserve. No further adjustment is required. 
+740. AOCI adjustment: Assets backing certain long -duration liabilities are sub ject to an 
+AOCI adjustment to restate asset values from fair value to cost. See Section 9.1.8.1.1 GAAP 
+Plus AOCI Adjustment. 
+9.1.6.2.2 US SAP GAAP Plus Approach – Liability-related Adjustments 
+741. Insurance liabilities begin with the IAIG’s reported SAP valuations.  
+a. For contracts that fall under ASU 2018-12, FAS 97, or FAS 120 for US GAAP (disability 
+income, long-term care, life insurance, pay-out annuities with life contingencies), adjust 
+to a current estimate based on baseline cash flow testing. Apply the rate or yield curve 
+consistent with the US GAAP Plus approach.  
+b. For contracts that are measured under the Principles Based Reserving rules: 
+i. Where the Net Premium Floor is applied, the baseline cash flow testing 
+approach as outlined in a) above is used to adjust to a current estimate. 
+ii. Where the deterministic approach is applied, IAIGs report the value calculated 
+under the deterministic approach and adjust to a current estimate by deducting 
+the margin as reported in the Annual Actuarial Report. 
+iii. Where the stochastic approach is applied, t he deterministic approach as 
+outlined above is used to adjust to a current estimate. 
+c. For participating contracts, investment assumptions used in projected dividend cash 
+flows should be consistent with the discount rate used to value the liability per the 
+baseline cash flow test.  An example is included in Section 5.2.1.4.  
+d. For fixed and variable deferred annuities not included in AG 43 and non-life contingent 
+pay-outs, IAIGs should use baseline cash flow testing per a) above.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 177 of 247 
+ 
+e. For options and guarantee liabilities (variable annuities) that fall under ASU 2018-12, 
+SOP 03-1 and FAS 133/157 under US GAAP, adjust to CTE 0 from AG 43 models 
+(with appropriate modifications to eliminate conservative PADs/margins) or hedging 
+models if AG 43 is not applicable. Guarantees  that fall under ASU 2018 -12 and FAS 
+133/157 and are valued as derivatives should also use risk neutral in place of real 
+world scenarios to the extent practical. Any amounts made to reflect a market 
+participant’s view (eg adjustments to reflect the credit standing of the IAIG and 
+adjustments for market participant risk margin or load) should be excluded from the 
+estimate. 
+f. In order to conform with the definition of a current estimate and to be internally 
+consistent with other GAAP Plus jurisdictional approac hes, directly attributable 
+overhead expenses should be included in the valuation of insurance liabilities under 
+US SAP Plus for purposes of the ICS. Directly attributable overhead expenses are 
+defined as those general expenses that would no longer exist in  the absence of the 
+business or portfolio of contracts. For example, overhead expenses could include 
+accounting, human resources, IT and building expenses not already included as 
+specifically identified expenses and would likely exclude most training and p roduct 
+development costs. Overhead expenses calculated under the reference ICS approach 
+may be used as a practical expedient. 
+9.1.6.3 Japanese GAAP (J-GAAP) Plus Approach 
+742. The J -GAAP Plus approach is subject to the Monitoring Period. Instructions for 
+completing balance sheet adjustments under J-GAAP Plus are provided in Section 9.1.2. 
+9.1.6.4 IFRS GAAP Plus Approach 
+743. IAIGs, other than EU and UK IAIGs currently filing audited, consolidated group financial 
+statements on the basis of IFRS should apply the following specifications to calculate 
+adjustments for the purpose of reporting their GAAP Plus Balance Sheet.  
+744. The GAAP Plus specifications reflect the  application of IFRS 17 Insurance Contracts 
+issued by the IASB in May 2017 , and as amended in June 2020,  and IFRS 9 Financial 
+Instruments issued in July 2014  and including later amendments . The IASB approved the 
+deferral of the effective date of IFRS 17 to periods beginning on or after 1 January 2023. The 
+IASB has also approved the extension of the exemption for insurers in applying IFRS 9 (set 
+out in IFRS 4) to the same date. As the standards are not yet effective, IAIGs may not yet be 
+in a position to fin alise relevant accounting policies, systems and processes to produce 
+balances based on the new rules. The IAIS requests that IAIGs provide data reflecting the 
+adoption of these standards on a best efforts basis. 
+745. IAIGs may be able to adapt their solvency reporting to align more closely with IFRS 17 
+for purposes of reporting insurance liabilities in the current year of  Field Testing. This could 
+include simplified adjustments to reflect IFRS 17 compliant discount curves, definitions of 
+contract boundary and re cognition points, and cash flow adjustments (such as 
+attributable/non-attributable overheads). Where IAIGs have adapted their solvency reporting 
+to approximate IFRS 17 figures, the nature and impact of the adjustments should be described 
+in the Questionnaire, as well as any sources of material difference between IFRS 17 and their 
+solvency reporting that have not been adjusted. Where the reported figures contain features 
+equivalent to the IFRS 17 Risk Adjustment and Contractual Service Margin, these are treated 
+in accordance with paragraph 749.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 178 of 247 
+ 
+746. The availability and quality of data based on the new IFRS rules will take time to 
+improve. It was previously agreed that IFRS GAAP Plus Field Testing will continue through 
+2022 in order to account for the fact that a ccounting policies, systems and processes in 
+support of these new rules are currently under development.  An assessment of the current 
+timeline and feasibility of including an IFRS GAAP plus approach under the ICS will be 
+performed at the end of this year’s field testing exercise to contemplate the impact of IFRS 17 
+and IFRS 9’s revised effective dates  and the lack of data reported in the prior years of field 
+testing the IFRS GAAP Plus approach. 
+9.1.6.4.1 IFRS GAAP Plus Approach – Investments 
+747. Investments (including f ixed income, equity, mortgages/loans, real estate, and 
+alternative investments) and derivatives are reported under GAAP Plus as determined under 
+IFRS for financial reporting. Therefore, no adjustment is required.  
+748. Investments are reported net of any related allowance for credit losses. 
+9.1.6.4.2 IFRS GAAP Plus Approach – Insurance Liabilities and Reinsurance Contracts 
+749. For the current year, adjustments to reported insurance liability balances are minimised 
+in order to set a baseline that can  be used to assess whether there may be a need in future 
+specifications for guardrails, a narrowing range of options, etc. IFRS 17 includes three 
+approaches for the measurement of insurance liabilities. IAIGs should follow the appropriate 
+measurement approach under IFRS 17 and apply the following adjustments: 
+a. General Model Approach (GMA) and the Variable Fee Approach (VFA) 
+i. Risk Adjustment is reversed. The Template will record the offset in Insurance 
+Liability/Reinsurance Adjustment Offset in the equity adjustments section. The 
+risk adjustment will be replaced by the MOCE as specified under the reference 
+ICS. 
+ii. Contractual Service Margin (CSM) is reversed. The Template will record the 
+offset in Insurance Liability/Reinsurance Adjustment Offset  in the equity  
+adjustments section.  
+These adjustments make the residual GAAP Plus liability reflective of a current 
+estimate.  
+b. Premium Allocation Approach (PAA) 
+i. No adjustment is necessary. 
+ii. An approach has been developed to address the inclusion of an implicit margin 
+when liabilities are not discounted, including when the PAA is used for the 
+Liability for Remaining Coverage. The Template includes an adjustment to the 
+liability balance to dedu ct the MOCE that would approximate the implicit 
+margin.  IAIGs are required to separately report the share of liabilities measured 
+under the PAA as Liabilities undiscounted for purposes of this calculation in the 
+worksheet ICS Summary .GAAP+. See Section 9.1.9 Margin o ver Current 
+Estimate below for additional instructions. The adjustment is reflected in capital 
+resources and does not impact the liability balances or exposures used in the 
+risk charge calculations.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 179 of 247 
+ 
+750. Reinsurance contracts held are measured in accordance with IFRS 17 and adjusted 
+in the same manner as direct written contracts through reversal of the risk adjustment and 
+CSM. 
+9.1.6.4.3 IFRS GAAP Plus Approach – Investment Contract Liabilities and other Distinct 
+Investment Components 
+751. Investment contracts not within the scope of IFRS 17 and distinct investment 
+components of insurance contact s that would be within the scope of IFRS 9 if they were 
+separate contracts are measured under IFRS 9 (as set out under IFRS 17).   
+a. If the liability representing the investment contract or component is measured as a fair 
+value, then any amounts made to refl ect a market participant’s view (eg adjustments 
+to reflect the credit standing of the IAIG and adjustments for market participant risk 
+margin or load) are excluded from the estimate with an offset as applicable to AOCI 
+and/or retained earnings. 
+b. If the liab ility representing the investment contract or component is measured at 
+amortised cost, it will be necessary to restate the amount to a net present value of 
+future cash flows or fair value excluding any market participant views (eg adjustment 
+for own credit risk or risk margin). Any discounting follows IFRS fair value accounting 
+rules under IFRS 13 Fair Value Measurement. 
+9.1.6.4.4 IFRS GAAP Plus Approach – Service Contract Liabilities and other Distinct Service 
+Components 
+752. Service contracts and promises to transfer distinct goods or non-insurance services to 
+a policyholder within an insurance contract should be separated and measured under IFRS 
+15, Revenue from Contracts with Customers  (as set out under IFRS 17). However, fo r the 
+GAAP Plus Balance Sheet, these should be adjusted to a net present value of future cash 
+flows or fair value excluding any market participant views (eg adjustment for own credit risk or 
+risk margin). Any discounting follows IFRS fair value accounting rules in IFRS 13 Fair Value 
+Measurement. 
+9.1.6.4.5 IFRS GAAP Plus Approach – Options, Guarantees and Embedded Derivatives 
+753. Options, guarantees and other embedded derivatives are separated under IFRS 9 and 
+adjusted to reflect a market participant’s view (eg adjustments to reflect the credit standing of 
+the IAIG and adjustments for market participant risk margin or load) are excluded from the 
+estimate with an offset as applicable to AOCI and/or retained earnings. 
+9.1.6.5 IFRS GAAP Plus Approach: European Union and UK IAIGs 
+754. The following guidance pertains to EU and UK IAIGs that report their audited 
+consolidated financial statements on the basis of EU International Financial Reporting 
+Standards (EU -IFRS) for the purpose of reporting the GAAP Plus Balance Sheet for the 
+current year. 
+755. The current status of implementation of IFRS 17 across Member States, raise s 
+particular challenges regarding the reporting of an IFRS GAAP Plus approach for the current 
+year of  Field Testing. In the absence of a GAAP Plus Balance Sheet reflecting the 
+specifications that presume the adoption of IFRS 17, collection of a balance sheet on the basis 
+of the previous year’s specifications would be useful in the analysis of the impact of IFRS 17
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 180 of 247 
+ 
+in a GAAP Plus context. Thus for the current year, a GAAP Plus Balance Sheet based on a 
+Solvency II regulatory valuation with some specified adjustments will continue to be collected.     
+756. IAIGs following the EU/UK GAAP Plus approach that prepare an aggregated group 
+balance sheet should take note of paragraph 707 above. In addition, EU and UK IAIGs should 
+complete the GAAP Plus risk charge calculations on the basis of this balance sheet. 
+9.1.6.5.1 EU/UK GAAP Plus Approach – Invested Assets 
+757. IAS 39/IFRS 9 (and IAS 40 for investment property) allows for the use of several 
+valuation methodologies, under specific conditions. For the purpose of the GAAP Plus Balance 
+Sheet, to ensure consistency with the valuation of insurance liabilities, invested assets are 
+reported at fair value. As a proxy, EU and UK IAIGs can apply the same adjustments as per 
+the reference ICS (MAV). 
+9.1.6.5.2 EU/UK GAAP GAAP Plus Approach - Insurance Liabilities and Reinsurance 
+Recoverables 
+758. EU and UK IAIGs start with their general purpose GAAP consolidated balance sheet 
+and perform the necessary adjustments to arrive at their Solvency II regulatory valuation 
+(including the specifications below). This will provide the balances for reporting insurance 
+liabilities and investment contracts for GAAP Plus in the current year. 
+759. The following adjustments are made to the Solvency II insurance liability balance s in 
+order to derive GAAP Plus figures:  
+a. Risk margins are removed from the valuation of insurance liabilities where insurance 
+liabilities are not calculated as a whole.  
+b. The valuation of insurance liabilities is adjusted to exclude the phasing in measures 
+provided by the regulatory framework. 
+9.1.6.6 Bermuda GAAP Plus Approach 
+760. Section 17A of the Bermuda Insurance Act requires commercial insurers to prepare 
+consolidated GAAP financial statements in accordance with one of the following standards: 
+a. IFRS; 
+b. GAAPs that apply in Bermuda, Canada, the United Kingdom or t he United States of 
+America; or 
+c. Such other GAAPs as the Bermuda Monetary Authority may recognise. 
+761. GAAPs that apply in Bermuda in point b) above are aimed at domestic (non -exempt) 
+companies and means Canadian GAAP (which would be IFRS for purposes of GAAP Plus for 
+the current year). 
+762.  Bermudian IAIGs should use specifications under the GAAP Plus jurisdictional 
+approaches for whichever underlying GAAP rules they are using to prepare their audited, 
+consolidated group financial statements. 
+9.1.6.7 China GAAP Plus Approach 
+763. IAIGs that report audited, consolidated group financial statements in accordance with 
+China C-ROSS perform the following adjustments to report their GAAP Plus Balance Sheet 
+for the current year.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 181 of 247 
+ 
+a. Investments: No adjustment is necessary except for equity investments. Equity 
+investments recorded at cost are adjusted to the equity method of accounting if a group 
+has significant influence over decisions of the entity; 
+b. Reinsurance Assets: Reinsurance assets are adjusted in a similar manner to the 
+underlying insurance liability as specified below; 
+c. Long duration insurance contracts:  Reverse any risk margin from insurance liability 
+balances.  Assumptions for insured events are determined according to actual 
+experience of the IAIG, and should not exceed the upper/lower limits specified by the 
+CBIRC. If the incidence rate of insured events is higher than the upper limit, the upper 
+limit is applied in the assumption; if lower than the lower limit, the lower limit is applied 
+in the assumption. The Template will record the offset in Insurance 
+Liability/Reinsurance Adjustment Offset  in the equity adjustments section. This 
+adjustment ensures that the GAAP Plus liability is reflective of a current estimate; 
+d. Short duration insurance contracts: For unearned premium reserves, reverse any risk 
+margin and residual reserve. For outstanding loss reserve, reverse any risk margin. 
+The Template will record the offset in Insurance Liability/Reinsurance Adjustment 
+Offset in the equity a djustments section. Adjustments ensure that the GAAP Plus 
+liability is reflective of a current estimate; 
+e. Options and Guarantees: No adjustment is necessary; 
+f. Investment contracts: 
+i. Investment contracts with no insurance risk that are recorded at amortised cost 
+are restated to a fair value excluding any market participant views (eg 
+adjustment for own credit risk or risk margin) using an approach similar to the 
+policyholder account for unit linked contracts. 
+ii. Unit-Linked Investment contracts: The portion of the contract that represents 
+the policyholder account measured as a fair value that excludes any amounts 
+made to reflect a market participant’s view requires no adjustment. The portion 
+of the contract that represents the insurer account is adjusted consistent with 
+long duration insurance contracts; and  
+g. Income Tax Reserve: See Section 8 for tax related ICS adjustments. 
+9.1.7 Balance Sheet Template Instructions 
+9.1.7.1 Balance Sheet 
+764. Column (1) GAAP - Amounts per audited, consolidated financial statements  (or 
+aggregated financial statements) is populated from the worksheet GAAP and ICS Balance 
+Sheets. This column represents the starting point for the GAAP Plus balance sheet. Tota ls 
+should be equal to audited GAAP financial statements (ie Assets, Liabilities, Equity). Other 
+significant balances, to the extent possible, should also be equal to reported financial 
+statements without any adjustment (eg total investments, insurance liab ilities, retained 
+earnings, accumulated other comprehensive income, etc).  
+765. For those IAIGs that do not prepare consolidated or group level financial statements 
+and must generate aggregated statutory financial statements, starting balances should be 
+reported as specified in Section 4.1.1.1.1.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 182 of 247 
+ 
+766. Column (2) GAAP - Other than Related to Insurance Activities  is automatically 
+calculated. 
+767. Column (3) GAAP – Related to Insurance Activities:   Amounts related to insurance 
+activities are populated from the worksheet GAAP and ICS Balance Sheets.  
+768. Column (7) GAAP Plus - Reclassification from GAAP is used to report reclassifications 
+that should be made to the GAAP a udited financial statements.  Reclassifications are those 
+items that do not represent revaluations and are simply a reclassification from one account 
+into another. The total of all reclassifications should sum to zero. Typical reclassifications 
+include the following: 
+a. Reclassifying any policy loans that are netted with liabilities to a separate line on the 
+balance sheet; 
+b. Reclassifying any reinsurance recoverables that are netted with liabilities to a separate 
+line on the balance sheet; and 
+c. Reclassifying restricted reserves such as contingency and countercyclical reserves 
+from liabilities to the equity section (Row labelled Reserves). 
+769. Column (8) GAAP Plus – Related to insurance activities  includes all balances from 
+Column 3 adjusted for GAAP Plus as specified under the appropriate GAAP Plus jurisdictional 
+approach provided in Section 9.1.6 Jurisdictional GAAP Plus Approaches. 
+770. Offsetting entries for valuation adjustments are automatically calculated fields 
+recorded under the equity section of the balance sheet. 
+771. Column (9) GAAP Plus – Consolidated with non -insurance is an automatically 
+populated sum of columns (2) and (8). 
+772. Column (5) ICS – Related to insurance activities  is populated from the worksheet 
+GAAP and ICS Balance Sheets. 
+9.1.7.2 AOCI Adjustment to Capital Resources 
+773. This table is a reconciliation from AOCI on AFS debt securities reported under the 
+GAAP Valuation balance sheet to the AOCI adjustment amount as specified in Section 
+9.1.8.1.1 below. 
+9.1.7.3 Reconciliations 
+774. The table Reconciliation of Life insurance liabilities – GAAP+ to MAV in the worksheet 
+ICS Balance Sheet.GAAP+  has been provided for IAIGs to reconcile life insurance liability 
+amounts between MAV and GAAP Plus. This data is being collected in order to understand 
+any significant differences between the valuation methods.  
+775. An additional table in the worksheet ICS Balance Sheet.GAAP+ has been provided to 
+reconcile non-life insurance liabilities amounts between reported GAAP and GAAP Plus , as 
+well as between GAAP Plus and MAV. 
+9.1.7.3.1 Reconciliation of Life Insurance Liabilities – GAAP Plus to MAV 
+776. The reconciliation table is provided for IAIGs to reconcile life insurance liabilities 
+between GAAP Plus and MAV. This table includes certain specified columns as well as two 
+user-defined columns to identify significant reconciling items (other than those specified). The 
+definitions used for each of the user-defined columns and other relevant information necessary
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 183 of 247 
+ 
+to understand the drivers of differences between MAV and GAAP Plus current estimates 
+should be reported in the Questionnaire. 
+777. Reconciliation information should be provided on a best efforts basis. A zero should 
+be entered for any columns that are not applicable or where data is not available at the level 
+of granularity requested. If the level of granularity is  not available, IAIGs should make use of 
+the columns labelled Other which, if used, should be supplemented with descriptive 
+information in the Questionnaire response document. 
+778. Detailed narrative responses in the Questionnaire should also be provided to exp lain 
+the process that was followed to calculate a current estimate under MAV and GAAP Plus 
+including the purpose, method, significant judgments, key assumptions and any other 
+information that may assist in understanding the nature of any adjustments. 
+779. Column descriptions for the Reconciliation of Life Insurance Liabilities - GAAP Plus to 
+MAV: 
+a. GAAP Plus (reflecting new accounting rules)  – Reported GAAP balance adjusted to 
+reflect new accounting rules not yet in effect, but prior to adjustment to a current 
+estimate under GAAP Plus. For the current year of Field Testing, this would apply to 
+US and IFRS GAAP Plus relating to the application of new accounting rules for 
+insurance contracts.   
+b. GAAP Plus (GAAP rates)  – Calculated field, from the table Detailed information on 
+insurance liabilities in worksheet ICS Balance Sheet.GAAP+.  
+c. Changes due to Contract Boundaries  – Represents the amount of the adjustment 
+related to applying the definition of contract boundaries under MAV versus GAAP Plus. 
+d. Changes due to update of Cash Flows  – Represents the impact on cash flow 
+projections due to updating any assumptions from GAAP Plus to MAV consistent 
+assumptions, as well as the application of the discount rate/curve under MAV on cash 
+flow projections. IAIGs should separate cash flows from the discounting impact on a 
+best efforts basis, but if not feasible the result should be com bined in the cash flow 
+column. 
+e. Changes due to discounting of CF  – Represents the amount related to the impact of 
+applying the MAV yield curve in order to obtain a present value of cash flows.  
+f. GAAP+ to MAV (user defined) – Columns have been included that can be defined by 
+IAIGs to decompose any additional material differences that can be isolated. The 
+definitions for these columns and other relevant information necessary to understand 
+the primary drivers of differences between MAV and GAAP Plus current esti mates 
+should be included in the Questionnaire. 
+g. Other – Any additional amounts required to decompose the difference between GAAP 
+Plus and MAV. Provide a description and breakdown of any material  amounts in the 
+Questionnaire. 
+h. MAV – Calculated field, which is the sum of the columns described above. The amount 
+should equal the amount reported under MAV. A check is provided to ensure that the 
+values match. 
+9.1.7.3.2 Reconciliations of Non-Life Insurance Liabilities
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 184 of 247 
+ 
+780. A table has been provided for IAIGs to provide reconciliation data between reported 
+GAAP and GAAP Plus and between GAAP Plus and MAV. 
+781. For non-life insurance liabilities, the reconciliation provides for a breakdown of these 
+amounts between premium and claim s reserve liabilities. Claims reserve liability represents 
+the estimate of costs to settle all reported losses and loss adjustment expenses (LAE) plus an 
+estimate of losses and LAE incurred but not reported.  
+782. Column descriptions for input into Premium Liability Reconciliation: 
+a. Premium Receivables – Change due to netting of premium receivables against the 
+insurance liability. Any portion of premium receivables that are reclassified as Other 
+Insurance Assets (eg agents’ balances) should not be included in this column;  
+b. Premium Deficiency Reserve – Adjustment due to the removal of the GAAP Premium 
+Deficiency Reserve (if any); 
+c. DAC Adjustment  – Represents the amount to add back to the unearned premium 
+(debit) relating to the reversal of deferred expense asset balances in the balance sheet; 
+d. Change to Profitability Assumptions / Cash Flows Impact  – Differences due to the 
+profitability/expense assumptions; 
+ 
+e. Discounting Impact – Change due to differing discount rates; 
+f. Recognition Criteria – Any changes due to policies that are recognised in the first 
+column but not recognised in the last column and vice versa; 
+g. Contract Boundaries – Any changes due to policies or renewals that are within the  
+contract boundary in the first column but are not within the contract boundary in the 
+last column and vice versa; and 
+h. Other – Any additional amounts required to decompose the difference.  Provide a 
+description and breakdown of any material amounts in the Questionnaire. 
+783. Column descriptions for input into Claims Reserve Reconciliation: 
+a. Discounting Impact – Change due to different discount rates; and 
+b. Other – Any additional amounts required to  decompose the difference. Provide a 
+description and breakdown of any material amounts in the Questionnaire. 
+9.1.8 Qualifying Capital Resources: Template Instructions 
+9.1.8.1 Capital Elements other than Financial Instruments 
+784. Instructions for completing the capital resou rces related tables of the Template are 
+provided in Section  6. GAAP Plus specific Template instructions are as follows: Under the 
+worksheet Financial Instruments.GAAP+, Debt instrument – Balance Sheet Values GAAP +  
+Example: Assume under a jurisdictional GAAP Plus that a premium liability of 100 
+was calculated with an implicit combined ratio of 100%. If the acquisition expenses 
+were zero and the MAV premium liability was calculated with a combined ratio of 
+85%, then the amount of this item in the GAAP Plus -to-MAV reconciliation would 
+be -15 (=[85%-100%]*100).
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 185 of 247 
+ 
+column [133] should equal GAAP column [32] except for under EU/UK GAAP Plus where 
+issued debt may be adjusted to a market value under Solvency II. 
+785. GAAP Plus follows the same specifications as the reference ICS to arrive at the 
+balance for capital resources with one exception provided below. 
+9.1.8.1.1 GAAP Plus AOCI Adjustment 
+786. In order to address asymmetry in as set and liability measurement, and the resulting 
+volatility in capital resources, an AOCI adjustment has been defined under GAAP Plus such 
+that the net unrealised gain/loss associated with fixed income assets that meet certain criteria 
+is reversed out of Tier 1 capital resources. The AOCI adjustment is applicable in two instances 
+under GAAP Plus after meeting all applicable criteria: 
+a. Where insurance liabilities are discounted using an asset book yield and debt security 
+investments backing those liabilities are reported at fair value but are expected to be 
+held to maturity.  
+b. Where insurance liabilities are undiscounted and fixed income investments backing 
+those liabilities are reported at fair value but are expected to be held to maturity.  
+787. Additional specific criteria (‘AOCI Adjustment Operational Criteria’) are as follows:  
+a. IAIGs applying the AOCI adjustment to assets backing life liabilities, as specified in 
+paragraph 786 a. must meet all of the following operational criteria: 
+i. The IAIG maintains asset/liability management policies that provide for specific 
+identification and duration matching of asset/liability portfolios; 
+ii. The IAIG maintains systems and processes to evaluate the effectiveness of 
+duration matching inc luding independent verification, regular tests and 
+reporting to the Board of Directors; 
+iii. Evaluation of the effectiveness of duration matching should include the 
+following test which must be met in order for assets to be included in the AOCI 
+adjustment: 
+0.8 ≤
+𝐷(𝐿)
+𝐷(𝐴) ≤ 1.25 where D is duration; and 
+iv. Assets backing life liabilities are specifically identified in segregated portfolios 
+for the purpose of asset/liability matching and can be distinguished by 
+product/accounting method. This allow s IAIGs to segregat e assets backing 
+liabilities discounted using market curves versus book yield. 
+b. Where non-life insurance liabilities are discounted,  as specified in paragraph 786 b., 
+IAIGs must meet the following criteria: 
+i. 90% or greater of the investment portfolio backing non -life liabilities is shown 
+to be held to maturity averaged over the last  5 years (ie, turnover ratio of less 
+than 10% per year, on average); 
+ii. Assets are greater than 115% of the non-life liabilities as reported on the GAAP 
+Plus Balance Sheet on the reporting date; and 
+iii. Assets backing non -life liabilities are operationally segreg ated and can be 
+identified separately from assets backing life liabilities.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 186 of 247 
+ 
+c. The net unrealised gain/loss to be excluded relates to debt securities that are classified 
+as AFS and back the specific liabilities meeting the AOCI criteria above; 
+d. The unrealised gain/loss is not likely to be realised either through sale, conversion, 
+prepayment or impairment, etc. For example, this would exclude certain callable bonds 
+where the call price is lower than the market price or residential mortgage backed 
+securities (RMBS), student loans, consumer or other asset backed securities (ABS) 
+that are likely to be prepaid. A more likely than not assessment in this context is defined 
+as a greater than 50% probability of occurrence based on facts and circumstances 
+known to management as of the reporting date. Debt securities that have experienced 
+significant credit impairment would also be excluded; and 
+e. The unrealised gain/loss is not related to a d ebt security that is designated as a fair 
+value accounting hedge. 
+788. The AOC I adjustment is a direct adjustment to capital resources. Assets are not 
+restated on the reported GAAP Plus balance sheet. The related asset balances are restated 
+to amortised cost for purposes of calculating the Credit risk charge (Section 7.4).   
+789. The AOCI adjustment is calculated net of tax, consistent with how unrealised gains 
+and losses are recorded in AOCI. 
+790. The AOCI adjustment amount is calculated using the table AOCI Adjustment to Capital 
+Resources provided in the worksheet ICS Balance Sheet.GAAP+. 
+791. Beginning with the Accumulated unrealised gains (losses) on AFS debt securities 
+reported in OCI balance as reported in the GAAP Plus Balance Sheet row [79], deduct any 
+unrealised gains/losses relating to the following: 
+a. Debt securities backing non-life liabilities that are discounted; 
+b. Debt securities backing life liabilities measured on a market value basis; 
+c. Debt securities backing liabilities  or portfolios of liabilities  that do not meet  all of the 
+AOCI adjustment operational criteria  (eg not specifically identified in a separate 
+portfolio for asset/liability matching or not meeting the operational criteria effectiveness 
+test);  
+d. Debt securities where, based on management judgment, it is more likely than not that 
+unrealised gains/losses would be realised through sale, conversion, prepayment, 
+further impairment, etc.; and 
+e. Debt securities designated as fair value accounting hedges. 
+792. For US GAAP Plus, as ASU 2018 -12 is not effective until 2023, asset unrealised 
+gain/loss data may not yet be available at a granular enough level in order to segregate assets 
+backing FAS 97/FAS120 contracts and those backing contracts that would fall under the ASU. 
+If the data is not yet available at a sufficiently granular level, IAIGs should apply a weighted 
+average based on the liability balances as a practical expedient for calculating the amount that 
+would be reported in 791 b) above.  
+793. IAIGs following the US SAP example of GAAP Plus should perform the following steps 
+to calculate an AOCI adjustment and enter the results in the AOCI Adjustment section of the 
+worksheet ICS Balance Sheet.GAAP+: 
+a. Identify all debt securities;
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 187 of 247 
+ 
+b. Quantify the total u nrealised gains/losses by subtracting the value of those assets in 
+GAAP – Related to Insurance Activities  from GAAP Plus – Related to Insurance 
+Activities. This amount should be recorded in the worksheet ICS Balance 
+Sheet.GAAP+ under the GAAP column – Amounts per Audited Consolidated Financial 
+Statements and row – Accumulated unrealised gains (losses) on AFS debt securities 
+reported in OCI; and 
+c. Use the table AOCI Adjustment to Capital Resources and apply the criteria specified 
+in paragraph 787. 
+GAAP Plus AOCI Adjustment to Capital Resources 
+  
+Accumulated unrealised gains (losses) on AFS debt securities reported in OCI 
+Less: 
+Debt securities backing discounted non-life liabilities 
+Debt securities backing life liabilities measured on a market value basis 
+Debt securities backing liabilities  (or portfolios of liabilities)  not meeting the AOCI 
+adjustment operational criteria 
+Debt securities where gain/loss is more likely than not to be realised 
+Debt securities designated as fair value accounting hedges 
+ 
+AOCI adjustment 
+ 
+9.1.9 Margin over Current Estimate: Template Instructions 
+794. Under all jurisdictional GAAP Plus approaches, MOCE is calculated consistent with 
+the reference ICS. See Section 5.3 except as outlined below. 
+795. When under certain GAAP Plus  approaches, insurance liabilities are reported 
+undiscounted on the GAAP Plus balance sheet, the undiscounted portion of the liability is 
+considered to include MOCE. In order to address double counting of MOCE, the MOCE 
+amount associated with the undiscounted liabilities is subtracted from those undiscounted 
+liabilities to arrive at the adjusted current estimate in the Template. The MOCE is then added 
+back as a separate element. The adjusted current estimate balance plus th e MOCE amount 
+equates to the technical provision on the GAAP Plus Balance Sheet. This is a semi-automated 
+function of the Template. 
+796. In order to identify liabilities that are reported undiscounted on the GAAP Plus Balance 
+Sheet, it is necessary report the percentage of liabilities that are undiscounted. This should be 
+reported in the table ICS Insurance Capital requirement in the worksheet ICS 
+Summary.GAAP+. 
+9.1.10 ICS Risk Charges: Template Instructions 
+ 
+Relevant Worksheet in Template: ICS Insurance Risk Charges.GAAP+ 
+ 
+797. GAAP Plus follows the same specifications as the standard method for most risk 
+charges to arrive at the capital requirement. Instructions for completing GAAP Plus-specific 
+risk charge related tables in the Template are provided in the relevant sections below.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 188 of 247 
+ 
+798. Individual risk charges are on a pre-tax basis. When applicable, the GAAP Plus AOCI 
+adjustment impact on the risk charge is evaluated on a pre-tax basis. 
+9.1.10.1 Insurance Risks 
+9.1.10.1.1 Premium Risk and Claims Reserve Risk 
+799. Under GAAP Plus, non-life premium risk factors are based on the 99.5 th percentile of 
+the change in a balance sheet due to risk from losses that have not yet occurred.  The 
+valuation assumptions used in the calculation of factors are consistent with those used for 
+premium liabilities on the GAAP Plus Balance Sheet. Factors provided for Field Testing are 
+based on an earning approach to premium liabilities. 
+800. Under GAAP Plus, non -life claims reserve risk factors are based on the 99.5 th 
+percentile of the change in a balance sheet due to risk from losses that have already occurred. 
+The valuation assumptions used in the calculation of factors are consistent with those used 
+for claims liabilities on the GAAP Plus Balance Sheet. 
+801. In order to identify balances that are undiscounted and therefore subject to the risk 
+factors calibrated for undiscounted liabilities, it is necessary to report the percentage of claims 
+reserve liabilities that are reported undiscounted on the GAAP Plus Balance Sheet by 
+geographic/product category. This should be reported in the Non -Life risks section of  the 
+worksheet ICS Insurance Risk Charges.GAAP+. 
+9.1.10.2 Market risks 
+9.1.10.2.1 Interest rate risk 
+9.1.10.2.1.1 Background 
+802. The interest rate stress calculations capture changes in the values of all assets and 
+liabilities that are sensitive to changes in interest rates. Non-interest sensitive assets such as 
+cash, investment income due and accrued, most issued debt and equity in struments do not 
+show any change under the interest rate stresses. Under GAAP Plus, there are additional 
+assets and liabilities that are not interest sensitive. 
+803. For example, under certain GAAP Plus approaches (ie J-GAAP, US GAAP/SAP), the 
+valuation of variable term and participating insurance contracts utilise a discount rate that is a 
+blend of the portfolio return rate (book yield) and a reinvestment assumption. An interest rate 
+stress does not impact the book yield portion of the discount rate used to mea sure these 
+liabilities. A stress would only have an impact on the reinvestment assumption  portion of the 
+discount rate. Short duration, non -life liabilities under US GAAP Plus and liabilities for 
+remaining coverage under IFRS GAAP Plus are generally not discounted. Therefore, a stress 
+on interest rates would not impact the value of these liabilities either. For most other products 
+under GAAP Plus approaches, insurance liabilities are valued using market yield curves and 
+thus would be impacted by an interest rate stress.  
+804. Certain assets that may be reported at amortised cost under GAAP Plus approaches 
+are also non -interest sensitive. Examples include debt securities held for reserves under J-
+GAAP, loans held for investment or debt securities held to maturity.  In addition, AFS debt 
+securities may be adjusted to amortised cost via an adjustment to capital resources referred 
+to as the AOCI adjustment (see Section 9.1.8.1.1).
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 189 of 247 
+ 
+9.1.10.2.1.2 Liabilities 
+805. For those insurance liabilities under GAAP Plus that are valued using yield curves 
+based on current market information, the Interest Rate risk charge is calculated using the 
+standard method approach.  
+806. For long-term insurance liabilities that are discounted  using a blended rate of a book 
+yield and a reinvestment assumption, the prescribed interest rate stresses only apply to the 
+portion of the rate reflecting the reinvestment assumption for each portfolio tenor and currency. 
+The Interest Rate risk charge is calculated by determining the maximum loss that results from 
+the change in liability value when discounting the cash flows by using the reinvestment rate 
+based on the risk-free curve, and on the IRR Up and IRR Dn scenario. The steep ening and 
+flattening stresses are not applied and values should be entered into the stress tables as 
+unchanged. The stress reinvestment rate is the applicable rate from these IAIS published yield 
+curves, where the tenor is selected based on the average liability duration. 
+807. Where insurance liabilities are undiscounted (eg US short -term insurance liabilities), 
+short-term insurance liability values remain unadjusted  and interest rate stresses are not 
+applied. 
+9.1.10.2.1.3 Assets 
+808. For assets measured at market value, the stress is the same as that u sed in the 
+standard method. 
+809. For assets measured at amortised cost (eg loans, bonds classified as held to maturity 
+or held for reserves as in Japan), interest rate risk stresses have no impact. 
+810. Where unrealised gains and losses are reversed in capital resources via the AOCI 
+adjustment (See Section 9.1.8.1.1), assets are essentially being measured at amortised cost.  
+The interest rate stresses, applied through the change in asset value is offset by the change 
+in the AOCI adjustment. Therefore, the net impact of the stress is zero, or the same as for 
+assets measured at cost. 
+9.1.10.2.1.4 Calculation and reporting 
+811. IAIGs should follow the instructions p rovided in Section 7.3.2 Interest Rate Risk with 
+the adaptations that are noted above for non -interest sensitive assets and liabilities and 
+liabilities discounted using a book yield. Balances that are not subject to stresses per the 
+specifications should be included in the Template pre-stress table and reported in the post-
+stress tables as unchanged.   
+812. There are tables to report stress information  in the worksheet ICS Insurance Risk 
+Charges.G+. 
+813. The following is an example of the application of the IRR stress using US and J-GAAP 
+Plus: 
+Example IRR charges                    
+                      
+Balance Sheet under U.S. GAAP 
+Plus   
+Pre       
+Stress 
+Up      
+Stress 
+Down 
+Stress 
+Flat     
+Stress 
+Steep 
+Stress   Applicable Stress   
+Assets at Fair Value   150  120  180  165  135   All as per std mthd   
+Assets at Cost (ie HTM, loans)   20 20 20 20 20   None
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 190 of 247 
+ 
+Assets under the AOCI adjustment   400 400 400 400 400   None   
+      570 540 600 585 555       
+                      
+Liab mkt discount (ie ASU 2018-12)   120  80 150  130 110   All as per std mthd   
+Liab book yield discount (ie FAS 97)   380  360 400  380 380   Up/Down only   
+Liab Undiscounted (ie nonlife)   50 50 50 50 50   None   
+      550 490 600 560 540       
+                      
+                      
+Balance Sheet under J-GAAP Plus                   
+Assets at Fair Value   20  16  24  22  18   All as per std mthd   
+Assets at Cost (ie HFR, HTM, loans)   400 400 400 400 400   None   
+Assets under the AOCI adjustment   150 150 150 150 150   None   
+      570 566 574 572 568       
+                      
+Liab mkt discount (ie guarantees)   120  80  150  130  110   All as per std mthd   
+Liabilities book yield discount    380  360  400 380 380   Up/Down only   
+      500 440 550 510 490       
+                      
+                      
+ 
+9.1.10.2.2 Non-Default Spread Risk 
+9.1.10.2.2.1 Background 
+814. The NDSR stress calculations capture changes in the values of all assets and liabilities 
+that are sensitive to changes in spreads. Assets measured at cost, assets adjusted to cost via 
+the AOCI adjustment, and sovereign assets are excluded from the scope of the NDSR stress. 
+Insurance liabilities are included in the scope of the NDSR stress if the application of the stress 
+results in a re -calculation of spread adjustments used in discounting, as determined for 
+valuation purposes.  
+815. Examples provided under the Interest Rate Risk section 9.1.10.2.1 would apply 
+similarly to NDSR. 
+9.1.10.2.2.2 Liabilities 
+816. For insurance liabilities measured using yield curves based on current market 
+information, the impact of the NDSR stress is calculated by applying the standard method 
+approach.  
+817. For life insurance liabilities that are discounted using a blended rate of a book yield 
+and a reinvestment rate assumption, the NDSR shock is applied to the reinvestment 
+assumption only using the NDSR stressed IAIS yield curves at each tenor for each currency. 
+The reinvestment rate is the applicable rate from the IAIS published yiel d curves, where the 
+tenor is selected based on the average liability duration. There would be an exception to this 
+where the reinvestment rate is based on the government bond rate (eg Japanese life 
+liabilities), in which case the NDSR stress is not applicable.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 191 of 247 
+ 
+818. For insurance liabilities on the J-GAAP balance sheet measured using a government 
+bond yield curve the NDSR stress is not applicable. 
+819. For insurance liabilities that are reported undiscounted (eg US short -term insurance 
+liabilities), stresses are not applicable. 
+820.  
+9.1.10.2.2.3 Assets 
+821. For assets measured at fair value, the NDSR charge is calculated by applying the 
+standard method approach. 
+822. For assets measured at amortised cost, assets adjusted to amortised cost via the AOCI 
+adjustment, and sovereign assets, the NDSR stress is not applicable. 
+9.1.10.2.2.4 Calculation and reporting 
+823. IAIGs should follow the instructions provided in Section 7.3.3 with the adaptations that 
+are noted above for assets and liabilities not sensitive to changes in spreads and US liabilities 
+discounted using a book yield.  Balances that are not subject to stresses per the specifications 
+should be included in the Template pre-stress table and reported in the post-stress tables as 
+unchanged. 
+824. There are tables to report stress information  in the worksheet ICS Insurance Risk 
+Charges.GAAP+. 
+9.1.10.2.3 Real estate risk 
+825. Under th e GAAP Plus approach, the Real Estate risk charge for owner occupied 
+property is calculated as the difference, if positive, of the balance sheet value on the reporting 
+date less 75% of the property’s fair value on the reporting date. If the fair value of s uch a 
+property is not available, the risk charge is 25% of the property’s book value. The risk charge 
+is determined on a property-by-property basis. 
+9.1.10.2.4 Credit risk 
+826. The standard method specifications for Credit risk apply for all GAAP Plus approaches. 
+Debt sec urities that are included in the AOCI adjustment to capital resources should be 
+reported on an amortised cost basis for purposes of determining the Credit risk charge. The 
+credit risk factor will be applied to the amortised cost balances in order to remain  consistent 
+with the valuation method reflected in capital resources.  
+827. IAIGs that have identified debt security investments that are included in their AOCI 
+adjustment to capital resources in the worksheet ICS Balance Sheet.GAAP+ are requested to 
+record these investments in the Credit risk tables on an amortised cost basis. All other 
+investments should continue to be recorded on the same basis as what is reported in the 
+balance sheet, whether that be cost or fair value. A check has been built into the table such 
+that the amount reported as the AOCI adjustment should equal the difference between debt 
+security investments reported in the Credit risk tables versus the balance sheet.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 192 of 247 
+ 
+9.2 Other methods of calculation of the ICS capital requirement (“other methods”) 
+828. The scope for the additional reporting of other methods during the monitoring period is 
+limited to the capital requirement. That is, the valuation and capital resources elements of the 
+ICS will not change as a result of other methods and are the same as those used for the ICS 
+standard method. Other methods should provide the same level of protection as the standard 
+method, which has a target criteria of 99.5% VaR over a one -year time horizon. In addition, 
+other methods must be able to meet the ICPs and the ICS Principles. 
+829. Other methods that will be permitted for additional reporting during the monitoring 
+period, at the option of the GWS are: 
+• Internal models; 
+• Dynamic hedging; and 
+• Supervisor-owned and controlled credit assessment processes: the decision on 
+whether SOCCA processes will be part of the ICS standard method as a national 
+discretion or included in other methods will be made by the IAIS by the end of the 
+monitoring period. 
+830. A decision will be made by the end of the monitoring period whet her these other 
+methods will be included in the implementation of ICS as a PCR. 
+9.2.1 Internal Models 
+ 
+Relevant Worksheet in Template: ICS Other Methods 
+ 
+831. The main goal of internal models is to calculate capital requirements (at the risk level 
+or at the aggregated level) more tailored to the risks borne by the IAIG. Specificities of an IAIG 
+that cannot be captured in the standard method (eg specific risk mitigation arrangements) can 
+be reflected by an internal model. Internal models can also capture risks that are not included 
+in the standard method if these are material for a specific IAIG. Internal models are particularly 
+relevant in the context of IAIGs, which are large and complex insurance groups operating in 
+multiple jurisdictions. 
+832. Ten prerequisites, largely based on ICP 17, have been determined for the submission 
+of internal model results for the ICS capital requirement during the monitoring period.  
+833. In order to submit internal model results as part of the additional reporting during the 
+monitoring p eriod, IAIGs are required to complete a self -assessment template regarding 
+prerequisites 1 to 10 as outlined in the subsequent sections, within which the IAIG must: 
+• Briefly describe the scope of application of the internal model (eg partial or full internal 
+model).  
+• Provide evidence that the internal model to calculate the group capital requirement has 
+been validated independently (Prerequisite 2) (internally or externally) and signed -off 
+by the IAIG’s Board of Directors (Prerequisite 3). 
+• Indicate the degree of compliance of the internal model with prerequisites 4 to 7: 
+o Statistical quality test;
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 193 of 247 
+ 
+o Calibration test; 
+o Use test and governance; and 
+o Documentation standards. 
+• In the case of a partial internal model, the IAIG must also complete the self-assessment 
+template regarding Prerequisites 8 to 10, ie they need to: 
+o Justify the reason for the limited scope of the internal model (ie absence of 
+cherry-picking); 
+o Provide evidence that the resulting ICS capital requirement more appropriately 
+reflects the risk profile of the IAIG; and 
+o Explain how the partial internal model’s and standard method’s results can be 
+integrated. 
+834. Where the prerequisites are not fully met, but the IAIG would like to su bmit internal 
+model results during the monitoring period, then the IAIG should discuss  this with its GWS. 
+Moreover, the IAIG should indicate the reasons for submitting results, despite not meeting all 
+prerequisites, in its self-assessment template along with details of how the internal model does 
+not meet the prerequisites. 
+835. Supervisory approval of the internal model for data submission is not a pre -requisite 
+during the monitoring period. Further, a model does not have to be used for regulatory capital 
+purposes to satisfy the pre -requisites for reporting of internal model results during the 
+monitoring period. 
+836. The specific internal model results to be submitted as part of additional reporting are 
+specified in Section 9.2.1.1. 
+Prerequisite 1 – Description of the scope of application of internal models 
+837. IAIGs must describe the scope of application of their internal model (ie the perimeter 
+of the internal model’s calculation). Two possible approaches are considered for the additional 
+reporting of internal model results during the monitoring period: 
+a. Partial internal model – which involves the replacement of some parts of the standard 
+method calculation. For example: 
+i. One or more risk charges of the ICS standard method capital requirement (eg 
+Market risk);  
+ii. One or more sub-risk charges of the ICS standard method capital requirement 
+(eg Equity risk); 
+iii. One or more risk charges or sub -risk charges not captured by the the ICS  
+standard method capital requirement; or 
+iv. The whole business of the IAIG, or only to one or more major business units or 
+legal entities. 
+b. Full internal model – which involves the replacement of the entire standard method 
+calculation.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 194 of 247 
+ 
+Prerequisite 2: Validation  
+838. Internal model validation requires IAIGs to demonstrate that a rigorous process is in 
+place by which they can establish whether their internal model framework is sound or whether 
+improvements are needed. Validation should enable them to understand the internal model’s 
+capabilities and limitations better and confirm that the internal model and the  supporting 
+processes are adequate and appropriate for the purpose. Validation should be an iterative 
+process by which an IAIG using an internal model periodically refines validation tools in 
+response to changing market and operating conditions. There is n o universal validation 
+method, and the structure of the validation approach depends on the technical specifications 
+of the internal model, its purpose and its intended use. 
+839. ICP 17.13.6 Guidance states “…the insurer should review its own internal model and 
+validate it so as to satisfy itself of the appropriateness of the model for use as part of its risk 
+and capital management processes”. In addition to an internal review, the insurer may 
+consider a regular independent, external review of its internal model by appropriate 
+specialists”. 
+840. ICP 17.18 states, when an insurer uses an internal model to determine regulatory 
+capital requirements, it should: 
+• “… monitor the performance of its internal model and regularly review and validate the 
+ongoing appropriateness of the model’s specifications”; 
+• “… demonstrate that the model remains fit for regulatory capital purposes in changing 
+circumstances against the criteria of the statistical quality test, calibration test and use 
+test”; 
+• “… notify the supervisor of material changes to the internal model made by it…”; 
+• “… properly document internal model changes”; and 
+• “… report information necessary for supervisory review…”. 
+841.  Validation should encompass both quantitative and qualitative elements. While it 
+might be possible to think of validation as a purely technical/mathematical exercise in which 
+outcomes are compared to estimates using statistical techniques, it is insuff icient to focus 
+solely on comparing predictions to outcomes. In assessing the overall performance of an 
+internal model, it is important to assess the overall model and each of its building blocks 
+regarding the structure, governance, data and processes.  
+842. Finally, to achieve an effective validation, an objective challenge is essential. 
+Independent model validation helps IAIGs to evaluate and verify the overall performance of 
+their internal models. Proper independence of the validation function is therefore im portant, 
+whether the validation is internal or external, and individuals performing the validation must 
+possess the necessary skills, knowledge, expertise and experience. 
+Prerequisite 3: Sign-off of the Board of Directors of the IAIG 
+843. This prerequisite aims  to ensure that the Board of Directors has ownership of the 
+internal model, and that the model complies with the validation process prescribed by the 
+internal model governance process.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 195 of 247 
+ 
+844. Moreover, ICP 17 recommends a certain level of engagement by the Board of Directors 
+concerning the internal models as part of the use test, which will be further detailed in the 
+section of prerequisite 6. 
+Prerequisite 4: Statistical quality test 
+845. Building on ICP 17.14 IAIGs need: 
+• “… to conduct a ‘statistical quality test’ which assesses the base quantitative 
+methodology of the internal model, to demonstrate the appropriateness of this 
+methodology, including the choice of model inputs and parameters, and to justify the 
+assumptions underlying the model”; and provide evidence 
+• “… that the determination of the regulatory capital requirement using an internal model 
+addresses the overall risk position of the insurer and that the underlying data used in 
+the model is accurate and complete”. 
+846. The statistical quality test addresses issu es related technical aspects of the internal 
+model, ie: 
+• methodology and assumptions; 
+• coverage of material risks; 
+• data (including external data) and expert judgment; 
+• aggregation of risks and diversification effects; 
+• consistency with the method used for the calculation of technical provisions; 
+• allowance for risk mitigation techniques and future management actions; and 
+• financial guarantees and contractual options. 
+847. The statistical quality test concentrates on the individual building blocks of an internal 
+model. The different elements making up the internal model and the inputs used must pass 
+this test.  
+848. The statistical quality test set out in ICP 17 allows considerable modelling freedom to 
+insurers. For example, ICP 17.14.1 Guidance states that “A range of appro aches could 
+constitute an effective internal model for risk and capital management purposes, and 
+supervisors should encourage the use of a range of different approaches appropriate to the 
+nature, scale and complexity of different insurers and different ris k exposures. There are 
+several different techniques to quantify risk which could be used by an insurer to construct its 
+internal model. In broad terms, these could range from basic deterministic scenarios to 
+complex stochastic models. Deterministic scenarios would typically involve the use of stress 
+and scenario testing reflecting an event, or a change in conditions, with a set probability to 
+model the effect of certain events (such as a drop in equity prices) on the insurer's capital 
+position, in which the underlying assumptions would be fixed. In contrast, stochastic modelling 
+often involves simulating very large numbers of scenarios to reflect the likely distributions of 
+the capital required by, and the different risk exposures of, the insurer”. IAIGs should be at the 
+high end regarding the nature, scale and complexity of the risks borne and the business 
+models and structure and thus it is expected that the modelling approach is commensurate 
+with such risk and business profile.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 196 of 247 
+ 
+849. The statistical quality test also sets the boundaries within which IAIGs should take 
+responsibility for specifying their approach to assess and aggregate risks. In conjunction with 
+internal model validation requirements, the statistical quality test promot es a well-structured, 
+documented and controlled process of model development and refinement which should be 
+consistently applied across the IAIG, including the different modelling areas. For example, ICP 
+17.14.3 Guidance states that “The IAIS considers that an insurer would generally be expected 
+to decide how best to aggregate and account for the risks to the whole of its business. The 
+determination of overall regulatory capital requirements by the internal model should consider 
+dependencies within, as well as across, risk categories. Where the internal model allows for 
+diversification effects, the insurer should be able to justify its allowance for diversification 
+effects and demonstrate that it has considered how dependencies may increase under 
+stressed circumstances”. 
+850. Data used to build the internal model are one of the main drivers of its performance. 
+ICP 17.14.4 Guidance states “Internal models need high -quality data in order to produce 
+sufficiently reliable results. The data used for an internal model s hould be current and 
+sufficiently credible, accurate, complete and appropriate. Hence, a ‘statistical quality test’ 
+should examine the appropriateness of the underlying data used in the construction of the 
+internal model”. ICP 17.14.6 Guidance deals with the use of external data specifying that “… 
+any data not specific to the insurer would need to be carefully considered before deciding it 
+was appropriate for use as the basis for an insurer's ‘statistical quality test’. Even where 
+deemed appropriate, it may  still be necessary to adjust the data to allow for differences in 
+features between the data source and the insurer”. 
+851. There is always a certain amount of expert judgement involved when selecting data 
+for an internal model. To this end, ICP 17.14.7 Guidance  states that “In assessing suitability 
+of data and of other inputs, eg assumptions, to the internal model, expert judgment should be 
+applied and supported by proper justification, documentation and validation”. 
+852. ICP 17.14.8 Guidance stresses the importance that “The methodology should also be 
+consistent with the methods used to calculate technical provisions”. 
+853. Moreover, ICP 17.14.9 states “statistical quality test should also include a review of 
+the internal model to determine whether the assets and products as represented in the model 
+truly reflect the insurer's actual assets and products. This should include an analysis of 
+whether all reasonably foreseeable and relevant material risks have been incorporated, 
+including any financial guarantees and embedded o ptions. Insurers should also consider 
+whether the algorithms used are able to take into account the action of management and the 
+reasonable expectation of policyholders. Testing should include future projections within the 
+model and to the extent practicab le ‘back-testing’ (the process of comparing the predictions 
+from the model with actual experience)”. 
+Prerequisite 5: Calibration test 
+854. ICP 17.15 states IAIG should “… conduct a ‘calibration test’ to demonstrate that the 
+regulatory capital requirement determ ined by the internal model satisfies the specified 
+modelling criteria”. 
+855. The ICP definition of calibration is different from the general definition of calibration 
+used in statistics and actuarial science. For example, model calibration is often defined in 
+statistics as the process of adjustment of the model parameters to obtain a model 
+representation of the processes of interest that satisfies pre-agreed criteria (eg Goodness-of-
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 197 of 247 
+ 
+Fit). ICP 17.15.2 Guidance states “ The ’calibration test’ should be used by the IAIG to 
+demonstrate that the internal model is calibrated appropriately to allow a fair, unbiased 
+estimate of the capital required for the particular risk measure, level of confidence and time 
+horizon specified by the supervisor”. In the case of the ICS st andard method, the calibration 
+target is VaR 99.5% over a one-year time horizon.  
+856. Where an IAIG uses a different confidence interval (eg 99.7% in order to maintain a 
+certain investment grade rating), risk measure (eg TVaR for Cat Risk) or time horizon (eg to 
+ultimate) than the one set out for the ICS standard method capital requirement calculations, it 
+may need to recalibrate its model to the ICS capital requirement target criterion (ie VaR 99.5% 
+over a one year time horizon). Alternatively, the IAIG can pr ovide quantitative evidence on 
+how this outcome compares to the ICS target criterion. 
+Prerequisite 6: Use test and governance 
+857. According to ICP 17.16, IAIGs need: 
+• “… to fully embed the internal model, its methodologies and results, into the insurer’s 
+risk strategy and operational processes (the ‘use test’)”; 
+• their “…Board and Senior management to have overall control of and responsibility for 
+the construction and use of the internal model for risk management purposes, and 
+ensure sufficient understanding of the model's construction at appropriate levels within 
+the insurer's organisational structure”. In particular, insurers need to provide evidence 
+that their Board and Senior management understand the consequences of the internal 
+model's outputs and limitations for risk and capital management decisions; and 
+• “… to have adequate governance and internal controls in place with respect to  the 
+internal model”. 
+858. The use test is, in effect, the evidence that should support the relationship of trust 
+between the supervisor and the regulated group. This trust is needed for the supervisor to 
+gain assurance that the internal model reflects the IAIG’s view of its risks and is used in 
+decision making, and not developed with the purpose of reducing regulatory capital.  
+859. Consistent with ICP 17.16.1 Guidance, the IAIG should demonstrate that its internal 
+model is widely used and plays an important role in risk management and decision-making, at 
+different levels of management in the organisation, and the assessment of the economic and 
+solvency capital.  
+860. Moreover, ICP 17.16.5 Guidance states “The ‘use test’ is a key method by which the 
+insurer can demonstrate that its internal model is integrated within its risk and capital 
+management and system of governance processes and procedures”. In other words, the IAIG 
+must provide evidence that the internal model is fully embedded in its operational and 
+organisational structure and demonstrate that the model remains useful and is applied 
+consistently over time.  
+861. Furthermore, an IAIG “should demonstrate to the supervisor that an internal model 
+used for regulatory capital purposes remains useful and is applied consistently over time and 
+that it has the full support of and ownership by the Board and Senior management”. 
+862. Another key aspect of the use test is that according to ICP 17.16.6 Guidance the IAIG's 
+Senior management is responsible for the design and implementation of the internal model 
+and for ensuring the ongoing appropriateness of the model.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 198 of 247 
+ 
+863. ICP 17.16.7 Guidance also notes that “For a model to pass the ‘use test’ it would be 
+expected that an insurer would have a framework for the model's application across business 
+units. This framework should define lines of responsibility for the production and use of 
+information derived from the model”. 
+864. ICP 17.16.8 Guidance stresses the importance of the governance, communication, 
+challenge and understanding of the model “An internal model should be subject to appropriate 
+review and challenge so that it is relevant and reliable when used by the insurer. The key 
+elements and results from the internal model should be understood by the key personnel within 
+the insurer, including the Board, and not only by those who have constructed it. This 
+understanding should ensure that the internal model remains a useful decision-making tool. If 
+the internal model is not widely understood, it will not be achieving its purpose and adding 
+value to the business. The ‘use test’ is key to ensuring the relevance of the internal model to 
+the insurer’s business”. 
+Prerequisite 7: Documentation standards 
+865. Building on ICP 17.17 the IAIG should “… document the design, construction and 
+governance of the internal model, including an outline of the rationale and assumptions 
+underlying its methodology”. ICP 17.17 states fur ther that “The supervisor requires the 
+documentation to be sufficient to demonstrate compliance with the regulatory validation 
+requirements for internal models, including the statistical quality test, calibration test and use 
+test. 
+866. The main aims of the documentation are: 
+• reducing key person risk; 
+• facilitating the supervisory review and approval of the model; 
+• facilitating Senior Management’s understanding; and 
+• recognising the weaknesses of the model. 
+867. As stated in the ICP 17.17.1 Guidance, documentation should be thorough, detailed 
+and complete enough to be “… sufficient for a knowledgeable professional in the field to be 
+able to understand its design and construction. This documentation should include 
+justifications for and details of the underlying methodology, assumptions and quantitative and 
+financial bases, as well as information on the modelling criteria used to assess the level of 
+capital needed”. 
+868. Moreover, ICP 17.17.2 Guidance states, “The insurer should also document, on an 
+ongoing basis, the development of the model and any major changes, as well as instances 
+where the model is shown to not perform effectively. Where there is reliance on an external 
+vendor/supplier, the reliance should be documented along with an explanation of the 
+appropriateness of the use of the external vendor/supplier”. 
+Prerequisite 8: Absence of cherry-picking 
+869. According to ICP 17.12.4 Guidance, “The IAIS supports the use of internal models 
+where appropriate as they can be a more realistic, risk -responsive method  of calculating 
+capital requirements, but discourages any ‘cherry-picking’ practices by insurers”.  
+870. From a supervisor’s perspective, the possibility of mixing and matching internal models 
+for some risks and businesses while using the standard method for th e rest of the risks or
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 199 of 247 
+ 
+businesses raises potential concerns about cherry-picking. To help mitigate these concerns, 
+consistent with ICP 17.12.14 Guidance, the IAIG should “… justify why it has chosen to only 
+use internal models for certain risks or business lines”. To this end, the IAIG should provide in 
+its self-assessment the rationale for the limited scope of the internal model. 
+Prerequisite 9: The resulting ICS capital requirement more appropriately reflects the risk profile 
+of the insurer 
+871. According to ICP 17.12.15, “…an insurer should be required to justify the limited scope 
+of the model and why it considers that using partial internal modelling for determining 
+regulatory capital requirements is more consistent with the risk profile of the business than the 
+standardised approach or why it sufficiently matches regulatory capital requirements”. 
+Prerequisite 10: Explain how the partial internal model and standard method’s results can be 
+integrated 
+872. It is essential that the integration of the partial internal model and the standard method 
+results is being carried out prudently and consistently to derive the overall ICS capital 
+requirement. To this end, the IAIG should provide evidence that the partial internal model and 
+standard method results can be integrated. This prerequisite is particularly relevant for IAIGs 
+whose internal model construction does not follow a similar design as the standard method 
+(eg risks have not been defined or split along similar lines as in the standard method, the 
+target criteria are different, etc.). 
+9.2.1.1 Reporting of Internal Model Data 
+873. Internal models may not be structured in the same way as the ICS. To facilitate the 
+analysis, IAIGs are requested to provide data using two different approaches: 
+a. Approximate the results in a way similar to the structure of the ICS and its components 
+(ie 99.5% VaR over a one-year time horizon), and 
+b. Use the results from their own internal model. 
+9.2.1.1.1 Internal model required capital 
+874. As IAIGs may use various risk measures, time horizons, confidence le vels and 
+assumptions within their internal models, it is requested that IAIGs provide the specifications 
+of their internal models (risk measure, time horizon, confidence level) as well as their internal 
+model results using these specifications. In the Ques tionnaire and Template, IAIGs should 
+explain differences in the definition of risks, issues in restructuring internal models results, 
+significant details about their internal model specifications (main assumptions, distribution and 
+parameters used), methods used for the aggregation of internal model results as well as an 
+indication of the materiality of the differences. 
+875.  The risk charges should be provided using the same structure as in the ICS (using the 
+ICS definitions for each risk). Where risk charges c an only be reported at a high level of 
+aggregation, for example, if total market risk is reported instead of its components interest rate 
+risk, equity risk, etc. separately, only that aggregated figure should be reported. Where IAIGs 
+can approximate the mo re granular risk charges credibly, please complete the additional 
+granular data request. 
+876. There are two automatically computed columns to facilitate comparison of ICS and 
+internal model results. These columns show:
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 200 of 247 
+ 
+a. The ICS risk charges for different risk categories; and 
+b. A percentage difference between the ICS and internal model risk charges. 
+877. If the ICS and internal model risk charges differ, IAIGs should provide additional 
+information in the Questionnaire. 
+878. IAIGs may submit data for internal models that have been approved by their GWS to 
+calculate regulatory capital requirements as well as internal models for internal risk 
+management purposes that are not subject to regulatory approval. IAIGs should specify 
+whether their GWS has approved the internal model. If the option “Other” is chosen in any of 
+the dropdown menus, additional information should be provided in the Questionnaire. 
+9.2.1.1.2 Internal model required capital (using own classification of risks) 
+879. Risk charges should be provided according to the structure of the IAIG’s internal 
+model, which can be different from that used in the reference ICS. IAIGs should indicate the 
+risk measure, time horizon and confidence level used. IAIGs should also provide information 
+as to whether the model has been approved by their GWS. Risk charges should be reported 
+at the same level of granularity as in the table Internal model required capital (ie sub-module 
+risk charges, where available).  
+880. IAIGs should also report which risk modules from the reference ICS are c overed by 
+their risk modules. For example, an IAIG’s risk module “business risk” may cover operational 
+risk, and all types of expense and lapse risks (life and non-life). 
+9.2.1.1.3 Economic balance sheet items 
+881. IAIGs should complete the table Balance sheet indicating the changes between their 
+economic balance sheet and the MAV balance sheet. Details on the valuation basis, including 
+the approach to discounting liabilities, should be provided in the Questionnaire.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 201 of 247 
+ 
+9.2.2 Dynamic Hedging 
+ 
+Relevant Worksheet in Template: ICS Other Methods 
+ 
+882. The reference ICS does not make allowance for the effect of market risk mitigation 
+techniques in the capital requirement beyond the basis of assets and liabilities existing at the 
+reporting date of the ICS calculation. The principles of the ICS standard me thod ensure that 
+the only risk mitigation arrangements recognised are those that mitigate risk borne by the IAIG 
+as at the reporting date of the calculation. 
+883. Dynamic hedging arrangements are not recognised for their risk mitigating properties 
+as this would  conflict with this principle for the standard method. This is because the risk 
+charges in the standard method are calculated using instantaneous shocks which, by their 
+construction, do not capture any mitigating effects of subsequent hedging adjustments. 
+884. However, IAIGs are able to provide relevant information on dynamic hedging 
+programmes in order to support a future decision on its inclusion in the ICS. The IAIS is 
+examining whether there are any other methods for valuing these arrangements that could 
+better reflect the risk exposures of IAIGs and be incorporated into the ICS, rather than using 
+the standard method for specific products and risks. 
+9.2.2.1 Reporting of Dynamic Hedging Data 
+885. In order to report dynamic hedging results as part of other methods of calcul ation of 
+the ICS capital requirement, IAIGs must meet the following criteria: 
+a. The IAIG has a clearly defined hedging strategy which identifies:  
+i. The specific risks being hedged (eg, cash flow, policy interest credits, delta, 
+rho, vega, etc.);  
+ii. The hedge objectives;  
+iii. The risks that are not hedged (eg, variation from expected mortali ty, 
+withdrawal, and other utilis ation or decrement rates assumed in the hedging 
+strategy, etc.); 
+iv. The financial instruments used to hedge the risks; 
+v. The hedge trading rules , including the permitted tole rances from hedging 
+objectives; 
+vi. The metrics for measuring hedging effectiveness; 
+vii. The criteria used to measure hedging effectiveness; 
+viii. The frequency of measuring hedging effectiveness; 
+ix. The conditions under which hedging will not take place; 
+x. The person or persons responsible for implementing the hedging strategy; 
+xi. Areas where basis, gap or assumption risk related to the hedging strategy have 
+been identified; and
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 202 of 247 
+ 
+xii. The circumstances under which hedging strategy will not be effective i n 
+hedging the risks. 
+b. The IAIG effectively manages the uncertainty associated with the company’s ability to 
+implement any required hedging strategy in a timely and effective manner; 
+c. The IAIG manages the effectiveness of hedging arrangements; 
+d. The IAIG has access to suitable hedge instruments in the future; 
+e. The IAIG  ensures a matched asset and liability profile within 12 months can be 
+achieved for this type of product, particularly given the risks that exist for these types 
+of products beyond 12 months (eg ratchets and path dependencies); 
+f. The IAIG allows for any discretions available; and 
+g. The IAIG allows for management corrective action to achieve a matched asset and 
+liability profile within 12 months. 
+886. If the above criteria are met then, for liabilities where d ynamic hedging is applied, the 
+ICS risk charges (eg Equity or Currency risk) can be determined using the following formula: 
+𝐼𝐶𝑆 𝑟𝑖𝑠𝑘 𝑐ℎ𝑎𝑟𝑔𝑒 
+= 𝐸 × 𝑟𝑖𝑠𝑘 𝑐ℎ𝑎𝑟𝑔𝑒 𝑖𝑛𝑐𝑙𝑢𝑑𝑖𝑛𝑔 ℎ𝑒𝑑𝑔𝑖𝑛𝑔 
++ (1 − 𝐸) × 𝑟𝑖𝑠𝑘 𝑐ℎ𝑎𝑟𝑔𝑒 𝑑𝑒𝑡𝑒𝑟𝑚𝑖𝑛𝑒𝑑 𝑢𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑠𝑡𝑎𝑛𝑑𝑎𝑟𝑑 𝑚𝑒𝑡ℎ𝑜𝑑 
+where: 
+Risk charge including hedging  = the risk charge recognising the impact of dynamic 
+hedging within the calculation. The quantum of the stress should remain the same as 
+that of the standard method risk charge, but can be modelled so that it occurs over the 
+course of the one-year time horizon;  
+Risk charge determined using the standard method  = the risk charge for asset and 
+insurance risks assuming there is no dynamic hedging, but an allowance may be made 
+for hedge positions that exist at the reporting date; and 
+E = an effectiveness factor that reflect s the level of sophistication of the dynamic 
+hedging in the model. 
+887. In determining E, the following applies: 
+a. E is calculated by the IAIG but must be reviewed and agreed by its GWS 
+b. E cannot be greater than 70%  because most models would include at least some 
+approximations or idealistic assumptions; 
+c. If certain economic risks are not hedged, yet the model does not generate scenarios 
+that sufficiently capture those risks, E must be in the lower end of the range of 0% to 
+70%; 
+d. IAIGs that do not have 12 months  of experience to date must set E to a value no t 
+greater than 30%; and 
+e. The ultimate effect of the current hedging strategy (including currently held hedge 
+positions) needs to recognise all: 
+i. risks;
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 203 of 247 
+ 
+ii. associated costs; 
+iii. imperfections in the hedges; and 
+iv. hedging mismatch tolerances associated with the hedging strategy. 
+888. The risks referred to above include, but are not limited to: 
+a. Basis; 
+b. Gap; 
+c. Price; 
+d. Parameter estimation; and 
+e. Variation in any assumptions (mortality, lapses, annuitisation, etc.). 
+889. The costs referred to above include, but are not limited to: 
+a. Transaction, margin (opportunity costs associated with margin requirements); and 
+b. Administration.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 204 of 247 
+ 
+10 Supplementary Information 
+10.1 Alternative Balance Sheet 
+ 
+Relevant Worksheet in Template: Alt.ICS Summary 
+Alt.Balance Sheet 
+Alt.Impact allocation 
+Alt.Insurance Risk Charges 
+ 
+890. In order to inform future discussions on the design of the MAV discounting approach, 
+the IAIS is collecting supplementary information as part of the annual confidential reporting. 
+The intention of the Alternative Balance Sheet is to capture an alternative approach to MAV 
+discounting. The following proposals will be used for the Alternative Balance Sheet: 
+a. Change in eligibility criterion 135d for the Middle Bucket; 
+b. Allowance of multiple Middle Bucket portfolios in a single currency; 
+c. Use of a spread term structure to obtain General and Middle Bucket yield 
+curves; 
+d. Differentiated treatment of non-fixed income assets in the determination of 
+spread adjustments; and 
+e. Introduction of a modulation factor, 𝜔, for the General and Middle Buckets. 
+891. The invested assets, insurance liabilities, reinsurance, deferred tax balances and the 
+AOCI adjustment (if applicable), and any other material items should be calculated under the 
+prescribed alternative scenario. The alternative scenario should be applied to the portion of 
+the balance sheet labelled Related to Insurance Activities. 
+892. IAIGs are encouraged to recalculate  individual ICS risk charges for which material 
+changes are expected using the alternative MAV approach, particularly Interest Rate risk and 
+Non-Default Spread risk. These can be reported in the worksheet Alt.Insurance Risk Charges. 
+893. IAIGs should provide an estimate of the impact of each individual proposal on capital 
+resources and the ICS capital requirement  in the work sheet Alt.Impact allocation . These 
+estimates should be based on the reference ICS  with one single proposal additionally 
+included. For example, the impact of the change to Middle Bucket criterion d) is based on the 
+reference ICS with only that criterion changed .  IAIGs are not expected to re -run their 
+calculations, but rather provide a high-level estimate of the expected individual impacts. 
+10.1.1 Discounting 
+10.1.1.1 Middle Bucket criterion d 
+894. Paragraphs 117-134 remain unchanged.  
+895. Criterion 135d is replaced by: The total market value of assets identified for this 
+portfolio is, at the reporting date, greater than the current estimate of the liabilities calculated 
+using the General Bucket yield curve. For the calculation of the total market value of assets,
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 205 of 247 
+ 
+all assets identified for this portfolio are taken into account, irrespective of their classification 
+in Table 4. 135a,b,c and e remain unchanged. 
+896. Paragraphs 136-153 remain unchanged. 
+10.1.1.2 Multiple Middle Bucket Portfolios in a Single Currency 
+897. Paragraph 154 is replaced by: The Middle Bucket spread adjustment is a group -wide 
+adjustment calculated using the WAMP approach based on the eligible assets backing the 
+Middle Bucket liabilities. The Middle  Bucket spread adjustment is portfolio specific within a 
+single currency. 
+898. Paragraphs 155-156 remain unchanged. 
+10.1.1.3 Spread Term Structure and Differentiated Treatment of Non-Fixed Income Assets 
+899. Paragraph 157 is replaced by: The 𝑊𝑎𝑚𝑝𝑠𝑝𝑟𝑒𝑎𝑑(𝑡) at maturity 𝑡 for a given portfolio is 
+calculated as follows: 
+𝑊𝑎𝑚𝑝𝑠𝑝𝑟𝑒𝑎𝑑(𝑡) = 
+𝑤𝑔𝑜𝑣 × 𝑠𝑝𝑟𝑒𝑎𝑑𝑔𝑜𝑣 𝑎𝑓𝑡𝑒𝑟 𝑅𝐶(t) 
++𝑤𝐼𝐶𝑆 𝑅𝐶1 × 𝑠𝑝𝑟𝑒𝑎𝑑𝐼𝐶𝑆 𝑅𝐶1 𝑎𝑓𝑡𝑒𝑟 𝑅𝐶(𝑡) 
++𝑤𝐼𝐶𝑆 𝑅𝐶2 × 𝑠𝑝𝑟𝑒𝑎𝑑𝐼𝐶𝑆 𝑅𝐶2 𝑎𝑓𝑡𝑒𝑟 𝑅𝐶(t) 
++ ⋯ 
++𝑤𝑁𝑜𝑛 𝑒𝑙𝑖𝑔𝑖𝑏𝑙𝑒 × 0 
+where: 
+- 𝑤𝑔𝑜𝑣 is the weight of government bonds; 
+- 𝑤𝐼𝐶𝑆 𝑅𝐶𝑖 is the weight of debt instruments belonging to ICS rating category i; 
+- 𝑤𝑛𝑜𝑛−𝑒𝑙𝑖𝑔𝑖𝑏𝑙𝑒 is the weight of non -eligible assets in the total portfolio of assets for 
+that currency . Weights in the portfolio are computed after exclusion from the 
+portfolio of 50% of the assets listed as non-eligible in Table 4 in paragraph 139; 
+- 𝑠𝑝𝑟𝑒𝑎𝑑𝑔𝑜𝑣 𝑎𝑓𝑡𝑒𝑟 𝑅𝐶(𝑡) is the spread after risk correction corresponding to 
+government bonds with maturity 𝑡. When a government bond rate  is used for the 
+risk-free yield curve, the applied spread is nil; and 
+-  𝑠𝑝𝑟𝑒𝑎𝑑𝐼𝐶𝑆 𝑅𝐶𝑖 𝑎𝑓𝑡𝑒𝑟 𝑅𝐶(𝑡) is the spread after risk correction corresponding to  debt 
+instruments with maturity 𝑡 that belong to ICS rating category i. 
+ 
+Example: Consider a portfolio consisting of 100 monetary units (MU) government 
+bonds, 20 MU corporate bonds ICS RC1, 40 corporate bonds ICS RC2 and 10 MU 
+cash and 80 MU of non -eligible assets. Then, the weights are  computed in the 
+following way. The value of assets used for the computation is 
+100+20+40+50%∙80=200 (cash is excluded as well as 50% of non-eligible assets). 
+Then the weights are obtained by taking 𝑤𝑔𝑜𝑣 = 100/200, 𝑤𝐼𝐶𝑆 𝑅𝐶1 = 20/
+200, 𝑤𝐼𝐶𝑆 𝑅𝐶2 = 40/200, 𝑤𝑛𝑜𝑛−𝑒𝑙𝑖𝑔𝑖𝑏𝑙𝑒 = 40/200
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 206 of 247 
+ 
+900. Paragraph 158-160 remain unchanged. 
+10.1.1.4 Modulation Factor 
+901. Paragraph 161 is replaced by: The final spread (𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝑀𝐵(𝑡)) at maturity 𝑡 applied 
+to the yield curve is computed such that the spread adjustment for the Middle Bucket is greater 
+than or equal to the spread adjustment for the General Bucket. 
+𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝑀𝐵(𝑡)
+= 𝜔 (80% × (1 − 𝑇𝑂𝑀) × 𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝐺𝐵(𝑡)
++ 90% × 𝑇𝑂𝑀 × max [𝑊𝐴𝑀𝑃𝑠𝑝𝑟𝑒𝑎𝑑(𝑡), 80%
+90% × 𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝐺𝐵(𝑡)]), 
+where 𝜔 is calculated as prescribed in Paragraph 907. 
+902. Paragraph 162 is removed. 
+903. Paragraph 163 is replaced by: The spread adjustment 𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝑀𝐵(𝑡) determined 
+according to this methodology is applied additively to the risk-free rate at each maturity 𝑡 up 
+to year 𝑀. After that maturity 𝑀, the spread adjustment is phased out in such a way that the 
+resulting spot curve remains above the spot curve for the corresponding General Bucket. 
+904. Paragraph 164 is replaced by:  The spread adjustment for the General Bucket 
+(𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝐺𝐵(t)) is provided by the IAIS, based on a representative portfolio that reflects the 
+assets typically held by IAIGs in a particular currency.  𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝐺𝐵(𝑡) takes into 
+consideration the time dependency of spreads. 
+905. Paragraphs 165-167 remain unchanged.  
+906. Paragraph 168 is replaced by: The spot rate for the General Bucket yield curve is 
+computed as follows: 
+𝑟𝐺𝐵(𝑡) = 𝑟𝑓𝑟(𝑡) + 80% ∙ 𝜔 ∙ 𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝐺𝐵(𝑡) 
+up to the LOT , where 𝑟𝑓𝑟(𝑡) is the risk -free spot rate at maturity 𝑡 and 𝜔 the IAIG specific 
+modulation factor. For Segments 2 and 3 of the adjusted yield curve, the same extrapolation 
+methodology is used as for determining the risk-free yield curve is applied to the adjusted yield 
+curve. 
+907. The modulation factor  𝜔 is computed on a currency basis. It is computed using all 
+assets and liabilities for a single currency, which are sensitive to changes in credit spreads. 
+𝜔 = min (1, max (0, 𝑃𝑉𝐵𝑃𝑈(𝑎𝑠𝑠𝑒𝑡𝑠)
+𝑃𝑉𝐵𝑃𝑈(𝑙𝑖𝑎𝑏𝑖𝑙𝑖𝑡𝑖𝑒𝑠))) 
+where 𝑃𝑉𝐵𝑃𝑈 stands for the price value of a basis point up, and is calculated in the following 
+way 
+𝑃𝑉𝐵𝑃𝑈(𝑋) = 𝑃𝑉(𝑋) − 𝑃𝑉𝑢𝑝(𝑋), 
+where 𝑃𝑉(𝑋) is the current price and 𝑃𝑉𝑢𝑝 the price obtained by applying a parallel shift of one 
+basis point upwards to the relevant yield curve. Changes in cash flows due to the parallel shift 
+of one basis point  should be considered when they are expected to have a non -negligible
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 207 of 247 
+ 
+impact on the ICS coverage ratio. The spot rates of the relevant yield curve 𝑟𝑟𝑒𝑙𝑒𝑣𝑎𝑛𝑡(𝑡) for 
+liabilities are provided by the IAIS and obtained as follows: 
+𝑟𝑟𝑒𝑙𝑒𝑣𝑎𝑛𝑡(𝑡) = 𝑟𝑓𝑟(𝑡) + 80% ∙ 𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝐺𝐵(𝑡) 
+up to the LOT and using the same extrapolation methodology for Segments 2 and 3 as used 
+for determining the risk -free yield curve. Re-calculations should be performed taking into 
+consideration potential changes in cash-flows when interest rates change. The relevant yield 
+curve for assets is the yield curve used to determine the current balance sheet value.  The 
+modulation factor 𝜔 is currency specific.  
+ 
+908. Paragraph 169 remains unchanged. 
+909. Paragraphs 170-173 are removed. 
+  
+Example: The relevant yield curve for an asset will be typically of the form: 
+𝑠𝑝𝑜𝑡 𝑟𝑎𝑡𝑒(𝑡) = 𝑟𝑖𝑠𝑘 𝑓𝑟𝑒𝑒 𝑠𝑝𝑜𝑡 𝑟𝑎𝑡𝑒(𝑡) + 𝑠𝑝𝑟𝑒𝑎𝑑 
+where 𝑠𝑝𝑟𝑒𝑎𝑑 is chosen such that the discounted cash flows using 𝑠𝑝𝑜𝑡 𝑟𝑎𝑡𝑒(𝑡) 
+yield the market value of the asset.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 208 of 247 
+ 
+10.2 Third Party Capital 
+ 
+Relevant Worksheet in Template: Third Party Capital 
+ 
+910. In order to inform discussions on fungibility of capital resources within IAIGs, the IAIS 
+is collecting specific information relating to third party capital as part of the confidential 
+reporting. The information collected in this respect has no impact on t he calculation of ICS 
+ratios. 
+911. For each financial instrument reported in the worksheet Financial Instruments, IAIGs 
+should indicate in the columns Supplementary information on third party capital of the Data 
+Input Table whether or not an instrument was issued by a consolidated subsidiary of the IAIG 
+and is held by third parties , and whether the  instrument generates a non-controlling interest 
+(eg ordinary shares). Where an IAIG reports information about a financial instrument that has 
+been issued by a consolidated subsidiary to third parties, it should provide additional 
+information in the worksheet Third Party Capital. 
+912. IAIGs should also provide the following data in the worksheet Third Party Capital for 
+each consolidated subsidiary that has issued financial instrument(s) to third parties: 
+a. The subsidiary’s total liabilities; 
+b. The subsidiary’s equity and subordinated debt; and 
+c. The subsidiary’s equity and subordinated debt attributable to third party investors. 
+913. This data should not be reported on an ICS basis, but rather as recognised in the local 
+balance sheet. For the avoidance of doubt, the local unconsolidated GAAP of  the issuing 
+subsidiary should be used, even if sub-consolidated accounts exist.  
+914. Where an amount is reported in the worksheet GAAP and ICS Balance Sheets for non-
+controlling interest (other than financial instruments) attributable to the IAIG’s subsidiary , a 
+break-down of the reported amount (by subsidiary) should also be provided in the worksheet 
+Third Party Capital. The total figure reported in the worksheet Third Party Capital in respect of 
+all consolidated subsidiaries that have issued financial instru ments to third parties and, as 
+applicable, generate non-controlling interests, should reconcile to the total figure reported in 
+the equity section of the balance sheet in worksheet GAAP and ICS Balance Sheets.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 209 of 247 
+ 
+10.3 Regulatory Reserves 
+ 
+Relevant Worksheet in Template: Regulatory Reserves 
+ 
+915. Regulatory reserves (or accumulated profits) are appropriated or set aside by an IAIG 
+for a specific subset or class of risks and are released and available to absorb losses relating 
+to a specific subset or class of risks upon a specific event or set of circumstances. 
+916. Regulatory reserves appear in statutory accounts for legal entities as a result of a 
+prudential, tax or legal provision. As the ICS begins with GAAP financial reporting, regulatory 
+reserves should not appear in the IAIG’s consolidated accounts under the reference ICS. 
+917. IAIGs should fill in the worksheet Regulatory Reserves by indicating, for all regulatory 
+reserves across relevant legal entities in the group: 
+• The name of the legal entity; 
+• The name of the regulatory reserve; for this purpose, IAIGs should make use of the list 
+provided in  Table 40 below. If a given reserve is not listed, IAIGs should indicate 
+“Other”, and enter the statutory name of their reserve in the next column; 
+• The type of regulatory reserve, restricted or unrestri cted. Further instructions with 
+respect to the type of regulatory reserve are provided in paragraphs 918 to 920; 
+• The amount of the regulatory reserve, as reported in the legal entity’s statutory 
+accounts; 
+• The accounting basis used (eg Solvency II, US RBC, Japan Statutory, etc.); and 
+• Any information the IAIG considers useful with regard to the transferability and 
+fungibility (or lack thereof) of the regulatory reserve. 
+918. Unrestricted reserves are reserves or profits accumulated by the IAIG that are 
+unappropriated and available to absorb losses from any source in the same way as other Tier 
+1 financial instruments or capital elements. Further, reserves that have been appropriated or 
+specifically allocated under legislative or supervisory authority for a particular risk or subset of 
+risks and that may become unrestricted may be classified as unrestricted reserves, subject to 
+the following conditions: 
+a. The GWS re-characterises or designates the reserve as unrestricted and available to 
+absorb losses from any source in the same way as qualifying Tier 1 capital instruments 
+or elements. This supervisory re-characterisation or designation is not contingent upon 
+a specific event or set of circumstances. The release of the reserve generates retained 
+earnings and is subject to supervisory notification or approval. 
+b. Where supervisory notification or approval is required: 
+i. The circumstances of such supervisory notification or approval occur under 
+going concern conditions. 
+ii. Supervisory approval would not be unreasonably withheld as evidenced by 
+prior approvals or explicit supervisory acknowledgement that approval would 
+not be unreasonably withheld.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 210 of 247 
+ 
+919. Restricted reserves are rese rves or profits accumulated by the IAIG that are 
+appropriated and set aside for a specific subset or class of risks and that would only be 
+released and available to absorb losses relating to a specific subset or class of risks upon a 
+specific event or set of circumstances. In winding-up, restricted reserves would be available 
+to absorb losses related to all policyholder claims.  
+920. The following table includes a list of different types of reserves with their expected 
+classification as restricted or unrestricte d according to the definitions set out above. IAIGs 
+should refer to this list in order to fill in the worksheet Regulatory Reserves. Where an IAIG 
+has a regulatory reserve that is not included in the table, it should consult with its supervisor 
+to determine the appropriate classification. 
+Table 40: Classification of specific types of reserves 
+Reserve Classification 
+Provision for Bonuses and Rebates (Germany)  Unrestricted 
+FX Volatility Reserve (Chinese Taipei) Restricted 
+Legal Capital Reserve and Special Capital Reserve for 
+Revaluation Increments of Property (Chinese Taipei) 
+Unrestricted 
+Special Claim Reserve (Chinese Taipei) Restricted 
+Claim Fluctuation Reserve (Chinese Taipei) Unrestricted 
+Emergency Risk Reserve (South Korea) Restricted 
+Legal Reserve (South Korea) Unrestricted 
+Reserve for Business Rationalisation (South Korea) Unrestricted 
+Voluntary Reserve (South Korea) Unrestricted 
+Contingency Reserves (Japan) Unrestricted 
+Price Fluctuation Reserve (Japan) Unrestricted 
+Catastrophe Reserve (Japan) Unrestricted 
+Merger reserves (UK, South Africa) Unrestricted 
+Share Premium Reserve (UK) Unrestricted 
+Safety Reserve (UK) Unrestricted 
+Asset Valuation Reserve (US Stat) Unrestricted 
+Interest Maintenance Reserve (US Stat) Unrestricted 
+General Risk Reserves (China) Unrestricted
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 211 of 247 
+ 
+Regulatory Surplus Reserves (China) Unrestricted 
+Excess loan loss reserve (IAIGs with a banking subsidiary) Restricted 
+Premium on Non-Controlling Interest (Australia) Unrestricted 
+Foreign Currency Translation Reserve (Netherlands) Unrestricted
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 212 of 247 
+ 
+10.4 Commercial Mortgages 
+ 
+Relevant Worksheet in Template: Commercial Mortgages 
+ 
+921. In order to inform the discussions of a potential refinement of the ICS credit risk factors 
+associated with commercial mortgage loans, the IAIS is collecting specific information relating 
+to the loan portfolios of IAIGs within the Questionnaire.  The information collected in this regard 
+has no impact on the calculation of ICS ratios. 
+922. IAIGs are asked to provide the following data on a best efforts basis: 
+a. For Template table Location of Risk – Geographical concentration 
+IAIGs should report the geographical concentration of its commercial mortgage loan 
+portfolio on a per country basis for the five largest property/loan locations. IAIGs should 
+also report the percentage of the loan portfolio that this location represents. 
+b. For Template table Portfolio Performance – Annual Default & Loss History 
+The purpose of the table is to obtain some insight on loan portfolio performance during 
+the pre-crisis, lead-up to the crisis, and post crisis period. For 2009 through 2021, 
+IAIGs are requested to provide loans outstanding at the beginning of each year and 
+defaults during each year, measured by number of loans. IAIGs are also requested to 
+provide annual loss experience (charge-offs) for each year.   
+c. For Template table Portfolio Performance – Annual Performance by Cohort Level 
+IAIGs should create annual cohorts (year-end portfolio slices) by mapping the loans to 
+each ICS CM class (CM1 through CM5). Loans outstanding and defaults for each year 
+should be reported, preferably, by number of loans and, if possible, also by exposure 
+amounts. If data by annual cohort is not available, IAIGs may provide annual data on 
+a loan-by-loan basis.  
+In an effort to better understand the loss experience of commercial loan portfolios 
+compared to that of the bond market, IAIGs are requested to specify average coupon 
+rates along with the related average LTVs and average  DSCRs, by year of loss 
+incidence and ICS CM class, or in aggregate by year. If average coupon rates are 
+unavailable, please provide average 5-year and 10-year rates of return.  
+d. For Template table Portfolio Performance - 10 Years cumulative default 
+IAIGs should create annual cohorts of loan originations by year by mapping the loans 
+to each ICS CM classes (CM1 through CM5). Loans originated and defaults for each 
+year should be reported, preferably, by number of loans  and, if possible, also by  
+exposure amounts. If data by annual cohort is not available, IAIGs can provide annual 
+data on a loan-by-loan basis. 
+923. Commentary can be provided on any aspect of the information requested in this 
+supplementary data collection or otherwise, which would enable the IAIS to better understand 
+an IAIG’s commercial mortgage loan portfolio performance and experience.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 213 of 247 
+ 
+10.5 Segmentation of Investments 
+ 
+Relevant Worksheet in Template: Inf.Summary 
+Inf.Infrastructure 
+Inf.Loans and bonds 
+Inf.Strategic equity 
+ 
+924. For 2022 confidential reporting, the IAIS is collecting data on specified investment 
+segments for which there may be sufficient rationale to apply a different treatment / calibration. 
+The segments are: strategic equity and investments in infrastructure debt and equity. 
+925. For purposes of this supplementary data collection: 
+• IAIGs should report their investments according to the MAV approach , excluding 
+investments for which investment risk fully flows through to policyholders. 
+• A look-through approach should be applied to investment funds for which the IAIG has 
+investment risks and which could contain investments falling within the definitions of 
+the specified investment segments. 
+926. In addition to the information relating to their actual invest ments in the asset classes 
+listed in paragraph  924, IAIGs should also indicate (in line [32] of Table T212) the target 
+proportion of their investments in those asset classes at a five-year time horizon, as foreseen 
+by their medium term investment policy if they have such policy, and otherwise based on the 
+expert judgement of a relevant person within the IAIGs organisation. 
+927. It is also important to note that whatever definitions and criteria are retained for those 
+assets, they should not preclude the global ICS framework (and more generally ComFrame) 
+from appropriately addressing the risk of concentration of exposures to a certain entity, group, 
+or sector, as is done for  other asset classes, amongst other to prevent amplifying the 
+interconnectedness of the insurance sector with other financial sectors. In particular, IAIGs 
+should be required to appropriately monitor concentration risk as part of their risk management 
+processes. 
+10.5.1 Strategic Equity 
+10.5.1.1 Background information 
+928. The IAIS would like to collect data from IAIGs on both the full set  of their equity 
+investments, including unconsolidated equity investments in affiliates, joint ventures etc, and 
+the subset of such investments which meet specified criteria for determining if they can be 
+considered as strategic. 
+929. For the purpose of this data collection, an investment in equity will be considered 
+strategic if:  
+a. Based on quantitative evidence, the  IAIG is able to demonstrate to its GWS, on a 
+regular basis, that the value of the strategic equity investment is less volatile than the 
+value of other equities, as a result of both the nature of the investment and the influence 
+exercised by the IAIG. For that purpose, t he IAIG is expected to monitor the value 
+development of the investment over time, and to compare it to the value development 
+of non-strategic investments of a similar category. The reduced volatility of the equity
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 214 of 247 
+ 
+investment’s value is linked  to the influence exercised over the investment, and that 
+this link will persist for at least the following 12 months; 
+b. The nature of the investment is strategic, taking into account all relevant factors, 
+including: 
+i. The existence of a clear decisive strateg y and ability to continue holding the 
+investment for a long period; the demonstration of the ability to hold the 
+investment over a long period should include, but not be limited to, 
+considerations on the profile of insurance liabilities; 
+ii. The existence of a durable link, which may be established by the existence of 
+a stable relationship between two firms over time which results in a close 
+economic bond, the sharing of risks and benefits between them, or exposure 
+to risks from one to the other. Such a link may be demonstrated in the form of 
+the relationship between the two firms, which may include significant 
+ownership, joint products or distribution lines, cross-selling, the creation of joint 
+ventures or other long-term operational or financial links; and 
+iii. The consistency of such strategy with the main policies guiding or limiting the 
+actions of the participation and the IAIG. 
+10.5.1.2 How to fill in the Template 
+930. The data collection on Strategic equity involves filling in a table of line -by-line 
+information (worksheet Inf.Strategic equity) for all the investments in equity the IAIG considers 
+strategic, irrespective of whether they meet the criteria set above. 
+931. In order to fill in the line-by-line table in the worksheet Inf.Strategic equity, IAIGs should 
+apply the following guidance: 
+a. Columns G to L: IAIGs should indicate here whether the eligibility criteria described in 
+paragraph 929 are satisfied. In column H, when needed, IAIGs should further specify 
+whether they can demonstrate lower volatility based on quantitative evidence, 
+qualitative evidence, or both. 
+b. Investment year: IAIGs should indicate here the year when they purchased the 
+reported investment. 
+c. Columns P to AI:  IAIGs should report here the evolution of the fair value of their 
+investment at the end of each year since the investment year, as well as any coupons 
+or dividends received in relation to the reported investments. Year 1 corresponds to 
+the year of investment. 
+932. In addition to the detailed information provided in the worksheet Inf.Strategic equity, 
+IAIGs have the possibility to report aggregated information directly in line [ 21] of table T212. 
+In order to avoid any double counting, this line should b e used only to report figures relating 
+to investments that have not been reported in the line -by-line table in the  worksheet 
+Inf.Strategic equity.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 215 of 247 
+ 
+10.5.2 Infrastructure Investments 
+10.5.2.1 Background information 
+933. The IAIS would like to collect data from IAIGs on investments in infrastructure debt and 
+equity, including the subset of such investments that meet specified criteria, to determine 
+whether they can be considered as having a better risk profile than similar non -infrastructure 
+investments. 
+934. For the purposes of this data collection exercise, the following definitions apply. 
+935. Infrastructure (and by extension, infrastructure assets) means the physical structures, 
+facilities, systems and networks that provide or support essential public services, for example: 
+• Water and was te, including water supply and distribution systems, and wastewater 
+collection and treatment systems; 
+• Energy, including electricity generation, transmission, distribution and storage, oil and 
+gas pipelines, production, distribution and storage of gas (incl. hydrogen); 
+• Transportation assets, including roads, bridges, tunnels, railroads, rapid transit links, 
+seaports, airports, rolling stock (train or bus fleets or other means of transportation if 
+they are used to service public transportation), ground t ransportation equipment, and 
+facilities for alternative transportation (eg charging and refuelling stations); 
+• Digital assets, including telecommunication towers, cable systems, satellite networks 
+and data centres; and 
+• Social infrastructure assets, includin g schools, hospitals, courthouses, other 
+government buildings, social housing, and privately run social infrastructure assets 
+serving a public purpose. 
+936. Table 41 below provides an illustrative view of the different classes of infrastructure 
+assets 
+ 
+Table 41: Infrastructure investments 
+General title What is infrastructure What is not 
+infrastructure 
+What typically makes the 
+infrastructure investment 
+safer 
+Water utilities Water supply/distribution, 
+Waste water collection/ 
+treatment 
+Fixing water pipe 
+leakages (unless 
+as part of 
+maintenance and 
+repair of water 
+supply/distribution 
+systems) 
+Regulation relating to long -
+term concessions or pricing or 
+return-on-assets or profit 
+margin. 
+Waste 
+management 
+utilities 
+Facilities dedicated to 
+waste management , 
+treatment and recycling. 
+Using spare parts 
+from scrapped 
+vehicles for other 
+vehicles. 
+Long-term concessions 
+usually with the involvement 
+of a local government or 
+council.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 216 of 247 
+ 
+Energy 
+(including 
+electricity and 
+gas utilities) 
+Generation / transmission 
+/ distribution / storage / 
+district heating 
+Batteries used in 
+electric cars 
+Insulation of 
+houses.  
+Regulation relating to long -
+term concessions, or pricing, 
+or return -on-assets or profit 
+margin. 
+Transportation Airports / ports / 
+roadways / railway 
+network, rolling stock 
+used to service public 
+transportation, ground 
+transportation 
+equipment, facilities for 
+alternative transportation 
+(charging and refuelling 
+stations) 
+Car, aircraft, boat 
+manufacture 
+ 
+Spare parts for 
+aircrafts, repairs, 
+etc. 
+Long-term concessions or 
+agreements usually with the 
+involvement of a local 
+government or council. 
+ 
+Demand for such services. 
+Digital assets 
+(including 
+Telecom) 
+Core digital and telecom 
+infrastructure such as 
+broadband equipment, 
+optical fibres, 
+telecommunication 
+towers and data centres. 
+Production and 
+selling of 
+telephones 
+Internet Service 
+Provider 
+Long-term contracts, mostly 
+business-to-business. 
+Social 
+infrastructure 
+Infrastructure that 
+provides a service for the 
+public that is regulated or 
+governed by a 
+government or a similar 
+authority (eg courts, 
+prisons, juvenile facilities, 
+schools, universities, 
+libraries, refugee camps, 
+subsidised / social 
+housing, hospitals, et c); 
+or privately run social 
+welfare institutions 
+serving a public purpose. 
+ 
+ 
+The infrastructure facility is 
+consistent with the social 
+policies of the relevant 
+government or public needs of 
+the society. 
+ 
+ 
+937. Infrastructure investments are debt or equity investments in entities that own, finance, 
+develop or operate infrastructure assets. 
+938. Infrastructure investments can be segmented according to different criteria: 
+• The type of investment52: 
+o Equity 
+o Debt 
+▪ Bonds (rated or unrated) 
+ 
+52 Look-through should be applied to investment funds to identify underlying infrastructure investments 
+that are eligible, unless it can be shown that the fund as a whole meets all the definitions and criteria.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 217 of 247 
+ 
+▪ Loans 
+• The type of issuer 
+o Corporate: an infrastructure corporate is an entity or a group that derives the 
+substantial majority of its revenue from owning, financing, developing or 
+operating infrastructure assets; 
+o Project: an infrastructure project entity is an entity which w as created 
+specifically to support, own, financ e, develop or operat e one or several  
+infrastructure assets. 
+NB: with regard to debt financing , loans to infrastructure corporate s are usually 
+unsecured, while loans to infrastructure projects are generally collateralised. 
+• The involvement of the public sector (for instance through a PPP) or absence thereof; 
+• The location of the infrastructure: 
+o Developed markets 
+o Emerging markets and developing economies (EMDEs53) 
+10.5.2.1.1 Criteria to identify less risky subsets of infrastructure investments 
+939. The purpose of the criteria below is to identify subsets of debt and equity infrastructure 
+investments that may be less risky due to their nature and the existence of sufficient 
+investment protection features. 
+10.5.2.1.1.1 Subset of infrastructure corporate investments 
+940. Investments in infrastructure corporate are considered less risky when the investor can 
+demonstrate all54 of the following:  
+a. Revenues generated by the infrastructure assets are predictable, evidenced by: 
+i. Availability-based revenues; 
+ii. Arrangements that are subject to rate-of-return regulations; 
+iii. Arrangements that provide a high degree of contractual or regulatory certainty 
+of payments from future revenues by mitigating demand and/or price risk 
+through concessions; 
+iv. Offtake contracts, such as take-or-pay contracts, or similar; or 
+v. Resilient demand. 
+b. Revenues generated by the infrastructure assets are diversified in terms of activities, 
+location, or payers unless the revenues are subject to rate -of-return regulations or a 
+take-or-pay contract or the revenues are availability-based; 
+c. The debt issue (or, for equity, the equity issuer) is either ICS RC 1-4, or: 
+i. The infrastructure corporate is of strong credit quality; 
+ 
+53 Identified based on the World Bank classification of countries: all countries not classified as high 
+income should be considered as EMDE. 
+54 All the main bullets a -e must be met, by meeting at least one of the sub -bullets i-v under (a), and 
+under (c) either (c) itself or all of i, ii and iii.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 218 of 247 
+ 
+ii. The capital structure of the infrastructure corporate allows debt service under 
+conservative assumptions based on an analysis of the relevant financial ratios; 
+and 
+iii. The infrastructure corporate has been active in its lines of business for at least 
+three years, or in the case of an acquired business it has been in operations 
+for at least three years. 
+d. Where the investment is in bonds or loans, the IAIG is committed  to hold ing the 
+investment to maturity;  where the investment is in equity, the IAIG is committed to 
+holding the investment for a long period; and 
+e. Where the revenues of the infrastructure corporate are not funded by payments from 
+a large number of users, the contractual or regulatory framework includes provisions 
+that effectively protect investors against losses resulting from the termination of the 
+project by the contracted purchaser of the goods or services, and require the 
+contracted purchaser to be of good credit standing 55 or replaceable without a 
+significant loss to debt and equity investors. 
+10.5.2.1.1.2 Subset of infrastructure project investments 
+941. Investments in infrastructure projects are considered less risky when the investor can 
+demonstrate all56 of the following: 
+a. Revenues generated by the infrastructure assets are predictable, resulting from: 
+i. Availability-based revenues or arrangements that are subject  to rate-of-return 
+regulations; 
+ii. Arrangements that provide a high degree of contractual or regulatory certainty 
+of payments from future revenues by mitigating demand and/or price risk 
+through concessions; 
+iii. Offtake contracts, such as take-or-pay contracts, or similar; or 
+iv. Resilient demand. 
+b. The infrastructure project can meet its financial obligations under sustained stressed 
+conditions that are relevant for the risk of the project; and 
+c. The infrastructure project is governed by a regulatory or contractual framew ork that 
+provides debt and equity investors with a high degree of protection, including the 
+following: 
+i. Where the revenues of the infrastructure project are not funded by payments 
+from a large number of users, the contractual framework includes provisions 
+that effectively protect investors against losses resulting from the termination 
+of the project by the contracted purchaser of the goods or services, and require 
+ 
+55 The contracted purchaser is assumed to be of good credit standing if it belongs to the following list: 
+national governments, multilateral development banks, supranational organisations, or other entities 
+with an ICS RC 1-4. 
+56 All the main bullets a-d must be met, by meeting at least one of the sub-bullets i-iv under (a), and all 
+sub-bullets i-iii under (c).
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 219 of 247 
+ 
+the contracted purchaser to be of good credit standing57 or replaceable without 
+a significant loss to debt and equity investors; 
+ii. The infrastructure project has sufficient reserve funds or other fina ncial 
+arrangements to cover its contingency funding and working capital 
+requirements; and 
+iii. For debt investments, the contractual framework provides a strong security 
+package, which includes security in project assets and contracts, restrictions 
+on the use o f net operating cash flows, restrictions on permitted investments 
+and activities, and on the issuance of new debt. Where the IAIG can 
+demonstrate that the security in project assets and contracts is not essential 
+for effective protection or recovery of the  vast majority of its investment, a 
+different secu rity package may be relied upon . In that case, the security 
+package includes at least one of the following: equity pledges, step in rights, 
+lien over bank accounts, control over cash flows, provisions for assignment of 
+contracts. 
+d. Where the investment is in bonds or loans, the IAIG is committed  to hold ing the 
+investment to maturity ; where the investment is in equity, the IAIG is committed to 
+holding the investment for a long period. 
+942. In addition to the criteria listed in paragraph 941, investments in infrastructure projects 
+through equity and unrated debt (and debt rated weaker than ICS RC 4) are also subject to 
+the following criteria: 
+a. The risks during the construction phase of the project are significantly mitiga ted, 
+resulting from: 
+i. A good expertise and a track record of the sponsor of successfully overseeing 
+infrastructure projects; 
+ii. Established incentives for the sponsor to protect the interests of other investors; 
+iii. A limited exposure of investors to the default of the sponsor; 
+iv. Established safeguards to ensure completion of the project according to the 
+agreed specifications, budget and completion date  (including for example 
+completion guarantees or the involvement of an experienced constructor and 
+adequate contract provisions for liquidated damages); and 
+v. The use of tested technology and design. 
+b. The financial risks faced by the infrastructure project are significantly mitiga ted, 
+resulting from: 
+i. The capital structure of the infrastructure project allows it to service its debt 
+under conservative assumptions based on an analysis of the relevant financial 
+ratios; 
+ii. The refinancing risk for the infrastructure project is low; 
+ 
+57 The contracted purchaser is assumed to be of good credit standing if it belongs to the following list: 
+national governments, multil ateral development banks, supranational organisations, or other entities 
+with an ICS RC 1-4.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 220 of 247 
+ 
+iii. The infrastructure project uses derivatives only for risk mitigation purposes; and 
+iv. Debt ranks pari passu or senior to all claims other than statutory claims; and 
+c. Where operating risks are material, they are properly managed. 
+10.5.2.2 How to fill in the Template 
+943. The data collection on Infrastructure investments involves filling in two sets of 
+information: 
+a. A detailed line-by-line table (worksheet Inf.Infrastructure), containing information on all 
+of the IAIG’s investments in infrastructure (irrespective of whether they meet the criteria 
+set above); and 
+b. Historical information on defaults and losses of infrast ructure loans and bonds 
+(worksheet Inf.Loans and bonds). 
+944. In order to fill in the line-by-line table in the worksheet Inf.Infrastructure, IAIGs should 
+apply the following guidance: 
+a. Type of investment: IAIGs should indicate whether the investment is in a Project or a 
+Corporate, following the definitions given in paragraph 938. 
+b. Project phase: this field is applicable to projects only; IAIGs should indicate: 
+o Planning, if the construction has not started yet; 
+o Construction, if the construction is underway; 
+o Operational, if operations have already started; 
+o Liquidation, if the owner is selling the infrastructure to a third party, or if the 
+infrastructure is being dismantled. 
+c. Greenfield / brownfield: this field is applicable to projects only; IAIGs should indicate: 
+o Greenfield, if the project consists of building / operating a new infrastructure; 
+o Brownfield, if the project consists of modifying or upgrading an already existing 
+infrastructure. 
+The key element to consider in order to make the distinction between greenfield 
+and brownfield is the pre-existence of an infrastructure of similar nature as the one 
+envisaged in the project. For example, if the project involves building an add-on to 
+an existing infrastructure asset or completion of a partially built infrastructure asset 
+or rehabilitation of existing assets, this project should be classified as brownfield. 
+d. Type of infrastructure: this field should be filled in using the clas sification provided in 
+Table 41. 
+e. ICS RC (issuance): IAIGs should indicate here the ICS RC of the specific reported 
+instrument, following the specifications provided in Section 3.4. The ICS RC of the 
+issuer should not be used. 
+f. Collateral o r guarantee (value): IAIGs should indicated here the fair value of 
+instruments received as collateral, or the fair value amount of the investment line 
+covered by a guarantee.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 221 of 247 
+ 
+g. Collateral or guarantee (quality): IAIGs should indicate here either Sovereign (i f the 
+issue of the collateral / guarantee is a sovereign entity) or the ICS RC. 
+h. Columns Q to BB: IAIGs should indicate here whether the eligibility criteria described 
+in Subsection 10.5.2.1.1 are satisfied. 
+i. Country: IAIGs should indicate here the country where the infrastructure is built. In 
+case of corporate entities investing in several different countries, IAIGs should indicate 
+where that corporate entity is headquartered. 
+j. Investment year: IAIGs should indicate here the year when they purchased the 
+reported investment. 
+k. Columns BH to CA: IAIGs should report here the evolution of the fair value of their 
+investment at the end of each year since the investment year, as well as any coupons 
+or dividends received in relation to the reported investments. Year 1 corresponds to 
+the year of investment. 
+945. In addition to the detailed information provided in the worksheet Inf.Infrastructure, 
+IAIGs have the possibility to repor t aggregated information directly in line [21] of table T212 
+as well as in lines [3] and |6] of the summary table T213. In order to avoid any double counting, 
+those lines should be used only to report figures relating to investments that have not been 
+reported in the line-by-line table in the worksheet Inf.Infrastructure. 
+946. With respect to historical information on loans and bonds default, IAIGs should report 
+in tables T217 to T219 figures relating to the bonds and loans that would be eligible (or would 
+have been eligible) under the criteria described in Subsection 10.5.2.1.1. 
+947. Table T217 should be filled in with current MAV amounts, for the five countries 
+concentrating m ost of the IAIG’s debt investments in infrastructure (the concentration 
+assessment should be made separately for loans and bonds). 
+948. Table T218 should be filled in with: 
+• The number (column [1]) and MAV amount (column [2]) of loans at the beginning of 
+each year from 2009 to 2021; 
+• The number (column [3]) and total MAV amount at the beginning of each year (column 
+[4]) of the loans having defaulted during that year; and 
+• The amount (column [6])  of actual losses (ie MAV amount beginning of year minus 
+amounts recovered after default) on loans that defaulted during each year. 
+949. Table T219 should be filled in following the same guidance as for table T218, with two 
+differences: 
+• The figures to be reported relate to bonds; and 
+• All of the reported information should be further split by ICS RC.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 222 of 247 
+ 
+Glossary 
+Term Acronym Definition/Reference 
+Accumulated Other 
+Comprehensive 
+Income 
+AOCI See Section 9.1 on “GAAP Plus” 
+Basel Committee 
+on Banking 
+Supervision 
+BCBS https://www.bis.org/bcbs/  
+Common 
+Framework for the 
+Supervision of 
+IAIGs 
+ComFrame https://www.iaisweb.org/page/supervisory-material/insurance-core-
+principles-and-comframe 
+Deferred Tax 
+Assets 
+DTAs See Section 6.3 on “Capital elements other than financial instruments” 
+and Section 8 on “Reference ICS: Tax”  
+Deferred Tax 
+Liabilities 
+DTLs See Section 6.3 on “Capital elements other than financial instruments” 
+and Section 8 on “Reference ICS: Tax” 
+Financial Stability 
+Board 
+FSB http://www.fsb.org/  
+Future 
+Discretionary 
+Benefits 
+FDB See Section 5.2.1.4 
+GAAP with 
+Adjustments 
+GAAP Plus See Section 9.1 on “GAAP Plus” 
+Generally Accepted 
+Accounting 
+Principles 
+GAAP https://en.wikipedia.org/wiki/Generally_accepted_accounting_principles 
+http://www.accountingfoundation.org/gaap  
+Insurance Capital 
+Standard 
+ICS http://www.iaisweb.org/page/supervisory-material/insurance-capital-
+standard  
+ICS Rating 
+Category 
+ICS RC See Section 3.4 
+Insurance Core 
+Principles 
+ICP https://www.iaisweb.org/page/supervisory-material/insurance-core-
+principles-and-comframe  
+International 
+Association of 
+Insurance 
+Supervisors 
+IAIS http://www.iaisweb.org/home  
+International 
+Financial Reporting 
+Standards 
+IFRS http://www.ifrs.org/About-us/IASB/Pages/Home.aspx  
+International 
+Monetary Fund 
+IMF http://www.imf.org/external/index.htm
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 223 of 247 
+ 
+ 
+ 
+  
+Internationally 
+Active Insurance 
+Group 
+IAIG See the ICPs and ComFrame, adopted November 2019  
+ 
+https://www.iaisweb.org/page/supervisory-material/insurance-core-
+principles-and-comframe 
+Last Observed 
+Term 
+LOT See Section 5.2.5 on “Discounting” 
+Long Term Forward 
+Rate 
+LTFR See Section 5.2.5 on “Discounting” 
+Management 
+Actions 
+ See Section 7.1.3 on “Management actions” 
+Margin Over 
+Current Estimate 
+MOCE A margin that exceeds the current estimate in valuation of technical 
+provisions to cover the inherent uncertainty of those obligations.  
+http://www.iaisweb.org/page/supervisory-material/glossary  
+See also ICP 14.7 
+Market-Adjusted 
+Valuation  
+MAV See Section 5 on “Reference ICS: Market-Adjusted Valuation (MAV)” 
+National 
+Association of 
+Insurance 
+Commissioners 
+NAIC http://www.naic.org/  
+Net Asset Value NAV The value of assets minus the value of liabilities. 
+ 
+Non-Default Spread 
+Risk 
+NDSR See Section 7.3.3 on “Non-Default Spread Risk” 
+Supervisor-owned 
+and controlled 
+credit assessment 
+processes 
+SOCCA 
+processes 
+See Section 7.4.4 on “ Supervisor-owned and controlled credit 
+assessment processes” 
+Value at Risk VaR An estimate of the worst expected loss over a certain period of time at 
+a given confidence level 
+http://www.iaisweb.org/page/supervisory-material/glossary  
+Weighted Average 
+of Multiple 
+Representative 
+Portfolios 
+WAMP See Section 5.2.5.3.2 on “Adjustments to the yield curve”
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 224 of 247 
+ 
+ Treatment of Non-Voting Interest Entities (Asset and 
+Insurance Securitisations) 
+Asset Securitisations 
+Insurers must meet all of the following conditions in order to not consolidate a securitisation 
+originated by the group (excerpted from Basel III): 
+a. Significant credit risk associated with the underlying exposures has been transferred 
+to third parties.  
+b. The transferor does not m aintain effective or indirect control over the transferred 
+exposures. The exposures are legally isolated from the transferor in such a way (eg 
+through the sale of assets or through sub -participation) that the exposures are put 
+beyond the reach of the transferor and its creditors, even in bankruptcy or receivership. 
+Banks should obtain legal opinion that confirms true sale.  
+c. The transferor is deemed to have maintained effective control over the transferred 
+credit risk exposures if it: (i) is able to repurcha se from the transferee the previously 
+transferred exposures in order to realise their benefits; or (ii) is obligated to retain the 
+risk of the transferred exposures. The transferor’s retention of servicing rights to the 
+exposures will not necessarily constitute indirect control of the exposures.  
+d. The securities issued are not obligations of the transferor. Thus, investors who 
+purchase the securities only have claim to the underlying exposures.  
+e. The transferee is an SPE and the holders of the beneficial interests in that entity have 
+the right to pledge or exchange them without restriction.  
+f. Clean-up calls must satisfy the following conditions: (i) the exercise of the clean-up call 
+must not be mandatory, in form or in substance, but rather must be at the discretion of 
+the originating bank; (ii) the clean -up call must not be structured to avoid allocating 
+losses to credit enhancements or positions held by investors or otherwise structured 
+to provide credit enhancement; and (iii) the clean -up call must only be ex ercisable 
+when 10% or less of the original underlying portfolio or securities issued remains, or, 
+for synthetic securitisations, when 10% or less of the original reference portfolio value 
+remains.  
+g. The securitisation does not contain clauses that (i) require the originating bank to alter 
+the underlying exposures such that the pool’s credit quality is improved unless this is 
+achieved by selling exposures to independent and unaffiliated third parties a t market 
+prices; (ii) allow for increases in a retained first -loss position or credit enhancement 
+provided by the originating bank after the transaction’s inception; or (iii) increase the 
+yield payable to parties other than the originating bank, such as in vestors and third-
+party providers of credit enhancements, in response to a deterioration in the credit 
+quality of the underlying pool.  
+h. There must be no termination options/triggers except eligible clean -up calls, 
+termination for specific changes in tax and regulation or early amortisation provisions.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 225 of 247 
+ 
+Asset Securitisations 
+Insurers must meet all of the following conditions in order to not consolidate a securitisation 
+originated by the group (excerpted from Solvency II): 
+a. The SPE is any entity other than a n insurer or reinsurer, which assumes risks from 
+(re)insurers through reinsurance contracts or similar arrangements, and which funds 
+in full its risk exposures by issuing debt or any other financing arrangement the 
+repayment rights of which are subordinate d to the reinsurance  obligations of the 
+(re)insurer. 
+b. Where the SPE  assumes risks from more than one (re)insurer, the sol vency of that 
+SPE is not adversely affected by winding -up proceedings of any one of those 
+(re)insurers. 
+c. The SPE meets at all time the following conditions:  
+i. the SPE has at all times assets the market value of which is equal to or exceeds 
+the maximum payments – including expenses – of the SPE, and the SPE  is 
+able to pay the amounts it is liable for as they fall due; 
+ii. the proceeds of the debt issuance or other financing mechanism are fully paid-
+in. 
+d. The contractual arrangements relating to the transfer of risk from a (re)insurer to a SPE 
+and from the SPE to the providers of debt or financing meet the following conditions: 
+i. the transfer of risk is effective in all circumstances; 
+ii. the extent of risk transfer is clearly defined and incontrovertible; 
+iii. the claims of the providers of debt or financing mechanisms are at all times 
+subordinated to the reinsurance obligations of the SPE to the (re)insurers  of 
+the IAIG; 
+iv. no payments are made to the providers of debt or financing, if following those 
+payments the SPE would no longer be fully funded; 
+v. the providers of debt or finance to the SPEs have no rights of recourse to the 
+assets of the (re)insurers; 
+vi. the providers of debt or finance to the SPEs have no rights to apply for the 
+winding-up of the SPE.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 226 of 247 
+ 
+ Definition of ICS Non-Life Segments 
+ICS Segment Definition 
+EEA and 
+Switzerland/Medical 
+expense insurance 
+Insurance obligation that covers the provision or financial 
+compensation for medical treatment or care including preventive or 
+curative medical treatment or care due to illness, accident, disability 
+or infirmity. 
+EEA and 
+Switzerland/Income 
+protection 
+Insurance obligation that covers the financial compensation arising 
+from illness, accident, disability or infirmity (excluding medical 
+expense insurance). 
+EEA and 
+Switzerland/Workers' 
+Compensation 
+Health insurance obligations which relate to accidents at work, 
+industrial injury and occupational diseases and where the 
+underlying business is not pursued on a similar technical basis to 
+that of life insurance. 
+EEA and 
+Switzerland/Motor 
+vehicle liability - Motor 
+third party liability 
+Insurance obligations which cover all liabilities arising out of the use 
+of motor vehicles operating on land (including carrier's liability). 
+EEA and 
+Switzerland/Motor, 
+other classes 
+Insurance obligations which cover all damage to or loss of land 
+vehicles (including railway rolling stock). 
+EEA and 
+Switzerland/Marine, 
+aviation and transport 
+Insurance obligations which cover all damage or loss to sea, lake, 
+river and canal vessels, aircraft, and damage to or loss of goods in 
+transit or baggage irrespective of the form of transport. Insurance 
+obligations which cover liabilities arising out of the use of aircraft, 
+ships, vessels or boats on the sea, lakes, rivers or canals (including 
+carrier's liability). 
+EEA and 
+Switzerland/Fire and 
+other damage 
+Insurance obligations which cover all damage to or loss of property 
+(other than those included in motor (other) and 
+marine/aviation/transport) due to fire, explosion, natural forces 
+including storm, hail or frost, nuclear energy, land subsidence and 
+any event such as theft. 
+EEA and 
+Switzerland/General 
+liability - third party 
+liability 
+Insurance obligations which cover all liabilities other than those in 
+motor vehicle liability and marine, aviation and transport. 
+EEA and 
+Switzerland/Credit and 
+suretyship 
+Insurance obligations which cover insolvency, export credit, 
+instalment credit, mortgages, agricultural credit and direct and 
+indirect suretyship.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 227 of 247 
+ 
+EEA and 
+Switzerland/Legal 
+expenses 
+Insurance obligations which cover legal expenses and cost of 
+litigation. 
+EEA and 
+Switzerland/Assistance 
+Insurance obligations which cover assistance for persons who get 
+into difficulties while travelling, while away from home or while 
+away from their habitual residence. 
+EEA and 
+Switzerland/Miscellane
+ous financial loss 
+Insurance obligations which cover employment risk, insufficiency of 
+income, bad weather, loss of benefit, continuing general expenses, 
+unforeseen trading expenses, loss of market value, loss of rent or 
+revenue, indirect trading losses other than those mentioned above, 
+other financial loss (non-trading) as well as any other risk of non-life 
+insurance not covered by the lines of business above. 
+EEA and 
+Switzerland/Non-
+proportional health 
+reinsurance 
+Reinsurance on a non-proportional basis of health insurance 
+classes. 
+EEA and 
+Switzerland/Non-
+Proportional Casualty 
+reinsurance 
+Reinsurance on a non-proportional basis of casualty classes (motor 
+vehicle liability and general liability). 
+EEA and 
+Switzerland/Non-
+proportional marine, 
+aviation and transport 
+reinsurance 
+Reinsurance on a non-proportional basis of marine, aviation and 
+transport. 
+EEA and 
+Switzerland/Non-
+Proportional property 
+reinsurance 
+Reinsurance on a non-proportional basis of property classes (other 
+motor, fire, credit/suretyship, legal expenses and assistance) 
+Canada/Property - 
+personal 
+Insurance against the loss of, or damage to, property, and includes 
+insurance against loss caused by forgery. It includes such 
+classifications as habitational property and multi-peril policies, 
+including residential contents of buildings such as apartments, 
+rooming houses, motels, manufacturing and mercantile buildings 
+and the liability exposure of personal package policies issued with 
+indivisible premiums. This line would include fire policies, 
+householder contents and homeowner personal risks, residential 
+burglary and theft and special residential glass coverage. Casualty 
+coverage such as personal liability for bodily injury would not be 
+included in this category.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 228 of 247 
+ 
+Canada/Home 
+Warranty 
+Refers to a contract of insurance issued by a warranty provider 
+covering defects in the construction of a new home and 
+consequential losses or costs incurred by the owner.  
+Canada/Product 
+Warranty 
+Insurance not incidental to any other class of insurance against 
+loss of, or damage to, personal property, other than a motor 
+vehicle, under which an insurer undertakes to pay the costs of 
+repairing or replacing the personal property. 
+Canada/Property - 
+commercial 
+Insurance against the loss of, or damage to, property, and includes 
+insurance against loss caused by forgery and all commercial 
+property and multi-peril policies, but excludes all separate classes 
+of insurance as defined by regulators  
+Canada/Aircraft 
+Insurance against: 
+1. liability arising from bodily injury to, or the death of, a person, or 
+the loss of, or damage to, property, in each case caused by an 
+aircraft or the use of an aircraft; or  
+2. the loss of, the loss of use of, or damage to, an aircraft.  
+Canada/Automobile - 
+liability/personal 
+accident 
+Insurance: 
+1. against liability arising from bodily injury to, or the death of, a 
+person, or the loss of, or damage to, property, in each case caused 
+by an automobile or the use or operation of an automobile; or  
+2. that falls within clause (i) or (ii) of the definition of accident and 
+sickness insurance, if the accident is caused by an automobile or 
+the use or operation of an automobile, whether or not liability exists 
+in respect of the accident, and the policy includes insurance against 
+liability arising from bodily injury to, or the death of, a person 
+caused by an automobile or the use or operation of an automobile. 
+Canada/Automobile - 
+other 
+Insurance against the loss of, the loss of use of, or damage to, an 
+automobile.  
+Canada/Boiler and 
+Machinery 
+Insurance against: 
+ 1. liability arising from bodily injury to, or the death of, a person, or 
+the loss of, or damage to, property, or against the loss of, or 
+damage to, property, in each case caused by the explosion or 
+rupture of, or accident to, pressure vessels of any kind or pipes, 
+engines and machinery connected to or operated by those 
+pressure vessels; or 
+2. liability arising from bodily injury to, or the death of, a person, or 
+the loss of, or damage to, property, or against the loss of, or 
+damage to, property, in each case caused by a breakdown of 
+machinery.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 229 of 247 
+ 
+Canada/Equipment 
+Warranty 
+The sub-class of boiler and machinery insurance that covers loss of 
+or damage to a motor vehicle or to equipment arising from its 
+mechanical failure, but does not include automobile insurance or 
+insurance incidental to automobile insurance. 
+Canada/Credit 
+Insurance 
+Insurance against loss to a person who has granted credit if the 
+loss is the result of the insolvency or default of the person to whom 
+the credit was granted.  
+Canada/Credit 
+Protection 
+Insurance under which an insurer undertakes to pay off credit 
+balances or debts of an individual, in whole or in part, in the event 
+of an impairment or potential impairment in the individual’s income 
+or ability to earn an income.  
+Canada/Fidelity 
+Insurance against loss caused by the theft, the abuse of trust or the 
+unfaithful performance of duties by a person in a position of trust; 
+and insurance under which an insurer undertakes to guarantee the 
+proper fulfilment of the duties of an office.  
+Canada/Hail Insurance against the loss of, or damage to, crops in the field 
+caused by hail.  
+Canada/Legal 
+Expenses 
+Insurance against the costs incurred by a person or persons for 
+legal services specified in the policy, including any retainer and 
+fees incurred for the services, and other costs incurred in respect of 
+the provision of the services.  
+Canada/Liability 
+Insurance, other than insurance that falls within another class of 
+insurance:  
+1. against liability arising from bodily injury to a person or the 
+disability or death of a person, including an employee;  
+2. against liability arising from the loss of, or damage to, property; 
+or  
+3. if the policy includes the insurance described in sub-clause (i), 
+against expenses arising from bodily injury to a person other than 
+the insured or a member of the insured’s family, whether or not 
+liability exists. Includes general liability, cyber liability, directors & 
+liability, excess liability, professional liability, umbrella liability and 
+pollution liability. 
+Canada/Mortgage 
+Insurance against loss caused by default on the part of a borrower 
+under a loan secured by a mortgage or charge on, or other security 
+interest in, real property.  
+Canada/Surety 
+Insurance under which an insurer undertakes to guarantee the due 
+performance of a contract or undertaking or the payment of a 
+penalty or indemnity for any default.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 230 of 247 
+ 
+Canada/Title 
+Insurance against loss or damage caused by: 
+1. the existence of a mortgage, charge, lien, encumbrance, 
+servitude or any other restriction on real property;  
+2. the existence of a mortgage, charge, lien, pledge, encumbrance 
+or any other restriction on personal property;  
+3. a defect in any document that evidences the creation of any 
+restriction referred to in sub-clause (i) or (ii);  
+4. a defect in the title to property; or  
+5. any other matter affecting the title to property or the right to the 
+use and enjoyment of property. 
+Canada/Marine 
+Insurance against liability arising from: 
+1. bodily injury to, or the death of, a person; or  
+2. the loss of, or damage to, property; or 
+3. the loss of, or damage to, property, occurred during a voyage or 
+marine adventure at sea or on an inland waterway, or during a 
+delay or a transit other than by water that is incidental to a voyage 
+or marine adventure at sea or on an inland waterway. 
+Canada/ Accident and 
+Sickness  
+Canada/Other 
+Approved Products 
+Insurance against risks that do not fall within another class of 
+insurance.  
+US/ Auto physical 
+damage 
+Any motor vehicle insurance coverage (including collision, 
+vandalism, fire and theft) that insures against material damage to 
+an insured’s vehicle. 
+US/ Homeowners/ 
+Farm owners  
+Homeowners: coverage for personal property and/or structure with 
+broad personal liability coverage, for dwelling, appurtenant 
+structures, unscheduled personal property and additional living 
+expenses. Farm owners: similar, for farming and ranching risks; 
+property + liability coverages for personal and business losses, on 
+farm dwellings and contents (eg mobile equipment and livestock), 
+barns, stables, other farm structures and farm inland marine. 
+US/ Special property 
+Various, including: fire; allied lines; inland marine; earthquake; 
+burglary and theft. Fire insurance includes the loss to real or 
+personal property from damage caused by the peril of fire or 
+lightning, including business interruption, loss of rents, etc. Allied 
+lines are coverages generally written with property insurance, eg, 
+glass; tornado; windstorm and hail; sprinkler and water damage; 
+explosion, riot, and civil commotion; growing crops; flood; rain; and 
+damage from aircraft and vehicle, etc. Inland marine is coverage for 
+property that may be in transit, held by a bailee, at a fixed location, 
+a movable good that is often at different locations (eg, off road
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 231 of 247 
+ 
+construction equipment), or scheduled property (eg, Homeowners 
+Personal Floater) including items such as live animals and property 
+with antique or collector’s value. This line also includes 
+instrumentalities of transportation and communication, such as 
+bridges, tunnels piers, wharves, docks, pipelines, power and phone 
+lines, and radio and television towers. 
+US/ Private passenger 
+auto liability/ medical 
+Coverage for financial loss resulting from legal liability for motor 
+vehicle related injuries (bodily injury and medical payments) or 
+damage to the property of others caused by accidents arising out of 
+the ownership, maintenance or use of a motor vehicle. Does not 
+include coverage for vehicles used in a commercial business. 
+US/ Commercial auto/ 
+truck liability/ medical 
+Similar to private passenger auto liability/medical, except for 
+commercial vehicles. 
+US/ Workers' 
+compensation 
+Insurance that covers an employer’s liability for injuries, disability or 
+death to persons in their employment, without regard to fault, as 
+prescribed by state or Federal workers’ compensation laws and 
+other statutes. Includes employer’s liability coverage against the 
+common law liability for injuries to employees (as distinguished 
+from the liability imposed by Workers’ Compensation Laws). 
+Excludes excess workers’ compensation. 
+US/ Commercial multi-
+peril 
+Two or more insurance coverages for a commercial enterprise, 
+including various property and liability risks, that are included in the 
+same policy. Includes multi-peril policies other than farmowners, 
+homeowners and automobile policies. 
+US/ Medical 
+professional liability -- 
+Occurrence 
+For a licensed health care provider or health care facility against 
+legal liability resulting from the death or injury of any person due to 
+the insured’s misconduct, negligence, or incompetence in rendering 
+professional services. The insurance covers events occurring 
+during the policy coverage period. 
+US/ Medical 
+professional liability – 
+Claims-Made 
+For a licensed health care provider or health care facility against 
+legal liability resulting from the death or injury of any person due to 
+the insured’s misconduct, negligence, or incompetence in rendering 
+professional services. The insurance covers claims presented 
+during the period of coverage. 
+US/Other Liability–
+Occurrence 
+Insurance against legal liability resulting from negligence, 
+carelessness, or a failure to act causing property damage or 
+personal injury to others. Typically, coverage includes liability for 
+the following: construction and alteration; contingent; contractual; 
+elevators and escalators; errors and omissions; environmental 
+pollution; excess stop loss, excess over insured or self-insured 
+amounts and umbrella; liquor; personal injury; premises and 
+operations; completed operations; nonmedical professional, etc. 
+Also includes indemnification coverage provided to self-insured
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 232 of 247 
+ 
+employers on an excess of loss basis (excess workers’ 
+compensation). The insurance covers events occurring during the 
+policy coverage period. 
+US/Other Liability – 
+Claims-Made  
+Same types of coverages as other liability – occurrence above 
+except that the insurance covers claims presented during the 
+period of coverage. The insurable event does not need to occur 
+during the policy period. 
+US/Products liability 
+Products liability - occurrence: covers events occurring during 
+coverage period. Products liability - claims made. - covers claims 
+made during the coverage period. Coverage for the manufacturer, 
+distributor, seller, or lessor of a product against legal liability 
+resulting from a defective condition causing personal injury, or 
+damage, to any individual or entity, associated with the use of the 
+product. Products liability - occurrence: covers events occurring 
+during coverage period. Products liability - claims made. - covers 
+claims made during the coverage period. Coverage for the 
+manufacturer, distributor, seller, or lessor of a product against legal 
+liability resulting from a defective condition causing personal injury, 
+or damage, to any individual or entity, associated with the use of 
+the product. Products liability - occurrence: covers events occurring 
+during coverage period. Products liability - claims made. - covers 
+claims made during the coverage period. Coverage for the 
+manufacturer, distributor, seller, or lessor of a product against legal 
+liability resulting from a defective condition causing personal injury, 
+or damage, to any individual or entity, associated with the use of 
+the product. 
+US/Reinsurance – non-
+proportional assumed 
+property 
+Non-proportional assumed liability reinsurance in fire allied lines, 
+ocean marine, inland marine, earthquake, group accident and 
+health, credit accident and health, other accident and health, auto 
+physical damage, boiler and machinery, glass, burglary and theft 
+and international (of the foregoing). 
+US/Reinsurance – non-
+proportional assumed 
+liability 
+Non-proportional assumed liability reinsurance in farm owners 
+multiple-peril, homeowners’ multiple-peril, commercial multiple-
+peril, medical professional liability, workers’ compensation, other 
+liability, products liability, auto liability, aircraft (all perils) and 
+international (of the foregoing). 
+US/Special liability 
+Various insurance coverages including ocean marine, aircraft (all 
+perils), and boiler and machinery. Ocean marine is coverage for 
+ocean and inland water transportation exposures; such as goods or 
+cargoes; ships or hulls; earnings; and liability. Aircraft is coverage 
+for aircraft (hull) and their contents; aircraft owner’s and aircraft 
+manufacturer’s liability to passengers, airports and other third 
+parties. Boiler and machinery is coverage for the failure of boilers, 
+machinery and electrical equipment. Coverage includes the 
+property of the insured, which has been directly damaged by an
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 233 of 247 
+ 
+accident, costs of temporary repairs and expediting expenses and 
+liability for damage to the property of others. 
+US/Mortgage insurance Mortgage guaranty is indemnification of a lender from loss if a 
+borrower fails to meet required mortgage payments. 
+US/Fidelity/surety 
+Fidelity is a bond covering an employer’s loss resulting from an 
+employee’s dishonest act (eg, loss of cash, securities, or 
+valuables). Surety is a three-party agreement where the insurer 
+agrees to pay a second party or make complete an obligation in 
+response to the default, acts, or omissions of a third party. 
+US/Financial Guaranty 
+Financial guaranty is a surety bond, insurance policy, or when 
+issued by an insurer, an indemnity contract and any guaranty 
+similar to the foregoing types, under which loss is payable upon 
+proof of occurrence of financial loss to an insured claimant, oblige 
+or indemnitee as a result of failure to perform a financial obligation. 
+US/Other 
+Coverages not included elsewhere which includes credit 
+coverages, warranty, and, where considered part of 
+property/casualty, accident/health coverages. The Schedule P 
+“International” LOB should be allocated to the region(s) where risk 
+is located, but if this is not possible could be included in this 
+segment. 
+US/Reinsurance – non-
+proportional assumed 
+financial lines 
+Non-proportional assumed reinsurance in the following lines: 
+mortgage guaranty, financial guaranty, fidelity, surety, credit, and 
+international (in the foregoing). 
+Japan/Fire 
+This insurance covers property damage for either commercial or 
+household caused by fire, windstorm, hail, water damage and 
+earthquake 
+Japan/Hull This insurance covers damage of vessel. 
+Japan/Cargo This insurance covers damage on good and property in transit by 
+vessel. 
+Japan/Transit This insurance is called as Inland marine, which covers property 
+being transported by other than vessel or aircraft. 
+Japan/Personal 
+Accident 
+This insurance covers loss by accidental bodily injury. Under this 
+insurance, policyholder is reimbursed based on actual losses 
+occurred or receives a fixed benefit due to a certain accident event. 
+Japan/Automobile 
+This insurance covers personal injury or automobile damage 
+sustained by the insured and liability to third parties for losses 
+caused by the insured. Please note fleet automobile insurance 
+should be included here.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 234 of 247 
+ 
+Japan/Aviation 
+This insurance covers aircraft, goods or property in transit by 
+aircraft and launch to the space, and liability arising from the loss of 
+or damage to the goods or property in transit or bodily injury or 
+property loss or damage to third parties 
+Japan/Guarantee Ins. This insurance covers financial loss caused by the insolvency or 
+payment default of customers to whom credit has been granted 
+Japan/Machinery This insurance protects the insured against loss incurred as a result 
+of machinery breakdown. 
+Japan/General Liability This insurance covers any legal obligations to pay compensation 
+and costs for bodily injury, property loss or damage to third parties. 
+Japan/Contractor's All 
+Risks 
+This insurance is purchased by contractors to cover damage to 
+property under construction. 
+Japan/Movables All 
+Risks 
+This insurance covers loss or damage to property other than motor, 
+aircraft and vessel. 
+Japan/Workers' 
+Compensation 
+This insurance covers no-fault basis compensation payments to 
+employees who sustained bodily injury or occupational disease 
+during or which arises out of the course of their employment, and 
+provides employers with protections against claims which their 
+employees make for bodily injury or occupational disease caused 
+by tort. 
+Japan/Misc. Pecuniary 
+Loss 
+This insurance provides the insured with tailor-made covers for 
+consequential losses that are not covered by any other classes of 
+business. 
+Japan/Nursing Care 
+Ins. 
+This Insurance provides benefit to meet specified conditions 
+requiring the insured to be nursed. Under this insurance, 
+policyholder is reimbursed based on actual cost incurred or 
+receives a fixed benefit for nursing care. 
+Japan/Others Includes any other non-life insurance not listed above. 
+China/Motor A vehicle insurance that the object of insurance is vehicle itself and 
+related liability to pay compensation.  
+China/Property, 
+including commercial, 
+personal and 
+engineering 
+Insurance that the object of insurance is property and related 
+interests. 
+China/Marine and 
+Special 
+Insurance that the object of insurance is watercraft and related 
+liability to pay compensation.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 235 of 247 
+ 
+China/Liability Insurance that the object of insurance is assumed liability of the 
+insurant to pay compensation to the third party. 
+China/Agriculture Insurance that the object of insurance is the property loss of 
+agriculture caused by disasters. 
+China/Credit 
+Insurance that the object of insurance is the economical loss of 
+loaner because of the debtor’s incapacity or refusing to pay for the 
+debt. 
+China/Short-term 
+Accident 
+A short-term accident insurance, the object of insurance is the 
+death or disability of insurant because of accident. The period of 
+insurance is usually no more than one year. 
+China/Short-term 
+Health 
+Health insurance that the period of insurance is no more than one 
+year and without guaranteed renewable terms. 
+China/Short-term Life A short-term life insurance, the object of insurance is the lift of 
+insured. The period of insurance is usually no more than one year. 
+China/Others Other insurances. 
+Australia&NZ/ 
+Householders 
+This class covers the common Householders policies, including the 
+following classes/risks: contents, personal property, arson and 
+burglary. Public liability normally attaching to these products is to 
+be separated. 
+This class also covers proportional reinsurance of householders 
+business. 
+Australia&NZ/ 
+Commercial Motor 
+Motor vehicle insurance (including third party property damage) 
+other than insurance covering vehicles defined below under 
+Domestic Motor. It includes long and medium haul trucks, cranes 
+and special vehicles, and policies covering fleets. 
+This class also covers proportional reinsurance of commercial 
+motor. 
+Australia&NZ/ Domestic 
+Motor 
+Motor vehicle insurance (including third party property damage) 
+covering private use motor vehicles including utilities and lorries, 
+motor cycles, private caravans, box and boat trailers, and other 
+vehicles not normally covered by business or commercial policies. 
+This class also covers proportional reinsurance of domestic motor. 
+Australia&NZ/ Other 
+type A 
+Other classes of business with similar characteristics to 
+householders and motor 
+This class also covers proportional reinsurance of other type A. 
+Australia&NZ/ Travel 
+Insurance against losses associated with travel including loss of 
+baggage and personal effects, losses on flight cancellations and 
+overseas medical costs. 
+This class also covers proportional reinsurance of travel insurance.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 236 of 247 
+ 
+Australia&NZ/ Fire and 
+ISR 
+Includes all policies normally classified as fire (includes sprinkler 
+leakage, subsidence, windstorm, hailstone, crop, arson and loss of 
+profits) and Industrial Special Risk 
+This class also covers proportional reinsurance of fire and industrial 
+special risk. 
+Australia&NZ/Marine 
+and Aviation 
+Includes Marine Hull and Marine Liability (including pleasure craft), 
+and Marine Cargo (including sea and inland transit insurance). Also 
+includes Aviation (including aircraft hull and aircraft liability). 
+This class also covers proportional reinsurance of marine and 
+aviation. 
+Australia&NZ/ 
+Consumer Credit 
+Insurance to protect a consumer's ability to meet the loan 
+repayments on personal loans and credit card finance in the event 
+of death or loss of income due to injury, illness or unemployment. 
+This class also covers proportional reinsurance of consumer credit. 
+Australia&NZ/ Other 
+Accident 
+Includes miscellaneous accident, all risks (baggage, sporting 
+equipment, guns), engineering when not part of Fire & ISR, plate 
+glass when not package, livestock, pluvius and sickness and 
+accident. 
+This class also covers proportional reinsurance of other accident. 
+Australia&NZ/ Other 
+type B 
+Other classes of business with similar characteristics to Fire & ISR, 
+marine, aviation, consumer credit and other accident. 
+This class also covers proportional reinsurance of other type B. 
+Australia&NZ/ 
+Mortgage 
+Insurance against losses to a lender in the event of borrower 
+default on a loan secured by a mortgage over residential or other 
+property. 
+This class also covers proportional reinsurance of mortgage. 
+Australia&NZ/ CTP 
+Compulsory Third Party business. 
+This class also covers proportional reinsurance of CTP. 
+Australia&NZ/ Public 
+and Product Liability 
+Public Liability covers legal liability to the public in respect of bodily 
+injury or property damage arising out of the operation of the 
+insured's business. Product Liability includes policies that provide 
+for compensation for loss and/or injury caused by, or as a result of, 
+the use of goods and environmental clean-up caused by pollution 
+spills where not covered by Fire and ISR policies. Includes builders 
+warranty and public liability attaching to householders policies. 
+This class also covers proportional reinsurance of public and 
+product liability.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 237 of 247 
+ 
+Australia&NZ/ 
+Professional Indemnity 
+PI covers professionals against liability incurred as a result of errors 
+and omissions made in performing professional services that has 
+resulted in economic losses suffered by third parties. Includes 
+Directors' and Officers' Liability insurance plus legal expense 
+insurance. Cover for legal expenses is generally included in this 
+type of policy. 
+This class also covers proportional reinsurance of professional 
+indemnity. 
+Australia&NZ/ 
+Employers’ Liability 
+Includes workers' compensation, seaman's compensation and 
+domestic workers' compensation. 
+This class also covers proportional reinsurance of employer’s 
+liability. 
+Australia&NZ/ Short tail 
+medical expenses 
+Insurance obligation that covers the provision or financial 
+compensation for medical treatment or care including preventive or 
+curative medical treatment or care due to illness, accident, disability 
+or infirmity usually made during the term of the policy or shortly 
+(typically, up to 1 year) after the coverage period of the insurance 
+has expired. 
+Australia&NZ/ Other 
+type C 
+Other classes of business with similar characteristics to mortgage, 
+CTP, and other liability. 
+This class also covers proportional reinsurance of other type C. 
+Australia&NZ/ 
+Householders - non-
+prop reins 
+Non-Proportional reinsurance of householders business (refer 
+definition). 
+Australia&NZ/ 
+Commercial Motor - 
+non-prop reins 
+Non-Proportional reinsurance of commercial motor (refer 
+definition). 
+Australia&NZ/ Domestic 
+Motor - non-prop reins 
+Non-Proportional reinsurance of domestic motor business (refer 
+definition). 
+Australia&NZ/ Other 
+non-prop reins type A 
+Non-Proportional reinsurance of other type A business (refer 
+definition). 
+Australia&NZ/ Travel - 
+non-prop reins Non-Proportional reinsurance of travel business (refer definition). 
+Australia&NZ/ Fire and 
+ISR - non-prop reins 
+Non-Proportional reinsurance of Fire & ISR business (refer 
+definition). 
+Australia&NZ/ Marine 
+and Aviation - non-prop 
+reins 
+Non-Proportional reinsurance of marine and aviation business 
+(refer definition).
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 238 of 247 
+ 
+Australia&NZ/ 
+Consumer Credit - non-
+prop reins 
+Non-Proportional reinsurance of consumer credit business (refer 
+definition). 
+Australia&NZ/ Other 
+Accident - non-prop 
+reins 
+Non-Proportional reinsurance of other accident business (refer 
+definition). 
+Australia&NZ/ Other 
+non-prop reins type B 
+Non-Proportional reinsurance of other type B business (refer 
+definition). 
+Australia&NZ/ 
+Mortgage - non-prop 
+reins 
+Non-Proportional reinsurance of mortgage business (refer 
+definition). 
+Australia&NZ/ CTP - 
+non-prop reins Non-Proportional reinsurance of CTP business (refer definition). 
+Australia&NZ/ Public 
+and Product Liability - 
+non-prop reins 
+Non-Proportional reinsurance of public and product liability 
+business (refer definition). 
+Australia&NZ/ 
+Professional Indemnity 
+- non-prop reins 
+Non-Proportional reinsurance of professional indemnity business 
+(refer definition). 
+Australia&NZ/ 
+Employer’s Liability - 
+non-prop reins 
+Non-Proportional reinsurance of employer’s liability business (refer 
+definition). 
+Australia&NZ/ Other 
+non-prop reins type C 
+Non-Proportional reinsurance of other type C business (refer 
+definition). 
+Hong Kong/ Accident 
+and health 
+Providing fixed pecuniary benefits or benefits in the nature of 
+indemnity (or a combination of both) against risks of the persons 
+insured 
+ 1. Sustaining injury or dying as a result of accident; or 2.Becoming 
+incapacitated in consequence of disease; or 
+ 3. Sickness. 
+Hong Kong/Motor 
+vehicle, damage and 
+liability 
+This includes 1. Insurance against the risk of the person sustaining 
+injury or dying as a result of travelling as passenger on motor 
+vehicle; 2. Insurance upon loss of or damage to vehicles used on 
+land, including motor vehicles but excluding railway rolling stock; or 
+3. Insurance against damage arising out of or in connection with 
+the use of motor vehicles on land, including third-party risks and 
+carrier's liability. 
+Hong Kong/Aircraft, 
+damage and liability 
+This includes 1. Insurance against the risk of the person sustaining 
+injury or dying as a result of travelling as passenger on aircraft; 2. 
+Insurance upon aircraft or upon the machinery, tackle, furniture or
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 239 of 247 
+ 
+equipment of aircraft; or 3. Insurance against damage arising out of 
+or in connection with the use of aircraft, including third-party risks 
+and carrier's liability. 
+Hong Kong/Ships, 
+damage and liability  
+This includes 1. Insurance against the risk of the person sustaining 
+injury or dying as a result of travelling as passenger on marine 
+transport; 2. Insurance upon vessels used on the sea or on inland 
+water, or upon the machinery, tackle, furniture or equipment of 
+such vessels; or 3. Insurance against damage arising out of or in 
+connection with the use of vessels on the sea or on inland water, 
+including third-party risks and carrier's liability. 
+Hong Kong/Goods in 
+transit 
+Insurance upon loss of or damage to merchandise, baggage and all 
+other goods in transit, irrespective of the form of transport (ie 
+include goods in transit via motor, aircraft, ships and other 
+transport). 
+Hong Kong/Fire and 
+Property damage 
+This includes insurance against loss of or damage to property 
+(other than property to which motor, aircraft, ships or goods in 
+transit relates) due to 1. Fire, explosion, storm, natural forces other 
+than storm, nuclear energy or land subsidence; or 2. hail or frost or 
+to any event (such as theft) other than those mentioned in 1. 
+Hong Kong/General 
+liability 
+Insurance against risks of the persons insured incurring liabilities to 
+third parties, the risks in question not being risks to which motor, 
+aircraft or ships relates. 
+Hong Kong/Pecuniary 
+loss 
+This includes: 1. Insurance against risks of loss to the persons 
+insured arising from the insolvency or failure of debtors of theirs; 2. 
+Suretyship; 3. Insurance against risks attributable to interruptions of 
+the carrying on of business carried on by them or to reduction of 
+the scope of business so carried on; or 4. Insurance against risks of 
+loss to the persons insured attributable to their incurring legal 
+expenses (including costs of litigation). 
+Hong Kong/Non-
+proportional treaty 
+reinsurance 
+In the event that it is impracticable to allocate the treaty reinsurance 
+business to the respective eight accounting classes of general 
+business above, such business may be shown under 2 broad 
+classes, namely, Non-proportional Treaty Reinsurance and 
+Proportional Treaty Reinsurance 
+Hong 
+Kong/Proportional 
+treaty reinsurance 
+In the event that it is impracticable to allocate the treaty reinsurance 
+business to the respective eight accounting classes of general 
+business above, such business may be shown under 2 broad 
+classes, namely, Non-proportional Treaty Reinsurance and 
+Proportional Treaty Reinsurance 
+Korea/ Fire, technology, 
+overseas 
+This includes fire insurance, technology insurance, original 
+overseas insurance, reinsurance assumed from overseas. 
+- fire insurance: insurance for residential fire, factory fire, general 
+fire (insurance for fire in any ordinary building and movable 
+property therein, excluding residential houses and factories) and
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 240 of 247 
+ 
+other fire. 
+- technology insurance: insurance for construction, assembling, 
+machinery, electronic devices and others. The definitions for each 
+are set out below. 
+ 1) construction: protection against damage and liability for damage 
+to a building under construction. 
+ 2) assembly: protection against damage and liability for damage to 
+a structure in assembling progress. 
+ 3) machinery: insurance for damage to machinery. 
+ 4) electronic devices: insurance for damage to electronic devices 
+and costs and expenses for restoration of data. 
+- original overseas insurance: insurance for property damage, 
+bodily injury, or liability for damages in connection with any goods 
+located in a foreign country. 
+- reinsurance assumed from overseas: assuming other insurer's 
+risk as a reinsurer from overseas. 
+Korea/Package 
+This includes package insurance for household and for business. 
+- for household: insurance for two or more types of damage among 
+insurance for an individual person's property damage, bodily injury, 
+and liability for damages. 
+- for business: insurance for two or more types of damage among 
+an enterprise's property damage, liability for damages, and 
+insurance for bodily injury of its members. 
+Korea/Maritime 
+This includes Marine, Transportation and aviation. More specifically 
+this includes cargo, ship, general maritime, marine liability, 
+transportation, aviation, space, and other maritime. 
+ 1) cargo: insurance for risks in marine transportation of cargoes. 
+ 2) ship: insurance for damage to a ship. 
+ 3) general maritime: insurance for risks in marine activities, such 
+as risks in marine construction. 
+ 4) marine liability: protection against liability for damage on the 
+seas, such as insurance of liability for marine contamination 
+(excluding ship and general marine). 
+ 5) transportation: insurance for risks in cargoes in inland 
+transportation. 
+ 6) aviation: insurance for damage to aircraft, such as operation 
+and navigation of aircraft (property) and protection against liability 
+for damages related to accidents of aircraft (liability for damages). 
+ 7) space: insurance for risks in successful launching and 
+performance of missions of artificial satellites (property) and 
+protection against liability for damages related to accidents of 
+artificial satellites (liability for damages). 
+ 8) other maritime: marine insurance products other than those 
+classified above. 
+Korea/Personal injury This includes injury, travel and others (excluding those for 
+foreigners).
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 241 of 247 
+ 
+1) injury: insurance for an insured person's bodily injury caused by 
+a sudden and unexpected accident. 
+2) travel: insurance for injuries inflicted while travelling within the 
+Republic of Korea (domestic travel), insurance for injuries inflicted 
+while travelling abroad (overseas travel) and insurance for injuries 
+inflicted on persons staying abroad for a long time, such as 
+students studying abroad and personnel stationed abroad (long 
+stay abroad). 
+3) others: injury insurance products not listed above. 
+Korea/Workers 
+accident, liability 
+This includes insurance for workers' compensation for accidents 
+and insurance for liability.  
+- Workers’ compensation for accidents includes:  
+ 1) domestic: indemnity for accidents and employer's liability. 
+ 2) overseas: indemnity for accidents and employer's liability. 
+ 3) seafarers: indemnity for accidents and employer's liability. 
+ 4) occupational trainee: indemnity for accidents and employer's 
+liability. 
+- Insurance for liability includes:  
+ 1) general liability: personal liability, business liability, ship owner’s 
+liability, excursion and ferry ship business, road 
+transportation business, gas accident, sports facilities, local 
+government and others. 
+ 2) product liability: product liability, product recall and product 
+guarantee. 
+ 3) professional liability: malpractice and errors and omissions 
+(E&O). 
+Korea/Foreigners This includes insurance for injury, travel and others provided for 
+foreigners. 
+Korea/Advance 
+payment refund 
+guarantee 
+Insurance purchased by a builder for damage that a buyer may 
+sustain due to non-performance of repayment of 
+advance payment in connection of building of a ship or construction 
+of marine facilities. 
+Korea/Other Non-life General insurance products other than those specified above. 
+Korea/Private 
+vehicle(personal injury) 
+Insurance that indemnifies the policyholder from the liability for 
+damages incurred to a victim by killing or injuring another person as 
+a consequence of an accident incurred while the insured owns or 
+manages a vehicle, among covers provided under an automobile 
+insurance policy for a private motor vehicle, which shall include the 
+liability insurance under Article 5 (1) of the Guarantee of 
+Automobile Accident Compensation Act.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 242 of 247 
+ 
+Korea/Private 
+vehicle(property, 
+vehicles damage) 
+Insurance that indemnifies the policyholder from the liability for 
+damages incurred to another vehicle or the policyholder's own 
+vehicle as a consequence of an accident incurred while the 
+policyholder owns or manages a vehicle, among covers provided 
+under an automobile insurance policy for a private motor vehicle. 
+Korea/Vehicle for 
+commercial or business 
+purpose(personal 
+injury) 
+Insurance that indemnifies the policyholder from the liability for 
+damages incurred to a victim by killing or injuring another person as 
+a consequence of an accident incurred while the policyholder owns 
+or manages a motor vehicle, among covers provided under an 
+automobile insurance policy for a motor vehicle for commercial or 
+business purpose, which shall include the liability insurance under 
+Article 5 (1) of the Guarantee of Automobile Accident 
+Compensation Act. 
+Korea/Vehicle for 
+commercial or business 
+purpose(property, 
+vehicles) 
+Insurance that indemnifies the policyholder from the liability for 
+damages incurred to another vehicle or the policyholder's own 
+vehicle as a consequence of an accident incurred while the 
+policyholder owns or manages a vehicle, among covers provided 
+under an automobile insurance policy for a motor vehicle for 
+commercial or business purpose. 
+Korea/Other motor Automobile insurance other than insurance products specified 
+above. 
+Singapore/Personal 
+Accident 
+Refers to the insurance business of writing personal accident 
+policy. 
+Singapore/Health Refers to the insurance business of writing health policy. 
+Singapore/Fire 
+This insurance covers property damage for either commercial or 
+household caused by fire, windstorm, hail, water damage and 
+earthquake 
+Singapore/Marine and 
+Aviation - Cargo 
+Includes insurance against risk of loss or damage of any cargo in 
+transit, and any liability arising from such cargo in transit arising 
+from the use of a vessel or ship or aircraft. 
+Singapore/Motor Includes insurance against risk of loss, damage or liability arising 
+out of or in connection with the use of motor vehicles. 
+Singapore/Work Injury 
+Compensation 
+This insurance covers compensation payments to employees who 
+sustained bodily injury or occupational disease during or which 
+arises out of the course of their employment.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 243 of 247 
+ 
+Singapore/Bonds 
+Includes maid insurance and insurance under which an insurer 
+undertakes to guarantee (other than guarantees to which “Credit/ 
+Credit related” relates to) the due performance of a contract or 
+undertaking, or the payment of a penalty or indemnity for any 
+default. 
+Singapore/Engineering 
+Construction 
+Includes insurance against construction, erection, or engineering 
+risks such as the loss or damage involved in a construction project, 
+and installation and erection of ready built-engineering projects. It 
+also includes boiler and pressure vessel insurance, construction all 
+risk insurance, engineering all risk insurance, erection all risk 
+insurance, machinery all risk insurance and insurance on any other 
+specialised equipment or machinery that are excluded from the 
+standard property insurance. 
+Singapore/Credit Insurance protecting against the risk of non-payment of goods and 
+services by buyers and importers. 
+Singapore/Mortgage Insurance protecting against losses on mortgage loans arising from 
+default by borrowers. 
+Singapore/Others- non 
+liability class Other non-liability classes not covered elsewhere. 
+Singapore/Marine and 
+Aviation - Hull 
+Includes insurance against risk of physical loss or damage of 
+vessel or ship used on sea or inland water or aircraft, any liability 
+arising from such vessel or ship or aircraft, and damage of vessel 
+or ship or aircraft while under construction. It also includes marine 
+terminal operator insurance and airport operator insurance and 
+insurance against aerospace risks. 
+Singapore/ Professional 
+indemnity 
+Includes insurance for professionals against risk of their liability to 
+their principals, clients, principal's clients, or any third parties 
+arising out of neglect, omission or error in the discharge of their 
+professional duties. It also includes directors and officers liability 
+insurance, and errors and omission insurance. 
+Singapore /Public 
+liability 
+Includes insurance against risk of the insured’s liability to third party 
+in respect of bodily injury, property damage or any monetary losses 
+arising out of negligence (other than liability to which business 
+classes “Cargo”, “Marine Hull”, “Aviation Hull” and “Motor” relate 
+to). 
+Singapore /Others- 
+liability class Other liability classes not covered elsewhere. 
+Chinese Taipei / Fire - 
+residence Fire insurance for personal residence.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 244 of 247 
+ 
+Chinese Taipei / Fire - 
+commercial Fire insurance for commercial building.  
+Chinese Taipei / Marine 
+- inland cargo Marine insurance for inland cargo. 
+Chinese Taipei / Marine 
+- overseas cargo Marine insurance for overseas cargo. 
+Chinese Taipei / Marine 
+- hull Marine insurance for hull. 
+Chinese Taipei / Marine 
+- fish boat Marine insurance for fish boat/vessel. 
+Chinese Taipei / Marine 
+- aircraft Aviation insurance for aircraft. 
+Chinese Taipei / Motor 
+- personal vehicle Motor insurance for personal vehicle. 
+Chinese Taipei / Motor 
+- commercial vehicle Motor insurance for commercial vehicle. 
+Chinese Taipei / Motor 
+- personal liability Motor insurance for personal liabilities. 
+Chinese Taipei / Motor 
+- commercial liability Motor insurance for commercial liabilities. 
+Chinese Taipei / 
+Liability - public, 
+employer, product, etc. 
+Public liability insurance, employer liability insurance, product 
+liability insurance, etc. 
+Chinese Taipei / 
+Liability - professional Professional liability insurance. 
+Chinese Taipei/ 
+Engineering Engineering insurance. 
+Chinese Taipei / 
+Nuclear power station Insurance for nuclear power station. 
+Chinese Taipei / 
+Guarantee - surety, 
+fidelity 
+Surety insurance, fidelity insurance, mortgage insurance, etc. 
+Chinese Taipei / Credit Trade credit insurance, credit card insurance, small-amount loan 
+credit insurance, etc. 
+Chinese Taipei /Other 
+property damage 
+Property damage insurances not included in other LOBs, eg cash 
+insurance, theft insurance, glass insurance, etc.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 245 of 247 
+ 
+Chinese Taipei / 
+Accident Accident insurance for personal injuries or death. 
+Chinese Taipei / 
+Property Damage - 
+commercial earthquake 
+Earthquake insurance (other than compulsory earthquake 
+insurance). 
+Chinese Taipei / 
+Comprehensive - 
+personal property and 
+liability 
+Comprehensive insurance for personal property and liabilities. 
+Chinese Taipei / 
+Comprehensive - 
+commercial property 
+and liability 
+Comprehensive insurance for commercial property and liabilities. 
+Chinese Taipei / 
+Property damage - 
+typhoon and flood 
+Typhoon and flood insurance. 
+Chinese Taipei / 
+Property damage - 
+compulsory earthquake 
+Compulsory earthquake insurance (compulsory for personal 
+residence). 
+Chinese Taipei / Health Health insurance. 
+OTHER/Motor 
+This includes: Motor property damage: Damage to own and third-
+party motor vehicles (and related property damage) through 
+accident, theft, fire and weather events, excluding liability for 
+personal injury; and Motor bodily insurances: Insurances relating to 
+the injury or death of third parties due to or related to motor 
+vehicles and accidents involving them. This may also extend to 
+include the driver involved. 
+OTHER/ Property 
+damage 
+This includes, but is not limited to: 1. Property: Insurance of house 
+or other property (including house contents) against loss through 
+fire, windstorm etc., insurance of contents against losses due to 
+theft, fire, windstorm, earthquake, impact, damages, water damage, 
+and other natural and man-made perils. Contents insurances may 
+extend to loss or damage to property outside the home or its usual 
+location. 2. Fire and industrial: Loss or damage and loss of 
+earnings due to damage to commercial buildings and other physical 
+infrastructure due to fire, windstorm and other perils. 3. 
+Consequential losses: Products covering consequential losses 
+(such as ‘loss of profits’ or ‘business interruption’) is also included 
+in this segment; 4 Construction: This includes ‘construction all risks 
+and erection all risks’ (CAR/EAR) or similar written in connection
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 246 of 247 
+ 
+with construction projects. This includes the construction and 
+erection of infrastructure projects and buildings. 
+OTHER/ Accident, 
+protection and health 
+(APH) 
+This includes, but is not limited to: 1 Accident and sickness: 
+Accident cover provides benefits if an accident result in bodily injury 
+or death. Benefits are lump sum or periodic (typically for at most 2 
+years). Sickness cover is often an extension of accident insurance; 
+2 Other consumer accident: Property damage other than 
+householders or motor vehicle. For example, travel insurance. 3. 
+Other commercial accident: Commercial property insurance other 
+than Fire and Industrial risk and MAT, and other than commercial 
+long-term liability; 4 Consumer credit: Guarantee of repayments on 
+consumer credit contracts due to involuntary loss of employment; 5. 
+Consumer liability: Private individual's liability for personal injury 
+through personal actions or property 
+OTHER/ Short tail 
+medical expenses 
+Insurance obligation that covers the provision or financial 
+compensation for medical treatment or care including preventive or 
+curative medical treatment or care due to illness, accident, disability 
+or infirmity usually made during the term of the policy or shortly 
+(typically, up to 1 year) after the coverage period of the insurance 
+has expired. 
+OTHER/ Other short tail 
+Any non-Life products which do not fit into the segments above, do 
+not fit the definition of non-life medium-term business and where 
+claims are usually made during the term of the policy or shortly 
+(typically, up to 1 year) up to after the coverage period of the 
+insurance has expired. 
+OTHER/ Marine, Air, 
+Transport (MAT) 
+This includes: 1. All damage or loss of river, canal, lake and sea 
+vessels, aircraft, goods in transit, liabilities from use of aircraft, 
+ships and boats.; 2 Loss or damage to property, consequential third 
+party liability for damages to the property of others, and 
+consequential third party liability for personal injury to operators, 
+passengers and other. 
+OTHER/ Workers' 
+compensation 
+This insurance covers compensation payments to employees who 
+sustained bodily injury or occupational disease during or which 
+arises out of the course of their employment. 
+OTHER/ Public liability Public liability insurance for bodily injury or damage to property. 
+OTHER/ Product 
+liability 
+Product liability insurance for bodily injury or damage to property for 
+claims attributed to the use of products.
+
+Public 
+2022 ICS Data Collection Technical Specifications  Page 247 of 247 
+ 
+OTHER/ Professional 
+indemnity 
+Professional indemnity for a professional person or organisation for 
+claims for losses legal and other) attributed to professional 
+negligence (and related) in the services provided. For example, 
+medical malpractice and directors and officers insurance products. 
+OTHER/ Other liability 
+and other long tail 
+Any non-life products which do not fit into the defined segments 
+above, do not fit the definition of non-life medium-term business 
+and where claims may be made many years (typically 1 or more 
+years) after the coverage period of the insurance has expired. 
+All other liability classes not covered elsewhere. 
+OTHER/ Non-
+proportional motor, 
+property damage, APH 
+and MAT 
+Non-Proportional reinsurance of motor, property damage and 
+accident/protection/health business, marine, aviation and transport 
+(refer definition). 
+OTHER/ Catastrophe 
+reinsurance 
+Catastrophe Reinsurance is an inwards reinsurance line of 
+business providing excess of loss protection or proportional 
+protection in respect of aggregate losses arising from a single 
+event or a combination of events. Typically, such business is 
+covering damages to property and is sold with an ‘hours’ clause 
+and provides protection against natural catastrophe perils such as 
+windstorms, earthquakes and man-made catastrophe such as acts 
+of terrorism. 
+OTHER/ Non 
+proportional liability 
+Non-Proportional reinsurance of public liability, product liability and 
+other liability (refer definition). 
+OTHER/ Non-
+proportional 
+professional indemnity 
+Non-Proportional reinsurance of professional indemnity (refer 
+definition). 
+OTHER/ Mortgage 
+insurance 
+Indemnity to credit providers for losses due to the failure of a 
+borrower to repay a loan secured by a mortgage over property. 
+OTHER/ Commercial 
+credit insurance 
+Indemnity for financial losses due to the failure of a commercial 
+entity to repay outstanding credit contracts or failure to perform 
+contracted services or deliver contracted products other than short-
+term trade credit and suretyship insurance. 
+OTHER/ Other 
+medium-term 
+Any other non-life medium-term insurance products other than the 
+above and not included in non-life insurance segments above. This 
+includes, but is not limited to: Financing or monetising Insurance-
+linked securities (ILS, for example catastrophe bonds). For 
+example, embedded Value/Present Value of Future Profit 
+securitisations, ILS with financial risk as material trigger condition.

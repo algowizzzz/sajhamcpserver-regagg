@@ -1,0 +1,24 @@
+{
+  "doc_id": "305722f52d4b8ae6",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2025/12/ICS-level-1-and-level-2-texts.pdf",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2025/12/ICS-level-1-and-level-2-texts.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:626c12aa0206d5927a42c92eb7ca3acddc46b434955537d36d23d07121e84ce4",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/305722f52d4b8ae6",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

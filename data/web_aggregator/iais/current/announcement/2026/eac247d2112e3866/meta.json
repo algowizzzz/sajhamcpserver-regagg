@@ -1,0 +1,24 @@
+{
+  "doc_id": "eac247d2112e3866",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2026/04/Questions-for-public-consultation-on-draft-Issues-Paper-on-customers-receiving-value-from-insurance-products.docx",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2026/04/Questions-for-public-consultation-on-draft-Issues-Paper-on-customers-receiving-value-from-insurance-products.docx",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4fb18b07b2f6cc11f5a59b4054d53e80ed65b1351f78a4063c209d9288ad8b62",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/eac247d2112e3866",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

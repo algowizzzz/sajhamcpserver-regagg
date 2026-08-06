@@ -1,0 +1,29 @@
+# Register now for the 2024 IAIS Annual Conference
+
+[27 Aug 2024](https://www.iais.org/2024/08/the-2024-iais-annual-conference-will-take-place-in-person-on-5-6-december-in-cape-town-south-africa/)
+
+in [Annual Conference](https://www.iais.org/category/annual-conference/), [Events](https://www.iais.org/category/events/), [Latest news](https://www.iais.org/category/latest-news/), [Stakeholder events](https://www.iais.org/category/stakeholder-events/)
+
+The **[2024 IAIS Annual Conference](https://www.iaisweb.org/news-and-events/2024-annual-conference/)** will take place in person on **5-6 December** in **Cape Town, South Africa.**
+
+The theme of this year’s conference is “**Licence to operate: the role of insurance in supporting societal resilience”.** The Executive Committee Townhall will share progress on key projects such as the finalisation and implementation of ICS and discuss the outcome of the comparability assessment of the Aggregation Method (AM). Subsequent panels focus on risks in the global insurance sector, drawing on conclusions from our Global Monitoring Exercise (GME), as well as our work on diversity, equity and inclusion (DEI) and on the societal role of insurance. A “View from the C-Suite” provides an opportunity for CEOs to discuss key challenges the sector is currently facing. Several roundtables are planned to seek member and stakeholder feedback on IAIS initiatives.
+
+[View the full programme and register now](https://www.iaisweb.org/news-and-events/2024-annual-conference/)
+
+For IAIS members, kindly note that the Annual Conference will be preceded by committee meetings and the Annual General Meeting. View the full programme for members only on the **[IAIS Members Extranet](https://extranet.iaisweb.org/page/events/annual-conference/annual-conference-2024)** (login required).
+
+A special thank you to the **[Financial Sector Conduct Authority](https://www.fsca.co.za/)** and the Prudential Authority within the **[South African Reserve Bank](https://www.resbank.co.za/)** for hosting the event.
+
+![](https://www.iais.org/uploads/2024/08/Banner_AC-1024x541.png)
+
+27 Aug 2024
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2024%2F08%2Fthe-2024-iais-annual-conference-will-take-place-in-person-on-5-6-december-in-cape-town-south-africa%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

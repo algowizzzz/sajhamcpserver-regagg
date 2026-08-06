@@ -1,0 +1,1078 @@
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+May 2026 | Issue 152 
+  
+Follow us on LinkedIn 
+Newsletter 
+From the 
+Secretary 
+General 
+This is my last article as Secretary 
+General. Those are difficult words 
+to write, after what has been a 
+truly incredible and meaningful 
+journey with the IAIS – for eight 
+and a half years as Secretary 
+General and nine years before that 
+as the member from South Africa. 
+The IAIS is a remarkable 
+organisation – not only in terms of the scope and scale of 
+its achievements in recent years, but more importantly, in 
+terms of its fabric and values. The IAIS community has 
+held together in the face of some daunting external 
+forces, such as the pandemic and geopolitical dynamics, 
+as well as the internal strains of forging global consensus 
+on challenging topics such as group capital and systemic 
+risk. Yet, time and again, we have emerged stronger.  
+It has been my privilege to play a part in charting that 
+path. Ultimately, however, the success of the IAIS is due 
+to the commitment of its diverse range of members who, 
+while bringing different perspectives on how to do things, 
+have shared objectives and a common vision of what it 
+takes to protect policyholders and maintain financial 
+stability. It is this social capital amongst members – 
+supported by a dedicated Secretariat skilled in helping to 
+channel progress – that has enabled us to accomplish 
+things that at times seemed impossible. 
+During my time as Secretary General, it has been 
+rewarding to witness how the topic of insurance has risen 
+on the global policy agenda. Through our engagements 
+with the IMF, World Bank, G7 and G20, there is growing 
+consensus that insurance truly matters. It is not only vital 
+to societal resilience but is also foundational to 
+sustainable development and job creation.  
+The IAIS’ work has addressed some of the most critical 
+policy challenges of our time – particularly as households 
+and businesses face unprecedented uncertainties, from 
+climate-related risks to the unknowns of technological 
+transformation, and as the insurance industry undergoes 
+its own structural shifts. By advocating for the importance 
+of insurance with global policymakers, we have amplified 
+our impact.  
+We have not been alone in this journey. The IAIS’ 
+strategic priorities around responding to climate risk, 
+adapting to technological innovation and building societal 
+resilience is an agenda shared with our multiple industry, 
+consumer and civil society stakeholders across the globe 
+– in the realisation that these global challenges demand 
+a global response and jointly-crafted solutions. The IAIS 
+is all the richer because of the quality of insights and 
+perspectives we gain from these engagements. A 
+heartfelt thank you from me for all the constructive and 
+enjoyable conversations over the years. 
+In my first speech as IAIS Secretary General at the 
+November 2017 AGM, I remarked that the diversity of the 
+IAIS is one of its greatest strengths. Since then, I am 
+proud of how we have strengthened our inclusivity as an 
+association to maximise the benefits of this diversity – 
+particularly by amplifying the voices of our members from
+
+IAIS NEWSLETTER | May 2026    Page 2 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+Emerging Markets and Developing Economies and being 
+responsive to their needs, a topic close to my heart. By 
+being more intentional about diversity and inclusion, we 
+have ensured that our work reflects a range of 
+supervisory approaches, levels of socioeconomic 
+development, market size and maturity, experiences and 
+perspectives, both in our membership and our leadership. 
+Being Secretary General has enabled me to work with 
+and get to know this broad diversity of members from 
+across the globe. It has been a truly enriching 
+experience. Like many, a career as an insurance 
+supervisor was not something I planned for from the 
+outset, but I consider myself incredibly fortunate to have 
+found my way into this wonderful community. In my 
+experience, an altruistic drive to serve and protect people 
+draws many individuals into the supervisory field – a drive 
+that tends to coincide with the generous, engaging and 
+comradely spirit I have observed in so many supervisors 
+from around the world. This shared spirit has not only 
+propelled international cooperation at the IAIS, but has 
+also left me with wonderful friendships, some of which 
+date back to my very first IAIS working group meetings in 
+2008.  
+My last word has to be for the fantastic Secretariat team. 
+These have been transformative years, marked by 
+significant investments in people, processes and tools. 
+Equally important has been the focus on fostering shared 
+values that underpin our work and strengthen our shared  
+purpose. I am immensely proud of what we have 
+collectively built: an inclusive, committed, mutually 
+supportive and winning team. Thank you to my 
+management team, many of whom have been with me 
+since the very beginning, for helping to turn this vision 
+into reality, especially Romain, Conor and Hanne. I am 
+also deeply grateful to all the talented professionals and 
+exceptional human beings who have been part of the 
+team over the years. You have made this journey 
+enjoyable, even during the tough times, and have created 
+countless special memories. I take great comfort in 
+knowing that my successor, Gerry Cross, is an 
+outstanding individual who – together with the top-notch 
+Executive Committee leadership team – is perfectly 
+placed to both carry forward the IAIS’ impactful agenda 
+and be a strong custodian of this wonderful team.  
+As I conclude this chapter, it is the personal interactions 
+and shared journeys that have left the deepest 
+impression on me. I step away with deep gratitude – and 
+with confidence in the IAIS’ future and its continued role 
+in advancing global insurance supervision to meet the 
+needs of a changing world. Thank you for the trust, 
+collaboration and commitment that will continue to carry 
+this community forward. Farewell – and I look forward to 
+seeing you all in another iteration soon. 
+  Jonathan Dixon, Secretary General 
+ 
+IAIS Secretariat, May 2026
+
+IAIS NEWSLETTER | May 2026    Page 3 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+ 
+In this Issue Calendar Notes 
+From the Secretary General ......................................... 1 
+In Focus ........................................................................ 4 
+News ............................................................................. 5 
+Event Spotlight ............................................................. 6 
+Forum Updates ............................................................. 8 
+Capacity Building .......................................................... 9 
+Committee and Subcommittee Activities .................... 10 
+Calendar of Meetings and Events .............................. 13 
+Financial Stability Institute (FSI) Report ..................... 14 
+Access to Insurance Initiative (A2ii) Report ............... 14 
+ 
+Register now 
+Member-only webinars:  
+Agentic AI 
+The IAIS and the Program on International Financial 
+Systems will host a virtual policy seminar on the rise 
+and impact of agentic AI. In this interactive seminar, 
+insurance sector stakeholders will discuss how agentic 
+AI will impact the insurance sector.  
+• 23 June from 13:00–15:00 CEST. Register here. 
+EMDEs and operational resilience 
+Join this webinar that will discuss the particular issues 
+emerging markets and developing economy 
+jurisdictions may face in developing operational 
+resilience frameworks.  
+• 15 July from 13:00–15:00 CEST. Register here. 
+Climate risk knowledge sharing series 
+To support the publication of the member-only report 
+on climate-related risk metrics for supervisory reporting 
+and disclosure, a climate knowledge sharing webinar is 
+planned. 
+• 21 September from 13:00–14:00 CEST. Register 
+on the Climate Training Alliance (CTA) portal here. 
+Sign up for a CTA account here.
+
+IAIS NEWSLETTER | May 2026    Page 4 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+In Focus  
+Two new member-only climate risk reports published
+On 13 May, the IAIS published two member-only 
+reports to support the supervision of climate risk: 
+1. Report on how climate change is reflected in 
+NatCat models: The report examines whether and 
+how climate change is reflected in some of the key 
+natural catastrophe (NatCat) models used by the 
+insurance sector. It also provides 
+recommendations for supervisors to help in 
+engaging with insurers on these matters. 
+2. Report on climate-related risk metrics for 
+supervisory reporting and disclosure: The 
+report provides examples of metrics to support 
+effective supervisory reporting and public 
+disclosures of climate-related risks. It will assist 
+supervisors in the application of Insurance Core 
+Principles (ICPs) 9 (Supervisory review and 
+reporting) and 20 (Public disclosure), to better 
+capture material climate-related risks using 
+climate-related metrics. 
+An extranet login is needed to access the reports. All 
+staff at IAIS member authorities can create an account 
+here. 
+Complementing the IAIS 
+Application Paper on supervision 
+of climate-related risks 
+These reports complement the public Application 
+Paper on the supervision of climate-related risks in the 
+insurance sector, which was published in April 2025. 
+The Application Paper supports supervisors in 
+effectively integrating climate-related risks into their 
+supervisory practices. It outlines good practices and 
+guidance for supervisors in several areas, including:  
+• The role of supervisors in assessing climate-
+related risks;  
+• Integration of climate-related risks into supervisory 
+frameworks with respect to corporate governance, 
+risk management and internal controls;  
+• The impact of climate-related risks on valuation 
+and investment practices;  
+• Supervisory reporting, public disclosure and 
+macroprudential supervision of climate-related 
+risks;  
+• Group supervisory issues; and 
+• The role of climate-related risk scenario analysis 
+and important considerations for the impact of 
+climate-related risks on market conduct. 
+Addressing climate 
+risk is an IAIS key 
+strategic theme  
+Climate change is a source of 
+financial risk, impacting the resilience of individual 
+insurers as well as global financial stability. 
+Although insurers are exposed to both transition 
+and physical risks through their underwriting and 
+investment activities, they can also be key agents in 
+identifying, mitigating and managing climate risk, 
+thereby contributing to a sustainable transition to 
+net-zero.   
+The IAIS’ work on climate change spans across 
+many activities such as financial stability risk 
+assessment, supervisory and supporting material 
+and capacity building. 
+Sign up now for member-only webinars 
+The IAIS will host a webinar on the climate-related 
+metrics report on the Climate Training Alliance (CTA) 
+portal on Monday, 21 September at 13:00–14:30 
+CEST to provide more details about the report. 
+Registration is now open here. Supervisors at IAIS 
+member authorities can sign up for a CTA account 
+here.  
+A member-only webinar will also be held on the NatCat 
+report. Details will be provided in a forthcoming 
+newsletter.  
+For more information, contact Miroslav Petkov at 
+miroslav.petkov@iais.org or Joe Perry at 
+joe.perry@iais.org.
+
+IAIS NEWSLETTER | May 2026    Page 5 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+News 
+PROTECTION GAPS  
+IAIS contributes to G7 work under 
+French presidency 
+ 
+11 May, G7 Workshop, Paris, France. 
+The IAIS has actively contributed the work of the G7 
+Climate Change Mitigation Working Group (CCMWG) 
+this year, under the French G7 Presidency. In 
+particular, the IAIS contributed to the G7 CCMWG 
+priority of addressing protection gaps and 
+strengthening resilience, building on the IAIS’ 
+collaborative work with the World Bank on this topic for 
+the G20 in 2025 and with the OECD on the G7 High-
+Level Framework for Public Private Insurance 
+Programmes against Natural Hazards in 2024.  
+The other priority for the CCMWG has been examining 
+the economic and financial implications of extreme 
+weather events. The IAIS has been able to also 
+contribute into this workstream – led by the Network for 
+Greening the Financial System (NGFS) – building on 
+last year’s Global Insurance Market Report (GIMAR) 
+Special Topic, which explored the financial stability 
+implications of NatCat protection gaps 
+These efforts culminated in a high-level G7 workshop 
+held on 11 March in Paris, where IAIS Executive 
+Committee Vice Chair Petra Hielkema and IAIS Head 
+of Supervisory Practices and Operations Hanne van 
+Voorden represented the IAIS (photo above). The IAIS’ 
+contributions to these priorities were also 
+acknowledged in the G7 Finance Ministers’ and 
+Central Bank Governors’ communique.   
+For more information, contact alistair.gough@iais.org 
+and federica.mazzoni@iais.org.  
+THIRD - PARTY RISKS  
+IAIS seeks feedback on third-
+party services 
+The Operational Resilience Working Group (ORWG) is 
+currently undertaking research as an input to a 
+member-only report on how the provision of third party 
+services to insurers is likely to evolve in the next three 
+to five years.  
+The report will help supervisors understand how these 
+important relationships are expected to change and 
+what this means for effective supervision.  
+The IAIS is seeking feedback from stakeholders, 
+including insurers, consultants and other interested 
+parties, on expected changes in the provision of third-
+party services.  
+Please provide your feedback via the IAIS survey tool. 
+For more information, contact Joe Perry at 
+joe.perry@iais.org. 
+Public consultation webinar replay  
+Stakeholders are invited to submit their comments 
+on the draft Issues Paper on customers receiving 
+value from insurance products by 28 July 2026, 
+24:00 CEST.  
+A public background session was held via webinar 
+on 12 May to present the consultation 
+material and address stakeholder 
+questions. Watch the replay here. 
+ 
+For more details and information on how to provide 
+feedback, please visit the consultation webpage or 
+contact Lauren Eckermann at 
+lauren.eckermann@iais.org.
+
+IAIS NEWSLETTER | May 2026    Page 6 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+Event Spotlight
+GLOBAL SEMINAR  
+Registration open – Leadership 
+Dialogue | 7 July  
+This year’s virtual Global Seminar features the 
+Executive Committee Leadership Dialogue, where IAIS 
+leadership will provide key updates on the IAIS’ work 
+programme and upcoming priorities. The dialogue will 
+focus on how the IAIS is supporting its members to 
+navigate challenges and seize opportunities in an 
+increasingly complex and interconnected world. 
+A highlight of the session will be a Q&A with 
+stakeholders, offering participants the opportunity to 
+engage directly with IAIS leadership on critical issues 
+shaping the global insurance sector. 
+7 July from 13:00–14:30 CEST. Register here. 
+For more information, contact Malou Lenoir at 
+malou.lenoir@iais.org.  
+RECENT  
+IIF Insurance Colloquium | 
+Washington DC | 6 May 
+On 6 May, the Institute of International Finance (IIF) 
+Insurance Colloquium brought together senior 
+insurance industry leaders and public sector officials 
+for high-level policy discussions on critical challenges 
+shaping the insurance sector.  
+IAIS Secretary General Jonathan Dixon was a panellist 
+in a session dedicated to addressing protection gaps. 
+The panel explored how insurers are innovating to 
+sustain affordable coverage, particularly in high-risk 
+markets, and the vital role of collaboration with 
+regulators and policymakers. 
+IAIS Head of Implementation Conor Donaldson was on 
+a panel that focused on how insurers and supervisors 
+are adapting risk management frameworks to address 
+an increasingly complex set of exposures, including 
+cyber risks, climate-related risks, technological 
+disruption and macroeconomic volatility. 
+For more information, contact Marius Gardt 
+at marius.gardt@iais.org. 
+IAIS at the NAIC International 
+Insurance Forum | Washington 
+DC | 8 May  
+On 8 May, the IAIS hosted three panel discussions at 
+the 2026 NAIC International Insurance Forum in 
+Washington DC, providing an opportunity to engage in 
+person with members and stakeholders.  
+The sessions explored the critical role of insurance 
+supervisors in safeguarding financial stability, the 
+balance between innovation and resilience, and 
+strategies to close protection gaps. 
+1. In Conversation: IAIS Leadership 
+The IAIS Leadership Dialogue featured keynote 
+remarks by IAIS Executive Committee Chair Toshiyuki 
+Miyoshi. Toshi’s address focused on two critical 
+themes: 
+• Evidence-based standard setting, to ensure 
+standards are data-driven, forward-looking and 
+adaptive to emerging risks; and 
+• Bridging policy gaps, by enhancing collaboration to 
+address systemic risks like climate challenges, 
+natural catastrophes and digital transformation. 
+IAIS Executive Committee Vice Chairs Petra Hielkema, 
+Scott White and Siham Ramli then joined the 
+discussion to share updates on the IAIS work 
+programme and the priorities outlined in the IAIS 
+Roadmap 2026–2027.
+
+IAIS NEWSLETTER | May 2026    Page 7 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+Moderated by IAIS Secretary General Jonathan Dixon, 
+the session began with a lightning round in which 
+participants unanimously emphasised the critical yet 
+often underappreciated role of insurance supervisors in 
+safeguarding global financial stability. 
+2. Fireside Chat on Stability and Innovation: 
+Delivering Societal Resilience 
+The second session, moderated by IAIS Head of 
+Implementation Conor Donaldson, featured Siham 
+Ramli and Standards and Supervisory Practices 
+Committee (SSC) Co-Chairs Farzana Badat and Judi 
+French. 
+This panel examined how innovation and financial 
+stability can work in tandem to build societal resilience. 
+Discussions focused on: 
+• Structural shifts in the life insurance sector and 
+their implications; 
+• Recovery and resolution planning to ensure 
+preparedness for future crises; and 
+• IAIS priorities on artificial intelligence (AI), cyber 
+risks and financial inclusion, which are central to 
+the SSC’s work programme. 
+3. Addressing Natural Catastrophe Protection 
+Gaps 
+The final session, moderated by Ricardo Lara, 
+California’s Insurance Commissioner, focused on 
+closing natural catastrophe protection gaps.  
+Panellists Sophie Sirtaine (CGAP), Martin Lennon 
+(Flood Re) and Pierre du Rostu (AXA Digital 
+Commercial Platform) discussed progress in 
+addressing protection gaps in underserved markets. 
+They emphasised the need for broader collaboration 
+and highlighted the importance of engaging diverse 
+stakeholders, such as venture capital firms, local 
+governments, builders, land use planners and 
+technology partners, to develop innovative and 
+inclusive solutions for vulnerable populations and 
+communities. 
+For more information, contact Marius Gardt 
+at marius.gardt@iais.org. 
+Insurance 4 ALL - CGAP Council 
+of Governors Annual Meeting | 
+Paris | 27 May 
+On 27 May, IAIS Secretary General Jonathan Dixon 
+moderated a high-level panel discussion 
+titled "Enhancing Financial Health Across Borders: A 
+Dialogue of Governors" at the Insurance 4 ALL event, 
+co-organized by AXA and CGAP. The event, part of 
+CGAP's Council of Governors Annual Meeting, brought 
+together central bank governors, regulators, insurance 
+executives and development partners to advance 
+inclusive insurance as a tool for financial health and 
+resilience. 
+Panellists included Renato Gomes, former Deputy 
+Governor of Banco Central do Brasil, and H.E. Fatma 
+Al Jabri, Assistant Governor at the Central Bank of the 
+UAE (CBUAE). 
+Key insights included: 
+• Brazil’s digital transformation: Renato Gomes 
+highlighted how Brazil’s Pix instant payments 
+system and Open Finance framework have 
+brought millions into the formal financial system, 
+enabling affordable, tailored financial products and 
+advancing insurance inclusion.
+
+IAIS NEWSLETTER | May 2026    Page 8 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+• The UAE as a global hub for financial health: H.E. 
+Fatma Al Jabri presented the UAE’s National 
+Financial Inclusion Strategy 2026–2030, which 
+aims to extend insurance coverage to underserved 
+groups and strengthen financial resilience. 
+Jonathan concluded by noting that these examples 
+demonstrate that financial health stems from deliberate 
+regulatory choices, political will and bold infrastructure 
+development. He reaffirmed IAIS’ commitment to 
+supporting supervisors globally on this journey. 
+For more information, contact Marius Gardt 
+at marius.gardt@iais.org. 
+Forum Updates 
+Forums provide an ongoing and flexible platform for technical experts to share insights and 
+discuss developments in a specific area relevant for insurance supervision, including 
+supervisory practices, cross-cutting topics and emerging trends. 
+ 
+Financial Inclusion Forum | Virtual 
+| 6 May 
+The Financial Inclusion Forum (FIF) convened virtually 
+on 6 May to share perspectives on the integration of 
+insurance with other products and services for risk 
+reduction.  
+The agenda also included an update from the Access 
+to Insurance Initiative (A2ii) on the Cape Town 
+Declaration on Inclusive Insurance. Members 
+discussed how the supervisory learning circles provide 
+a sounding board for supervisors supporting inclusive 
+insurance initiatives.  
+Peer exchange centred on the role of bundling 
+insurance with other products or services as a strategy 
+for risk reduction. Members discussed the availability 
+and characteristics of bundled products, including 
+aspects such as coverage, affordability, accessibility 
+and consumer protection. Discussions also examined: 
+• Regulatory frameworks that support the 
+development and distribution of such products;  
+• The advantages and disadvantages of bundled 
+products compared with standalone insurance; and 
+• Supervisory strategies to facilitate integration while 
+ensuring consumer protection through clear 
+regulations, innovative partnerships and consumer 
+education. 
+Additionally, guest speakers from the Disaster Risk 
+Financing and Insurance (DRFI) Program and M-PESA 
+Africa shared insights on innovative approaches to 
+embedding insurance within financial services to 
+address protection gaps.  
+During the meeting, FIF members also discussed the 
+review of the Application Paper on regulation and 
+opportunities for collaboration with other organisations 
+with related financial inclusion objectives.  
+The FIF will next meet on 15 and16 September in 
+Asuncion, Paraguay. 
+For more information, contact Carlos Lopez Moreira at 
+carlos.lopezmoreira@iais.org and Shunsuke Tani at 
+shunsuke.tani@iais.org.
+
+IAIS NEWSLETTER | May 2026    Page 9 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+Risk-based Solvency 
+Implementation Forum | Basel | 21 
+May 
+The Risk-Based Solvency Implementation Forum 
+(RBSIF) convened in Basel on 21 May. 
+During the session, the International Monetary Fund 
+(IMF) shared insights from the Financial Sector 
+Assessment Programs (FSAPs), including 
+considerations related to ICP 17. This was followed by 
+a roundtable discussion, during which supervisors 
+exchanged views on supervisory practices on 
+calibration. The discussion addressed challenges such 
+as limited data availability and the need to ensure that 
+parameters remain fit-for-purpose over time. Members 
+also reflected on lessons learnt from calibration efforts 
+carried out within the context of the Insurance Capital 
+Standard (ICS), highlighting practical considerations 
+including the importance of proportionality, supervisory 
+judgment and the availability of data. 
+Representatives from the Swiss Financial Market 
+Supervisory Authority (FINMA provided participants 
+with practical insights into their experience with 
+calibration, and the International Actuarial Association 
+(IAA) IAA explored the role of actuaries in risk-based 
+capital calibration. 
+The forum also discussed the next steps for finalising 
+the thematic notes on how to build a risk-based 
+solvency (RBS) regime using Own Risk and Solvency 
+Assessment (ORSA) as a basis and the implications of 
+International Financial Reporting Standards (IFRS) for 
+RBS implementation. 
+The RBSIF will meet next in August. 
+For more information, contact Tom Wicling at 
+tom.wicling@iais.org and Carlos Lopez Moreira at 
+carlos.lopezmoreira@iais.org. 
+Retirement Income and Pensions 
+Forum | Virtual | 18 May 
+At its meeting on 18 May, the Retirement Income and 
+Pensions Forum (RIPF) discussed the following:  
+• An update from the EMDE Investor Taskforce, 
+which is considering how institutional investors, 
+including insurers and pension funds, can increase 
+their asset allocation to EMDE jurisdictions;  
+• An update from the World Economic Forum on the 
+longevity economy and what it means for 
+retirement policy; 
+• The introduction in Chile of a generational 
+approach to pension fund investment strategies 
+and changes to the annuities market; and 
+• An update from Belize on developments in their 
+pension market.  
+The RIPF will next meet virtually on 5 and 7 October.  
+For more information, contact Joe Perry at 
+joe.perry@iais.org. 
+Capacity Building 
+RECENT  
+FinTech Forum SupTech webinar 
+| Virtual | 21 May  
+The FinTech Forum (FF) hosted a member-only 
+webinar on the members-only SupTech report on 21 
+May. The purpose of the webinar was to ensure the 
+report is accessible and practical for all IAIS members 
+and to foster open dialogue on SupTech related 
+issues. 
+The webinar highlighted discussions on enhancing 
+supervisory practices through technology. Key topics 
+include the use of artificial intelligence (AI) for 
+efficiency, risk identification and decision-making, as 
+well as real-time reporting tools and automation for 
+supervisory tasks. Emerging trends such as AI-
+enabled supervision, hyper-automation and integrated 
+real-time data systems were discussed alongside 
+challenges like data standards, capacity building and 
+ethical AI adoption.  
+The replay is now available here (IAIS extranet login 
+needed). 
+For more information, contact Joe Perry at 
+joe.perry@iais.org or Shunsuke Tani at 
+shunsuke.tani@iais.org.
+
+IAIS NEWSLETTER | May 2026    Page 10 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+Committee and Subcommittee 
+Activities 
+Committee Activities 
+IMPLEMENTATION ASSESSMENT COMMITTEE  
+The Implementation Assessment Committee (IAC) 
+met in Basel on 19 May to discuss: 
+• An update on various implementation initiatives, 
+including the Boot Camp for Assessors and the 
+ICS Baseline Self-Assessment (BSA); 
+• The report for the Member Assessment 
+Programme (MAP) in Costa Rica and plans for 
+future MAPs; 
+• The self-assessment questionnaire for the 
+upcoming ComFrame BSA; 
+• The next Peer Review Processes; 
+• An update on the Review of Outputs project; 
+• An update on subcommittee governance 
+changes, including a review of the Standard 
+Assessment Working group (SAWG) mandate; 
+and 
+• The ICS implementation assessment 
+methodology; and  
+• The self-assessment questionnaire for the US 
+BSA of the implementation of the ICS.  
+The IAC will next meet virtually on 13 October. 
+Secretariat support: guillaume.scheffler@iais.org 
+and sharon.lin@iais.org. 
+STANDARDS AND SUPERVISORY PRACTICES 
+COMMITTEE  
+The Standards and Supervisory Practices 
+Committee (SSC) met in Basel on 20 May to 
+discuss: 
+• An update on various planned capacity-building 
+initiatives; 
+• The possibility to publish an ICS Q&A on Credit 
+Rating Agencies; 
+• Resolution of public consultation comments on 
+ICS-related ComFrame standards on supervisory 
+reporting and public disclosure; 
+• An update on ICS yield curve data collection; 
+• Approval of the draft high-level outline of the 
+Application Paper on asset-intensive reinsurance; 
+• Public versions of the thematic notes on how to 
+build a risk-based solvency (RBS) regime using 
+ORSA as a basis and the implications of IFRS for 
+RBS implementation; 
+• An update on the Protection Gaps Task Force’s 
+project to develop practical resources for 
+supervisors and policymakers on addressing 
+NatCat protection gaps; 
+• Draft post-consultation versions of the revised 
+Application Papers on recovery and resolution; 
+• An update on the Review of Outputs project; 
+• Proposal for revising the guidance for organising 
+regional seminars;  
+• An update on subcommittee governance 
+changes; and  
+• Updates from the Operational Resilience Working 
+Group, the Financial Inclusion Forum and the 
+Climate Risk Steering Group.  
+The SSC will next meet virtually on 14 October. 
+Secretariat support: ayana.ishii@iais.org and 
+can.zhou@iais.org. 
+Subcommittee Activities 
+GOVERNANCE WORKING GROUP  
+The Governance Working Group (GWG) met in 
+Cape Town, South Africa, on 27-28 May to:   
+• Discuss the last phase of work on its project 
+developing member-only supervisory guidance 
+for effective interactions with insurer’s Boards 
+and Senior Management;
+
+IAIS NEWSLETTER | May 2026    Page 11 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+• Receive guest presentations on the new iteration 
+of South Africa’s corporate governance code, 
+King V, and on how insurers can contribute to 
+strengthening resilience for customers and 
+communities; 
+• Share insights and updates from member 
+jurisdictions on topics connected to the 
+supervision of corporate governance and risk 
+management and internal controls; and 
+• Discuss possible topics for the GWG’s forward 
+work programme. 
+Secretariat support: lauren.eckermann@iais.org. 
+MACROPRUDENTIAL MONITORING WORKING 
+GROUP  
+The Macroprudential Monitoring Working Group 
+(MMWG) met in Sydney on 4–5 May to discuss: 
+• The workplan and deliverables of the working 
+group for 2026–2027; 
+• Views on the key risks facing the insurance 
+sector; 
+• Whether to accompany future GIMAR 
+publications with a statistical annex; 
+• Updates to the cross sectoral analysis comparing 
+the systemic footprint of insurance and banking 
+sectors; 
+• Planning for the Global Monitoring Exercise 2026, 
+including an exchange of views on the scope and 
+themes of the collective discussion; 
+• A draft outline of the mid-year GIMAR 2026; 
+• Enhancements to the risk dashboard on financial 
+markets; 
+• Work related to the Financial Stability Board; and 
+• Progress in the work of the Systemic Risk 
+Analysis Workstream. 
+The MMWG will next meet virtually on 16 June. 
+Secretariat support: nicolas.colpaert@iais.org and 
+roberto.ottolini@iais.org. 
+MACROPRUDENTIAL SUPERVISION WORKING 
+GROUP  
+The Macroprudential Supervision Working Group 
+(MSWG) met in Sydney on 7–8 May to discuss: 
+• MSWG timeline and composition of workstreams; 
+• Updates by members on recent geopolitical 
+developments and the impact on the insurance 
+sector, including changes in supervisory 
+practices; 
+• Updates by members on macroprudential 
+supervisory practices/frameworks relating to 
+asset-intensive reinsurance, alternative assets 
+and/or interconnectedness; 
+• An update from Targeted Jurisdictional 
+Assessments (TJA) Pre-Workstream; and 
+• A draft outline of the Application Paper on asset-
+intensive reinsurance, including a survey for 
+supervisors. 
+The MSWG will next meet virtually on 16 July. 
+Secretariat support: videshree.rooplall@iais.org and 
+nicolas.colpaert@iais.org. 
+JOINT  MACROPRUDENTIAL MONITORING 
+WORKING GROUP  AND MACROPRUDENTIAL 
+SUPERVISION WORKING GROUP  
+ 
+The MMWG and MSWG also met jointly in Sydney 
+on 6 May to: 
+• Receive an update from the systemic risk 
+analysis workstream; 
+• Engage in a brainstorm session on potential 
+topics for the GIMAR special topic edition 2027; 
+and 
+• Receive the following presentations:  
+- University of Melbourne: A forward-looking 
+perspective on Australia’s private equity 
+market; 
+- Apollo Global Management: The regulatory 
+risk management and global regulatory 
+strategy of Apollo and Athene; 
+- Australian Prudential Regulation Authority 
+(APRA): Australia’s system and longevity 
+capital risk; 
+- Challenger Ltd: Challenger’s assessment and 
+management of risks to the Australian 
+market; and 
+- Australian Securities and Investments 
+Commission (ASIC): A discussion on private 
+markets in Australia.
+
+IAIS NEWSLETTER | May 2026    Page 12 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+Secretariat support: videshree.rooplall@iais.org, 
+roberto.ottolini@iais.org and 
+nicolas.colpaert@iais.org. 
+OPERATIONAL RESILIENCE WORKING GROUP  
+On 27–28 May, the Operational Resilience Working 
+Group (ORWG) held its annual in-person meeting in 
+Basel. During the meeting, the group discussed: 
+• Findings from the third-party risk survey, 
+focusing initially on the current environment 
+before exploring future trends; 
+• Geoeconomic fragmentation and an overview of 
+the cyber threat landscape; 
+• Insights on emerging practices related to critical 
+function regimes, including lessons learnt and 
+their integration into ongoing supervision; and 
+• The IAIS’ work on recovery and resolution and 
+updates on the operational resilience work being 
+undertaken by the other standard-setting bodies. 
+The second day was focused on stakeholder 
+engagement. Discussions focused on:  
+• Operational resilience stress testing (including 
+how these tests are developed, current 
+scenarios and their applications) and impact 
+tolerance practices (such as defining maximum 
+disruption thresholds, third-party involvement 
+and the role of senior executives and Boards in 
+oversight); and 
+• Nth-party and third-party risks and how they are 
+managed.  
+The ORWG will next meet virtually on 14 July.  
+A member-only webinar on operational resilience for 
+emerging markets and developing economies will be 
+held on 15 July. Members can register now here. 
+Secretariat support: joe.perry@iais.org.
+
+IAIS NEWSLETTER | May 2026    Page 13 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+Calendar of Meetings and 
+Events  
+The following groups are scheduled to meet between June and July 
+2026.  
+For the full IAIS calendar, visit our public website or, for members, visit our comprehensive IAIS Member Calendar 
+on the members extranet. 
+Date Group Location 
+June 2026 
+1 FinTech Forum Virtual 
+2 Resolution Working Group Virtual 
+3–4 Emerging Market and Developing Economies Meeting Rabat, Morocco 
+4 Financial Crime Forum Virtual 
+5 Protection Gaps Task Force Rabat, Morocco 
+9 Signatories Working Group Virtual 
+16 Macroprudential Monitoring Working Group Virtual 
+16 Supervisory Forum Virtual 
+17 Climate Risk Steering Group Virtual 
+17 Joint Capital and Solvency Working Group and Standards Assessment 
+Working Group Virtual 
+29 Audit and Risk Committee Basel, Switzerland 
+29 Budget Committee Basel, Switzerland 
+30 Monitoring and Risk Assessment Committee Basel, Switzerland 
+30 Executive Committee Basel, Switzerland 
+July 2026   
+1 Executive Committee Basel, Switzerland 
+7 Global Seminar Leadership Dialogue Virtual 
+14 Operational Resilience Working Group Virtual 
+15 Market Conduct Working Group Virtual 
+16 Macroprudential Supervision Working Group Virtual
+
+IAIS NEWSLETTER | May 2026    Page 14 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+Financial 
+Stability 
+Institute (FSI) 
+Report 
+The Financial Stability Institute (FSI) was jointly 
+created in 1998 by the Bank for International 
+Settlements and the Basel Committee on 
+Banking Supervision to assist supervisors 
+around the world in improving and strengthening 
+their financial systems.  
+12th edition of FIRST ONE 
+training programme 
+The FSI and the IAIS will jointly deliver the 12th 
+edition of the FSI-IAIS Regulatory and Supervisory 
+Training (FIRST ONE) online course from 26 August 
+to 30 October. 
+The virtual programme combines FSI Connect self-
+study modules with live webinars and is aimed at 
+entry-level insurance supervisors, as well as 
+experienced professionals transitioning into 
+insurance supervision roles. The course draws on 
+IAIS supervisory material and supporting material, 
+including the ICPs, and provides participants with a 
+practical introduction to key prudential and conduct 
+aspects of insurance supervision, alongside 
+discussions on emerging risks. 
+IAIS members may nominate up to five staff 
+members to join the programme. Registration closes 
+on 31 July. 
+For more information, contact Carlos Lopez Moreira 
+at carlos.lopezmoreira@iais.org. 
+Access to 
+Insurance 
+Initiative (A2ii) 
+Report 
+The Access to Insurance Initiative (A2ii), 
+convened by CGAP, works with insurance 
+supervisors to promote inclusive and 
+responsible insurance, thereby reducing 
+vulnerability. Find A2ii on LinkedIn and sign up 
+for the A2ii mailing list to stay informed. 
+Building momentum: 
+Endorsements of the Cape Town 
+Declaration 
+A2ii took part in the IAIS Sub-Saharan Africa 
+Regional Seminar hosted by the Senegalese 
+Insurance Directorate, alongside insurance 
+supervisors from across the region. The gathering 
+offered a valuable space for peer exchange and 
+shared learning.  
+A particular highlight for the A2ii team during the 
+week was the endorsement of the Cape Town 
+Declaration on Inclusive Insurance by the
+
+IAIS NEWSLETTER | May 2026    Page 15 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+supervisory authorities of Namibia and Senegal, 
+bringing the number of signatories worldwide to 17. 
+The Declaration goes beyond signalling intent. It 
+calls on signatories to define clear objectives and 
+measurable indicators — embedding accountability 
+rather than relying on broad aspirations. Dr Brian 
+Manchishi, Deputy Registrar of Zambia's Pensions 
+and Insurance Authority and an early advocate of 
+the Declaration, illustrated this clearly: Zambia's 
+national financial inclusion strategy directly aligns 
+with the Declaration's overarching goals. This is 
+what practical commitment looks like, and A2ii 
+continues to highlight these examples to sustain 
+momentum globally. 
+WEBINAR S  
+How to make licensing for 
+standalone inclusive insurance 
+providers work effectively? 
+That was the central question of the A2ii/CGAP 
+webinar on May 21, in which 41 supervisors 
+participated from 23 countries. CGAP shared 
+insights from its research and findings from the 
+supervisory learning circles with eight supervisors on 
+the topic.  
+Discussion focused on capital requirements, as well 
+as the proportionality of other rules. Participants 
+exchanged on the challenges of implementing a 
+framework for standalone inclusive insurance 
+providers and the impact it can have. 
+CGAP concluded by summarising its findings on the 
+conditions under which a license makes sense and 
+what is needed for it to be effective. A standalone 
+license can be transformative for some actors. 
+Strong informal providers, such as funeral parlours 
+or cooperatives, may already be offering insurance-
+like services outside regulation. A standalone license 
+can help them formalise, expand under supervision, 
+compete on a level playing field and grow 
+sustainably. It may also suit community or member-
+based financial institutions, such as cooperatives 
+and credit unions, that want to enter insurance as 
+regulated underwriters. It can also help conventional 
+insurers reach lower-income markets when their 
+existing structures, boards, or investors are focused 
+on higher-income segments. In such cases, a 
+separate dedicated entity may work better than an 
+inclusive insurance business line within a larger 
+company.  
+Most importantly, if supervisors do opt for the special 
+license several factors are necessary: 
+• Proportionality, not just in principle but in 
+practice. Rules concerning capital, governance, 
+reporting, fees and sanctions, distribution, 
+products and beyond should be proportionate. A 
+test-and-learn approach is also key in dialogue 
+with the emerging providers.  
+• Data is critical. Collect it from day one and 
+monitor who providers reach, who they partner 
+with, what products they offer, what claims they 
+pay and how sustainability develops. This helps 
+refine the framework, spot compliance gaps, 
+demonstrate the license value or attract more 
+providers. 
+• The legal definition must not be too narrow. 
+Tight definitions, especially with low caps on 
+sums insured, can undermine the business 
+models you want to encourage. A more 
+functional, principle-based definition can leave 
+room for innovation. 
+• Clear incentives matter. An inclusive insurance 
+licensing framework should signal a real opening 
+through simpler requirements, support 
+alternative distribution, and motivate aggregators 
+to bring in their client base or investors to 
+engage in new markets. 
+Tool for innovation: Regulatory 
+sandboxes 
+Regulatory sandboxes are one of the most dynamic 
+tools in inclusive insurance supervision. Alongside 
+CGAP experts, A2ii facilitated a peer learning 
+exchange with supervisors on this topic. Insights 
+from CGAP research and the peer exchanges will be 
+shared at an upcoming webinar which explores the 
+role of regulatory sandboxes in fostering innovation 
+and expanding access to insurance.  
+A2ii and CGAP invite regulatory and supervisory 
+authorities to join the webinar From Design to 
+Impact: Regulatory Sandboxes in Insurance: 
+Approaches, Challenges, and Lessons Learned 
+on Thursday, June 18, 2026, from 2:00 – 3:30 PM 
+CEST.
+
+IAIS NEWSLETTER | May 2026    Page 16 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+You can register here.  
+Whether your jurisdiction already operates a 
+sandbox or is still considering its implementation, 
+this session is open to all insurance supervisors. We 
+believe that peer exchange across different 
+regulatory contexts — from early-stage initiatives to 
+more mature frameworks — will foster collective 
+learning and practical insights. 
+CASE STUDIES  
+Scaling inclusive insurance 
+CGAP's case studies on scaling inclusive insurance 
+while preserving consumer value address the core 
+barrier to scale—economic viability—and examine 
+practical pathways that help distribution partners and 
+insurers extend coverage to vulnerable populations, 
+especially women. By spotlighting new models and 
+partnerships, the case study series offers actionable 
+insights for expanding access and strengthening 
+resilience. Each case study highlights a particular 
+aspect of the inclusive insurance industry where 
+disruption is needed and feasible. 
+• Confronting the Climate and Health Nexus: 
+Lessons from Self-Employed Women’s 
+Association (SEWA) 
+• Scaling Inclusive Insurance through Government 
+Systems: Lessons from the World Food 
+Programme 
+• Leveraging Social Protection Networks for 
+Inclusive Insurance: Lessons from Fiji
+
+IAIS NEWSLETTER | May 2026    Page 17 of 17 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and email alerts, please visit www.iais.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2026. 
+About the IAIS 
+ 
+The International Association of Insurance Supervisors (IAIS) is a voluntary membership organisation of 
+insurance supervisors and regulators from more than 200 jurisdictions. The mission of the IAIS is to promote 
+effective and globally consistent supervision of the insurance industry in order to develop and maintain fair, safe 
+and stable insurance markets for the benefit and protection of policyholders and to contribute to global financial 
+stability.  
+ 
+Established in 1994, the IAIS is the international standard setting body responsible for developing principles, 
+standards and other supporting material for the supervision of the insurance sector and assisting in their 
+implementation. The IAIS also provides a forum for members to share their experiences and understanding of 
+insurance supervision and insurance markets.  
+ 
+The IAIS coordinates its work with other international financial policymakers and associations of supervisors or 
+regulators and assists in shaping financial systems globally. In particular, the IAIS is a member of the Financial 
+Stability Board (FSB), member of the Standards Advisory Council of the International Accounting Standards 
+Board (IASB) and partner in the Access to Insurance Initiative (A2ii). In recognition of its collective expertise, the 
+IAIS also is routinely called upon by the G20 leaders and other international standard- setting bodies for input on 
+insurance issues as well as on issues related to the regulation and supervision of the global financial sector.  
+ 
+ 
+International Association of Insurance Supervisors  
+c/o Bank for International Settlements 
+CH-4002 Basel 
+Switzerland 
+Tel: +41 61 280 80 90 
+www.iais.org 
+ 
+ 
+For news in real-time, follow us on LinkedIn 
+ 
+The publication is available free of charge on the IAIS website 
+ 
+©International Association of Insurance Supervisors 2026. 
+All rights reserved. Brief excerpts may be reproduced or translated provided the source is stated.

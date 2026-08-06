@@ -1,0 +1,26 @@
+# Career opportunity at the IAIS – Senior Policy Advisor (Implementation Assessment)
+
+[21 Jul 2022](https://www.iais.org/2022/07/career-opportunity-at-the-iais-spa-implementation-assessment/)
+
+in [Latest news](https://www.iais.org/category/latest-news/)
+
+The IAIS is looking for a high performing professional to join the Secretariat in the role of Senior Policy Advisor – Implementation Assessment.  
+For more information, go to our [Recruitment page](/about-the-iais/recruitment/) or download the vacancy notice [here](/uploads/2022/07/220721-SPA-Implementation-Assessment.pdf).
+
+Applications can be submitted until 18 August 2022. Click [here](https://lde.tbe.taleo.net/lde01/ats/careers/requisition.jsp?org=BIS&cws=1&rid=1046) to apply.
+
+For any questions, please send a message to [IAIS.Recruitment@bis.org.](mailto:IAIS.Recruitment@bis.org)
+
+21 Jul 2022
+
+[Recruitment](https://www.iais.org/tag/recruitment/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2022%2F07%2Fcareer-opportunity-at-the-iais-spa-implementation-assessment%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

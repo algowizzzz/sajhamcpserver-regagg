@@ -1,0 +1,1 @@
+Summary: # The IAIS issues a comment letter to the IAASB on the proposed ISSA 5000 – General Requirements for Sustainability Assurance Engagements

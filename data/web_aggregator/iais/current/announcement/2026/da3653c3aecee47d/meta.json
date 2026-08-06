@@ -1,0 +1,24 @@
+{
+  "doc_id": "da3653c3aecee47d",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "2022 IAIS Membership Application Form (002) - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/2022/11/2022-iais-membership-application-form-002/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b3357f37728936f1850e85cabe4ec79d127f93b111a1267957143af9dd23b091",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/da3653c3aecee47d",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

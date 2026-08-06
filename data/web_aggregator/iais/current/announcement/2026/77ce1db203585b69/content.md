@@ -1,0 +1,236 @@
+Public 
+ 
+ 
+Public 
+Errata for Level 1 and Level 2 Documents of ICS Version 
+2.0 for the monitoring period Page 1 of 5 
+ 
+ 
+Level 1 and Level 2 Documents for ICS Version 2.0 for the monitoring period 
+ERRATA SHEET 
+28 June 2021 
+Level 1 Document 
+Page Para Revision 
+10 21 This should is be achieved, to the extent possible, by applying a look-through approach 
+in order to assess the risks of the assets underlying the investment vehicle. 
+11 5.2 
+(Section 
+title) 
+Calculation of the Current Estimate 
+11 5.2.1 
+(Section 
+title) 
+Basis for calculation and cash-flow projection 
+13 57 The MOCE is a margin added to the current estimate of insurance obligations in order to 
+achieve a market adjusted value of insurance liabilities. 
+18 78 Items a) to c) are net of any associated DTL that would be extinguished if the item 
+becomes impaired or derecognised under the valuation approach. DTLs are permitted to 
+be netted against DTAs (item d) above provided that they exclude amounts that have 
+already been netted against items a) to c). 
+21 7.1.2 
+(section 
+title) 
+Geographical segmentation 
+22, 
+23 
+103, 
+105, 
+107, 
+110, 
+112 
+geographical segmentation 
+23 108 Deleted the sentence “Examples of policies […] are provided in the Level 2 document”. 
+23 115 The Non-Life insurance risk charge… 
+25 132 The Equity risk charge is calculated as the change in net asset value following the 
+occurrence of a stress scenarios that impacts the level and volatility of the fair value of 
+equities, after management actions . The stress scenario consists of level scenarios , 
+according t o the  are specified by segments of assets ., and one  A volatility scenario is 
+measured separately, after management actions.  
+27 142 Last sentence “The methodology to calculate the Asset Concentration risk charge is 
+specified in the Level 2 document.”  new paragraph
+
+Public 
+Errata for Level 1 and Level 2 Documents of ICS Version 
+2.0 for the monitoring period Page 2 of 5 
+ 
+27 149 IAIGs may use any ratings by a rating agency currently recognised by their home 
+insurance regulator supervisor for local capital determination purposes, subject to clear 
+instructions provided by the home insurance regulator supervisor on how to map those 
+credit agency ratings to the ICS Rating Categories and explicit acceptance of the use of 
+those ratings by the IAIS. 
+28 154 Life (non-risk) – products where the policyholder bears the investment risk. It includes 
+segmented funds and accumulation annuities.  
+28 155 The exposures and stress factors , risk exposures and line of business segments for the 
+Operational risk charge are specified in the Level 2 document. 
+29 160 Deferred taxes, as recognised on the consolidated GAAP or SAP balance sheet  
+(“consolidated GAAP”), are also recognised on the ICS balance sheet in accordance with 
+Section 5.1. DTA and DTL on the consolidated GAAP should be reported the same way on 
+the ICS balance sheet whether that be two numbers or a single number. 
+29 161 There are two areas of the ICS that are tax affected: 
+ Differences in valuation between the jurisdictional consolidated GAAP balance 
+sheet and the ICS balance sheet (ICS Adjustment), made in accordance with 
+Section 5.1; and 
+ The ICS insurance capital requirement. 
+29 162 The ICS applies a Top-down approachgroup level calculation using a group effective tax 
+rate (G-ETR) to calculate the change in deferred tax on resulting from the ICS 
+Adjustment and the tax effect on the ICS insurance capital requirement. 
+29 163 The method to calculate the group G-ETR is specified in the Level 2 document. 
+29 8.2 
+(Section 
+title) 
+Deferred tax resulting from the ICS Adjustments 
+29 164 The valuation adjustments made to the consolidated GAAP/SAP balance sheet in order 
+to derive the ICS balance sheet give rise to corresponding adjustments to deferred tax 
+assets and liabilities. Potential Any additional DTAs, created as a consequence of those 
+the ICS aAdjustments, are subject to an utilisation assessment. The conditions of 
+calculation and recognition and calculation of those deferred tax adjustments, including 
+the utilisation assessment, as well as the conditions in which those adjustments may be 
+offset, are specified in the Level 2 document.
+
+Public 
+Errata for Level 1 and Level 2 Documents of ICS Version 
+2.0 for the monitoring period Page 3 of 5 
+ 
+Level 2 Document 
+Page Para Revision 
+18 55 Unless they are replicable by a portfolio of assets (as specified in Section 5.4),All liabilities that 
+are not in the Top or Middle Bucket belong to the General Bucket. 
+20 72 ICS risk category changed to ICS rating category in 𝑤𝐼𝐶𝑆 𝑅𝐶𝑖,  𝑤𝑑𝑢𝑟𝑎𝑡𝑖𝑜𝑛 𝑏𝑎𝑛𝑑
+𝐼𝐶𝑆 𝑅𝐶𝑖  and 
+𝑠𝑝𝑟𝑒𝑎𝑑𝑑𝑢𝑟𝑎𝑡𝑖𝑜𝑛 𝑏𝑎𝑛𝑑
+𝐼𝐶𝑆 𝑅𝐶𝑖 𝑎𝑓𝑡𝑒𝑟 𝑅𝐶 
+21 76 Formula updated to: 
+𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝑀𝐵 = 80% × (1 − 𝑇𝑂𝑀) × 𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝐺𝐵 + 90% × 𝑇𝑂𝑀
+× max [𝑊𝐴𝑀𝑃𝑠𝑝𝑟𝑒𝑎𝑑, 80%
+90% × 𝑆𝑝𝑟𝑒𝑎𝑑 𝐴𝑑𝑗𝐺𝐵] 
+39 145 The stresses to the unit expense and expense inflation assumptions are applied 
+simultaneously.Expenses that are not subject to any estimation uncertainty are excluded from 
+both the unit and inflation stresses. The expense inflation stress is applied only to expenses 
+that are sensitive to inflation. 
+53 178 Consequently, the total ICS catastrophe capital risk charge will be calculated as follows. 
+55 184 For current estimates of insurance liabilities calculated with a dynamic lapse function that 
+uses the interest rate as an input variable, the base lapse assumptions stay unchanged under 
+the interest rate stresses, but lapse rates react to the interest rate scenarios used to calculate 
+the Interest Rate risk charge. 
+57 195 For each currency, the stressed yield curve for the twist up -to-down scenario is obtained by 
+adding the following yield curve to the initial yield curve, up to the LOT: 
+𝑁−1(0.995). [𝑠𝑡1. 𝐿𝑒𝑣𝑒𝑙 𝑐𝑢𝑟𝑣𝑒 + 𝑠𝑡2. 𝑆𝑙𝑜𝑝𝑒 𝑐𝑢𝑟𝑣𝑒 + 𝑠𝑡3. 𝐶𝑢𝑟𝑣𝑎𝑡𝑢𝑟𝑒 𝑐𝑢𝑟𝑣𝑒] 
+where: 
+ (
+𝑠𝑡1
+𝑠𝑡2
+𝑠𝑡3
+) = 𝑐𝑜𝑠(𝜃)𝑀𝑒12 − 𝑠𝑖𝑛(𝜃)𝑀𝑒21 
+59 207c An instantaneous decrease of the market prices of hybrid debt/preference shares by x%, 
+which with x based on the ICS rating category (RC) of the asset, as specified in Table 17. 
+60 208a Step 1: The total level risk is calculated by aggregating the impact of the stress for each level 
+scenario, floored at zero, using the following correlation matrix: 
+89 311 The exposures and stress factors for Operational risk are set specified in the following table. 
+91 320 The group effective tax rate (G-ETR) is calculated as a weighted average statutory effective 
+tax rate, weighted using the previous three-year average of GAAP earnings before tax on a 
+sub-group/entity level basis. The scope of the weighted average calculation is limited to 
+insurance-related activities, and GAAP earnings before tax is floored at zero. 
+91 321 Statutory effective tax rates that have been enacted or substantially enacted as of the 
+reporting date are used for the group G-ETR calculation. 
+91 Footnote 
+26 
+For example, a tax authority announces tax rate changes that would have a material impact 
+for future periods. In such a case, the newly announced statutory effective tax rate is used in 
+the group G-ETR calculation.
+
+Public 
+Errata for Level 1 and Level 2 Documents of ICS Version 
+2.0 for the monitoring period Page 4 of 5 
+ 
+91 8.2 
+(Section 
+title) 
+Deferred tax resulting from the ICS Adjustments 
+91 New 
+(after 
+Section 
+title 8.2) 
+XX1. The adjustment to deferred tax is determined for each balance sheet line item that has 
+been adjusted in order to arrive at the ICS balance sheet. Line items may yield an adjustment 
+to deferred tax asset, deferred tax liability or no adjustment to deferred tax depending on the 
+tax treatment of the line item. No adjustment for tax is made where the change in a line item, 
+or component of a line item, does not result in a temporary tax d ifference (eg equity line 
+items, line items representing permanent tax differences such as items that may not be 
+expensed or generate revenue that is exempt for tax purposes). These line items or 
+components of line items are excluded from the deferred tax adjustment calculation. 
+XX2. The deferred tax adjustment is calculated on a line by line basis. For all lines or 
+components of lines, other than MOCE, where the adjustment creates a tax impact, the 
+deferred tax is then calculated by multiplying the tax eff ected difference between 
+consolidated GAAP and ICS balances by the G -ETR (as specified in paragraphs 320 and 321). 
+The sum of DTA and the sum of DTL resulting from this line by line calculation are reported 
+separately. The consolidated GAAP deferred tax is  adjusted by the net outcome of the 
+deferred tax resulting from the ICS Adjustment. 
+93 322 Deleted 
+91 New 
+(after 
+Section 
+title 
+8.2.1) 
+XX3. Before the utilisation assessment, the DTA recognised from the ICS Adjustment is the 
+sum of DTAs resulting from the line by line calculation specified in paragraph 323 and the 
+DTA on MOCE. 
+91 323 The DTA recognised as a result offrom the ICS Adjustments after the utilisation adjustment is 
+capped limited to 𝑎 + max (0, 𝑏 − 𝑐 − 𝑑), where: at any net GAAP DTL plus gross DTL 
+recognised from the ICS Adjustments according to the following calculation:  
+Add: 
+a. The sum of DTLs resulting from the line by line calcula tion specified in paragraph 
+323;Gross jurisdictional audited GAAP DTL; and 
+b. Gross DTL recognised from the ICS Adjustments.Consolidated GAAP DTL;  
+Subtract: 
+c. Gross jurisdictional audited GAAP DTA GAAP DTL netted from assets deducted from 
+Tier 1 capital resources, as specified in the Level 1 document; and 
+d. DTL associated with assets subject to deduction from Tier 1 capital resources (as per 
+section 6.4.1 of the Level 1 Document)Consolidated GAAP DTA. 
+92 324 Deleted 
+92 325 The gross jurisdictional auditedconsolidated GAAP DTL and DTA referred to in paragraph 323 
+325 are limited to DTL and DTA reported from insurance-related activities. 
+92 327 The utilisable tax effect on the ICS insurance capital requirement is calculated using the 
+following formula:
+
+Public 
+Errata for Level 1 and Level 2 Documents of ICS Version 
+2.0 for the monitoring period Page 5 of 5 
+ 
+max (0, min (notional tax effect on insurance capital requirement, 20%*ICS 
+insurance capital requirement, a + b + c - d)) 
+where: 
+ notional tax effect on insurance capital requirement = ICS Insurance capital 
+requirement * group G-ETR; 
+ 𝑎 = 85% ∗
+∑ min ( 𝑇𝑎𝑥 𝑙𝑜𝑠𝑠 𝑐𝑎𝑟𝑟𝑦 𝑏𝑎𝑐𝑘 𝑐𝑎𝑝𝑎𝑐𝑖𝑡𝑦,
+𝐴𝑙𝑙𝑜𝑐𝑎𝑡𝑒𝑑 𝑛𝑜𝑡𝑖𝑜𝑛𝑎𝑙 𝑡𝑎𝑥 𝑒𝑓𝑓𝑒𝑐𝑡 𝑜𝑛 𝑖𝑛𝑠𝑢𝑟𝑎𝑛𝑐𝑒 𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑟𝑒𝑞𝑢𝑖𝑟𝑒𝑚𝑒𝑛𝑡)𝑇𝑎𝑥 𝑠𝑢𝑏−𝑔𝑟𝑜𝑢𝑝 𝑒𝑛𝑡𝑖𝑡𝑖𝑒𝑠⁄ 27 
+ b = post-stress future taxable income ∗ group G-ETR; 
+ c = max (0, DTL for insurance-related activities on ICS balance sheet post deduction in 
+paragraph 332 - DTA for insurance-related activities on ICS balance sheet); and 
+ d = max [0, min (15% * ICS insurance capital requirement, DTA for insurance-related 
+activities on ICS balance sheet – DTL for insurance -related activities on ICS balance 
+sheet post deduction in paragraph 332)]. 
+Footnote 27  Allocated notional tax effect on insurance capital requirement – refer to 
+paragraph 330 
+92 328 A tax loss carry back is defined as a mechanism allowing a sub-group/entity to offset current 
+net operating losses against tax obligations from previous years (whether tax loss carry 
+backs are allowed and the number of years allowed differs between by tax jurisdictions). 
+92 329 In order to perform the calculation of component a in the utilisable tax effect: 
+ The tax loss carry back capacity for insurance -related activities is evaluated at the 
+legal entity or sub-group level where taxes are assessed, including any fiscal unity for 
+corporate tax as of the ICS reporting date. 
+ The notional tax effect on the ICS insurance capital requirement is allocated between 
+tax sub-groups/entities using a weighted average based on consolidated GAAP/SAP 
+insurance liabilities. 
+93 330 In order to perform the calculation of component b in the utilisable tax effect:  
+ When the IAIG projects consolidated GAAP net losses for the cumulative five -year 
+period, component b is set to zero. 
+Otherwise, component b is approximated by 50% of the total historical five years’ 
+consolidated GAAP earnings before tax on the consolidated financial statement, adjusted for 
+mergers, acquisitions and dispositions. 
+93 331 DTA and DTL used in components c and d are net of deferred taxes represent the amount 
+after the application of deferred tax from the ICS Adjustment as described in section 8.2 and 
+after deduction of the DTL for insurance-related activities associated with assets subject to 
+deduction from Tier 1 capital resources (see Section 6.4.1 of the Level 1 document). 
+94 334i Any adjustments to deferred taxes follow the reference method ICS as outlined in Section 
+7.78.

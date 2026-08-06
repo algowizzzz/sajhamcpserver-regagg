@@ -1,0 +1,1 @@
+Summary: # Final version of the Application Paper on operational resilience objectives and toolkit published

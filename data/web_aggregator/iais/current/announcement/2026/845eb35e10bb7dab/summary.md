@@ -1,0 +1,1 @@
+Summary: Explanatory note: Operationalising amendments to ComFrame 

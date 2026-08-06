@@ -1,0 +1,2412 @@
+Public 
+ 
+ 
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 1 of 46 
+ 
+ 
+Resolution of public consultation comments on draft Issues Paper 
+on Insurer Culture 
+  
+23 June – 23 August 2021
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 2 of 46 
+ 
+Organisation Jurisdiction Confidential Answer Resolution of comments 
+Q1 General comment on the draft Issues Paper 
+1. World 
+Federation of 
+Insurance 
+Intermediaries 
+Belgium No  WFII appreciates the opportunity offered by the IAIS to comment on the draft 
+Issues Paper on Insurer Culture. 
+ 
+We would like to see a rectification of the example re South Africa, in paragraph 
+50 on page 20, which intimates that it was due to the intervention of insurers that 
+intermediaries were able to continue to receive commission in the event of 
+premium relief. This is not in fact the case. It was the Financial Intermediaries 
+Association of Southern Africa (FIA) that approached the FSCA, and it was as a 
+result of the interventions of FIA that the exemption was granted.  
+ 
+The wording of concern is as follows: 
+ 
+South Africa  
+ 
+(...), insurers alerted the FSCA that the granting of premium relief to policyholders 
+may have an unintended negative impact on the liquidity of intermediaries many 
+of whom are small businesses and may be unable to sustain a reduction in their 
+core income streams for a prolonged period. (...) 
+ 
+(...) This proactive approach by insurers resulted in a solution aimed at protecting 
+both the interests of customers as well as the sustainability of the intermediary 
+sector, and was recognised by the FSCA as a positive reflection of those insurers' 
+values.  
+ Noted. 
+ 
+ 
+ 
+ 
+ 
+ 
+The example has been updated for 
+accuracy.  3. Global 
+Federation of 
+Insurance 
+Association 
+Global No  The Global Federation of Insurance Associations (GFIA) welcomes the 
+opportunity to comment on the draft issues paper and looks forward to an on-
+going dialogue on this and other supervisory issues. Given that GFIA represents 
+a diverse set of (re)insurers, it is important to emphasise the need for 
+proportionality in supervision and supervisory support for (re)insurers to remain 
+solvent, competitive, and innovative as the ultimate consumer protections. 
+The discussion of insurer culture and related issues such as leadership, 
+accountability and transparency are very important. Culture is viewed as a critical 
+ Noted.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 3 of 46 
+ 
+link between solvency and market conduct and GFIA recognises that for an 
+insurer to be truly successful, it must effectively achieve both solvency and good 
+market conduct as defined by applicable law and regulation.  
+ 
+There are two fundamental points GFIA wishes to make:  
+- Insurers do not support the development or application of "culture" requirements 
+or standards as an additional layer of compliance/legal requirements that need to 
+be met.  
+- However, insurers do view "culture" as a potentially effective and flexible 
+concept for the company's own use to help it support the right outcomes from an 
+existing compliance/legal perspective, such as reducing the probability of human 
+error (ie culture considerations could be considered a means to an end).  
+ 
+Culture is a rather subjective metric to measure and requires a degree of 
+regulatory intrusiveness. It may be very difficult to regulate culture given the vast 
+differences in corporate culture that still may be completely legal and optimal from 
+a compliance point of view. 
+ 
+GFIA's most significant concern is that future supervisory actions will be based on 
+the notion of culture as discussed in the paper, since culture is different from 
+legally established standards for insurers, including those relating to solvency, 
+governance, and market conduct. Instead, supervision should be based entirely 
+on the specific and duly- established legal standards, not on subjective 
+assessments of matters such as culture.  
+ 
+If the assessment of culture is to play a role in supervision, then it should be no 
+more a factor in determining the specific behaviours, functions and outcomes 
+required by law. These elements should be assessed and regulated according to 
+applicable legal standards. To treat culture for supervisory purposes as 
+something other than compliance with specific legally established supervisory 
+standards is to engage in a subjective exercise that can be difficult for companies 
+to understand and even more difficult for supervisors to fairly and effectively 
+apply. Therefore, GFIA suggests that the concept of culture for supervisory 
+purposes should be understood to be the discreet and well-defined actions and 
+structures of (re)insurers that are governed by legally established standards. The 
+supervisory assessment of culture should not be a subjective judgment outside of 
+those discreet structures, actions, and legal standards.  
+ 
+ 
+ 
+The intention is not to create additional 
+requirements, but to support supervisors in 
+analysing and understanding how culture 
+can be an intersection point for managing 
+conduct and prudential risks. This is based 
+on well-established concepts already 
+contained in the ICPs.  
+ 
+As indicated in para. 17 of the Issues 
+Paper: 
+“Assessing an insurer’s culture can be 
+highly subjective and may require the 
+thoughtful exercise of supervisory 
+judgment on a case-by-case basis. 
+Therefore, applying a closer and more 
+critical eye on the culture of an insurer may 
+help supervisors gain valuable insights into 
+the driving forces behind certain decisions 
+and practices within the insurer. These 
+insights on risky behavioural patterns can 
+lead to more accurate and earlier 
+identification of root causes underlying 
+certain recurring issues. This can, in turn, 
+facilitate more proactive supervisory 
+interventions that prevent specific 
+prudential and conduct risks from 
+materialising.”
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 4 of 46 
+ 
+ 
+Insurers are also concerned about the possibility that the concept of culture would 
+encourage more extensive supervisory intervention of a company that is 
+unnecessary or inappropriate in order to monitor or enforce compliance with 
+existing legal standards of solvency and market conduct. This in turn would lead 
+to a blurring of the lines between supervisors and supervised entities that would 
+likely do damage to the independence and authority of supervisors and the ability 
+of companies to manage themselves, compete, and innovate.  
+ 
+In addition, GFIA is concerned that the meaning of "fair treatment of consumers" 
+may be considered different from, or in addition to, legally prescribed standards. 
+Companies may exceed those standards voluntarily, but supervisors should 
+define "fair treatment" solely in terms of the legally established standards of 
+insurer conduct toward consumers. GFIA would also suggest that the word "fair" 
+or "unfair" be replaced with "appropriate" or "inappropriate" throughout the paper. 
+ 
+ 
+ 
+ 
+ 
+ 
+The terms “fair” and “unfair” are well 
+established and understood in the ICPs. 
+The paper must be read with this 
+understanding in mind. 
+4. Institute of 
+International 
+Finance 
+Global No  The Institute of International Finance (IIF) and the members of the IIF's Insurance 
+Working Group are pleased to respond to the IAIS's consultation on a Draft 
+Issues Paper on Insurer Culture (Draft Issues Paper). We appreciate the link 
+between insurance conduct risks and the financial soundness of the industry, 
+particularly when widespread or material misconduct produces suboptimal 
+outcomes for policyholders and other insurance counterparties, as this reduces 
+confidence and trust in the sector.  
+In the first instance, management and the board of directors of an insurer are 
+responsible for corporate culture and for addressing conduct risks that may arise 
+from cultural issues. However, when an insurer fails to establish a culture aligned 
+with good customer outcomes and the fair treatment of customers or fails to 
+prevent or address market misconduct, the group or lead supervisor should take 
+action to protect policyholders. Prompt and effective supervisory action in these 
+instances also helps to mitigate reputational risk for the industry as a whole. 
+We encourage the IAIS to engage in an open discussion with a wide range of 
+stakeholders in order to further explore issues of insurer culture and best 
+practices for the supervision of insurer culture. The IIF would be pleased to help 
+facilitate these discussions. 
+Overarching Comments 
+The Multi-Dimensional Elements of Culture. We appreciate the IAIS's recognition 
+of the multi-dimensional elements of culture and the fact that there is no one 
+Noted. See responses to specific 
+comments in the rest of the table.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 5 of 46 
+ 
+"right' or "good' insurer culture. An insurer's culture is influenced by the values 
+and goals that are established and communicated by the organization's 
+leadership and reinforced in the decisions about how the organization is run and 
+managed. These organizational values, in turn, are influenced by a wide variety of 
+external and internal factors, including the purpose of the organization, the types 
+of customers it serves, and national cultural values. 
+We agree with the statement in the first sentence of Paragraph 48 of the Draft 
+Issues Paper that it is not the role of supervisors to define a specific set of values 
+for insurers. Companies differ in the extent to which they emphasize certain 
+values such as results orientation, people focus, teamwork, innovation, risk taking 
+and competitiveness. Values may also be influenced by the lines of business in 
+which the organization engages and the nature of its customer base, including 
+whether the company is primarily retail focused or engaged in B2B business 
+lines. A wide range of cultures that emphasize different values can be aligned 
+with good customer outcomes and treating customers fairly, including in 
+accordance with contract terms and conditions. A one-size-fits-all approach to 
+culture is not appropriate in the insurance sector, with its diversity of business 
+models. 
+As detailed in the March 8, 2020 FCA Insights article, Measuring corporate 
+culture: a warning , we agree with the authors' assessment that, "it is very hard to 
+capture a corporate culture in simple observable or quantifiable metrics." We 
+concur that there are risks to focusing on available and easily assessed data, as it 
+will "largely fail to measure the deeper and stronger aspects of a corporate 
+culture's hidden assumptions and automatic and accepted behaviors." A focus on 
+culture is important, but, 
+"The big question is how can we be sure what a healthy, ethical, safe culture is or 
+when a corporate culture is toxic, unethical and unsafe. The idea of unobtrusive 
+measurement implies that through measurement we automatically evaluate and 
+diagnose culture. The problem is that in the current body of scientifically validated 
+knowledge there is no clear consensus of what in an organizational culture 
+predicts wrongdoing and rule breaking." 
+Quantitative culture assessments are limited by the fact that the dimensions of 
+culture vary internationally, across industries, and even within global companies 
+and, therefore, a one-size-fits-all approach cannot capture unique features of an 
+organization. Additionally, in the search for simple and unobtrusive metrics for 
+culture, there is a risk that the availability of data drives the development and then 
+the outcomes of quantitative cultural assessments. In the example from the 
+Australian Securities and Investments Commission (ASIC) that follows Paragraph
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 6 of 46 
+ 
+51, ASIC found that insurers generally focused on fairly limited or short-term 
+metrics, such as customer service measures, to measure customer outcomes. 
+These metrics, while helpful at some level, are not designed to reflect the values, 
+beliefs and assumptions that underlie an insurer's culture. A summary of recent 
+discussions among compensation professionals hosted by the Financial Stability 
+Board's (FSB) Compensation Monitoring Contact Group (CMCG) , on the other 
+hand, noted that the use of less objective non-financial measures in 
+compensation decisions (e.g. customer protection) requires a certain level of 
+discretion and that there is a risk that these measures could be potentially 
+engineered. Neither of these options - quantitative measures or more qualitative 
+measures - can reliably assess the complexities of an organization's culture. 
+In the search for easy measurement, a number of service providers have recently 
+begun to offer cultural assessments. This commoditization and industrialization of 
+cultural assessments can be dangerous if the services provided and the tools 
+used in providing those services have not been scientifically or academically 
+validated. These services and tools can lead to a false sense of security in "good' 
+culture measures that gloss over underlying issues in the deeper and stronger 
+aspects of a corporate culture that may be hidden from view. 
+As noted in the introduction to this response, the board of directors has the 
+primary responsibility for establishing the organizational culture and management 
+has the primary responsibility for implementing and communicating that culture 
+throughout the organization. Supervisors do not have a mandate or the 
+responsibility for establishing or changing corporate culture; rather, they have a 
+mandate to require management or the board to take appropriate corrective 
+action when evidence indicates that the board and management have failed to 
+establish a culture that is aligned with good customer outcomes and treating 
+customers fairly, including in accordance with contract terms and conditions or 
+when evidence indicates that the culture or subculture of an organization has 
+fostered market misconduct.  
+An Outcomes-Focused, Evidence-Based Approach to the Supervision of Culture. 
+Following from our observation that a wide range of cultures can be aligned with 
+good customer outcomes and treating customers fairly, we encourage the IAIS to 
+adopt an outcomes-focused and evidence-based approach to the supervision of 
+culture. We note that an outcomes-focused approach is reflected in Section 1.2.2 
+of the Draft Issues Paper but this approach could be better reflected in 
+subsequent sections of the Paper, as noted in our Specific Comments, below. 
+Focusing on customer outcomes can help to tie expectations regarding insurer 
+culture to supervisory goals such as the protection of policyholders. A focus on
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 7 of 46 
+ 
+outcomes can also avoid an overly subjective approach that could result in 
+different supervisory responses depending upon the individual or the jurisdiction 
+that is responsible for supervision. An outcomes-focused approach ties directly to 
+the supervisory mandate, as it looks at particular aspects of an insurer's culture 
+that can impact market conduct and avoids emphasizing organizational-specific 
+characteristics or styles that can vary significantly without any negative effect on 
+customers. It can also reflect differences across insurers based on their lines of 
+business or core customer base. 
+An evidence-based approach to the supervision of culture identifies a specific 
+attribute or artefact of an insurer's culture that is inconsistent with supervisory 
+goals and works with the organization's board and senior management to correct 
+the misalignment. An evidence-based approach facilitates a focus on root causes 
+of misalignment between organizational culture and supervisory goals. The 
+example from ASIC that follows Paragraph 38 in the Draft Issues Paper 
+demonstrates an evidence-based approach that linked shortcomings in insurers' 
+and distributors' quality assurance frameworks and sales training materials to 
+poor customer outcomes. 
+The FSB's Ongoing Work on Remuneration. We respectfully question the IAIS's 
+need for additional work on the topic of remuneration given the considerable 
+ongoing attention this subject has received at the FSB. The FSB's work has been 
+continuous since 2009 and has encompassed compensation policies and 
+practices at insurers, asset managers and banks. The FSB's CMCG monitors and 
+reports on national implementation of the Financial Stability Forum's (the 
+predecessor to the FSB) Principles for Sound Compensation Practices and the 
+Implementation Standards. As noted above, in its most recent workshop earlier 
+this year, the CMCG and executives responsible for managing compensation 
+processes at internationally active firms, including insurers, discussed how firms 
+use non-financial criteria and measures, behaviors and firm culture in setting 
+variable remuneration , effective practices for aligning risk and compensation, 
+significant legal and regulatory impediments to the use of compensation tools, 
+such as malus and claw-back, and compensation-related actions in relation to 
+COVID-19. 
+ 
+Given this extensive cross-sectoral work on remuneration issues and the IAIS's 
+active participation in the work of the FSB, we respectfully question whether the 
+IAIS needs to devote additional resources to insurance-specific remuneration 
+considerations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The IAIS recognises the importance and 
+relevance of the FSB work on 
+remuneration (compensation). The IAIS’ 
+exploratory work is focused specifically on 
+issues related to remuneration in the 
+insurance sector and is therefore more 
+targeted than the broader work being 
+undertaken by FSB.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 8 of 46 
+ 
+Support for Further IAIS Work on Conflicts of Interest Management. We welcome 
+the IAIS's further consideration of conflicts of interest management by insurers, as 
+proposed in Paragraph 87 of the Draft Issues Paper. We believe that this is a 
+topic that would benefit from IAIS discussion with stakeholders and the IIF would 
+be pleased to facilitate a dialogue. 
+Noted. The IAIS will continue its dialogue 
+with stakeholders when developing its 
+future work on insurer culture and will 
+communicate further details in this regard 
+when available. 
+5. International 
+Actuarial 
+Association 
+International No  The IAA believes this Issues Paper is a very useful addition to supervisory 
+guidance and addresses a topic (I.e., culture) which is important in determining 
+whether an insurer executes sound decision-making. This has important 
+implications for policyholder protection and their fair treatment (I.e., both 
+prudential and conduct risks). The IAA agrees that poor corporate culture can be 
+difficult to detect based solely on normal supervisory filings and likely requires 
+additional qualitative supervisory review of board, senior management and control 
+function behavior and decision-making. 
+ Noted. 
+6. The Geneva 
+Association 
+International No  Dear Ms. Saporta, 
+Dear Mr. Dixon,  
+ 
+Thank you for the opportunity to provide feedback on the draft Issues Paper (IP) 
+on Insurer Culture. The Geneva Association acknowledges that culture plays an 
+important role in conducting business in an ethical manner, in the fair treatment of 
+customers and therefore in maintaining consumer confidence in the insurance 
+sector as a whole. When considering culture, it is important to get clarity that we 
+are looking at corporate culture, rather than culture in the broader sense 
+(worldview). It is also important to underline that corporate culture encompasses 
+aspects which go far beyond promoting exclusively sound prudential and conduct 
+outcomes (as suggested in point 16 of the IP): giving employees a sense of 
+belonging to the organization, promoting a sense of initiative and 
+entrepreneurship, etc. 
+ 
+Although corporate culture can affect aspects of prudential and conduct risk 
+management that fosters good governance, assessment of culture can be highly 
+subjective and the direct impact on policyholder protection may not always be 
+clear. As the illustration from De Nederlandsche Bank correctly depicts, behaviour 
+is the only visible manifestation of culture, and behaviour is the result of a 
+complex mix of contributing factors including group dynamics and mindset, 
+Corporate culture insofar as it relates to 
+insurers is defined in the IAIS Glossary. 
+The paper is explicit that this is the focus 
+of the paper, rather than looking at culture 
+more broadly (see section 1.2.1). 
+ 
+The first sentence in para. 16 has been 
+slightly revised to address this point.  
+ 
+ 
+ 
+As explicitly mentioned in the paper, the 
+approach taken is indeed to anchor 
+specific aspects of insurer culture to 
+objective standards established by the 
+ICPs rather than focusing on subjective 
+assessments.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 9 of 46 
+ 
+societal norms and expectations, ethnicity, gender, age, etc. Defining desirable 
+cultures and assessing insurers' culture based on the adherence to those 
+definitions does not provide supervisors with a reliable indication of how well 
+these insurers are managing risks or are accountable to their customers and 
+other important stakeholder groups. Corporate cultures differ; they could for 
+example be conservative or liberal. Irrespective of the type of corporate culture, a 
+firm can have strong internal governance and good risk management. We 
+therefore encourage the IAIS to focus on aspects of culture that are demonstrably 
+inconsistent with desired outcomes, rather than observations on things that are 
+more subjective, such as some of those listed in paragraph 13 of the IP.  
+ 
+We are supportive of the IAIS' intention to continue to identify tangible examples 
+of the linkage between insurer culture, consumer, prudential and other business 
+outcomes. Several factors may influence insurers' culture, including for example, 
+diversity and inclusion. Diversity and inclusion can contribute to enhanced 
+business decision making as well as strong prudential and conduct risk 
+management. In our view promoting diversity and inclusion is core to sound 
+decision-making and ensures that a range of views are reflected, ultimately 
+leading to better business and consumer outcomes.  
+ 
+As corporate culture is an extremely broad and multifaceted concept the Geneva 
+Association very much agrees with the IAIS that it is not appropriate to prescribe 
+one "right" or "good" culture. Corporate cultures vary from country to country and 
+company to company, it would therefore be challenging to develop uniform 
+supervisory indicators or set common standards on corporate culture. 
+Considering corporate culture is a diverse concept, it is important that any 
+potential future regulatory guidance allows for sufficient flexibility. We strongly 
+urge that the IAIS work together with the industry to study the impact of insurers' 
+culture on prudential and conduct outcomes in advance of developing supervisory 
+guidance in the form of application papers on this topic. As you can appreciate, 
+insurance is such a diverse sector, and the manifestation of culture on for 
+example regulatory or consumer outcomes can differ greatly depending on 
+product lines, customer profile, or distribution methods. In addition, there could be 
+important distinctions in implications of culture across different business lines and 
+different parts of the insurance business - for example life versus non-life versus 
+brokerage. It is important for regulators and supervisors to consider these 
+distinctions in supervisory assessments along with evidence to support 
+supervisory arguments. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Noted. 
+ 
+These factors will be considered in the 
+next phase of the IAIS’ work on insurer 
+culture which will focus more specifically 
+on practical supervisory approaches to 
+assessing specific aspects that make up 
+insurer culture.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 10 of 46 
+ 
+ 
+Examples of good culture given in the IP include an insurer that provides benefits 
+beyond contractual obligations. While we certainly believe that the customer, one 
+of the key important stakeholder groups of insurers, should be central in insurer 
+decision making and be treated fairly, we would like to caution against picturing 
+"going beyond contractual obligations' as good culture or good practice. Providing 
+extraordinary concessions to a policyholder class could undermine other 
+policyholders and therefore prudential objectives in the future, hence it is not 
+always the case that giving customers extraordinary benefits reflects good 
+cultural practice. As insurance is a business that is governed by policies and 
+contracts between the insurer and insured it should be entirely up to the insurer to 
+provide benefits beyond what is contractually required as long as it does not 
+negatively affect its financial soundness and ensures an equitable treatment 
+across customers. If in a given situation there is a lot of pressure to provide a 
+certain group of customers benefits beyond policy / contractual requirements, it 
+must be taken into consideration that there are other policy holders that may have 
+future claims who may not benefit from the same treatment. 
+ 
+Also the paper emphasizes that culture should avoid excessive risk taking 
+(paragraph 16). It fails to mention that culture should also avoid excessive risk 
+aversion: the purpose of insurance is to protect individuals and businesses 
+against certain risks, and an excessive risk aversion might, for example, totally 
+exclude some segments of society from risk protection (e.g. people with specific 
+health conditions), which would also undermine public trust in the sector. Insurers 
+strive to strike the right balance in this regard, and supervisors need to recognize 
+this. 
+ 
+Q75 Comment on paragraph 71 
+We agree with the inappropriateness of compensation systems and performance 
+management that encourage unfair treatment of customers. On the other hand, 
+we would like to emphasize that excessive or prescriptive regulation of 
+compensation systems and performance management based on some specific 
+cases of misconduct should not be adopted, as this would inhibit the market 
+culture and practices of each jurisdiction and the voluntary efforts of each 
+company. 
+ 
+Q87 Comment on paragraph 83 
+As to performance management, paragraph 83 discusses how provisions in 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See responses to specific comments 
+throughout the table.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 11 of 46 
+ 
+several ICPs envisage a shift in insurer performance criteria away from just 
+profitability. This section points to "qualitative outcomes," such as "service-
+oriented outcomes" as well as several normative qualifications (e.g., 
+disproportionally, undesirable) where it is not clear what is meant by whom from 
+what jurisdiction. It would be helpful if a next iteration of the paper includes more 
+robust definitions and more evidence-based articulations. As to quantification, 
+note that for compensation purposes, there is typically an attempt to quantify 
+qualitative objectives (e.g. surveys, scores, complaints).  
+ 
+Q92 comment on paragraph 87 
+Paragraph 87 lays out possible considerations for next steps, including "practical 
+supervisory guidance on specific cultural drivers" on topics such as remuneration. 
+For the reasons given above and given that corporate culture of insurers is 
+influenced by the local culture of each jurisdiction and or many different other 
+elements, we do not consider it appropriate for the IAIS to develop uniform 
+indicators, detailed common regulations or supervisory guidance on corporate 
+culture. We encourage the IAIS to identify practices that can lead to conflicts of 
+interests, which in turn might have a negative impact on behaviour of people 
+within the organization.  
+ 
+ 
+Concluding remarks- 
+We appreciate the opportunity to comment on the Issues Paper on such an 
+important topic. As discussed above, supervision of culture can be problematic, if 
+such supervision is based on subjective observation of individuals' behaviour in 
+accordance with an arbitrary definition and assessment of culture. Culture, 
+indeed, drives certain behaviours and fostering positive corporate culture is a 
+critical mission for insurers' board and management. The challenge is that good 
+and bad culture can manifest in a variety of ways and look different from one 
+insurer to another and from country to country. More work is needed to identify 
+the correlation of culture and regulatory outcomes as well as how supervisors can 
+affect the change as in many cases, cultural change can be facilitated only 
+through insurers' board and/or managements. Considering the fact that the many 
+dimensions of insurer culture are difficult to capture in a paper, there would be a 
+lot of value in a dialogue between the IAIS and the industry through other 
+channels. In light of this, we propose to establish a forum for discussion between 
+our member companies and the IAIS community. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Noted. The IAIS will continue its dialogue 
+with stakeholders when developing its 
+future work on insurer culture and will 
+communicate further details in this regard 
+when available.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 12 of 46 
+ 
+7. General 
+Insurance 
+Association of 
+Japan 
+Japan No  Thank you for the opportunity to comment on this draft Issues Paper. 
+ 
+We agree that sound corporate culture is important, and that the development of 
+sound culture could lead to a fundamental solution to conduct risks. 
+ 
+However, corporate culture is diverse by nature, and each insurer´s culture has 
+specific features which the company has selected to achieve sound business 
+conduct. Given that any assessment of an insurer's culture as "good" or "bad" is 
+very subjective, we are concerned that setting a single assessment method 
+and/or approach could bring unintended consequences. 
+ 
+In addition, it should be noted that even effective management methods could 
+lower staff morale if applied excessively, possibly resulting in the emergence of 
+new conduct risks. 
+ 
+Therefore, we suggest clarifying within this Issues Paper that it is not intended to 
+endorse any particular type of corporate culture, and that diversity is respected 
+and ensured regarding how an insurer´s culture should be. 
+Noted.  
+ 
+As indicated, the paper does not attempt to 
+define a singular good or bad culture but 
+rather highlights different aspects of 
+insurer culture that could signal the 
+potential for positive and negative 
+outcomes. 
+8. The Life 
+Insurance 
+Association of 
+Japan 
+Japan No  - The Life Insurance Association of Japan (hereafter "LIAJ") appreciates the 
+opportunity to submit public comments to the International Association of 
+Insurance Supervisors (or the "IAIS") regarding the Draft Issues Paper on Insurer 
+Culture. 
+ 
+- In general, we agree that it is important for consumers to be placed at the centre 
+of the business model and that corporate culture is an important point which can 
+influence the behaviour of insurers. 
+ 
+- However, we would like to clarify that corporate culture is unique to each 
+jurisdiction and company, and as the IAIS states in Paragraph 6, there is no 
+single "right" or "good" culture for insurers, and it should not be quantified or 
+categorized based on inherent tendency. 
+ 
+-Based on this understanding, we would also like to confirm that the IAIS does not 
+intend to develop uniform supervisory indicators or establish standardized 
+regulations on corporate culture in the Issues Paper and in future phases, both 
+quantitatively and qualitatively. In addition, as the IAIS states in Paragraph 12, 
+Noted.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The focus of the IAIS’ work is on selected 
+drivers or aspects of culture that are linked 
+specifically to the relevant ICPs and is not
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 13 of 46 
+ 
+corporate culture includes things that are located at a subliminal level (i.e., 
+behavioural patterns which cannot be verbalized and unconscious values), which 
+are difficult to evaluate and analyse. Therefore, we would like to recommend the 
+IAIS to focus on the behaviours and outcomes of insurers that may be influenced 
+by their corporate culture, and adopt an evidence-based supervisory approach by 
+closely examining the relationship with their corporate culture when problematic 
+behaviours or outcomes are observed. 
+aimed at developing a uniform indicator for 
+culture as a whole.  
+ 
+9. The 
+Norwegian 
+Actuarial 
+Association 
+Norway No  The Norwegian Actuarial Association (NAA) welcomes this paper on Insurer 
+Culture. We see this as an important part of achieving a sound culture regarding 
+management of insurance companies. Trust and confidence, from customers and 
+other stakeholders, are two of the main pillars for an insurance company. The 
+paper describes different issues that are related to "culture" and gives some 
+examples from different countries, which are useful. In general, as the paper 
+outline, the tone is set at the top. It is therefore of extreme importance that 
+insurance supervisors follow up on this issue, both by documentation audit and by 
+in-person meetings with members of the Board and top management. we have 
+seen this become more important by supervisors regulated by Eiopa during the 
+last years. We have some minor comments to a few of the paragraphs.  
+Noted. 
+10. APCIA United 
+States 
+No  The American Property Casualty Insurance Association (APCIA) represents 1200 
+(re)insurers with a wide diversity of business models. We appreciate the 
+opportunity to comment and hope for an on-going dialogue on this and other 
+supervisory issues. Representing as we do a diverse set of (re)insurers, we 
+emphasize the importance of proportionality in supervision and supervisory 
+support for the ability of (re)insurers to remain solvent, competitive and innovative 
+as the ultimate consumer protections. 
+ 
+We find the discussion of culture to be interesting and insightful. Issues such as 
+leadership, accountability and transparency are important. As well, we note that 
+culture is viewed as a critical link between solvency and market conduct and we 
+recognize that for an insurer to be truly successful, it must effectively achieve 
+both solvency and good market conduct as defined by applicable law and 
+regulation.  
+ 
+Our most significant concern is for future supervisory actions based on the notion 
+of culture as discussed in the paper and especially if culture is something other 
+The intention is not to create additional 
+requirements, but to support supervisors in 
+analysing and understanding how culture 
+can be an intersection point for managing 
+conduct and prudential risks. This is based 
+on well-established concepts already 
+contained in the ICPs.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 14 of 46 
+ 
+than legally established standards for insurers, including for solvency, 
+governance and market conduct. Instead, we believe that supervision should be 
+based entirely on the specific and duly established legal standards, not on 
+subjective assessments of matters such as culture.  
+ 
+If the assessment of culture is to play a role in supervision, culture for supervisory 
+purposes should be no more than the specific behavior, functions and outcomes 
+required by law. These elements should be assessed and regulated according to 
+applicable legal standards. To treat culture for supervisory purposes as 
+something other than the sum of compliance with specific legally established 
+supervisory standards is to engage in subjectivity that can be difficult to 
+understand for companies and even more difficult to fairly and effectively apply by 
+supervisors. So, we suggest that any use of the concept of culture for supervisory 
+purposes should be understood to be simply the sum of discreet and well-defined 
+actions and structures of (re)insurers that are governed by legally established 
+standards. The supervisory assessment of culture should not be a subjective 
+judgment outside of those discreet structures, actions and legal standards.  
+ 
+We are concerned with the possibility that the concept of culture as discussed in 
+the paper would invite unintended supervisory intervention more deeply into a 
+company than is necessary and appropriate to enforce compliance with existing 
+legal standards of solvency and market conduct. This in turn would lead to a 
+blurring of the lines between the supervisors and the supervised entities that 
+would likely do damage to the independence and authority of supervisors and the 
+ability of companies to manage themselves, compete, and innovate.  
+11. Liberty 
+Mutual 
+Insurance 
+Group 
+USA No  Liberty Mutual fundamentally believes that the culture of an organization, 
+including compliance and ethics, has a significant impact on business outcomes. 
+We agree with the statement in the draft issues paper that insurers are 
+responsible for fostering an organizational culture that consistently promotes 
+sound prudential and business conduct outcomes. The IAIS correctly observes 
+that pervasive misconduct may be the result of deeper organizational 
+deficiencies, characterized by an unsound culture, that trigger certain harmful 
+decisions, behaviors, and practices. 
+ 
+Consequently, we agree in principle that supervisory understanding of the 
+effectiveness of an insurer's culture may be beneficial. However, our agreement 
+Noted.  
+ 
+As indicated, the paper does not attempt to 
+define a singular good or bad culture but 
+rather highlights different aspects of 
+insurer culture that could signal the 
+potential for positive and negative 
+outcomes.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 15 of 46 
+ 
+is premised on an understanding that any such assessments should be made in 
+connection with the investigation of measurable indications of noncompliance with 
+objective regulatory standards. We question the ability or reasonableness of 
+supervisors attempting to assess culture in the absence of observable and 
+material or repeat prudential or market conduct violations.  
+ 
+In addition, we are concerned about how supervisors can examine insurer culture 
+as a practical matter, particularly in the absence of such violations. Organizational 
+culture is nuanced and involves many different variables and dimensions. As a 
+result, any such evaluation would be inherently subjective for the most part, 
+exposing markets to a degree of arbitrariness that can be damaging. We also 
+question whether supervisors have the requisite authority to order insurers to take 
+steps to alter culture in the absence of objectively observable compliance 
+violations. 
+ 
+Accordingly, although we support the IAIS's decision to examine this issue and 
+are committed to continuing to operate with the utmost integrity, we urge that the 
+IAIS proceed with caution. As it examines insurer culture the IAIS must carefully 
+keep in mind what insurance supervisors can realistically do to regulate culture in 
+the absence of objective compliance violations by an insurer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The aim of the next phase of the IAIS’ 
+work on insurer culture will be to explore in 
+greater depth how supervisors can 
+practically examine these issues in an 
+objective manner.  
+These comments will be taken into 
+account when developing such future 
+work.  
+Q2 General comments on Section 1: Introduction 
+Q3 Comment on paragraph 1 
+Q4 Comment on paragraph 2 
+14. BonkNote USA No  P2-#"So if somebody could think of a way to get to the consumer without causing 
+real problems … we would like to hear it." {John Keller, Northwestern Mutual}, --- 
+"ILLUSTRATIONS", Record of Society of Actuaries, 1991, VOL. 17 NO. 4A, 
+pp335-348 
+# "I have heard that the designation process is not transparent, and I am all for 
+increased transparency, but I assume the Council must balance transparency 
+against disclosing confidential or potentially market-moving information..." --- 
+FSOC Accountability: Nonbank Designations: Hearing Before the Committee on 
+ Noted.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 16 of 46 
+ 
+Banking, Housing, And Urban Affairs, 114th Cong., p37 (2015) {Senator Elizabeth 
+Warren-MA} 
+Q5 Comment on paragraph 3 
+Q6 Comment on paragraph 4 
+15. General 
+Insurance 
+Association of 
+Japan 
+Japan No  We agree that this Issues Paper is not intended to provide an exhaustive analysis 
+of the topic or to develop detailed supervisory guidance. 
+ Noted. 
+Q7 Comment on paragraph 5 
+16. General 
+Insurance 
+Association of 
+Japan 
+Japan No  We agree that "the scope of the paper is limited to exploratory observations on 
+the importance of insurer culture for insurers and supervisors". 
+ 
+"Further engagement and the possible development of additional IAIS material" 
+should be determined after duly examining the necessity and probable 
+effectiveness in view of various dynamic elements that constitute an insurer´s 
+culture, differences among countries, regions and insurers, the subjectivity of 
+assessing an insurer´s culture, and other factors. When working on further 
+engagement and developing additional material, due consideration should be 
+given to respecting diversity in insurer culture. 
+ Noted. 
+Q8 Comment on paragraph 6 
+17. Global 
+Federation of 
+Insurance 
+Association 
+Global No  GFIA strongly endorses the statement that it is not appropriate to ascribe one 
+"right' or "good' culture to insurers.  
+ Noted. 
+18. General 
+Insurance 
+Japan No  We agree with the first sentence, because, while it is desirable that each insurer 
+examines and develops its own corporate culture, it is inappropriate for 
+ Noted.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 17 of 46 
+ 
+Association of 
+Japan 
+supervisors to force insurers to adopt one "right" or "good" culture. 
+ 
+"Whether an insurer´s culture appears healthy, sustainable, purposeful and safe" 
+is judged subjectively. As such, we suggest clarifying in this paragraph that it is 
+not intended to endorse any particular type of corporate culture, and that diversity 
+is respected and ensured regarding how an insurer´s culture should be. 
+19. APCIA United 
+States 
+No  We strongly endorse the statement that it is not appropriate to ascribe one "right' 
+or "good' culture to insurers.  
+ Noted. 
+Q9 Comment on paragraph 7 
+Q10 Comment on paragraph 8 
+20. International 
+Actuarial 
+Association 
+International No  The IAA believes the last sentence of this paragraph could be understood to 
+imply the presence of widespread misconduct in the industry It also seems to 
+infer that the end result of poor culture is misconduct. The IAA suggests that 
+misconduct is not widespread in the industry nor is it a natural result of poor 
+culture. The IAA believes it is more appropriate to state that poor culture more 
+frequently results in poor decision-making. 
+Text updated. 
+21. BonkNote USA No  P8-#JESSE M. SCHWARTZ: "Why are people so reluctant to call Total Life 
+(Universal Life)permanent insurance?" -- MYRON H. MARGOLIN: "Universal Life 
+type products are, I suppose, permanent. It is a semantic question whether they 
+are permanent life or not, but clearly they are not the traditional cash value 
+products as we have known them…" ---THE FUTURE OF PERMANENT LIFE 
+INSURANCE, Record of Society of Actuaries, 1981, VOL. 7 NO. 3, pp. 947-968 
+ 
+THE FUTURE OF PERMANENT LIFE INSURANCE, Record of Society of 
+Actuaries, 1981, VOL. 7 NO. 3 
+ Noted. 
+Q11 Comment on paragraph 9
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 18 of 46 
+ 
+22. General 
+Insurance 
+Association of 
+Japan 
+Japan No  We agree that it is necessary to continuously work to improve an insurer´s 
+culture. 
+ Noted. 
+23. BonkNote USA No  P9- #"They are complaints about things that we can't do anything about because 
+the contract might be a Universal Life type product with Nonguaranteed 
+Elements, and there is no regulatory framework to deal with those issues. Those 
+complaints just fall by the wayside because there is nothing that can be done." --
+{Larry Gorski, Chief Actuary, Illinois Department of Insurance} -- Nonforfeiture 
+Law Developments, Record of Society of Actuaries, 1996, Volume 22, No. 3 
+ Noted. 
+Q12 Comment on paragraph 10 
+24. Global 
+Federation of 
+Insurance 
+Association 
+Global No  The citations to the insurance core principles (ICPs) are very helpful to 
+understand the component parts of culture and the supervisory standards that 
+apply to each of the component parts. Extreme difficulty and danger of subjective 
+supervision are created when culture for supervisory purposes is deemed to be 
+something other than the ICPs, or more specifically, the legally established 
+standards in the relevant jurisdiction. 
+ Noted. 
+25. International 
+Actuarial 
+Association 
+International No  The ICP 8.4 reference is a good one, but risk management is only one of the 
+important control functions named in ICP 8. The paper should speak explicitly of 
+the importance of appropriate culture in each of the control functions. These 
+functions play crucial roles in the presence of inappropriate culture elsewhere in 
+the entity. Signs that the control functions tilt their decisions due to inappropriate 
+culture either within the function or elsewhere in the entity should be of concern to 
+supervisors. 
+Noted. 
+A more granular breakdown of these 
+issues across specific processes or 
+functions will be considered in the next 
+phase of the IAIS’ work on insurer culture. 
+26. APCIA United 
+States 
+No  The citations to the ICPs are very helpful to understand the component parts of 
+culture and the supervisory standards that apply to each of the component parts. 
+Extreme difficulty and danger of subjective supervision are created when culture 
+for supervisory purposes is deemed to be something other than the ICPs, or more 
+specifically, the legally established standards in the relevant jurisdiction.  
+ Noted.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 19 of 46 
+ 
+27. BonkNote USA No  P10-#{Mr. Garrett:} The information as far as that is already being collected by 
+the States and then through the NAIC, is there other information that would be 
+going to this new entity that is not going to the NAIC or not going to–yes, not 
+going to the NAIC right now? And, if so, what? /// -- {Ms. Vaughan:} I would say 
+that is a good question to ask the Treasury, is what other information they might 
+envision in this. I have a hard time imagining that there would be issues that are 
+needed in order to understand the risk posed by the insurance industry that the 
+insurance regulators wouldn't already be asking and gathering information about. 
+(p70) /// Capital Markets Regulatory Reform: Strengthening Investor Protection, 
+Enhancing Oversight of Private Pools of Capital, And Creating a National 
+Insurance Office, HEARING BEFORE THE COMMITTEE ON FINANCIAL 
+SERVICES, 111th Cong., p70 (2009), {Congressman Scott Garrett (NJ), Terri 
+Vaughan (President of the NAIC)} 
+ Noted. 
+Q13 Comment on paragraph 11 
+Q14 Comment on paragraph 12 
+Q15 Comment on paragraph 13 
+28. Global 
+Federation of 
+Insurance 
+Association 
+Global No  GFIA has serious concerns about defining culture in nonspecific ways, such as 
+"mindset', especially due to its vague and subjective definition, and the danger 
+that it adds an assessment beyond compliance with legally established 
+supervisory standards of conduct and solvency. The concept of mindset can be 
+difficult to understand in the context of a single individual, let alone an enterprise 
+comprised of thousands of individuals. A better approach would be to list the 
+specific standards that must be complied with. Behaviour in terms of solvency 
+and conduct, for example, should be the sole matter for supervisory assessment 
+and supervision. 
+The reference to “mindset” as a 
+component of culture is well established 
+and borne out in the various sources cited 
+in the paper. 
+As explicitly mentioned in the paper, the 
+approach taken is indeed to anchor 
+specific aspects of insurer culture to 
+objective standards established by the 
+ICPs. 
+29. Institute of 
+International 
+Finance 
+Global No  The second sentence of Paragraph 13 points to an organization's formal 
+governance arrangements, policies and processes, office lay-out, dress code and 
+style of communication as indicia of the organization's transparency and 
+credibility. We believe that these organizational characteristics or styles can vary 
+significantly among companies that have a corporate culture that is consistent 
+This paragraph is intended to provide 
+context for the overall components of 
+corporate culture. Deleting the sentence in 
+its entirety would render the concept
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 20 of 46 
+ 
+with good customer outcomes. An overly detailed review of an organization's 
+characteristics and style can promote granular expectations that lead to culture 
+"grades' of excellent, good, fair or bad, which we believe is inappropriate. We 
+propose to delete this sentence from Paragraph 13. 
+incomplete. However, the paragraph has 
+been revised for clarity. 
+ 
+30. International 
+Actuarial 
+Association 
+International No  The IAA believes the examples provided next to this paragraph are very useful. 
+For example, the G-30 wording "fail at one or more critical points such as middle 
+management" is a useful reminder of the need for supervisors to consider the 
+culture of all insurer control functions not just at the board or senior management 
+level.  
+An example of the influence of poor culture on the actuarial function (from within 
+or without) is that it can result in the discarding of warning signals that do not fit 
+with the pattern accepted or desired. As a result, actuarial function decision-
+making could be influenced towards certain methods/assumptions and become 
+resistive to alternate approaches used in better/best practice. The resulting shift 
+in the value of policy liabilities could potentially affect insurer solvency and/or fair 
+treatment of policyholders. 
+The IAA also believes the DNB "iceberg" metaphor is a most useful one for 
+supervisors in illustrating the challenges in identifying the presence of poor 
+culture. The IAA would be willing to provide support to the IAIS in identifying 
+possible techniques for assessing culture within the actuarial function. 
+ Noted. 
+31. General 
+Insurance 
+Association of 
+Japan 
+Japan No  As for the second sentence ("office lay-out, dress code and style of 
+communication may be indicators of the organisation's transparency and 
+credibility"), the causal link is unclear regarding how such subjective elements 
+could be indicators of an organisation's transparency and credibility. 
+ 
+Now that the importance of diversity and inclusion is increasingly recognised, it 
+seems inappropriate for supervisors to make a reference to the elements for 
+which diversity should be ensured. Therefore, we suggest deleting "office lay-out, 
+dress code and style of communication". 
+This paragraph is intended to provide 
+context for the overall components of 
+corporate culture. Deleting the sentence in 
+its entirety would render the concept 
+incomplete. However, the paragraph has 
+been revised for clarity. 
+ 
+32. The Life 
+Insurance 
+Association of 
+Japan 
+Japan No  - The second sentence of Paragraph 13 mentions office lay-out, dress code and 
+style of communication as possible indicators of the organisation's transparency 
+and credibility, but these organizational characteristics and styles may vary widely 
+among different companies. We propose that this sentence be deleted since 
+considering an overly detailed examination of such organizational characteristics 
+This paragraph is intended to provide 
+context for the overall components of 
+corporate culture. Deleting the sentence in 
+its entirety would render the concept
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 21 of 46 
+ 
+and styles is inappropriate because it may encourage a single form of evaluation 
+that determines the "right" or "good" culture. 
+incomplete. However, the paragraph has 
+been revised for clarity. 
+33. APCIA United 
+States 
+No  We have serious concerns with defining culture in nonspecific ways, such as 
+"mindset', especially due to its vague and subjective definition and the danger 
+that it adds an assessment beyond compliance with legally established 
+supervisory standards of conduct and solvency. The concept of mindset is difficult 
+to comprehend in the context of an individual let alone an enterprise with 
+thousands of individuals. A better approach would be to list the specific standards 
+that must be complied with and assure compliance, which in total constitute 
+culture for supervisory purposes. Once compliance is achieved, a mindset should 
+be irrelevant. Behaviour in terms of solvency and conduct, for example, should be 
+the sole matter for supervisory assessment and supervision.  
+The reference to “mindset” as a 
+component of culture is well established 
+and borne out in the various sources cited 
+in the paper. 
+As explicitly mentioned in the paper, the 
+approach taken is indeed to anchor 
+specific aspects of insurer culture to 
+objective standards established by the 
+ICPs. 
+Q16 Comment on paragraph 14 
+Q17 Comment on paragraph 15 
+34. Global 
+Federation of 
+Insurance 
+Association 
+Global No  Behaviour and outcomes in compliance with applicable legal standards should be 
+the essential goal of insurers and supervisors alike. 
+Noted. 
+The paragraph is illustrating that the 
+responsibility for actually complying with 
+these standards lies with insurers. The role 
+of supervisors is to assess whether and 
+how this is being done. 
+35. APCIA United 
+States 
+No  Our view is that behavior and outcomes in compliance with applicable legal 
+standards should be the essential goal of insurers and supervisors alike.  
+Noted. 
+See response to comment 34.  
+ 
+Q18 Comment on paragraph 16 
+36. BonkNote USA No  P16#"I sincerely believe we have a flawed instrument in today's sales 
+illustrations. It is neither a reason to condemn our industry nor pretend our 
+industry should have been immune to change, especially with the economic 
+Noted.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 22 of 46 
+ 
+realities of the past few years. But we did not communicate the impact of change 
+as well as we should have, especially the impact of change on the numbers we 
+used in our sales illustrations. I sincerely believe it's a shared responsibility by all 
+of us - agents, the actuarial profession, company leadership, regulators and even 
+the consumer. Our biggest mistake would be to delay. I don't believe the 
+consumer will tolerate or forgive us, let alone the regulators, if we do nothing." -- 
+{Robert Nelson, chairperson of the National Association of Life Underwriters 
+(NALU) Task Force on Illustrations} --- SALES ILLUSTRATIONS - WE CAN'T 
+LIVE WITH THEM, BUT WE CAN'T LIVE WITHOUT THEM!, Record of Society of 
+Actuaries, 1993, VOL. 19 NO. 2, pp. 937-955 
+Q19 Comment on paragraph 17 
+37. Global 
+Federation of 
+Insurance 
+Association 
+Global No  GFIA agrees that assessing an insurer's culture can be highly subjective. 
+Therefore, a better approach is to assess an insurer based on its compliance with 
+applicable legal standards. If a different definition of culture is accepted, then it 
+should be assessed by supervisors on a case by cases basis, as the paragraph 
+provides. 
+Noted. 
+38. General 
+Insurance 
+Association of 
+Japan 
+Japan No  We agree that "assessing an insurer's culture can be highly subjective and may 
+require the thoughtful exercise of supervisory judgment on a case-by-case basis". 
+ 
+We understand that it is important for supervisors to be able to identify and deal 
+with root causes underlying certain recurring issues sooner and more accurately. 
+However, given the subjectivity of the matter, conditions for supervisory 
+interventions, if examined, should be well-balanced, and should not be too strict 
+for insurers. 
+ 
+The phrase "critical eye" is used in the second sentence to describe supervisor 
+attitudes to observing insurer culture. We understand that this means supervisors 
+make analytical assessments with an appropriate degree of skepticism (without 
+taking assessments by others and preconceptions at face value). 
+Noted. 
+The practical aspects relating to how 
+supervisors can achieve this in an 
+objective manner are intended to be 
+covered in the next phase of the IAIS’ work 
+on insurer culture. 
+39. The 
+Norwegian 
+Norway No  Assessing an insurers culture should also be more standardized by introducing 
+templates to fill out. This would make it easier to compare companies and look for 
+best practice.  
+Disagree. 
+This may lead to a more formulaic tick-box 
+approach to supervisory assessments,
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 23 of 46 
+ 
+Actuarial 
+Association 
+rather than adopting a more holistic and 
+outcomes-based approach to insurer 
+culture. 
+40. APCIA United 
+States 
+No  We agree with the statement that assessing an insurer's culture can be highly 
+subjective. It is for this reason, that a better approach is to assess an insurer 
+based on its compliance with applicable legal standards. If a different definition of 
+culture is accepted then it should be assesed by supervisors on a case by cases 
+basis, as the paragraph provides.  
+Noted. 
+Q20 Comment on paragraph 18 
+41. Global 
+Federation of 
+Insurance 
+Association 
+Global No  This paragraph points out the possibility of different cultures within different areas 
+of the business, or perhaps in different legal entities within a broader group. While 
+a high-level culture and promotion of ethical conduct certainly must be enforced 
+throughout an entire enterprise group, there should be some acknowledgement 
+that different cultures and risk appetites may exist within various entities of that 
+broader enterprise. 
+Text updated. 
+42. BonkNote USA No  P18#"In the example often say: Well, let´s just assume that this is $500,000 that 
+we are dealing with here and the minimum premium is a thousand dollars and the 
+maximum premium Is $5,000. Why would anyone put $5,000 into a contract if you 
+could buy the amount of coverage for only 1,000?" -- "Well, the reason Is 
+because once you pay that minimum premium, everything between there and the 
+upper line receives substantial benefits, both taxes and other benefits in there. So 
+that is - so what we are trying to explain is why would we use life Insurance as an 
+accumulation vehicle? Why would we use life Insurance as an Income–
+generating vehicle? How would that actually be achieved? And that´s what you 
+see there." --- Walker vs Life Insurance Company of the Southwest, 2:10-cv-
+09198-JVS-JDE, Document 820 Filed 12/01/15 Page 40 of 279 -TRIAL DAY 11 - 
+{Jeffrey Stemler, Agent} 
+ Noted. 
+Q21 Comment on paragraph 19
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 24 of 46 
+ 
+43. International 
+Actuarial 
+Association 
+International No  The IAA suggests the document mention within this paragraph that a culture of 
+openness and debate must be promoted not only within the Board, but also 
+across the organization, in addition to the reference mentioned in paragraph 22. 
+Text in para 22 has been revised. 
+44. The 
+Norwegian 
+Actuarial 
+Association 
+Norway No  In order to promote a culture for openness and debate within the Board the 
+Senior Management and Key Persons in Control Functions must prepare reports 
+showing the main Key Risk Indicators and how they are judged over time. This 
+could be done by using "traffic light" so the Boards attention will be at the right 
+issues. Our experience is that this must be developed over time, with 
+engagement from all parties.  
+Noted. 
+It is not the intention of the Issues Paper to 
+prescribe granular requirements for 
+insurers or supervisors. This comment will 
+be considered when developing practical 
+supervisory guidance in the next phase of 
+the IAIS’ work on insurer culture. 
+Q22 Comment on paragraph 20 
+45. BonkNote USA No  P20#"Under some permanent insurance, contracts being sold today, the chances 
+are you could stop paying after 7, 8, or 9 years and the insurance would remain in 
+force for the rest of your life without further premium payments."-- {Robert Beck 
+(Prudential CEO)} --- Comprehensive Tax Reform - Part 7: Hearings Before the 
+Committee on Ways and Means 99th Cong., p6069 (1985),  
+#"There is ample evidence to suggest that many of the practices at Prudential 
+are, or were, present at other life insurers." (p12) --- 1996, May - Report of The 
+Multi-state Life Insurance Task Force and Multi-state Market Conduct 
+Examination of The Prudential Insurance Company of America 
+Noted.  
+Q23 Comment on paragraph 21 
+Q24 Comment on paragraph 22 
+Q25 Comment on paragraph 23 
+Q26 Comment on paragraph 24 
+Q27 Comment on paragraph 25
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 25 of 46 
+ 
+46. Global 
+Federation of 
+Insurance 
+Association 
+Global No  Again, the concerns GFIA has with the notion of "mindset' are presented by its 
+use here. 
+See previous response to comment on 
+paragraph 13. 
+47. General 
+Insurance 
+Association of 
+Japan 
+Japan No  Given that the examples following this paragraph illustrate not only negative 
+cases, but also cases where Covid-19 has led to changes for the better, this 
+paragraph lacks balance in that it does not reflect these positive aspects. To 
+explain that Covid-19 has brought both negative and positive effects, we suggest 
+revising the third sentence as follows: 
+ 
+Many of the attributes of an effective culture described above can help when 
+dealing with change or responding to stress situations such as Covid-19. 
+Text updated. 
+48. APCIA United 
+States 
+No  Again, the concerns we have with the notion of "mindset' are presented by its use 
+here. 
+See previous response to comment on 
+paragraph 13. 
+Q28 Comment on paragraph 26 
+49. International 
+Actuarial 
+Association 
+International No  In Figure 1, it might be helpful to include a box relating to "actions and behaviors" 
+between the "culture" and the "risks" below it. 
+The figure has been updated with box 
+“actions, behaviours and decisions” 
+50. General 
+Insurance 
+Association of 
+Japan 
+Japan No  As this paper deals with a subjective topic, future work on it should be 
+implemented after duly examining the necessity and probable effectiveness. 
+Noted. 
+Q29 General comments on Section 2: The relationship between insurer culture, the management of prudential and conduct risks and the mitigation of misconduct  
+Q30 Comment on paragraph 27 
+Q31 Comment on paragraph 28
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 26 of 46 
+ 
+51. Global 
+Federation of 
+Insurance 
+Association 
+Global No  GFIA is concerned about defining the fair treatment of consumers as being 
+different from or in addition to legally prescribed standards. Companies may wish 
+to exceed those standards voluntarily, but supervisors should define fair 
+treatment solely in terms of the legally established standards of insurer conduct 
+toward consumers. 
+The definition contained in the footnote 
+has been well established and accepted as 
+part of the ICP framework. 
+52. APCIA United 
+States 
+No  We are concerned with defining fair treatment of consumers as being different 
+from or in addition to legally prescribed standards. Companies may wish to 
+exceed those standards voluntarily, but supervisors should define fair treatment 
+solely in terms of the legally established standards of insurer conduct toward 
+consumers.  
+See response to comment 51.  
+53. BonkNote USA No   
+P28#"They (Universal Life Policy) merely afford purchasers greater flexibility in 
+designing their contracts so as to meet their individual needs." -STATEMENT OF 
+THE AMERICAN COUNCIL OF LIFE INSURANCE BEFORE THE NASAA NAIC 
+JOINT REGULATORY INSURANCE (ATTACHMENT ONE-A), August 31, 1981 - 
+1982 PROCEEDINGS OF THE National Association of Insurance Commissioners 
+(NAIC), Volume 1, p122 
+ 
+P28#"Other policies may have special features which allow flexibility as to 
+premiums and coverage. Some let you choose the death benefit you want and 
+the premium amount you can pay. The kind of insurance and coverage period are 
+determined by these choices. One kind of flexible premium policy often called 
+Universal Life…"-- Statement on Behalf of the American Council of Life Insurance 
+to the NAIC (A) Committee's Life Cost Disclosure Task Force- (ATTACHMENT 
+ONE), November 29, 1982 - 1983 PROCEEDINGS OF THE National Association 
+of Insurance Commissioners (NAIC), Volume 1, p523 
+Noted. 
+Q32 Comment on paragraph 29 
+Q33 Comment on paragraph 30 
+Q34 Comment on paragraph 31
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 27 of 46 
+ 
+54. Global 
+Federation of 
+Insurance 
+Association 
+Global No  The descriptions are presented as being one or the other (ie one with the 
+appropriate culture or not). While this serves to illustrate the points being made, it 
+overlooks a more balanced perspective that acknowledges the important role 
+commercial drivers also play in ensuring an insurer is sustainable, which is 
+ultimately to customers' benefit. 
+As pointed out, the descriptions are 
+intended to be illustrative. They are to be 
+understood as examples of potential 
+indicators of certain outcomes, and not 
+meant to be definitive or exhaustive. 
+55. General 
+Insurance 
+Association of 
+Japan 
+Japan No  Foci of "shareholder interests" are varied, from short-termism to SDGs, which are 
+increasingly sought after. We understand that, in this context, "shareholder 
+interests" refer to the short-term interests of shareholders. Therefore, we suggest 
+revising the last sentence as follows: 
+ 
+On the other hand, a Board whose decisions are driven solely by interests of 
+short-term-profit-oriented shareholders (culture) may set aggressive profitability 
+targets (prudential) that could incentivise unfair product design, sales and claims 
+handling practices by management and staff (conduct), which could in turn lead to 
+large scale consumer complaints, litigation, reputational damage and significant 
+longer-term losses for the insurer (prudential and conduct). 
+Text updated. 
+56. APCIA United 
+States 
+No  The descriptions are very much presented as being one or the other (i.e.one with 
+the appropriate culture or not). While this serves well to illustrate the points being 
+made, this overlooks a more balance perspective, acknowledging the important 
+role commercial drivers also play in ensuring an insurer is sustainable, which is 
+ultimately to customers' benefit. 
+See response to comment 54. 
+Q35 Comment on paragraph 32 
+57. Global 
+Federation of 
+Insurance 
+Association 
+Global No  GFIA agrees with the definition of misconduct that is tied to requirements and 
+legal standards. The subjective notion of culture adds a degree of subjectivity that 
+raises many serious questions about how it is to be determined, enforced and 
+according to what standards. 
+Noted. 
+58. APCIA United 
+States 
+No  We agree with the definition of misconduct that is tied to requirements and legal 
+standards. Our view is that the subjective notion of culture adds a degree of 
+subjectivity that raises many serious questions about how it is to be determined 
+and enforced according to what understood standards.  
+Noted.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 28 of 46 
+ 
+Q36 Comment on paragraph 33 
+Q37 Comment on paragraph 34 
+59. BonkNote USA No  P#34"For example, Alexander Hamilton´s illustration doesn´t make it clear that 
+there is no guaranteed death benefit after 12 years. - How absurd can it be? That 
+means that at age 57, this 45-year-old man will quite possibly have to pay a lot 
+more to get new life insurance, if he can get it at all. -- Frankly, no 45-year-old 
+man can make an informed choice about which policy to buy on the basis of any 
+of these illustrations" ---Consumer Disclosure of Insurance: Hearing Before the 
+Subcommittee on Antitrust, Monopolies and Business Rights of the Committee on 
+the Judiciary, 102nd Cong., p2, (1992) {Senator Howard Metzenbaum-OH} 
+ Noted. 
+Q38 Comment on paragraph 35 
+60. Global 
+Federation of 
+Insurance 
+Association 
+Global No  GFIA agrees with the first sentence and would like to see the source cited for the 
+second sentence. The paragraph should be more nuanced and cautious about 
+references to AML requirements in the general insurer context. 
+In is unclear what the concern is regarding 
+the reference to AML controls as an 
+example. 
+The second sentence has been revised to 
+place it in the context of the relevant 
+examples and sources cited in the 
+example box under para 36. 
+61. APCIA United 
+States 
+No  We agree with the first sentence and would like to see the source cited for the 
+second sentence. The paragraph should be more nuanced and careful about 
+references to AML requirements in the general insurer context. 
+See response to comment 60.  
+Q39 Comment on paragraph 36 
+62. General 
+Insurance 
+Association of 
+Japan 
+Japan No  As it will help avoid the situation where supervisory assessments are excessively 
+dependent on individual assessors´ subjectivity, the development of tools and 
+approaches for identifying, assessing and managing misconduct risk that focus 
+on assessing underlying cultural factors is important. However, in view of various 
+dynamic elements that constitute an insurer´s culture, differences among 
+Noted. 
+This will be taken into account when 
+developing further guidance material for 
+supervisory assessments of certain
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 29 of 46 
+ 
+countries, regions and insurers, the subjectivity of assessing an insurer´s culture, 
+and other factors, such tools and approaches, if developed, should be well-
+balanced, and should not be overly prescriptive. 
+aspects of insurer culture in the next phase 
+of the IAIS’ work in this regard. 
+Q40 Comment on paragraph 37 
+Q41 Comment on paragraph 38 
+63. General 
+Insurance 
+Association of 
+Japan 
+Japan No  While we understand that incentives could be effective in promoting a culture 
+desirable to each insurer, it is necessary to note that setting excessive incentives, 
+which could lead to behaviours that overemphasise the achievement of goals, 
+may adversely affect soundness and increase misconduct risk. 
+The text has been revised to include 
+reference to “reasonable financial and non-
+financial incentives”. 
+ 
+Q42 Comment on paragraph 39 
+64. Institute of 
+International 
+Finance 
+Global No  The example of "rolling bad apples' from the banking industry in Paragraph 39 
+points out the importance of rigorous vetting and background checks for new 
+employees, especially those with management roles. However, given 
+informational asymmetries, supervisors should expect that the review of new 
+employees will be on a "best-efforts' basis. 
+Agreed.  
+This point is highlighted in paragraph 42. 
+Q43 Comment on paragraph 40 
+65. The 
+Norwegian 
+Actuarial 
+Association 
+Norway No  Supervisors should require that Key Persons in Control Functions (and members 
+of the Board and Senior Management) regularly fill out "fit & proper" formula. In 
+order to prevent (criminal) misconduct a clean police certificate may be required 
+for these positions. In case of misconduct there should be a quarantine period, 
+depending on the severity of the misconduct.  
+Noted. 
+It is not the intention of the Issues Paper to 
+prescribe granular requirements for 
+insurers or supervisors. This comment will 
+be considered when developing practical 
+supervisory guidance in the next phase of 
+the IAIS’ work on insurer culture. 
+Q44 Comment on paragraph 41
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 30 of 46 
+ 
+66. Global 
+Federation of 
+Insurance 
+Association 
+Global No  While GFIA certainly agrees that "rolling bad apples' should be prevented, it is 
+concerned that this paragraph would allow too much supervisory intervention into 
+the internal personnel practices of insurers.  
+In addition, suitability requirements are, in general, specified in current local 
+regulations. A supervisor´s assessment of interviews or background checks is 
+completely subjective. 
+Disagree that this would be extending 
+supervisory intervention powers.  
+The paragraph is supported by reference 
+to existing requirements already in place in 
+some jurisdictions in the example box. 
+67. Bank 
+Negara 
+Malaysia 
+Malaysia No  We wish to share an additional example as follows:  
+ 
+In 2018, BNM issued requirements for mandatory employee screening as part of 
+enhanced recruitment practices. Financial institutions are required to request 
+employment references from current and past employees, and to furnish the 
+same upon request. Prospective employees are also required to provide a 
+statutory declaration on past criminal convictions and any ongoing investigations 
+or proceedings. 
+ 
+The policy document titled "Employee Screening' can be accessed via this link: 
+https://www.bnm.gov.my/documents/20124/761682/Employee+Screening+PD.pdf 
+The example has been added.  
+68. APCIA United 
+States 
+No  While we certainly agree that "rolling bad apples' should be prevented, we are 
+concerned that this paragraph would allow too much supervisory intervention into 
+the internal personnel practices of insurers.  
+Disagree that this would be extending 
+supervisory intervention powers.  
+ 
+The paragraph is supported by reference 
+to existing requirements already in place in 
+some jurisdictions in the example box.  
+Q45 Comment on paragraph 42 
+69. Global 
+Federation of 
+Insurance 
+Association 
+Global No  This proposal would not guarantee that all individuals have met the levels of 
+competence and integrity required. 
+Agreed.  
+For this reason, the paragraph makes 
+reference to the insurer taking “reasonable 
+care” on a “best effort basis”.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 31 of 46 
+ 
+Q46 Comment on paragraph 43 
+70. Global 
+Federation of 
+Insurance 
+Association 
+Global No  GFIA agrees with the first two sentences, but has concerns with the third 
+sentence, which should be deleted, as the use of the phrase "it is vital" might 
+suggest a supervisory role over culture. 
+The sentence has been revised for 
+balance.   
+71. APCIA United 
+States 
+No  We agree with the first two sentences.  Noted. 
+72. BonkNote USA No  P43#"The previous allegations of this Complaint set out die alleged warnings and 
+disclaimers were inadequate, misleading, deceptive and ambiguous to advise Ms. 
+Fairbanks, individually, that she had actually purchased what was effectively a 
+term policy, not permanent insurance." ---Fairbanks v Farmers Life, SECOND 
+AMENDED CLASS ACTION COMPLAINT 
+ 
+P43#20. Aetna does not dispute that Mr. Pflugfelder described the Policies as 
+"permanent insurance." --He did so correctly, as Plaintiffs concede. -21. Aetna 
+does not dispute this paragraph, but adds that Plaintiffs never asked what the 
+term "permanent insurance" means. --- Fay v Aetna, Case 1:01-cv-10846-RGS, 
+Defendant Aetna Life Insurance And Annuity Company's Response To Plaintiffs' 
+Separate Statement of Additional Undisputed Material Facts, Document 65, Filed 
+06/02/03  
+ Noted. 
+Q47 Comment on paragraph 44 
+73. Global 
+Federation of 
+Insurance 
+Association 
+Global No  The inclusion of culture adds little to this paragraph, so GFIA suggest to delete 
+"can influence an insurer's overall culture, which in turn". 
+The paragraph has been streamlined. 
+74. APCIA United 
+States 
+No  The inclusion of culture adds little to this paragraph, so we would delete "can 
+influence an insurer's overall culture, which in turn".  
+See previous comment.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 32 of 46 
+ 
+Q48 General comments on section 3: Illustrations of how cultural drivers can influence certain prudential and conduct outcomes within an insurer 
+75. International 
+Actuarial 
+Association 
+International No  The IAA notes in Section 3.4 a tendency to focus on sales-related incentives as a 
+potential driver of conduct issues. It may be helpful to also note how claims-
+related incentives or policies may equally lead to conduct issues in the area of fair 
+treatment of policyholders such denial of legitimate claims. 
+Paragraphs 74 and 78 have been updated 
+to refer more broadly to profitability, 
+covering both sales and claims issues. 
+Q49 Comment on paragraph 45 
+Q50 Comment on paragraph 46 
+76. International 
+Actuarial 
+Association 
+International No  The IAA agrees with the responsibilities of the Board noted in this paragraph. 
+However, it is through the CEO that these responsibilities are carried out, as the 
+Board is not present in the day to day running of the company. Perhaps instead of 
+simply referencing "employees" at the conclusion, it should say "all employees 
+from top management down." 
+The text in this paragraph is a direct 
+replication of ICP guidance (ICP 7.2.3). No 
+change made. 
+Q51 Comment on paragraph 47 
+77. BonkNote USA No  P47#"You will find agents who have been forgiven all the other offenses in the 
+calendar, but nowhere will you find the agent who has been forgiven for not 
+selling insurance."(p4) ---1898,Things Agents Should Know: An Intensely 
+Practical Book for Life Insurance Agents, by Miles Menander Dawson 
+Noted.  
+Q52 Comment on paragraph 48 
+78. Global 
+Federation of 
+Insurance 
+Association 
+Global No  GFIA strongly supports the statement that: "It is not the role of supervisors to 
+define a specific set of values for insurers." 
+Noted.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 33 of 46 
+ 
+79. Institute of 
+International 
+Finance 
+Global No  Paragraph 48 notes that it is not the role of supervisors to define a specific set of 
+values for insurers, a statement with which we agree, as noted above. However, 
+in the second sentence, we propose a clearer link to good customer outcomes as 
+follows: 
+However, in assessing whether an insurer's values point to a desirable overall 
+culture, it may be instructive for supervisors to consider the extent to which its 
+values and underlying purpose align with expectations for appropriate market 
+conduct set out in applicable regulatory requirements. 
+Regulatory expectations relating to other 
+aspects, not only those limited to market 
+conduct, may also be applicable in this 
+context. As highlighted in the paper, the 
+issue of insurer culture is linked to 
+expectations relating to both conduct and 
+prudential outcomes. 
+80. The Life 
+Insurance 
+Association of 
+Japan 
+Japan No  - As the IAIS states in the first sentence of Paragraph 48, we agree that it is not 
+the role of supervisors to define a specific set of values for insurers. Each 
+company focuses on different values, and values are also influenced by the 
+company´s lines of business and the nature of its customers. Different cultures 
+that emphasize such values lead to better outcomes and fair treatment for 
+customers. Therefore, a uniform approach to corporate culture is not appropriate 
+in today´s insurance industry, where business models are becoming more 
+diverse. 
+Noted. 
+81. APCIA United 
+States 
+No  We support the statement that:" It is not the role of supervisors to define a specific 
+set of values for insurers." 
+Noted. 
+Q53 Comment on paragraph 49 
+82. Global 
+Federation of 
+Insurance 
+Association 
+Global No  See comment on paragraph 31. 
+ 
+Noted.  
+The paragraph offers well-balanced 
+considerations, indicating potential 
+negative consequences of focusing on 
+maximising shareholder value by focusing 
+narrowly on short-term profitability.  
+The descriptions are intended to be 
+illustrative. They are to be understood as 
+examples of potential indicators of certain 
+outcomes, and not meant to be definitive 
+or exhaustive.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 34 of 46 
+ 
+83. Institute of 
+International 
+Finance 
+Global No  Paragraph 49 describes the maximization of shareholder value, on the one hand, 
+and the pursuit of long-term viability and the fair treatment of customers, on the 
+other hand, as a zero-sum game. Both are consistent with positive customer 
+outcomes. The maximization of shareholder value, company growth and 
+increased revenue benefit customers through expanded and improved products 
+and services, better customer service and a solid financial base that ensures that 
+commitments to policyholders will be met. We do, however, appreciate that an 
+excessive focus on short-term profitability can be detrimental to the organization 
+and, ultimately, to its customers. We would rephrase this Paragraph as follows: 
+An excessive focus on short-term profitability can be detrimental to the long-term 
+viability of an insurer and result in negative impacts on customer outcomes. 
+Insurers should balance short- and long-term objectives and goals with a view 
+towards positive customer outcomes including expanded and improved products 
+and services, better customer service and a solid financial base that ensures that 
+commitments to policyholders will be met consistent with contract terms and 
+conditions. 
+Relatedly, we caution against the notion that revisiting contract terms and 
+conditions to benefit a particular group of policyholders is necessarily evidence of 
+"good' culture or good customer outcomes. The supervisory focus should be on 
+positive outcomes for all customers, consistent with contract terms and 
+conditions. Preferential treatment of one segment of the customer base can be 
+detrimental to the interests of other policyholders and inconsistent with sound risk 
+management that benefits all stakeholders. 
+The wording of the paragraph has been 
+revised for balance. 
+ 
+ 
+ 
+84. General 
+Insurance 
+Association of 
+Japan 
+Japan No  Insurers are required to consider various stakeholders, respond to different 
+interests, and ensure fair policyholder treatment. We agree with the reference 
+regarding the consequences of focusing on the interests of specific stakeholders. 
+ Noted. 
+85. APCIA United 
+States 
+No  We make the same comment as we did in paragraph 31 - "The descriptions are 
+very much presented as being one or the other (i.e.one with the appropriate 
+culture or not). While this serves well to illustrate the points being made, this 
+overlooks a more balance perspective, acknowledging the important role 
+commercial drivers also play in ensuring an insurer is sustainable, which is 
+ultimately to customers' benefit." 
+See responses to previous comments.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 35 of 46 
+ 
+Q54 Comment on paragraph 50 
+Q55 Comment on paragraph 51 
+Q56 Comment on paragraph 52 
+Q57 Comment on paragraph 53 
+Q58 Comment on paragraph 54 
+Q59 Comment on paragraph 55 
+Q60 Comment on paragraph 56 
+Q61 Comment on paragraph 57 
+86. BonkNote USA No  P57#"Second, it was observed that there was a real lack of accountability in the 
+current marketplace involving life insurance sales, there is virtually no 
+accountability for any of the participants in the sale: -not for the company, -not for 
+the agent, -and interestingly, the white paper discussed accountability on the part 
+of the purchaser as well. -- Accountability is a major issue. -- {Robert E. Wilcox- 
+Chairman of the Life Insurance Disclosure Working Group (NAIC)} ---PROBLEMS 
+AND SOLUTIONS FOR PRODUCT ILLUSTRATIONS, Record of Society of 
+Actuaries, 1994, VOL. 20 NO. 2, pp. 569-595 
+Noted. 
+Q62 Comment on paragraph 58 
+Q63 Comment on paragraph 59 
+Q64 Comment on paragraph 60 
+87. General 
+Insurance 
+Japan No  (Example 2 of Japan, following Paragraph 60) 
+As it refers to a specific case, the example is not intended to identify universal 
+Change made.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 36 of 46 
+ 
+Association of 
+Japan 
+problems in Japan. To clarify this, we suggest revising the first sentence as 
+follows: 
+ 
+The FSA found a certain case where top management put corporate goals ahead 
+of internal rules. 
+Q65 Comment on paragraph 61 
+Q66 Comment on paragraph 62 
+Q67 Comment on paragraph 63 
+88. Global 
+Federation of 
+Insurance 
+Association 
+Global No  GFIA notes that the only US example of misconduct cited in the paper is that of a 
+bank regulated by the federal government, not a state-regulated insurance 
+company.  
+ 
+ 
+ 
+ 
+ 
+Australia's example is an indicator of the existence of a failure in the company´s 
+internal procedures, which can lead to different consequences. Oversight should 
+focus on unfulfilled regulation of remuneration or governance, not on the culture 
+itself. In other words, if undertakings comply with regulation in force, business 
+culture should not be questioned. 
+ 
+The UK example refers to a failure in controlling outsourced business, not to a 
+cultural issue. 
+The nature and range of issues highlighted 
+in the Wells Fargo example are directly 
+relevant to the paper and apply equally to 
+other financial institutions including 
+insurers. It was deemed appropriate to 
+have just this one comprehensive example 
+from the United States, in light of the 
+various insurer specific examples provided 
+by other jurisdictions elsewhere in the 
+paper.  
+The examples refer to shortcomings 
+related to one of the cultural drivers 
+identified in the paper and linked 
+specifically to the ICPs, ie leadership 
+accountability.  
+  
+89. Institute of 
+International 
+Finance 
+Global No  The examples following Paragraphs 63 and 70 from the U.K. are more indicative 
+of internal control failures than of cultural issues. We encourage the IAIS to 
+Those examples refer to shortcomings 
+related to cultural drivers covered by 
+relevant subsections and linked specifically
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 37 of 46 
+ 
+refocus these examples on cultural problems at the insurer and on how those 
+problems actually impacted customers. 
+to the ICPs, ie leadership accountability 
+and communication within an insurer.  
+As highlighted in the paper, the impact of 
+insurer culture is not limited to consumer 
+outcomes but is relevant to other aspects 
+including internal governance and control 
+issues. 
+90. APCIA United 
+States 
+No  We note that the only U.S. example of misconduct cited in the paper is that of a 
+bank regulated by the federal government, not a state-regulated insurance 
+company.  
+See response to comment 88.   
+Q68 Comment on paragraph 64 
+Q69 Comment on paragraph 65 
+91. General 
+Insurance 
+Association of 
+Japan 
+Japan No  We agree that "the boundaries of the Board's accountability depend on the nature 
+of the insurer (eg publicly listed) and may vary by jurisdiction". 
+Noted. 
+92. BonkNote USA No  P65#{Mr. DINALLO}: Well, think it´s important for everyone to know there´s a very 
+strong tension between policyholders´ interest and shareholders´ interest in a 
+publicly traded company. The board and management has a fiduciary interest to 
+shareholders under our law, fiduciary interest to shareholders, but, at the same 
+time, whenever they release capital to satisfy that to get a bigger return on equity, 
+they are necessarily taking incremental protection against policyholders. --{Mr. 
+BRALEY}: And you also have a fiduciary obligation to policyholders under their 
+contractual obligation with the policyholder. --{Mr. DINALLO}: ….Sadly, there is 
+some debate, actually, because they´ve been so trained under Our law and after 
+Enron, etc., to worry about fiduciary duty to shareholders that there is a good 
+argument, that because it's in their blood to worry about policyholders the legal 
+requirements are little bit gray actually. --- THE CAUSES AND EFFECTS OF 
+THE AIG BAILOUT, HEARING BEFORE THE COMMITTEE ON OVERSIGHT 
+AND GOVERNMENT REFORM, 111th Cong., p54 (2008), {Dinallo, Eric R., 
+Noted.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 38 of 46 
+ 
+superintendent, New York State Insurance Department; Congressman Bruce L 
+Braley (Iowa)} 
+Q70 Comment on paragraph 66 
+93. The Life 
+Insurance 
+Association of 
+Japan 
+Japan No  - Regarding the UK Senior Managers and Certification Regime, it is introduced as 
+a good example of a Senior Managers Regime that describes the need for senior 
+management performing key functional roles to seek the PRA's and/or FCA's 
+approval before starting their roles. We would like to confirm that this is only an 
+example, and that the legal systems and business practices of each jurisdiction 
+should be taken into account in similar cases, and that there is no intention to 
+require similar measures described in this example for a wide range of 
+jurisdictions. 
+We confirm that this is an example 
+reflecting the approach of a particular 
+jurisdiction and is not meant to be 
+prescriptive for all jurisdictions. 
+Q71 Comment on paragraph 67 
+94. International 
+Actuarial 
+Association 
+International No  The IAA suggests enhancing this paragraph's reference to communication 
+through the company by adding the promotion and spread of best practices, as 
+these are described in the following paragraphs. 
+Para. 67 is meant to introduce the 
+subsection and is not intended to cover all 
+issues covered elsewhere in the 
+subsection.  
+Q72 Comment on paragraph 68 
+Q73 Comment on paragraph 69 
+95. Global 
+Federation of 
+Insurance 
+Association 
+Global No  Caution should be taken about how far open communication extends regarding 
+bonuses and incentives, as it could lead to mistrust, resentment and low morale. 
+Noted.  
+The paragraph refers to bonus and 
+incentives structures, rather than the 
+actual bonuses and incentives themselves.  
+96. APCIA United 
+States 
+No  Care needs to be taken about how far open communication extends regarding 
+bonuses and incentives as there is also potential for this to breed mistrust, 
+resentment and low morale.  
+See response to comment 95.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 39 of 46 
+ 
+Q74 Comment on paragraph 70 
+97. Institute of 
+International 
+Finance 
+Global No  The examples following Paragraphs 63 and 70 from the U.K. are more indicative 
+of internal control failures than of cultural issues. We encourage the IAIS to 
+refocus these examples on cultural problems at the insurer and on how those 
+problems actually impacted customers. 
+See response to comment 89. 
+Q75 Comment on paragraph 71 
+98. The Geneva 
+Association 
+International No  We agree with the inappropriateness of compensation systems and performance 
+management that encourage unfair treatment of customers. On the other hand, 
+we would like to emphasize that excessive or prescriptive regulation of 
+compensation systems and performance management based on some specific 
+cases of misconduct should not be adopted, as this would inhibit the market 
+culture and practices of each jurisdiction and the voluntary efforts of each 
+company. 
+The section does not prescribe any new 
+regulations or standards but merely 
+illustrates a potential link between 
+inappropriate compensation structures and 
+poor conduct. 
+ 
+Q76 Comment on paragraph 72 
+Q77 Comment on paragraph 73 
+Q78 Comment on paragraph 74 
+99. Global 
+Federation of 
+Insurance 
+Association 
+Global No  Compensation practices are an important component of reinforcing behaviors and 
+expectations. It is, therefore, important to have a performance management that 
+evaluates not just what they do, but how they do it - including being prudent risk 
+managers (both financial and operational) and having compensation tied to that. 
+Noted. 
+100. BonkNote USA No  P74# "We designed commission rules that anticipated a relatively large number of 
+rollovers of existing policies; full commissions are paid provided: -the new 
+universal life face amount is at least two times the face amount of the replaced 
+policy. -All cash values are rolled over to the universal life policy. -The new 
+premium is at least equal to the current premium." --{Phillip B. Norton, not a 
+member of the Society, is Vice President of The Lincoln National Life Insurance 
+Noted.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 40 of 46 
+ 
+Company} --- INDIVIDUAL LIFE INSURANCE RETENTION AND 
+REPLACEMENT STRATEGIE, Record of Society of Actuaries 1983, VOL. 9 NO. 
+4, pp.1755-1777 
+Q79 Comment on paragraph 75 
+101. The 
+Norwegian 
+Actuarial 
+Association 
+Norway No  We agree that remuneration is wide and complex era. We would however like to 
+seen that this section was supported by some examples of bad and excellent 
+remuneration policies. Remuneration is especially important for Senior 
+Management, like CEO/CFO etc as they are in the position to have incentives for 
+short time revenues. Roof of bonuses compared to fixed salary should be in 
+place, cash vs. stocks is also a tool tfor incentives to avoid short time revenues. 
+Noted. However, such detailed 
+considerations would go beyond the scope 
+of this paper.  
+More targeted exploration of specific 
+cultural drivers, such as remuneration is 
+signalled in para. 87 as potential follow up 
+work to the paper by the IAIS in future.   
+See also ICP 7.6, which focuses on issues 
+related to an insurer’s remuneration policy. 
+Q80 Comment on paragraph 76 
+Q81 Comment on paragraph 77 
+Q82 Comment on paragraph 78 
+101. Global 
+Federation of 
+Insurance 
+Association 
+Global No  The only US example of misconduct cited in the paper is that of a federally 
+regulated bank, not a state regulated insurance company. 
+The nature and range of issues highlighted 
+in the Wells Fargo example are directly 
+relevant to the paper and apply equally to 
+other financial institutions including 
+insurers. It was deemed appropriate to 
+have just this one comprehensive example 
+from the United States, in light of the 
+various insurer specific examples provided 
+by other jurisdictions elsewhere in the 
+paper.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 41 of 46 
+ 
+102. Institute of 
+International 
+Finance 
+Global No  In Paragraph 78, basing promotional programs for senior management on short-
+term revenue horizons or quantitative hard targets can be consistent with a 
+culture that advances good market conduct and customer outcomes. Much 
+depends on the design of the program and the alignment of the program with 
+positive customer outcomes. Non-financial quantitative targets, such as customer 
+satisfaction metrics, can support positive customer outcomes. Quantitative targets 
+can be directly tied to incentives in a transparent manner and are more easily 
+monitored and audited than qualitative targets.  
+Promotional programs based on short-term revenues or quantitative hard targets 
+can further important business goals that are consistent with positive customer 
+outcomes. For example, when rolling out a new line of business or product, an 
+insurer may wish to incent its employees to focus on that line of business or 
+product in the short term as part of a marketing strategy in order to embed the 
+line or product in its offerings for the benefit of consumers of that product and the 
+business. 
+We propose to reword Paragraph 78 as follows: 
+In designing promotional programs for employees and, in particular, for Senior 
+Management, insurers should take care to avoid design features that could result 
+in negative customer outcomes such as poor selling practices or unfair treatment 
+of customers. Programs that are based exclusively on short-term revenue 
+horizons and/or quantitative hard targets should be carefully designed by the 
+insurer to avoid unintended consequences. Promotional programs should be 
+aligned with positive customer outcomes. 
+The wording of the paragraph has been 
+revised to reflect some of the issues raised 
+in the comment.  
+ 
+In general, para. 78 describes triggers that 
+could potentially lead to certain negative 
+outcomes, without suggesting that this 
+would definitely occur in every case.  
+103. APCIA United 
+States 
+No  We note that the only U.S. example of misconduct cited in the paper is that of a 
+federally regulated bank, not a state regulated insurance company.  
+See response to comment 101.   
+104. BonkNote USA No  P78#"From a distribution perspective, I think one of the challenges that face us in 
+UL is the servicing of UL. --Flexible premium, high-degree-of-service UL products 
+have little or no renewal compensation paid if there's no premium paid." --{Daniel 
+F. Byrne}---The Next Generation Universal Life, Record of Society of Actuaries, 
+1999, Volume 25, No. 1 
+Noted. 
+Q83 Comment on paragraph 79 
+Q84 Comment on paragraph 80
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 42 of 46 
+ 
+Q85 Comment on paragraph 81 
+Q86 Comment on paragraph 82 
+Q87 Comment on paragraph 83 
+105. Institute of 
+International 
+Finance 
+Global No  Paragraph 83 describes profitability and quantitative metrics, on the one hand, 
+and qualitative and service-oriented outcomes, on the other hand, as a zero-sum 
+game. This characterization is contrary to ICP 7.6.12, which is discussed in 
+Paragraph 82. ICP 7.6.12 reflects a balanced approach that allows for a holistic 
+assessment of performance based on a full range of financial and non-financial 
+indicators and metrics. 
+Similar to our comments with respect to Paragraph 49, both quantitative and 
+qualitative indicators and metrics are important and both can advance good 
+customer outcomes. Moreover, service-oriented indicators can be either 
+quantitative or qualitative. We note that the balanced scorecard approach 
+described in the example from Singapore following Paragraph 84 emphasizes the 
+inclusion of both financial and non-financial components that can align incentive 
+structures with good customer outcomes (as well as sound internal controls, 
+prudent risk management and compliance with regulatory requirements).  
+We propose to delete Paragraph 83 from the Draft Issues Paper, as it does not 
+reflect the balanced approach of ICP 7.6.12 and of the G30 report on banking 
+conduct and culture referenced in that Paragraph.  
+Paragraph has been revised to clarify that 
+it refers to a shift towards a more balanced 
+approach, including both financial and non-
+financial metrics.  
+ 
+ 
+106. The 
+Geneva 
+Association 
+International No  As to performance management, paragraph 83 discusses how provisions in 
+several ICPs envisage a shift in insurer performance criteria away from just 
+profitability. This section points to "qualitative outcomes," such as "service-
+oriented outcomes" as well as several normative qualifications (e.g., 
+disproportionally, undesirable) where it is not clear what is meant by whom from 
+what jurisdiction. It would be helpful if a next iteration of the paper includes more 
+robust definitions and more evidence-based articulations. As to quantification, 
+note that for compensation purposes, there is typically an attempt to quantify 
+qualitative objectives (e.g. surveys, scores, complaints).  
+Paragraph has been revised to clarify that 
+it refers to a shift towards a more balanced 
+approach, including both financial and non-
+financial metrics.  
+ 
+Q88 Comment on paragraph 84
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 43 of 46 
+ 
+108. Institute of 
+International 
+Finance 
+Global No  In order to reflect a more balanced approach, and in order to reflect that 
+management and/or the board of directors have the responsibility to change 
+remuneration plans that may lead to inappropriate incentives, we propose to 
+revise Paragraph 84 as follows: 
+In the case of misconduct, management and/or the board of directors should 
+consider whether the design of variable components of remuneration could have 
+provided incentives to engage in the misconduct or if the design of the variable 
+remuneration plan is indicative of governance issues at the insurer. If the answer 
+to either question is in the affirmative, management or the board of directors 
+should take prompt corrective action to change the plan design and/or to address 
+underlying governance issues. If timely corrective action is not taken by 
+management or the board of directors, the lead or group supervisor should 
+instruct the insurer to take appropriate action. 
+The current wording is well balanced. The 
+proposed wording, which focuses on 
+practical steps that should be taken by the 
+Board or Senior Management, goes 
+beyond the scope of this paper.  
+109. The Life 
+Insurance 
+Association of 
+Japan 
+Japan No  - Insurers in Japan have a well-balanced remuneration and performance 
+management system that emphasizes not only short-term performance but also 
+long-term profitability and stability, placing importance on matters such as the 
+quality of customer service and satisfaction from a customer-oriented business 
+operation perspective. Therefore, problems arising from this remuneration and 
+performance management system are considered to be limited. 
+ 
+- While we agree with the issue of performance management encouraging unfair 
+treatment of customers and the inappropriateness of remuneration systems, we 
+are concerned about the possibility of developing uniform regulations for 
+remuneration and performance management systems based on a few specific 
+misconduct cases that would inhibit each jurisdiction's market culture and 
+practices, as well as the company's voluntary efforts. In order to address this 
+concern, we would like to request the IAIS to add a new paragraph after 
+Paragraph 84, which states that "it is the role of insurers themselves to define and 
+implement specific approaches to remuneration and performance management, 
+taking into account the intent of ICPs and considerations raised in the previous 
+paragraphs". 
+Noted.  
+ 
+ 
+ 
+Not agreed to add the suggested wording. 
+While it is the role of insurers to define and 
+implement approaches to remuneration 
+and performance management, it is the 
+responsibility of supervisors to supervise 
+aspects related to remuneration and 
+performance management (see, for 
+example, ICP 7.6 and Annex to ICP 9).  
+Q89 General comments on Section 4: Conclusion  
+Q90 Comment on paragraph 85
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 44 of 46 
+ 
+Q91 Comment on paragraph 86 
+Q92 Comment on paragraph 87 
+110. Global 
+Federation of 
+Insurance 
+Association 
+Global No  While GFIA does not disagree with the desirability of leadership, accountability, 
+and transparency in concept, it is concerned with future work that would have 
+supervisors subjectively determine what is good or right corporate culture for 
+insurers, as noted in paragraph 1.1.6. Supervisors should be focused on 
+assessing compliance with legal and objective standards of behaviour and 
+outcomes, not subjective notions such as culture. 
+As indicated in para. 6 of the Issues Paper, 
+it does not seem appropriate to ascribe 
+one “right” or “good” culture to insurers. 
+However, an insurer’s culture may be 
+viewed through a variety of lenses to 
+understand whether it appears healthy, 
+sustainable, purposeful and safe.  
+The scope and focus of the follow up work 
+on insurer culture is still to be determined. 
+It is likely to include more targeted 
+exploration of, or practical supervisory 
+guidance on, specific cultural drivers, 
+rather than imposing a uniform standard 
+for supervising culture as a whole.  
+Similar to the approach taken in this paper, 
+any future work will also be limited to the 
+objective standards set out in the ICPs. 
+111. 
+International 
+Actuarial 
+Association 
+International No  Overall, this is a well-written and soundly argued paper, and a useful starting 
+point in looking at increased emphasis on corporate culture from the supervisory 
+perspective. As noted, the practical implications for supervisors will need further 
+work. The IAA notes that the examples cited as "cultural drivers" seem more like 
+effects of culture, rather than drivers of it. 
+Noted.  
+We agree that in some cases the causal 
+relationship can go in several directions. In 
+such cases, certain organisational 
+elements may simultaneously be regarded 
+as components that make up culture as 
+well as drivers that may influence or flow 
+from the overall culture of an insurer.   
+112. The 
+Geneva 
+Association 
+International No  Paragraph 87 lays out possible considerations for next steps, including "practical 
+supervisory guidance on specific cultural drivers" on topics such as remuneration. 
+For the reasons given above and given that corporate culture of insurers is 
+As indicated in the Issues Paper, as a next 
+step the IAIS will consider how best to 
+advance the observations outlined in the
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 45 of 46 
+ 
+influenced by the local culture of each jurisdiction and or many different other 
+elements, we do not consider it appropriate for the IAIS to develop uniform 
+indicators, detailed common regulations or supervisory guidance on corporate 
+culture. We encourage the IAIS to identify practices that can lead to conflicts of 
+interests, which in turn might have a negative impact on behaviour of people 
+within the organization.  
+Issues Paper in greater depth. This could 
+include practical supervisory guidance on 
+specific cultural drivers such as conflicts of 
+interest management by insurers.   
+The intention is not to create a uniform 
+indicator to assess culture as a whole. 
+113. General 
+Insurance 
+Association of 
+Japan 
+Japan No  Future work should be determined after duly examining the necessity and 
+probable effectiveness in view of various dynamic elements that constitute an 
+insurer´s culture, differences among countries, regions and insurers, the 
+subjectivity of assessing an insurer´s culture, and other factors. 
+ 
+In addition, it is important to avoid the situation where supervisory assessments of 
+insurer culture and conduct risks are excessively dependent on individual 
+assessors´ subjectivity. Therefore, practical supervisory guidance, if developed, 
+should be well-balanced, and should not be overly prescriptive. Ultimately, such 
+guidance should be implemented based on each jurisdictional supervisor´s 
+discretion. 
+Noted.  
+This comment will be considered carefully 
+when determining the scope and nature of 
+potential follow up work. 
+ 114. The Life 
+Insurance 
+Association of 
+Japan 
+Japan No  - The corporate culture of insurers is influenced by the market culture of each 
+jurisdiction (sales channels, investment markets, etc.), the expectations of 
+supervisors and consumer confidence, and there is no firm rule of thumb that a 
+specific culture will always produce positive outcomes for consumers. 
+ 
+- In light of this, we consider that the IAIS should give careful consideration in the 
+development of supervisory guidance. Specifically, we are concerned about the 
+possibility of developing uniform indicators and standardized regulatory settings 
+for corporate culture in the development of supervisory guidance. In order to 
+address this concern, we would like to ask the IAIS to add a new paragraph after 
+Paragraph 87, which states that "it is the role of insurers themselves to define and 
+implement specific approaches to remuneration and conflicts of interest 
+management, taking into account the intent of ICPs and considerations raised in 
+the previous paragraphs". 
+See responses to previous comments.  
+ 
+ 
+Disagree to add the additional paragraph, 
+as suggested. For more about supervision 
+of issues related to remuneration, see ICP 
+7.6. See also references in the paper to 
+existing ICP material relating to conflicts of 
+interest.
+
+Public 
+Resolution of public consultation comments on  
+Draft Issues Paper on Insurer Culture Page 46 of 46 
+ 
+116. APCIA United 
+States 
+No  While we do not disagree with the desirability of leadership, accountability and 
+transparency in concept, we are concerned with future work that would have 
+supervisors subjectively determine what is good or right corporate culture for 
+insurers, as noted in paragraph 6. Supervisors should be concerned with 
+assessing compliance with legal and objective standards of behavior and 
+outcomes, not subjective notions such as culture.  
+See responses to previous comments. 
+Q93 Comment on paragraph 88 
+117. Global 
+Federation of 
+Insurance 
+Association 
+Global No  GFIA calls on supervisors to engage in a dialogue with the federation before and 
+during the drafting of papers on diversity and inclusion, as the GFIA's members 
+have significant experience to share on these topics.  
+Noted. 
+118. Institute of 
+International 
+Finance 
+Global No  We appreciate the opportunity to comment on the Draft Issues Paper and would 
+welcome the occasion to further discuss our views with IAIS members. 
+Respectfully submitted, 
+Mary Frances Monroe 
+Noted. 
+119. APCIA United 
+States 
+No  We hope that supervisors would engage in a dialogue with us before drafting 
+papers on diversity and inclusion. Our members have significant experience on 
+these topics which we would like to share.  
+Noted.

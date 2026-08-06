@@ -1,0 +1,886 @@
+Climate Risk Consultation Package 3 - 
+Proposed supporting material to reflect 
+climate risk 
+ 
+ 
+March 2024
+
+About the IAIS 
+The International Association of Insurance Supervisors (IAIS) is a voluntary membership 
+organisation of insurance supervisors and regulators from more than 200 jurisdictions. The mission 
+of the IAIS is to promote effective and globally consistent supervision of the insurance industry in 
+order to develop and maintain fair, safe and stable insurance markets for the benefit and protection 
+of policyholders and to contribute to global financial stability.  
+Established in 1994, the IAIS is the international standard-setting body responsible for developing 
+principles, standards and other supporting material for the supervision of the insurance sector and 
+assisting in their implementation. The IAIS also provides a forum for Members to share their 
+experiences and understanding of insurance supervision and insurance markets.  
+The IAIS coordinates its work with other international financial policymakers and associations of 
+supervisors or regulators, and assists in shaping financial systems globally. In particular, the IAIS 
+is a member of the Financial Stability Board (FSB), member of the Standards Advisory Council of 
+the International Accounting Standards Board (IASB), and partner in the Access to Insurance 
+Initiative (A2ii). In recognition of its collective expertise, the IAIS also is routinely called upon by the 
+G20 leaders and other international standard-setting bodies for input on insurance issues as well 
+as on issues related to the regulation and supervision of the global financial sector. 
+For more information, please visit www.iaisweb.org and follow us on LinkedIn: IAIS –
+ International 
+Association of Insurance Supervisors. 
+ 
+Application Papers provide supporting material related to specific supervisory material (ICPs or 
+Comframe). Application Papers could be provided in circumstances where the practical 
+application of principles and standards may vary or where their interpretation and 
+implementation may pose challenges. Application Papers do not include new requirements, but 
+provide further advice, illustrations, recommendations or examples of good practice to 
+supervisors on how supervisory material may be implemented. The proportionality principle 
+applies to the content of Application Papers. 
+ 
+International Association of Insurance Supervisors  
+c/o Bank for International Settlements   
+CH-4002 Basel   
+Switzerland   
+Tel:  +41 61 280 8090  
+  
+This document was prepared by the Climate Risk Steering Group (CRSG) in consultation with IAIS 
+members. 
+This document is available on the IAIS website (www.iaisweb.org). 
+© International Association of Insurance Supervisors (IAIS), 2024.   
+All rights reserved. Brief excerpts may be reproduced or translated provided the source is stated.
+
+Contents  
+Proposed changes to the ICPs 7 and 8 related material in 2021 application paper .............. 4 
+3.1 Appropriate allocation of oversight and management responsibilities ............................................. 4 
+3.2 Business objectives and strategies of the insurer ............................................................................ 5 
+3.3 The role of the board ........................................................................................................................ 5 
+3.4 Duties of senior management .......................................................................................................... 5 
+3.5 Duties related to remuneration ......................................................................................................... 6 
+4.1 Integrating climate-related risks into the scope of the risk management system ............................ 7 
+4.2 Consideration of climate-related risks by the control functions ........................................................ 8 
+4.2.1 Risk management function ....................................................................................................... 8 
+4.2.2 Compliance function ................................................................................................................. 9 
+4.2.3 Actuarial function ...................................................................................................................... 9 
+4.2.4 Internal audit function ................................................................................................................ 9 
+4.3 Fitness and propriety of control functions on climate-related issues ............................................... 9 
+4.4 Integrating climate-related risks in outsourcing decisions ............................................................. 10 
+Proposed new climate risk-related supporting material related to ICP 14  ......................... 11 
+Valuation of assets .................................................................................................................................... 11 
+Impacts on types of valuations .................................................................................................................. 12 
+Time horizons of investments ................................................................................................................... 12 
+Valuation of liabilities ................................................................................................................................ 12 
+Life and health liabilities ........................................................................................................................ 13 
+Non-life insurance ................................................................................................................................. 13 
+Proposed new climate risk-related supporting material related to ICP 15 .......................... 15 
+Climate change factor for investment requirements (15.1) ....................................................................... 15 
+Investment of assets for the portfolio as a whole (15.2) ........................................................................... 15 
+Asset liability management (15.3) ............................................................................................................. 16 
+Risk assessment and management of investments (15.4) ....................................................................... 16 
+Proposed new climate risk-related supporting material related to ICP 16 .......................... 18 
+Risk identification and measurement (16.1, 16.2) .................................................................................... 18 
+Risk concentrations (16.2) ........................................................................................................................ 20 
+Corporate strategy and time horizons (16.3) ............................................................................................ 20 
+Risk appetite and limits (16.4) ................................................................................................................... 21 
+Asset liability management (16.5) ............................................................................................................. 21 
+Investment policy (16.6) ............................................................................................................................ 21 
+Own Risk and Solvency Assessments (16.12, 16.13) .............................................................................. 22 
+ 
+The materials include: 
+• Proposed changes to the 2021 application paper re la ted to ICP 7 (Corporate Governance) and 
+ICP 8 (Risk Management and Internal Controls); and 
+• N ew supporting material related to ICP 14 (Valuation), ICP 15 (Investments) and ICP 16 
+(Enterprise Risk Management for Solvency Purposes).
+
+Proposed changes to the ICPs 7 and 8 related material in 2021 
+application paper 
+New material is shown in red font. Minor editorial changes compared to the 2021 version are not 
+shown in red font. 
+ Corporate Governance 
+23. ICP 7 (Corporate Governance) sets out requirements for the establishment and 
+implementation of a corporate governance framework. This section looks at oversight and 
+management responsibilities, business objectives and strategies, the role of the board, duties 
+related to risk management and internal controls, as well as remuneration through a climate 
+risk lens (ICP 7.1, 7.2, 7.5 and 7.6). ICP 7 also discusses issues around supervisory review 
+and communications, covered in sections 2 and 6, respectively.  
+3.1 Appropriate allocation of oversight and management responsibilities 
+24. Given that climate risk is an evolving risk area, the relevant roles and responsibilities assigned 
+to the board, senior management and control functions should continue to adapt. This includes 
+the need to have greater clarity on information and reporting needs (quantitative and 
+qualitative), resourcing, skill sets and budgets. By assigning responsibility, there is greater 
+accountability for mapping, monitoring and controlling the risk. In this way, an insurer obtains 
+a more accurate picture of how climate risks affect their business and how these might 
+evolve. That might lead insurers to adapt their risk management (and potentially governance) 
+in light of new information. The Application Paper on Proactive Supervision of Corporate 
+Governance can help supervisors identify governance-related issues in terms of management 
+of climate-related risks.
+1 
+25. One way some insurers address evolving risks, including climate risk, is to have an internal 
+risk committee that has the objective of identifying the changing risk landscape as well as 
+potential ways to address these risks. Supervisors may want to encourage insurers to establish 
+such a committee or other suitable structure with appropriate expertise, if they do not have one 
+already.  
+26. The evolution of climate risk governance is reflected in some jurisdictional examples. In 
+Canada, one insur er recently created the chief climate risk officer role, responsible for 
+assessing financial exposures related to climate risk in its insurance portfolio as well as 
+systemic impacts. The United Kingdom Prudential Regulation Authority (UK PRA) requires 
+insurers to identify a senior manager to hold this responsibility , which should be detailed in 
+their Statement of Responsibilities and their performance should be reflected in the individual’s 
+variable remuneration, including via the application of risk adjustments. 
+ 
+1  See https://www.iaisweb.org/page/supervisory-m aterial/application-papers/file/80572/application-paper-on-proactive-
+supervision-of-corporate-governance
+
+3.2 Business objectives and strategies of the insurer 
+27. Insurers should incorporate and assess climate -related risks as part of their  annual financial 
+planning as well as the long- and short-term strategic planning processes. Insurers should also 
+ensure that impacts of climate change are well -represented in existing risk categories. It is 
+important for insurers’ strategic planning periods to build on the risks identified in their 
+insurance portfolio.  
+3.3 The role of the board  
+28. The board has a role in maintaining effective oversight of climate -related risk management, 
+including incorporating climate-related considerations into the insurer’s risk appetite, strategies 
+and business plans. In executing this responsibility, the board should consider the potential 
+threat to the insurer's own business risks, the fair treatment of customers and the duty of the 
+insurer to conduct its business in a socially responsible manner. 
+29. There should be appropriate understanding of, and opportunity to disc uss, climate risk at the 
+board and board committee levels, including within the audit committee and the risk committee. 
+Appropriate understanding means that the competence of the board and its committees should 
+remain adequate considering the specific nature of climate-related risks and their evolution 
+over time. This may involve, for example, having a good understanding of the risks and 
+business activities associated with physical and transition risks for the insurer. 
+30. In order to enhance the skillset amongst its b oard members, insurers should take actions to 
+facilitate the understanding and discussion of climate risks at board and board committee 
+levels and, where necessary, provide appropriate training for board members. Additionally, the 
+board succession or board renewal plans could be used as a way to help add upskill and 
+improve understanding of climate risk, if needed. 
+31. ICP 7.3 states: “The supervisor requires the insurer’s board to have, on an ongoing basis, an 
+appropriate number and mix of individuals to ensure that there is an overall adequate level of 
+competence at the board level commensurate with the governance structure”.  
+32. Accordingly, insurers should demonstrate that the board (or part of the board) has an adequate 
+level of competence and experience to understand the challenges and business activities 
+associated to climate-related risks, and that the board is able to act and express itself on these 
+subjects. However, as indicated in ICP 7.3.12, if the board does not have internal climate-
+related expertise, it should obtain it externally and demonstrate the competence, experience 
+and independence of the external experts. The board should demonstrate how those climate-
+related experts will provide information and guidance, all in an independent and impartial 
+manner, and how it will assess that the information and guidance is appropriate. 
+33. In accordance with ICP 7.1.4, the board should ensure that senior management’s knowledge 
+and expertise regarding risks and business activities associated with climate change remain 
+appropriate and up to date. 
+3.4 Duties of senior management 
+34. Senior management is responsible for implementing policies related to climate risk and/or 
+incorporating climate risk-related elements into relevant operational and business policies. The 
+board relies on senior management to provide advice on organisational objectives, plans, 
+strategic options and policies as they relate to climate risk, including the establishment and
+
+use of relevant tools, models and metrics to monitor exposures to climate-related risks. Senior 
+management should set out information, options, potential trade-offs and recommendations to 
+the board in a manner that enables the b oard to focus on key climate risk -related issues and 
+make informed decisions in a timely manner.  
+3.5 Duties related to remuneration 
+35. The alignment of remuneration of senior management and the board with prudent risk-taking 
+should take into consideration all risk types relevant to the insurer, including the sound 
+management of climate-related risks, as appropriate, since risk adjustments should account 
+for all risk types relevant to the insurer.  
+36. Guidance under ICP 7.6 describes how an insurer’s remuneration policy may include variable 
+remuneration components. An insurer may use variable remuneration to reflect progress made 
+in managing and mitigating climate -related risks. Guidance under ICP 7.6.9 and 7.6.10 set s 
+out recommendations for variable remuneration. Aligning variable remuneration with reaching 
+climate-related (or broader sustainability) goals can be a helpful tool to support meaningful 
+integration of good sustainability practices into management’s decision- making, particularly 
+those related to climate risk mitigation. 
+37. Such remuneration should not create incentives for inappropriate risk taking and should be 
+proportionate, clearly linked to factors within the control of the individual, weighted 
+appropriately against other factors, and with a clear focus on impact rather than process. There 
+should be no reward for taking steps that  are only superficial and have no measurable effect 
+on the mitigation of climate-related risks. 
+38. V
+ariable r emuneration may be used as one of several incentives to integrate climate- related 
+risks in the risk management system. As part of this, criteria used to calculate the amount of 
+variable remuneration could include, amongst others, climate-related risk management within 
+the insurer (eg through staff training or asset categorisation and performance). Also, the 
+evolution of the non-financial criteria performance of investee companies could be a relevant 
+indicator for variable remuneration. Such criteria should be predetermined, documented, and 
+include achievable objectives and measures. The se should be linked to the decisions made 
+by the relevant staff membe r. When this individual does not meet these criteria, the 
+consequence on the pay-out of variable remuneration should be described. Financial and non-
+financial criteria should be appropriately balanced, and non -financial criteria should not be 
+negligible.  
+39. M oreover, if insurers include information about remuneration in public disclosures and 
+supervisory reporting, then these should contain a clear description of how remuneration 
+arrangements (including any variable components) take into account the risk management 
+strategy for climate-related risks. 
+ Risk management and internal controls  
+40. ICP 8 (Risk Management and Internal Controls) sets out requirements on systems of risk 
+management and internal controls, including for the control functions. This section provides 
+guidance on how supervisors could integrate climate-related risks into their supervisory 
+expectations of the risk management system (ICP 8.1), and for each of the control functions
+
+(ICP 8.3 - 8.6). Finally, it discusses the supervision of outsourced functions in relation to climate 
+risks (ICP 8.8). Box 1 provides examples of supervisory practices relating to ICP 8. 
+41. W hen addressing climate- related risks, it is expected that insurers should integrate these risks 
+into the overall corporate governance framework, which includes the systems of risk 
+management and internal controls.it is recommended that those insurers Insurers who still use 
+still using  an approach that mainly addresses climate change from a reputational risk 
+perspective2 transition should adopt to a more fully integrated approach that considers the 
+risks more holistically (including not only the reputational aspect, but also the impact on assets, 
+liabilities and the overall business model). When addressing climate- related risks, insurers 
+should be aware of , and consider, how these risks have the potential to affect assets and 
+liabilities through different channels (including physical, transition and reputational/liability 
+risks). In turn, insurers should also be aware of , and consider, how their investment strategy 
+and overall business model can impact climate change, as it could have impacts on insurers 
+through the aforementioned channels. 
+4.1 Integrating climate-related risks into the scope of the risk management 
+system 
+42. Climate risks relate to existing  risk categories and affect the valuation of an insurer’s assets 
+and liabilities as well as its business plan and strategic objectives. Life insurers, in particular, 
+may incur increased losses due to an increase in the mortality rate from climate events such 
+as heat waves (eg impact on term life products) or, in some areas of the world, increased 
+longevity due to more moderate temperatures (eg impact on annuity products). Non -life 
+insurers may be affected by the increased frequency and severity of natural catastrophes on 
+their products, such as property insurance, transport insurance or liability insurance. Transition 
+risks manifest, for instance, through a decrease in the value of assets affected by ecological 
+transition and may result in “stranded assets”. Stranded assets relate to sectors that are likely 
+to shrink due to measures taken to transition to a low-carbon economy (eg increase in carbon 
+pricing) or to a shift in consumer or investor preferences (eg away from air transport).  In 
+addition, climate change may affect the correlation between different risk categories (eg 
+insurance and investment risk), which can lead to gaps between the actual  and expected risk 
+exposure. It also may be important for insurers to consider whether pricing bubbles will appear 
+as investors move into green assets. 
+43. Given the potential impact of climate- related risks on an insurer’s solvency position, it would 
+be expected that such an impact is considered within the existing categories of risks and leads 
+to a review of the risk management system in case of material change in these risks. This 
+means that the insurer should assess and document in its risk management policies how 
+climate-related risks could materialise within each area of the risk management s ystem, in 
+particular in the investment and underwriting policies, taking into account potential risk 
+mitigation measures and the speed at which risks may manifest over time.  
+44. In order to identify, monitor, assess and manage climate- related risks, as well a s their 
+interaction with other identified risks, insurers should develop tools to collect reliable 
+quantitative and qualitative data. This also allows the insurer to perform aggregated analysis 
+of various elements of climate- related risks. The measurement of climate-related risks is an 
+evolving science with challenges in the quality and availability of data. In some cases, there 
+may be challenges to translating climate change (scenarios) into financial risks (eg translating 
+ 
+2  Often referred to as a “Corporate and Social Responsibility” approach.
+
+a change in temperature into certain natural catastrophe risks). Nevertheless, there is an 
+expectation that insurers’ quantitative and qualitative analysis will continue to develop and 
+evolve along with the science and improvements in data quality. Historical data and past trends 
+are unlikely to fully capture the dynamic nature of climate -related risks. Historical time series 
+data, notably, might not be able to reflect a potential materialisation of physical and transition 
+risks. Therefore, insurers should consider adopt ing a more integrat ed approach and risk 
+modelling, which better captures the complexity and uncertainty of climate -related risks. 
+Insurers should develop forward-looking assessments under different time horizons in order to 
+complement available historical data and readjust their risk assessment and management 
+system. Where insurers leverage external sources to enhance the data, metrics and risk 
+management tools to manage climate- related risks, insurers should ensure that there is 
+adequate understanding of the procured external data, metrics and risk management tools. 
+This includes a sound understanding of the capabilities of external providers, associated 
+methodologies, validation process, limitations as well as relevance and appropriateness to the 
+insurer’s own portfolio characteristics. 
+4.2 Consideration of climate-related risks by the control functions 
+45. In performing its duties, control functions should properly consider the impact of climate change 
+on the existing risk categories and should have the appropriate resources and expertise to 
+support that analysis. As the measurement of climate-related risk is an emerging science, and 
+risk modelling continues to develop and evolve, control functions will need to continue 
+developing appropriate tools and approaches.  
+46. C ontrol functions should identify, measure, and report on the insurer’s risks, assess the 
+effectiveness of the insurer’s risk management and internal controls and determine whether 
+the insurer’s operations and results are consistent with its risk appetite as approved by the 
+board.  
+4.2.1 Risk management function 
+47. The po
+ tential impact on business continuity due to climate change should be considered by 
+the risk management system function. 
+48. More specifically,  the risk management function should monitor and facilitate the proper 
+identification, assessment and management of climate-related risks. This should be integrated 
+into the existing risk management system and be in line with the board-approved risk appetite 
+statement. The following risk management areas may be particularly affected by climate-
+related risks: asset -liability management (ALM), investment risk management, underwriting 
+and reserving, reinsurance and other risk -mitigating techniques, operational  risk and 
+reputational risk management. 
+49. The risk management function should use a range of quantitative and qualitative methods and 
+metrics to monitor progress against the insurer’s overall business strategy and risk appetite, 
+and promote consistency within the insurer. For instance, the underwriting and investment 
+functions should consider where they could benefit from aligned criteria when identifying 
+sectors that are more exposed to climate change. The methods and metrics should be updated 
+regularly to support decision making by the insurer’s b oard and/or relevant committees. It is 
+important that such methods and metrics do not rely solely on historical data and trends, but 
+also incorporate forward-looking assessments.
+
+50. An example of a method for managing the risk associated with climate change is defining 
+investment limits to specific companies, sectors, regions, jurisdictions, etc. This may be based 
+on certain criteria, such as the percentage of income stemming from mining, processing or 
+burning fossil fuels. Furthermore, insurers could incorporate environmental and climate change 
+considerations when evaluating a proposed investment. On the liability side, risk limits could 
+also be defined – for instance a maximum exposure for policyholders in coastal areas in order 
+to limit the risk exposure to flood risk. The use of “heat maps” or environmental, social and 
+governance (ESG) scoring that highlight climate -related risks may also be helpful to better 
+understand, and monitor, the impact of these risks. 
+4.2.2 Compliance function 
+51. The compliance function should identify the compliance risks that the insurer faces and the 
+steps taken to address them. In performing this task, the compliance function should take into 
+account the liability and reputational risks (eg from a failure to appropriately disclose 
+information on climate -related exposure) stemming from climate change. Accordingly, the 
+compliance function should ensure that internal policies and control procedures are compliant 
+with the relevant standards, directives, charters or codes of conduct related to climate change 
+that the insurer is obliged or committed to respect.  
+4.2.3 Actuarial function 
+52. It is expected that the actuarial function takes into account climate-related risks because they 
+can potentially have an impact on the valuation of assets, ALM, underwriting, risk mitigation 
+and the calculation of insurance liabilities and capital requirements. To assess physical risks, 
+the actuarial function could, for example, consider the impact of wind and storm pattern shifts, 
+increased frequency of hot weather, hail, high winds, extreme precipitation, drought and 
+flooding. To assess transition risks, the actuarial function could consider the insurer’s exposure 
+to companies that are likely to be affected by the transition to a carbon-neutral economy. 
+53. In performing its duties, the actuarial function should pay particular attention to the assessment 
+of the quality and completeness of underlying data. Due to climate change, historical analysis 
+may not be sufficient and may need to be supplemented to enable the appropriate calibration 
+of premiums or reserves to reflect climate -related risks. Expert teams, such as cat astrophe 
+(CAT) modelling teams, can reinforce the actuarial function’s role, as these teams are often 
+already using analytical tools that go beyond pure historical analysis. 
+4.2.4 Internal audit function 
+54. The internal audit function should review the risk management process to ensure it is adequate 
+and effective. As part of this  review, it should assess whether all material risks, including 
+climate risk, that may have an impact on insurer’s resilience, are being considered and, where 
+relevant, mitigated. 
+4.3 Fitness and propriety of control functions on climate-related issues 
+55. In order to ensure sufficient knowledge for the control functions while identifying, assessing, 
+monitoring, managing and reporting climate-related risks, insurers should adapt their internal 
+policies and implement training programmes on climate-related issues and their impact on the 
+risk-profile of the entity. Insurers should ensure that persons who perform control functions 
+have experience, as appropriate to their respective duties, in understanding the risks of climate 
+change.
+
+56. As an example, the European Insurance and Occupational Pensions Authority (EIOPA) deems 
+that “depending on their (the insurer’s) specific investment strategy, their risk profile and their 
+size, the recruitment of dedicated experts may be needed for some undertakings. In any case, 
+insurance and reinsurance undertakings should be requested to build in the necessary 
+expertise with particular consideration of the proportionality principle”. 3 Furthermore, in the 
+Netherlands, De Nederlandsche Bank (DNB) issued guidance on including climate -related 
+risks into the fit and proper assessments of management or supervisory board members and 
+other policymakers (see Box 2).  
+57. Within the various control functions involved, a person with appropriate skills and knowledge 
+in climate -related risks, or a dedicated unit, may be identified as primarily responsible for 
+climate-related aspects in order to ensure that climate -related risks remain in scope and the 
+necessary attention is allocated. However, this does not remove the need to integrate the risks 
+from climate change into all relevant parts of the business. 
+4.4 Integrating climate-related risks in outsourcing decisions 
+58. Insurers that decide to outsource any material activity should preserve the ability to manage 
+risks and ensure the continuity of their activities in case of a failure of the outsourcing provider. 
+One example is physical damage that could disrupt the insurer’s operations, should severe 
+weather events affect the premises of their outsourced business functions. To manage such 
+physical risks, business continuity plans should incorporate the risks from climate change, 
+where material. It may also be useful for insurers to conduct scenario analyses, for i nstance 
+considering a scenario in which several outsourced business functions are affected at once. 
+In practice, some insurers with outsourced functions have used physical risk scenarios such 
+as those published by the Intergovernmental Panel on Climate Change (IPCC). Insurers may 
+increasingly include insured loss data as part of this analysis, as well as examining recent 
+historical climate trends in key locations. 
+ 
+ 
+ 
+ 
+ 
+ 
+3 See EIOPA (2019), EIOPA’ s Technical Advice on the integration of sustainability risks and factors in the delegated acts under 
+Solvency II and IDD.
+
+Proposed new climate risk-related supporting material related to 
+ICP 14  
+ 
+1. ICP 14 provides standards and guidance for asset and liability valuation. ICP 14.3 requires 
+that the valuation of assets and liabilities is undertaken in a reliable, decision useful and 
+transparent manner. 
+2. Climate risk has the potential to impact valuations of both the assets and liabilities of most 
+types of insurance business. Therefore, it is important that insurers consider this risk in both 
+asset valuations and when estimating  value of liabilities. 
+3. As the ICPs address risks more broadly,  ICP 14 does not direc tly discuss how climate risk 
+specifically could impact the drivers of valuation and how insurers should consider the impacts 
+on those drivers in valuation. This application paper intends to assist with climate risk 
+assessments.  
+ 
+Valuation of assets 
+4. On the asset side, climate risk has the potential to diminish the value of investments through 
+both transition and physical risk.  
+5. The impact of climate risk could materiali se through the expectation of diminished ongoing 
+future cash flows and/or through decreases in the terminal or recovery value assumptions. It 
+could also have implications if an investor is unable to sell an asset due to physical or 
+reputational climate-related damage or a disruption in markets due to a disorderly transition. 
+The ultimate potential loss for insurer investments is due to either the deterioration in credit 
+quality for bonds, or the fall in prices and cash flows for equity and real estate. 
+6. For instance, some equity and bond prices could be impacted as a result of an issuer not 
+transitioning their business model , which may no longer be viable as the global economy 
+moves away from fossil fuels or adopts other climate-related initiatives. 
+7. For other assets, such as real estate and mortgages, the probability and severity of physical 
+events can impact the asset value either directly or indirectly. When an event impacts a 
+property, the cost to rebuild might be more than the insured value (if insured) due to building 
+code changes to mitigate climate risk , which can result in an unaffordable increase in costs. 
+This can have a negative impact on the asset value. 
+8. Climate risk can impact the prices of investments in equities, bonds, loans, real estate and 
+mortgages. 
+9. There is also the potential for decreases in asset prices from climate risks due to a large loss 
+event occurring in an area that negatively impacts business or government services, or the 
+expectation of future events increasing significantly in an area. For investment valuations tied 
+to real estate, these impacts could also include decreases in property insurance availability or 
+significant increases in insurance costs , or transition measures t o meet  energy efficiency 
+requirements for various type of properties, which could increase stranded assets risks. 
+10. As all of these risks can significantly decrease investment value, supervisors should evaluate 
+whether insurers take these risks sufficiently into account.
+
+Impacts on types of valuations 
+11. Valuation may be based on different levels of market information. Regardless of the method 
+or level of market information, valuations should reflect known reliable information, including 
+any impacts from climate change. 
+12. If assets are valued based on amortised cost, impairment evaluations should consider reliably 
+estimable potential cash  flows including any reduction in future cash flows due to transition 
+and physical risk. As discussed above, these risks can manifest differently for different types 
+of assets and it is important that insurers consider the reliably estimable impacts on asset 
+value. The time horizon of the investment (holding period and/or asset duration) as well as the 
+speed of transition are also relevant factors for valuation. 
+13. When insurers are valuing assets based on quoted market prices, the price reflects the market 
+consensus. When the market is dysfunctional, generally due to the lack of sufficient trading 
+volume or information flows, insurers should use a more reliable method based on more normal 
+conditions. The valuation should still maximi se market inputs to the extent possible with the 
+objective of the valuation being an economic valuation. Likewise, insurers valuation models 
+should consider relevant factors that reliably estimat e the impact of the uncertainty of the 
+amount and timing of the cash flows, which should include the uncertainty resulting from 
+climate risk. 
+14. Supervisors should review insurers’ valuation methodologies to determine whether known and 
+reliable estimable information, including the impacts of climate risk on their investments , are 
+being considered. The expectation is that while these impacts may not be significant and 
+reliably estimable at this time, this will change in the future as more becomes known about the 
+global transition to a low -carbon economy and the impacts from in creasing frequency and/or 
+severity of climate related events. 
+ 
+Time horizons of investments 
+15. The time horizon of an insurer’s investments will be an important consideration for supervisors. 
+The risk to insurers’ investment portfolios is expected to increase over time,  particularly for 
+insurers with a longer duration portfolio (eg life insurers). 
+16. Supervisors should review the sources of information used by insurers in their valuations. The 
+amount and quality of available information related to climate risk is expected to increase in 
+the future, allowing for better consideration of these risks. Changes in policy, technology and 
+physical risks could prompt a reassessment of the values of a large range of assets as costs 
+and opportunities become apparent (transition risk). Supervisors should assess whether 
+insurers are using the most current and reliable information available. 
+ 
+Valuation of liabilities 
+17. In valuing insurance liabilities, expected future development is generally taken into account in 
+the assumptions underlying the valuation. Further more, the data and assumptions are 
+reconsidered at each valuation period to ensure they are up to date and remain appropriate.
+
+Insurers should change previous assumptions when they have sufficient reliable information 
+to support a change. Insurers should ensure that the assumptions underlying the valuation of 
+insurance liabilities are consistent with the assumptions underlying the valuation of assets, 
+where applicable. Additionally, for discount rates that are impacted by future asset returns, 
+insurers should consider potential impacts on the portfolio due to climate change when reliable 
+and estimable.  
+18. In practic e, it is not straightforward for insurers to account for climate change- related 
+developments in the valuation of liabilities. There can be difficulties in valuation for life and 
+health insurance as well as for certain types of non-life insurance. 
+19. Generally, the value of short duration liabilities is less impacted by climate risk than the value 
+of long duration liabilities (claims’ occurrence or settlement periods). Nevertheless, climate 
+change is already impacting policies today, so there is an impact even on short duration 
+liabilities. And even with annual repricing/recalibration, historic data may not accurately predict 
+short-term trends in the context of climate change (unprecedented events get more likely over 
+time) and there can be delays in changing rates. In addition, there can be latent risks in some 
+types of contracts that cover prior years or would cover current litigation exposure (Director 
+and Officer liability insurance). 
+20. Therefore, prudent consideration should be given on appropriate climate trend analysis for the 
+short-term (eg catastrophe modelling in underwriting) and on implemented risk prevention 
+measures (eg educat ing the public on how to react in case of heat waves or introduction of  
+building materials that decrease this risk). 
+Life and health liabilities 
+21. Valuation of life insurance liabilities can cover long periods of time and can be subject to 
+significant assumption changes over time. Climate change can impact the current estimate 
+valuation through its effect on health and mortality assumptions. More extreme weather events, 
+such as heatwaves and flooding, could lead to higher mortality rates.  
+22. For (longer-term) life business, the long horizon for cashflows also means that there may be 
+room to consider the impact of climate change in the calculation of the current estimate, if the 
+impacts are reliably estimable. Climate change-related risks may affect life insurance liabilities 
+through increased expenses, changes in mortality and morbidity assumptions or changes in 
+the value of contractual options. Regarding the latter, economic scenario generators should 
+be calibrated to current market prices.  Expense assumptions should reflect all reliably 
+estimable known cash flows, including those due to climate change  and related legislation. 
+Mortality and morbidity assumptions should reflect the latest known trends. 
+Non-life insurance 
+Current estimate – liability for incurred claims 
+23. Generally, for most non -life insurance liabilities, the current estimate is based on incurred 
+events. While increases in frequency and severity of events due to climate change can impact 
+future profitability, they do not impact the current estimate as only expected cash flows from 
+incurred events are taken into account. As a result, expected cash flow changes under non-
+life contracts due to climate-related events are not factored into the current estimate.  
+24. Where the current estimate includes both incurred and future events (eg IFRS 17 for some 
+contracts), the current estimate would include both incurred losses and the amount expected 
+to be incurred for policies still on risk. In this case, changes in expected future losses that can
+
+be reliably estimated (such as changes in expected catastrophe losses and other weather -
+related losses due to climate change) should be included in the valuation. Due to the short 
+duration of such policies, there may not be sufficient development to change the initial loss 
+estimate. 
+Premium allocation approach (eg unearned revenue reserve) 
+25. Similar to the current estimate valuation that includes both incurred and future events, it is 
+possible that under a premium allocation approach (eg IFRS 17), when expected losses might 
+change after the issuance of the policy, this typically does not occur due to the short duration 
+of the policy. If the expected cash flows, including from climate risk, have changed from the 
+initial estimate and can be reliabl y estimated, a premium deficiency reserve may need to be 
+established. 
+ Other considerations for non-life reserves 
+26. Setting the initial reserve estimates for the current estimate or the premium allocation reserve 
+is generally based on the pricing of non- life products. Therefore, it is important that insurers 
+incorporate the most current information on expected losses, including those related to 
+weather and catastrophe risk due to climate change, into rate setting and the initial reserve 
+estimates. Supervisors should consider if data used in these processes reflect current climate 
+risk exposure. Supervisors should also consider if insurers are supplementing historical loss 
+experience with current trends or other information that would indicate that the future cl aims 
+settlement could be different from past settlements. 
+27. Insurers exposed to climate risks should consider catastrophe/climate modelling, or stress -
+testing methods. Where relevant, insurers could develop forward -looking modelling 
+approaches. One area of non -life insurance coverage that has the potential to be adversely 
+impacted is where the insured is exposed to climate litigation and holds an occurrence policy 
+that does not have exclusions. It is possible that these policies cover the insured in a climate  
+liability lawsuit if it were deemed that the “loss” occurred from actions during the period of 
+coverage. It is a possibility that insurers should consider when calculating current estimates. 
+28. I nsurers should consider, where appropriate and in a proportionate manner, good practices for 
+ensuring that historical loss data are up to date. Insurers should consider events potentially 
+not captured by historical loss dataset, such as changes in claims cost or litigation and other 
+factors that would impact liabilities, and also conduct forward-looking catastrophe modelling.
+
+Proposed new climate risk-related supporting material related to 
+ICP 15 
+ 
+Climate change factor for investment requirements (15.1) 
+1. A factor for the supervisor to consider when establishing regulatory investment requirements 
+on the investment activities of the insurer may include the impact of climate change on the 
+insurer’s investments (ICP 15.1.3, “inward perspective”). 
+2. Climate-related risks  can have complex and non- linear impacts on insurers’ investments. 
+Climate-related risks can translate into physical and transition risk, both of which can have a 
+material impact on the insurer. Furthermore, insurers should be aware that climate related risks 
+have the potential to affect investments through traditional risk categories such as credit risk, 
+market risk, reputational risk and strategic risk. For example, both transition and physical risk 
+have the potential to affect investments via credit/counterparty default risk (eg an increase in 
+the probability of default or loss given default), market risk (eg a change in the value, trend, or 
+volatility of an asset or derivative, in particular equity, property or spread risk) as well as liquidity 
+risk (eg as a result of a sudden cash outflows due to  a natural disaster event). Transition risk 
+and physical risk can also include second -order effects such as indirect losses in insurers’ 
+investments due to the devaluation of financial counterparties that have high exposures to 
+climate-sensitive sectors, or the impact of changing investor sentiments on market values. 
+3. The quality and characteristics of an insurer’s asset portfolio and the interdependence between 
+the insurer’s assets and liabilities are central to the assessment of an insurer’s solvency 
+position and, therefore, are an important aspect to be addressed by the supervisor and for an 
+insurer to manage. In assessing the risks attached to the asset portfolio, and depending on the 
+duration and quality of the portfolio and ALM, it may be relevant for supervisors to assess and 
+take necessary action as to how the impact from climate change on the insurer’s investment 
+may affect the risk-return characteristics of a portfolio. The longer  the duration of the asset 
+portfolio, the more important it is for the insurer to understand the risk. At the same time, 
+transition risk and physical risk can happen at any time and in a sudden manner, and thus 
+require insurers to review their investment strategy regularly. Given the potential impact on the 
+assets side of insurers’ balance sheets, insurers are expected to monitor this risk on an 
+ongoing basis, address this risk when it becomes , or is in the process of becoming, material 
+and potentially miti gate climate-related risks. Developing an approach to monitoring and 
+addressing the financial risks arising from climate change, and responding to the transition to 
+a climate-resilient economy should be done regardless of whether the insurer invests directly 
+or through a third- party asset manager or investment advisor and should form part of an 
+insurer’s strategy. 
+  
+Investment of assets for the portfolio as a whole (15.2) 
+4. It is important that insurers invest in assets such a way that their portfolio as whole considers 
+the impact of their investments on the climate (“outward perspective”). It is also important that 
+insurers consider their policyholders’ preferences in relation to climate change considerations, 
+where relevant. The climate -related impact of investments may be taken into account by
+
+insurers’ stakeholders. Should insurers’ stakeholders view investments negatively, due to their 
+climate impact, this could lead to reduced investment s or a change in policyholder support 
+which, in turn, may lead to a reduced competitive position and financial strength of the insurer. 
+5. Consequently, insurers could decide to engage  with investees, divest of certain assets or 
+change their investment strategy. Such e ngagement can steer the activities of the issuers 
+insurers are exposed to through the assets they hold in the investment portfolio. Such 
+stewardship would influence the strategy and business of the firm in which insurers are 
+investing to progress towards sustainable economic activities, and contribute to reducing 
+climate-related risk s. Divestment and other investment strategies (for example, exclusions 
+(negative screening), norm-based screening, integration of ESG factors, best-in-class (positive 
+screening), sustainability-themed investments or impact investment ) could be relevant when 
+considering this approach. 
+6. With regards to external credit ratings (15.2.3), insurers should have enough information to 
+understand the rating methodology. Insurers should also consider the extent to which climate-
+related risks  have been factored into the rating and over what time horizon. Furthermore, 
+insurers should carry out diligent plausibility checks of the ratings they use. 
+ 
+Asset liability management (15.3) 
+7. Insurers should consider climate-related risk s as part of their ALM , especially when the 
+liabilities have a long duration. This may include, for example, the potential impact of climate-
+related risks on the insurer’s reinvestment strategy. This is relevant for the impact of climate 
+change on insurers’ investment portfolios, which may fully materialise over an extended period 
+of time and, therefore, impact either the value or expected cashflows from financial assets in 
+the mid- or long-term. 
+8. Climate change can negatively affect the matching of assets and liabilities, primar ily through 
+transition risk, as insurers with long duration products use longer -term bonds to match the 
+liability cash flows. Due to the long-term nature of these bonds, insurers should consider when 
+constructing their investment portfolios  that individual firms , or an entire sector, could 
+potentially be significantly impaired over the matching period.  Correlation between different 
+asset classes would also be an important consideration as would the correlation between 
+assets and liabilities when h olding a bond of an entity and insuring that same entity for risks 
+related to climate change. 
+ 
+Risk assessment and management of investments (15.4) 
+9. ICP 15.4 states “the supervisor requires the insurer to invest only in assets where it can 
+properly assess and manage these risks”. The insurer should understand the risks involved, 
+and determine how material the risk from a proposed investment is, before undertaking any 
+investments. Similarly, insurers should continuously monitor the risks linked to its investments 
+(use of emission data, possible transition plans4, ESG-ratings). 
+ 
+4 IFRS S2: Climate-related disclosures defines climate related transition plan as “An aspect of an entity’s overall strategy that lays out 
+the entity’s targets, actions or resources for its transition towards a lower-carbon economy, including actions such as reducing its 
+greenhouse gas emissions.
+
+10. In this regard, Supervisors should assess how insurers take into account climate-related risks 
+when identifying, assessing, monitoring, managing, controlling and reporting risks arising from 
+their investments. Supervisors should pay attention to the insurer’s due diligence of 
+investments with possible climate adaptation or mitigation objectives. Fu rthermore, insurers 
+should consider the impact of climate -related risks  on the security, quality, liquidity and 
+profitability of the investment portfolio. 
+11. At the same time, insurers should have sufficient information about their investments to ensure 
+that their asset risks can be properly managed. In the case of climate-related risks, this could 
+mean facing the challenge of data limitations. Collecting a combination of qualitative and 
+quantitative information could be useful in assessing climate -related ris ks. Also, insurers 
+should start working with available data, and look at different scenarios based on available 
+data, in order to ensure that their investments are able to withstand the effects of climate 
+change. Where insurers use proxy data from ESG data or rating providers, they should 
+evaluate, inter alia, the assessment criteria, the relative weighting of the criteria and the extent 
+of qualitative judgement.
+
+Proposed new climate risk-related supporting material related to 
+ICP 16 
+ 
+1. Under ICP 16, the supervisor requires the insurer to establish within its risk management 
+system an enterprise risk management (ERM) framework for solvency purposes to identify, 
+measure, report and manage the insurer’s risks in an ongoing and integrated manner.  
+2. Climate change poses wide- ranging and material risks to the financial system. This is 
+especially true for the insurance industry, where the physical and transition risks resulting from 
+climate change affect both sides of insurers’ balance sheets  – assets and liabilities – as well 
+as their business models. This , in turn, can materially impact  the ability of  insurers to meet 
+their policyholder obligations as well as their operations and investments.  
+ 
+Risk identification and measurement (16.1, 16.2) 
+3. Climate-related risks can be broadly categorised into two groups: 
+• Physical risk: Risk arising from damage and losses from physical phenomena associated 
+with both climate-related trends (eg changing weather patterns, sea level rise) and events 
+(eg natural disasters, extreme weather). Physical risks are due to the increasing frequency, 
+severity and volatility of acute weather events, such as hurricanes, floods and wildfires. 
+They also stem from chronic shifts in weather patterns, such as rising sea levels, resulting 
+in more flooding and coastal erosion, droughts  that disrupt agriculture production, and 
+intensifying heat waves that  are responsible for more annual deaths than from any other 
+weather-related hazard. 
+• Transition risk: Risk arising from disruptions and shifts associated with the transition to a 
+low-carbon economy, which may affect the value of assets or the costs of doing business. 
+Transition can be driven by policy and regulations, low-carbon technology advancement or 
+shifting sentiment and societal preferences. Transition risks can lead to corporate asset 
+devaluation, lower corporate profitability, lower property values and lower household wealth. 
+In turn, related financial and credit market losses will affect insurers’ assets, while increased 
+litigation will impact insurers’ liabilities and the long-term viability of certain business lines. 
+4. Climate-related risks present unique challenges and require a strategic approach to financial 
+risk management. Climate risks are:  
+• Far-reaching in breadth and magnitude: Not only does climate change affect all aspects 
+of our economy globally, but its impact may also be non-linear, correlated and irreversible.  
+• Uncertain but foreseeable: Climate -driven change is inevitable, even though its exact 
+manifestations and timing are uncertain. The concentration of greenhouse gases in the 
+atmosphere will continue to increase in the short-term, leading to more extreme and chronic 
+weather events. Over time, certain physical risks could become extreme if the low -carbon 
+transition happens too slowly or too late. Governments and private corporations are 
+responding by ramping up efforts to mitigate climate change. The low -carbon transition
+
+could be orderly, with minimum negative impact on the economy, or disorderly, which would 
+disrupt the economy and financial markets.  
+• Dependent on short -term actions: The ultimate impact of climate change depends in 
+large part on the nature and extent of the actions taken in the near -term by governments, 
+corporations, individuals and communities around the world to fight climate change.  
+• Hard to predict based on past experience: Certain physical and transition risks are 
+unlikely to be adequately captured in historical data, or the pricing model is no longer fit for 
+purpose due to the evolution of climate risks, given their unprecedented and long- term 
+nature. Given the forward- looking nature of climate risks and the inherent uncertainty of 
+both the physical impact of climate change and resulting societal responses, past 
+experience may not be a good indicator of future conditions. 
+5. Climate-related risks are drivers of existing risk categories. Therefore, insurers should consider 
+the potential impact of climate-related risks when assessing the existing risk categories, such 
+as:  
+• Credit risk: Insurers should consider the effect of physical and transition risks on their 
+counterparties’ profitability and viability. For example, a reinsurer on which an insurer 
+heavily relies for mitigating some of the underwritten risk could be adversely affected by 
+physical risks from climate change and, as a result, could end up in a weaker financial 
+position, posing a risk to the insurer.  
+• Market risk: Insurers should consider the effect of physical and transition risks on their 
+current and fut ure investments, including whether and how these risks could lead to 
+potential shifts in supply and demand for financial instruments (eg securities and 
+derivatives), products and services, with a consequent impact on their values, especially in 
+those sectors and geographies that are most exposed to physical and transition risks.  
+• Liquidity risk: Insurers should consider the risk that a lack of reliable and comparable 
+information on climate-sensitive exposures could create uncertainty and cause procyclical 
+market dynamics, including fire sales of assets vulnerable to climate change, as well as 
+reduced liquidity in these markets. 
+• Pricing and underwriting risk: Insurers should consider the impact of climate change on 
+their underwriting activities and pricing models. The increased frequency and severity of 
+high-impact natural catastrophes due to climate change will result in more weather-related 
+insurance claims for non-life insurers. However, pricing models may not properly reflect 
+climate-related physical risks, which are not fully captured by the historical data. Life 
+insurers, in particular, may face an increase in the mortality rate from climate events like 
+heat waves (eg impact on term life products) or, in some areas of the world, an increase of 
+longevity due to more moderate temperatures (eg impact on annuity products). 
+• Strategic risk: Insurers should consider the challenges posed by physical or transition risks 
+that could adversely affect insurers’ competitive position and financial condition. 
+• Operational risk: Insurers should consider how climate -related events could have an 
+adverse impact on their assets (including property, equipment, information technology 
+systems and human resources) and business continuity (including outsourced activities), 
+leading to increased operational costs, and may also impact other risks such as reputational 
+or liability risks.
+
+• Litigation risk: Insurers should consider risks resulting from potential changes in societal, 
+litigation and judicial environments in response to climate change. Insurers offering claims-
+made policies should have an understanding of the potential impact on their liability risks 
+as a result of increasing pressure on b oards to manage their companies in a responsible 
+manner, especially as it relates to the environment. 
+Risk concentrations (16.2) 
+6. Potential systemic risk concentrations should be assessed by supervisors to check whether , 
+due to possible financial sector and market interlinkages, adverse movements in value of larger 
+positions in certain assets or larger market share s in certain underwritten insurance liabilities 
+could lead to spillover effects into the real economy, specific sectors and/or other assets.  
+7. While climate change is universal, risk factors can be jurisdiction specific. Physical impacts of 
+climate change can be regional or local, but transition risks can be driven by a range of 
+jurisdictional factors (eg ambition of governments for net zero transition and certain attributes 
+of a jurisdiction’s legal system). Insurers with significant investment exposures to assets that 
+are vulnerable to climate- related risks  are potentially more exposed to systemic risk.  
+Supervisors will, therefore, need to understand these dynamics and ensure they are factored 
+into risk assessments done by insurers. 
+Corporate strategy and time horizons (16.3) 
+8. Climate-related risks are expected to have a material impact on the business environment in 
+which the insurers operate. Insurers should be aware of such potential changes to their 
+business environment and its impact on their corporate strategy. Insurers should consider 
+questions such as: which business areas are exposed to physical or transition risks; the 
+materiality of the risks; whether affected areas should be continued, scaled back or adapted; 
+and whether climate- related risks require consideration acr oss all business areas and 
+processes based on their materiality, or only those business areas and processes that are 
+particularly exposed.  
+9. Supervisors should encourage insurers to consider climate -related risks based on a time 
+horizon that is tailored to their business and activities. For example, a non- life insurer’s 
+consideration of climate- related risks in underwriting and pricing policies, or determining an 
+appropriate risk transfer strategy, may be based on a relatively short time horizon (one to five 
+years). By contrast, given the long-dated nature of life insurers’ liabilities, the impact of climate 
+change on their investment portfolios could materiali se over a longer period and, therefore , 
+could impact the value and expected cash flows from their financial assets only in the long -
+term.  
+10. In general, the time horizon for considering how climate-related risks affect business strategy 
+should go beyond the standard (three to five years ) to a medium-term (five to ten years) and 
+ultimately long-term (thirty to fifty years) depending on the business line. Certain physical and 
+transition risks  are unlikely to be adequately captured in historical data given their 
+unprecedented and long -term nature. Therefore, supervisors should be checking if insurers 
+are considering forward-looking risks in developing their business strategy.
+
+Risk appetite and limits (16.4) 
+11. I nsurers should consider including in their  risk policy a description of how they  monitor and 
+manage material climate-related risks, in line with its risk appetite statement. The policy should 
+include the insurer’s risk tolerance levels and limits for financial risks, and consider factors 
+beyond market conditions, regulatory changes and technological advancements such as:  
+• L ong-term financial interests of the insurer and how decisions today affect future financial 
+risks; 
+• R esults of scenario analysis and potentially stress testing for short-, medium- and long-term 
+horizons; 
+• U ncertainty around the timing and channels through which climate -related risks may 
+materialise;  
+Sensitivity of both sides of the balance sheet to changes in key climate-related risk drivers 
+and external conditions; and 
+• T he impact of climate change on the insurer’s risk tolerance levels and limits, which can be 
+reflected through existing risk categories. 
+Asset liability management (16.5) 
+12. Under ICP 16.5 “the supervisor requires the ERM framework to include an explicit ALM policy 
+which specifies the nature, role and extent of ALM activities and their relationship with product 
+development, pricing functions and investment management”. This can help insurers assess 
+the ability to pay policyholders or creditors in a timely fashion. Climate change can negatively 
+affect the matching of assets and liabilities, primarily through transition risk, as insurers with 
+long duration products use longer-term bonds to match the liability cash flows. Due to the long-
+term nature of the bonds, when constructing their investment portfolios , insurers should 
+consider the potential for individual firms, or an entire sector, to be significantly impaired over 
+the matching period. Correlation between different asset classes would also be an important 
+consideration. Additionally, correlation between assets and liabilities when holding both a bond 
+of an entity and insuring that entity for risks related to climate change should be considered. 
+13. Both assets and liabilities on an insurer’s balance sheet could also be impacted by the same 
+risk categories. For example, the real estate portfolio of a non-life insurer could have exposure 
+to the same natural catastrophe perils through underlying collateral as that of its underwritten 
+insurance liabilities. A life and annuity insurer might be underwriting minimum guarantee riders 
+for its variable annuity liabilities. The underlying funds for these liabilities could be exposed to 
+climate vulnerable sectors. The insurer might also own assets from these sectors in its general 
+account portfolio. In aggregate, this could lead to overweight transition risk exposure from 
+similar climate vulnerable sectors on both sides of the balance sheet. The possibility of such 
+correlated exposures can eventually be detrimental to the solvency of the insurer.  
+Investment policy (16.6) 
+14. Both physical and transition risks can have complex and non- linear impacts on insurers’ 
+investments. They both have the potential to affect investments via credit risk, market risk, 
+reputational risk and strategic risk as well as liquidity risk. Both physical and transition risks 
+can also lead to second -order effects such as indirect losses in insurers’ investments due to
+
+the devaluation of financial counterparties that have high exposures to climate vulnerable 
+sectors, or the impact of changing investor sentiments on market values. Where material, these 
+risks should be taken into account regardless of whether the insurer invests directly or through 
+a third-party asset manager or an investment advisor.  
+15. Climate-related risks can manifest at any time but the likelihood that a physical or a transition 
+event will occur increases significantly over longer time horizons. For this reason, longer 
+maturity assets are more vulnerable to climate -related risks and insurers should pay special 
+attention to these assets when conducting risk assessments.  
+16. Climate-related risks have the potential to materially impact an insurer’s returns from its asset 
+portfolio. Supervisors should pay close attention to the climate-related risk assessments done 
+by insurers on their asset portfolio.  
+Own Risk and Solvency Assessments (16.12, 16.13) 
+17. The unique business strategy, investment portfolio and risk profile of each insurer will affect 
+the degree of impact arising from climate- related risks. The  nature and materiality of the 
+relevant insurance, credit, market, concentration, operational and liquidity risks will vary 
+depending on the exposure to climate-related risks of each insurer. Hence, the Own Risk and 
+Solvency Assessment (ORSA) is a particularly useful tool for insurers to assess the adequacy 
+of their ERM function and their solvency position. Supervisors should expect insurers to 
+consider all material physical and transition risks arising from climate change in their  ORSA 
+process and adopt the appropriate risk management actions to mitigate the identified risks 
+accordingly. Insurers may consider the risks on both a qualitative and quantitative basis, with 
+the understanding that quantitative capabilities should improve over time as the ability to 
+access the necessary data improves. 
+18. As part of the ORSA, the insurer assesses its risk management and financial resources over 
+a longer time horizon than used to determine regulatory capital requirements. The time horizon 
+should be consistent with the nature of the insurer’s risks and business planning. Some 
+climate-related risks may take longer to fully materialise and, therefore, it would be expected 
+that the ORSA also include appropriate scenarios that use a more extended time horizon, 
+where relevant.  When assessing the appropriateness of time horizons used by insurers, 
+supervisors should consider the nature and types of business written by the insurer. 
+19. I
+CP 16.14 requires insurers to perform a continuity analysis as part of the ORSA (“to analyse 
+its ability to continue in business, and the risk management and financial resources required 
+to do so over a longer time horizon than typically used to determine regulatory capital 
+requirements”) and, in doing so, an insurer is required to “address a combination of quantitative 
+and qualitative elements in the medium and longer -term business strategy of the insurer and 
+include projections of its future financial position and analysis of its ability to meet future 
+regulatory capital requirements”. In other words, an insurer is required to assess its ability to 
+manage its risks and meet its capital requirements under a range of plausible adverse 
+scenarios with a forward- looking perspective in mind. When material, this analysis should 
+include the identification and  assessment of the direct and indirect impact of climate -related 
+risks. For instance, it could be included as part of the scenario analysis or a (reverse) stress 
+testing process (see ICP 16.14.3 and 16.14.14). This would enable insurers to assess their 
+resilience to financial losses with respect to climate change. This process should incorporate 
+an assessment of physical, transition and liability risks, for example:
+
+• Assessment of physical risks includes the use catastrophe modelling including a number of 
+different scenarios (eg 1 -100 to 1- 500 or 1-1000 year events). This may also include the 
+identification of a climate-related risk scenario that could potentially cause insolvency;  
+• Assessment of transition risks may cover how increases in carbon taxes, stricter 
+environmental regulations and a low -carbon economy would impact both assets and 
+technical provisions; and  
+• Insurers offering claims-made policies should have an understanding of the potential impact 
+on their liability risks as a result of increasing pressure on b oards to manage their 
+companies in a responsible manner, especially as it relates to the environment, and should 
+consider appropriate exclusions and/or limits.  
+20. Parameters and assumptions for climate-related stress testing scenarios may be adopted from 
+modelling work performed by meteorological agencies, regulators or other external experts. 
+For example, there are statistical models to determine the frequency of flooding events, and 
+modified economic models to estimate the economic or financial impact of various climate 
+shocks. Alternatively, insurers may have developed internal models for the impacts of climate 
+risk. Supervisors should encourage insurers to use models that are pertinent to their 
+geographical scope and nature of business. It is important for insurers to fully understand these 
+models, the uncertainties of the results and their underlying assumptions and methodologies 
+when deciding on their relevance. 
+21. Climate-related risks are material to the insurance industry and are expected to potentially 
+have an impact on all insurers; therefore, these risks should be considered for inclusion in the 
+ORSA. If climate-related risks are assessed to be immaterial by an insurer, the insurer should 
+document the reason for the assessment. The rationale for immateriality could be included in 
+the documentation that summarises the risks that the insurer considered for incorporation in 
+the ORSA and may be concise.

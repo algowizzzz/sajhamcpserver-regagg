@@ -1,0 +1,1 @@
+Summary: # FSB endorses the IAIS Holistic Framework and discontinues identification of Global Systemically Important Insurers (G-SIIs)

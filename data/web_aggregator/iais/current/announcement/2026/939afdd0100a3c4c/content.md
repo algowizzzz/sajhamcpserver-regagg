@@ -1,0 +1,4790 @@
+Public 
+  
+ 
+ 
+ 
+Detailed Assessment of Observance 
+IAIS Insurance Core Principles (ICPs) 
+Albania 
+ 
+ 
+June 2023
+
+Public 
+About the IAIS 
+The International Association of Insurance Supervisors (IAIS) is a voluntary membership 
+organisation of insurance supervisors and regulators from more than 200 jurisdictions. The mission 
+of the IAIS is to promote effective and globally consistent supervisi on of the insurance industry in 
+order to develop and maintain fair, safe and stable insurance markets for the benefit and protection 
+of policyholders and to contribute to global financial stability.  
+Established in 1994, the IAIS is the international stand ard-setting body responsible for developing 
+principles, standards and other supporting material for the supervision of the insurance sector and 
+assisting in their implementation. The IAIS also provides a forum for Members to share their 
+experiences and understanding of insurance supervision and insurance markets.  
+The IAIS coordinates its work with other international financial policymakers and associations of 
+supervisors or regulators, and assists in shaping financial systems globally. In particular, the IAIS is 
+a member of the Financial Stability Board (FSB), member of the Standards Advisory Council of the 
+International Accounting Standards Board (IASB), and partner in the Access to Insurance Initiative 
+(A2ii). In recognition of its collective expertise, t he IAIS also is routinely called upon by the G20 
+leaders and other international standard-setting bodies for input on insurance issues as well as on 
+issues related to the regulation and supervision of the global financial sector. 
+For more information, please visit www.iaisweb.org and follow us on LinkedIn: IAIS – International 
+Association of Insurance Supervisors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+International Association of Insurance Supervisors  
+c/o Bank for International Settlements   
+CH-4002 Basel   
+Switzerland   
+Tel:  +41 61 280 8090  
+  
+This document is available on the IAIS website (www.iaisweb.org). 
+© International Association of Insurance Supervisors (IAIS), 2023.   
+All rights reserved. Brief excerpts may be reproduced or translated provided the source is stated.
+
+Public 
+Content overview 
+ 
+Content overview............................................................................................................... 3 
+Executive summary ........................................................................................................... 4 
+ Introduction and scope ................................ ................................ ................................ ...... 8 
+ Information and methodology used for assessment ................................ ........................ 8 
+ Preconditions for effective insurance supervision................................ ........................... 9 
+3.1 Sound and sustainable macroeconomic and financial sector policies ............................................. 9 
+3.2 Well developed public infrastructure .............................................................................................. 10 
+3.3 Effective market discipline in financial markets.............................................................................. 11 
+3.4 Mechanism for providing an appropriate level of policyholder protection  ...................................... 11 
+3.5 Efficient financial markets .............................................................................................................. 11 
+ Assessment summary tables ................................ ................................ ........................... 12 
+ Detailed Principle by Principle assessment ................................ ................................ .... 23 
+The Authorities’ response to the assessment ............................................................ 103 
+Acronyms ....................................................................................................................... 105 
+Annex – Institutional and market overview ................................................................. 107
+
+Public 
+Executive summary 
+This document provides a detailed assessment of regulation and supervision of the 
+insurance sector in Albania.  The assessment was conducted on behalf of the International 
+Association of Insurance Supervisors (IAIS) at the request of the A lbanian Financial Supervisory 
+Authority (AFSA), a member agency, between April 2022 and June 2023, including two weeks of on-
+site work in Tirana, Albania. The assessment is benchmarked against the Insurance Core Principles 
+(ICPs) issued by the IAIS in Octo ber 2011, including revisions approved by the IAIS up until 
+November 2019.  
+The assessment is based on extensive documentation reviews and meetings in Tirana.  The 
+work included reviews of laws, regulations, etc, a full self -assessment of observance of the ICPs 
+prepared by AFSA and examples of supervisory reports. Meetings were held with AFSA’s senior 
+management and many of the Authority’s staff, with government officials, insurers and intermediaries 
+and with industry and professional bodies. The team of ass essors, which was drawn from IAIS 
+members and the Secretariat, supported by an external consultant, is grateful for the excellent 
+cooperation extended by AFSA staff and other parties during its work. 
+The Albanian insurance sector is small, with motor insur ance accounting for a large share 
+and limited life insurance.  There are 12 insurers, eight of which are non -life. All are locally 
+incorporated, but subsidiaries of two major Austrian insurance groups account for half of the market. 
+Many insurers are part o f groups with more than one insurer in Albania and with operations 
+elsewhere in the region. Non-life insurance, mainly compulsory motor third -party liability, accounts 
+for over 90% of gross written premiums (GWPs). Life insurance is underdeveloped, with cr edit life 
+(where a bank is the policyholder) accounting for much of the market. Penetration (premiums as a 
+percentage of  gross domestic product (GDP)), only 1.02% in 2021, is low compared with other 
+European countries.  
+The main risks to insurers are relat ed to the importance of motor insurance.  The market is 
+competitive and there are risks relating to underpricing and underreserving. Financial risks are 
+relatively limited. Insurers do not hold corporate securities (the range of investable domestic assets 
+is limited), but are exposed to credit risk arising from bank deposits and extensive reinsurance, also 
+a source of liquidity risk. Market risk is limited: government bonds are generally held to maturity and 
+few life insurance products have features giving rise to interest rate risk. Insurers hold significant real 
+estate investments. There are risks from the likelihood of further significant earthquakes (a quake 
+caused large loss of life and damage to buildings in 2019) and other natural catastrophes. 
+Insurers face strategic risks from the low propensity of Albanians to buy insurance and from 
+adverse economic and demographic trends.  They need to develop attractive products and 
+appropriate distribution strategies and ensure that their pricing and selling processes do not expose 
+them to undue insurance or conduct risks. Worsening economic conditions and a reducing 
+population pose additional risks. As Albania continues to align regulations with the European Union 
+(EU; accession negotiations started in 2022), some insurers may be  challenged by more complex 
+regulations, as planned for solvency for example, notwithstanding the authorities ’ commitment to a 
+proportionate approach.  
+The regulatory and supervisory framework is assessed as having a high level of observance 
+of the ICPs.  A large majority of the ICPs are assessed as either Observed or Largely Observed. 
+AFSA and the government have in recent years carried out wide-ranging reforms, strengthening the 
+legislation on AFSA itself and revising insurance sector law and regulations. Progress has been 
+guided by the objective of alignment to EU requirement s and by the findings of an assessment of
+
+Public 
+insurance regulation and supervision by the International Monetary Fund  (IMF) and World Bank 
+under a Financial Sector Assessment Program review in 2013. 
+AFSA’s regulation is underpinned by clear objectives, extensive powers  (exercised with a 
+high degree of independence from the government) and adequate resources.  AFSA’s 
+independence in law is matched by independence in practice, balanced by acco untability to 
+Parliament. There are comprehensive provisions on legal protection of AFSA and its staff and 
+confidentiality of supervisory information. AFSA determines its own organisation, budget and staff 
+remuneration. Staffing and financial resources appear adequate, taking into account the limited scale 
+and complexity of the sector. AFSA would benefit from greater budgetary flexibility, including to set 
+fee levels appropriate to its plans; it needs to develop its IT resources better to support supervision. 
+Its ability to enforce interventions pending appeals should be reviewed in the light of the outcome of 
+a case being taken by AFSA to the Supreme Court. While relevant risks in the insurance sector are 
+currently limited, AFSA’s objectives should be extended to include an explicit objective to contribute 
+towards financial stability.  
+There is a well  developed legislative framework on licensing and other regulatory 
+transactions and suitability requirements.  New licences are rare, but AFSA has experience of 
+assessing and, as necessary, rejecting applications. There are wide -ranging requirements on 
+suitability. AFSA places particular emphasis on board members and managing directors, where there 
+is a requirement for prior approval. Candidates have been rejected and action taken when persons 
+have been found no longer fit and proper. They should now develop detailed provisions on suitability 
+of key persons in compliance and risk management functions equivalent to those for actuarial and 
+internal audit. AFSA has no experience of change of control applications or portfolio transfers under 
+current legislation, which does, however, set out the necessary provisions. 
+There is a framework of requirements on governance and risk management, including risks 
+related to reinsurance. The roles and expectations of boards and senior management are set out 
+appropriately and governance is assessed by supervisors. Board responsibilities should be 
+expanded in due course to include a requirement to approve remuneration policies for sen ior 
+management and other relevant employees. Insurers are required to establish appropriate systems 
+of risk management and internal controls (and control functions) that include risks in insurers’ 
+reinsurance programmes. Requirements generally apply at the level of the insurance company, but 
+some apply to groups, including group -level risk monitoring. AFSA supervisors assess group 
+governance and controls. 
+There are extensive valuation and solvency requirements, but they reflect the limitations of 
+the EU Solvency I requirements on which they are based. They do not provide for fully market-
+consistent valuation or risk-based solvency, including at group level. Existing solvency requirements 
+capture key insurance risks and insurers must hold 150% of the minim um solvency margin (not all 
+meet the requirements and AFSA can require and has required recovery plans). Valuation 
+requirements take a conservative approach to technical provisions (no discounting, for example, 
+although also no required margin over current  expectations) and, for life insurance, mathematical 
+provisions. The framework is supported by requirements for actuarial opinions, extensive reporting 
+to AFSA and oversight by its actuaries. The requirements apply at company level, but AFSA monitors 
+group financial strength by reviewing group financial statements and intragroup exposures. It is 
+recommended that a timetable be established for implementing relevant parts of the EU Solvency II
+
+Public 
+framework, AFSA’s preferred approach to developing solvency regula tion,1 taking into account the 
+changes to be introduced through the envisaged implementation of IFRS 17 in Albania. 
+There are elements of an  enterprise risk management (ERM) framework and insurers are 
+required to prepare risk evaluation reports for AFSA’s  review, but they require further 
+development. AFSA’s supervisors pay special attention to underwriting risks but also earthquake 
+risk, liquidity and other risks. Full requirements on risk appetite and quantification of risks are lacking. 
+Insurers’ risk evaluation reports require further development. The Authority should implement the full 
+range of ERM requirements and apply them at group level. AFSA should also require increased 
+detail in insurers’ disclosure of financial strength indicators. 
+AFSA has a de veloped supervisory framework, although there is scope for more feedback 
+and discussion of risk with insurers.  AFSA conducts off -site supervision based on extensive 
+reports from insurers which enable it to assess key risks. It has resumed on-site work after the Covid-
+19 pandemic. The current approach is relatively focused on assessing and reporting on compliance. 
+More use could be made of AFSA’s risk assessment methodology, with its forward-looking approach, 
+including in feedback to the management of insurers. AFSA also has a full set of powers to require 
+corrective actions and impose sanctions, which it uses in practice. The scale and effectiveness of 
+financial penalties should, however, be reviewed to ensure they meet their purpose.  
+The framework for ensuring the orderly exit of insurers from the market has gaps, which will 
+be addressed through planned legislative change.  AFSA is taking advice on legislative 
+amendments required to ensure there are appropriate bankruptcy arrangements specific to the 
+sector. There is no policyholder compensation scheme, but a clear priority for policyholders in a 
+liquidation.  
+AFSA carries out effective supervision of intermediaries, with a focus on brokers. There is a 
+full framework of licensing and regulatory requirements for agents and brokers, including on 
+professional qualifications, and a supervisory framework. AFSA cooperates with the Bank of Albania 
+in cases where the broker or agent is a bank.  
+There are extensive requirements in place and effective supervision of conduct of business, 
+but there is scope for development in some areas.  AFSA’s wide-ranging consumer protection 
+work, inclu ding regulation, surveillance of the market, evaluation of new products, handling of 
+customer complaints and regulating how motor third-party liability (MTPL) claims are to be assessed, 
+enables it to intervene effectively in the interests of consumers. Whi le products and distribution 
+practices are relatively simple from a consumer protection perspective, AFSA should strengthen its 
+approach in the areas of oversight of business culture, arrangements between insurers and 
+intermediaries, new product development and customer risk assessment. 
+There are broadly adequate requirements on insurance fraud and anti-money laundering. It is 
+recommended, however, that AFSA deepen its understanding and awareness of fraud risks and 
+review the effectiveness of measures for prevention and detection of fraud.  
+AFSA exchanges confidential information and cooperates with domestic and foreign 
+authorities, including as gr oup-wide supervisor. It has relevant powers and a wide network of 
+agreements. It is a recent signatory of the IAIS Multilateral Memorandum of Understanding (MMoU). 
+The Authority participates in supervisory colleges led by the Austrian regulator and leads c olleges 
+as home supervisor with Kosovan supervisors. It has cooperated in  practice in the management of 
+a crisis. 
+ 
+1 The assessors have been informed since the completion of the on-site assessment work in Albania that AFSA has developed a 
+High-Level Roadmap to implement Solvency II.
+
+Public 
+AFSA has established processes to monitor the insurance sector ’s impact on the economy 
+and the impact of various risks on insurers.  It collec ts extensive information as part of its 
+macroprudential supervision. It is also highly transparent about the market and its own supervisory 
+practices. It is well placed to identify emerging systemic risks, although in the present market these 
+are limited.
+
+Public 
+Assessment of Insurance Core Principles 
+ Introduction and scope 
+ This document provides a detailed assessment of supervision in the insurance sector of 
+Albania. The assessment was conducted by a team of assessors : Ian Tower, Insurance 
+Regulation and Supervision Consultant; Joanna Rakowska, Financial Market Authority 
+(FMA), Austria; Pankaj Kumar Tewari, Insurance Regulatory and Development Authority of 
+India (IRDAI); Brad Roberts, Board of Governors of the Federal Reserve System (FRB), USA; 
+supported by Grzegorz Komarnicki, International Association of Insurance Supervisors (IAIS) 
+Secretariat. 
+ The assessment was conducted on behalf of the IAIS, at the request of the Albanian Financial 
+Supervisory Authority (AFSA), between April 2022 and June 2023, including two weeks of 
+on-site work in Tirana, Albania from 26 September to 7 October 2022, and concluding with 
+the publication of this report in mid-2023. The assessment is benchmarked against the  
+Insurance Core Principles  (ICPs) issued by the IAIS in October 2011, including revisions 
+approved by the IAIS up until November 2019 .2 The ICPs apply to all insurers, whether 
+private or government-controlled, in all markets. Specific principles apply to the supervision 
+of intermediaries. 
+ The objectives of the assessment are to enhance the understanding of the ICPs, aid in their 
+implementation, identify major differences between existing practices and the international 
+standards as well as provide recommendations and advice to help future developme nt of 
+supervisory programmes. The assessment should not be construed to be part of the 
+IMF/World Bank Financial Sector Assessment Program (FSAP). 
+ This detailed assessment included off-site reviews of documents such as laws, regulations, 
+policies and processes and regulatory self-assessments of the jurisdiction, as well as on-site 
+meetings and discussions with government officials, supervisory staff, insurers, 
+intermediaries, industry associations and other stakeholders. The purpose of these meetings 
+was to understand the supervisory requirements in place and to gauge their application in 
+practice.  
+ Information and methodology used for assessment 
+ The level of observance for each ICP reflects assessment against its standards. Each ICP is 
+rated in terms of the level of observance as follows: 
+• Observed (O) – for a Principle Statement to be considered observed, all the standards 
+must be considered observed (except any standards that are considered not applicable); 
+• Largely observed (LO) – for a Principle Statement to be  considered largely observed, 
+there must be  only minor shortcomings which do not raise any concerns about the 
+supervisor’s ability to achieve full observance with the Principle Statement; 
+ 
+2 Supervisory standards related to the Common Framework for the Supervision of Internationally Active Insurance Groups 
+(ComFrame), which build on the ICPs, were not addressed in this MAP, as they focus on the effective group-wide supervision of 
+Internationally Active Insurance Groups (IAIGs). AFSA is not a group-wide supervisor of an IAIG.
+
+Public 
+• Partly observed (PO) – for a Principle Statement to be considered partly observed, there 
+are sufficient shortcomings to raise doubts about the supervisor’s ability to achieve 
+observance;  
+• Not observed – for a Principle Statement to be considered not observed, there is no 
+substantive progress toward achieving observance; and 
+• Not applicable – for a Principle Statement to be considered not applicable, all the 
+standards must be considered not applicable. 
+ The assessment is based solely on the laws, regulations and other supervisory practices in place 
+at the time of the on-site p hase of the assessment. While the assessment does not reflect 
+ongoing regulatory initiatives, some proposal s for regulatory reform are discussed by way of 
+additional comments in this report. The authorities provided a self -assessment, supported by 
+examples of actual supervisory practices and assessments related to supervised entities. These 
+examples enhanced the robustness of the work. Technical discussions with, and briefings by, 
+officials from AFSA have also enriched discussions of this report, as have discussions with 
+industry participants, industry and professional associations and government. Discussions with 
+these stakeholders were conducted on a confidential basis, without the presence of 
+representatives of the supervisory authority. 
+ Preconditions for effective insurance supervision 
+3.1 Sound and sustainable macroeconomic and financial sector policies 
+ The Albanian government sets economic policy within an established framework of institutional 
+arrangements. Key institutions are the Ministry of Finance and Economy, which is responsible 
+for macroeconomic and fiscal policy, revenue and budget administration and public debt 
+management; and the Bank of Albania, which under the 1997 Law “On the Bank of Albania” has 
+responsibility for monetary policy. The Council of Ministers presents the state budget to the 
+Parliament annually for debate and adoption. The Bank of Albania has an objective of price 
+stability, which it interprets as keeping the rate of price inflation at 3.0% in the medium term.  It 
+has a variety of tools to implement monetary policy , including open market operations and 
+reserve requirements.  
+ The Ministry of Finance and Economy is also responsible for financial sector policy, including 
+preparation of new legislation for debate and enactment by the Parliament. The Bank of Albania 
+has powers under the 2006 Law “On banks in the Republic of Albania” to regulate and supervise 
+the banking sector as well as non -deposit-taking lending institutions, savings and credit 
+associations, leasing, factoring and payment service providers. AFSA has responsibility under 
+the 2006 Law “On the Financial Supervisory Authority” for oversight of capital markets and 
+investment business as well as the insurance sector and pension funds.  
+ A consultative group on financial stability (the Financial Stability Advisory Group – FSAG) brings 
+together the institutions involved in financial sector oversight. Its members are the Minister of 
+Finance, the Governor of the Bank of Albania and the Chair of the AFSA Board. The Bank of  
+Albania publishes a regular Financial Stability Report and has also developed a range of 
+macroprudential policies and tools. 
+ The development of macroeconomic and financial sector policies is influenced by the 
+Government of Albania’s intention for the coun try to become a member of the European Union 
+(EU) in due course . Albania was granted candidate status by the EU in 2014 and accession
+
+Public 
+negotiations were started in 2022, as a precondition for which Albania had already taken account 
+of relevant EU legislation when developing its own framework of policies, laws and regulations . 
+Its continuing objective is to maintain a high degree of alignment with EU requirements.  
+ Information on the work of the institutions responsible for macroeconomic and financial sector 
+policies is available on their websites. 
+3.2 Well developed public infrastructure 
+ Albania has a framework of business and related laws, governing companies ( Law No 9901 of 
+14 April 2008 “On entrepreneurs and companies”), insolvency (Law No 110 of 22 November 
+2016 “On bankruptcy”) and consumer protection (Law No 9902 of 17 April 2008 “On consumer 
+protection”). Laws are enforced by responsible agencies and/or the courts. 
+ Albania has a civil law system  and the constitution provides for the separation of legislative, 
+executive and judicial branches. The court system and legal infrastructure are undergoing a 
+reform process, which includes re -evaluation of all judges and prosecutors (a vetting process) 
+independently overseen by a monitoring operation provided by the European Commission. The 
+Commission has reported steady progress on this project, but also that the number of judges 
+and prosecutors is low by comparison with other European countries, that court infrastructure is 
+poor and that the efficiency of the judicial system has been affected by the length of proceedings, 
+low clearance rate and high backlog.3 
+ The National Accounting Council (NAC) is the body that sets accounting standards for approval 
+by the Minister of Finance. Law No 25 of 2018 “On accounting and financial statements”, which 
+reflects the EU Accounting Directive, determines that for general purpose financial reporting, two 
+reporting frameworks are applicable depending on the size of reporting entities and public 
+interest considerations: (i) National Accounting Standards (NAS) and (ii) IFRS as issued by the 
+International Accounting Sta ndards Board (I ASB), translated and published in  the Albanian 
+language by the NAC.  
+ Public interest entities (PIEs) are required to apply IFRS. They are defined as stock exchange 
+listed companies, financial institutions, insurance and reinsurance companies  and investment 
+and voluntary pension funds, together with other companies deemed by the Council of Ministers 
+to be relevant to the public interest owing to the nature of their business, their size, or the number 
+of their employees. 
+ Law No 10091 of 2009 “On statutory auditing and organization of the accounting profession” 
+requires that Interna tional Standards on Auditing (ISAs) be applied and that only registered 
+auditors (both certified public accountants and auditing firm s) may practi se in Albania. The 
+Institute of Authori sed Chartered Auditors of Albania is the professional body of statutory 
+auditors, membership of which is mandatory. The Public Oversight Board (POB) is the 
+independent authority for quality assurance of statutory auditors/auditing firms a nd certified 
+accountants. 
+ There is an actuarial professional body with (at the time of the on-site assessment) 25 members 
+in total, including the 11 actuaries authorised by AFSA under the Insurance Law (i nsurers are 
+required to appoint an authorised actuary to undertake tasks specified in the law ). The work of 
+the Albanian Actuarial Association is mainly focused at present on improving access to actuarial 
+ 
+3 See Commission Staff Working Document , Albania 2021 Report , accompanying the document Communication from the 
+Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the 
+Regions, 2021 Communication on EU Enlargement Policy, Strasbourg, SWD (2021) 289 final, 19 October 2021.
+
+Public 
+training and education, although it also provides input to AFSA on regulatory matters. It does not 
+issue technical, professional or ethical standards itself and does not provide oversight of 
+members’ activities or a disciplinary process. The association is an associate member of the 
+International Actuarial Association (IAA; it does not yet qualify for full membership). It is not 
+subject to any form of oversight in Albania. 
+3.3 Effective market discipline in financial markets 
+ The corporate governance framework in Albania is comprised of the general company law as 
+well as the legislation on accounting and auditing standards and practices (see above). Specific 
+regulatory requirements apply to banks, insurers and other regulated entities. A Governance 
+Code was adopted in 2011. It provides a set of recommendations and compliance is voluntary. 
+Joint stock companie s can be organised under a one -tier or two -tier governing board system. 
+However, in the two-tier system, the appointment and dismissal of executives can be assigned 
+to the general meeting of shareholders. The Albanian Securities Exchange (ALSE) may set 
+corporate governance standards for listed companies, but there are none yet. 
+3.4 Mechanism for providing an appropriate level of policyholder protection 
+ The Insurance Law provides for a hierarchy of claims, giving policyholders preference. There is 
+no policyholder protection scheme  (ie a scheme that would provide compensation to eligible 
+policyholders in case of the failure of an insurer).  
+ There is no independent authority for dispute resolution, although policyholders with unresolved 
+complaints may take their complaints to AFSA or the courts.  
+ AFSA has the key role in the resolution of an insurer, although there is a need to clarify 
+bankruptcy procedures (see the assessment of ICP 12). 
+3.5 Efficient financial markets 
+ The capital market consists of two main segments: government securities, the largest segment, 
+and bonds issued through private placement. The main sources of long-term financing in Albania 
+are institutional investors, who primarily invest in government securities. Domestic investment 
+funds and i nsurers invest mainly in domestic corporate bonds, holding only small amounts of 
+foreign corporate bonds. There is no market in equities. The ALSE started operations in 2018, 
+but government securities were the only financial instruments traded on the exchange at the time 
+of this assessment.
+
+Public 
+ Assessment summary tables 
+Table 1: Summary of observance of the ICPs 
+Insurance Core Principle Level Overall comments 
+1 – Objectives, Powers and 
+Responsibilities of the 
+Supervisor 
+LO The legislative framework introduced in 2014 gave 
+AFSA, the insurance sector supervisory authority, wide 
+powers and largely appropriate objectives to regulate all 
+aspects of the sector. Although there are limited risks to 
+stability posed to or by the insurance sector, there is no 
+explicit objective to support financial stability , which is 
+likely to be an increasing focus as the sector develops in 
+the medium term  (AFSA already participates by law in 
+financial stability arrangements with other authorities) . 
+AFSA’s powers to undertake group-wide supervision are 
+appropriate to the relatively simple groups for which it 
+has responsibility at present. 
+2 – Supervisor LO The legislative framework gives AFSA a high degree of 
+independence from government in law, which is matched 
+by independence in practice  and balanced by 
+accountability to Parliament. There are comprehensive 
+provisions on legal protection of AFSA and its staff and 
+confidentiality of supervisory information. AFSA 
+determines its own organisation, budget and staff 
+remuneration, although the fees charged to regulated 
+legal entities, the source of its funding, are fixed in law. 
+Staff and financial resources appear adequate, given the 
+limited scale and complexity of the insurance sector.  
+3 – Information Sha ring and   
+Confidentiality Requirements 
+O AFSA exchanges confidential information with a wide 
+range of domestic and foreign authorities in accordance 
+with detailed provisions regarding the protection of 
+confidentiality and purpose of the information reques ts. 
+It has a wide network of exchange agreements and has 
+been a signatory of the IAIS Multilateral Memorandum of 
+Understanding (MMoU) since March 2022.   
+4 – Licensing O The licensing framework in the Insurance Law sets out 
+appropriate requirements and a process for granting 
+licences as well as providing for action to be taken 
+against unlicensed activity. New applications are rare, 
+but AFSA has used its powers both to grant and to refuse 
+applications in recent years.
+
+Public 
+5 – Suitability of Persons LO There are wide -ranging requirements cover ing senior 
+management and key persons in control functions, 
+although not all are explicitly listed in the legislation. 
+AFSA places particular emphasis on board members 
+and managing directors , who are sub ject to prior 
+approval. Candidates have been rejected. There is a 
+need for detailed provisions on suitability of key persons 
+in compliance and risk management functions. Although 
+AFSA undertakes supervisory work on suitability, 
+insurers are not explicitly required to demonstrate the 
+suitability of all persons covered by the requirements. 
+6 – Change of Control and 
+Portfolio Transfers 
+O AFSA has no experience of applications for changes of 
+control or portfolio transfers under the 2014 Insurance 
+Law. However, the legislation sets out the requirements 
+for reporting, assessing and making decisions on such 
+applications, with appropriate emphasis on ensuring that 
+transactions do not affect policyholders adversely. 
+7 – Corporate Governance LO The laws and regulati ons established for the broader 
+business sector as well as those specifically for insurers 
+clearly describe requirements related to corporate 
+governance. The roles and expectations documented for 
+boards and senior management are appropriate and 
+generally c onsistent with ICP 7.  However, board 
+responsibilities in the Insurance Law do not include 
+requirements on remuneration policies. 
+8 – Risk Management and 
+Internal Controls 
+O The Authority has established comprehensive 
+requirements and expectations regarding insur er risk 
+management and internal control systems. Although 
+potentially burdensome for smaller insurers in a 
+developing market, the laws, regulations and supervisory 
+practices in this area have positioned insurers and AFSA 
+well as the market develops with products and risks that 
+are more complex. 
+ 9 – Supervisory Review and 
+Reporting 
+LO AFSA has a clear supervision strategy and documented 
+processes with regard to its supervisory cycle in its Risk 
+Focused Supervision Manual. The Authority implements 
+its supervisory framework effectively and 
+proportionately, as evidenced by supervisory documents 
+reviewed for the assessment ; however, the approach 
+remains relatively compliance-focused in practice. There 
+is scope to develop a fuller a ssessment of corporate 
+governance, focusing on its effectiveness in practice.
+
+Public 
+10 – Preventive Measures, 
+Corrective Measures and 
+Sanctions 
+LO AFSA has access to a comprehensive set of supervisory 
+measures to address the violation (or risk of violation) of 
+regulatory requirements by insurers. The Insurance Law 
+sets out the circumstances in which actions may be 
+taken and the range of corrective measures.  Warnings 
+may be issued and financial penalties imposed, including 
+on individuals  in case of violation of requirements. 
+However, the level of fines prescribed in law appears low 
+to be a credible deterrent.  
+12 – Exit from the Market and 
+Resolution 
+PO Although AFSA has no experience of exits in practice 
+under the current legislation , insurance legislation sets  
+out clear procedures for voluntary exit, provisional 
+administration and mandatory liquidation . In relation to 
+bankruptcy (where an insurer is assessed as insolvent), 
+however, the Insurance Law has yet to be updated to 
+reflect recent reform of general bank ruptcy legislation 
+and to specify how bankruptcy under that law would 
+work. External expert advice is being taken . There is 
+provision in law for policyholder preference.   
+13 – Reinsurance and Other 
+Forms of Risk Transfer 
+O AFSA has established laws, regulations and supervisory 
+practices that result in effective management of insur er 
+reinsurance programmes. This effectiveness and the 
+quality of the Authority’s supervision was proven during 
+recent severe earthquakes , where the insurance 
+industry perform ed well and fulfilled its obligations 
+without incident.  
+14 – Valuation LO There is a comprehensive set of requirements, drawing 
+on international accounting standards and including 
+detailed provisions on valuation of technical provisions. 
+The requirements  include broadly market -consistent 
+valuation of assets and provide for technical provisions 
+to be calculated in a reliable, prudent and objective 
+manner, with the input of judgment (and oversight of 
+valuation) by an actuary authorised by AFSA. AFSA 
+assesses valuation practices when reviewing the 
+extensive regular reports submitted by insurers . 
+However, t he approach reflects the EU Solvency I 
+directive. Major changes  are planned, including 
+requirements for a more fully economic valuation, which 
+will align the framework more closely with the ICP.   
+15 – Investments LO There is a comprehensive set of requirements which 
+combines detailed quantitative requirements (limits on 
+types of investment, diversification requirements etc)
+
+Public 
+with extensive qualitative requir ements. In practice, the 
+assets available to insurers are limited and investments 
+are dominated by real estate, government securities and 
+bank deposits. AFSA acknowledges the disadvantages 
+of real estate, in terms of market valuation and illiquidity, 
+as an asset backing insurers’ technical  and 
+mathematical provisions, but argue s that given limited 
+alternatives (and with prudent regulatory requirements) 
+it has a place in insurers’ portfolios for the present, 
+including as an effective hedge against inflation.  
+16 – Enterprise Risk 
+Management for Solvency 
+Purposes 
+PO The law and regulations set out elements of a framework 
+for effective ERM, requiring insurers to establish risk 
+management systems with policies, procedures and 
+limits to monitor, control and adjust their activities based 
+on business risks. They must prepare and submit a risk 
+evaluation report with many of the elements of the ICP’s 
+own risk and solvency assessment (ORSA) 
+requirements, including stress testing. AFSA supervisors 
+focus in practice on key risks of insurers, particularly 
+underwriting risks but also earthquake and liquidity risks. 
+Other elements of a full set of ERM requirements, 
+including full requirements on insurers’ risk appetite and 
+quantification of risks , are lacking. Insurers’ risk 
+evaluation reports require further development and the 
+process of supervisory review is not yet a core part of 
+AFSA’s supervisory approach. 
+17 – Capital Adequacy LO The capital requirements reflect the well established EU 
+Solvency I framework. Their objectives and the bases on 
+which they are determined are clear. Eligible capital 
+resources are also clearly defined, although with wide 
+scope in the regulations to includ e some relatively low-
+quality forms of capital. There are solvency control levels 
+and while AFSA is not required to intervene, it may and 
+does do so . AFSA considers the capital adequacy of 
+insurance groups through supervision, although there 
+are no group -wide capital requirements at present.  
+Solvency I is not a total balance sheet approach and 
+does not cover all risks and their aggregation explicitly 
+(the requirement to meet 150% of the minimum margin 
+implicitly but imperfectly captures some additional risk ). 
+AFSA is therefore planning to adopt elements of the EU 
+Solvency II framework, although a detailed roadmap was 
+approved by the Board of AFSA only in early 2023, after 
+the main work on this assessment was completed.
+
+Public 
+18 – Intermediaries O There are extensive requirements for the licensing, 
+regulation and supervision of intermediaries, including 
+requirements on education and professional 
+qualifications and regular training . There are 
+requirements on intermediary financial resources and 
+governance, although there is scope for elaboration of 
+the latter, which rely on general corporate law . AFSA 
+collects data from intermediaries and has been resuming 
+on-site supervision, including of banks, which play an 
+important role in the distribution of life insurance. 
+19 – Conduct of Business LO There are extensive regulatory requirements and AFSA 
+undertakes supervision, supported by expert resources, 
+to assess practices of insurers and intermediaries, 
+including thematic supervision to address such areas as 
+claims handling. AFSA’s extensive consumer protection 
+work, including market surveillance, evaluation of new 
+products, handling of complaints and regulating how 
+MTPL claims are to be handled, enables it to intervene 
+effectively in the interests of consumers where 
+necessary. 
+However, there are no explicit requirements for policies 
+and processes on the fair treatment of customers as an 
+integral part of business culture; on arrangements 
+between insurers and intermediaries governing 
+responsibilities on matters such as product promotion; or 
+that produ ct development takes into account the 
+interests of different customers.  Requirements to 
+conduct an appropriate customer risk assessment apply 
+only to brokers.  
+20 – Public Disclosure LO Required disclosures cover a wide range of financial and 
+other information and are concentrated in the insurer’s 
+annual report , which by regulation and in practice is 
+widely available. Disclosures are in practice largely 
+presented in IFRS formats and relat ed to the 
+consolidated financial position of the insurer and group 
+(limited information is available on the individual insurer). 
+The additional required disclosures, on capital and 
+liquidity adequacy, are limited to indicators, although 
+they may be supplem ented by information from the risk 
+evaluation report. Disclosure requirements are therefore 
+limited to the annual report and the report of the external 
+auditor, although they may be sufficient for the currently 
+small and simple (mainly non-life) insurance products.
+
+Public 
+21 – Countering Fraud in 
+Insurance 
+LO Key requirements on insurance fraud are in place and 
+AFSA takes into account the risk of fraud in its 
+inspections of insurers and intermediaries, focusing on 
+systems and controls. AFSA’s experience of fraud is 
+limited in practice. The Authority regards  fraud risks as 
+low, partly reflecting the nature of the market and existing 
+controls. Insurers reported that they view the risk as high 
+and there is a need for AFSA to deepen its 
+understanding and awareness of fraud risks.     
+22 – Anti-Money Laundering 
+and Combating the Financing 
+of Terrorism 
+O AFSA has a risk -focused AML /CFT framework for 
+supervision, has issued a regulation and guidance to the 
+life insurance sector and cooperates and exchanges 
+information with other authorities. It has strengthened its 
+AML/CFT framework based on recommendations from 
+the Committee of Experts on the Evaluation of Anti -
+Money Laundering Measures and the Financing of 
+Terrorism (MONEYVAL) and the  Financial Action Task 
+Force (FATF). AFSA conducts extensive supervision, 
+both off -site and through inspections carried out by 
+specialist staff. On -site work is often conducted jointly 
+with the jurisdictional authority, the General Directorate 
+for the Prevention of Money Launder ing (GDPML), with 
+which there is generally close cooperation. 
+23 – Group-wide Supervision O Current laws, regulations and supervisory practices are 
+sufficient to meet the expectations of ICP 23, particularly 
+given the simple legal entity organi sation structures in 
+the market. AFSA is reviewing changes that may need 
+to be made related to group-wide supervision as it plans 
+for the implementation of Solvency II in the future. 
+24 – Macroprudential 
+Supervision 
+O Although the size of the market and individual insurers 
+does not warrant concerns from a systemic risk 
+perspective, AFSA has established processes that put it 
+in a good position to monitor the industry’s impact on the 
+economy and the impact of various risks on the industry. 
+The Authority collects extensive information that it uses 
+to actively monitor and report on the industry , including 
+the liquidity of the insurers. It is highly transparent about 
+the market and its own supervisory practices. 
+25 – Supervisory Cooperation 
+and Coordination 
+O Although the insurance market is relatively small, 
+insurance groups account for most of the gross 
+premiums written. Accordingly, the Authority has taken 
+appropriate actions to ensure proper supervision and 
+regulation of insurance groups, including by establishing
+
+Public 
+strong working relationships with other relevant 
+regulators and supervisors. 
+ 
+Table 2: Summary of observance levels 
+Total 24 
+Observed (O) 10 
+Largely Observed (LO) 12 
+Partly Observed (PO)   2 
+Not Observed (NO)   0 
+ 
+Table 3: Recommendations to improve observance levels of ICPs4 
+Insurance Core Principle Recommendations 
+1 – Objectives, Powers and 
+Responsibilities of the 
+Supervisor 
+It is recommended that: 
+• Primary legislation be amended to give AFSA an explicit 
+objective of supporting financial stability; and 
+• AFSA be given additional powers to undertake direct 
+supervision of groups, including powers to set and enforce 
+group-wide solvency and other requirements. 
+2 – Supervisor It is recommended that: 
+• Increased budgetary flexibility be considered by the authorities 
+to enable AFSA (i) to set fee levels appropriate to its plans; and 
+(ii) to decide its required level of reserves;  
+• Regulations on conflicts of inte rest be strengthened with post-
+employment provisions applicable to staff (for example, 
+requirements on how long after resignation staff may take up 
+roles in the insurance sector);  
+• AFSA develop its IT resources to ensure it remains able to 
+efficiently and effectively capture, analyse and report on 
+insurance sector financial information and manage its 
+supervisory work; and 
+• The ability of AFSA to enforce all types of intervention pending 
+the completion of an appeal process be reviewed in the light of 
+ 
+4 Some of these steps reflect actions that are already in progress but are yet to be made fully operational.
+
+Public 
+the outcome of the case being taken by AFSA to the Supreme 
+Court at the time of the assessment.   
+3 – Information Sharing and 
+Confidentiality 
+Requirements 
+No recommendations.  
+4 – Licensing It is recommended that AFSA complete its review of whether 
+exemptions in Article 10 of the Insurance Law are framed too 
+broadly or imprecisely and propose amendments to the law , if 
+appropriate. 
+5 – Suitability of Persons To strengthen the requirements further, it is recommended that: 
+• Legislation be amended in future to include key persons in all 
+four control functions listed in the ICP explicitly within the 
+requirements; 
+• Detailed provisions on suitability of key persons in compliance 
+and risk management fu nctions be introduced to add to the 
+existing requirements for key persons in actuarial and internal 
+audit functions;  
+• The scope of the approval requirements be extended to capture 
+senior management of companies adopting the unitary board 
+system to align the approach to that applying to companies with 
+a two-tier board system where management board members 
+are all subject to approval; and 
+• Insurers be explicitly required to demonstrate initially , and on 
+an ongoing basis, the suitability of all persons covered by the 
+requirements. 
+6 – Change of Control and 
+Portfolio Transfers 
+No recommendations.  
+7 – Corporate Governance Notwithstanding the limited risks presented by products currently 
+available in the Albanian insurance market, it is recommended that 
+board responsibilities in the Insurance Law be expanded to include 
+a specific requirement to approve written remuneration policies for 
+senior management and other employees whose actions may have 
+a material impact on the risk exposure of the insurer that do not 
+induce excessive or inappropriate risk-taking. 
+8 – Risk Management and 
+Internal Controls 
+No recommendations.
+
+Public 
+9 – Supervisory Review and 
+Reporting 
+It is recommended that AFSA: 
+• Enhance its evaluation of the effectiveness of insurers ’ 
+corporate governance framework s through a qualitative 
+approach; and  
+• Enhance discussion with insurers on their risk profile, based on 
+its risk matrix assessment  (and taking into account insurers ’ 
+own assessment of risk in their risk evaluation reports), in the 
+course of supervisory feedback and communicate its findings 
+and views on the risk profile to insurers more fully, focusing on 
+delivering improvement to their risk measurement 
+management.  
+10 – Preventive Measures, 
+Corrective Measures and 
+Sanctions  
+It is recommended that in order to ensure sanctions have a 
+deterrent effect, AFSA should review whether fines are effective at 
+their current level and propose legislative change, if necessary. 
+12 – Exit from the Market  
+and Resolution 
+It is recommended that AFSA: 
+• Identify the amendments required to the Insurance Law to 
+ensure there are appropriate liquidation/bankruptcy 
+arrangements specific to the insurance sector, as required in 
+the general bankruptcy law, ensuring the continued protection 
+of policyholders, and seek legislative change; and 
+• Review, as part of this process, whether to seek additional 
+powers for effective resolution of insurers (such as those set 
+out in ICP 12.7), notwithstanding that existing powers appear 
+adequate to the nature, scale and complexity of current insurers 
+in the Albanian market.    
+13 – Reinsurance and Other 
+Forms of Risk Transfer 
+As the insurance market continues to develop, the Authority may 
+want to consider minimum retention limits for some lines of 
+business where retention would promote good risk management 
+and market development , recognising that in other lines such as 
+earthquake insurance , high levels of reinsurance are likely to 
+remain prudent. 
+14 – Valuation It is recommended that AFSA develop revised valuation standards 
+in conjunction with its proposed introduction of risk-based solvency 
+standards. These standards should provide, amongst other 
+requirements, for a detailed framework regarding recognition and 
+de-recognition of assets and liabilities, increased clarity on 
+consistency of valuation of assets and liabilities over t ime and 
+requirements for insurers to carry out economic valuation.  
+It is also recommended that a timetable be established for 
+implementation of relevant parts of the EU Solvency II 
+requirements, the preferred approach of the authorities, taking into
+
+Public 
+account the changes to be introduced through the envisaged 
+mandatory implementation of IFRS 17 in Albania.5 
+15 – Investments It is recommended that, in addition to continuing to enforce existing 
+limits on real estate investment, AFSA closely monitor the 
+development of alternative assets, seeking opportunities to 
+incentivise assets which present less challenge in terms of price 
+discovery and illiquidity. AFSA should also further consider what 
+can be done, with other authorities, to stimulate the supply of long-
+term investable assets to help support the development of savings-
+related life insurance in particular. 
+16 – Enterprise Risk 
+Management for Solvency 
+Purposes 
+It is recommended that the Authority:  
+• Develop new regulations to implement the full range of ERM 
+requirements covered by the ICP, including requirements for a 
+risk appetite statement and related limits on risks and capital 
+management requirements;  
+• Apply the key requirements, including ORSA, at the group level; 
+and  
+• Set out in more detail the requirements on insurers in respect of 
+recovery planning.  
+AFSA should increase its capacity to assess insurers’ ERM 
+practices and risk evaluation reports/ORSAs. (It is likely to be 
+appropriate to address the issues with ERM in the context of plans 
+to implement all or part of the EU Solvency II framework). 
+17 – Capital Adequacy It is recommended that AFSA develop revised, more risk -based 
+solvency requirements. These should provide, amongst other 
+points, for a full balance sheet approach covering all material risks 
+explicitly, more focus on highest -quality capital resources (a limit 
+on the use of “additional capital”) and reduced discretion to 
+intervene to enforce solvency control levels. AFSA should consider 
+strengthening group-wide capital consistent with the development 
+of its overall approach (currently an indirect one) to group -wide 
+supervision (see ICP 14 recommendations on the need for an 
+implementation timetable). 
+18 – Intermediaries It is recommended that AFSA review its requirements on 
+intermediary governance and develop them further, including in the 
+areas of the responsibilities of boards, senior management, 
+compliance, etc. 
+ 
+5 The assessors have been informed since the completion of the on-site assessment work in Albania that AFSA has developed a 
+high-level roadmap to implement Solvency II and that the authorities have decided to postpone implementation of IFRS 17 for a  
+number of years.
+
+Public 
+19 – Conduct of Business It is recommended that AFSA strengthen its regulatory approach 
+by developing requirements in the areas of business culture, 
+arrangements between insurers and intermediaries regarding their 
+respective responsibilities for product development and customer 
+risk assessment, app lying them to both insurers and 
+intermediaries, as appropriate. 
+20 – Public Disclosure It is recommended that AFSA focus on increasing disclosures 
+about financial strength of insurers and taking measures to support 
+understanding of the numbers. This would entail requiring insurers 
+to provide more details about capital adequacy, including changes 
+in capital requirements over the period; and taking steps to improve 
+public understanding of the solvency margin and potentially also 
+the liquidity ratio. 
+21 – Countering Fraud in 
+Insurance 
+It is recommended that: 
+• AFSA deepen its understanding and awareness of fraud risks 
+including fraud typologies and fraud related to different 
+insurance products; 
+• AFSA review the effectiveness of measures for prevention and 
+detection as well as reporting of fraud to the Authority; and 
+• In order to gain more insights into types of fraud and to enhance 
+fraud detection and prevention in the insurance sector and 
+facilitate communication with the sector, AFSA consider 
+appointing an internal contact person on fraud issues. 
+22 – Anti-Money Laundering 
+and Combating the 
+Financing of Terrorism 
+No recommendations.  
+23 – Group-wide 
+Supervision 
+No recommendations. 
+24 – Macroprudential 
+Supervision 
+No recommendations. 
+25 – Supervisory 
+Cooperation and 
+Coordination 
+No recommendations.
+
+Public 
+ Detailed Principle by Principle assessment 
+Table 4: Detailed assessment of observance of the ICPs 
+ICP 1 
+Objectives, Powers and Responsibilities of the Supervisor 
+Each authority responsible for i nsurance supervision, its powers and the 
+objectives of insurance supervision are clearly defined. 
+Description Supervisory authority 
+AFSA is clearly identified in primary legislation as the authority responsible to 
+the Albanian Parliament for insurance regulation and supervision, including 
+licensing and insurance sector market conduct. 
+Article 2 of Law No 9572 of 3 July 2006 “On the Financial Supervisory Authority” 
+(the “AFSA Law”) sets out the scope of the Authority’s supervisory activities, 
+which include the “insurance market, licensed entities subject to all activities of 
+insurance such as insurance, re -insurance, intermediary and other operations 
+deriving from these activities”. AFSA also supervises the capital markets, the 
+voluntary pension market and other non-bank financial activities. 
+In addition, Article 3 of Law No 52 of 22 May 2014 “On the activity of insurance 
+and reinsurance ” (the “ Insurance Law” ), which sets out the framework of 
+insurance regulation,  identifies AFSA as the responsib le authority for  
+supervising the implementation of the law.  
+In relation to regulation and supervision of anti-money laundering and combating 
+the financing of terrorism (AML/CFT), the GDPML, a government body, has 
+responsibilities relating to insurance as well as other sectors of the economy 
+(see ICP 22).  
+Objectives 
+Article 12 of the AFSA Law specifies the objectives of the Authority (in respect 
+of all its areas of activity, including insurance) as: (i) to protect the interests of 
+investors and insured persons; (ii) to promote sustainability and enhance 
+transparency and credibility of the supervised financial markets; and (iii) to 
+ensure enforcement of the law.  
+In addition, Article 13 of the AFSA Law establishes that the aim of the Authority 
+shall be to regulate the activity of the supervised subjects and to provide 
+jurisdictional supervision over the insurance and other markets. “Supervised 
+subjects” include insurers and intermediaries, actuaries and claims adjusters. 
+Article 1 of the Insurance Law establishes that the objective of the law is that 
+“the insurance market operates in a safe, stable and transparent environment, 
+where consumers’ rights and interests are protected”. 
+There is no explicit objective in the laws relating to contributing to  financial 
+stability (ICP 1.2). In practice AFSA does contribute to financial stability work in 
+Albania through its membership of the consultative group on financial stability – 
+FSAG. FSAG was established by Article 30 of the AFSA Law. Its members are
+
+Public 
+the Minister of Finance and the Governor of the Bank of Albania as well as the 
+Chair of the AFSA Board. It also seeks to identify risks to the stability of the 
+sector (for example, the risks arising from the C ovid-19 pandemic) and to take 
+action (for example, “thematic” supervisory work and a temporary prohibition on 
+insurers paying dividends; see ICP 24). 
+Powers 
+The AFSA and Insurance Laws give the Authority extensive powers (many of 
+them vested in the Board of AFSA) to carry out insurance sector supervision and 
+regulation in pursuit of its statutory objectives, including powers to: 
+• Approve, refuse, suspend or revoke licences in respect of both insurers and 
+intermediaries (Articles 13 and 14 of the AFSA Law and Articles 28 to 39 of 
+the Insurance La w; see ICP 4); and to set fit and proper requirements for 
+shareholders, directors, etc (Article 17 of the Insurance Law; see ICP 5); 
+• Supervise the activities of insurers and intermediaries, including requiring 
+reports etc (Article 14 of the AFSA Law and Ar ticles 129 to 139 of the 
+Insurance Law); 
+• Issue regulations, rules, guidelines, manuals or methodologies (Articles 3 
+and 14 of the AFSA Law); 
+• Set requirements on governance, risk management, internal controls , etc 
+(Articles 18 to 27 of the Insurance Law ; see ICPs 7 –8); and on insur er 
+solvency (Articles 75 to 81 of the Insurance Law); 
+• Approve transfers of insurance portfolios (Articles 45 to 47 of the Insurance 
+Law; see ICP 6) and mergers and divisions of insurers (Article 56 of the 
+Insurance Law); 
+• Approve au ditors of insurers and intermediaries and approve accounting 
+standards and financial reporting forms (Articles 3 and 14 of the AFSA Law); 
+and 
+• Require corrective measures (Articles 149 to 154 of the Insurance Law); 
+revoke a licence (Articles 155 to 160); initiate administration (Articles 161 to 
+168); and impose financial penalties on insur ers and intermediaries for 
+violations of laws, regulations, etc (Articles 245 to 259). 
+Powers to supervise insurance groups are set out in Articles 140 to 148 of the 
+Insurance Law (powers to exercise “complementary supervision over insurance 
+groups”). AFSA has powers to require companies related to the insurer subject 
+to complementary supervision to provide access to information unless it is 
+available from the insur er directly, for example (Article 143 of the Insurance 
+Law). It may collect information on intragroup transactions (Article 144, 
+paragraph 1) and may perform on-site verification of information at group 
+companies (Article 144, paragraph 8).  
+In relation to solvency requirements, AFSA can and does use indirect methods 
+(based on assessing the members of groups, which are limited in scope at 
+present), but lacks powers to  set and enforce group -wide requirements, 
+according to methodologies determined by the Authority.
+
+Public 
+The Authority is empowered to conclude agreements with a wide range of other 
+domestic and foreign financial supervisory authorities, including AML/CFT 
+authorities, to cooperate or exchange information. It may share a wide range of 
+information, including on supervision of entities, in connection with the licensing 
+of new entities and on “natural persons holding positions of responsibility” in 
+those entities (Article 18/1 of the AFSA Law and Article 236 of the Insurance 
+Law). They are empowered to carry out joint inspections with such other bodies 
+or on their behalf (Article 18/1 of the AFSA Law). 
+Changes in the legislative framework 
+AFSA may initiate or propose changes to primary legislation through the Council 
+of Ministers. AFSA has to submit proposals to the Ministry of  Finance, which 
+proposes new legislation to Parliament via the Council of Ministers.  
+AFSA has used this power in practice, for example working with the Ministry of 
+Finance on the development of the 2021 revised law on compulsory motor 
+insurance (Law No 32  of 16 March 2021 “On compulsory insurance in the 
+transport sector"). 
+With respect to other forms of legislation, guidelines , etc, AFSA has its own 
+powers to review and reissue insurance regulations and guidelines in key areas 
+of insurance supervision. It issues new regulations regularly, after consultation.  
+Assessment Largely Observed 
+Comments The revised legislative framework introduced in 2014 gave AFSA, as the clearly 
+identified insurance sector supervisory authority, wide powers and largely 
+appropriate objectives to regulate all aspects of the sector.  
+Notwithstanding the limited risks to stability currently posed to or by the 
+insurance sector, in the future AFSA would benefit from a more explicit objective 
+to support financial stability (ICP 1.2). T his would underpin its existing 
+cooperation with other authorities on financial stability issues (including its 
+contribution to the FSAG) as well as the future development of its crisis 
+management and macroprudential supervisory work. Financial stability is likely 
+to be an increasing focus as the insurance sector develops in the medium term. 
+AFSA’s powers to undertake group -wide supervision are appropriate to the 
+relatively simple groups for which it has responsibility at present, but should be 
+reviewed whe n it develops  a direct supervision approach to groups  (as it is 
+planning), which should also include supervision of financial conglomerates.  
+It is recommended that: 
+• Primary legislation be amended to give AFSA an explicit objective of 
+supporting financial stability; and 
+• AFSA be given additional powers to undertake direct supervision of groups, 
+including powers to set and enforce group -wide solvency and other 
+requirements.
+
+Public 
+ICP 2 Supervisor 
+The supervisor is operationally independent, accountable and transparent in the 
+exercise of its responsibilities and powers, and has adequate resources to 
+discharge its responsibilities. 
+Description Independence and accountability 
+AFSA is established under Article 3 of the AFSA Law as a public legal institution, 
+independent of government and accountable to Parliament. It is empowered to 
+set its own budget and determine its organisation and use of resources.  
+AFSA’s governing body, the board of directors, i s responsible for taking 
+decisions on regulatory and supervisory matters and on the internal organisation 
+and affairs of the Authority.  
+Article 3 of the AFSA Law states that there shall be no intervention in AFSA’s 
+activity that may affect its independenc e. Consistent with this, there are no 
+provisions in the AFSA Law or Insurance Law for decisions on regulatory or 
+supervisory issues to be referred to the government or for government 
+representation on AFSA’s Board. Most interaction with the Ministry of Fin ance 
+relates to initiatives requiring new legislation, for example the 2021 revision to 
+the compulsory motor insurance legislation and the development of government 
+policy in relation to the risk of further significant earthquakes.  
+AFSA makes regular repo rts to Parliament, including the submission of an 
+annual report, a declaration of its annual financial position and a report on 
+budget expenditure. Parliament reviews AFSA’s performance and objectives 
+based on its annual report and issues a resolution with  comments and 
+recommendations (it can and does carry out further reviews during the course 
+of the year and there is regular contact between AFSA and the Parliament’s 
+staff). AFSA takes account of Parliament’s views, for example in developing its 
+multi-year strategy (see below), but is not required in law or practice to adopt its 
+recommendations.  
+There are no industry representatives on the Board of AFSA. Various provisions 
+in law aim to protect AFSA from undue industry influence: 
+• In the three years prior to appointment, board members may not have served 
+as partners, shareholders, or members of the governing bodies of regulated 
+legal entities; or have family ties with such persons; or have been employees 
+in the regulated legal entities (Article 5 of the AFSA Law). In addition, for the 
+three years following leaving the board, members may not be employed by, 
+or be involved in paid services with, any regulated legal entities (Article 7); 
+and 
+• There are provisions on conflicts of interest applying to board members and 
+staff covering declaration of assets on appointment, recusal from 
+discussions ( board members) and supervisory work (staff) in case of a 
+conflict, with provisions for dismissal in case of non -compliance (Article 22 
+of the AFSA Law).
+
+Public 
+AFSA Regulations No 131 of 26 November 2015 “On the Code of Conduct” and 
+No 227 of 19 December 2019 “On conflict of interest” set out detailed 
+requirements on staff ethics , conflicts of interest , etc. There are extensive 
+provisions on  the disclosure of staff interest s, but no post -employment 
+requirements such as those which apply to board members. AFSA’s Human 
+Resources Department monitors compliance with the requirements, including 
+disclosures by staff of their interests.  
+Financing 
+AFSA raises funds on its own accou nt, mainly through charging fees to 
+supervised entities, and there is no government funding (Article 26 of the AFSA 
+Law). It also retains income from financial penalties and its investments.  
+Fees are set for insurers based broadly on the level of their premium income at 
+an amount fixed in Article 27 of the AFSA Law (1.5 %). AFSA also charges 
+application fees and can charge fees for special projects benefiting particular 
+supervised entities. While the basis for fees is fixed in law, and fee income from 
+insurers fell in line with reduced premium income during the Covid-19 pandemic, 
+total income from fees and other sources have been sufficient to cover AFSA’s 
+expenses in recent years.  
+AFSA manages its own budgeting process. There are no requirements fo r 
+government approval of its budget, including expenditure. It maintains a reserve 
+fund, capped at six months’ expenditure to cover differences between revenues 
+and expenses in any year (Article 26 of the AFSA Law) . Amounts in excess of 
+the cap must be used to reduce supervised entities’ fees (Article 27).  
+Legal protection 
+AFSA and its staff have legal protection against lawsuits for actions taken in 
+good faith while discharging their duties, provided they have not acted illegally 
+(Article 18 of the AFSA Law). The Law also requires the Authority to compensate 
+board members and staff for any legal costs incurred in the defence against any 
+legal action resulting from the performance of their functions or tasks under the 
+law, etc.  
+AFSA has no experience of having to defend such legal actions in practice.  
+Governing body appointments, etc 
+AFSA’s Board comprises five members, including a Chairperson, General 
+Executive Director, Deputy Executive Director and two other members (Article 4 
+of the AFSA Law). The Parliament appoints board members based on proposals 
+from various institutions, including the Parliamentary Committee on Economy 
+and Finance (Chairperson), the Council of Ministers (General Ex ecutive 
+Director), the Ministry of Finance (Deputy Executive Director) and the 
+Supervisory Board of the Bank of Albania (Articles 5–8). Board members serve 
+five-year terms, starting on appointment (ie they are not co-terminous).  
+The only reasons for dismissal of a board member are set out in the AFSA Law 
+and include physical or professional incapacity and negligence. Any of the 
+nominating institutions may propose the dismissal of a board member  to 
+Parliament, and they must give their reasons as well as evi dence. Parliament
+
+Public 
+makes the decision whether to dismiss. The reasons for the removal are subject 
+to public disclosure by Parliament (Article 8 of the AFSA Law).  
+In practice, one board member (a General Executive Director) has been 
+dismissed in recent year s. The dismissal was decided by the Parliament, as 
+required, and reasons were published in terms of the AFSA Law.   
+Internal governance, processes, etc 
+The Board of AFSA, as its governing body, has responsibility for establishing 
+internal processes and controls and for overseeing their effectiveness. Day -to-
+day administration is the responsibility of the General Executive Director and, in 
+their absence, the Deputy Executive Director. 
+Decision-making authority for all regulatory and supervisory matters and f or 
+organisational and other internal issues is concentrated in the Board of AFSA. 
+There is no delegation of decisions to staff or internal committees. Internal 
+working groups are, however, regularly formed to prepare decisions for the 
+board, for example on licence applications.  
+AFSA’s Board Regulation No 130  of 31 August 2017 “On organization, 
+functioning and job description” sets out details of internal organisation, 
+including departmental responsibilities and the roles of key individuals. The 
+structure was, however, changed in 2020 (see AFSA organisation chart included 
+in the Annex – Institutional and market overview), concentrating responsibility 
+for certain functions such as licensing and AML/CFT work in units covering all 
+sectors regulated by AFSA, although there are insurance sector specialists 
+within those units.  
+AFSA’s organisation is reviewed periodically on the initiative of the board. The 
+board secretariat is responsible for managing board workflow and coordinating 
+updates to the organisation, internal processes, etc.  
+The board appoints the Head of the Internal Audit Unit, who reports directly to 
+the board on audit matters, and approves the external auditor of the Authority.   
+AFSA’s strategy is approved by the board (the latest is from 2018 – “The 
+development of AFSA and the markets under supervision”, covering priorities, 
+action plans and the strategic focus for the medium  term). A new strategy, 
+starting from 2023, was under development at the time of the assessment.  
+Application of requirements and appeals 
+AFSA has extensive internal proc edures, including supervisory process 
+manuals, governing its approach to regulation and supervision. Requirements 
+are applied in the same way to all supervised entities, taking into account the 
+Authority’s risk -based approach and consideration of the need for 
+proportionality. The Authority has no powers to waive or modify requirements in 
+respect of individual insurers or intermediaries.  
+Any decision taken by the Authority may be appealed in the courts (Article 14 of 
+the AFSA Law). 
+With respect to licensing decisions, rights of appeal are set out separately for 
+each type of legal entity in the Insurance Law. Appeal procedures are governed
+
+Public 
+by Law No 49  of 2012 “On the organization and functioning of administrative 
+courts and the judicial review of administrative disputes”. Insurers may, for 
+example, bring appeals against refusal of preliminary licensing decisions and 
+revocation (Articles 34, 159, 209, 211 of the Insurance Law).    
+With respect to fines that may be imposed under Article 246 of the Insurance 
+Law, provisions for appeals in the law on general procedures for administrative 
+contraventions (Law No 10279 of 20 May 2010 “On administrative 
+contraventions”) apply to the Authority  (Article 259 of the Insurance Law). 
+Sanctions continue to be in force until the final court decision (Article 14, 
+paragraph 22 and Article 31 of the AFSA Law).   
+AFSA decisions have been subject to appeal in practice (see table below) and 
+a small number of appeals have been upheld by the court. In one of these cases, 
+which concerns the rules for calculation of available capital for the solvency 
+margin requirements, the Authority has appealed the court decision and is now 
+taking the case to the Supreme Court. In this case, the Authority is unable to 
+enforce the requirements pending the final decision, putting policyholders at one 
+company (and potentially others) at risk.  
+Table 5: Appeals against AFSA decisions 
+Source: AFSA (data for insurers, intermediaries and claims adjusters) 
+Protection of confidential information 
+Confidential information is defined in Article 24 of the AFSA Law, which requires 
+that AFSA not disclose such information. Penalties are provided for in case of 
+non-compliance. Any information received by AFSA, and any information 
+provided to other supervisory authorities , shall be treated as confidential and 
+used only for supervision purposes. AFSA and other supe rvisory authorities 
+shall consult with the party providing the information before taking further action 
+(Article 18/1 of the AFSA Law and Article 236 of the Insurance Law).  
+Article 25 of the AFSA Law provides for confidentiality to expire after three years, 
+although exceptions apply , and the deadline may be extended by a b oard 
+decision. Article 18/1 of the AFSA Law has no such limit on confidentiality. 
+More detailed provisions are set out in AFSA R egulation No 114 of 11 
+September 2008 “On the confidentiality of the Financial Supervisory Authority”. 
+Year Number of 
+board 
+decisions on 
+administrative 
+and corrective 
+measures 
+Number 
+of 
+appeals 
+to court 
+Claims 
+rejected 
+Claims 
+admitted 
+Further appeal 
+(by supervised 
+entity) 
+2019 32 4 4 0 2 
+2020 26 1 0 1 0 
+2021 26 3 1 2 1
+
+Public 
+Article 8.6 of Regulation No 114 of 2008 provides that information received from 
+foreign authorities cannot be shared with third parties without prior consent  
+being granted in writing by the foreign authority. 
+Transparency  
+AFSA uses its website to make public a wide range of information, including 
+relevant laws and regulations, its own decisions and initiatives and 
+developments in the insurance markets. It publishes monthly, quarterly and 
+annual reports with data on premiums, claims, expenses, technical provisions, 
+investments and capital, but not solvency margins (see ICP 20).  The website 
+also makes available full lists (registries) of licensed insurers, intermediaries, 
+claims adjusters and certified actuaries.  
+Board agendas and decisions are published (where not confidential).  
+AFSA consults on new regulatory requirements. Draft new primary legislation is 
+published on a government website for consultation, as required by law. AFSA 
+consults on draft laws (via links on its website to government sites) and draft 
+regulations with stakeholders. In the case of an urgent need, the Authority can 
+and does issue new requirements without consultation. It did so, for example, 
+during the Covid-19 pandemic.  
+Adequacy of resources 
+The Insurance Market Supervision Department has a budget for 15 s taff, 
+organised into the Insurance Market Supervision Directorate (1 1, including the 
+Director) and the Financial Modelling and Risk Management Directorate (four). 
+Roles are for a mixture of junior and senior staff, with provision for three 
+actuaries in the Financial Modelling and Risk Management Directorate 
+(including the Director). There is one qualified accountant and two more in 
+training. Others have backgrounds in finance, mathematics, risk management, 
+insurance and law.  
+More members of staff are working on insurance sector regulation and 
+supervision in other functions (licensing, consumer protection, AML/CFT , etc) 
+and when these are included, the total ( full-time equivalent) staff involved in 
+insurance sector work is estimated at 38.   
+AFSA reviews staff numbers as part of its annual budgeting process, taking into 
+account workload and developments in the insurance market. It sets staffing 
+terms and conditions, including salaries, itself without reference to civil service 
+pay levels. AFSA benefits from an experienced staff with no recent losses of 
+staff other than through internal transfers due to reorgani sation. It supports 
+professional training and has an ann ual training plan covering education and 
+training and technical assistance from organisations such as the World Bank. 
+The Authority maintains its own IT tools and services, including an electronic 
+reporting and database system to handle the large volume of reports submitted 
+by insurers and intermediaries. The system does not meet all AFSA’s needs. 
+Hard copies of forms showing signature are still required. Supervisors rely 
+extensively on spreadsheets. Options for updating the system , which despite 
+AFSA’s status as a public legal institution independent of government  have to
+
+Public 
+be included within government procurement requirements, are being considered 
+with support from international agencies.  
+Outsourcing, etc 
+To date AFSA has not made use of external contractors or otherwise outsourced 
+supervisory work. It may, however, hire or contract the services of outside 
+experts when necessary, in which case they would be subject to the same 
+confidentiality rules (provided in their contracts) and professional standards as  
+staff (Article 14, paragraph 17 of the AFSA Law).  
+Assessment Largely Observed 
+Comments The revised legislative framework introduced in 2014 has given AFSA a high 
+degree of independence from government in law, which is matched by 
+independence in practic e, balanced by accountability to the public and to 
+Parliament. There are comprehensive provisions on legal protection of AFSA 
+and its staff and confidentiality of supervisory information. AFSA determines its 
+own organisation, budget and staff remuneration,  although the level of fees 
+charged to supervised entities, the source of its funding, are fixed in law. Staff 
+and financial resources appear adequate, taking into account the limited scale 
+and complexity of the insurance sector. AFSA’s decisions are subject to appeal 
+in accordance with general administrative law, which provides for access to the 
+courts. 
+It is recommended that: 
+• Increased budgetary flexibility be considered by the authorities to enable 
+AFSA (i) to set fee levels appropriate to its plans; and  (ii) to decide its 
+required level of reserves;  
+• Regulations on conflicts of interest be strengthened with post-employment 
+provisions applicable to staff (for example, requirements on how long after 
+resignation staff may take up roles in the insurance sector);  
+• AFSA develop its IT resources to ensure it remains able to efficiently and 
+effectively capture, analyse and report on insurance sector financial 
+information and manage its supervisory work; and 
+• The ability of AFSA to enforce all types of intervention pending the 
+completion of an appeal process be reviewed in the light of the outcome of 
+the case being taken by AFSA to the Supreme Court at the time of the 
+assessment.
+
+Public 
+ICP 3 
+Information Sharing and Confidentiality Requirements 
+The supervisor obtains information from, and shares information with, 
+relevant supervisors and authorities subject to confidentiality, purpose 
+and use requirements. 
+Description Information-sharing agreements 
+As noted under ICP 1, the Authority may conclude agreements or memoranda 
+of cooperation with other domestic or foreign financial supervisory authorities , 
+etc, including for sharing a wide range of information (Article 18/1 of the AFSA 
+Law and Article 236 of the Insurance Law). 
+• It has signed information exchange agreements with the Bank of Albania, 
+the Ministry of Finance, the Competition Authority, the Deposit Insurance 
+Agency and various government agencies. It has an agreement with the 
+Public Oversight Board  (POB), the audit oversight body in Albania, for 
+exchange of information about auditors. 
+• The Authority signed the MMoU with the IAIS in 2022 (the basis for 
+cooperation and exchange of information between signing authorities on the 
+supervision of insurers when cross-border aspects arise). The IAIS MMoU 
+commits signatories to requesting and providing information on insurers and 
+intermediaries supervised by signatories having a legitimate interest. 
+• AFSA has also signed bilateral agreements with foreign supervisors, 
+including the home supervisory authority of the foreign -owned insur ers 
+licensed by AFSA (all based in Austria) and with one foreign authority to 
+provide for sharing of information with in the framework of a college of 
+supervisors.  
+Although additional agreements are under development, AFSA considers that 
+the combination of bilateral MoUs and the IAIS MMoU provide the framework of 
+agreements appropriate to its current responsibilities.  
+AFSA does not currently publish MoUs on its website, but it intends to do so.  
+The Authority participates in supervisory colleges led by the Austrian Financial 
+Market Authority (FMA) for Austrian insurance groups (annually) and, as home 
+supervisor, leads supervisory colleges for Albanian groups (quarterly ; see ICP 
+25).  
+Information requested and received by AFSA 
+AFSA regularly requests information from foreign authorities in connection with 
+licensing and supervisory decisions, including when it is approving new board 
+members of an insurer (see ICP 5). There is an internal process for insurance 
+supervisors to generate such requests and transmit them to other authorities, 
+with Legal Department input as necessary.  
+AFSA Regulation No 114 of 11 September 2008 “On the confidentiality of the 
+Financial Supervisory Authority” sets out detailed requirements. Any information
+
+Public 
+received from foreign authorities cannot be shared with third parties without the 
+written prior consent of the foreign authority which provided the information.  
+If prior consent is not granted, AFSA has the obligation to use all legal means or 
+any other means to prevent the disclosure of th e information (Article 8.6 of 
+Regulation No 114 of 2008). AFSA does not have experience in practice of being 
+required to disclose confidential information, for example by a court decision.  
+Information requested of and provided by AFSA 
+Any information that the Authority provides to other supervisory authorities shall 
+be treated as confidential and used only for supervision purposes (Article 236 of 
+the Insurance Law). Regulation No 114 of 2008 sets out detailed requirements. 
+When AFSA receives a request for information, it must take all the necessary 
+measures to meet the request. If it cannot immediately reply, it has to notify the 
+requesting authority with reasons. The time limit for the reply  is within 10 days 
+following the receipt of the request (Article 8.2 of Regulation No 114 of 2008).  
+Regulation No 114 of 2008 also requires that a request to AFSA for information 
+include, amongst other details, the reasons for which the information is required 
+(Article 8.5).   
+In practice, AFSA regularly receives and responds to requests for information in 
+connection with licensing, supervision and enforcement work. There is an 
+internal process for AFSA to process requests and ensure information is shared, 
+in accordance with the requirements of the legislation, with Legal Department 
+input as necessary.  
+AFSA is willing to respond and has in practice responded to requests from 
+foreign agencies with which it has no bilateral agreement, subject to legislative 
+requirements on confidentiality and purpose being met. In addition to sharing 
+with domestic and foreign supervisory authorities, it has shared information on 
+auditors of insurers with the POB. 
+Article 18/1 of the AFSA Law provides for the Authority to conduct investigations 
+on behalf of foreign supervisory agencies at their request. In practice, AFSA has, 
+for example, undertaken on -site supervisory work on issues requested by the 
+home supervisor of foreign-owned insurers. AFSA’s practice is to share reports 
+of examinations with home supervisors.  
+Assessment Observed 
+Comments AFSA exchanges confidential information with a wide range of domestic and 
+foreign authorities in accordance with detailed provisions regarding the 
+protection of confidentiality and purpose of the information requests. It has a 
+wide network of exchange agre ements and has been a signatory of the IAIS 
+MMoU since March 2022.
+
+Public 
+ICP 4 Licensing 
+A legal entity which intends to engage in insurance activities must be licensed 
+before it can operate within a jurisdiction. The requirements and procedures for 
+licensing must be clear, objective and public, and be consistently applied. 
+Description Licensing requirements 
+The Insurance Law defines insurance activities which are subject to licensing 
+(the “drafting, offering, conclusion and performance of life and non-life insurance 
+contracts by an insurance company” – Article 4, paragraph 49 of the Insurance 
+Law). An insurer is defined as an insurance company underwriting a risk by 
+means of an insurance contract (paragraph 41). Only after a company has been 
+granted a licence by AFSA may it start to carry out insurance activity (Article 29 
+of the Insurance Law). 
+Insurers may engage in only those classes of insurance activity set out in their 
+licence. They may not undertake other types of commercial activity. Insurers 
+must provide only life or non -life insurance and not both (health insurance is 
+primarily a non-life activity, but may be provided by life insurers where linked to 
+life insurance contracts).  
+A reinsurance licence may be issued for the classes of life, non -life or both life 
+and non-life assurance. There is no specialist reinsur er licensed in Albania at 
+present. Insurers may also carry out reinsurance activity if licensed to do so by 
+AFSA (Artic le 6 of the Insurance Law). There is one insurer so licensed at 
+present.  
+There are some exemptions from licensing requirements. Article 10, paragraph 
+3 of the Insurance Law exempts the insurance of risks related to maritime and 
+air transport, reinsurance  of foreign investment, insurance of persons not 
+residing in the Republic of Albania, or otherwise provided in international 
+agreements. The objective is to ensure availability of insurance for risks likely to 
+be outside the capacity of Albanian insurers as well as access for Albanian 
+insurers to international reinsurance providers. AFSA is reviewing whether the 
+exemption may be framed too broadly or imprecisely, although it is not aware of 
+any abuse.  
+The Authority can impose a fine for carrying out insurance activities without a 
+licence or with a licen ce that does not include the activities being undertaken 
+(Articles 28–29 and Article 246, paragraph 1 of the Insurance Law). 
+The Insurance Law requires that insurers establish only as joint -stock 
+companies with the head office located in Albania (there is no provision for 
+mutual companies as a legal form). The law provides for foreign insurers to 
+operate via branches or, if from an EU member country , directly on a cross -
+border basis (Article 10, paragraph 1 of the Insurance Law). However, there is 
+also a provision that all relevant provisions of the Insurance Law apply to foreign 
+insurer branches as they do to domestic insurers (Article 42, paragraph 7). In 
+practice, all insurers operate as legal entities incorporated in Albania.
+
+Public 
+An insurer from a foreign country may open a representative office in Albania 
+upon AFSA’s approval (Article 44 of the Insurance Law).  
+AFSA’s Board is responsible for licensing decisions. The Licensing Directorate 
+is the unit within AFSA responsible for processing licen ce applications within 
+legal deadlines. The unit works with supervision staff and the Legal Department 
+on new insurer applications in preparation for decisions by the Board of AFSA.  
+Licence applications  
+Article 29 of the Insurance Law requires a two -part process for licensing: (a) 
+preliminary approval and (b) granting of licence.   
+Licensing requirements and procedures are set out in the Insurance Law 
+(Articles 30–44). Applicants must supply a wide range of information (Article 30) 
+and satisfy the Authority as a condition of preliminary approval (Article 33) on:  
+• The business plan, which should outline the objectives of the company for 
+at least the first three years of activity;  
+• When the applicant is part of a group, whether the corporate and group 
+structure enable appropriate supervision. In the case of foreign insurance 
+groups or groups with an Albanian parent, exchange of information between 
+the relevant supervisors and the allocation of responsibilities amongst those 
+authorities must be guaranteed (Article 50 of the Insurance Law); 
+• Whether the qualifying shareholders, members of the board of directors or 
+supervisory board, managing director, members of the management, 
+ultimate controllers and key persons in control functions satisfy fit and proper 
+criteria requirements; there are also requirements on conflicts of interest; 
+• The appropriateness of the organi sational structure, the internal audit and 
+risk management function, internal controls, and IT system; 
+• The staffing arrangements including the actuary (Article 223 of the Insurance 
+Law requires that before starting activity an insur er shall appoint an 
+authorised actuary and enable that actuary to perform the tasks set out in 
+the law); and 
+• Whether initial capital is equal to the guarantee fund (see IC P 17) and an 
+additional fund to cover costs of establishment, etc of no less than 5% of the 
+initial capital. AFSA also assesses the applicant’s ability to meet minimum 
+solvency margin requirements on an ongoing basis in the context of its 
+review of the business plan. There are restrictions on sources of capital and 
+applicants must satisfy AFSA on actual sources.  
+Timelines and scope of licence 
+AFSA must either grant or refuse an application (preliminary approval) within 
+four months and inform the insurer in writing of its decision (Article 32  of the 
+Insurance Law). In case of an application to extend a licensed insurer’s scope 
+of activity, the notification period is two months. AFSA may extend the deadline 
+if it finds deficiencies in the documentation, or if it otherwise deems it necessary.
+
+Public 
+The extension may not exceed one month and in all cases a licensing application 
+procedure should not be longer than four months.  
+The final licensing decision follows after the applicant has met all requirements, 
+including submission of its approval under company law, lists of directors as 
+appointed, etc (Article 35 of the Insurance Law). AFSA must make the decision 
+on the licensing application within two months from submission of the 
+documents. Under Article 35 of the Insurance Law, if an insur er does not meet 
+all the requirements provided in the law within six months from the preliminar y 
+approval decision date, AFSA shall refuse to grant the licence and revoke its 
+decision for granting preliminary approval.  
+Licences are issued for one or more particular class of insurance in accordance 
+with Annex I, Section A (non-life insurance classes) or Section B (life insurance 
+classes) of the Insurance Law. A licence issued on a class shall also be valid for 
+the coverage of ancillary risks under another class if the conditions in Article 6 
+of the Insurance Law are met (they must be related to the m ain risk, related to 
+the subject of the main risk, and covered by the same insurance contract).  
+AFSA has limited recent experience of licence applications. In the period since 
+the start of 2019, it has granted only one new licence, for a life insurer that is a 
+subsidiary of an existing non-life insurer. It has also rejected the applications of 
+one domestic and one foreign-owned applicant.  
+Lists of insurers, etc 
+Article 219 of the Insurance Law requires AFSA to keep a public register of 
+licensed agent companies, licensed brokerage companies, insurance agents  
+and insurance brokers, including information on the approved or licensed 
+persons of those companies. Article 29 of the AFSA Law requires AFSA to keep 
+open records for the public regarding insurers, insurance agents, etc. Actual lists 
+are kept on AFSA’s website. 
+Procedures for foreign insurers 
+Foreign applicant insurers must submit a copy of the licence granted in the home 
+country with financial statements of the last three years and evidence of 
+approval from the home supervisor to expand its operations to Albania. There is 
+no explicit requirement for AFSA to consult with other supervisors, but this is 
+observed in practice (See ICP 3). 
+The AFSA Law (Article 18/1) includes, amongst other types of information to be 
+shared, information on licensing. 
+Assessment Observed 
+Comments The licensing framework in the Insurance Law sets out appropriate requirements 
+and a process for granting licen ces as well as providing for action to be taken 
+against unlicensed activity. New applications are rare, but AFSA has used its 
+powers both to grant and to refuse applications in recent years.
+
+Public 
+It is recommended that AFSA complete its review of whether exemptions in 
+Article 10 of the Insurance Law are framed too broadl y or imprecisely and 
+propose amendments to the law, if appropriate.  
+ICP 5 Suitability of Persons 
+The supervisor requires Board Members, Senior Management, Key Persons in 
+Control Functions and Significant Owners of an insurer to be and remain suitable 
+to fulfil their respective roles. 
+Description Suitability requirements 
+Suitability requirements and the related AFSA powers are set out in the 
+Insurance Law (Articles 17, 20–21 and 24–25) and AFSA Regulation No 137 of 
+21 December 2015 “ On t he procedure, terms and required/additional 
+documentation for the approval of the appointment and reappointment of the 
+members of the board of directors/supervisory board, managing 
+director/members of the management board of the insurance company”.  
+There are also requirements on: 
+• Authorised actuaries in AFSA Regulations No 67 of 27 July 2009 “On 
+licensing the authorised actuaries of insurance companies”, No 37 of 27 
+March 2019 “On the renewal of the license of the authori sed actuary” and 
+No 198 of 2020 “On professional qualification and continuing education”; and  
+• Internal (and external) auditors in AFSA Regulation No 153 of 23 December 
+2014 “On the internal audit activity and the audit committee in an insurance 
+company”. 
+Scope 
+Article 17 of the Insurance Law identifies the persons who are expected to meet 
+suitability requirements: qualifying shareholders, members of the board of 
+directors (or, for companies with a two -tier board system – see ICP  17 – 
+members of the supervisory b oard), the managing director or (two -tier boards) 
+members of the management board, ultimate controllers (any person exercising 
+any influence on a licensee, either directly or indirectly through a third party) and 
+key functionaries of the insurer (defined as a department or directorate director, 
+an actuary or a head of the internal audit unit of an insurer).  
+Key persons in control functions  are not explicitly covered by the suitability 
+requirements except for the head of internal audit. However, AFSA interp rets 
+the definition of key functionary to include such persons, including heads of risk 
+management, compliance and actuarial (who will also be covered in practice as 
+an authorised actuary). The Authority expects insurers to identify all staff 
+covered by the scope of the requirements and may check during on-site work 
+whether they have done so in practice (see, however, ICP 8 on the requirements 
+for control functions).  
+Board members and managing directors  (unitary boards) of insur ers (but not 
+other key perso ns) may be appointed only after they have been approved by 
+AFSA (Article 21 of the Insurance Law). Regulation No 137 of 2015 sets out
+
+Public 
+AFSA’s procedures, including a requirement to decide on approval within 30 
+days from the date of notification of the Authority. AFSA’s practice is to interview 
+candidates for these roles and to discuss not only their qualifications and 
+integrity, etc but also their likely approach to undertaking the role. AFSA rejects 
+applications for approval in practice.  
+As noted, in the c ase of a unitary board, only the managing director and not 
+other members of senior management are subject to the Article 21 approval 
+requirements (and detailed suitability requirements for board members , etc in 
+Article 20 of the Insurance Law and Regulatio n No 137 of 2015 – see below). 
+However, all senior managers are captured by the definition of (and 
+requirements applying to) key functionaries.  
+With respect to actuaries, Articles 222 –25 of the Insurance Law set out a 
+regulatory framework, giving AFSA power to set requirements on qualifications 
+and training. Insurers must appoint an authorised actuary (Article 223) and 
+enable that actuary to perform the tasks set out in the law (Article 225). Only 
+authorised actuaries may provide actuarial services (Articl e 222). Authorised 
+actuaries may provide services for more than one company.  
+Fit and proper requirements  
+All persons covered by Article 17 of the Insurance Law are required to be fit and 
+proper to hold their actual or proposed new position.  
+AFSA is required (Article 17, paragraphs 2 and 4) to assess: 
+• the suitability of persons within scope, taking into account their position in 
+the insur er and whether they have integrity, honesty and commitment, 
+possess the necessary qualifications and professional exper ience and 
+maintain independence so that the insurer’s interests are not affected by any 
+conflict of interests; and 
+• their past behaviour and business or financial activity, considering whether 
+there is evidence of convictions for money laundering (for examp le) or of 
+financial losses due to dishonesty , etc or fraudulent business practices or 
+convictions for any other criminal offences in the past five years. 
+In the case of qualifying shareholders, the Authority must assess whether the 
+person is fit to hold the position and if they enjoy a sound financial position and 
+have integrity as well as their past behaviour and business or financial activity 
+(Article 17, paragraphs 3 and 4). In practice, the Authority assesses the financial 
+statements of new qualifying shareholders and carries out checks by reference 
+to the National Registry of Companies (which maintains the register of beneficial 
+ownership established in 2021, reporting to which is enforced with criminal 
+sanctions) and the credit registry of the Bank of Albania. A qualifying 
+shareholding is defined as 10% or more of the voting shares or exercise of 
+influence, but AFSA’s policy is to assess suitability of smaller shareholdings 
+also. 
+Candidates for membership of a board or managing director  position (unitary 
+board) are subject to detailed standards set out in Article 20 of the Insurance 
+Law. They must, for example, have a  professional master’s university degree
+
+Public 
+and the professional qualifications necessary to prudently manage the business; 
+and at least five years of professional experience in one of the fields of 
+insurance, accounting and jurisprudence. They may not be a member of the 
+board or a representative or employee or an internal or external auditor of 
+another insur er or intermediary. Regulation No 137 of 2015 sets out 
+requirements in more detail.  
+Authorised actuaries  are subject to detailed requirements in Article 222 and 
+Regulations No 67 of 2009 and No 37 of 2019 (see above). In addition to 
+requirements on integrity and reliability, they must have appropriate professional 
+qualifications in actuarial sciences or mathematics obtained in Albania 
+(University of Tirana) or abroad; and professional experience of no less than 
+three years continuously as an actuary in insurance. They must have passed a 
+test (conducted by a commission appointed by AFSA) on the insurance market 
+in Albania.  
+Authorised actuaries are also subject to continuous professional development 
+requirements (Regulation No 37 of 2019). The same requirements on suitability 
+apply where actuarial services are outsourced by the insur er as permitted 
+(subject to AFSA approval) under Article 53 of the Insurance Law (see also ICP 
+8).  
+The requirements for internal auditors are set out in Regulation No 153 of 2014 
+(see above). All me mbers of the Internal Audit Unit, including the head, must 
+have professional skills in implementing international standards of internal audit; 
+knowledge and/or experience in applying accounting standards and knowledge 
+of the principles of risk management. The head of the Internal Audit Unit must 
+have a high ethical and professional reputation and sufficient experience in the 
+field of insurance and audit. 
+There are no specific fit and proper requirements applicable to key persons in 
+risk management and compliance functions (see also ICP 8).  
+Obligations on insurers 
+Insurers are required to notify and seek the approval of AFSA for changes in 
+board members or managing directors (unitary boards ; Article 25 of the 
+Insurance Law). They must inform AFSA in writing of any changes to the 
+information on the basis of which a member of a board or managing director was 
+assessed and approved. In this case, if AFSA deems it necessary, it must 
+reassess the person (Articles 17 and 20).  
+Insurers are also required to inform AFSA about the appointment and dismissal 
+of board members and managing di rectors (unitary boards), key functionaries, 
+authorised actuaries and internal auditors (Article 131 of the Insurance Law). 
+There is no explicit requirement for the insurer to demonstrate initially , and on 
+an ongoing basis, the suitability of all persons covered by the requirements (ICP 
+5.3). Rather, the requirement in Article 17, paragraph 5 of the Insurance Law is 
+that the fit and proper requirements be complied with by the persons covered by 
+them (and the key requirement of Article 17 is that the Authori ty assesses 
+suitability). However, paragraph 5 of Article 17 also gives AFSA the right to ask 
+insurers to provide proof of persons being fit and proper, whenever it deems it
+
+Public 
+appropriate. AFSA takes the view that together with other provisions, this 
+requires insurers to take responsibility for suitability of all persons subject to the 
+requirements. AFSA can and does assess their procedures for doing so as part 
+of its on-site work at insurers.  
+Action where a person is no longer fit and proper 
+AFSA may take s upervisory measures whenever fit and proper requirements 
+are not met by those persons subject to the requirements (Articles 150 and 152 
+of the Insurance Law). AFSA may issue an order for the elimination of violations 
+and irregularities (Article 152). AFSA has issued such orders in practice.  
+Exchanges with other supervisory authorities  
+AFSA may exchange information with domestic or foreign authorities on the 
+individuals holding positions of responsibility at insurers and does so in practice 
+(Article 236 of the Insurance Law; see also ICP 3).  
+Assessment Largely Observed 
+Comments There are wide -ranging initial and ongoing requirements on suitability, which 
+cover senior management and key persons in control functions, even if not all 
+are explicitly listed in the legislation. AFSA places particular emphasis on board 
+members and managing directors (in the case of companies with unitary 
+boards), where there is a requirement for prior approval, which AFSA addresses 
+through interviews as well as other checks. Candidates have been rejected and 
+action taken when persons have been found no longer fit and proper.  
+To strengthen the requirements further, it is recommended that: 
+• Legislation be amended in future to include key persons in all four control 
+functions listed in the ICP explicitly within the requirements; 
+• Detailed provisions on suitability of key persons in compliance and risk 
+management functions be introduced to add to those existing requirements 
+for key persons in actuarial and internal audit functions;  
+• The scope of the approval requirements be extended to capture senior 
+management of companies adopting the unitary board system to align the 
+approach to that applying to companies with a two-tier board system where 
+management board members are all subject to approval; and 
+• Insurers be explicitly required to demonstrate initially , and on an ongoing 
+basis, the suitability of all persons covered by the requirements.
+
+Public 
+ICP 6  
+Change of Control and Portfolio Transfers 
+The supervisor assesses and decides on proposals: 
+to acquire significant ownership of, or an interest in, an insurer that 
+results in a person (legal or natural), directly or indirectly, alone or 
+with an associate, exercising control over the insurer; and 
+for portfolio transfers. 
+Description Change of control 
+The Insurance Law defines a qualifying holding as a direct or indirect holding of 
+voting shares by a legal or natural person, who holds 10% or more of the shares 
+with voting rights in the insur er’s capital or owns less than 10% but exerts 
+influence on the management of the insurer (Article 4 of the Insurance Law). 
+AFSA does not have experience of receiving applications for changes in control 
+in respect of an insurer under the 2014 Insurance Law.  
+Acquisition of a qualifying holding is subject to AFSA approval (Article 48 of the 
+Insurance Law). A qualifying holding acquired in violation of Article 48 is null and 
+void (Article 51) and AFSA may take appropriate measures  to protect 
+policyholders (Article 52). 
+In addition, any increase in a holding such that it reaches or exceeds 20%, 33%, 
+50% or 75% of the voting rights or participation in the capital of the insur er 
+requires AFSA’s approval. AFSA would respond to applications for approval in 
+a proportionate manner, giving more attention, for example, to increases that 
+would take the shareholding over 50% and give control.  
+A shareholder who has been granted approval must give prior notification to 
+AFSA of any decreases in the holding. 
+AFSA will take a decision on the approval or rejection of the application for the 
+qualified holding within two months from the submission of documentation 
+(Article 49 of the Insurance Law). AFSA would assess the suitability of the 
+proposed sha reholder and run checks, including at the new Register of 
+Beneficial Owners (see ICP 5). When the intermediate or ultimate beneficial 
+owner resides outside Albania, AFSA may exchange information with 
+corresponding supervisors (see ICP 3). 
+AFSA will deny the application if it assesses that it could jeopardi se the quality 
+of risk management of the insurer or that it would hinder effective supervision, 
+taking into account, in the case of foreign shareholders, the home country’s 
+implementation of legislation or legislative practices (Article 49 of the Insurance 
+Law). 
+Insurers are required to notify AFSA of the full list of their shareholders as well 
+as “influencing holdings” and changes in holdings (Article 131 of the Insurance 
+Law). Details of shareholders must  be reported quarterly (Regulation No 34 of 
+28 May 2015 “On periodic and compulsory reporting by insurance and 
+reinsurance companies”).
+
+Public 
+The insurance legislative framework does not recognise the mutual company as 
+a legal form of insurer (ICP 6.3). 
+Portfolio transfers 
+The transfer of all or a part of the insurer’s business is subject to approval by 
+AFSA (Article 45 of the Insurance Law). The Authority is required to assess the 
+financial position of the transferee and ascertain that the interests of the 
+policyholders will be protected.  
+AFSA does not have experience of receiving applications for portfolio transfers 
+under the 2014 Insurance Law.  
+AFSA may approve the transfer only if such approval will not jeopardi se the 
+insured persons’ and creditors’ interests (Article 46). 
+The transferee insurer must be licensed in the classes of insurance concerning 
+the transferred portfolio (Article 47). The transferee may be an Albanian insurer, 
+branch of a foreign insurer, EU member state insurer or insurer co-located with 
+the insured risk. Home supervisory approval is required in the case of a foreign 
+insurer branch. 
+Insurers are required to submit to AFSA portfolio transfer applications with 
+specified documentation including approvals from shareholders and board s of 
+the transferor and transferee companies, the list of contracts to be transferred 
+and valuation information and the transferee ’s business plan reflecting the 
+transfer. They must also submit the portfolio transfer agreement (Article 46 of 
+the Insurance Law). 
+AFSA’s assessment focuses on the adequacy of reserves and assets that 
+accompany the transferring portfolio; whether the transferee can meet the 
+solvency margin requirement and coverage of provisions with appropriate 
+assets after the transfer; and whe ther the transferee's activities and risk 
+management are likely to be jeopardised by the transfer. Approval will be denied 
+if the amount of assets covering technical and mathematical provisions of the 
+transferee is lower than the amount of provisions requi red for the portfolio 
+(Article 47 of the Insurance Law).  AFSA would also assess the impact on the 
+business model and financial position of the transferor.  
+Under Article 45 of the Insurance Law, insurers are required to notify affected 
+policyholders of the  transfer using public media in the territory where the risk 
+covered by the contracts is located, within 10 calendar days from the Authority’s 
+decision to approve the transfer. Policyholder consent is not required.  
+AFSA has one month to approve the transfer or reject it. A transferring company 
+shall transfer its insurance portfolio to the transferee within three months of the 
+Authority’s approval. 
+Assessment Observed 
+Comments AFSA has no experience of handing applications for changes in control or 
+portfolio transfers under the 2014 Insurance Law. However, the legislation sets 
+out the requirements for reporting, assessing and decision -making on such
+
+Public 
+applications, with appropriat e emphasis on ensuring that transactions do not 
+affect policyholders adversely. Although legislation focuses on the impact on the 
+transferee company, AFSA would assess the implications for the transferor also.  
+ICP 7 Corporate Governance 
+The supervisor re quires insurers to establish and implement a corporate 
+governance framework which provides for sound and prudent management and 
+oversight of the insurer’s business and adequately recognises and protects the 
+interests of policyholders. 
+Description Allocation of oversight and management responsibilities 
+Articles in the Insurance Law supplement the requirements in Law No 9901 of 
+14 April 2008 “On entrepreneurs and companies” (the “Corporate Law”):  
+• Article 18 of the Insurance Law requires insurer organisations’ structures to 
+“reflect an appropriate separation and clear designation of responsibilities.”  
+• Article 19 of the Insurance Law describes two board structures permitted in 
+the Albanian market – a single -tier structure that consists of a board of 
+directors with responsibility for both managing and supervising company 
+activities, and a two -tier structure that consists of a supervisory board with 
+supervisory functions and a distinct management board with managerial 
+functions. The two-tier structure is prominent in the Albanian market with the 
+single-tier structure only used by a couple of the smallest companies. 
+The responsibilities of insurer boards under both structures are described in Part 
+V, Title IV, Chapters II and III of the Corporate Law and Arti cle 22 of the 
+Insurance Law. These responsibilities include: 
+• Ensuring the insurer’s compliance with legislation; 
+• Establishing an internal controls and internal audit system in all areas of the 
+insurer; 
+• Supervising the management of the insurer’s risks; 
+• Ensuring the accuracy of the financial reports;  
+• Reporting to AFSA as required;  
+• Monitoring and supervising the implementation of business policies by 
+management (Article 154 of the Corporate Law); and 
+• Preparing the compensation scheme for management (Article  160 of the 
+Corporate Law). 
+Although the board duties include preparing the compensation scheme and 
+benefits for senior management, the Authority does not provide specific 
+requirements for this scheme for insur ers that address schemes that could 
+inappropriately induce excessive risk taking (ICP 7.6). The requirement also 
+does not extend beyond managing directors to include other employees whose 
+actions may have a material impact on the risk exposure of the insurer.
+
+Public 
+Article 8 of Regulation No 18 of 28 April 2015 “On the organization of the 
+insurance company risk management system ” lists the requirements of the 
+board with respect to the risk management of the insurer. The board is required 
+to ensure the existence of adequate systems and functions for risk 
+management, to supervise the risk management system to ensure 
+effectiveness, to approve the risk management policy (and review it at least 
+annually), to create an integrated culture for risk management in the insurer, to 
+ensure that the insurer carries out the  risk and solvency assessment at least 
+annually, and to ensure the establishment of a compliance function within the 
+insurer. Regulation No 18 of 2015 also describes the responsibilities of the risk 
+management committee of the board. 
+The responsibilities o f insur er management (management boards, managing 
+directors) are also described in Part V, Title IV, Chapters II and III of the 
+Corporate Law and Article 22 of the Insurance Law. These responsibilities 
+include: 
+• Ensuring the insurer’s compliance with legislation; 
+• Managing the insurer’s risks;  
+• Preparing financial statements and other reports as required by AFSA;  
+• Reporting to AFSA as required; 
+• Creating an early warning system with respect to developments threatening 
+the existence of the insurer; and 
+• Reporting to the board of directors with respect to implementation of 
+business policies and significant transactions. 
+Under Article 158 of the Corporate Law, duties of the board may not be 
+delegated to management.   
+Corporate culture, business objectives and strategies of the insurer 
+Insurers are required to submit to the Authority an updated business plan every 
+three years and an annual business plan each year that has been approved by 
+the board of directors (Article 4 of Regulation No 38 of 31 March 2016 “On the 
+content, method, terms of peri odic reporting and notification to the AFSA from 
+insurance companies”).  
+Article 31 of the Insurance Law describes the requirements for the business 
+plan, and includes: 
+• The insurer’s organisational structure; 
+• The insurance classes sold by the insurer; 
+• The insurer’s targeted market share; 
+• Details on the insurer’s distribution channels; 
+• Its reinsurance strategy; 
+• A detailed description of the insurer’s various expenses; 
+• Details on the insurer’s internal controls and risk management system;
+
+Public 
+• Information on the staff, including actuarial; 
+• Various estimates of business performance (premium, technical provisions, 
+forecasted balance sheet and income statement, required solvency margin 
+(including calculation methods); and  
+• An evaluation of the financial resources intended to cover the technical 
+provision. 
+The Authority assesses insurers’ corporate culture during interviews with board 
+members and senior management and during regular on-site inspections. 
+Structure and governance of the board 
+The Corporate Law provides basic requirements for the structure and 
+governance of boards of directors which are supplemented by additional 
+requirements in the Insurance Law specific to the board s of insur ers. The 
+Corporate Law requirements include: 
+• Avoiding conflicts of interest (Article 13 of the Corporate Law); 
+• The obligation to consider the interests of the company when exercising their 
+rights and duties (Article 14 of the Corporate Law); 
+• The board to be composed of an odd number of members (at least three but 
+not more than 21) with a majority that are independent and non -managing 
+(Article 155 of the Corporate Law); 
+• That each board meeting be recorded by minutes which the chair must sign; 
+• That the board should create committees, including committees with the 
+specific responsibilities to nominate managing directors, decide on the 
+remuneration of managing directors, and the audit of the accounting of the 
+company’s performance (the majority of each committee to be comprised of 
+independent non-managing directors (Article 161 of the Corporate Law); and 
+• The obligation to reimburse the company for damages related to violations 
+of their duties. 
+The Insurance Law provides clear requirements for the composition of insurer 
+boards and their internal governance practices and procedures. These include: 
+• For a single-tier structure, the board of directors is required to have at least 
+five members, an odd number of members, a managing director who is a 
+member of the board but who is different from the chair, and a majority of 
+directors who are non-executive members (Article 19 , paragraph 3 of the 
+Insurance Law); 
+• For a two-tier system, the supervisory board performs supervisory functions 
+and has a minimum of three members and the nu mber of members must 
+always be odd; the management board shall perform managerial functions 
+and be composed of at least three members. The members of the 
+management board cannot be the same persons as the members of the 
+supervisory board (Article 19, paragraph 4 of the Insurance Law); 
+• All members of insur er boards must meet the eligibility criteria set out in 
+Article 20 of the Insurance Law; these include minimum requirements for
+
+Public 
+education and relevant experience as well as prohibitions for people that 
+have conflicts of interests or have previously engaged in specific 
+illegal/unethical activities; and 
+• More broadly, Article 17 of the Insurance Law requires all board members 
+(including senior management) to be fit and proper to hold the particular 
+position (see ICP 5). 
+Additionally, all board members are interviewed by and must be approved  by 
+the Authority (Article 21 of the Insurance Law). Although an appropriate mix of 
+board members is not required by law, the Authority considers the qualifications 
+of the individual board member and also the overall composition and 
+competence of the board itself during its interview and approval process for 
+board members (see ICP 5). 
+External audit 
+According to the Article 135 of the Corporate Law, it is the duty of shareholders 
+to elect and dismiss the independent auditor. Article 154 requires boards to 
+ensure that an independent audit is performed at least annually. The 
+independent auditor’s report and the board’s required comment on the auditor’s 
+report must be submitted to shareholders annually.  
+Although Article 26 of the Insurance Law requires the audit committee of the 
+board to “nominate the external auditor, and review and monitor the 
+independence of the audit firm”, a more active role for the board, as descr ibed 
+in ICP 7.8, is not required by the Authority. 
+Information provision/reporting 
+Article 22 of the Insurance Law describes the board’s responsibilities, which 
+include “reporting and informing the Authority in compliance with the provisions 
+of this Law”. This requirement is supplemented by Regulation No 38 of 31 March 
+2016 “On the content, method, terms of periodic reporting and notification to 
+AFSA from insurance companies” , which details the reports the insurer is 
+required to file with the Authority. The information to be supplied to the Authority 
+includes various financial reports as well as information on the governance of 
+the insurer, including: 
+• Changes to the list of qualifying shareholders; 
+• The appointment and dismissal of board members, members of s enior 
+management, the authorised actuary and other key functionaries; 
+• Any changes to the functioning manner of internal audit; 
+• Changes related to the activities of insurer branches; 
+• Acquisitions of qualifying holdings of other insurers; 
+• Significant changes in the capital structure;  
+• The termination of activities of a particular insurance class; 
+• New reinsurance contracts; 
+• Business plan changes approved by the board; and
+
+Public 
+• New contracts signed with agents, agent companies, brokers, brokerage 
+companies, claims adjusters and authorised actuaries. 
+Duties of senior management 
+Article 158 of the Corporate Law sets out the basic requirements and duties of 
+managing directors (senior management), which include managing the 
+company’s business, representing the company, ensuring that the necessary 
+financial records are kept, signing and presenting to the board the annual 
+financial accounts, creating an early warning system to monitor threats to the 
+company, and reporting to the board on the implementation of business policies 
+and the performance of the company. 
+Article 22, paragraph 3 of the Insurance Law adds to the requirements in the 
+Corporate Law by describing the responsibilities of managing directors and (for 
+two-tier board systems) members of the management board for insurers. These 
+additional requirements include r esponsibility for the insur er’s compliance with 
+legislation, management of its risks, preparation of financial statements and 
+statistical reports of the insurer, and reporting to the Authority regarding 
+compliance with the Insurance Law.  
+Article 5, paragraph 2 of Regulation No 18 of 28 April 2015 “On the organization 
+of the insurance company risk management system”  requires senior 
+management to consult with the board regarding the risk appetite of the insurer. 
+Article 10, paragraph 3 of the same regulation  requires senior management to 
+provide reports to the risk committee of the board regarding the implementation 
+of policies, strategies, limits and processes of the risk management programme. 
+Supervisory review 
+The Authority requires insurers to demonstrate the adequacy and effectiveness 
+of their corporate governance frameworks through supervisory reporting and on-
+site inspections. Insurers regularly report to the Authority various details related 
+to the ir corporate governance (see Information provision/repo rting above). 
+Section III of the Insurance Law describes the supervisory practices of the 
+Authority. In addition to reviewing reports received by insurers, the Authority is 
+actively engaged in risk -based supervisory work that includes on -site 
+inspections. The Authority’s publicly available Risk Focused Supervision Manual 
+provides a description of how it expects insurers to demonstrate the 
+effectiveness of their corporate governance frameworks. 
+Groups 
+The current insurance groups within the Albanian market have simple 
+organisational structures that consist only of regulated legal entities. Because of 
+this, the Authority has applied the indirect approach to group -wide supervision, 
+focusing on the application of laws, regulations and supervisory practices at the 
+regulated legal entity level. 
+Regulation No 55 of 26 May 2017 “On the supervision of the insurance group”, 
+however, does describe a more direct approach to group-wide supervision that 
+the Authority can choose to employ as insurance groups operating in the market
+
+Public 
+become more complex. With respect to corporate governance, the regulation 
+requires that parent companies: 
+• Ensure entities of the group comply with all regulatory reporting 
+requirements, including providing a list of members of the manageme nt 
+board and directors of the controlled insurers that describes their level of 
+independence and involvement in other group entities (Article 8); 
+• Have ultimate responsibility for the prudent management of the insurance 
+group (Article 12); 
+• Have an authorised actuary that is liable to provide assurance to the parent 
+company board regarding the accuracy of the calculations and 
+appropriateness of the assumptions used to determine capital and required 
+solvency at the group level; 
+• Require that the external auditor report to the parent company board and the 
+Authority any matter that may harm the financial soundness of the group; 
+and 
+• Have clear criteria regarding the delegation of functions. 
+Regulation No 55 of 2017 also describes the Authority’s supervisory approac h 
+for groups, including: 
+• Assessing the business strategies between the parent company and the 
+entities of the insurance group; 
+• Assessing the adequacy, accuracy and transparency of group information; 
+• Assessing whether the parent company has internal processes for effective 
+management of the group, including those that describe the responsibilities 
+of managing bodies and directorates, and remuneration policies; 
+• Assessing whether the parent company has effectively defined requirements 
+for senior management to ensure that they are fit and proper and can 
+manage the activities of the group’s companies in a safe and sound manner;  
+• Assessing the overall structure of the insurance group for all significant 
+activities, including non-insurance activities, performed by any legal entity in 
+the group, both inside and outside of Albania; and 
+• Assessing whether the parent company provides effective management for 
+the group, including whether the parent effectively controls the activities that 
+are conducted outside of Albania. 
+Assessment Largely Observed 
+Comments The laws and regulations established for the broader business sector as well as 
+those established specifically to regulate insurers clearly describe requirements 
+related to corporate governance. The roles and expectations documented for 
+boards and senior management are appropriate and generally consistent with 
+ICP 7. 
+Notwithstanding the limited risks presented by products currently available in the 
+Albanian insurance market, it is recommended that board responsibilities in the
+
+Public 
+Insurance Law be expanded to include a specific requirement to approve written 
+remuneration policies for senior management and other employees whose 
+actions may have a material impact on the risk exposure of the insurer that do 
+not induce excessive or inappropriate risk-taking. 
+ICP 8  Risk Management and Internal Controls 
+As part of its overall corporate governance framework, the supervisor requires 
+an insurer to have effective systems of risk management and internal controls, 
+including effective functions for risk management, compliance, actuarial matters 
+and internal audit. 
+Description Effective risk management system 
+Article 27 of the Insurance Law requires insur ers to “establish a risk 
+management system, which shall identify and control risk s through policies, 
+implementation procedures and application of limits in order to monitor, control 
+and, where necessary, change the quality and level of activity on the basis of 
+risk”.  
+To support Article 27, the Authority issued Regulation No 18 of 28 April 2015 
+“On the organization of the insurance company risk management system”. This 
+regulation defines a risk management system for insurers  and describes the 
+required elements of the system, the risk management function and the 
+responsibilities of the board and senior management related to risk 
+management. 
+Amongst other elements, Article 5 of Regulation No 18 of 2015 requires each 
+insurer’s risk management system to include: 
+• A “strategic risk management document” consistent with the insurer’s 
+business strategy and approved by the board; 
+• Appropriate delegation of risk management responsibilities; 
+• A risk appetite that is approved by the board and clearly defines the 
+acceptable levels of risk at a high level and for each type of relevant risk, 
+including for insurance, market, credit, liquidity, operational, reinsurance, 
+outsourcing and group risks; 
+• Documented procedures to be followed in the event of deviation from the 
+risk management strategy or violation of the risk appetite; 
+• Appropriate policies approved by the board for specifying and classifying the 
+material risks that are reasonably foreseeable; 
+• Processes and tools, including models, whenever possible, for determining, 
+assessing, supervising, managing and reporting risks, and also contingency 
+and crisis management plans; and 
+• Procedures for regularly reviewing and improving the risk management 
+system. 
+Effective system of internal controls
+
+Public 
+Article 121 of the Insurance Law requires insur ers to “establish an internal 
+control system to monitor and implement internal policies and procedures, 
+evaluate the effectiveness of their activity, and monitor the conduct of activity in 
+compliance with the legislation” . The policies establishing the internal control 
+system are required to be documented and reviewed/revised at least annually.  
+Regulation No 135 of 31 October 2014 “On procedures and minimum principles 
+regarding the internal control system and other aspects of an insurance 
+company information system” builds upon Article 121 of the Insurance Law by  
+describing supervisory requirements and expectations in further detail. An 
+insurer’s internal control system, per this regulation, includes “the entirety of the 
+rules and principles of monitoring and assessing the adequacy and 
+effectiveness of the policies,  procedures and control mechanisms within an 
+insurance company and the quality of operations of its activity carried out by its 
+administration, management and control structures, and by persons performing 
+internal control functions”. 
+Article 6 of Regulation No 135 of 2014 requires that the insurer’s internal controls 
+be performed independently from the management of the business and be 
+commensurate with the size and risks of the insurer. 
+The Authority tests for effectiveness during on-site inspections. Article 246 of 
+the Insurance Law gives the Author ity the ability to a ddress fines against 
+insurers that have not established risk management and internal controls in 
+accordance with the laws and regulations. 
+Control functions 
+Article 121 of the Insurance Law describes the requirements for an insurer’s 
+internal control system. The key elements include: 
+• Insurers are required to establish an internal control system that identifies 
+the types of risks the company is exposed to, and measures, manages and 
+monitors those risks; 
+• The internal control system include s board -approved policies and risk 
+management, internal audit and, if relevant, outsourcing. These are revised 
+at least annually; and  
+• The internal control system is expected to be an integral part of the daily 
+activities of the insurer and includes contro ls within its organisational units, 
+verifications of assets and information, monitoring of compliance with laws 
+and regulations, verification of financial information, and periodic reviews of 
+the effectiveness of controls. 
+Each of the specific control functions (risk management, compliance, actuarial 
+and internal audit) have direct access to the board to communicate concerns 
+and issues. The heads of these functions are covered by the definition in the 
+Insurance Law of “key functionaries” (see ICP 5) and are subject to fit and proper 
+requirements, conflict of interest restrictions, and approval (and dismissal) by 
+the Authority (Articles 17, 23 and 30).  
+Each of these functions is also assessed separately by the Authority during its 
+inspections as described in its publicly available Risk  Focused Supervision
+
+Public 
+Manual. The assessment questions in the Manual include questions that  
+specifically assess the independence of these control functions. The Manual 
+also includes an assessment of whether the insure r has the necessary 
+resources to carry out its mission, but does not specifically include an 
+assessment of the sufficiency of resources allocated for control functions. 
+Risk management function 
+Article 27 of the Insurance Law requires insurers to establish a risk management 
+system to identify and control risks through policies, procedures, limits and 
+monitoring. Regulation No 18 of 28 April 2015 “On the organi zation of the 
+insurance company risk management system” provides additional details on the 
+requirements for an insurer’s risk management system. The regulation requires 
+the risk management function to be independent of the business line (Article 6.2) 
+and that risk management be “an integral part of culture and working 
+environment in the insurance company” (Article 6.3b).  
+Compliance function 
+The Authority places heavy emphasis on regulatory compliance during its off -
+site and on -site inspections. Both insur er boards and senior management are 
+explicitly required to ensure that the insurer complies with all relevant laws and 
+regulations (Article 22 of the Insurance Law).  
+Article 8 of Regulation No 18 of 28 April 2015 “On the organization of the 
+insurance company risk management system”  requires the insurer’s board to 
+“establish and guarantee the compliance function as an advisory function for the 
+board”. The role of the compliance function is to advise the board and senior 
+management on the company’s “compliance with relevant legislation and to 
+assess the impact that any change in the regulatory framework has on the 
+company’s activities”. 
+Actuarial function 
+Section V (Articles 222 –25) of the Insurance Law describes the roles and 
+responsibilities of actuaries. Insurers must appoint an authorised actuary (Article 
+223) and enable that actuary to perform the tasks set out in the law (Article 225), 
+including: 
+• Evaluating whether the insurer keeps appropriate data for the calculation of 
+technical provisions and reviewing the accuracy of the data; 
+• Reviewing the methods used for the calculation of technical provisions and 
+evaluating whether the technical provisions are sufficient to ensure coverage 
+of liabilities; and 
+• Reviewing whether insurance premiums have been calculated  in line with 
+regulations and actuarial professional standards. 
+Additionally, Article 112 of the Insurance Law requires the authorised actuary’s 
+report to include an opinion of whether the premiums, technical provisions, 
+assets covering technical provisions, guarantee fund, required solvency margin 
+and ceded reinsurance are in compliance with laws and regulations.
+
+Public 
+Internal audit function 
+Article 22 of the Insurance Law requires insurer boards to ensure the 
+establishment of an internal audit system that comp lies with all regulatory 
+requirements. 
+Additionally, Article 122 of the Insurance Law requires insur ers to establish an 
+internal audit unit as part of their internal control system. The responsibility of 
+the internal audit unit is to “employ an integrated and disciplined method for the 
+evaluation and enhancement of their governance, risk management and control 
+processes”. The article requires internal audit to be established as a unit 
+operating independently and objectively. It also requires that internal audit have 
+access to all functional areas of the insurer and have the status and policies 
+necessary to report its findings to the board. 
+Regulation No 153 of 23 December 2014 “On the internal audit activity and the 
+audit committee in an insurance company ” provides further requirements for 
+internal audit. Article 8 of the regulation requires the insur er’s internal rules 
+regarding internal audit to provide for: 
+• Independence in the decision-making of the head of the internal audit unit, 
+in planning and defining the audits; 
+• Unrestricted access to data on assets and any other necessary information; 
+• Direct contact of the head of the internal audit unit with the governing bodies; 
+and 
+• Avoiding any conflict of interests in performing internal audit tasks. 
+The duties of the internal audit unit include evaluation of: 
+• Information and reporting system, including technology and information 
+systems and data accuracy; 
+• Compliance of the insur er’s activity with the laws and bylaws, the 
+implementation of internal policies, internal regulations and procedures, and 
+the achievement of objectives set by the governing bodies of the insurer; 
+• Overall efficiency and effectiveness of the insurer’s activity; and 
+• The risk management system implemented by the insurer. 
+As with the heads of other control functions, the Authority interviews and 
+approves the head of internal audit and has the power to dismiss them if 
+circumstances warrant. 
+Outsourcing of material activities or functions 
+Article 53 of the Insurance Law states that insurers may, with approval from the 
+Authority, outsource claims handling/adjusting, actuarial services, 
+promotional/marketing services, IT services, accounting and management of 
+assets covering technical and mathematical provisions. It also specifically states 
+that the insurer is still responsible for the outsourced functions and that this must 
+be stipulated in the outsourcing contract. 
+Although activities may be outsourced to a non -insurance company, the 
+Authority maintains the right to supervise companies performing outsourced
+
+Public 
+activities (Article 55 of the Insurance Law). This includes performing inspections 
+and reviewing the financial records of companies performing outsourced 
+activities for insurers. 
+Regulation No 120 of 26 November 2015 “On criteria, rules and procedures for 
+the outsourcing of several functions by insurance companies ” provides 
+additional supervisory expectations and requirements regarding outsourcing. 
+Key statements from this regulation satisfying the ICP requirements include: 
+• “The outsourced person, to whom the functions of an insurance company 
+are outsourced to, shall be fit and proper to perform these functions, as if 
+they were performed by the insurance company” (Article 4.1); 
+• “The outsourced functions shall be carried out in such way as to not risk the 
+capacity, stability, continuity and quality of the activity of an insurance 
+company” (Article 4.2); and 
+• “In no case shall the outsourcing of functions avoid the responsibilities of 
+insurance company governing bodies” (Article 4.3). 
+Insurer board approval and approval of the Authority are required for a function 
+to be outsourced. Requirements on the selection of the outsourcing partner and 
+the documentation, governance and reporting required by the regulation are 
+consistent with ICP 8.8. 
+Groups 
+The current insurance groups within the Albanian market have simple 
+organisational structures that consist only of regulated legal entities. Because of 
+this, the Authority has applied the indirect approach to group -wide supervision, 
+focusing on the application of laws, regulations and supervisory practices at the 
+regulated legal entity level. 
+Regulation No 55 of 26 May 2017 “On the supervision of the insurance group”, 
+however, does describe a more direct approach to group-wide supervision that 
+the Authority can choose to employ as insurance groups operating in the market 
+become more complex. In addition to requiring capital adequacy to be calculated 
+on a consolidated basis (Article 5) and the reporting of intragroup transactions  
+(Article 6), the regulation also requires that parent companies: 
+• Ensure entities of the group comply with all regulatory reporting 
+requirements (Article 8); 
+• Have ultimate responsibility for the prudent management of the insurance 
+group (Article 12); 
+• Ensure that the insurance group maintains a level and quality of capital 
+commensurate with the group’s risks; 
+• Have an authorised actuary that is liable to provide assurance to the parent 
+company board regarding the accuracy of the calculations and 
+appropriateness of the assumptions used to determine capital and required 
+solvency at the group level; 
+• Adopt and implement internal control systems that provide monitoring at the 
+group level; and
+
+Public 
+• Require that the external auditor report to the parent company board and the 
+Authority any matter that may harm the financial soundness of the group. 
+Regulation No 55 of 2017 also describes the Authority’s supervisory approach 
+for groups, including: 
+• Assessing the overall structure of the insurance group for all sig nificant 
+activities, including non-insurance activities, performed by any legal entity in 
+the group, both inside and outside of Albania; 
+• Assessing whether the risks of the insurance group are effectively managed, 
+taking into account risks from entities other than the parent that could affect 
+the stability of the parent company in Albania; and 
+• Assessing whether the parent company provides effective management for 
+the group, including whether the parent effectively controls the activities that 
+are conducted outside of Albania. 
+Lastly, the regulation allows the Authority to take supervisory measure s for the 
+parent company in the case that activities of subsidiaries result in excessive 
+risks that threaten the security and stability of the insurance group. 
+Assessment Observed 
+Comments The Authority has established comprehensive requirements and expectations 
+regarding insur er risk management and internal control systems. Although 
+potentially burdensome for smaller insurers in a developing market, the laws, 
+regulations and supervisory practices in this area strengthen the industry and 
+have positioned insur ers and the Authority well as the market develops with 
+products and risks that are more complex.  
+ICP 9 Supervisory Review and Reporting 
+The supervisor uses off-site monitoring and on-site inspections to: examine the 
+business of each insurer; evaluate its financial condition, conduct of business, 
+corporate governance framework and overall risk profile; and assess its 
+compliance with relevan t legislation and supervisory requirements. The 
+supervisor obtains the necessary information to conduct effective supervision of 
+insurers and evaluate the insurance market. 
+Description Framework for supervisory review and reporting 
+AFSA has a documented s upervisory framework and defined rules and 
+conditions in primary legislation on the general framework for supervisory review 
+and reporting. Parts of the supervisory framework have been reviewed over time 
+in response to supervisory needs.  
+Article 18 of the  AFSA Law empowers AFSA to review the functioning of the 
+insurance market through: (i) permanent off -site monitoring (collecting, 
+analysing, and verifying information submitted by regulated legal entities); and 
+(ii) on-site (full scope or thematic) inspections. Furthermore, Articles 129–34 of
+
+Public 
+the Insurance Law enable communication between AFSA and insurers as well 
+as appropriate communication channels between AFSA and external auditors.  
+While the approach to off-site monitoring is set out in Regulation No 34 of 2015, 
+on-site inspections are defined in AFSA’s (published) Risk Focused Supervision 
+Manual and Instruction no 209 of 2021 “On the procedures of inspection in 
+supervised entities by AFSA”. Th e Manual describes the Authority’s approac h 
+towards off - and on -site monitoring and the cycle under which supervisory 
+priorities and insurer summary profiles are created. It provides documented 
+procedures as regards data collection, inspection planning, risk identification, 
+risk assessment and mitigation strategies as well as the process after inspection 
+findings have been identified.  
+There are requirements for regular (monthly, quarterly and annual) supervisory 
+reporting. Insurers must submit to AFSA their IFRS-based financial statements 
+(balance sheet, profit and loss statement, cash-flow statement, the structure of 
+assets, insurance reserves) and solvency information, as well as premiums and 
+claims by lines of business.  
+Both qualitative and quantitative methods are stipulated in the Risk Focuse d 
+Supervision Manual. Along with the information gathered from the monthly and 
+quarterly reporting, AFSA evaluates through an inspection -planning 
+questionnaire the need to further assess the insurer’s conduct of business and 
+corporate governance framework in order to have an understanding of its 
+technical operations, treatment of customers, corporate culture and further 
+internal processes. The answers to the questionnaire are taken into account 
+when determining the overall risk assessment.   
+AFSA’s risk ass essment is based on a methodology stipulated in the Risk 
+Focused Supervision Manual. The methodology is based on the identification of 
+higher-risk areas in insurers’ activities. The Manual sets out three separate 
+surveillance systems: 
+• Direct risk-based supervision by AFSA; 
+• Expectations of the performance of internal monitoring by the board and the 
+senior management, as defined by law, including the need for a well defined 
+enterprise risk management system in line with international practices; and 
+• A risk-based supervisory and monitoring system that applies to external 
+auditors and authorised actuaries.  
+AFSA has developed a Risk Matrix which provides an aggregate risk 
+assessment and classifies the risk profile of the insurer. The objective is to 
+enable AFSA and insurers to have a shared overview of risks and to provide for 
+consistency as regards recommendations and required actions. 
+AFSA’s organisational structure facilitates coordination of on-site inspection and 
+off-site monitoring activities. It has a single insurance department comprising 15 
+full-time equivalent  staff responsible for financial supervision (consumer 
+protection and AML/CFT work is undertaken in a separate unit – see ICP 2 and 
+organisation chart set out in the Annex – Institutional and market overview).
+
+Public 
+Group perspectives 
+The framework takes into account all entities identified within the scope of an 
+insurance group . H owever, the supervisory processes, including risk 
+assessment, planning, off-site and on-site work are not conducted at present on 
+a group basis. 
+Communication and coordination with other involved supervisors of a group 
+legal entity are defined in the Methodological Guideline “On insurance group 
+supervision” (Board’s Decision No 250 of 2018; see ICP 23). 
+Insurers that are parents of other insur ers are required to prepare and submit 
+consolidated audited financial statements. AFSA requires the insurers to correct 
+inaccurate reporting as soon as possible. Under Article 134 of the Insurance 
+Law, AFSA has the right to require more frequent reporting and additional 
+information from insurers as needed. 
+Supervisory plans 
+The annual supervision plans approved by the Board of AFSA define the 
+frequency, scope, and extent of off -site monitoring and on -site inspections. 
+Additional ad hoc inspections are approved by the General Executive Director. 
+The on -site inspections and off -site monitoring activities are coordinated by 
+AFSA’s Insurance Market Supervision Department.  
+Review of outsourced material activities or functions 
+AFSA is able to review outsourced material activities or functions in the same 
+way as it reviews non -outsourced material activities or functions (Article 55 of 
+the Insurance Law). Outsourced activities or functions are in practice reviewed 
+through the insurer itself in the same way as non-outsourced activities etc. AFSA 
+has not faced any limitations in supervising outsourced activities and functions 
+during on-site inspections or off-site monitoring.  
+Supervisory reporting 
+Insurers and reinsurers are required to submit audited financial statements and 
+reports. In addition, parent companies of an insur er shall prepare and submit 
+consolidated financial statements. Under L aw No 25 of 10 May 2018  “On 
+accounting and financial statements”, insurers are required to prepare financial 
+statements in accordance with IFRS. Furthermore, under Article 131 of the 
+Insurance Law, insurers must report on any material changes or incidents that 
+could affect their condition or customers.  
+Supervised entities must provide the Authority with any requested document and 
+information. Regulation 34 of 2015 defines the required regulatory periodic 
+reporting by insurers.  
+Off-site monitoring  
+AFSA’s supervisors maintain an ongoing communication with insurers to ensure 
+that requirements on the frequency and content of reporting are met. Current 
+off-site monitoring relies mainly on reported financial data submitted under the 
+monthly, quarterly and yearly required reporting. The reported data is reviewed 
+and analysed by the supervisors. During that process, analysts and inspectors
+
+Public 
+work closely together. In case of significant findings, a management letter is sent 
+to the insurer. Board decisions requiring corrective actions, etc may be issued 
+in more serious cases.  
+On-site inspection 
+The supervision activities are documented and accessible to supervisors and 
+management through AFSA’s internal management information system (MIS). 
+According to AFSA, each year 70% of all insurers are covered in the Authority’s 
+on-site activity, mostly by the inspection plan rather than through ad hoc on-site 
+work. 
+The on-site inspection process itself is defined in the Risk Focused Supervision 
+Manual, according to which the objective of inspection is to detect and prevent 
+violations of laws, etc, irregularities and errors and to take measures in due time 
+to remedy them. The inspection goal is based on the information provided by 
+off-site monitoring or any other information sources. The corresponding work 
+programme and the conduct of on-site inspections are described in the Manual. 
+On-site inspection teams are composed mainly of staff of the Insurance Market 
+Supervision Department. There is no distinction between on -site and off-site 
+staff. Experts from other departments are included, such as staff from the Legal 
+Affairs Department, IT  and the Licensing, Consumer Protection and Market 
+Conduct Department. 
+The on -site supervisory process is set out in the Risk Focused Supervision 
+Manual: 
+• Gathering and analysing financial filings, reports from auditors and 
+actuaries, information from the marketplace and other data on an ongoing 
+basis; 
+• Refining the risk profiles of insurers with the results of this analysis; 
+• Planning and executing on-site inspections using the risk profiles; and 
+• Further refining the risk profile of the institutions using information obtained 
+in the on-site inspections. 
+Supervisory feedback and follow-up 
+AFSA informs insurers in writing about the findings of on -site inspections and 
+off-site supervisory review from quarterly reporting in a timely manner. Detected 
+problems are addressed in the form of recommendations or board decisions.  
+Assessment Largely Observed  
+Comments AFSA has a clear supervision strategy and documented processes with regard 
+to its supervisory cycle in its Risk Focused Supervision Manual. In general, the 
+Authority implements its supervisory framework effectively and proportionately 
+according to the needs and level of market developmen t a s evidenced by 
+supervisory documents reviewed for the assessment ; however, the approach 
+remains relatively compliance-focused in practice.
+
+Public 
+Although AFSA already uses a wide range of information to evaluate insurers’ 
+conduct of business and corporate governance as well as their technical 
+operations, there is scope to develop a fuller assessment of corporate 
+governance, focusing on its effectiveness in practice. 
+It is recommended that AFSA: 
+• Enhance its evaluation of the effectiveness of insurers ’ corporate 
+governance frameworks through a qualitative approach; and  
+• Enhance discussion with insurers on their risk profile, based on its risk matrix 
+assessment (and taking into account insurers ’ own assessment of risk in 
+their risk evaluation report s), in the course of supervisory feedback and 
+communicate its findings and views on the risk profile to insurers more fully, 
+focusing on delivering improvement to their risk measurement management.  
+ICP 10 Preventive Measures, Corrective Measures and Sanctions 
+The supervisor: 
+requires and enforces preventive and corrective measures; and 
+imposes sanctions, 
+which are timely, necessary to achieve the objectives of insurance supervision, 
+and based on clear, objective, consistent, and publicly disclosed general criteria. 
+Description Insurance activities without the necessary licence 
+AFSA takes actions against identified entities that conduct insurance activities 
+without a licence and has the power to take supervisory measures against those 
+doing so as set out in Articles 149, 246, 248, 249 and 251 of the Insurance Law. 
+Furthermore, unlicensed activities are subject to Albanian criminal law. Staff in 
+the AFSA Legal  Affairs Department as well as supervisors monitor for and 
+respond to instances of unlicensed insurance.  
+Preventive and corrective measures  
+Articles 150–51 of the Insurance Law comprehensively define the circumstances 
+for taking supervisory measures and addressing serious violations of 
+supervisory requirements. They include where the Authority “deems that a threat 
+is posed to the interests of the insured and/or that the level of capital is not 
+sufficient in accordance with the provisions of Articles 80 an d 81 of this Law ” 
+(Article 150).  
+Articles 152 and 153 of the Insurance Law then stipulate escalating measures 
+that AFSA may take when it identifies that the circumstances in Article 150 apply.  
+In addition, when the insurer’s capital is inadequate or the interests of insureds 
+are jeopardised, the Authority may require insurers to submit a three -year 
+financial recovery plan with detailed estimates and actions (Articles 82 and 83 
+of the Insurance Law) . The financial recovery plan shall be submitted to the 
+Authority for approval within the time  limits specified by the Authority. The
+
+Public 
+Authority shall take a decision to approve or reject the financial recovery plan 
+within one month from the date of its submission. 
+The AFSA Law (Articles 31 and 32) also enables AFSA’s Board to issue orders 
+concerning preventive measures and/or elimination of violations.   
+The escalating measures which AFSA may take under  Article 152 include one 
+or more of:  
+• Instructing the insurer to stop performing the specific action or to pursue a 
+specific business ethical conduct, or to perform a specific action which, in 
+the opinion of the Authority, is necessary to improve the situation and/or 
+prevent or correct the violations; 
+• issuing an order for the elimination of violations; 
+• requiring the insurer to submit a financial recovery plan; 
+• requiring alternative external audit authorised by AFSA; 
+• requiring a special audit to company procedures; 
+• appointing an AFSA-approved person to advise the insurer; 
+• asking for a revaluation of assets; 
+• requiring an examination by an external actuary; 
+• requiring the insurer to increase reinsurance capacity; 
+• requiring the recalculation of solvency; 
+• putting the insurer or its assets under provisional administration; and 
+• revoking the licence partly or in full. 
+Article 153 further provides a detailed list of orders that AFSA may issue to 
+eliminate the violations. It may: 
+• order the insurer to implement an action plan that ensures the guarantee 
+fund level; 
+• request that the insurer undertake or stop specific actions; 
+• order the insurer to convene the shareholders’ meeting and propose specific 
+resolutions; 
+• prohibit the insurer from signing new policies or request that they maintain a 
+specific level of premiums; 
+• prohibit the insurer from making specific types of payments or transactions; 
+• order the insurer  to improve risk management procedures, change 
+objectives, limit loans, reduce receivables, c arry out a fair valuation of 
+financial items, improve the IT system, improve internal controls and audit; 
+• prohibit the insurer from free use of a part or all of its assets; 
+• order the insurer to maintain sufficient assets within the territory of Albania;
+
+Public 
+• prohibit the insurer from assuming financial liabilities from third parties; 
+• prohibit the insurer from paying or transferring amounts to other persons; 
+• prohibit the insurer from borrowing, payment of dividends, management 
+fees; and 
+• order the insurer to dismiss or replace directors, board members, persons in 
+key functions. 
+AFSA takes actions in practice. During 2021, AFSA’s Board took 26 decisions 
+on administrative and corrective measures against regulated legal entities in the 
+insurance sector (including intermediaries – see also ICP 18) as a result of 
+findings from financial analysis and from results of on-site inspections as well as 
+licence suspensions or revocations: 
+• 17 decisions on corrective measures and fines (15 insurers and two agents’ 
+companies);  
+• two decisions on licence suspension for individual agents;  
+• one licen ce renewal rejection and one licen ce revocation for i nsurance 
+claims adjusters; and 
+• six licence suspensions for insurance claims adjusters. 
+Assessing the effectiveness of the insurer’s actions 
+Article 154 of the Insurance Law requires that the insurer reports on the 
+implementation of AFSA’s orders. The insurer must submit a detailed report on 
+the corrective measures undertaken within the time  frame defined by the 
+Authority. Along with the report, the insurer must submit any other document or 
+evidence proving the elimination of violations or irregularities. If  required by 
+AFSA, the insurer must also submit a report of the auditors. 
+Article 152 of the Insurance Law enables AFSA to reject the appointment of an 
+external auditor where it has evidence of inadequate expertise and issues with 
+independence, conflicts of interest or professional conduct. 
+Should an insurer fail to implement corrective measures, AFSA has the power 
+to enforce: (a) provisional administration under Article 161 of the Insurance Law 
+(see ICP 12); and (b) revocation of the licence (Article 155). Extensive conditions 
+for a decision to revoke an insurer’s licence are specified in Article 155, including 
+failure to comply with an order of the Authority, failure to comply with the 
+conditions under which the company was licensed and insolvency. Partial 
+revocation (revoking the licence only for one or several specific classes of 
+insurance) is also provided fo r (Article 156). Articles 157 to 160 set out 
+revocation procedures and provide for publication of licence decisions.  
+Furthermore, under Article 175, AFSA may escalate the measures by opening 
+compulsory liquidation procedures (see ICP 12).  
+Sanctions 
+Sanctions available to AFSA (ie which it may take as administrative measures) 
+are listed in Articles 245–57 of the Insurance Law with provisions setting out the
+
+Public 
+amount of financial penalties, the applicable violations and processes to be 
+followed. The sanctions mentioned only include fines.  
+The fines may apply to insurers (in amounts of Albanian lek (ALL) 2 million to 3 
+million), and (in generally smaller amounts) to individuals, including board and 
+management members, insurance agents and brokers, authorised actuaries, 
+claims adjusters, as well as insurance groups (controlling members) . AFSA is 
+required to ensure that the fine is effective and preventive and proportionate to 
+the situation resulting in the imposition of the fine. It must specify the amount of 
+the fine in accordance with the  Insurance Law, taking into account the nature 
+and scope of the violation and its impact on the interests of the insured. It must 
+apply the “principle of consistency”, under which similar sanctions are imposed 
+for similar violations.  
+Provisional administrators are also subject to fines if they fail to comply with their 
+reporting and administration obligations. 
+As noted above, AFSA imposes fines in practice.  
+Assessment Largely Observed    
+Comments AFSA has access to a comprehensive set of supervisory measures to address 
+the violation (or risk of violation) of regulatory requirements by insur ers. The 
+Insurance Law sets out the circumstances in which actions may be taken and 
+the range of  corrective measures. In extreme cases, AFSA may impose 
+provisional administration or revoke an insurer’s licence.  
+Financial penalties may be imposed , including on individuals, where sanctions 
+are required in cases of violation of requirements. They are published on AFSA’s 
+website. Warnings may be (and are in practice) also issued by AFSA and they 
+too are published. The level of fines set out in the Insurance Law, which do not 
+exceed the equivalent of around USD 30,000 for an insurer, for example,  
+appears low to be a credible deterrent and while they take into account the 
+nature of the offence, they are not scaled to the size of the insurer, which varies 
+significantly.  
+It is recommended that i n order to ensure sanctions have a deterrent effect , 
+AFSA should review whether fines are effective at their current level and 
+propose legislative change, if necessary.  
+ICP 12 ICP 12 Exit from the Market and Resolution 
+Legislation provides requirements for: 
+The voluntary exit of insurers from the market; and 
+The resolution of insurers that are no longer viable or are likely to be no longer 
+viable, and have no reasonable prospect of returning to viability. 
+Description There is no formally identified resolution authority for insurers in Albania and 
+relevant powers are exercised by AFSA, mainly powers to withdraw the licence 
+and initiate provisional administration and liquidation of an insurer.
+
+Public 
+The Insurance Law sets out  the framework for insur er resolution. The general 
+bankruptcy law exempts from its provisions insurers and other financial 
+institutions “for which the bankruptcy proceeding is regulated in a special law” 
+(Article 7 of Law No 110 of 22 November 2016 “On bankruptcy”). The 
+implications for and possible required amendments to the Insurance Law were 
+the subject of expert advice being provided to the Authority at the time of this 
+assessment.  
+AFSA has no experience to date of voluntary liquidation or the resoluti on 
+procedures set out in the Insurance Law being used in practice. (It notes that a 
+similar legislative framework in Kosovo has been used in two cases of resolution, 
+including to resolve the branch of an Albanian insurer, without detriment to 
+policyholders or risks to financial stability.)  
+There is no policyholder protection scheme in Albania that would make 
+payments in case of policyholder loss in the failure of an insurer. 
+Voluntary liquidation 
+The Insurance Law provides various ways in which insurers can exit the market, 
+including voluntary liquidation (Articles 169 to 174 of the Insurance Law).  
+• The insurer’s board may initiate voluntary liquidation by applying to AFSA 
+with documents setting out the reasons for the liquidation, the names of 
+nominated liquidators, and a report on the handling of any compensation 
+claims during the liquidation, revenues and expenses, and an estimate of 
+the required time (Article 169).  
+• AFSA has 30 days to make its decision (Article 169).  The shareholders’ 
+general meeting of the company may only then formally decide to wind up 
+the company. 
+If the liquidators assess that the insur er is insolvent, they must inform the 
+Authority and submit a proposal to it to open bankruptcy proceedings (Article 
+173). 
+Resolution 
+Where an insurer is facing financial difficulties, there are three tools: provisional 
+administration, mandatory (ie AFSA-initiated) liquidation and bankruptcy. AFSA 
+is required to use these tools in circumstances prescribed in the law. Provisional 
+administration, if it does not lead to the restoration of a stable financial position 
+for the insurer, may be followed either by mandatory liquidation initiated by AFSA 
+or a proposal by AFSA to open bankruptcy proceedings, which is required where 
+the insurer is (or is assessed to be) insolvent. 
+(i) Provisional administration 
+AFSA shall decide to restore an insur er’s financial situation, avoiding a 
+mandatory liquidation by putting it under provisional administration (Article 161 
+of the Insurance Law).  
+It shall do so when an insurer has failed to start implementing supervision 
+measures required under Articles 152 and 1 53 of the Insurance Law (see ICP 
+10) or has not implemented them within the time specified by the Authority; or
+
+Public 
+where it has not yet reached the required solvency margin or does not comply 
+with the solvency margin and guarantee fund requirements (see ICP 1 7); or 
+where further activity of the insur er endangers its liquidity, solvency or security 
+for the insured (Article 161 of the Insurance Law). 
+• The provisional administrators are appointed by the Authority (Article 162) 
+and assume all the responsibilities o f the board of directors/supervisory 
+board (Article 164). The Authority may give them instructions (Article 164).  
+• The provisional administrators are required to submit to AFSA within nine 
+months a report on the financial position of the insurer,  including an 
+assessment of prospects of its recovering as a going concern (Article 166).  
+• Based on the report, the Authority shall instruct the provisional administrator 
+to convene a general meeting of the insurer and propose a capital increase 
+if it deems this necessary (Article 167). 
+(ii) Mandatory liquidation  
+AFSA shall decide to open mandatory liquidation proceedings against an insurer 
+where (under Article 175 of the Insurance Law):  
+• the licence to carry out insurance activity has been revoked; or 
+• the Authority assesses that during the provisional administration the financial 
+position of the company has not improved to the extent that the insurer has 
+reached the solvency margin; or 
+• the shareholders’ general meeting of the insur er does not approve the 
+decision to increase the capital of the insur er or approves it but shares 
+cannot be sold.  
+AFSA appoints liquidators and specifies their goals and duties (Article 176) and 
+the liquidators inform creditors, including policyholders (Article 177). During the 
+mandatory liquidation proceedings, the powers of the board and general 
+shareholders’ meetings are transferred to AFSA (Article 178). The insurer must 
+cease all new business and renewals. Detailed responsibilities of the liquidator 
+are set out in company la w (Article 197 of Law No 9901 of 14 April 2008 “On 
+entrepreneurs and companies”) and other provisions of that law apply to the 
+insurer liquidation process. 
+(iii) Bankruptcy 
+Under Article 183 of the Insurance Law, the Authority shall propose to open 
+bankruptcy proceedings where:  
+• it assesses that during the provisional administration the financial position of 
+the insurer has not improved and it cannot meet its current liabilities; or  
+• in the course of supervising the insurer, even after the supervision measures 
+have been taken its assets are found to be insufficient for meeting liabilities 
+towards creditors; or 
+• an insurer is overloaded with debt and, therefore, is not able to continue its 
+activity and meet its obligations towards creditors when they fall due; or
+
+Public 
+• the shareholders’ general meeting rejects the proposal of the provisional 
+administrator for the capital increase; or 
+• it finds, in the course of supervising an insurer, another cause for bankruptcy 
+in accordance with the provisions of the Insurance Law.  
+It is unclear how bankruptcy proceedings would be handled in practice. The 
+Authority’s role in the Insurance Law is limited to proposing to open proceedings. 
+However, as noted above, Law No 110 of 22 November 2016 “On bankruptcy”, 
+which provides for a court -administered process – which would be outside the 
+control of the Authority (ICP 12.8) – explicitly exempts insurers.  
+Powers 
+The Insurance Law in combination with company legislation provides a range of 
+powers to facilitate orderly liquidation.   
+There is no provision for mechanisms (such as portfolio transfers, including to a 
+bridging institution, if necessary) that would facilitate continuity of cover for any 
+types of insurance contract in case of resolution ; nor does AFSA have powers 
+to restructure, limit or write down  an insurer’s liabilities. AFSA takes the view 
+that continuity of cover, likely to be most important in the case of MTPL policies, 
+could be provided by the use of portfolio transfers as provided for in Article 45 
+of the Insurance Law (see ICP 6) or by policyholders seeking replacement cover 
+in a competitive market which has many alternative providers. 
+Priority of policyholder claims  
+Policyholders and insurance beneficiaries rank ahead of general creditors. 
+Under Article 186 of the Insurance Law, when bankruptcy proceedings start, 
+insurance claims have priority over other liabilities in the following order: 
+• claims under life assurance contracts and similar; 
+• claims under non -life assurance contracts occurring before the opening of 
+bankruptcy proceedings; 
+• the refund of paid premiums f or the period to the expiry of those insurance 
+contracts; and 
+• claims resulting from the insurer’s obligations to the MTPL compensation 
+fund.  
+In addition, Article 184 of the Insurance Law provides that in bankruptcy 
+proceedings the insured and beneficiaries shall be referred to as creditors and 
+their claims shall have priority over other liabilities of the insurer.  
+For life insurance, there are also specific provisions in Articles 187 –91. I n 
+bankruptcy proceedings, p olicyholders are entitled to payment of their claims 
+from the assets covering mathematical provisions, which are to be reserved for 
+them. If these assets are insufficient, then payment of claims is reduced 
+proportionately across all insurance contracts (Article 188).
+
+Public 
+Planning  
+There are no requi rements on insurers to evaluate prospectively their specific 
+operations and risks in possible resolution scenarios and to put in place 
+procedures for use during a resolution (ICP 12.3). AFSA takes the view that such 
+requirements are not necessary given the nature of insurance products and risks 
+and the approach that would be taken to resolution in practice.  
+Cooperation with other authorities, groups and foreign branches  
+AFSA is the responsible authority involved in overseeing the exit of insurers from 
+the market. As noted under ICP 3, it has the necessary powers and the 
+agreements with other jurisdictional and foreign authorities to exchange 
+confidential information, including for management of the exit of an insurer. 
+While it has no experience of exits fr om the Albanian market under the current 
+legislative framework, it cooperated with the authorities in Kosovo in the exit 
+from that market of the branch of an Albanian insurer.   
+In the case of foreign insurers’ branches in Albania (there are none – see ICP 
+4), AFSA’s authority and powers would apply in the same way as for locally  
+incorporated companies. Regulation No 54 of 26 May 2017 “On compulsory 
+liquidation of an insurance company branch, of a foreign country and an EU 
+Member country” determines the rules of compulsory liquidation of such 
+branches, including a branch of an EU member country insurer (designed for 
+when Albania is a member).  The Regulation provides for communication and 
+cooperation between authorities in the case of mandatory liquidation procedures 
+for a branch.   
+There are no specific provisions on resolution of insurance groups with a 
+domestic (Albanian) insur er parent. In case of the failure of a group, 
+individual insurers would be subject to separate resolution actions. 
+Assessment Partly Observed 
+Comments The insurance legislation sets out clear procedures for voluntary exit, provisional 
+administration and mandatory liquidation in prescribed cases that would equip 
+AFSA to require the exit of an insurer that is no longer viable, taking into account 
+the nature of current insurance products and markets. (It has no experience of 
+exits in practice under the current legislation.)  
+In relation to bankruptcy (where an insurer is assessed to be insolvent), reforms 
+to the general bankruptcy law in 2016 recognise that insurers should be exempt 
+where subject to their own regulatory arrangements. However, the Insurance 
+Law has yet to be updated to specify how bankruptcy carried out under that law 
+would work. Extern al expert advice was being taken at the time of the 
+assessment and is likely to lead to appropriate amendments to the Law. It will 
+be important to ensure that these preserve the existing policyholder preference 
+provisions that apply in bankruptcy.   
+It is recommended that AFSA: 
+• identify the amendments required to the Insurance Law to ensure there are 
+appropriate liquidation/bankruptcy arrangements specific to the insurance
+
+Public 
+sector, as required in the general bankruptcy law, ensuring the continued 
+protection of policyholders, and seek legislative change; and 
+review, as part of this process, whether to seek additional powers for effective 
+resolution of insurers (such as those set out in ICP 12.7), notwithstanding that 
+existing powers appear adequate to the nature, scale and complexity of current 
+insurers in the Albanian market.    
+ICP 13 Reinsurance and Other Forms of Risk Transfer 
+• The supervisor requires the insurer to manage effectively its use of 
+reinsurance and other forms of risk transfer. The supervisor t akes into 
+account the nature of reinsurance business when supervising reinsurers 
+based in its jurisdiction. 
+Description Reinsurance programme 
+Reinsurance is the primary tool in the Albanian market for managing insurance 
+risks. As such, insurers are required to have a reinsurance programme that is 
+included within their business strategy (Article 31 of the Insurance Law).  
+Article 116 of the Insurance Law requires insurers to reinsure risks in excess of 
+their maximum coverage (maximum coverage is limited to 10% of capital as 
+specified in Article 75). Article 117 requires insurers to prepare a reinsurance 
+needs programme each year that includes spec ific elements related to risk 
+management and capital management. These include the requirements that the 
+programme contain at least: 
+• The calculation of net retained risks for each insurance class; 
+• Maximum retention and coverage by line of business; 
+• Evaluation of the net retention of aggregate maximum coverage for 
+earthquake risks; 
+• Internal procedures, technical basis; and 
+• Criteria used to determine the maximum retention for the other aggregate 
+and accumulated risks. 
+The Insurance Law is supplemented by Regu lation No 85/1 of 30 September 
+2015 “On reinsurance criteria”, which further describes the Authority’s 
+requirements. Regulation No 85 /1 focuses primarily on the credit quality 
+requirements of reinsurers and the Authority’s review and approval of 
+reinsurance contracts. 
+Reinsurance is required to be part of the insurer’s overall risk and capital 
+management strategies, and is also required t o be reflected in the insurer’s 
+liquidity risk management metrics (Regulation No 56 of 28 April 2016 “ On 
+liquidity management by insurance and reinsurance companies”).  
+In addition to the annual reinsurance programme, the Authority also requires 
+insurers t o submit regulatory reports for each reinsurance agreement. The 
+requirements for these reports are prescribed in Regulation No 34 of 28 May 
+2015 “On compulsory and periodic reporting of insurance and reinsurance
+
+Public 
+companies” and include information that the Authority uses to substantiate 
+economic risk transfer. 
+The Authority thoroughly reviews reinsurance contracts and insur er adherence 
+to reinsurance contracts during on-site inspections. The Authority has published 
+a distinct supervision manual for reinsuran ce describing its supervisory 
+approach. 
+Consideration of foreign reinsurers 
+Regulation No 85/1 of 2015 defines credit quality in terms of credit ratings and 
+the nature of regulation. It assigns the lowest credit quality to reinsurers that are 
+not supervised by Solvency II equivalent regimes. This severely limits the use of 
+these reinsurers and , together with the other requirements in the Regulation, 
+provides assurance to the Authority regarding the level of supervisory oversight 
+and capitalisation for reinsurers used by Albanian insurers.  
+Issues regarding risk transfer to capital markets 
+The Authority does not allow insur ers to transfer insurance risk to the capital 
+markets. 
+Assessment Observed 
+Comments The appropriate use of reinsurance supports a developing insurance market like 
+that in Albania. The Authority has established laws, regulations and 
+supervisory practices that result in effective management of an insurer’s 
+reinsurance programmes. This effec tiveness and the quality of the 
+Authority’s supervision was proven during recent severe earthquakes where 
+the insurance industry performed well and fulfilled its obligations without 
+incident. As the insurance market continues to develop, the Authority may 
+want to consider minimum retention limits for some lines of business where 
+retention would promote good risk management and market development, 
+recognising that in other lines such as earthquake insurance, high levels of 
+reinsurance are likely to remain prudent. 
+ICP 14 Valuation 
+The supervisor establishes requirements for the valuation of assets and 
+liabilities for solvency purposes. 
+Description General framework 
+Article 80 of the Insurance Law sets out requirements for the calculation of the 
+insurer’s solvency margin: the minimum solvency margin shall be calculated in 
+accordance with the methods laid down in regulations by the Authority. Articles 
+109–11 set out general requirements on accounting and financial reporting, 
+providing that insurers maintain accounting records, value assets and liabilities, 
+prepare financial statements, keep documentation, etc. Article 110 requires that 
+insurers ensure that this information, documentation and data are accurate and 
+reflect their real financial situation truthfully.
+
+Public 
+There are similar provisions in Article 5 of Law No 25 of 2018  “On accounting 
+and financial statements”. 
+Article 11 1, paragraph 1 of the Insurance Law requires insur ers to prepa re 
+financial statements and other detailed reports on their activities and to submit 
+them to AFSA in accordance with the form, manner, content, list, period and 
+time limits specified by AFSA Regulation No 34 of 28 May 2015 “On compulsory 
+and periodic reporting of insurance and reinsurance companies”.  
+Insurers must value assets and liabilities in accordance with IFRS , the use of 
+which is mandatory for insurers under the general accounting legislation . 
+However, the methods of carr ying out the valuation of technical provisions are 
+set out in AFSA’s Regulation No 9 of 25 January 2016 ( “On the bases and 
+methods of calculation, methods of maintaining technical provisions, and their 
+criteria and procedures of approval by the Authority” – for non-life insurers) and 
+Regulation No 187 of 24 November 2016 ( “On the bases and methods of 
+calculating mathematical provisions, methods on the maintenance of 
+mathematical provisions and the criteria and procedures for their approval” – for 
+life insurers). Regulation No 34 of 2015 (see above) also specifies valuation 
+requirements for the purposes of reports made to AFSA. 
+Albania will be adopting IFRS 17, the new accounting standard on insurance 
+contracts, which is effective for annual reporting periods beginning on or after 1 
+January 2023. At the time of the main assessment work, AFSA and the 
+accounting and auditing profession were considering how this will be 
+implemented in practice , but AFSA has not published any material on 
+implementation issues as yet.6   
+The calculation of technical and mathematical provisions must be certified by 
+authorised actuaries. Articles 223 to 225 of the Insurance Law (and Regulation 
+No 37 of 27 March 2019 “On the renewal of the license of the authori sed 
+actuary”) provide for the licensing and regulation of authori sed actuaries to 
+ensure that they are qualified and competent to value assets and liabilities . 
+Article 225 of the Insurance Law sets out their required tasks, including the 
+calculation of technical provisions.  
+In addition, Article 125, paragraph 4 of the Insurance Law requires that the audit 
+report containing the opinion on the financial statements is accompanied by the 
+audit company actuary’s report, stating an opinion on the adequacy of the 
+insurer’s technical provisions in accordance with the Insurance Law, etc. 
+Finally, the valuation of technical provisions, including compliance with the 
+requirements of law and regulations, is subject to scrutiny by the actuarial staff 
+of AFSA. Regulation No 3 4 of 28 May 2015 “On periodic and compulsory 
+reporting by insurance and reinsurance companies” requires all insurers to 
+report details of their technical account to AFSA , including mathematical 
+provisions in the case of life insurers. The regulation also prescribes formats to 
+be used for these submissions. These submissions have to be made quarterly 
+ 
+6 The assessors have been informed since the completion of the on -site assessment work in Albania that the authorities have 
+decided to postpone implementation of IFRS 17 for a number of years to allow more time for the required preparatory work.
+
+Public 
+as well as on an annual basis.  AFSA supervisors review the submissions and 
+prepare a report for the Board of AFSA covering the opinion of the AFSA actuary 
+on whether the technical provisions are adequate. 
+Detailed valuation requirements   
+Recognition and de -recognition of assets and liabilities is to be undertaken in 
+accordance with applicable IFRS.  
+In respect of technical provisions, Article 89 of the Insurance Law requires that 
+insurers establish and maintain throughout their activity technical provisions that 
+are sufficient to cover in a timely fashion their underwritten responsibilities and 
+losses from risks deriving from insurance contracts. Further requirements are 
+set out in Articles 89–95 of the Insurance Law. 
+Regulation No 187 of 2016 requires life insurers to use discounting. Paragraph 
+2 of Article 93 of the Insurance Law and Article 4 of Regulation 187 require that 
+an allowance for embedded options in life insurance products must be 
+considered when calculating technical provisions. The assumptions in respect 
+of financial and demographic parameters are to be  governed by past 
+experience, relevant regulations and the authori sed actuary’s judgment. Life 
+insurers base their calculations in practice on Albanian national mortality tables 
+developed by the statistics authority and data from countries with similar 
+conditions. AFSA sets a maximum technical interest rate to calculate 
+mathematical provisions. Negative reserves may not be established.   
+AFSA’s Regulation No 9 of 2016 prescribes, for non-life insurers, the basis and 
+methods of calculation, methods of keeping technical provisions as well as the 
+criteria and procedures for their approval.  These provisions cover unearned 
+premium reser ves, unexpired reserves  and catastrophe risk reserves. The 
+methods prescribed in the regulations must be used on a consistent, reliable 
+and transparent basis. Insurers are required to value technical provisions on an 
+undiscounted basis.  
+There are no explicit requirements for insurers to app ly a margin over current 
+estimate (MOCE) to the valuation of technical provisions.  AFSA requires that 
+reserves be established on a prudent basis, leading to provisions in excess of 
+best estimate. 
+Consistent with the overall valuation and solvency framework, which is based 
+on the EU Solvency I directive (see ICP 17), assets are valued using IFRS and 
+current market values do not have to be used. In practice, government 
+securities, for example, are generally valued on the basis that they are held to 
+maturity. For real estate assets, the revaluation process has to be carried out on 
+a periodic basis  as provided for in accounting standards (for example, every 
+three years) by an independent, certified evaluator and the final report must be 
+submitted on the same day as the balance sheet. 
+There is no provision for the value of technical provisions and other liabilities to 
+reflect the insurer’s own credit standing. 
+Assessment Largely Observed
+
+Public 
+Comments There is a comprehensive set of requirements, drawing on international 
+accounting standards and including detailed regulatory requirements for the 
+valuation of technical provisions. AFSA  pays particular attention to valuation 
+issues when evaluating the extensive reports submitted by insurers on a regular 
+basis, including quarterly reports.  
+The approach reflects the current overall approach to financial requirements, 
+which is based on the EU Solvency I directive. Major changes, which are likely 
+to align the approach even more closely to the ICP requirements , providing for 
+a more fully economic valuation, are planned with adoption of IFRS 17 
+(Insurance Contracts) and proposed implementation of all or part of the EU 
+Solvency II requirements. Even so, at present, the requirements include broadly 
+market-consistent valuation of assets and provide for technical provisions to be 
+calculated in a reliable, prudent and objective manner, with the input of judgment 
+(and oversight of valuation by) an actuary authorised by AFSA.   
+It is recommended that AFSA  develop revised valuation standards in 
+conjunction with its proposed introduction of risk -based solvency standards. 
+These standards should provide , amongst other requirements,  for a detailed 
+framework regarding recognition and de -recognition of assets and liabilities , 
+increased clarity on consistency of valuation of assets and liabilities over time  
+and requirements for insurers to carry out economic valuation.  
+It is also recommended that a timetable be established for implementation of 
+relevant parts of the EU Solvency II requirements, the preferred approach of the 
+authorities, taking into account the changes to be introduced through the 
+implementation of IFRS 17 in Albania (see also comments on observance of ICP 
+17).   
+ICP 15 Investments 
+The supervisor establishes regulatory investment requirements for solvency purposes 
+in order for insurers to make appropriate investments taking account of the risks they 
+face. 
+Description General framework 
+The general requirements for insurer investments are established in Article 78 , 
+paragraph 1 of the Insurance Law, which requires insur ers to develop, adopt 
+and implement investment and lending policies, standards and procedures that 
+a prudent professional would implement in relation to investment and lending, to 
+avoid any undue risk of losses and obtain a reasonable return on investment.  
+Investment policies are required by Article 78 of the Insurance Law to be in 
+writing, available for inspection and reviewed by insurers at least annually. 
+Further provisions in Article 78 require that: 
+• Insurers shall invest only in assets whose risks they can adequately identify, 
+measure, monitor, manage, control and report, and appropriately take into 
+account in the assessment of its overall solvency requirements  (Article 78, 
+paragraph 2);
+
+Public 
+• All assets shall be invested in order to ensure the security, quali ty, liquidity 
+and profitability of the overall portfolio, and be easily accessible to AFSA for 
+inspection purposes (Article 78, paragraph 3); and 
+• The assets shall be diversified in order to avoid excessive concentration on 
+a single asset, issuer or group of companies or a specific geographical area, 
+and excessive accumulation of risk of the overall portfolio (Article 7 8, 
+paragraph 4). 
+The main requirements on permissible investments are set out Articles 96 to 108 
+of the Insurance Law , for assets covering technical and mathematical 
+provisions, and in Regulation No 76 of 30 May 2016 “On allowed investments 
+categories, applied restrictions and the use of derivative financial instruments ”. 
+Article 96, paragraph 1 of the Insurance Law, for example, requires that insurers 
+set aside assets that are sufficient to cover their technical provisions in 
+compliance with relevant provisions.  
+Regulation No 76 allows insurers to invest in land and buildings, investments in 
+affiliates and companies with participating interests, a wide range of financial 
+investments including bonds and shares, bank deposits, mortgage loans, other 
+loans and “other financial investments”. 
+There are additional, more detailed requirements: 
+• For non-life insurance, on the types and characteristics of assets covering 
+technical provisions, including rules on diversification and restriction on 
+types of assets, in Regulation No 19 of 28 April 2015 “On assets covering 
+technical provisions and types of investments allowed for these assets”; 
+• For life insurance, in Regulation No 200 of 27 December 2016 “On the 
+assets covering mathematical provisions and allowed types of asset 
+investments”.  
+Limits on types of investment, etc 
+For non -life insur ance, Article 4 of Regulation No 19 of 2015 elaborates on 
+allowable investments  set out in Article 97 of the Insurance Law , adding, 
+amongst other items, a reinsurer’s share in technical provisions and amounts 
+owed by policyholders and intermediaries deriving from insurance activity, 
+subject to limits, including on days outstanding.  
+There is also provision in Article 4 of the Regulation for AFSA to approve other 
+types of assets , including certain highly  rated securities issued by an EU 
+member state or OECD member or by a non-governmental EU or OECD entity, 
+certain shares traded in EU or OECD regulated capital markets, and collective 
+investment undert akings in an EU member state or OECD member . The 
+Authority has not given such approval.  
+In addition, Article 97 , paragraph 3 of the Insurance Law provides that in 
+exceptional circumstances, AFSA may, on request from an insurer, temporarily 
+approve other categories of assets covering technical provisions if they are of a 
+prudent nature , diversified and adequately allocated. The Authority  has not 
+given such consent.
+
+Public 
+Article 5 of Regulation  19 sets out diversification and restriction s of asset s, 
+stating the percentage of each type to be considered for covering technical 
+provisions.  
+• They include a limit of 30 % of gross technical provisions in real estate, 
+including “10% in each piece of land or building or in a number of parts of 
+land or buildings, close to each other, how much an investment can be 
+effectively assessed” (ie in such cases, only 10% of value can count towards 
+investments covering technical provisions).  
+• The highest limit is 40% of gross technical provisions for “listed securities” , 
+together with “participation in investment funds or in collective investment 
+schemes”.  
+• There is also a limit on a re insurer’s share in technical provisions , but this 
+excludes reinsurers that are classified as BBB– and above. 
+Separate requirements apply to the assets covering mathematical provisions of 
+life insurers. Articles 100–108 of the Insurance Law require that such assets be 
+used only to pay claims deriving from life assurance contracts for which those 
+provisions have been  established. Article 103 sets out the permissible 
+investment types, similar to those applicable to assets covering technical 
+provisions. With respect to real estate, it includes requirements such as that land 
+is registered by the Immovable Property Registration Office in the name of the 
+insurer; and that it yields a return and is not pledged as collateral. 
+Regulation No 200 of 201 6 then sets out more provisions on permissible 
+investments as well as investment principles, diversification requirements and 
+limitations on investments, valuation  and reporting to AFSA.  Additional 
+investment types are provided for which are similar to the list for technical 
+provisions with conditions, for example on mortgage and other loan assets.  
+There are similar provisions for additional types of asset with AFSA approval. 
+Certain assets are excluded, including “securities of the companies which are 
+subsidiaries, supporting companies, shareholders of  the insurance company ” 
+(Article 9 of the Regulation).   
+Article 10 sets out diversification requirements, etc, which are similar to those 
+for technical provisions except that the limit on real estate is 25 % of gross 
+mathematical provisions and the highest limit is 70 %, for listed securities , etc 
+(however, the total of such securities and real estate is also limited to 70 %). 
+There is a 50% limit on deposits at banks in Albania. 
+Life insurers are also subject to a general requirement to take into account the 
+need for d iversification of investments issued by different issuers  and across 
+different activities, the evaluation of risks related to the issuer or the borrower , 
+expected return on investment, duration of the investment and interconnection 
+between different types of investments (Article 7 of the Regulation).  
+Article 8 of the Regulation requires that they approve an internal i nvestment 
+regulation that defines the strategy, principles, procedures, monitoring and 
+reporting of investments in accordance with the regulations, etc.
+
+Public 
+Other requirements 
+Article 96 , paragraph 4 of the Insurance Law  requires that assets covering 
+technical and mathematical provisions shall be equal to the amount of liabilities 
+arising from insurance contracts in terms of the respective currency. 
+Article 98, paragraph 1 of the Insurance Law requires insurers to appropriately 
+match the amount of investment of assets covering technical and mathematical 
+provisions which are exposed to risk of potential losses due to changes in 
+interest rates, exchanges rates and other market risks, with its liabilities arising 
+from insurance contracts whose level depends on the same changes. When 
+investing assets covering technical and mathematical provisions, insurers shall 
+also take into consideration the maturity date of the liabilities under individual 
+insurance contracts (Article 98 , paragraph 2 of the Insurance Law). There are 
+related provisions in the regulations on mathematical provisions of life 
+insurance.  
+Under Article 99 , paragraph 1 of the Insurance Law , w hen investing assets 
+covering technical provisions, insur ers may use financial derivatives if they 
+reduce the risk or enable more efficient portfolio management.  Insurers must 
+report to AFSA on the use of financial derivatives. There are related provisions 
+in the Regulations. Up till now, no derivatives have been used by insurers. 
+Reporting and supervision 
+Article 4 of Regulation No 34 of 2015 prescribes that every insurer shall report  
+to AFSA on its investment portfolio, including detail on types of investment held 
+and reports on assets covering mathematical provisions on a quarterly basis. 
+AFSA’s supervisors  analyse the investments of insur ers while preparing the 
+company analysis on a quarterly and annual basis. 
+Groups 
+In line with the indirect approach to group-wide supervision taken by AFSA and 
+provided for in laws and regulations, the requirements on investments apply only 
+to individual insur ers and not at the group level. There are related group risk 
+management and solvency requirements that give effect to the indirect approach 
+(see ICPs 8, 17 and 23).  
+Assessment Largely Observed 
+Comments There is a comprehensive set of requirements on insurers’ investments which 
+combines detailed quantitative requirements (limits on types of investment, 
+diversification requirements, etc) with extensive qualitative requirements.  
+In practice, the assets available to insurers in the Albanian market are relatively 
+limited and insurers’ investments are dominated to an extent not found in EU 
+markets by real estate, government securities and bank deposits (see data in 
+the Annex). AFSA and insurers themselves acknowledge the disadvantages of 
+real estate as an asset backing insurers’ technical/mathematical provisions, but 
+argue that given limited alternatives (and with prudent regulatory requirements)
+
+Public 
+it has a place in insurers’ portfolios for the present , including as an effective 
+hedge against inflation.  
+It is recommended that, in addition to continuing to enforce existing limits on real 
+estate investment (it is well  placed to do so given extensive reporting) , AFSA 
+closely monitor the development of alternative assets, seeking opportunities to 
+incentivise assets which present less challenge in terms of price discovery and 
+illiquidity. AFSA should also further consider what can be done, with other 
+authorities, to stimulate the supply of long-term investable assets to help support 
+the development of savings-related life insurance in particular.  
+ICP 16 Enterprise Risk Management for Solvency Purposes 
+The supervisor requires the insurer to establish within its risk management system an 
+enterprise r isk management (ERM) framework for solvency purposes to identify, 
+measure, report and manage the insurer’s risks in an ongoing and integrated manner.  
+Description ERM framework – risk identification and measurement 
+The main provisions in laws and regulations (see also ICP 8) are in: 
+• The Insurance Law, particularly Article 27, which requires insurers to 
+establish risk management systems with policies, procedures and limits to 
+monitor, control and adjust their activities based on business risks; othe r 
+articles set out related requirements; 
+• Regulation No 18 of 28 April 2015 “On organisational rules of the risk 
+management system in an insurance company”, which sets out principles on 
+risk management systems and policies and processes related to the 
+definition, supervision and control of risks; and 
+• In relation to earthquake risk, Regulation No 57 of 26 May 2017 “On the 
+calculation of net retention of Aggregate Maximum Coverage of the risks 
+deriving from insurance contracts”. 
+Other regulations also set out risk management requirements, including on the 
+management of investments and the management of liquidity.  
+Article 4 of Regulation No 18 of 2015 requires that insurers have in place 
+effective processes targeted at the identification of all significant foreseeable 
+risks such as insurance, market, credit, liquidity, operational and reinsurance 
+risks. This applies to solo insurers and insurance groups (paragraph 4.2).  
+Article 5 of the Regulation requires, amongst other things, that insurers have 
+appropriate processes and tools, including models, whenever possible, for 
+determining, assessing, supervising, managing and reporting risks. 
+Article 7 requires that the risk management function be responsible for defining 
+the risks faced by the insur er. It should assess and aggregate the risks 
+determined as well as the overall risk profile of the insur er and its solvency. It 
+should conduct stress tests and scenario analysis regularly.  
+In addition, the requirement in Article 12 of Regulation No 18 of 2015 for insurers 
+to prepare, submit (and publish as part of the annual report) an annual risk
+
+Public 
+evaluation report (see below – ORSA) makes clear that insurers should identify 
+risks and use stress and scenario tests to evaluate them.  
+There are, however, no detailed requirements either on the coverage of risks 
+which are not easily quantified , such as operational risk , or on  appropriate 
+methodologies.  
+A major risk for insurers is earthquake risk. Regulation No 57 of 2017 requires 
+insurers to calculate and report semiannually to AFSA their maximum aggregate 
+net retention indicator, reflecting their reinsurance contracts.  Article 10 of 
+Regulation No 57 of 2017 requires that insurers draft internal rules related to the 
+administration and accumulation of  the risks linked to other aggregate 
+underwriting risks and make them available to the Authority on request. 
+Interrelationship of risk appetite, risk limits and capital adequacy 
+The main requirements are set out in Regulation No 18 of 2015. As noted above, 
+the risk management function should have a responsibility for ev aluating the 
+overall risk profile for the insur er, taking into account capital structure and 
+regulatory capital requirements. This applies at company and group level.  
+Under Article 5 of the Regulation, the elements comprising the insurer’s risk 
+management system must include a statement of the “acceptable risk clearly 
+defined and approved by the Management/Supervision Council, in consultation 
+with senior executives”. There is no detailed requirement on what should be 
+covered by the risk appetite statement or for the risk appetite to be reflected in 
+a structure of limits; nor is there an explicit requirement to link the risk appetite 
+to capital (ie risk capacity).  
+The annual risk evaluation report which insurers are required to submit to AFSA 
+under Article 12 of Regulation No 18 must, however, include a commentary on 
+the minimum capital requirements and “the actions and estimates to reach the 
+adequate level of capital in compliance with the risk profile”. 
+Asset-liability management, investment, underwriting and liquidity risk 
+management policies 
+There are no requirements in Regulation No 18 of 2015 on insurers’ asset and 
+liability management. However, Article 98 of the Insurance Law requires that 
+investments of assets covering technical and mathematical provisions should 
+appropriately match liabilities arising from the written insurance contracts which 
+are exposed to the same risks (interest rate risk, foreign exchange risk or other 
+market risks) . Similar provisions are  included in Regulation No 200 of 27 
+December 2016 “On the assets covering mathematical provisions and allowed 
+types of asset investments” (see ICP 15). 
+Liquidity risk management is addressed by: 
+• Article 84 of the Insurance Law, which requires insurers to have liquidity 
+management policies, including on the planning of expected and potential 
+cash flows; systematic monitoring of liquidity; and measures to address 
+causes of a lack of liquidity. It also requires insurers to calculate their liquidity 
+on a daily basis; and
+
+Public 
+• Regulation No 56 of 28 April 2016 “On liquidity management by insurance 
+and reinsurance companies ”, which requires insurers to manage liquidity 
+(cash flow planning in particular is required); to evaluate their liquidity 
+position and calculate the relevant indicators on a daily, weekly and monthly 
+basis; and to notify the Authority of shortfalls within 24 hours. A detailed 
+definition of liquid assets and the required liquidity ratio is set out in Article 5 
+of Regulation 56 and insurers must report monthly on their (daily) liquidity 
+ratios. 
+In addition, AFSA’s  (published) Risk Focused Supervision Manual requires 
+insurers to have a clearly defined internal policy on liquidity risk management. 
+AFSA monitors in its supervision whether insurers have adequate liquidity to 
+meet liabilities on a daily basis. Liquidity management policies are reviewed as 
+part of on-site supervisory work. The extent of reporting requirements (monthly 
+reporting of daily positions) reflects the importance which AFSA attaches to the 
+liquidity of insurers.  
+ORSA 
+AFSA’s version of an own risk and solvency assessment report (ORSA)  – the 
+risk evaluation report – is prepared by all insurers and submitted to AFSA  
+annually. Regulation No 18 of 2015 requires that insurers document the process 
+of risk assessment and carry out stress tests so as to provide AFSA with all the 
+necessary information. Article 12 of the Regulation requires insurers to prepare 
+and submit to AFSA the annual risk evaluation report covering, at company  
+and/or group level: 
+• The Risk Management Framework: the governing structure, risk 
+management function, committees, policies on risk acceptance and 
+management; strategic and specific annual objectives; 
+• Categories of risk identified; 
+• Reporting framework: the requirements on risk reporting and the description 
+of the approved methodology for risk evaluation and classification and 
+performance of stress tests; 
+• Capital management: the requirements on minimum capital and the actions 
+and estimates to reach the adequate level of capital in compliance with the 
+risk profile; 
+• Risks: the methods, assumptions, determinations, assessment and 
+supervision of each identified risk category, the evidence of stress tests for 
+each category and the required capital; 
+• Business continuity plans; 
+• Recommendations and measures to manage risks; and 
+• A concluding section on the overall risk profile and the measures to be taken 
+for the following year. 
+Insurers are required to submit the risk evaluation report to AFSA by the end of 
+May each year.
+
+Public 
+AFSA has been receiving ORSAs /risk evaluation report s from insurers since 
+Regulation No 18 of 2015 took effect. The approach of insurers is still 
+developing. The reports are in practice still mainly focused on underwriting risk 
+(and credit risk) but insurers are expected to quantify other risks as far as 
+possible. Using the information from the report and from financial reporting, the 
+Authority’s supervisors assess and reach a conclusion about the financial 
+position of the insur er, especially the adequacy of technical provisions and 
+capital.  
+Insurers may be provided with feedback. In discussions for the purposes of this 
+assessment, some insurers expressed an appetite for more feedback on the risk 
+evaluation report – interaction with AFSA is mainly focused on the quarterly and 
+annual regulatory reporting.  
+Groups 
+Article 13 of Regulation No 18 of 2015 states that “A ll the provisions of this 
+regulation relating to the construction, operation and improvement  of the risk 
+management system apply to the group as well ”. Other provisions of the 
+regulation take into account membership of insur ers in wider groups , where 
+applicable.  
+In practice, in line with the indirect approach to group-wide supervision taken by 
+AFSA and provided for in laws and regulations  (see ICPs 8 and  23), the 
+application of the requirements is generally to individual insurers. The ORSA/risk 
+evaluation report, although it may be provided on a group basis, is submitted on 
+a solo basis in practice.  
+AFSA’s assessment of the report does, however, take into account intragroup 
+exposures and information reported in group annual financial statements, which 
+are reviewed in detail alongside the reports of individual group member insurers 
+(in practice, AFSA observes, where a g roup contains both a life and non -life 
+insurer, the non-life insurer is predominant and the foreign operations of groups 
+are relatively small).   
+Recovery plans, etc 
+Article 12 of Regulation No 18 of 2015 provides that the insurer must have well 
+defined plans, set out within the risk evaluation report/ORSA, in order to ensure 
+the continuation  of activity, to cope with unforeseen situations, to resume 
+activity, as risks materialise or events with harmful effect occur; and the results 
+of the tests carried out. These plans are reviewed by AFSA supervisors and are 
+part of its assessment of the overall risk evaluation report. There is no separate 
+process for ensuring that insurers have effective recovery plans as required by 
+ICP 16.15.  
+Assessment Partly Observed 
+Comments The Insurance Law and Regulation No 18 of 2015 set out elements of a 
+framework for effective ERM , requiring insurers to establish risk management 
+systems with policies, procedures and limits to monitor, control and adjust their 
+activities based on business risks. They are required to prepare and submit a
+
+Public 
+risk evaluation report with many of the elements of the ICP’s ORSA 
+requirements, including stress testing. AFSA supervisors pay special attention 
+to key risks affecting insurers, particularly underwriting risks but also earthquake 
+risk and liquidity risk.  
+Other elements of a full set of ERM requirements, including full requirements on 
+insurers’ risk appetite and quantification of risk s, are lacking. Insurers’ risk 
+evaluation reports require further development and the process of supervisory 
+review is not yet a core part of AFSA ’s supervisory approach, reflecting in part 
+the priority reasonably given to oversight of reserves adequacy, especially of 
+key motor insurance risks.  
+It is recommended that the Authority develop new regulations to implement the 
+full range of ERM requirements covered by the ICP, including requirements for 
+a risk appetite statement and related limits on risks and capital management 
+requirements; apply the key requirements, including ORSA, at the group level; 
+and set out in more detail the requirements on insurers in respect of recovery 
+planning (the identification in advance of options to restore the financial position 
+and viability of an insurer if it were to experience severe stress) . AFSA should 
+increase its capacity to assess insurers’ ERM practices and risk evaluation 
+reports/ORSAs.  
+As with the valuation and solvency requirements (ICPs 14 and 17), it is likely to 
+be appropriate to address the issues with ERM in the context of plans to 
+implement risk-based capital and enhanced accompanying valuation standards, 
+through the implementation of all or part of the EU Solvency II framework, as 
+currently proposed (see also comments on observance of ICP 17).   
+ICP 17 Capital Adequacy 
+The supervisor establishes capital adequacy requirements for solvency 
+purposes so that insurers can absorb significant unforeseen losses and 
+to provide for degrees of supervisory intervention. 
+Description Article 75 of the Insurance Law  provides details about  insurer capital 
+requirements (generally referred to as solvency in the law and regulations) . 
+Article 75, paragraph 2 states that, throughout their activity, the insur er shall 
+possess adequate capital. Article 75, paragraph 3 prescribes that solvency shall 
+consist of that company’s assets, free of any foreseeable liability, less any 
+intangible assets. Article s 75 to 76 and 79 set out the requirement s on the 
+definition of capital to be used in the calculation of capital adequacy.  More 
+requirements are set out in regulations. 
+Article 74 states that the insurer’s capital should reflect the insurance volume 
+and classes under which it operates, and the risks to which it is exposed. In 
+practice, the current regulatory approach to capital adequacy is based on the 
+EU’s Solvency I framework, which sets requirements for capital based mainly 
+on insurance risks  proportionately to the scale of the insurance business, but 
+which does not capture all material risks  (see ICP 16 also on the ORSA/risk 
+evaluation report requirement).
+
+Public 
+There is no provision for use of internal models.  
+Solvency requirements 
+Article 80 of the Insurance Law requires that the capital of an insur er shall not 
+be below its required solvency margin, defined as the higher amount of: 
+• the guarantee fund provided for in Article 81 of the Insurance Law  (see 
+below); and 
+• the amount equal to 150% of the minimum solvency margin as calculated in 
+accordance with AFSA’s regulations (Regulation No 111 of 26 October 2015 
+“On the calculation method for the minimum solvency limit of insurance 
+companies performing activities in life and non-life classes”).  
+Article 81, paragraph 2 of the Insurance Law specifies that the guarantee fund 
+may not be less than one third of the minimum solvency margin as specified in 
+Article 80. As shown in Table 6, t here are also fixed minimum amounts  for the 
+guarantee fund. 
+Table 6: Fixed minimum amounts of capital for the guarantee fund 
+Scope of license Minimum capital 
+Non-life insurance excluding liability, guarantee and 
+credit 
+ALL 260 million 
+Non-life insurance including liability, guarantee and 
+credit 
+ALL 370 million 
+Life insurance ALL 370 million 
+Reinsurance ALL 370 million 
+Article 81 , paragraph 5 requires that the guarantee fund be invested only in 
+treasury bills and/or bank deposits with maturity period of no less than one year 
+and be described as an account that may not be used without the Authority’s 
+prior approval. 
+Regulation No 86 of 3 July 2017 “On the management of an insurance company 
+guarantee fund and cases of intervention” sets out rules on the diversification of 
+the inves tments in terms of counterparty (banks) and limits in each foreign 
+currency. It states that prior notification and approval of the Authority is required 
+for changes in the guarantee fund assets and approval will be given only if the 
+fund level remains above the minimum.  
+Regulation No 111 of 2015 “On the calculation method for the minimum solvency 
+limit of insurance companies performing activities in life and non -life classes” 
+sets out the required calculation of the minimum solvency margin. 
+• For non -life business, the required solvency margin is the highe r value 
+obtained from (gross) premium-based and  claims-based method s of
+
+Public 
+calculation adjusted (subject to a floor) for the level of reinsurance obtained; 
+requirements are reduced somewhat for higher volumes of business to 
+reflect diversification effects;  
+• For life business, the required margin is the sum of two calculations: 
+- a percentage of mathematical provisions adjusted (subject to a floor) 
+for the level of reinsurance; and  
+- to address mortality risk, a percentage of the total amount of “risked 
+capital” for the relevant contracts written, with an adjustment for 
+reinsurance. 
+There are separate requirements for life insurance contracts linked to 
+investment funds, but these products are not currently sold in Albania.  
+The overall approach in the case on non-life insurance (over 90% of the market 
+by premium volume) is represented by AFSA as follows:  
+Data are in local currency (ALL) and P = gross written premiums, 𝐷̅ = the average claims over a 
+three- or seven-year horizon, and α = the level of “conservation” (retention). See below on MCR 
+(minimum capital requirement) and SCR (solvency capital requirement) as control levels. 
+Capital resources 
+Under Articles 75–77 and 79 of the Insurance Law, eligible capital is composed 
+of: 
+• The core capital as provided in Article 76 of the Insurance Law , which is 
+defined to include share capital, capital reserves and retained profit brought 
+forward after deduction of payable dividends; and to exclude redeemed own 
+shares, investment in intangible assets, carried forward losses and current-
+year losses and the difference between discounted and undiscounted claims 
+provisions; and 
+• The additional capital as provided in Article 77, where approved by AFSA: 
+cumulative preference shares, subordinated debt i nstruments, capital 
+reserves related to the cumulative preference shares and “other elements”; 
+less 
+• Required deductions (Article 79 of the Insurance Law) including capital 
+instruments issued by other financial institutions (subject to thresholds) and
+
+Public 
+illiquid assets; Regulation No 87 of 26 June 2016 “On deductible elements 
+in the calculation of the capital of insurance companies” sets out more detail 
+on the illiquid assets that must be deducted.  
+Regulation No 111 of 2015 “On the calculation method for the minimum solvency 
+limit of insurance companies performing activities in life and non -life classes” 
+includes Article 5, which includes as core capital “hidden reserves (plus values) 
+deriving from the underestimation of  the assets, as long as these hidden 
+reserves (plus values) do not have an uncommon nature”. 
+There is no limit in the law or regulation on how much additional capital may be 
+used in the calculation of capital resources. AFSA not es that revaluation 
+reserves are the only element used by insurers, that amounts included have to 
+be approved by the Authority, and that supervisors intervene in the event that 
+an insurer becomes significantly reliant on additional capital  (AFSA uses 
+supervisory powers to approve additional capital or require higher -quality 
+capital).  
+Solvency control levels and supervision/intervention 
+AFSA views the required minimum solvency margin as the MCR (see formula 
+above), unless the minimum level of the guarantee fund is higher (which was 
+reported to be the case by one insurer in the discussions for the purposes of this 
+assessment). If an insurer’s actual capital resources/solvency margin is below 
+either of these two levels , the Authority may intervene with the appropriate 
+corrective action.  
+The Authority in practice regards the  amount equal to 150 % of the minimum 
+solvency margin as the SCR and would not normally intervene above this level.  
+Article 4 of Regulation No 34 of 2015 requires insurers to submit to AFSA a 
+capital adequacy report on a quarterly basis in the specified format. This in turn 
+is reviewed by supervisors and an AFSA a ctuary alongside other information 
+received quarterly.  
+If an insurer fails to comply with any of the capital requirements in the Insurance 
+Law, AFSA’s powers of intervention and sanctions may be exercised as defined 
+in Articles 149–54 (see ICP 10).  
+Specifically, Articles 83 and 152 of the Insurance Law provide that the Authority 
+may (but is not required to) instruct the insurer to file a financial recovery plan, 
+together with proposed reorgani sation actions for at least the following three 
+years, containing detailed financial projections.  The recovery plan has to be 
+submitted for approval within the time limit set by the Authority, which has one 
+month to make its approval decision and is required to take other actions under 
+Article 152 if it rejects the plan.  
+There are no specific provisions on actions in case s where an insurer fails to 
+comply with the plan, but a wide range of acti ons under Article 152 would be 
+available. AFSA is required to seek provisional administration when an insurer 
+has failed to start implementing supervision measures required under Articles 
+152 and 153 of the Insurance Law (see ICP 12).
+
+Public 
+One insurer was not meeting minimum requirements (the SCR) as at Q2 2022 
+and had not been meeting them for an extended period. A nother was meeting 
+them only on the basis of a court -approved interpretation of the solvency 
+requirements which AFSA is challenging at the Supreme Court (see Annex and 
+ICP 2).  
+Group capital adequacy 
+Article 146 of the Insurance Law requires that insurance groups (see ICP 23) 
+must calculate capital adequacy in an insurance group and submit reports to 
+AFSA. In line with the indirect approach to group -wide supervision taken by 
+AFSA and provided for in laws and regulations (see ICPs 8 and 23), in practice 
+AFSA collects information on capital adequacy for each licensed insurer. It then 
+reviews other information on the group -wide financial position, including  
+intragroup exposures, information reported in group annual financial statements 
+(which would help it to identify any double -gearing, for example) or in the 
+ORSA/risk evaluation report , which should address risks related to group 
+membership.  
+Ongoing initiatives 
+At the time of the assessment, AFSA was drafting a high-level roadmap towards 
+implementation of the EU  Solvency II  framework, with the assistance of the 
+World Bank.  It is working in this context on  guidelines with new regulatory 
+requirements for insurance groups. Simplified elements of the provisions on 
+corporate governance at the group level as well as risk management may be 
+adopted and a full group -wide capital adequacy assessment will also be 
+considered as provided for in the Solvency II requirements. 
+Assessment Largely Observed 
+Comments The capital requirements have been established in an open and transparent 
+manner, reflecting the well established EU Solvency I framework. Their 
+objectives and the bases on which they are determined are clear. Eligible capital 
+resources are also clearly defined, although with wide scope in the regulations 
+to include some relatively low-quality forms of capital. There are solvency control 
+levels and, while AFSA is not required to intervene, it may and does do so when, 
+as was the case at the time of the ass essment, an insurer has failed to meet 
+requirements. AFSA consider s the capital adequacy  of insurance groups  
+through supervision, although there are no group-wide capital requirements at 
+present.  
+Solvency I is not a total balance sheet approach, however, and does not cover 
+all risks and their aggregation explicitly ( the requirement to meet 150% of the 
+minimum margin implicitly but imperfectly captures some additional risk). AFSA 
+is aware of this and is planning to adopt elements of the EU Solvency II 
+framework.  
+It is recommended that AFSA develop revised , more risk -based solvency 
+requirements. These should provide, amongst other points, for a full balance 
+sheet approach cove ring all material risks  explicitly, more focus on highest -
+
+Public 
+quality capital resources (a limit on the use of “additional capital”) and  reduced 
+discretion to intervene to enforce solvency control levels. AFSA should consider 
+strengthening group-wide capital consistent with the development of its overall 
+approach (currently an indirect one) to group-wide supervision.    
+It is recommended that if the preferred approach of the Authority is for 
+implementation of relevant parts of the EU Solvency II framew ork, a timetable 
+be established as soon as possible7.  
+ICP 18 Intermediaries 
+The supervisor sets and enforces requirements for the conduct of insurance 
+intermediaries, in order that they conduct business in a professional and transparent 
+manner. 
+Description Licensing requirements 
+Article 193 of the Insurance Law requires insurance intermediaries (defined to 
+include both natural and legal persons carry ing out intermediation activities 
+against charges and commissions) to be licensed by AFSA. Insuran ce 
+intermediation is defined in Article 192 as “the activity of presenting, proposing 
+and carrying out other preparatory activities up to the signing of an insurance or 
+reinsurance contract, and the provision of assistance during the period of validity 
+of that contract, especially in the case of claims”.   
+Articles 194 and 202 clearly establish the different roles of agents and brokers, 
+clarifying that insurers are responsible for the actions or omissions of the agent 
+in relation to the insured. Insurers must apply to AFSA for approval of the agents 
+through which they distribute their products (Article 199). 
+At end-2021, there were (as listed in AFSA’s Annual Report for 2021): 
+• 14 brokerage companies, five banks and four individuals licensed as 
+brokers; seven companies and one bank act only in non-life insurance, while 
+the remainder cover life and non-life, of which four also provide reinsurance 
+brokerage services; and 
+• 863 individuals approved as insurance agents and 53 legal entities, four of 
+which are banks. 
+Article 215 of the Insurance Law restricts intermediaries to performing only 
+activities for which they are licensed and prohibits them from authorising other 
+persons to perform intermediation activities on their behalf.  
+Licensing criteria for agents and brokers are defined in Articles 192–201 of the 
+Insurance Law. Detailed requirements are set out in:  
+ 
+7 The assessors have been informed since the completion of the on-site assessment work in Albania that AFSA has consolidated 
+a high-level roadmap to implement Solvency II. This roadmap was drafted with the technical assistance of the World Bank and 
+was formally approved by the Board of AFSA in early 2023 (Board decision No 2, 26 January 2023). AFSA notes that the roadmap 
+will be implemented once further technical assistance from the World Bank is provided.
+
+Public 
+• Regulation No 79 of 31 August 2015 “On granting approval/licence to carry 
+out the insurance agent activity, as well as denied cases of registration and 
+refusal to grant the license”; and 
+• Regulation No 48 of 30 June 2015 “On criteria, procedures and terms to 
+grant the licen ce and cases of refusal to grant the license for carrying out 
+brokerage activity in insurance".  
+These regulations establish requirements, for example, on the documentation to 
+accompany an application for licensing, professional liability insurance 
+requirements, etc. Brokers must submit information on their shareholding and 
+organisational structure and their business plan for the first three years, as well 
+as internal processes. Agent companies must have capital of ALL 1 million, while 
+a broker or brokerage company must post financial security at a bank equal to 
+4% of annual premiums but no less than ALL 1 million.  
+Related requirements, including for Bank of Albania approval, apply where the 
+agent or brokerage company applicant is a bank (Articles 8–9 of Regulation 79 
+of 2015 and 9–10 of Regulation 48 of 2015); and where the insurance agency 
+business is related to a separate primary activity (limited in the regulation to 
+postal services, financial services, travelling agency services, real estate agency 
+services and trading of motor vehicles services). In thes e cases, the entities 
+must be licensed by the Authority and a person responsible for the insurance 
+activity must be identified (Article 10 of Regulation 79 of 2015).  
+Agents must not be related parties to an insur er, another agent company or 
+insurance and reinsurance brokerage company (Article 201 of the Insurance 
+Law) and brokers/brokerage companies may not hold any shares in insurers and 
+vice versa (Article 208). 
+Regulation No 40 of 31 March 2016 “On the form, content and rules for keeping the 
+registers o f insurance intermediarie s” requires AFSA to keep a registry of insurance 
+intermediaries on its website. It maintains an up-to-date list in practice.  
+Ongoing supervision 
+Under Article 193 of the Insurance Law, insurance intermediaries are subject to 
+ongoing supervisory review by AFSA. Its Licensing, Consumer Protection and 
+Market Conduct Department follows a risk-based approach in reviewing whether 
+intermediaries fulfil their licensing and conduct of business requirements. It 
+carries out off-site and on-site supervision.  
+Regular reporting is required under Regulation No 2 of 25 January 2016 “On the 
+form, terms and content of financial statements, statistical reports and other 
+reportings of intermediaries in insurance and reinsurance”, of which:  
+• Article 3 requires intermediaries to keep business books and (in the case of 
+companies) to submit to AFSA semi-annual and annual financial statements 
+prepared under IFRS; and 
+• Article 4 requires them to submit quarterly statistical reports with data 
+structured as set out in an appendix to the Regulation.  
+Inspections are performed in accordance with Instruc tion No 209 of 25 
+November 2021 “On inspection procedures in entities supervised by the
+
+Public 
+Albanian financial supervisory authority ” and are carried out based on AFSA’s 
+annual inspection plan, which also provides for ad hoc inspections in response 
+to issues arising off site.  
+The inspection programme, which was reduced because of the Covid-19 
+pandemic in 2020 and 2021, focuses particularly on brokerage companies, all 
+of which were inspected in 2021. Selected inspections were undertaken in 
+2021–22, including of  banks, in cooperation with the Bank of Albania and 
+including verification of the agreements of insur ers with the bank s from the 
+consumer protection perspective.  
+Examples of inspections discussed with AFSA for this assessment included an 
+inspection of a b ank undertaken by  staff from both the supervision and 
+consumer protection units, taking 10 days, and an inspection of a non-life broker.  
+Inspections of brokers and agents focus on verification of compliance with the 
+requirements of the Insurance Law and Regulations 48 and 79  of 2015 (see 
+above).  
+Professional knowledge and competence 
+Article 199 of the Insurance Law sets out the requirements on professionalism, 
+ethics, and reliability to be met by insurance agents. Paragraph 4 requires 
+agents to maintain appropriate levels of professional knowledge and experience, 
+integrity and competence.  Every three years, the agent must undertake 
+professional training and submit the certification to AFSA. Detailed requirements 
+on professional knowledge, etc are laid down in Regulation No 79 of 2015 (see 
+above).  
+The requirements for brokers are set out in Articles 206 and 207 of the Insurance 
+Law and in Regulation No 48 of 2015. The licensing of brokers is subject to a 
+professional exam drafted by AFSA’s Department for Financial Education 
+(Article 3 of Regulation No 48 of 2015). Evidence of professional knowledge for 
+brokers includes experience, education and training. Every three years, brokers 
+must undertake professional qualifications and submit the certification to AFSA 
+(Article 12 of the Regulation). 
+As well as the Insurers Association, AFSA has authori sed two companies to 
+offer professional training for agents in insurance. Training syllabuses are 
+posted on AFSA’s website. Every three years, agents and brokers are required 
+to collect 24 and 30 credit points by attending professional training, respectively. 
+Governance 
+Insurance brokerage companies should be establis hed as joint -stock 
+companies. AFSA regulations set out rules on the organisation and operation of 
+brokerage and agent companies (Regulations 48 and 79 of 2015). There are no 
+detailed requirements on governance specific to agent and broker companies.  
+If the brokerage activity is carried out by a licensed bank or a branch of a foreign 
+bank, Article 10 of Regulation No 48 of 2015 sets out licensing requirements, 
+including on the structure of the brokerage unit and business plan.
+
+Public 
+All the requirements are subj ect to ongoing supervision as well as to on -site 
+inspection.  
+Disclosure requirements 
+Article 60 of the Insurance Law states that insurers and intermediaries must 
+inform the insured of the insurance scope, coverage, duration and other issues 
+related to the contract, prior to signing and throughout the contract validity.  
+Article 61 sets out  core principles for information provided to consumers by 
+insurers and intermediaries. In addition to being required to disclose clear and 
+adequate information prior to contract execution, intermediaries must, before 
+execution and during the contract valid ity period, inform consumers of any 
+conflict of interests that they might have with other parties, including any 
+economic and legal relations that might affect the performance of insurers’ 
+obligations towards consumers.  
+Article 63 of the Insurance Law requires that intermediaries provide consumers 
+with information on costs related to the insurance contract prior to signing. This 
+includes tax, fees and commission related to the contract (ie they have to 
+disclose the actual remuneration, not just the basis for remuneration).  
+In 2021, AFSA detected a case of non-compliance with disclosure requirements 
+and followed up with recommendations.  
+Client monies 
+Brokers and brokerage companies are explicitly permitted under Article 205 of 
+the Insurance Law to collect premiums from the insured for insurers. They must 
+use a special account held separately from their business accounts. As noted 
+above, they must also have professional liability insurance and post financial 
+security. 
+Article 198 of the Insurance Law  prohibits agents and agent companies from 
+collecting premiums (or any other monies) from the insured.  Article 18 of 
+Regulation No 79 of 2015 sets out requirements on the immediate payment of 
+premium received into an insur er bank account (and insurers are responsible 
+under Article 198 for agents’ actions or omissions in relation to the insured). 
+The existence and operation of such bank accounts may be checked during on-
+site inspections by AFSA. There has not been experience of loss to 
+policyholders of premium or other monies in practice since the implementation 
+of Regulations 48 and 79 of 2015.   
+Supervisory measures/sanctions 
+Sanctions on intermediaries are set out in Articles 248 and 249 of the Insurance 
+Law, escalating for each violation of the respective provisions. AFSA may take 
+measures up to the suspension and revocation of a licence in case of violations 
+of requirements. 
+• Under Article 201 of the Insurance Law, AFSA shall revoke the agent 
+company’s licence if the company fails to fulfil the imposed measures to
+
+Public 
+eliminate violations and irregularities within the specified time  frame. The 
+agent’s activity may be suspended for a period of up to six months.  
+• Article 211 defines the type of violations which can cause AFSA to revoke a 
+broker’s licence, including absence of professional liability insurance policy, 
+failure to eliminate violations and irregularities as required by AFSA and 
+violation of the provisions of applicable laws. 
+The Authority  may suspend a licence for a period of up to six months for 
+violations of the provisions according to Article 211 of the Insurance Law. 
+It is a criminal offence to carry out unlicensed intermediary activities according 
+to Article 251 of the Insurance Law. Upon identification of such cases, AFSA 
+coordinates action with law enforcement authorities.   
+Assessment Observed 
+Comments There is an extensive set of requirements for the licensing, regulation  and 
+supervision of insurance intermediaries, including requirements on education 
+and professional qualifications and regular training both for agents and, more 
+extensively, for brokers. There are requirements on intermediary financial 
+resources and governance, although there is scope for elaboration of the latter, 
+which rely on general corporate law, to reflect the importance of intermediaries 
+in relation to policyholder protection and the significant number and important 
+role in non -life insurance of brok erage companies. AFSA collects data from 
+intermediaries and has been resuming on -site supervision, including of banks , 
+which play an important role in the distribution of life insurance because of their 
+requirement for insurance in connection with loans. 
+It is recommended that AFSA review its requirements on intermediary 
+governance and develop them further, including in the areas of the 
+responsibilities of boards, senior management, compliance, etc. 
+ICP 19 Conduct of Business 
+The supervisor requires that insurers and intermediaries, in their conduct of 
+insurance business, treat customers fairly, both before a contract is entered into 
+and through to the point at which all obligations under a contract have been 
+satisfied. 
+Description Policies and processes on the fair treatment of customers 
+Article 58 of the Insurance Law sets out a general requirement on consumer 
+protection applying to insurers and intermediaries and requiring them to: 
+• Perform their activities with professionalism, care and devotion , acting in 
+good faith and honestly;  
+• Inform the insured on the products, conditions of the insurance contract, 
+benefits arising from such contracts as well as premiums and fees;  
+• Handle claims in a timely, fair and transparent manner; and
+
+Public 
+• Not provide information or misrepresentations that misinform or deceive 
+consumers.  
+Other requirements in law s and regulations are aimed at the outcome that 
+customers are treated fairly (so that they are given appropriate information, have 
+their claims and complaints handled fairly , etc). There are no requirements 
+explicitly referring to the need for policies and processes on the fair treatment of 
+customers as an integral part of an insurer’s or intermediary’s business culture. 
+Conflicts of interest 
+Article 61 of the Insurance Law requires an insurer to inform the consumer of 
+any conflict of interest it may have with any oth er party, including all economic 
+and legal ties, which might affect the compliance of the insurer ’s obligations to 
+the consumer.  
+For intermediaries, Article 63 requires that they provide consumers, prior to 
+signing contracts, with information on costs rel ated to the insurance contract.  
+Regulation No 48 of 2015 (Article 8) and No 79 of 2015 (Article 6; see ICP 18) 
+require agent and brokerage companies to have policies and/or processes on 
+conflict of interest management. 
+Arrangements between insurer and intermediaries to ensure the fair 
+treatment of customers 
+Licence applications by insurance agents and brokers have to be accompanied 
+by an agreement between the agent and the insurer detailing which activities 
+the agent will perform (Regulations 48 and 79 of 2015).   
+There are no other explicit requirements on arrangements between insurers and 
+intermediaries that should set out respective responsibilities on matters such as 
+product development and promotion to ensure fair treatment of customers.  
+Product development  
+Insurers must submit information on products, premiums , etc as part of the 
+business plan prepared for licensing and in case of a proposed expansion in the 
+scope of activities  to additional insurance classes (Articles 30 and 36 of the 
+Insurance Law).  
+There are no ongoing requirements in relation to product development. 
+However, for specific products or product designs for specific target groups, 
+AFSA assesses and will approve the terms and conditions of products in the 
+course of supervision work. Examples of products approved include decennial 
+liability (insurance to cover costs associated with the potential collapse of a 
+building after completion) and life and health insurance for military personnel. 
+Promotion of products and services in a fair, clear and non -misleading 
+manner 
+The Insurance Law requires insurers and intermediaries to provide consumers 
+with timely, clear and adequate pre -contractual information and information 
+during the life of the contract. Articles 67 and 68 of the Insurance Law  require
+
+Public 
+that the promotional information on insurers and products, whatever the medium 
+through which it is provided, contain clear, true and complete data.  
+The Consumer Protection Department of AFSA monitors the published 
+information and promotional campaigns of insurers, and in case of new 
+products, assesses the product’s characteristics and its terms and conditions in 
+cooperation with the Risk Management Directorate (where actuarial expertise is 
+located), where necessary.  
+Pre-contractual stage 
+Article 213 of the Insurance Law establishes the responsibility of intermediaries 
+to make information available to the insured prior to signing and also when 
+changing or extending the insurance contract. This should include basic factual 
+information such as the name of the insur er they have an agreement with, 
+information on pre-contractual terms and information on submitting complaints.  
+Taking into account the customer’s disclosed circumstances 
+Article 206 of the Insurance Law defines the responsib ilities of brokers and/or 
+brokerage companies to protect the interests of the insured. They should in 
+particular:  
+• Conduct an appropriate risk assessment and establish the required 
+coverage;  
+• Provide a written explanation and reason for their proposals as well as inform 
+the insured on the amount of the brokerage fee; and 
+• Provide brokerage services which follow the requests of the insured in terms 
+of insurance coverage.  
+Article 213 of the Insurance Law requires brokers to assess a sufficient number 
+of contracts issued in the market to provide relevant professional 
+recommendations to the insured to meet their needs and circumstances. 
+There are no similar requirements applying to agents or insurers.  
+Policy servicing 
+Under Article 64 of the Insurance Law, insurers and intermediaries must inform 
+the insured within 10 days of any changes to the insurance legislation, 
+insolvency, mergers, takeovers, liquidation or winding -up of companies, 
+revocation of a licence for a specific class or all classes of insurance, and of any 
+other change or events affecting the rights and obligations of the insured.   
+During the validity of the i nsurance contract, insurers and intermediaries are 
+required to fulfil their obligation to provide information by using their official 
+websites, mail, fax, telegraph, email and secure electronic signature.  
+Article 62 of the Insurance Law provides that if the insurer or intermediary does 
+not fulfil the obligation for information or the information provided is deceptive or 
+misleading or not relevant and consistent with facts, before the signing or during 
+the validity of the contract, the insured has the right to terminate the contract and 
+claim compensation for damage caused.
+
+Public 
+Claims handling 
+Article 59 of the Insurance Law sets requirements on claims handling, requiring 
+that where an insured event occurs, the insurer must pay a compensation or the 
+insured amount to the insured in accordance with the contract. Insurers must 
+establish an internal system for handling insurance claims.  
+Where claims are handled by claims adjusters, these must be licensed by AFSA. 
+AFSA has a standard methodology for the handling of the MTPL claims set out 
+in Regulation No 125 of 28  July 2021 “On determining the rules and 
+methodology for calculating the indemnity covered by the compulsory insurance 
+contract in the transport sector”. The regulation was developed based on Article 
+11 of Law No 32 of 16 March 2021 “On compulsory insurance in the transport 
+sector” and the approach it sets out is mandatory for insurers.  
+Handling complaints in a timely and fair manner 
+Article 69 of the Insurance Law provides that customers may file complaints with 
+insurers, which should address them within 15 working days. Insurers should 
+establish internal systems for handling complaints.  
+AFSA’s Regulation No 35 of 28 May 2015 “On procedures and review of 
+complaints” spells out the complaints procedures. Complaints handling systems 
+are assessed in on-site inspections.  
+Complaints may also be made to AFSA. During 2021, the Authority handled 221 
+complaints across all its areas of responsibility, compared with 151 in 2020, an 
+increase of 46%, almost  all related to insurance. After the intervention of the 
+Authority, about 58% of these complaints were resolved by agreement between 
+the parties. MTPL insurance generated the highest number of complaints.  
+Complainants can also take their case to court. Th ere is no other independent 
+dispute settlement process or authority.  
+AFSA uses data on complaints it receives as an indicator of the activities of the 
+supervised entities and as a signal for the current or possible risks. 
+Protection and use of information of customers 
+The principle of confidentiality and obligation to protect confidentiality is set out 
+in Articles 71 and 72 of the Insurance Law. Insurers and intermediaries must 
+keep confidential any data, facts and circumstances related to the i nsured of 
+which they become aware in the course of conducting their activity.  
+Under Article 73 of the Insurance Law, insurers must collect, protect, deposit 
+and use personal data obtained through their activity in compliance with Law No 
+9887 of 10 March 2008 “On personal data protection”. The obligation to protect 
+confidentiality does not apply in prescribed circumstances, including where the 
+insured agrees explicitly in writing to their disclosure; and where the information 
+is required to establish facts in criminal proceedings.  
+Supervisory publication of information supporting fair treatment of 
+customers
+
+Public 
+AFSA’s website has a consumer protection section with information, including 
+the charter of consumers’ and investors’ rights, complaints, verification of MTPL 
+insurance policies, and claims status (which enables policyholders to check the 
+progress of a claim directly online).  
+Assessment Largely Observed 
+Comments There are extensive regulatory requirements on conduct of business and AFSA 
+undertakes supervision, supported by expert resources, to assess the practices 
+of insurers and intermediaries, including thematic supervision to address such 
+areas as claims handling.  
+The requirements and supervisory practices generally cover the ICP 
+requirements. However, t here are no explicit requirements for policies and 
+processes on the fair treatment of customers as an integral part of business 
+culture; for arrangements betwee n insurers and intermediaries governing 
+responsibilities on matters such as product promotion; or for product 
+development to take into account the interests of different customers.  
+Requirements to conduct an appropriate risk assessment apply only to brokers.  
+AFSA’s extensive consumer protection work, including surveillance of the 
+market, evaluation of new products, handling of customer complaints and 
+regulating how MTPL claims are to be handled, enables it to intervene effectively 
+in the interests of consu mers where necessary. Products and distribution 
+practices are relatively simple and standard, from a consumer protection 
+perspective, in the Albanian market. Nonetheless, it is recommended that AFSA 
+strengthen its regulatory approach by developing requirem ents in the areas of 
+business culture  and arrangements between insurers and intermediaries 
+regarding their respective responsibilities for product development and customer 
+risk assessment, applying them to both insurers and intermediaries, as 
+appropriate.  
+ICP 20 Public Disclosure 
+The supervisor requires insurers to disclose relevant and comprehensive 
+information on a timely basis in order to give policyholders and market 
+participants a clear view of their business activities, risks, performance and 
+financial position. 
+Description Annual report 
+Article 128 of the Insurance Law requires insur ers to publish an annual report, 
+including audited financial statements and the auditor’s opinion, on their official 
+website no later than six months after the end of the calendar year. Article 6 6 
+has a similar requirement that the latest audited financial statements, including 
+the auditor’s opinion, be available on company websites.  
+AFSA’s Regulation No 110 of 26 October 2015 “On the content of the annual 
+report published by insurance and reinsurance companies” sets out:
+
+Public 
+• The principles for preparation of the report (completeness, materiality; clarity 
+in expression; simplicity; adequacy in availability and use of the report ; 
+Article 5); 
+• Detailed information which the report must present, including at least (Article 
+6): 
+- Company profile and governance; 
+- Financial statements prepared in line with jurisdictional reporting 
+financial standards; 
+- External auditor’s report; 
+- Internal audit report; 
+- Lists of shareholders and participations of the company; 
+- A summary description of the principles of monitoring, management and 
+risk control; 
+- Objectives of the company for the following year; and 
+- Indicators on assets covering technical provisions, capital adequacy and 
+liquidity.  
+• Requirements to disclose an analysis of the activity of the company (Article 
+6); 
+• Requirements that disclosures be made in a manner that is comprehensible 
+to market participants regarding their profile, governance and controls, 
+financial position, technical performance and the ris ks to which they are 
+exposed (Article 6); and  
+• A requirement that the annual report be published in written and electronic 
+form and made available on websites and public places (and, via a link) on 
+AFSA’s website (only links to company websites were availa ble at the time 
+of the assessment; Article 7). 
+Disclosures on company profile, governance, etc 
+Disclosure requirements are limited to those required to be made in the annual 
+report, including information on governance, risk management and controls (see 
+above). Insurers may report additional details on their websites.  
+There are no explicit requirements for disclosure of key business segments, the 
+external environment in which the insurer operates or its objectives and the 
+strategies for achieving those objectives (ICP 20.3), although insurers may 
+interpret the requirement to disclose “company profile and governance” (Article 
+6 of Regulation No 110 of 2015) to include these.  
+Article 66 of the Insurance Law (which also deals with obligations on insurers to 
+provide information to policyholders) does, however, require that insurers use 
+their websites to provide access to information on the insurer and its 
+management structure and capital as well as the services and products offered, 
+general terms of contracts , etc. Article 66 also requires that insur ers establish 
+and maintain their websites to effectively fulfil their information disclosure 
+obligations.
+
+Public 
+In practice, insurers publish information on their corporate profile and 
+governance in their annual reports. 
+Disclosures on technical provisions 
+The disclosure requirements in the Insurance Law and Regulation No 110 of 
+2015 do not explicitly include disclosure of information on an insurer’s technical 
+provisions by business segment, including future cash flow assumptions, choice 
+of discount rates, risk adjustment methodology where used and other 
+information as appropriate (ICP 20.5). These issues are covered in the actuary’s 
+report (not published) and may also be covered in the external auditor’s report, 
+which must be included in the published annual report under Regulation No 110 
+of 2015.    
+Disclosures of material insurance and investment risk exposures and their 
+management, fin ancial instruments and other investments and  asset-
+liability management 
+Disclosure requirements are limited to those required to be included in the 
+annual report (see above). These require the publication of financial and risk 
+(and risk management) information: the summary description of the principles of 
+monitoring, management and risk control and information on capital adequacy, 
+a liquidity indicator and assets covering technical provisions.  
+Insurers disclose information as required by IFRS which are mandatory for 
+insurer financial statements.   
+Regulation No 18 of 28 April 2015 “On the organization of the insurance 
+company risk management system” requires all insurers to prepare an annual 
+risk evaluation report (ORSA – see ICP 16) and submit it to AFSA by the end of 
+May. Such a report must provide a thorough explanation and description of risk 
+exposures, measurement and management. Summary details of the report may 
+be included in the annual report , but there is no explicit requirement to publish 
+any of the risk evaluation report, which is mainly a supervisory report for 
+submission to AFSA.  
+Capital adequacy and liquidity 
+Disclosure requirements are again limited to those to be included in the annual 
+report (see above) under Regulation No 110 of 2015. The requirement is only to 
+publish an indicator and insurers meet this requir ement by publishing the ratio 
+of available capital to minimum required capital. Other information is published 
+about capital adequacy in line with IFRS requirements , including the 
+composition of capital available to cover regulatory capital requirements and 
+capital management policy. There is no requirement to publish the solvency 
+requirements of jurisdictions in which the insurer operates. Insurers do not use 
+internal models.     
+Required disclosures on an insurer’s liquidity risk are limited to publication of a 
+liquidity indicator. Insurers publish in annual reports a single number liquidity 
+ratio (the average daily liquidity ratio, although no definition is given in  Article 6 
+of the Regulation).
+
+Public 
+Performance 
+There are no specific supervisory disclosure requirements covering financial 
+performance, in total and at a segmented level including information on earnings 
+analysis, claims statistics, pricing adequacy and inve stment performance (ICP 
+20.12). Disclosure requirements are again limited to those to be included in the 
+annual report under Regulation No 110 of 2015 and in practice insurers make 
+disclosures in line with IFRS requirements.  
+Assessment Largely Observed 
+Comments Required disclosures cover a wide range of financial and other information and 
+are concentrated in the insurer’s annual report , which by regulation and in 
+practice is widely available. The separate requirement on insurers to publish 
+financial statements using IFRS means that disclosures are in practice largely 
+presented in IFRS formats and related to the consolidated financial position of 
+the insurer and group (limited information is available on the individual insurer). 
+The additional required dis closures, on capital and liquidity adequacy, are 
+limited to indicators, although they may be supplemented by information from 
+the risk evaluation report. The annual report also helpfully covers objectives and 
+key business lines of the insurer. 
+As the market is small, mainly focused on non -life insurance and with a limited 
+range of products, existing disclosures, focused on the annual report and report 
+of the external auditor, may be sufficient. Discussions with intermediaries during 
+the assessment work suggested that they are valued and used in practice. In 
+the future, increased disclosures may be required as AFSA develops its financial 
+requirements to align them with the EU Solvency II requirements.  
+It is recommended that AFSA focus on increasi ng disclosures about financial 
+strength of insurers and taking measures to support understanding of the 
+numbers. This would entail requiring insurers to provide more details about 
+capital adequacy, including changes in capital requirements over the period; and 
+taking steps to improve public understanding of the solvency margin and 
+potentially also the liquidity ratio.  
+ICP 21 Countering Fraud in Insurance 
+The supervisor requires that insurers and intermediaries take effective measures to 
+deter, prevent, detect, report and remedy fraud in insurance. 
+Description Fraud in insurance in legislation 
+Fraud in insurance is a criminal offen ce under the Criminal Code, Section II 
+(Article 145), which stipulates that submission of a false insurance application 
+(or false information) or fabrication of false insurance claims may be penalised 
+with five years of imprisonment.  
+Under Article 240 of the Insurance Law, insur ers and intermediaries must take 
+all the necessary measures for preventing and rectifying any cases of fraud in
+
+Public 
+the course of carrying out insurance activity. Insur ers and intermediaries must 
+promptly report to AFSA facts that amount to fraud in insurance.  
+Article 125 of the Insurance Law requires the external auditor of the insurer or 
+intermediary to promptly report to the Authority any facts in relation to an insurer 
+of which the audit company has become aware in the course of performing its 
+tasks, and which are related to fraud or embezzlement, theft, money laundering 
+or financing of terrorism.  
+Supervisory framework and different types of fraud risk 
+Regulation No 135 of 31 October 2014 “On procedures and minimum principles 
+regarding the internal control system and other aspects of an insurance 
+company information system” requires, among st other provisions, that the 
+management of an insurer adopt internal policies on the use of information and 
+communication technology (ICT) systems which aim to prevent and limit (inter 
+alia) fraud and possibilities for abuse of information. 
+AFSA has develop ed a  claims supervision manual (in cooperation with the 
+World Bank) which serves supervisors as guidance to assess whether insurers: 
+(a) establish systems and controls for fraud detection ; (b) raise claimants’ 
+awareness of the consequences of submitting fa lse claims ; (c) establish 
+databases with suspected fraudulent claims ; and (d) train their staff to detect 
+falsehood and possible fraud. In addition, the manual provides a structured 
+approach for AFSA to monitor potential fraud cases during its on-site 
+inspections.   
+AFSA takes into account the risk of fraud in insurance in the course of its on-site 
+inspections, where it discusses the insurer’s fraud systems and controls. 
+Cooperation, coordination and exchange of information with other 
+competent authorities 
+The AFSA Law empowers cooperation and information -sharing with other 
+relevant authorities according to Article 18/1 of the Law (see ICP 3). In addition, 
+under Article 236 of the Insurance Law, AFSA’s powers to cooperate, coordinate 
+and exchange information  with other competent authorities, such as law 
+enforcement authorities and other supervisors extend to “required information in 
+relation to fraud committed in the course of carrying out activities in the area of 
+insurance”. Exchange of information is ensured on a high level between relevant 
+authorities such as police departments due to the maintenance of good 
+relationships, according to AFSA.   
+Assessment Largely Observed 
+Comments Key requirements on insurance fraud are in place and AFSA takes into account 
+the risk of fraud in its inspections of insurers and intermediaries, focusing on 
+systems and controls.  
+However, most fraud cases are reported directly by the insurer to the police and 
+prosecutor’s office and AFSA’s experience of fraud is limited i n practice. The 
+Authority regards fraud risks as low, partly reflecting the nature of the market
+
+Public 
+and controls such as its online calculator for bodily injury claims , which helps 
+prevent claims inflation. In contrast, insurers reported that they view the risk as 
+high.   
+It is recommended that: 
+• AFSA deepen its understanding and awareness of fraud risks , including 
+fraud typologies and fraud related to different insurance products; 
+• AFSA review the effectiveness of measures for prevention and detection as 
+well as reporting of fraud to the Authority; and 
+In order to gain more insights into types of fraud and to enhance fraud detection 
+and prevention in the insurance sector and facilitate communication with the 
+sector, AFSA consider appointing an internal contact person on fraud issues.  
+ICP 22 Anti-Money Laundering and Combating the Financing of Terrorism 
+The supervisor requires insurers and intermediaries to take effective measures 
+to combat money laundering and the terrorist financing. The supervisor takes 
+effective measures to combat money laundering and terrorist financing. 
+Description Jurisdictional framework 
+Anti-money laundering and combating the financing of terrorism (AML/CFT) 
+requirements are set out in the AML Law (Law No 9917 of 19 May 2008 “On 
+anti-money laundering and countering financing of terrorism”).  
+The General Directorate for the Prevention of M oney Laundering (GDPML) is 
+the jurisdictional authority for AML/CFT policymaking and implementation. It is 
+the financial intelligence unit for the whole economy, operating under the 
+Albanian Ministry of Finance. The GDPML may and does conduct on -site 
+inspections in the insurance sector by itself or jointly with AFSA. 
+Albania is subject to review of its AML/CFT framework by MONEYVAL (the 
+Committee of Experts on the Evaluation of Anti -Money Laundering Measures 
+and the Financing of Terrorism, a permanent monitoring body of the Council of 
+Europe).  According to the MONEYVAL follow -up report of May 2022, Albania 
+has improved AML/CFT measures, demonstrating good progress in the level of 
+compliance with the FATF (Financial Action Task Force) standards. It was 
+assessed as having taken necessary steps in the area of licensing of non -
+banking financial institutions8.  
+Understanding of ML/FT risks and a risk-based approach 
+AFSA has defined a framework for AML/CFT in Regulation No 58 of 30 June 
+2015 “On due diligence and enhanced due diligence measures by the subjects 
+of law for anti -money laundering and countering financing of terrorism”, 
+supplementing the AML Law, and has a single risk-based supervisory approach 
+ 
+8 Albania remained at the time of the assessment on the list of countries classified by the FATF as “under increased monitoring” 
+(known as the “grey list”), which is used for countries actively working to address strategic deficiencies in their regimes.
+
+Public 
+for all entities which it supervises, including insurers, laid down in its Anti-Money 
+Laundering Supervision Manual of 2015 (published on the website).  
+Regulation 58 applies only to “companies involved in life insurance or 
+reinsurance, agents or intermediaries”, reflecting the assessment that AML/CFT 
+risks are limited to life insurance.  
+Risk assessment is a key part of AFSA’s approach. Regulation No 58 of 2015 
+includes a Guideline which defines the way to assess ML/FT risks, using a risk 
+matrix which covers internal and external risks. Life insurers are required  to 
+assess their risk at least annually in line with the regulation, which also requires 
+them to report transactions to the GDPML, which shares them with AFSA on 
+request. Article 11 of Regulation No 58 requires life insurers to report annually 
+to AFSA their classification of customer risks. Risk assessment work on 
+individual life insurers is shared with the GDPML.  
+Owing to the underdevelopment of life insurance and reinsur ance activities, 
+ML/FT risk across the sector is assessed as low.  This is reflected in the 
+jurisdictional risk assessment’s sectoral assessment. 
+Guidance and feedback to comply with AML/CFT 
+There is extensive guidance provided by AFSA as part of Regulation  58. This 
+includes questionnaires to be used by insurers covering various issues including 
+their approach to “know-your-customer” (KYC) requirements.  
+In addition, AFSA’s AML Supervision Manual of 2015 provides guidance on the 
+expected coverage and contents of detailed AML/CFT policies and procedures, 
+including identification of higher-risk accounts, customer due diligence, product 
+design and use; employee compensation and bonus arrangements; monitoring 
+(including the review of early policy terminations and  suspicious transaction 
+reporting); and record-keeping. 
+The guidance in the Regulation also covers: 
+• The need for insurers’ internal AML policies to set out the responsibilities of 
+the board and management to ensure that the policy is implemented and 
+communicated, appoint an AML compliance officer and other matters. 
+Business functions should have the responsibility to execute AML controls 
+in the first line of defence, including identification and verification of beneficial 
+ownership of the customer and due diligence; and 
+• Training of employees, all of whom should receive at least basic training on 
+the principles of AML, etc, while employees in exposed functions must have 
+full/enhanced AML training. AML training should be followed by testing.  
+AFSA provides insurers and intermediaries with information on AML/CFT 
+compliance through emails and the website, for example on amendments to 
+regulations addressing MONEYVAL/FATF recommendations. In cooperation 
+with the GDPML, it also provides training for supervised entities. 
+Monitoring and enforcing AML/CFT requirements 
+AFSA has an AML unit in the Enforcement and Anti -Money Laundering 
+Directorate, under the Legal Affairs Department , with four full-time equivalent
+
+Public 
+staff, two of whom are dedicated to the insurance sector. Staff receive training. 
+For example, they have participated in training organi sed by the Council of 
+Europe and FATF for reporting institutions.  
+Supervision is carried out in accordance with the Anti-Money Laundering 
+Supervision Manual of 2015. Risk assessment is undertaken off -site based on 
+reported information and using the risk matrix (see above), which informs the 
+AML inspection plan. During inspections, systems and policies are reviewed and 
+inspection reports, identifying corrective ac tions, are sent to the company. In 
+2021, AFSA conducted nine on-site inspections on AML/CFT.  A key focus has 
+been CFT risks, reflecting issues raised (for the economy generally) by 
+MONEYVAL. A thematic approach was taken.    
+Cooperation and coordination 
+The AFSA Law empowers cooperation and information -sharing with other 
+relevant authorities according to Article 18/1 of the Law, and AFSA cooperates 
+and shares information, including on AML/CFT issues, in practice (see ICP 3).  
+AFSA has signed a memorandum of understanding with the GDPML. It is also 
+a member of the inter-institutional group created by Decision No 1, dated 19 
+February 2020, of the Committee on the Coordination of Fight against Money 
+Laundering, to address the recommendations made  by the FATF and its 
+International Cooperation Review Group (ICRG). A cooperation agreement was 
+signed between AFSA and the GDPML in 2020 to support this work. 
+Assessment Observed 
+Comments AFSA has a risk -focused AML framework for supervision, has issued  a 
+regulation and guidance to the life insurance sector and cooperates and 
+exchanges information with other authorities. It has strengthened its AML/CFT 
+framework based on MONEYVAL/FATF recommendations. There are no 
+outstanding FATF issues relating to insurance, following work by AFSA on CFT 
+issues.  
+While AML/CFT risks in the insurance sector are assessed as low, AFSA 
+conducts extensive supervision, both o ff-site based on reporting and through 
+inspections carried out by specialist staff. On-site work is often conducted jointly 
+with the jurisdictional authority, the Albanian government’s General Directorate 
+for the Prevention of Money Laundering (GDPML), with whom there is generally 
+close cooperation.  
+ICP 23 Group-wide Supervision 
+The group-wide supervisor, in cooperation and coordination with other involved 
+supervisors, identifies the insurance group and determines the scope of group 
+supervision. 
+Description Identification of group legal entities and scope of supervision 
+There are three international insurance groups operating in the Albanian market. 
+Two of these are groups headquartered in Austria with Albanian insurance
+
+Public 
+subsidiaries and the other is headquartered in Albania with subsidiaries in 
+Kosovo. There is also an insurance group doing business exclusively in Albania. 
+The legal entity structure in Albania for all of these groups is simple and does 
+not include any non-regulated entities. This makes identification of the group’s 
+legal entities a simple process. All relevant regulators and supervisors have 
+agreed to the list of legal entities and the scope of supervision.  
+Article 50 of the Insurance Law requires that “if a company is going to be a 
+member of an insurance group, that insurance group must have the appropriate 
+structure enabling appropriate exercise of supervision, exchange of information 
+between the responsible supervisory authorities and the allocation of 
+responsibilities among those authorities”. 
+Articles 140 –48 of the Insurance Law are directed specifically at insurance 
+groups. The articles in this section describe the scope of group -wide 
+supervision, the entities that make up a group, obligations of an insur er 
+operating within a group, intragroup reporting requirements, group governance, 
+and solvency.   
+Regulation No 55 of 26 May 2017 “On the supervision of the insurance group” 
+provides further supervisory expectations, including information related to the 
+scope of supervision, consolidated group capital adequacy, and reporting 
+requirements. The reporting requirements include a report on the structure of 
+the insurance group that contains a list of group entities with financial and group 
+relationship information for e ach entity. The regulation also describes 
+requirements for the group’s internal control system and how the Authority 
+evaluates groups. 
+The Authority proactively cooperates with and has signed MoUs with insurance 
+supervisors from various foreign jurisdictio ns, including the Central Bank of 
+Kosovo, Austrian Ministry of Finance and Austrian Financial Market Authority, 
+Insurance Supervision Agency of North Macedonia (ISA), Insurance Supervision 
+Agency of Slovenia, Croatian Financial Services Supervisory Agency (HANFA), 
+Italian Institute for the Supervision of Insurance (IVASS), and Financial Conduct 
+Authority (FCA, UK). AFSA participates in supervisory colleges annually led by 
+the Austrian insurance regulator. It also leads a quarterly supervisory college for 
+the international group headquartered in Albania as the home supervisor with 
+Kosovo. 
+Having signed MoUs with insurance supervisors from various foreign 
+jurisdictions, the Authority is able to be informed of and identify all legal entities 
+that are part of th e insurance group and ensure agreement with respect to the  
+scope of supervision. 
+Assessment Observed 
+Comments Current laws, regulations and supervisory practices are sufficient to meet the 
+expectations of ICP 23, particularly given the simple legal entity organisation 
+structures that exist in the Albanian insurance market. AFSA is reviewing
+
+Public 
+changes that may need to be made related to group-wide supervision as it plans 
+for the implementation of Solvency II in the future. 
+ICP 24 Macroprudential Supervision 
+The supervisor identifies, monitors and analyses market and financial 
+developments and other environmental factors that may impact insurers and the 
+insurance sector, uses this information to identify vulnerabilities and address,  
+where necessary, the build-up and transmission of systemic risk at the individual 
+insurer and at the sector-wide level. 
+Description Data collection for macroprudential supervision 
+The Authority publishes statistical information quarterly on its website regarding 
+the insurance sector, including:  
+• List of insurers (date licensed to do business, date first policy sold, majority 
+domestic/foreign, class of business sold); 
+• Company statistics: earned p remiums, gross written premiums, claims 
+incurred, gross claims paid, capital; 
+• Market statistics (for the entire market and split by life/non -life): balance 
+sheet assets (detailed break down, balance sheet liabilities (detailed 
+breakdown, and income statement; and 
+• Efficiency ratios: 29 different ratios, for the entire market and split by life/non-
+life. 
+On a monthly basis, the Authority publishes a comprehensive statistical report 
+on the performance of the insurance market. The information is broken down by 
+company, insurance product and type of insurance and includes metrics ranging 
+from various market share reports to written premiums and paid claims. 
+The information made available publicly on its website is in addition to the 
+extensive information that the A uthority collects but does not make public. 
+Required reporting by insurers is detailed in Regulation No 34 of 28 May 2015 
+“On compulsory and periodic reporting of insurance and reinsurance 
+companies”. The information collected is both quantitative and qualitative and is 
+used by the Authority to monitor individual firms and the market as a whole.  
+Analysis of macroprudential risks 
+Because the Albanian insurance market is small, it is unlikely to pose a financial 
+stability risk to the country. The Authority t herefore focuses its surveillance on 
+externalities that may impact insurers, including primarily the impact of interest 
+rates and inflation . The Authority also considers concentrations of risk within 
+insurers, such as the increasing concentration of real estate exposure in insurer 
+investment portfolios, and establishes limits as necessary. It considers liquidity 
+risks at individual insurers and across the market.  
+AFSA does not regard any individual insurer as systemically important. In 
+reaching this view, it takes into account the nature of the products in the market 
+(including the high degree of concentration on motor insurance), the number and
+
+Public 
+market share of insurers and the ease with which policies could be transferred 
+or replaced in case of failure of one insurer. 
+The Authority is a member of the country’s FSAG (see ICP 1), whose objective 
+is to address potential macroprudential issues , and also participates with the 
+Bank of Albania in complex crisis simulations. The Bank of Albania includes an 
+analysis of the insurance sector in its reporting on financial stability issues.   
+Transparency 
+The Authority  publishes an annual report that describes the markets it 
+supervises (including insurance). The report includes how the insurance market 
+has performed using various methods and discusses market trends observed 
+and how the industry has responded to various market challenges. The report 
+also discusses the Authority’s supervisory activities , including the types of off -
+site supervisory work performed, on -site inspections, thematic inspections and 
+group-wide supervision. 
+The Authority  also publishes an annual supervision report for the insurance 
+industry that includes comprehensive quantitative data on the industry and trend 
+analysis. 
+Official bulletins are published on the Authority’s website describing its actions 
+against specific insurers, approval of various measures and other decisions 
+taken. 
+Assessment Observed 
+Comments Although the size of the market and individual insurers does not warrant 
+concerns from a systemic risk perspective, the Authority has established 
+processes that put it in a good position to monitor the industry’s impact on the 
+economy and the impact of various risks on the industry. The Authority collects 
+extensive information that it uses to actively monitor and report on the industry, 
+including the liquidity of the insurers. The Authority is highly transparent about 
+the market and its own supervisory practices.  
+ICP 25 Supervisory Cooperation and Coordination 
+The supervisor cooperates and coordinates with involved supervisors and 
+relevant authorities to ensure e ffective supervision of insurers operating on a 
+cross-border basis. 
+Description Agreement on identification and role of group-wide supervisor  
+The Authority has signed MoUs  and proactively cooperates with insurance 
+supervisors from all relevant foreign jurisdictions, including the Central Bank of 
+Kosovo (CBK), Austrian Ministry of Finance and Austrian Financial Market 
+Authority (FMA), Insurance Supervision Agency of North Ma cedonia (ISA), 
+Insurance Supervision Agency of Slovenia  (AZN), Croatian Financial Services 
+Supervisory Agency (HANFA), Italian Institute for the Supervision of Insurance  
+(IVASS), and Financial Conduct Authority (FCA, UK). The Authority participates
+
+Public 
+in supervisory colleges annually led by the Austrian insurance regulator and 
+leads supervisory colleges quarterly as the home supervisor with Kosovo. 
+The Authority recognises, in particular, the significance of the two insurance 
+groups headquartered in Austria and has established close cooperation with the 
+Austrian FMA. It participates in regional supervisory colleges related to the 
+Austrian insurance groups and considers that the effectiveness and maturity of 
+its supervision has benefited sign ificantly from its interaction with the Austrian 
+authority. It has enabled AFSA to understand, for example, how the operations 
+in Albania relate to and affect the operations of the group and vice versa. 
+AFSA also conducts joint inspections with other relev ant regulators  and 
+supervisors, including with the Austrian FMA in 2018 and 2022, and in prior 
+years with the CBK and ISA. 
+Suitable coordination arrangements 
+Methodological Guideline No 250 of 28 December 2018 “On insurance group 
+supervision” describes the information-sharing agreement between AFSA, ISA 
+(North Macedonia) and the CBK. It sets out general rules of cooperation 
+between the supervisors “aiming at exchanging information in view of an 
+effective supervision at group level for the national insurance  and reinsurance 
+companies, which have invested or have their branches in foreign countries” . 
+The reporting forms used to share information are described as well as the plan 
+for supervisory colleges to meet quarterly. The guideline describes the 
+agreement to participate in joint inspections and the confidentiality agreement. 
+Methodological Guideline No 250 also commits AFSA, ISA and the CBK “in the 
+event of a decision, which impacts other companies within the insurance group” 
+to exchanging in advance “infor mation with the Authority where the company 
+affected by such decision-making is located”. AFSA has in practice cooperated 
+with another regulatory authority cross-border in a crisis: with the CBK in respect 
+of the withdrawal of the licence of an Albanian insurer's Kosovo branch.   
+Assessment Observed 
+Comments Although the Albanian insurance market is relatively small, insurance groups 
+account for most of the gross premiums written. Accordingly, the Authority has 
+taken appropriate actions to ensure proper supervision and regulation of 
+insurance groups, including by establishing strong working relationships with 
+other relevant regulators and supervisors.
+
+Public 
+The Authorities’ response to the assessment 
+The Albanian Financial Supervisory Authority (AFS A) would like to share with you its feedback as 
+an evaluated jurisdiction, upon completion of the Member Assessment Programme (MAP) exercise.  
+With the aim of advancing towards the best international standards in the field of insurance, in the 
+period 2021–22, AFSA was subject to the process of a full assessment of the compatibility of the 
+legal and regulatory frameworks and supervisory practices with the Insurance Core Principles 
+(ICPs). This was the second time Albania had been through the ICP assessment process; the first 
+was carried out in 2013 by the IMF and World Bank, within the framework of the Financial Sector 
+Assessment Program (FSAP). Following the FSAP recommendations, major changes were 
+introduced into AFSA’s law, and a new law on insurance and reinsurance activity was approved. 
+During 2022, the MAP was conducted by the IAIS, following a request from AFSA. The evaluation 
+of ICP compliance was triggered by the above -mentioned legal changes, the dynamics of the 
+development in the insurance market during this period, as well as the need for a new assessment 
+of the compliance of the supervisory practices and standards applied by AFSA, compared with the 
+ICPs’ requirements. 
+This exercise proved to be overall very positive and useful for AFSA as it enhanc ed the 
+understanding of the ICPs and their implementation in practice, and identified gaps between  the 
+existing legal and regulatory framework and practice and those foreseen in the international 
+standards. The process was also helpful in light of the prospective transition to the European Union’s 
+(EU) Solvency II regime and bilateral meetings in the context of the EU integration process.  
+The self -assessment phase allowed AFSA to deepen its insight into the current regulatory 
+framework, supervisory practices and potential areas where improvement is needed. We consider 
+very positively the fact that the evaluation outcome from the Assessment Team in its majority was in 
+line with the self-evaluation.  
+During the self-assessment and the feedback sessions with the experts, we were able to identify the 
+areas of potential improvement of supervisory practices and reflect on alternative solutions. AFSA 
+remains highly committed to addressing the identified legal and regulatory gaps and to improving 
+supervisory practices.  
+The peer -review assessment reflects AFSA’s achievements in progressing with the regulatory 
+framework and going forward with further alignment with the ICPs. In our view, a few gaps are also 
+subject to a larger macroeconomic context and other country -specific factors and these 
+recommendations should be carefully adapted within the domestic context. 
+Overall, the MAP provided AFSA with valuable insights towards enhancing the insurance regulatory 
+and supervisory frameworks. Some of the key lessons learnt from the MAP include: 
+• The importance of a robust legal and regulatory framework that is essential for effective 
+supervision of the insurance industry, clear and enforceable laws and regulations, as well as 
+effective supervision through the use of adequate powers and resources; 
+• The need for further developing risk -based supervision, with a major focus on areas of higher 
+risks to the insurance industry and policyholders and allocating supervisory resources 
+accordingly; 
+• The importance of information -sharing and cooperation between different regulators and other 
+stakeholders, both domestically and internationally, to ensure effective supervision; and
+
+Public 
+• The need for improved transparency and accountability to promote trust in the insurance market 
+and ensure that the regulatory and supervisory frameworks are effective. 
+We consider that the process was successful, also due to the following: 
+• Meeting the Assessment Team, composed of professionals of different backgrounds and areas 
+of expertise, was very enriching professionally. The on-site discussions allowed us to exchange 
+our points of view prior to the evaluation, and also permitted AFSA’s team to further reflect on 
+particularities and technical aspects of each ICP; 
+• The preparatory period provided AFSA with the opportunity to independently realise any non -
+compliance with ICPs. Then, during meetings, the specific issues were further discussed, 
+allowing for an exchange of knowledge and experiences, which, in our opinion, had mutually 
+beneficial results;  
+• Meetings with the market participants, government representatives, and other key entities in the 
+country provided the team with the necessary feedback, suggestions and comments on the 
+current practices to evaluate the feasibility of any course of action;  
+• In the beginning of 2023, during the bilateral meetings held in the European Commission on the 
+framework of Albania’s accession to the EU, AFSA (as the leader of Chapter IX “Financial 
+Services”) discussed, amongst other matters, the current state of the insurance sector and the 
+national legal framework of the insurance market. Therefore, in the context of full alignment with 
+EU Directives, the recommendations from the ICPs assessment are valuable to AFSA in the 
+process of legal and regulatory amendments. 
+As a conclusion, we are com mitted to further alignment with the ICPs. This process was highly 
+beneficial to AFSA ’s work towards achieving its objective of implementing the best international 
+supervisory practices. We thank the Assessment Team for their dedication in making the proce ss 
+run smoothly and delivering successful outcomes.
+
+Public 
+Acronyms   
+AFSA Albanian Financial Supervisory Authority  
+ALL Albanian lek 
+ALSE Albanian Securities Exchange 
+AML/CFT Anti-money laundering and combating the financing of terrorism 
+AZN Insurance Supervision Agency of Slovenia 
+CBK Central Bank of Kosovo 
+EU European Union 
+ERM Enterprise risk management 
+FATF Financial Action Task Force 
+FCA Financial Conduct Authority (UK) 
+FMA Austrian Financial Market Authority 
+FSAG Financial Stability Advisory Group 
+FSAP IMF/World Bank Financial Sector Assessment Program 
+GDP Gross domestic product 
+GDPML General Directorate for the Prevention of Money Laundering 
+GWPs Gross written premiums 
+HANFA Croatian Financial Services Supervisory Agency 
+IAA International Actuarial Association 
+IAIG Internationally Active Insurance Group 
+IAIS International Association of Insurance Supervisors 
+ICP Insurance Core Principle 
+ICRG International Cooperation Review Group
+
+Public 
+ICT Information and communication technology 
+IFRS International Financial Reporting Standards 
+IMF               International Monetary Fund 
+ISA Insurance Supervision Agency of North Macedonia 
+ISAs International Standards on Auditing 
+IVASS Italian Institute for the Supervision of Insurance  
+KYC Know-your-customer requirements 
+MIS Management information system 
+MCR Minimum capital requirement 
+MOCE Margin over current estimate 
+MONEYVAL Committee of Experts on the Evaluation of Anti-Money Laundering Measures 
+and the Financing of Terrorism 
+MoU Memorandum of Understanding 
+MMoU IAIS Multilateral MoU on Cooperation and Information Exchange 
+MTPL Motor third-party liability  
+NAC National Accounting Council 
+NAS National Accounting Standards 
+ORSA Own risk and solvency assessment 
+PIE Public interest entity 
+POB Public Oversight Board 
+SCR Solvency capital requirement
+
+Public 
+Annex – Institutional and market overview 
+Geography and population 
+1. The Republic of Albania (Republika e Shqiperise) is a small European country with a 
+population of around 2. 8 million. The country, which is located in the southern Balkan 
+peninsular, has great geographic diversity with extensive mountain ranges and a long Adri atic 
+and Ionian coastline. A large share of the total population and economic activity is located in the 
+capital city of Tirana and nearby coastal city of Durres. The country is experiencing high levels 
+of emigration, mainly of younger Albanians to other European countries.9   
+Economy 
+2. Albania has transitioned from a socialist planned economy to a mixed economy classified 
+by the World Bank as upper middle income. Agriculture is an important sector. There is also 
+significant electronics, manufacturing, textile, food, cement, mining and energy production. 
+Albania has the largest oil deposits in Europe after Romania. The services sector has been the 
+fastest-growing in recent years, including a large b anking sector, telecommunications and 
+tourism.  
+3. Notwithstanding its growth, Albania continues to lag peer group countries in converging 
+to EU living standards. The economy is characterised by a high level of informality, relatively 
+low labour participation rates and limited government resources, with social protection coverage 
+amongst the lowest in the region. High net migration is a drag on growth.10 In 2019, Albania was 
+ranked 82 among st 190 economies by the World Bank in its annual Ease of Doing Business 
+Survey. 
+4. The economy has , however,  experienced a high degree of stability despite numerous 
+shocks, although growth is now slowing again and inflation increasing. The economy has 
+limited direct exposure to the impact of Russia’s war in Ukraine. It had previously suffered from 
+a major earthquake in 2019 and the C ovid-19 pandemic , recovery from both of which was 
+facilitated by IMF emergency financial assistance granted in April 2020 . Like many other 
+countries, Albania has been affected by rising energy and food prices. Inflation is projected by 
+the IMF to reach 6.2% in 2022 (which compares with the 3% Bank of Albania target). However, 
+GDP growth is expected to remain positive, while falling to under 4% in 2022 and lower again in 
+2023. The Bank of Albania has been raising interest rates (its base rate was increased to 2.75% 
+in November 2022 and is expected to go higher).  
+Government and legislative powers 
+5. Albania is a constitutional republic with an elected unicameral parliament. The parliament 
+is responsible for enacting laws, overseeing the actions of government and evaluating public 
+policy. Members of parliament are elected every four  years by universal direct suffra ge. 
+Executive powers are exercised mainly by the prime minister, chosen by the president of the 
+ 
+9 United Nations data show net migration  of an estimated negative around 4 per 1,000 of population in 2021, contributing to a 
+projected reduction in the population to 2.2 million by 2050 (see United Nations, World Population Prospects 2022). 
+10 See International Monetary Fund, “Albania: 2021 Article IV Consultation-Press Release; Staff Report; and Statement by the 
+Executive Director for Albania”, IMF Country Report, no 21/259, December 2021.
+
+Public 
+Republic subject to parliamentary approval. The president is elected by parliament for a five-year 
+term and has limited powers.   
+6. Albania’s is a civil law syste m and the constitution provides for the separation of 
+legislative, executive and judicial branches. The court system, which includes a constitutional 
+court and high court, and legal infrastructure are undergoing a reform process (see Section 3 of 
+this report: Preconditions for effective insurance supervision). There are also first and second 
+instance special anti-corruption and organised crime courts responsible for hearing cases 
+prosecuted by the Special Prosecution Office . The National Bureau of Investigation leads on 
+investigation of corruption and organised crime cases.  
+Institutional framework and arrangements 
+7. Financial sector regulation responsibilities fall to the Bank of Albania and AFSA. The Bank 
+of Albania has powers under the 2006 Law “On banks” in the Republic of Albania to regulate and 
+supervise the banking sector as well as non -deposit-taking lending institutions, savings and 
+credit associations, leasing, factoring and payment service  providers. AFSA has responsibility 
+under the 2006 Law “On the Financial Supervisory Authority” for oversight of capital markets and 
+investment business as well as the insurance sector and pension funds.  
+ 
+8. AFSA is established under the 2006 AFSA Law as a public legal institution, independent 
+of government and accountable to parliament. It is empowered to set its own budget and 
+determine its organisation (see Table 7) and use of resources. AFSA’s governing body, the board 
+of directors, is responsible for taking decisions on regulatory and supervisory matters and on the 
+internal organisation and affairs of the Authority (see ICP 2 assessment). 
+9. Most of AFSA’s resources are engaged in insurance regulation and supervision and it has 
+an experienced team. Insurance sector work is carried out in a number of different functions 
+within AFSA in addition to the Insurance Market Supervision Department  (see Table 7). While 
+AFSA has been recruiting additional staff and there have been movements of staff out of
+
+Public 
+insurance sector work in the context of structural reorganisation, AFSA has not lost staff in recent 
+years.   
+A consultative group on financial stability , the FSAG, brings together the institutions 
+involved in financial sector oversight. Its members are the Minister of Finance, the Governor 
+of the Bank of Albania and the Chair of AFSA’s Board.  
+Table 7: AFSA resources for insurance regulation and supervision (FTE headcount by 
+activity) 
+  End-2018 End-2021 
+Staff numbers   
+  Insurance company supervision11 16 14 
+  Intermediaries supervision 2 1  
+  Licensing 1  3 
+  Policyholder protection 3 2 
+  Legal affairs and enforcement 7 7 
+  Statistics 3 4 
+  Operational (Projects, IT, Finance, HR)  8 6 
+Total  40 37 
+Supervisory experience12 1913 14 
+ Less than 3 years 8 1 
+  >3 < 5 years 3 5 
+  >5 <10 years 4 4 
+ >10 years 4 4 
+Industry structure and recent trends 
+10. There are 12 insurers, eight of which are non-life, all wholly or principally primary insurers. 
+There ha ve been no new entrants or exits in the past five years.  All insurers are locally 
+incorporated. There are no restrictions on new entrants, including foreign insurers, which (in the 
+form of subsidiaries of Austrian insurance groups) currently account for around half of the market. 
+The Insurance Law requires the separation of life from non-life insurance and generally prohibits 
+offering of insurance from outside Albania to resi dents. It does allow primary insurers to write 
+reinsurance business, although only one does so. Companies may also operate as specialist 
+reinsurers, but none do so.  
+11. Many insurers are parts of groups with more than one insur er in Albania and with 
+operations elsewhere in the region.  The major Austrian groups (the only foreign insurers in 
+ 
+11 The department does not have separate units or staff for types of supervision (off-site, on-site, etc). 
+12 Supervision department, years of work experience in supervision, not total years of work experience. 
+13 16 insurer supervisors as well as intermediaries supervision and licensing staff (all part of the same unit in 2018).
+
+Public 
+Albania) both have two licensed insurers and the two domestically owned groups have three and 
+two licensed insurers respectively. The foreign operations of the Austrian groups’ subsidiaries in 
+Albania and the largest domestic group include licensed insurance business in Kosovo and North 
+Macedonia. The largest domestic insurer owns 51% of a small bank.   
+12. Non-life insurance accounts for over 90% of all written premiums . Motor insurance, both 
+third-party liability (MTPL), a compulsory product, and own damage (usually known as CASCO) 
+account for around 70% of non -life gross written premiums ( GWPs). Life insurance remains 
+underdeveloped, with credit  life (where a bank is the policyholder) accounting for most of the 
+market.    
+13. Penetration of insurance is low compared with other European countries.  In 2021 total 
+GWPs accounted for 1.02% of GDP and insurance density (based on GWPs of EUR 160 million) 
+was around EUR 56 (see Table 8, which, for comparison purposes, shows values in US dollars). 
+The sector employs around 2,000 persons, including part -time and contracted. In the last 10 
+years there has been no insurer failure, although the branch in Kosovo of one Albanian company 
+was subject to resolution action by the authorities there.    
+Table 8: Insurance penetration and density in selected countries in 2021 (US dollars) 
+Source: Swiss Re Sigma 
+14. The market has shown steady growth in recent years, except for 2020 because of the 
+pandemic. Growth has been concentrated in the non-life segment (see Table 9) and is sensitive 
+to developments in the motor market such as the reduction of driving during the pandemic. Total 
+life insurance premiums did, however, increase nearly 20 % between 2017 and 2021, though 
+without a major impact on penetration rates (see Table 9). Savings-related life insurance is not 
+offered widely at present and accounted for under 10% of life GWPs in 2021. 
+ Insurance penetration (%) Insurance density (US dollars) 
+Similar countries in the region  
+Bosnia and Herzegovina 2.2 144 
+Montenegro  2.2 211 
+North Macedonia 1.5 102 
+Serbia 1.9 177 
+Countries with similar per capita income  
+Azerbaijan 0.9 49 
+Ecuador 1.9 112 
+Colombia 3.0 181 
+Peru 2.0 137 
+South Africa  12.2 852 
+Thailand 5.4 387 
+Albania 1.0 65
+
+Public 
+15. There are limited prospects for strong growth in current market conditions. Discussions 
+for the purposes of this assessment highlighted the low propensity of Albanians to buy insurance 
+where not compulsory14 (much life insurance is effectively compulsory as it is a precondition for 
+banks to grant loans). The major earthquake in 2019 did not lead to a lasting increase in demand 
+for other forms of non -life insurance or in life insurance. A weakening economy may depress 
+demand for insurance. There are, however, prospects for growth in health insurance following 
+initiatives by insurers to build medical facilities, supporting the health insurance business.15 
+Table 9: GWPs and penetration for last 10 years (ALL thousands, annual and % of GDP)  
+16. Distribution is handled through agent and broker channels and through direct sales. There 
+are some 756 licensed insurance agents and 52 insurance brokers. Agents are the main channel 
+for MTPL insurance. Banks are an important distribution channel because of their requirement 
+for credit life or credit personal accident protection in connection with loans, but because of the 
+relatively small size of this market  and despite their activity as agents in the non -life market, 
+account for only some 3.5 % of total GWPs ( however, some banks have also established their 
+own brokerage operations).  
+Operating performance, assets and liabilities, and solvency position 
+17. The sector has been profitable in recent years (see Table  10), including during the 
+pandemic and after the 2019 earthquake. AFSA took measures during the pandemic to require 
+insurers to improve monitoring, including of their liquidity position, to provide information to 
+policyholders and to suspend dividend payments  temporarily. With regard to earthquake risk, 
+AFSA had already taken measures to ensure that insurers wer e assessing exposure 
+appropriately and obtaining adequate reinsurance cover, contributing (together with limited 
+penetration) to relatively low net losses from the 2019 earthquake, in which there was extensive 
+destruction and loss of life in the city of Durres and its region.   
+  
+ 
+14 There are other compulsory products, including coverage for certain sectors such as oil and gas and mining, liability or health 
+and life insurance coverage for certain workers.  
+15 Health insurance is primarily a non-life activity but may be carried out by life insurers, where linked to life insurance contracts. 
+ -
+ 5,000,000
+ 10,000,000
+ 15,000,000
+ 20,000,000
+ 25,000,000
+ Life  Non Life
+0.00
+0.20
+0.40
+0.60
+0.80
+1.00
+1.20
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Insurance Penetration
+Life
+Non-Life
+Total
+
+Public 
+Table 10: Insurance sector performance (in per cent) 
+ 2016 2017 2018 2019 2020 2021 
+Return on 
+assets 1.72 3.03 2.37 2.4 2.68 1.51 
+Return on 
+equity 4.98 9.56 7.30 7.73 8.73 4.67 
+18. Insurers’ assets comprise mainly cash/bank deposits, government securities and real 
+estate. As shown in Table 11, investments held by insurers reflect the limited availability of some 
+assets in Albania , especially corporate bonds ( equity holdings include investment in 
+subsidiaries). Insurers rely s ignificantly on real estate , which for many includes offices owned 
+and occupied by the insurer. Insurers do not offer investment -linked insurance contracts at 
+present. There has been a steady growth in insurers’ balance sheets in recent years, except in 
+2020 owing to the pandemic.   
+Table 11: Total industry assets and liabilities (in ALL thousands) 
+Grand total 
+(insurance 
+and 
+reinsurance*) 
+2016 2017 2018 2019 2020 2021 
+Total assets 29,687,963 30,578,929 31,564,029 38,803,312 38,864,965 40,570,536 
+Investments: 18,811,497 19,424,706 20,647,281 22,151,339 25,028,762 27,584,573 
+Government 
+securities 3,922,866 3,586,599 3,424,697 3,783,309 4,053,534 4,922,940 
+Corporate 
+bonds 0 0 0 0 0 0 
+Equities 3,312,785 2,787,647 3,350,582 3,415,935 3,537,309 3,734,806 
+Real estate 2,165,314 3,021,467 3,412,013 3,423,604 4,792,182 5,876,495 
+Cash and 
+bank 
+balances 
+9,571,722 10,199,989 10,705,169 11,694,809 12,744,041 13,030,746 
+Investments 
+supporting 
+unit linked 
+0 0 0 0 0 0
+
+Public 
+Grand total 
+(insurance 
+and 
+reinsurance*) 
+2016 2017 2018 2019 2020 2021 
+Receivables 2,983,799 3,808,980 4,012,768 4,611,739 3,570,222 3,153,326 
+Other assets 903,653 571,679 587,173 594,545 608,521 683,758 
+Total 
+liabilities and 
+equity 
+29,687,963 30,578,929 31,564,029 38,803,312 38,864,965 40,570,536 
+Share capital 7,707,544 6,952,515 7,365,937 7,365,937 7,473,417 7,743,417 
+Accumulated 
+retained 
+earnings** 
+1,967,247 2,465,535 3,298,741 3,779,301 5,177,852 5,315,771 
+Technical 
+provisions 15,567,548 15,840,175 16,392,919 22,100,493 20,986,489 22,019,511 
+Other 
+liabilities 5,320,704 5,320,704 4,506,432 5,557,581 10,568,984 9,828,019 
+*Reinsurance activity is very limited; therefore, there is no dedicated financial reporting.  
+**includes current period profits. 
+19. The sector is adequately capitalised overall, although not all insurers were meeting 
+minimum requirements at the time of the assessment. As shown in Table 12, the sector has 
+exceeded minimum solvency requirements in the last few years, a strengthening of its position 
+compared with 2018 and ea rlier (numbers shown are the ratios of available solvency capital to 
+total requirements, expressed as 150% of the amount calculated under the regulation). However, 
+one insurer was not meeting minimum requirements as at Q2 2022 and another was meeting it 
+only on the basis of a court-approved interpretation of the solvency requirements which AFSA is 
+challenging at the Supreme Court (see ICP 2).  
+Table 12: Insurer solvency (in per cent) 
+ 2016 2017 2018 2019 2020 2021 
+Coverage of 
+minimum 
+requirement 
+75 51 53 111 161 172
+
+Public 
+Risks and vulnerabilities 
+20. The main risks to insurers are related to the importance of motor insurance. The market is 
+competitive and there are risks relating to underpricing of policies and underreserving for claims. 
+There are risks from the likelihood of further significant earthquakes or other natural 
+catastrophes. As noted, AFSA has taken action to strengthen insurer resilience and wider 
+initiatives in relation to the implications of earthquake risk f or the sector, government finances 
+and the economy are under discussion with input from international agencies. Although the 
+Covid-19 pandemic did not lead to more than 100 deaths attributable to the disease and related 
+claims payments were manageable at around 1.2 million euros in total, there were wider impacts, 
+including some liquidity stresses. A future pandemic remains a material risk, especially if life 
+insurance penetration (with pandemic coverage) increases.  
+21. Financial risks are relatively limited. Not holding corporate securities, insurers are not subject 
+to credit risk to the same extent as in other markets. They are, however, exposed to the capacity 
+of reinsurers (including related group companies in the case of the foreign -owned Albanian 
+companies) to pay claims, also a source of significant liquidity risk. Experience in this regard, 
+including after the 2019 earthquake, is reported to have been good. Market risk is relatively 
+limited given the nature of assets and liabilities. Government bonds are generally held to maturity, 
+for example, and life insurance products are not sold with guarantees or other features giving 
+rise to interest rate risk.  
+22. A key risk stems from the challenges of profitably growing business in current market 
+conditions. Insurers face strategic risks from the low propensity of Albanians to buy insurance  
+as well as the reducing population . They need to develop attractive products and appropriate 
+distribution strategies and ensure that pricing and selling processes do not expose them to undue 
+insurance or conduct risks. As in many markets, there are material risks from insurance fraud, 
+although risks relating to money laundering appear low given the nature of the insurers’ products 
+at present. As Albania continues to align regulation s with those of the EU, some insurers are 
+likely to face risks related to a more complex regulatory framework (as is planned for solvency, 
+for example), notwithstanding the commitment of the authorities to a proportionate approach.

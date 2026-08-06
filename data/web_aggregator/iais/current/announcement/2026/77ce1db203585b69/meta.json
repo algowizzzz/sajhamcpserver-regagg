@@ -1,0 +1,24 @@
+{
+  "doc_id": "77ce1db203585b69",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2022/01/210628-Errata-for-Level-1-and-Level-2-Documents-of-ICS-Version-2.0-for-the-monitoring-period.pdf",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2022/01/210628-Errata-for-Level-1-and-Level-2-Documents-of-ICS-Version-2.0-for-the-monitoring-period.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ba0908ec43829dd54a8f97149a4a6275e5f07ab3bb287e988050f09beccddde3",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/77ce1db203585b69",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

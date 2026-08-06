@@ -1,0 +1,1889 @@
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+ 
+ 
+ 
+ 
+Draft Issues Paper on customers 
+receiving value from insurance products 
+ 
+ 
+April 2026
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+About the IAIS 
+The International Association of Insurance Supervisors (IAIS) is a voluntary membership 
+organisation of insurance supervisors and regulators from more than 200 jurisdictions. The mission 
+of the IAIS is to promote effective and globally consistent supervision of the insurance industry in 
+order to develop and maintain fair, safe and stable insurance markets for the benefit and protection 
+of policyholders and to contribute to global financial stability.  
+Established in 1994, the IAIS is the international standard-setting body responsible for developing 
+principles, standards and other supporting material for the supervision of the insurance sector and 
+assisting in their implementation. The IAIS also provides a forum for Members to share their 
+experiences and understanding of insurance supervision and insurance markets.  
+The IAIS coordinates its work with other international financial policymakers and associations of 
+supervisors or regulators and assists in shaping financial systems globally. In particular, the IAIS is 
+a member of the Financial Stability Board (FSB), member of the Standards Advisory Council of the 
+International Accounting Standards Board (IASB), and partner in the Access to Insurance Initiative 
+(A2ii). In recognition of its collective expertise, the IAIS also is routinely called upon by the G20 
+leaders and other international standard-setting bodies for input on insurance issues as well as on 
+issues related to the regulation and supervision of the global financial sector. 
+For more information, please visit www.iais.org and follow us on LinkedIn: IAIS – International 
+Association of Insurance Supervisors. 
+ 
+Issues Papers provide background on particular topics, describe current practices, actual 
+examples or case studies pertaining to a particular topic and/or identify related regulatory and 
+supervisory issues and challenges. Issues Papers are primary descriptive and not meant to create 
+expectations on how supervisors should implement supervisory material. Issues Papers often form 
+part of the preparatory work for developing standards and may contain recommendations for future 
+work by the IAIS. 
+ 
+International Association of Insurance Supervisors  
+c/o Bank for International Settlements  
+CH-4002 Basel  
+Switzerland  
+Tel: +41 61 280 8090  
+  
+This document was prepared by the Market Conduct Working Group in consultation with IAIS 
+members. 
+This document is available on the IAIS website (www.iais.org). 
+© International Association of Insurance Supervisors (IAIS), 2026.  
+All rights reserved. Brief excerpts may be reproduced or translated provided the source is stated.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+Contents 
+ 
+Acronyms ........................................................................................................................... 4 
+Executive summary ........................................................................................................... 6 
+ Introduction ............................................................................................................................ 8 
+1.1 The positive impact of insurance ..................................................................................................... 8 
+1.2 Low value and trust can deter customers from buying insurance .................................................... 9 
+ Challenges for consumers to evaluate value when buying insurance ........................... 10 
+ A spectrum of supervisory approaches to address value ............................................... 13 
+3.1 Explicit supervisory expectations that insurance products provide value ...................................... 14 
+3.2 Other requirements that enable supervisory action on low-value products ................................... 17 
+3.3 Modifying the insurance purchase decision-making environment ................................................. 18 
+3.4 Consumer education and information ............................................................................................ 20 
+ Aspects that can diminish the value offered by insurance ............................................. 23 
+4.1 Needs-benefits misalignment ......................................................................................................... 23 
+4.2 Pricing issues ................................................................................................................................. 24 
+4.3 Bundled or tied sales ...................................................................................................................... 26 
+4.4 Commissions and other distribution conflicts of interest ................................................................ 27 
+4.5 Complex decisions expected of the customer ............................................................................... 29 
+ Aspects that can enhance the value offered by insurance.............................................. 31 
+5.1 Product design that rewards risk reduction .................................................................................... 31 
+5.2 Customer-centric claims handling .................................................................................................. 32 
+5.3 Product flexibility and responsiveness ........................................................................................... 33 
+5.4 Downside protection ....................................................................................................................... 34 
+ How supervisors can assess that the insurance industry is offering value .................. 34 
+6.1 Demonstrations in the governance and corporate culture ............................................................. 34 
+6.2 Low claims ratios ............................................................................................................................ 36 
+6.3 Other claims handling indicators .................................................................................................... 37 
+6.4 Investment return compared to profit ............................................................................................. 38 
+6.5 Undue costs and commissions for pure risk products ................................................................... 40 
+ Conclusion ........................................................................................................................... 41
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+Acronyms  
+ACR All cost ratio 
+AFM Dutch Authority for the Financial Markets 
+ASIC Australian Securities and Investments Commission 
+AZN Insurance Supervision Agency (Slovenia) 
+BaFin Bundesanstalt für Finanzdienstleistungsaufsicht (German Federal Financial 
+Supervisory Authority) 
+BETA Behavioural Economics Team of the Australian Government 
+BNM Bank Negara Malaysia 
+BSC Balanced Scorecard 
+CBI Central Bank of Ireland 
+CCI Consumer Credit Insurance 
+CCRI Credit Card Repayment Insurance 
+CDI California Department of Insurance 
+CPI Credit Protection Insurance 
+EIOPA European Insurance and Occupational Pensions Authority 
+EU European Union 
+FCA Financial Conduct Authority (United Kingdom) 
+FMA Financial Market Authority (New Zealand) 
+FSC Financial Services Commission (Mauritius) 
+FSMA Financial Services and Markets Authority (Belgium) 
+FTFC Fair Treatment of Financial Consumers Policy Document 
+FVA Fair Value Assessment 
+GAP Guaranteed Asset Protection 
+GWP Gross Written Premium 
+IAIS International Association of Insurance Supervisors 
+IBIP Insurance-based Investment Product 
+ICP Insurance Core Principle 
+IDD Insurance Distribution Directive 
+KID Key Information Document
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+KNF Polish Financial Supervision Authority 
+MAS Monetary Authority of Singapore 
+MNB Hungarian National Bank 
+NAIC National Association of Insurance Commissioners 
+NatCat Natural catastrophe 
+NICD National Insurance Claims Database 
+OECD Organisation for Economic Co-operation and Development 
+POG Product Oversight and Governance 
+PROD Product Governance (FCA) 
+PTD Product Transparency and Disclosure Policy Document 
+SRI Summary Risk Indicator 
+UK United Kingdom 
+US United States 
+VfM Value for Money
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+Executive summary 
+Insurance plays a vital role in protecting individuals and businesses from financial risks, fostering 
+societal resilience and contributing to economic stability. However, insurance products do not always 
+deliver a compelling value proposition to their customers, which can lead to poor customer outcomes 
+and in some cases a broader erosion of consumer trust.  
+This International Association of Insurance Supervisors (IAIS)  Issues Paper provides a descriptive 
+overview of the barriers consumers face in evaluating value and the factors that influence the value 
+of insurance products, including the opportunities to enhance value. Viewed in its entirety, the paper 
+suggests that depending entirely on a “buyer beware” approach, which places the full responsibility 
+on consumers to avoid low-value insurance products , may not be fair or effective. Insurance Core 
+Principle ( ICP) 19.0.2 reinforces this perspective by highlighting that fair treatment of customers 
+extends beyond only information provision to include, amongst other outcomes, minimising the risk 
+of sales that do not align with customers’ interests and needs.  
+Through a variety of approaches, supervisors across many jurisdictions act to address low value in 
+the insurance sector and to support consumers’ insurance decision-making. A range of examples 
+are cited in the paper. They span from  actions to support consumers’ ability to make their own 
+insurance purchasing decision upon the basis of a reasonable understanding, through to supervisory 
+intervention that disrupts, or even prohibits, the sale of certain insurance products that the supervisor 
+determines to be of low or no value. In between exists product governance requirements that impose 
+an expectation on the insurer to ensure it is providing suitable products that deliver value to the target 
+market. 
+The observations in this I ssues Paper aim to enhance understanding of both the importance of 
+insurance products delivering meaningful value to customers and ways to achieve this. Doing so will 
+help protect policyholders, promote fair consumer outcomes and strengthen public trust and 
+consumer confidence in the insurance sector  which, as outlined in ICP 19.0.1, are key objectives 
+underpinning conduct of business supervisory requirements.  
+Key observations 
+Challenges for consumers in evaluating value 
+• Assessing the value of insurance products can be cognitively complex  due to 
+infrequent purchase decisions, emotional considerations and the intangible nature of 
+insurance. 
+• Consumers often face difficulties understanding product features, exclusions and 
+pricing structures, which can lead to poor decision-making. 
+• Behavioural biases, such as overconfidence, present bias and framing effects, further 
+complicate consumers’ ability to make informed choices. 
+Factors that diminish value 
+• Misalignment between consumer needs and product benefits can result in low value, 
+particularly when products are unsuitable or include unexpected exclusions, or when 
+complex decisions are required of the customer in selecting insurance coverage. 
+• Pricing issues, including a lack of transparency, price discrimination and broken 
+pricing promises, can erode consumer trust and reduce value.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+• Bundled or tied sales, high commissions and conflicts of interest in distribution can 
+inflate costs and obscure the true value of products. 
+Factors that enhance value 
+• Product design that rewards  risk reduction, such as premium discounts for safer 
+behaviours or risk mitigation measures, can improve value. 
+• Customer-centric claims handling, including streamlined processes and timely 
+payouts, enhances the experience and delivery of value to the customer. 
+• Flexibility in product features and responsiveness to changing consumer needs 
+ensures that products remain relevant and valuable over time. 
+Supervisory approaches to value 
+• Jurisdictions vary in how they address value, with some explicitly defining 
+expectations for “value for money ” or “fair value”, while others rely on broader 
+principles like fair treatment. 
+• Observations from jurisdictions highlight a spectrum of practices, including promoting 
+consumer understanding, addressing conflicts of interest and intervening in cases of 
+low-value products. 
+• Insurers and intermediaries are responsible for the provision of insurance products 
+that deliver value for the customer. Supervisors can scrutinise whether that 
+expectation is being met by assessing and monitoring the delivery of value using 
+supervisory tools such as claims ratios, governance reviews and indicators of product 
+performance.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+ Introduction  
+1.1 The positive impact of insurance  
+1. Insurance protection for individuals and businesses safeguards societal resilience by mitigating 
+risks and ensuring financial stability. For individuals, insurance provides a safety net against 
+possible adverse events such as illnesses, accidents or natural disasters by preventing financial 
+ruin and enabling access to essential services like healthcare (in jurisdictions without a universal 
+healthcare system). For businesses, it enables recovery from losses caused by events like fires, 
+theft or lawsuits, allowing them to continue operations and maintain employment. By spreading 
+financial risks across a pool of policyholders, insurance reduces the burden on any single entity 
+and fosters economic stability. It also encourages investment and innovation, as individuals and 
+businesses are more willing to take calculated risks knowing they are protected against the most 
+common risks beyond their control. 
+2. Beyond financial security, insurance contributes to social welfare and resilience in society. By 
+pooling resources and distributing risks, insurance not only protects individuals and businesses 
+but also strengthens the broader social and economic fabric. It reduces reliance on public funds 
+by providing support to those in need, such as families who lose a breadwinner or individuals 
+facing medical emergencies. Moreover, insurance encourages risk management by 
+incentivising safer practices, such as fire safety measures or responsible driving, which benefit 
+society as a whole. During large-scale crises, such as natural disasters or pandemics, insurance 
+plays a crucial role in providing financial relief, enabling communities to recover more quickly.  
+3. Despite its importance, access to insurance is inconsistent globally. Statistics demonstrate 
+overall low insurance ownership rates across low- and middle- income economies. In advanced 
+economies, insurance ownership rates trend higher overall, but this varies significantly across 
+insurance products and is driven in some cases by certain insurance being mandatory (eg car 
+insurance being required by law to drive, or home insurance being required by lenders to secure 
+a mortgage to buy a home). Although harder to measure conclusively, it is believed that 
+consumer engagement – level of motivation, interest and understanding – with insurance 
+products and with insurance purchasing decisions is overall low.  
+Illustrative statistics: Insurance ownership 
+• According to the 2025 Global Findex Database, only 23% of adults from low - 
+and middle-income economies had made any payment for insurance products 
+to an insurance agent or company.0F
+1  
+• In the E uropean Union (EU) in 2024, 62% of consumers had household 
+insurance and 57% of consumers had car or motor insurance (other than third-
+party liability insurance), while 17% of EU consumers own a savings or 
+investment product from an insurer.  
+• A 2024 survey of over 28,000 representative households across seven 
+advanced economies (France, Germany, Italy, Japan, Spain, the U nited 
+Kingdom (UK)  and the United States (US)) revealed that about 85% of 
+respondents own at least one voluntary insurance product. 1F
+2 Residential 
+ 
+1 World Bank Group, Global Findex Database, 2025. 
+2 Geneva Association,  Inclusive Insurance in Advanced Economies: Alleviating strains on society, 2024.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+property and motor insurance are the most popular; ownership levels are lowest 
+for critical illness and income protection insurance. 
+1.2 Low value and trust can deter customers from buying insurance  
+4. Although there are many factors that contribute to limited uptake of insurance, low consumer 
+trust in the insurance sector plays an important role. One contributor to low trust is insurance 
+products offering low or limited value for money, whether objectively so or as perceived by the 
+customer. Customers’ understanding of insurance products (as a specific dimension of financial 
+literacy) also contributes to how much they trust insurance. 
+5. The 2024 Organisation for Economic Co-operation and Development (OECD ) Consumer Risk 
+Monitor – the first global outlook of consumer risks in financial products and services  – found 
+poor-value products and services to be the most significant conduct risk as reported by the 43 
+participating jurisdictions.
+2F
+3 The report explained that “the cumulative loss of wealth caused by 
+poor-value products and services can have a significant material impact on household budgets 
+and contribute to a loss of trust in financial institutions and the financial system”.
+3F
+4  
+6. The 2024 OECD Consumer Risk Monitor also detailed that the top subjects of consumer 
+complaints in the insurance sector are claims handling, contractual clauses including exclusions, 
+fees/charges or poor value for money, increases in premiums and quality of customer service. 
+Shortcomings in any of these aspects detrimentally impact the customer’s experience of the 
+value they receive from the insurance product, and these perspectives often spread by word of 
+mouth and can then establish as commonly held consumer impressions of insurance. 
+7. Additionally, a report by the National Association of Insurance Commissioners (NAIC) on closed 
+confirmed consumer complaints by reason showed that the leading causes of complaints in the 
+US in 2025 were claims handling (including delays, unsatisfactory settlement/offer, denial of 
+claim and adjuster handling) and policyholder service.
+4F
+5   
+8. The aforementioned 2024 OECD survey of over 28,000 representative households across 
+seven advanced economies revealed the leading reasons as to why people do not have 
+insurance or why they choose not to purchase more.
+5F
+6 The four most prevalently cited reasons 
+were: affordability (41% of all survey respondents); doubts about the cost-benefit characteristics 
+(ie value) of insurance products (24%) ; lack of time or unwillingness to research insurance 
+options (20%); and a lack of trust in insurance companies (nearly 20%).  
+9. In 2024 in the EU, about 40% of EU consumers reported that they “do not trust at all” and 30% 
+reported that they “tend not to trust” that those involved in designing and distributing insurance 
+and pension plans aim to ensure their products deliver good consumer outcomes. Recent efforts 
+across EU supervisors to address value for money risks have, however, contributed towards 
+improving the level of trust across the EU.
+6F
+7  
+10. Further, although the European Insurance and Occupational Pensions Authority  (EIOPA) 
+estimates that insurance-based investment products at risk of offering limited to no value 
+account for 10% to 15% of the EU market, about 25% of EU consumers report totally disagreeing 
+that investment/savings products from an insurer offer value for money, and, thus, might not buy 
+ 
+3 OECD, Consumer Finance Risk Monitor, 2024. 
+4 OECD, Consumer Finance Risk Monitor, 2024, p 37. 
+5 NAIC, Closed confirmed consumer complaints by reason, 2025. 
+6 Geneva Association,  Inclusive Insurance in Advanced Economies: Alleviating strains on society, 2024.  
+7 See EIOPA’s Eurobarometer 2023 and Eurobarometer 2024.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+or renew them. In 2022, for example, 17% of retail clients reported not buying or renewing their 
+insurance policy because, in their view, the cost was too high compared with the expected return 
+and level of risk. 
+11. A similar sentiment is observed in Malaysia , where rising medical costs and premium 
+adjustments have led to increased policy lapses and consumer disengagement. These 
+developments have raised concerns about affordability and fairness, particularly in the health 
+insurance segment. In response, Bank Negara Malaysia (BNM) introduced interim measures to 
+stagger premium increases and limit annual adjustments for most policyholders, aiming to 
+rebuild trust and ensure products deliver fair value. To mitigate the risk of further financial strain 
+or distress, especially for vulnerable consumers, insurers and takaful 7F
+8 operators are also 
+expected to consider any extenuating circumstances faced by these policyholders and offer 
+tailored assistance when needed.  
+12. Hence, insurance uptake may increase if consumers’ have trust and confidence that the 
+available insurance products will deliver them positive outcomes and be valuable to them.  
+ Challenges for consumers to evaluate value when buying 
+insurance 
+13. It is human nature for potential insurance consumers to attempt to weigh the costs against the 
+benefits when deciding whether to purchase an insurance product and, in this case, which 
+specific product and from which insurer . This exercise can be referred to as “assessing value 
+for money” or “conducting a cost-benefit analysis ”. Following this, consumers often attempt to 
+compare various insurance products available in the market to determine which product offered, 
+and by which provider, best provides value for their needs. 
+14. However, this assessment is cognitively complex. Consumers often struggle to make insurance 
+purchasing decisions based purely on a logical evaluation of value due to a combination of 
+psychological, informational and market-based challenges. 
+15. Decisions about insurance products are particularly complex because they: 
+• Are often made infrequently – providing few opportunities for feedback and learning. 
+• May have an emotional dimension – for example, when they are connected to a 
+large emotive purchase such as a house, or the impact they have on lives and 
+wellbeing is very large. Consumers may avoid thinking about insurance altogether or 
+discussing it because contemplating risks such as illness, death or disaster is 
+confronting.   
+• Are intangible – with no physical cues by which quality can be judged. 
+• May require trade-offs over time – for example, between present and future benefits, 
+where the future benefits or harms may be only realisable long after the decision to 
+purchase was made. Consumers also need to weigh the trade-off of retaining some 
+ 
+8 Takaful refers to an arrangement based on mutual assistance under which a takaful participant (ie policyholder) agrees to 
+contribute to a common fund providing for mutual financial benefits payable to the takaful participants or their beneficiaries on the 
+occurrence of an agreed event. A takaful operator is a licensed entity authorised to carry out  takaful business, being the 
+administration, management and operation of takaful arrangements in accordance with Shariah principles.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+of the risk through the deductible with the impact on the upfront premium price of the 
+insurance product. 
+• Involve uncertainty and risk – for example about unknowable future incidents and 
+difficult-to-predict future behaviour, on which the features and prices of insurance 
+products are contingent. This can lead to under - or over-insurance; consumers may 
+tend to underestimate the occurrence or cost of low probability/high impact events 
+(such as disability or death) and overestimate those of high probability/low impact 
+events (such as phone damage).  
+• Require knowledge and financial literacy – for example, consumers may be asked 
+to provide information not generally within their knowledge (eg what it would cost to 
+completely rebuild their home), and to understand and make selections with respect 
+to insurance concepts they are unfamiliar with (eg excess, co-payment, waiting 
+periods or optional coverage). These knowledge and literacy challenges are further 
+compounded by the fact that consumers can encounter information overload with 
+long, detailed information documents that use jargon or technical terms. 
+• May have framing effects –  how options are presented (e g “Protect your family!”) 
+can heavily influence decisions.  
+16. The evaluation is even more complex for insurance-based investment products, which combine 
+risk coverage with investment features. These products often consist of multiple components, 
+requiring an assessment that goes beyond premium and coverage to also consider factors like 
+investment performance, guarantees, charges, policy sustainability, protection benefits, quality 
+of disclosure and other related aspects. 
+17. Consumers are often influenced by behavioural biases when making financial decisions. 
+Examples include overconfidence ( ie overestimating their own knowledge or abilities), loss 
+aversion (ie fearing losses more than valuing equivalent gains), present bias ( ie focusing on 
+immediate rewards over future benefits), status quo bias ( ie preferring to stick with existing 
+choices), anchoring ( ie relying too heavily on initial information) and framing effects ( ie being 
+swayed by how information is presented). These tendencies can result in decisions that may 
+not serve their long-term interests. 
+18. Unsurprisingly, most people end up judging risk intuitively and inaccurately. People have 
+difficulty understanding probabilistic processes, and either overestimate or underestimate.
+8F
+9  
+19. People tend to apply heuristics (also known as mental shortcuts) to assist them to decide quickly 
+without the cognitive load otherwise demanded by the complex decision. For instance, 
+consumers may make a choice based on one factor alone (eg cheapest premium) , by 
+memorability (eg entertaining TV commercial) or by association (eg selecting the same car 
+insurer the customer’s parents are with).  
+20. The financial literacy of consumers also impact s their ability to effectively evaluate value when 
+purchasing insurance. In research conducted by the Financial Conduct Authority UK ( FCA) in 
+2024, general insurance policyholders who reported low knowledge about financial matters or 
+did not understand their policy well were the least likely to have shopped around when they took 
+out their most recent policy in the last three years.
+9F
+10 By not shopping around, these consumers 
+ 
+9 Slovic, P “Perception of risk”, Science, vol 236 no 4799, April 1987, pp 280–285, p 281.  
+10 FCA, Financial Lives 2024 survey – General insurance & protection: Selected findings, slide 85.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+may not have all of the information available to them to compare products and make an informed 
+decision about their insurance purchasing. 
+21. Providing consumers with more information about an insurance product they are considering 
+purchasing may help them avoid the purchase of low -value insurance products. R esearch 
+undertaken by the Behavioural Economics Team of the Australian Government (BETA) showed 
+that consumers who were provided with an information statement about the insurance product 
+they were offered, including a confirmation the insurance was not compulsory and they were not 
+legally obliged to purchase it, were less likely to purchase add-on insurance than those who did 
+not receive any information.
+10F
+11 
+22. Careful consideration needs to be given to what and how information is presented to consumers 
+to ensure it is easily understood and useful for them in their  decision-making process.11F
+12 In the 
+same BETA research in Australia, consumers were also presented with the insurance product 
+claims ratio. The research found no evidence to suggest that the claims ratio helped people 
+recognise or reject low -value add-on insurance. The claims ratio was not well understood and 
+the research found that it may inadvertently influence people towards purchasing low -value 
+insurance.12F
+13  
+23. The purchase environment and context can also impact the consumer’s  ability to rationally 
+evaluate value when making a purchasing decision.  
+24. Consumer research undertaken by the Australian Securities and Investments Commission  
+(ASIC) in February 2016 found that consumers who purchased add-on insurance at the time of 
+a motor vehicle purchase faced challenges in considering the value of their potential insurance 
+product because of the environment they were in. Consequently, they ended up with expensive 
+but low-value coverage.13F
+14 Amongst the challenges these consumers faced were: 
+• Consumers had no awareness of add-on insurance products before beginning the 
+purchase process for a motor vehicle. 
+• Many consumers were actively told to buy, and sometimes pressured to buy, add-on 
+insurance products both through explicit sales techniques and with how the sales 
+process is structured. Commissions were likely to be driving sales behaviours. 
+• Consumers were susceptible to decision fatigue and information overload, having 
+already gone through the purchasing process of a motor vehicle before considering 
+the insurance product.  
+• Many consumers had poor recollection of the detail of the insurance product they had 
+purchased. Those who did recall the purchase regretted their decision to purchase 
+add-on insurance. 
+ 
+11 BETA, Slowing down to add it up – using behavioural insights to support decisions about add-on insurance, 2021. 
+12 Dutch Authority for the Financial Markets (AFM), Discussion paper on the role of disclosures, 2021. 
+13 BETA, Slowing down to add it up – using behavioural insights to support decisions about add-on insurance, 2021. 
+14 ASIC, Report 470, Buying add-on insurance in car yards: Why it can be hard to say no, 2016.  
+In one case study, ‘“Susie”’ borrowed  AUD $28,000 at 9% over five years to buy a car, repaying AUD $35,474. She was sold 
+add on insurance products costing AUD $8,000:  
+AUD $1,500 for consumer credit insurance; , 
+AUD $1,500 for gap insurance; , 
+and AUD $4,000 for a warranty. 
+ If Susie did not buy these insurance products, she would have only had to borrow AUD $20,000 and repay AUD $25,510, 
+saving her nearly AUD $10,000.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+25. Further complexity arises for consumers because there is not a consistent way to secure oneself 
+the best value when it comes to insurance. In some cases, holding multiple insurance products 
+from the one insurer earns the customer a discount. But, on the other hand, there have been 
+proven instances of “loyal customers” who have been with the same insurer over multiple years 
+being charged a higher premium than newer customers of the same product, for non-risk-based 
+reasons.14F
+15 Further, where it may be generally advantageous to shop around and price compare 
+each year with a yearly renewable general insurance product (like motor insurance), the 
+opposite can be true of certain life insurance products, where cheaper premiums can be secured 
+when the product is bought by a customer of a younger age and then held consistently over 
+many years. 
+26. It can also be difficult for a customer to have a transparent and clear understanding of the cost 
+they are paying for their insurance and the component parts of that cost. As one example, 
+consumers often do not understand that electing to pay their premiums monthly instead of 
+annually leads to higher total cost in some jurisdictions . Customers can also find it difficult to 
+determine whether advertised discounts have really been applied to their insurance cost and 
+may even be provided misleading information on a renewal notice about how the offered 
+premium for the next year compares with their last period premium.  
+27. A consumer’s ability to assess value can also be hindered by unclear or inaccessible product 
+information. Understanding the value of insurance products relies on a clear understanding of 
+coverage and exclusions, yet exclusions are often communicated in ways that are difficult for 
+the average consumer to comprehend. This lack of clarity, combined with low pay-outs or claim 
+denials stemming from exclusion clauses, can greatly erode consumer trust in insurance 
+products.  
+ A spectrum of supervisory approaches to address value 
+28. Across the world there are differing approaches as to whether the value offered by an insurance 
+product is explicitly addressed within the regulatory framework and/or directly overseen by an 
+insurance supervisor.  
+29. What is common is the overarching expectation for fair treatment of customers. ICP 19 (Conduct 
+of Business) stipulates  that “The supervisor requires that insurers and intermediaries, in their 
+conduct of insurance business, treat customers fairly, both before a contract is entered into and 
+through to the point at which all obligations under a contract have been satisfied.”15F
+16  
+30. Additionally, within the G20/OECD High-Level Principles on Financial Consumer Protection 
+202216F
+17 is Principle 8: Quality Financial Products. It addresses what constitutes quality financial 
+products and what is required to promote quality financial products that offer value to 
+consumers. The OECD explained in the 2024 Consumer Risk Monitor: 
+Whether a product or service delivers value for money or can be qualified as “quality” 
+depends on a range of factors, which can include overall costs, pricing structures, added 
+value for consumers, complexity, the proportion of costs that go to commissions  or 
+distribution fees and comparison of costs with those of competitors. In the context of 
+ 
+15 Also known as “price walking”.  
+16 IAIS, Insurance Core Principles and Common Framework for the Supervision of Internationally Active Insurance Groups, 2024, 
+p 302.  
+17 The Principles set out the elements of an effective and comprehensive financial consumer protection framework.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+insurance products, claims ratios (i.e. the percentage of total collected premiums which is 
+paid back to consumers through claims) can help to assess value for money. For investment 
+products, expected rates of return (in comparison to the costs charged and investment 
+strategy pursued) and profitability for issuers may be considered.
+17F
+18 
+3.1 Explicit supervisory expectations that insurance products provide value 
+31. Some jurisdictions have adopted explicit supervisory expectations on the topic of value. In some 
+cases, the term “value for money” is used, and in other cases “fair value” or “good value”. There 
+is no universal definition of these concepts. A “value for money ” concept may have a 
+predominant focus on the price paid by the customer being appropriate in light of the benefit to 
+the customer and the costs incurred by the issuer and distributors in providing the product. A 
+“fair value”, “good value” or “value” concept may have a broader scope and also consider the 
+quality of the product and of the customer service experienced by the customer , as well as the 
+price paid and the underlying costs incurred in providing the product.  
+32. Some jurisdictions with supervisory expectations explicitly addressing value are outlined below.  
+UK  
+The FCA has rules and guidance on price and value18F
+19 to ensure that the overall price paid by the 
+consumer (including consideration of each of the individual elements that make up that price) is 
+reasonable compared with the overall benefits they can expect to receive.  
+Whether a product is delivering fair value will depend on a range of factors  – for example, the 
+nature of the product, the consumers in the target market, the type and quality of service provided 
+(including by parties in the distribution chain), the overall costs of manufacture and distribution, 
+and the quality of any benefit.  
+An insurance firm must use all relevant data and information available when assessing whether a 
+product provides value. This includes its own information, research, claims and complaints data, 
+public information and data on insurance products, and information on distribution costs and their 
+impacts on value. The firm must consider at least:  
+• The nature of the product or service, including the benefits that will be provided or 
+may reasonably be expected and their qualities; 
+• Any limitations that are part of the product or service (eg limitations on scope of 
+cover for insurance products); and 
+• The expected total price customers will pay, including all applicable fees and 
+charges over the lifetime of the relationship between customers and firms.  
+EU  
+For insurance-based investment products  (IBIPS), EIOPA has defined that products offer value 
+when no undue cost is charged to consumers. In practice, this means when costs and charges 
+are proportionate to the benefits for the identified target market (i e the investment performance, 
+guarantees, coverage and services) as well as reasonable, taking into account the expenses born 
+by the providers. EIOPA further indicated that for there to be value for money:  
+ 
+18 OECD, Consumer Finance Risk Monitor, 2024, p 37. 
+19 FCA, FCA Handbook, PROD 4 Product governance: IDD and pathway investments.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+• Costs and charges need to be properly identified, quantified and not undue (pricing 
+process); 
+• The value of the product has been tested and demonstrated, taking into account 
+the needs, objectives and characteristics of the product’s target market (product 
+testing); and  
+• The balance between costs and value is regularly reviewed throughout a product’s 
+life to assess whether the product remains aligned with the needs, objectives and 
+characteristics of the target market (product review). 
+For other insurance products (not IBIPs), EIOPA has not expressed an official definition of value 
+but has expressed that a similar concept applies. For example: 
+• In 2022, EIOPA called for better value for money in credit protection insurance 
+products by issuing a warning to banks and insurers. 19F
+20 The warning detailed the 
+high commissions and conflicts of interest leading to products offering unfair value 
+and limited choice for consumers, and stated that: 
+Manufacturers should…assess whether the product offers value to the target market, 
+including by balancing the benefits for the manufacturer and the distributor with the ones 
+to the target market. This should also include an assessment as to whether all costs are 
+proportional to the expenses borne by the manufacturer and the distributor and the 
+benefits, with particular attention to the comprehensiveness of the coverage offered, and 
+the services offered to the target market – i.e. no cost should be undue. 
+In its retail risk indicators methodology, EIOPA has a dedicated set of indicators indicating how to 
+assess value for money for non-IBIPs.20F
+21 
+Belgium 
+The Fi nancial Services and Markets Authority ( FSMA) published a practical guide  to inform the 
+insurance sector of its recommendations and expectations regarding the implementation of 
+requirements related to the “value for money” theme and exclusions. 
+The guide is primarily addressed to insurance product manufacturers but is also relevant for 
+intermediaries acting as co-manufacturers. It sets out around 18 recommendations, grouped under 
+seven key themes. These themes include, amongst others, the following supervisory expectations: 
+• Customer interests at the core of product approval: Product manufacturers should 
+place the customer’s interest at the centre of the product approval process by 
+developing clear and consistently applied criteria. Manufacturers must also prevent 
+or manage po tential conflicts of interest. According to the FSMA, this includes 
+assessing whether the remuneration structure of a given insurance product could 
+undermine the customer’s interests. 
+• Testing and assessment of value for money: Product manufacturers are expected 
+to establish testing and evaluation procedures that explicitly assess whether the 
+product offers fair value for money. 
+ 
+20 EIOPA, EIOPA calls for better value for money in bancassurance in warning to banks and insurers, 2022. 
+21 EIOPA, Retail risk indicators: methodology update, 2021.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+• Proportionate and meaningful exclusions: When defining the scope of an insurance 
+product, exclusions should not be so extensive that the product ceases to be useful 
+or relevant for the identified target market. 
+Germany  
+The insurance undertakings must  provide products that meet the needs of the consumers of the 
+target market meaning the products must have an appropriate value for money (VfM). In the case 
+of IBIPS, that means that the providers must  ensure that their consumers receive appropriate 
+value for the capital they invest, especially in the case of private pension products. In general, the 
+providers must fine-tune their insurance products in line with the profile of the defined target 
+market, and to determine for whom the product is suitable or intended and for whom it is not. 
+Differentiation is made with regard to IBIPS (eg according to financial knowledge/experience, risk-
+bearing capacity, investment objectives and needs, liquidity need and time horizon). 
+The Bundesanstalt für Finanzdienstleistungsaufsicht (German Federal Financial Supervisory 
+Authority) (BaFin) published a guidance notice on “Aspects of Conduct of Business Supervision 
+for Savings Products” (especially IBIPS) in May 2023.21F
+22 It interprets the Insurance Distribution 
+Directive (IDD) and additional legal requirements on Product Oversight and Governance (POG), 
+including the requirement of products to deliver VfM, and describes how BaFin applies the tools 
+developed by EIOPA  such as the requirements with regard to product testing, including cost 
+structure, cost appropriateness and consumer benefit. To this end, and to implement a risk-based 
+forward-looking supervisory approach, BaFin uses indicator -based risk analyses to identify 
+providers of risky products at an early stage. 
+Mauritius  
+In Mauritius, the concept of value in insurance is closely aligned with the principles set out in the 
+Code on the Fair Treatment of Consumers of Financial Products and Services, issued by the 
+Financial Services Commission (FSC). This includes the requireme nt that insurers must offer 
+products that meet consumers’ needs and offer fair pricing relative to the benefit provided. Value 
+is not only measured solely by affordability, but also by the fairness of terms, transparency of 
+benefits and exclusions , and efficiency in claims handling. Supervisory emphasis is placed on 
+ensuring that products are designed and distributed in ways that reasonably anticipate and 
+respond to the needs of their target markets. 
+Malaysia 
+The principle of “good value” is one of five required key principles for eligibility outlined in the Policy 
+Document on Perlindungan Tenang 22F
+23 for microinsurance and takaful products designed to meet 
+the needs of unserved and underserved segments. The principle of “good value” is described as 
+requiring that the protection offered corresponds to the key needs of the target group, and that the 
+proportion of premiums or takaful contribution allocated to the insurance or takaful benefit is 
+maximised. Additionally,  it states that “g ood value” may include the provision of value-added 
+service(s) that are relevant and tangible for the target group.  
+ 
+22 BaFin, Appropriate value for money: BaFin publishes guidance notice on savings products, 2023. 
+23 Perlindungan Tenang is an initiative established by BNM that aims to expand the availability and quality of insurance and takaful 
+solutions to meet the needs of the unserved and underserved segments of the population to promote their financial and societal 
+resilience.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+In line with the “good value” principle, the iTEKAD Protection programme, 23F
+24 which embeds 
+insurance/takaful protection for  microentrepreneurs, goods delivery personnel and participants 
+of Inisiatif Pendapatan Rakyat,24F
+25 features value-added services  to further support the target 
+segments’ resilience and financial wellbeing. In addition, products offered under the programme 
+are expected to comply with Perlindungan Tenang requirements by providing benefits that 
+address the target segment’s immediate risks, such as benefits that encourage risk reduction or 
+prevention practices, embedding features that facilitate long-term sustainability of the protection, 
+or structured trainings that deliver tangible improvements to the t arget segment’s resilience (eg 
+business continuity management and mental health support programmes). 
+At the industry level, this principle is further reinforced by the Value-based Intermediation for 
+Takaful framework, which was developed and driven by the takaful industry  association as 
+a commitment to adopt value- driven business practices and deliver positive and sustainable 
+outcomes consistent with Shariah objectives (Maqasid). This includes providing meaningful value 
+to participants and society through inclusive and socially oriented takaful solutions.  
+The other four principles are: a ffordable; accessible; easy to understand; and easy to purchase, 
+make nominations and make claims. 
+3.2 Other requirements that enable supervisory action on low-value 
+products 
+33. The regulatory frameworks of some jurisdictions do not have an explicit requirement that 
+insurance products offer “fair value” or “value for money”, but they have other rules or 
+supervisory expectations (eg fair treatment of customers and product suitability) that enable the 
+supervisor to act in case of concerns about low-value products.  
+Australia  
+There is not an explicit regulatory requirement of “value” in the Australian regulatory framework . 
+but rather design and distribution obligations that require financial service providers to design and 
+sell products that are fit for purpose and meet consumer needs. 
+ASIC labelled consumer credit insurance25F
+26 (CCI) as “junk insurance”, following a multi-year body 
+of work that highlighted the very low value of CCI products and the unfair way they were promoted 
+and sold to consumers. Enforcement action was pursued and also remediation of more than AUD 
+160 million was secured for consumers .26F
+27 ASIC considered that consumers received no, or very 
+little, value from the product for various reasons , including: it was sold to consumers who were 
+ineligible to claim or unlikely to benefit or need cover; consumers were sold the product using 
+pressure selling or other unfair sales tactics; consumers were incorrectly charged or had their 
+claim incorrectly declined; and the claims ratios were as little as 11 cents paid in claims for every 
+dollar paid in premiums.  
+ 
+24 iTEKAD is a programme established by BNM that aims to assist low-income microentrepreneurs in strengthening their financial 
+  management and business acumen towards generating sustainable income. See www.bnm.gov.my/itekad. 
+25 Inisiatif Pendapatan Rakyat is a government programme empowering people living in extreme poverty to increase their earning 
+potentials. 
+26 ASIC, Report 622 Consumer credit insurance: Poor value products and harmful sales practices, 2019. 
+27 ASIC, ASIC secures over $160 million in remediation for junk consumer credit insurance, 2020.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+New Zealand  
+Consumer value in insurance is determined by several key measures, including fair treatment, 
+product suitability and the overall consumer experience. Insurers are expected to provide accurate 
+information, explain policy details clearly, settle claims fairly and promptly, and protect consumer 
+privacy. They must also have a robust complaints process and act on feedback. Furthermore, the 
+“good faith” principle underscores the importance of treating consumers with respect and acting in 
+their best interests. The  Financial Market Authority’s ( FMA) focus on fair value and consumer 
+outcomes is part of its broader mandate to promote fair, efficient, and transparent financial 
+markets. It also aligns with the Financial Markets (Conduct of Institutions) Amendment Act 2022, 
+which strengthens consumer protection by requiring financial institutions to prioriti se the fair 
+treatment of consumers. 
+3.3 Modifying the insurance purchase decision-making environment  
+34. In some jurisdictions , the regulatory framework makes stipulations that modify the decision -
+making environment to facilitate consumers ’ ability to make an insurance purchasing decision 
+more likely to bring them value. These span the provision of mandated information, the 
+prohibition of commissions that risk incentivising the sale of low value products, protection for 
+the customer to make their decision free from pressure selling tactics and with the opportunity 
+to shop around, and access to advice in the best interests of the customer.  
+ 
+Hong Kong 
+In Hong Kong, insurers are required to publish the fulfilment ratio of non -guaranteed benefits for 
+their participating policies.27F
+28 Participating policies are a type of life insurance that not only provide 
+guaranteed benefits, such as the sum assured, but also offer non-guaranteed benefits in the form 
+of dividends or bonuses. These non-guaranteed benefits allow policyholders to share in the profits 
+of the insurer’s participating fund, which is typically influenced by factors such as investment 
+performance, claims experience and operating expenses. At the point of sale of a participating 
+policy, a potential policyholder is provided with a document of benefit illustrations, which projects 
+future value of both guaranteed and non-guaranteed benefits. Although the guaranteed portion is 
+fixed, the non-guaranteed benefits are subject to change based on the insurer’s actual investment 
+performance and operating results.  
+The fulfilment ratio measures the insurer’s historical performance in meeting those projected non-
+guaranteed benefits. It is a key tool for assessing whether a policy can realistically meet one’ s 
+savings goals and the value of the policy to the customer. In simple terms, the fulfilment ratio can 
+be understood as the aggregate actual accumulated non- guaranteed benefits against the 
+illustrated aggregate amounts for all relevant policies at the point of sale. A ratio close to 100% 
+means that the insurer has come close to achieving its projected non-guaranteed benefits. If the 
+ratio is higher than 100%, it means that the actual payout was higher than the illustrated amount 
+at the point of sale and vice versa. 
+The fulfilment ratio is therefore a useful indicator of value for money for policyholders. Since non-
+guaranteed benefits can make up a significant portion of a participating policy’s returns, a higher 
+fulfilment ratio suggests the insurer has historically delivered on its projections. This helps 
+ 
+28 Insurance Authority, Fulfilment Ratio.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+policyholders assess whether the policy is likely to meet their financial goals and whether the 
+premiums paid are generating fair value. 
+Chinese Taipei 
+The Financial Supervisory Commission regulations require that insurers include a specific ratio 
+when disclosing cost analyses for traditional life insurance products. The required ratio compares 
+the “accumulated principal and interest of surrender values, potential dividends, and living 
+benefits” against the “accumulated principal and interest of total premiums paid.” The calculation 
+must be based on at least three representative issue ages from major age groups. Requiring this 
+ratio intends to ensure that consumers can evaluate the cost-benefit profile of such products and 
+make informed decisions based on their specific needs. 
+Netherlands 
+The Dutch Authority for the Financial Markets (AFM) has written a discussion paper on the role of 
+mandatory pre-contractual disclosures required by law in consumer protection. These documents 
+are often so technical and detailed that they are difficult to understand for consumers.  
+In this paper, the AFM suggests that other instruments can also be used to protect consumers 
+(such as optimising the choice environment). The use of such other instruments will require the 
+application of insights into the behaviour of consumers and markets. The AFM identifies four steps 
+policymakers could take to arrive at a well-thought-out mix of instruments: 
+• Formulate a clear and measurable objective; 
+• Understand consumer behaviour; 
+• Guide consumer behaviour and market behaviour; and 
+• Measure whether objectives have been met. 
+To ensure optimal consumer protection, the AFM advises policymakers to carefully consider which 
+policy instruments are best suited to achieving a specific objective. This will require the application 
+of insights into how consumers and markets behave. 
+If, after careful consideration, information documents are to be used, the AFM also identifies 
+minimum requirements and guidelines to make information documents more effective.28F
+29 
+Australia 
+In 2018 in Australia, the Royal Commission into Misconduct in the Banking, Superannuation and 
+Financial Services Industry considered problems in the add- on insurance market. It found poor -
+value products, risks of unfair sales practices and outcomes, and worse claims outcomes than in 
+other insurance markets.  
+The government responded to the royal commission’s findings and recommendations by 
+introducing a deferred sales model for add-on insurance. The deferred sales model is set out in Pt 
+2, Div 2, Subdiv DA (s12DO – 12DZA) of the Australian Securities and Investments Commission 
+Act 2001. 
+The deferred sales model requires a clear four -day pause between when a consumer enters a 
+commitment to acquire a principal product or service, and when they are offered or sold an add-
+on insurance product (“deferral period”). 
+ 
+29 AFM, Discussion paper on the role of disclosures, 2021.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+This reform was aimed at improving consumer outcomes in the add -on insurance market. The 
+pause in the sales process will give people time to consider the insurance they have been offered 
+and compare it with alternatives. It will reduce the risk of people buying insurance on the spot that 
+is poor value or just not right for them.29F
+30 
+New Zealand 
+In New Zealand, a well-developed and mature licensed advice network provides access to advice 
+for consumers. This is supported by government agencies providing information to consumers to 
+consider when purchasing insurance. The FMA encourages insurance adv isers to work with 
+consumers to help with life insurance and other personal insurances such as income protection 
+insurance as well as insurance against the risks of death, injury or serious illness. A licensed 
+insurance adviser works with a consumer to: 
+• Understand their needs; 
+• Work out what they can afford to pay in premiums; 
+• Find options to suit their situation; 
+• Explain the policies and important information such as premiums, policy 
+definitions and exclusions; 
+• Arrange what they need and manage the process; and 
+• Review their insurances regularly. 
+Underpinning insurance purchasing decisions is the Code of Professional Conduct for Financial 
+Advice Services. The Code of Professional Conduct for Financial Advice Services is prepared in 
+accordance with Part 4 of Schedule 5 of the Financial Markets Conduct Act 2013. The code 
+supports the purposes of the Act, including promoting the confident and informed participation of 
+businesses, investors and consumers in the financial markets, avoiding unnecessary compliance 
+costs and ensuring the availability and quality of financial advice.30F
+31 
+3.4 Consumer education and information  
+35. In some jurisdictions, the supervisor develops and issues consumer -facing materials and 
+messages to promote understanding of insurance and to assist consumers make their insurance 
+purchasing decisions. The supervisor’s actions aim to empower the consumer to make a better-
+informed insurance selection that will provide value to them, considering their needs.  
+Slovenia  
+In Slovenia, as part of its  “Value to Insurance Customers ” theme, the Insurance Supervision 
+Authority (AZN) has published on its website 31F
+32 several brochures and guidelines  for consumers, 
+covering various topics such as non -life insurance, car insurance, natural catastrophe ( NatCat) 
+ 
+30 ASIC, The deferred sales model for add-on insurance and ASIC releases guidance and customer information requirements to 
+implement the new add-on insurance deferred sales model, 2021. 
+31 FMA, Code of Professional Conduct for Financial Advice Services, 2019. 
+ 
+32 See www.a-zn.si.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+insurance etc. The aim is to support consumers in making well -informed decisions and 
+understanding their rights and obligations under current insurance regulations. 
+Belgium 
+The FSMA launched an online tool  in 2024 that provides an overview of the costs of pension 
+products. The tool was developed following a study carried out by the FSMA at the request of the 
+Belgian government in which it looked at the costs charged by financial institutions for their pension 
+products. The study examined both second- and third-pillar pensions. The report presenting the 
+findings of the study is available on the FSMA website.32F
+33 
+Institutions offering second- and third-pillar pension products charge costs for their services. These 
+costs affect the ultimate outcome of the savings made. The FSMA asked institutions managing 
+second- or third-pillar pensions to provide data on the subject. The study focused on costs charged 
+for pension contributions and reserves. It highlights a series of clear trends. 
+To help consumers in their search for a suitable pension product, the FSMA has developed an 
+online cost calculator. By visually illustrating the combined effect of costs levied on pension 
+contributions and reserves, it gives consumers a view of the impact of different types of costs on 
+their supplementary pension. 
+Australia  
+In Australia, MoneySmart.gov.au, a g overnment website operated by ASIC, helps consumers 
+make well-informed decisions in insurance (plus other areas such as banking, budgeting, investing 
+and planning) through tools and calculators, including: 
+• Explanatory content about how a wide range of insurances work, what to consider 
+when choosing which insurance to buy in order to find the best value and a policy 
+that suits your needs, how to claim, and more. 
+• A life insurance claims comparison tool that enables a potential customer to 
+compare each individually listed insurance company and an industry average, on 
+metrics of the percentage of claims paid out, how long it takes to pay the claim, the 
+number of disputes consumers have lodged about claims with an insurer, and the 
+percentage of policies that were cancelled by the insurer or the insured person. 
+• A life insurance needs calculator that helps work out if you need cover, how much 
+life cover you might need and what expenses your life cover will pay for when you 
+die. 
+Singapore 
+MoneySense was launched in 2003 as Singapore’s national financial education programme. It 
+aims to help Singaporeans manage their money well and make sound financial decisions on their 
+own. MoneySense programmes, which cover a wide range of money management and personal 
+finance topics including insurance, are overseen by the MoneySense Council, which is co-chaired 
+by the Monetary Authority of Singapore (MAS) and Singapore’s Ministry of Manpower. 
+MoneySense’s outreach arm, the Institute for Financial Literacy, also conducts free and unbiased 
+financial education and training programmes for the public. 
+ 
+33 Access the 2024 report (in French or Dutch) from FSMA, FSMA launches cost calculator for pension products, 2024. See also 
+the 2025 updated report available (in French or Dutch) from FSMA, The FSMA publishes update on costs in the second and third 
+pillar pensions, 2025.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+In collaboration with industry partners, MAS and MoneySense issued a simple guide in October 
+2023, the Basic Financial Planning Guide, to help retail investors start their financial planning 
+journey. The guide contains simple rules of thumb to support investors in taking steps to address 
+their savings, insurance and investment needs at different life stages. Examples include setting 
+aside three to six months’ worth of expenses as emergency funds for rainy days and spending no 
+more than 15% of income on insurance products. Simple and lower cost investment and insurance 
+products are also flagged in the guide 
+Hong Kong 
+The Chin Family  is an independent and impartial financial education platform providing free 
+information, resources and programmes to help people in Hong Kong plan and manage their 
+finances by making financial learning simple and enjoyable. Educational information on insurance, 
+investment products, personal banking and virtual assets etc is available on The Chin Family in 
+the forms of publications, multimedia, comic series and infographics. 
+The Chin Family  is managed by a public organi sation, the Investor and Financial Education 
+Council, which is supported by the Education Bureau and all four financial regulators in Hong Kong 
+(the Hong Kong Monetary Authority, Insurance Authority, Mandatory Provident Fund Schemes 
+Authority and Securities and Futures Commission). 
+From a consumer-facing perspective, The Chin Family offers a wide range of easy-to-understand 
+resources to help people learn about financial topics, including insurance. These materials explain 
+how insurance works, the different types of products available and what rights consumers have. 
+By presenting information in a clear and relatable way, The Chin Family empowers individuals to 
+make more informed decisions about their insurance needs. 
+USA 
+In the US, the NAIC’s Consumer Insurance Search is an online tool with information about 
+insurance companies (including the lines of business they offer and a list of jurisdictions in which 
+they operate) that consumers can access before purchasing an insurance product. By provi ding 
+information about the complaint trend report, the licensing status, the financial overview report of 
+insurance companies etc, this online resource helps consumer make better -informed decisions 
+about insurance products.33F
+34 On its website, the NAIC has also published several consumer guides 
+(eg Buyer’s Guide to Deferred Annuities, Life Insurance Buyer’s Guide and Shopper’s Guide to 
+Long-Term Care Insurance) as way to foster consumers’ confidence in the purchase of insurance 
+products.34F
+35  
+Germany 
+BaFin has published consumer information material on its website. The following examples are 
+particularly noteworthy: 
+• BaFin explains in a short cartoon video (“Why is it worth checking your insurance? 
+BaFin - Videos - Warum lohnt sich ein Versicherungscheck?) that when changes 
+occur in one’s life, it is necessary to check whether insurance coverage still suits 
+the changed circumstances and which factors can influence the amount of the 
+insurance premium. 
+ 
+34 NAIC, Consumer Insurance Search Results. 
+35 NAIC, Resources for Insurance Industry Insights.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+• Having in mind people who are not proficient in German, BaFin explains important 
+insurance vocabulary in easy language in alphabetical order (BaFin - Publikationen 
+& Daten - Das kleine ABC in Leichter Sprache), eg “Abschlusskosten” refers to the 
+costs that may be incurred when concluding an insurance contract.  
+• Events on the topic of insurance, especially for older people, are held regularly. The 
+proportion of the population in Germany aged 65 or older is around 23% as of 2024. 
+This proportion is expected to continue to increase in the coming years due to 
+demographic change caused by rising life expectancy and low birth rates. Together 
+with the “Digital Kompass ” initiative, BaFin employees hold regular digital 
+roundtable discussions. At the December 2025 meeting ( Versicherungscheck im 
+Alter | Digital-Kompass), participants were told why it is worthwhile to take a critical 
+look at their own insurance policies on a regular basis.  
+ Aspects that can diminish the value offered by insurance 
+36. Characteristics or incidents that diminish the value of insurance for consumers can materialise 
+at different points over the lifecycle of a product. They can arise, for example, due to design 
+failures, poor governance, unfair pricing, unsuitable promotion and distribution, and poor claims 
+and complaints handling.  
+4.1 Needs-benefits misalignment  
+37. Before a product is distributed, it is important to design the product coverage to offer value to 
+the targeted group of consumers and then ensure that sales are made only to the target market.  
+38. A product that does not offer, from the outset, reasonable value to the customer it is being 
+offered to would typically fall short of regulatory and customer expectations and therefore should 
+not be sold to that customer.
+35F
+36 Examples of insurance products offered to consumers for which 
+they were unsuitable from the outset as stated by ASIC included the sale of ongoing consumer 
+credit insurance to a 65- year-old when eligibility falls away at 66, or the sale of insurance to 
+cover involuntary unemployment to a person already unemployed at the time of purchase and 
+hence ineligible for that benefit.
+36F
+37 
+39. Exclusion clauses are also a key contributor to needs-benefits misalignment. Unexpected and/or 
+difficult to understand exclusion clauses in product design reduce the likelihood that the 
+customer gets what they had expected from the insurance product, and hence can diminish the 
+value of the coverage to the customer.  
+40. A prime example is whether home insurance covers damage by NatCat and whether consumers 
+can understand upfront the coverage exclusions and limitations , and their implications. For 
+instance, with flooding, various different complex coverage terms exist across the market 
+– for 
+example, according to where the flood originates from (storm, sea, man-made dam etc), what 
+ 
+36 For example, in the UK the PROD 4 rules include: Where the firm is unable to identify and clearly demonstrate that a product 
+provides fair value, the firm must not market the product or permit the product to be distributed, or must have made sure 
+appropriate changes have been made so that fair value will be provided (PROD 4.2.14C R (2)). 
+37 These are examples cited by ASIC of unfair sales of consumer credit insurance where the consumer received no or very little 
+value from the product: 20-115MR ASIC secures over $160 million in remediation for junk consumer credit insurance | ASIC.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+has directly caused the damage, waiting periods, covered property types and certain excluded 
+items. 
+4.2 Pricing issues 
+41. Although cost and value are not always directly correlated – for instance, low-cost insurance 
+does not necessarily equate to low or high value, and high-cost insurance does not inherently 
+signify high or low value – pricing plays a significant role in evaluating value.  
+42. Firstly, pricing that is not risk -based or does not adhere to the principle of mutualisation may 
+result in products offering low value, as the cost is not aligned with the benefits provided. 
+Secondly, errors or misconduct that inflate the price charged to customers  relative to what the 
+customer was promised or what is offered to equivalent other customers  reduces the received 
+value. Lastly, a lack of transparency or misleading representations regarding the price paid by 
+customers hinders their ability to understand the cost of the insurance and to assess its value 
+effectively.  
+43. Margin personalisation – where premiums are tailored not only on risk but also on an individual’s 
+price elasticity or behaviour – may lead to some consumers paying disproportionately higher 
+premiums compared to others with similar risk profiles. Pricing the risk to the consumer relative 
+to the overall costs and benefits of a product or service is core to determining what constitutes 
+“fair value” or “low  value”. Otherwise, the pricing model may unfairly discriminate against or 
+penalise one class of consumer over others.  
+44. Where pricing opacity grows, so does the difficulty for consumers to assess whether the product 
+offers fair value. W hat is w orse is that consumers may be provided false or misleading 
+information about the price they are paying.  
+45. Further, if pricing promises like discounts (multi -policy discounts, no claims discounts , loyalty 
+discounts) or other benefits (gift card, loyalty scheme points, cashback offers) are not delivered 
+in full, consumers will be overcharged for their policies or not receive all of the promised benefits. 
+Consumers who believe they are receiving something of value from their existing policies can 
+also be discouraged from shopping around, even if a pricing promise is not delivered in full and 
+the consumer is unaware of this. An insurer may also gain an unfair advantage over another by 
+promising a discount to retain customers, then failing to deliver it in full. 
+Ireland 
+The Central Bank of Ireland (CBI) found that long-term customers (those who stayed with the 
+same insurer for nine years or more) pay on average 14% more on private car insurance and 32% 
+more on home insurance than the equivalent customer renewing for the first time.37F
+38 CBI responded 
+to this practice by introducing rules from 1 July 2022 that ban “price walking” in home and motor 
+insurance. At the point of renewal, insurance providers cannot charge personal consumers who 
+are on their second or subsequent renewal a premium higher than they would have charged them 
+if they were a year one renewal customer at that point in time. See Home and Motor Insurance 
+Rules | Central Bank of Ireland. 
+Netherlands  
+In 2024, AFM investigated margin personalisation, which is sometimes also called a “loyalty 
+ 
+38 CBI, Central Bank proposes to end the loyalty penalty for private car and home insurance customers, 2021.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+penalty”. The investigation revealed that in 2023, almost half of the non-life insurers had a higher 
+profit margin on loyal consumers than on newer consumers in at least non-life product. 
+AFM has concluded discussions with those insurers regarding compliance with product 
+governance requirements. Insurers have indicated that higher profit margins for loyal customers 
+are undesirable and have adjusted premiums and/or policies where necessary. AFM will continue 
+to pay attention to this topic in the coming period and may conduct a second measurement.38F
+39 
+Australia 
+Broken pricing promises  
+ASIC published Report 765 – When the price is not right: making good on insurance pricing 
+promises in 2023. It details an extensive, multi -year campaign of work by ASIC calling on all 
+general insurers to review their pricing practices, systems and controls to ensure consumers 
+received the full discounts they were promised. Identified issues included: 
+• Some customers did not receive promised discounts in full, including loyalty 
+discounts; 
+• Disclosure documents and promotional materials contained inaccurate descriptions 
+of discounts; and 
+• Some customers were denied price discounts they were eligible for due to 
+incorrectly applied eligibility criteria. 
+The findings led 11 general insurers to repay over AUD  815 million to more than 5.6 million 
+customers for broken pricing promises, and ASIC pursued court action against several insurers. 
+Misleading price representations 
+In 2025, ASIC initiated court proceedings against an insurer alleging that over a five- year period, 
+the insurer sent over 500,000 renewal documents to customers with misleading or false 
+representations of the “last period premium ” on various types of cover including home and 
+contents, car, caravan, boat and pet insurance.  
+39F
+40 In many cases , the “last period premium ” 
+represented was higher than what the customers had actually paid after negotiating discounts or 
+making a change to their policy that affected the premium, leading to a distorted view of how much 
+their premium was actually increasing in this new renewal period.  
+For example, a customer received a renewal notice showing their “last period premium ” was $ 
+AUD 6,930.55 and their new premium was AUD 7,033.57, which is a 1.5% increase. However, the 
+customer had actually paid a much lower AUD 5,024.18 premium, which meant insurer RACQ 
+was hiking the customer’s renewal premium by 40%. 
+Ensuring better consumer experiences is part of ASIC’s 2025 enforcement priorities. In its 2025 -
+2026 Corporate Plan, ASIC announced that it will continue examining the accuracy and 
+transparency of disclosures about premiums. 
+ 
+39AFM, Call to insurers: ensure a fair premium for loyal customers, 2025.  
+40 See 25-211MR ASIC takes court action alleging RACQ sent half a million misleading insurance renewal comparisons | ASIC
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+4.3 Bundled or tied sales 
+46. Sales and distribution practices may also present risks that lead to consumers purchasing 
+products with low value for money. Product cross-selling, for example, may force a consumer to 
+buy credit protection insurance from the provider of the main credit product. This can restrict 
+consumer choice, reduce competition, obscure pricing and lower the overall product value.40F
+41 
+47. In some markets , bundling or grouping insurance products with other goods or services (eg 
+mobile phone insurance sold with the mobile device, or travel cover included with a credit card) 
+may risk delivering low value if the consumer cannot easily assess whether the bundled 
+insurance is needed, appropriate or duplicative of existing cover. It also makes it much more 
+difficult for the consumer to determine the cost to them of that insurance coverage. 
+48. Also, the prices of bundled insurance policies may lead consumers to make purchasing 
+decisions based merely on price rather than on the coverage of their respective policies , thus 
+with the risk of overlooking the fact that buying products separately could offer consumers more 
+options and flexibility.  
+49. Bundled insurance policies can also be pressure-sold or even sold without the consumer’s 
+awareness or without the consumer’s understanding that they had an option to decline the 
+purchase.  
+50. On the other hand, bundling insurance with another product can be a favourable method of 
+increasing insurance access and uptake, so long as the insurance component offers fair value 
+and consumer protection measures are in place. For example, agricultural insurance bundled 
+with drought resilient seed varieties can help reduce NatCat protection gaps by not only 
+lessening physical exposure but also supporting the development of sustainable insurance 
+solutions.
+41F
+42  
+Mauritius 
+In Mauritius, the FSC, in a Communiqué 42F
+43 dated 24 January 2022 and published on its website, 
+emphasised the principle of free choice of insurance policy, reminding market participants that 
+consumers should be able to select their insurance provider independently and without coercion. 
+In particular, the FSC specified that “any person who has to provide an insurance policy to 
+guarantee a debt or other obligation with respect to a (1) loan: (2) leasing agreement; or (3) credit 
+facility has a free choice as to the insurance policy required to guarantee this transaction” and that 
+“any person who is required to provide an insurance policy to guarantee a debt or other obligation 
+must be able to confirm, in writing, that he has been informed of his right to this free choice under 
+Section 81 of the Insurance Act 2005 and that he has exercised this right freely and willingly”. 
+Malaysia 
+In Malaysia, requirements under the Financial Services Act 2013 and the Islamic Financial 
+Services Act 2013 prohibit insurers from engaging in unfair or misleading conduct, including 
+coercive tying or bundling of products, and must ensure consumers are not misled or compelled 
+to purchase additional products. Under BNM’s Perlindungan Tenang  framework, insurers are 
+ 
+41 See, for example, EIOPA’s thematic review (October 2022) on Credit Protection Insurance (CPI) sold via banks and EIOPA’s 
+warning (August 2022) to insurers and banks to ensure mortgage CPI, consumer credit CPI and credit card CPI products offer 
+fair value to consumers. 
+42 For more, see the IAIS-WBG contribution to G20 SFWG on identifying and addressing insurance protection gaps (July 2025). 
+43FSC, Section 81 of the Insurance Act 2005 “Free choice to provide an insurance policy”, 2022.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+permitted to offer Perlindungan Tenang products as part of a bundled or combined product. 
+However, insurers are required to assess the appropriateness of such combinations in relation to 
+the needs, objectives, and characteristics of the target consumer gro up. This regulatory 
+expectation ensures that bundling does not compromise the simplicity, affordability, and 
+accessibility that Perlindungan Tenang products are designed to deliver. It also aligns with the 
+principles outlined in the Fair Treatment of Finan cial Consumers Policy Document, which 
+emphasises product suitability and the importance of ensuring that consumers are not exposed to 
+unnecessary complexity or features that do not serve their financial protection needs.43F
+44 
+4.4 Commissions and other distribution conflicts of interest 
+51. Product distribution chains can threaten value where multiple intermediaries each receive 
+commissions without contributing commensurate value, thereby inflating the overall price and 
+charges paid by the consumer for the benefits received. In complex and long distribution chains, 
+it can also be difficult to discern what services are being paid for  and by whom, and whether 
+these costs are justified by actual benefits delivered.  
+52. Commissions or other fees received by intermediaries can also generate conflicts of interest by 
+incentivising product promotion and sales, even if the product is not in the best interests of the 
+customer. They can lead to a customer buying an insurance product that is not best suited to 
+their needs, or that is not the most price-advantageous option the customer may have chosen if 
+their decision-making environment had been free from the impact of the conflict.  
+53. Commercial comparison websites can be another example, with the range of insurance options 
+presented and their “ranking” often influenced by behind-the-scenes fee, commission or 
+ownership arrangements that the consumer does not realise.
+44F
+45 Further, the information that is 
+presented may not be appropriate and adequate to enable the consumer to properly compare 
+between products. On the other hand, when done appropriately, comparison websites can 
+support consumers to make more informed decisions and to shop around on price and suitability 
+of insurance options.  
+Netherlands 
+In the Netherlands , consumers faced major value for money issues involving insurance-based 
+investment products sold between the 1990s and early 2000s. These products, often marketed as 
+beneficial savings plans, carried high hidden costs and risks, which were not transparentl y 
+disclosed to consumers. Many policyholders faced disappointing returns while intermediaries 
+earned substantial commissions. Insurers also benefited from the untransparent cost structure.  
+This exposed systemic issues, particularly in product governance and the misalignment between 
+consumer interests and advisor incentives. In response, the Dutch government introduced 
+the commission ban in 2013 on complex products such as insurance-based investment products. 
+This regulation prohibited financial advisors from receiving commissions from product providers, 
+requiring them instead to charge clients directly for their services. 
+ 
+44BNM, Perlindungan Tenang, July 2021, paragraph 9.3. 
+45 For example, prospective customers may be misled, or make their own assumption, that the website is comparing the full 
+market when instead it is only comparing and presenting a much narrower range of policies. See 25-092MR ASIC sues Choosi 
+for allegedly misleading customers through its insurance comparison service | ASIC.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+The commission ban significantly improved transparency and trust in financial services. By 
+removing hidden incentives, it ensured that advisors act in the best interest of their clients, helping 
+to prevent future mis-selling and restoring consumer confidence.45F
+46 
+The Netherlands has also implemented the so- called active commission transparency, requiring 
+advisors to actively communicate the amount of commission received with each advice for non-
+life insurance products, independently of whether consumers have asked for it. 
+UK 
+The FCA highlights that all the elements that make up the total price should be consistent with 
+providing fair value based on the product or services provided to the consumer. The risk price 
+clearly relates to the most important benefit provided under the product to the consumer, because 
+the core purpose of an insurance product is to transfer risk. Other costs and benefits added to this 
+may affect whether the product provides fair value.  
+Firms should carefully consider the difference between the risk price and the total price paid by 
+the consumer. The larger the difference between risk price and total price, the more the FCA would 
+expect firms to show why the other costs provide fair value and fairly reflect the quality of the 
+product or services provided. 
+Singapore 
+Balanced Scorecard (BSC) Framework and Regulations on financial advisory representatives’ 
+variable income 
+MAS introduced the BSC framework to better align the interests of financial advisory 
+representatives selling insurance products with that of their customers and minimise conflicts with 
+customers’ interests that are inherent in volume-based remuneration arrangements. Under the 
+framework, such representatives and their supervisors will need to meet the key performance 
+indicators that are not related to sales, such as providing suitable product recommendations and 
+making proper disclosure of material information to customers. Their variable incomes may be 
+adversely impacted depending on their quality of financial advisory services. 
+To further align the interests of intermediaries and customers by promoting long-term relationship 
+and servicing, MAS has introduced regulations to spread and cap financial advisory 
+representatives’ variable incomes. The remuneration that a financial advisory representative can 
+receive for selling a life insurance policy in the first year is capped at a percentage of the total 
+remuneration payable for that sale. In addition, the total remuneration must be paid over a period 
+of at least six years starting from the date the relevant life policy is issued. 
+compareFIRST 
+MAS collaborated with the industry to develop compareFIRST, which is an interactive web portal 
+that allows consumers to quickly compare the premiums and features of life insurance products 
+such as term life, whole life and endowment products from all direct life insurers in Singapore that 
+cater to the retail market. It is a purely informational portal that aims to help consumers make 
+informed decisions and does not promote or distribute life insurance products. 
+Hong Kong 
+The Insurance Authority  will introduce a commission- spreading requirement for participating 
+policies with regular premium payment terms, effective 1 January 2026. This measure aims to 
+ 
+46 AFM, Ban on commissions.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+better align incentives for insurance intermediaries to provide both pre-contract services and 
+ongoing servicing, and to discourage aggressive sales practices driven by disproportionately high 
+upfront commissions. 
+Under the commission spreading requirement: 
+• N o more than 70% of the total commission payable is paid upfront (ie the 
+commission to be paid during the first policy year must not exceed 70% of the total 
+commission payable in respect of the policy); and  
+• T he remaining commission payable after the first policy year must be paid at least 
+over a minimum of five years (ie the second to sixth policy year) or the premium 
+payment term (whichever is shorter) and must be spread evenly over this period.  
+Paying high commissions upfront can lead intermediaries to focus excessively on making sales 
+rather than ensuring that the product suits the customer’s long-term needs, which may result in 
+misselling, policy churning and poor after-sales service. By spreading commission payments over 
+a longer period, the new requirement encourages intermediaries to build lasting relationships with 
+policyholders, provide ongoing support and place adequate emphasis on long-term policy 
+performance. This approach also brings Hong Kong more in- line with international regulatory 
+trends aimed at treating clients fairly in the insurance sector. 
+4.5  Complex decisions expected of the customer 
+54. There is the potential for diminished value being delivered to customers from their insurance 
+coverage when they are expected to make decisions or elections in respect of their insurance 
+product, without being suitably informed and assisted in doing so.46F
+47  
+55. In the case of home insurance, the offer made to a customer of a lump sum cash settlement 
+instead of the insurer arranging the repairs or replacements may present a risk of diminished 
+value from the insurance product, particularly if the customer is not properly informed of the 
+consequences and implications of accepting the offer. The biggest risk is that the cash payment 
+falls short of  covering the full eventual cost of the work, particularly if market prices increase, 
+the initial assessment was too low or  the repair costs the customer can negotiate are higher 
+than the insurer’s typical preferred service providers who are often on bulk agreements. There 
+can also be various other policy benefits that are impacted in the case of a cash settlement, 
+such as temporary accommodation, removal of debris or removal and storage of contents, the 
+impact and trade-off of which may be difficult for the customer to comprehend and evaluate 
+unassisted. If a customer is not aided to properly understand and consider the pros and cons of 
+accepting a cash settlement, the customer can experience a financial shortfall leading to out-of-
+pocket expenses or lower -quality repairs which diminishes the value of the insurance 
+coverage.
+47F
+48 It should be noted that g ood value for the customer in insurer -arranged repairs 
+depends on sound governance and procedures to select repairers who deliver high-quality work 
+in the customers’ best interests.  
+56. Another example is the expectation that the customer determines and tells the insurer the “sum 
+insured”. The sum insured is then specified in the insurance contact and is the maximum amount 
+the insurer will cover. This is particularly relevant with home insurance where it is very 
+ 
+47 Refer also to Section 2, which explains why these decisions are challenging for consumers. 
+48 The Australian Financial Complaints Authority (the ombudsman) explains the risks in its April 2025 article Understanding cash 
+settlements.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+challenging for a customer to reliably estimate the replacement cost of completely rebuilding 
+their home to its current size and quality, requiring consideration of costs such as labour, 
+materials, demolition, debris removal, building approvals, professional fees associated with 
+rebuilding and more. Further, the customer must review it regularly to make sure it still reflects 
+the true cost of rebuild, which will increase with inflation  and making home improvements, and 
+even factors like variation in the supply and demand for building labour or supplies. If a customer 
+is not aided to properly understand the significance of the sum insured and to nominate and 
+keep revising the sum insured so that is appropriate, the value of the insurance coverage will 
+be low. 
+57. The s um insured is also relevant to other insurance coverages, including liability insurance. 
+Here, blanket messaging that encourages a consumer to choose the maximum sum insured if 
+they can afford it may not be appropriate guidance to assist a consumer to properly evaluate 
+the value offered by the different options of insurance coverage and select what is suitable and 
+provides value to them, in their circumstances.  
+58. Decisions around switching products are also complex. For example, consumers may decide to 
+switch products or providers given their personal and financial circumstances. However, the lack 
+of portability of underwriting status may diminish the value of insurance for consumers as it 
+creates complexities they may not be able to fully understand.  
+59. Switching typically requires re-underwriting, which can result in different, and potentially inferior, 
+terms and conditions for  the consumer. Changing insurance product or provider may involve a 
+number of complex considerations that some consumers may find challenging, such as: 
+• Health indicators tied to age and anticipated future health deterioration; 
+• Estimated financial impact of losing their current underwriting status; 
+• Assessing switching costs that are uncertain and difficult to estimate; and 
+• Comparing products without the ability to see their “true value” if re-underwritten. 
+60. Given such complexities with decision-making, some consumers may effectively feel locked in 
+to their existing insurance products or providers, even when alternative products or providers 
+may offer better value for money, other things being equal. The impact is particularly significant 
+where switching is involuntary, such as in cases of insurers’ exit or portfolio restructuring, where 
+compensation based solely on policy value may be insufficient to allow consumers to obtain 
+equivalent coverage elsewhere. 
+61. Features such as no-claim discounts for motor insurance show how allowing consumers to 
+retain certain benefits when switching enable consumers to compare products and prices more 
+effectively. The absence of similar portability in medical and life insurance may have material 
+implications for consumer outcomes.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+Malaysia 
+BNM addresses the complexity of insurance product decisions through two key regulatory 
+instruments: the Fair Treatment of Financial Consumers (FTFC) Policy Document and the Product 
+Transparency and Disclosure (PTD) Policy Document.  
+The FTFC policy outlines expectations for insurers to ensure that consumers receive clear, 
+relevant and timely information, and that products are suitable for their needs, especially for 
+vulnerable groups. For example, in ensuring distribution of insurance and takaful products are 
+aligned to the complexity of the products and the intended target market, the FTFC policy prohibits 
+insurers and takaful operators from engaging in predatory practices that exploit vulnerable 
+consumers such as promoting highly complex investment-linked insurance or takaful products to 
+consumers with no investment experience.  
+Complementing this, the PTD require insurers to present product information in a manner that is 
+accessible and comprehensible, reducing reliance on technical jargon and enabling consumers to 
+better assess product value and risks. Together, these policies aim to mitigate behavioural biases 
+and information asymmetries by improving the clarity, relevance and usability of insurance 
+disclosures throughout the product lifecycle. 
+ Aspects that can enhance the value offered by insurance 
+62. Keeping in mind that any explicit supervisory expectation of “value” or “value for money” is 
+currently defined on a jurisdiction-by -jurisdiction basis, this section sets out in a more general 
+way key opportunities for insurance products to be valuable to consumers.    
+5.1 Product design that rewards risk reduction 
+63. Product design can enhance the value for consumers by incorporating features that incentivise 
+and then reward consumers for taking risk reduction measures – f or example, in home 
+insurance, premium discounts when additional risk mitigating home improvements are installed 
+such as cyclone-proof roofing or fire-retardant building materials.
+48F
+49 I n health insurance,  
+examples include premium discounts and other rewards for health-promoting behaviours like 
+health check-ups and exercise. This improves the value proposition of the product to consumers 
+who take steps to reduce their risk and delivers value to an insurance customer even if that 
+person never makes a claim against their policy. 
+64. Relatedly, home insurance coverage that permits rebuilding the home in new ways that reduce 
+the inherent risk of the property may be more valuable than insurance coverage that permits 
+only rebuilding the house in the equivalent way as it was built before, when that was a reason 
+for its demise  – for example, if a single-storey home destroyed by a flood cannot be rebuilt on 
+stilts. 
+ 
+49 The California Department of Insurance Sustainable Insurance Strategy is a comprehensive package of regulatory and 
+administrative reforms aimed at modernising the state’s insurance market to ensure accessible insurance for all Californians, 
+create a resilient insurance marketplace and protect consumers and communities from the adverse impacts of climate change. 
+One component has been the introduction of regulations that allow insurers to use catastrophe modelling and to incorporate the 
+net cost of reinsurance leading to more accurate risk pricing and the offering of discounts to consumers for meeting mitigation 
+and hardening requirements.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+5.2 Customer-centric claims handling  
+65. Positive c laims handling practices can enhance a product’s value  to the customer. Less 
+cumbersome claims processes, initiatives that assist and support the claimant, regular updates 
+on the pending claim status delivered in a convenient and clear manner, faster claims outcomes 
+and rapid payments of approved claims are all characteristics of the claims handling service that 
+can enhance the value of insurance products.  
+66. Support and facilitation of the claim-making process  is likely to be especially valued when 
+catastrophic events occur and consumers are at their most vulnerable. A good example of this 
+is insurers who rapidly establish an on-the-ground presence in the aftermath of incidents such 
+as wildfires or floods, meet face-to-face with customers to provide support and guidance on the 
+claims process, ease typical requirements for submitting claims such as the itemisation of 
+detailed inventories and expedite the payment of claims.  
+67. Parametric insurance, when adequately explained and understood by consumers, is 
+increasingly discussed as a promising solution to reduce NatCat protection gaps.
+49F
+50 The ease 
+and speed of receiving a payout under parametric insurance is central to its value proposition 
+for customers, as is the greater certainty for the customer, with upfront clarity over what events 
+trigger payment and how much the payout will be. This eliminates the disputes and delays 
+common in indemnity-based claims. 
+California, USA 
+In the aftermath of the devastating 2025 s outhern California wildfires, insurers collaborated with 
+the California Department of Insurance (CDI) to quickly establish physical presences at relief sites 
+in convenient community locations. At these sites , insurers offered support and information, 
+provided advance payments to consumers for their immediate displacement needs, facilitated 
+claims making processes and expedited claims handling processes. 
+Insurers also participated in the CDI-convened Residential Insurance Policy Locator (RIPL) free 
+service. Through the service, a property owner in a declared disaster area who is unable to recall 
+the name of their insurer can register in the RIPL. The CDI then forwards the information to the 
+insurers licensed in California. All the insurers search their records to determine if they locate a 
+policy that was in force at the time of the disaster, and, if so, contact the property owner directly. 
+Hungary 
+At the end of 2019, the Hungarian National Bank (MNB) developed and published the concept and 
+the application framework for the Certified Consumer -friendly Home Insurance (CCHI), which is 
+part of MNB ’s certified product family. 50F
+51 The CCHI primarily aims to put the interests of the 
+customer first by setting standardised minimum frameworks.  
+CCHI products provide customers with higher-quality service compared to the products available 
+on the market, without unnecessary covers and surplus expenses, in an easily comparable 
+ 
+50 Parametric insurance provides rapid payouts triggered by predefined, measurable parameters, offering alternative or 
+supplementary coverage to traditional indemnity insurance, including for losses that are often excluded by the latter. See IAIS, 
+FSI and IAIS publish joint note on parametric insurance, 2024. For a case study on the introduction of NatCat parametric 
+insurance solutions in Fiji, see United Nations Development Programme, Insuring Resilience: How Parametric Solutions are 
+Transforming Climate Adaptation in the Pacific, 2025. 
+51 See MNB, Report on insurance, funds, capital market risks and consumer protection 2021 page 63; see also 
+https://mabisz.hu/wp-content/uploads/2023/06/biztositas-es-kockazat-10-evf-1-2-szam-3-cikk.pdf; 
+https://www.mnb.hu/letoltes/minositett-fogyasztobarat-otthonbiztositas-palyazati-kiiras-2024-12-20.pdf
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+manner and guaranteeing customer-friendly service. Customers shall ensure to communicate with 
+the insurer in fully digital form, starting from requests for information through to the submission of 
+declaration of claim settlement documents to the cancellation or amendment of the contract. 
+When developing the principles related to claims settlement in CCHI products, the MNB noted that 
+the steps of the claims settlement process and the deadlines related to them should be well defined 
+and predictable for customers, and that customers should be continuously informed about the 
+current status of the claims settlement process.  
+The concept pays special attention to empathetic and flexible adjustment to the life situation 
+resulting from the claim event. Accordingly, advance payment of the claim and accelerated claims 
+settlement are expected. In response to the problem of prolonged claims settlement processes, 
+the MNB defined that only a narrow period is allowed for requesting documents necessary for 
+assessing the claim and also prescribed the obligation to provide prior information regarding the 
+documents. In instances of priority claims that threaten basic living conditions, the insurer 
+designates a dedicated claims settlement contract for the customer throughout the entire claim 
+settlement process and facilitates resolution by providing an advance on the claim. 
+5.3 Product flexibility and responsiveness 
+68. Product flexibility is a fundamental aspect of value for money. It ensures that a product is 
+“adaptable” to changes in life circumstances (i e income fluctuations, family composition, 
+emerging risks etc) and can therefore maintain its value over time. Indeed, a static product may 
+initially offer value but can become misaligned if adaptability mechanisms ( eg mid-term 
+adjustments, modular benefits etc) are absent. Adaptability mechanisms help with identifying 
+any circumstances that may adversely affect the consumer of that product and act on it, so as 
+to prevent further occurrences of the detrimental event. 
+69. As such, value is offered when insurers continuously monitor and regularly review the products 
+they have placed on the market, to identify events that could materially affect the main features, 
+the risk coverage or the guarantees of those products. This also includes whether the products 
+remain consistent with the needs, objectives and characteristics of the identified targeted market 
+group of consumers. A good example of this is car insurers that offered premium discounts 
+during Covid-19 lockdowns in recognition that people were not driving their cars (ie exposing 
+them to risk) at the usual frequency.
+51F
+52 
+70. Beyond regular reviews, value also takes into account reviews triggered by ad hoc events that 
+may adversely impact the products and/or the identified targeted group of consumers. To this 
+extent, insurers continuously monitor the product performance leveraging on conduct -related 
+indicators, such as persistency rate, surrender rate, lapse rate, consumer feedback and 
+complaints, and claims ratio, and account for trends observed in conduct-related indicators when 
+reviewing the product’s overall performance – for example, insurers withdraw products with high 
+lapses in early policy years or implement policies and procedures to ensure low lapse or 
+surrender rates, especially in early policy years. 
+ 
+52 Relatedly, see the Supervisory Statement issued by EIOPA in 2020 about EIOPA’s expectation that insurance manufacturers 
+systemically identify insurance products whose main features, risk coverage or guarantees have been materially impacted by 
+the Covid-19 situation. EIOPA stated that, where products have been materially affected, insurance manufacturers should 
+assess whether and how they continue to offer value to the target market, taking into account its needs, characteristics and 
+objectives.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+5.4 Downside protection  
+71. Product design that mitigates the downside risk for the customer can enhance the value offered 
+by the product.  
+Malaysia 
+To safeguard the protection component offered by investment-linked insurance products, BNM 
+prescribes the minimum and maximum amount of sum assured that must be provided for a given 
+level of premium relating to insurance coverage. 52F
+53 In addition, BNM prescribes a minimum 
+percentage of premiums that must be allocated into investment units for the first 10 policy years. 
+This prevents a significant portion of the premium used to cover the insurer’s expenses during the 
+early years of the policy, rather than being allocated to the policyholder’s account value. As a 
+result, it preserves value by ensuring that policyholders benefit from the investment component 
+right from the start. 
+ How supervisors can assess that the insurance industry is 
+offering value  
+6.1 Demonstrations in the governance and corporate culture  
+72. Supervisors can examine the insurer’s governance – including specifically product governance, 
+oversight and corporate culture 53F
+54 – for adequate prioritisation of delivering value to customers 
+and ensuring good consumer outcomes.  
+UK  
+The FCA’s Product Governance (PROD) rules, especially PROD 4.2.3A, emphasise that insurer’s 
+governance structures should ensure that products deliver fair value to their target market, 
+including following renewal.  
+The FCA also requires insurers to undertake fair value assessments (FVAs) as a way of 
+demonstrating if the price a consumer pays is reasonable compared to the overall benefits they 
+receive. FVAs ensure that fair value is properly considered in insurers’ decision-making 
+processes.54F
+55 They require insurers to undertake a comprehensive evaluation of product 
+components, pricing, services and customer benefits throughout the product lifecycle, not just at 
+point of sale, to ensure that products offer fair value. Factors for consideration include the nature 
+of the product, type and quality of services and the expected total price to be paid. Products must 
+be changed appropriately and no longer distributed if fair value cannot be identified and 
+demonstrated clearly. 
+ 
+53 BNM, Investment-linked Business, 2023. 
+54 The IAIS Issues Paper on Insurer Culture (2021) expands on the relationship between insurer culture and fair treatment of 
+customers. Cultural drivers include the insurers’ values, business objectives and strategies, leadership accountability, internal 
+communication, remuneration and performance management.  
+55 FVAs are intended to ensure insurers properly consider fair value in their decision-making about products and services that 
+are offered or provided to retail customers. It helps them to check and demonstrate that they are complying with their 
+obligations.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+The FCA conducted a thematic review analysing information from 28 manufacturers and 39 
+distributors covering 10 different general insurance and pure protection products to look at whether 
+firms were meeting their obligations in this regard.55F
+56 The FCA looked at whether firms have: 
+• Assessed and can demonstrate their products and services offer fair value; 
+• Effective product governance arrangements to meet the requirements; and 
+• T aken effective action where products may not be providing the intended value. 
+New Zealand 
+New Zealand’s Financial Markets (Conduct of Institutions) Amendment Act mandates that licensed 
+financial institutions establish, implement and maintain effective fair conduct programmes. These 
+programmes involve regular reviews of product performance to ensure ongoing delivery of fair 
+value and alignment with consumer needs. Insurers are expected to evaluate whether their 
+remuneration, distribution and management practices support fair treatment, and to make timely 
+adjustments when shortcomings are identified through monitoring. Such ongoing oversight is 
+intended to promote transparency, address conflicts of interest and uphold the responsibility to 
+deliver genuine consumer value throughout the product lifecycle. 56F
+57 The FMA actively oversees 
+these programmes and may intervene to uphold regulatory standards.57F
+58 
+South Africa  
+The Financial Sector Conduct Authority ’s Policyholder Protection Rules highlight that insurers 
+have a duty to design products that meet the specific needs of different segments, supported by 
+transparent disclosures and clear communication. Continuous monitoring of claims ratios, 
+consumer complaints and product performance is expected to support ongoing value delivery. 
+Insurers are also required to maintain effective governance frameworks that regularly review the 
+relevance and fairness of products throughou t their lifecycle. These measures aim to prevent 
+practices that could prejudice consumers or undermine trust in the industry.  
+EU 
+EIOPA’s supervisory expectations suggest that insurers’ governance frameworks should be 
+structured to promote a culture of fair treatment and consumer -centricity. This includes 
+incorporating a value for money perspective into organisational processes across all stages, from 
+product development to post-sale review. For example, some insurers establish internal policies 
+that incentivise staff to act ethically and prioritise consumer interests, supported by regular training 
+and oversight activities. Supervisors evaluate whether the organisational culture is reflected in 
+behaviours aligned with delivering fair value and may intervene when misconduct or misalignment 
+with these principles are observed.58F
+59 
+ 
+56 FCA, Thematic Review TR 24/2: General insurance and pure protection product governance thematic review, 2024. 
+57 See FMA, Fair conduct programmes – information for smaller firms, where the regulator emphasises that by establishing a 
+well-structured, proportionate, and actively managed FCP, smaller financial institutions can demonstrate their commitment to fair 
+treatment, which in turn contributes to building customer trust, loyalty, and long-term value, 2024. 
+58 FMA, Fair Conduct Programme, 2024. 
+59 See EIOPA, Supervisory statement on assessment of value for money of unit-linked insurance products under product 
+oversight and governance, 2021.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+6.2 Low claims ratios 
+73. Evidence of lack of value may accumulate over time and be observed through low ratios of 
+claims payments relative to the sum of premiums paid. 
+New Zealand 
+Credit card repayment insurance (CCRI) is designed to cover the policyholder’s minimum 
+repayments or outstanding credit card balance if they become unemployed,  unable to work due 
+to serious illness or injury and/or in the event of death. CCRI is considered an “automatic 
+acceptance” product, which means no medical or occupational underwriting is conducted before 
+the policy is issued. Consequently, numerous exclusions and very prescriptive conditions are 
+applied at the time of claim, meaning consumers may not ultimately receive the benefits they 
+expect from the product. Research confirmed that CCRI is a poor -value product that poses a 
+continued risk for those with existing policies in relation to eligibility to claim and ongoing suitability. 
+Claim loss ratios (how much the insurer pays in claims out of the premiums earned) for CCRI are 
+typically low. These can be as low as 10%, in comparison with  loss ratios of approximately 80% 
+for health insurers and 47% for life insurers. CCRI products have narrow coverage definitions, 
+which may not be fully understood by the consumer.  
+The FMA found that underwriters and intermediaries do not display sufficient levels of consumer 
+care in their suitability assessments and communications with consumers. Additionally, product 
+reviews carried out identified many administrative errors relating to systems and processes, which 
+also disadvantaged consumers.59F
+60 
+Belgium 
+The FSMA places strong emphasis on monitoring whether insurance products provide value for 
+money to consumers. Insurance undertakings are permitted to develop and market only those 
+products that deliver sufficient value for money. For non-life insurance products, a notably low 
+claims ratio was used as an indicator. 
+The FSMA requested further explanations from insurance undertakings regarding products with a 
+low claims ratio. Where insurers failed to provide a justification or provided an insufficiently 
+convincing explanation for the observed indicators, the FSMA required them to take the necessary 
+measures to ensure that their products would effectively deliver value for money to consumers. 
+Between 2023 and 2024, 50 non-life products were withdrawn from the market, cost reductions 
+were implemented for four products and one product received additional coverages. 
+UK 
+In February 2024, the FCA intervened to pause the sale of Guaranteed Asset Protection ( GAP) 
+insurance based on concerns around value, only permitting several firms to recommence their 
+sales of GAP insurance later in 2024 following action to improve fair value, including by paying out 
+materially lower levels of commission. 60F
+61 Data showed that in 2022 only 6% of the amount 
+consumers paid in premiums for GAP insurance was paid out in the claims, with some firms paying 
+out as much as 70% of the value of insurance premiums in commission to parties involved in 
+selling GAP insurance.  
+ 
+60 FMA, Review of credit card repayment insurance products, 2021. 
+61 FCA, GAP insurers agree to suspend sales following FCA concerns over fair value and Firms to recommence GAP insurance 
+sales following FCA action, 2024.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+6.3 Other claims handling indicators 
+74. Poor performance on claims handling data points can be a key indicator that the insurance 
+product is not delivering adequate benefit and value to the customer. This can include a 
+significantly higher number of claims rejected or delays in claims processing time. 
+Australia 
+In 2020, ASIC released a report on measuring the value for money that Australians receive from 
+the default insurance provided by their superannuation funds.  
+This is important because superannuation trustees must offer default death and permanent 
+incapacity insurance benefits on an opt- out basis to most members in a certain category of 
+superannuation product, and many also choose to offer default insurance to members of another 
+category of superannuation product. As a consequence, many Australians hold life insurance via 
+their superannuation fund (almost 10 million superannuation accounts have insurance attached), 
+and a majority of them have the default insurance offered by the fund rather than the person 
+making a different selection of insurance.  
+ASIC’s report compared some measures of value for money, with a focus on outcomes for 
+members, across superannuation trustees and for distinct member cohorts. Key findings were: 
+• There was a wide variation in the types and level of default cover offered across 
+the different superannuation products available in the market. Some offered over 
+20 times as much default cover as others. The premiums paid for default cover also 
+varied widely. Differences in price are partly due to different levels of cover, but also 
+other factors including the average risk level of the membership and the generosity 
+of terms and conditions. 
+• Detailed insurance claims data revealed that some cohorts of members with default 
+insurance, such as younger members and those in insurance policies with more 
+restrictive terms and conditions, may be receiving relatively low value. This raises 
+questions about the appropriateness of the default insurance design and fairness 
+between groups of members.  
+Claims handling indicators used in the report to provide insights into member value were: 
+• Claims acceptance rate (share of finalised claims that are accepted); 
+• Withdrawn claim rate (share of received claims that are withdrawn); 
+• Average claim time (ie processing time); and 
+• Disputes per 100,000 lives insured.  
+The analysis suggested little or no systematic correlation between these claims -handling 
+measures and claims ratios, which emphasises the importance of monitoring a range of indicators 
+when assessing the outcomes being delivered. 
+UK 
+The FCA publishes general insurance value measures data, per its commitment in Policy 
+Statement PS20/9 (see, for example, General insurance value measures data 2024 | FCA ). The 
+data includes insurer-specific information on claims frequencies, claims acceptance rates, average 
+claims pay-outs and claims complaints as a proportion of claims for a wide range of retail general
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+insurance products. 
+Insurers are required to report for relevant products sold to consumers in the UK where total retail 
+premiums (written) are above GBP 400,000 in the reporting period, and where there are more than 
+3,000 policies in force during the reporting period.  
+The FCA describes that the data provides insurers, market commentators and organisations such 
+as consumer groups with common indicators of value across a range of general insurance  
+products. By publishing this information, the FCA aims to create incentives for insurers to compete 
+on broader elements of product value rather than price alone, and to improve the value of the 
+products and services they offer consumers. 
+Mauritius 
+Mauritius has implemented the National Insurance Claims Database (NICD) to improve 
+transparency and accountability in the claims process, a key moment for consumers to assess 
+product value. Through the NICD, the FSC requires insurers to have a structured claims process 
+with reasonable timelines. The NICD platform also acts as a deterrent to unfair practices, as it 
+allows real-time monitoring of claims data and flags anomalies for regulatory scrutiny.  
+The NICD addresses consumer dissatisfaction with delayed or opaque claim handling by ensuring 
+traceability, enabling analytics, and providing data for supervisory oversight. This initiative 
+mitigates the risk of value erosion at the claims stage, which has historically been a pain point for 
+consumers.61F
+62 
+6.4 Investment return compared to profit 
+75. When appraising the value of investment-based insurance products, the investment return to 
+the customer compared with the profit made by the issuer is a clear signal of whether the product 
+is providing value to the customer. In this approach, it is important to take into account whether 
+the costs charged are proportional to the benefits offered and are aligned with the risk-vs-return 
+profile of the product. 
+EU 
+Throughout the years, EIOPA has reported risks arising from the limited benefits attached to some 
+unit-linked and hybrid insurance products (eg unit- linked products with undue costs or other 
+features not offering value to consumers).  
+Due to these risks, following its 2021 supervisory statement and 2022 methodology to assess 
+value for money, in 2024 EIOPA introduced a methodology to develop EU -wide value for money 
+benchmarks to support supervisors in identifying products with higher value for money concerns, 
+enhancing standards on VfM supervision and fostering a more efficient and risk-based approach.62F
+63  
+The methodology focuses on three key steps:  
+• Step 1 – Products clustering: Definition of clusters to group products with similar 
+characteristics; 
+ 
+62 FSC,Press release: Awareness session on the National Insurance Claims Database, 2021. 
+63 EIOPA, Methodology on Value for Money Benchmarks, 2024.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+• Step 2 – VfM indicators to calculate benchmarks : Calculation of benchmarks for 
+each indicator and cluster; and 
+• Step 3 – Data collection and benchmarks’ calibration: To ensure appropriateness 
+of results, benchmarks will be calibrated regularly. 
+Value for money benchmarks are:  
+• A tool to support supervisors to identify products with higher value for money risks; 
+and 
+• A tool to foster a more efficient and risk-based approach. 
+Value for money benchmarks are not:  
+• A form of consumer disclosure; or 
+• A cost cap. Manufacturers can and are encouraged to go beyond the value for 
+money benchmarks if the product features offer value. 
+Value for money benchmarks consist of a number of indicators measuring both costs and returns.  
+Poland 
+The Polish Financial Supervision Authority ( KNF) conducted market research of the unit-linked 
+business in Poland that highlighted potential adverse effects for consumers  in relation to certain 
+unit linked products. It particular, from the comprehensive analysis, it emerged that consumers ’ 
+return at the recommended holding period ranged from –1.5% to –5.1%, while the gross profit 
+margins for insurers ranged from 5% to 20%. Also, from historical analysis conducted by KNF, it 
+found that of 2.7 million contracts sold since 1993, the average customer return was –4% and that 
+only 12.5% of all the contracts generated income in the long run for consumers above inflation. 
+Conversely, the gross profits generated for insurers were approximately EUR 2.3 billion.  
+KNF intervened by publishing a decision on 16 July 2021 imposing two conditions for unit-linked 
+products to be offered by life companies in the Polish market: 
+• Prohibition of investments in contingent convertibles; and 
+• Prohibition of unit-linked life insurance contracts for which the average return is less 
+than 50% of the risk -free interest rate over the recommended holding period 
+(minimum of 10 years).  
+Following KNF’s intervention:  
+• The number of active unit-linked products in the Polish market decreased from 105 
+to 31; 
+• The most impacted channel was bank  assurance, where the sales of active-unit 
+linked products almost stopped; 
+• There was a shift from “universal life” products to simpler, more transparent 
+unbundled products with separate premiums for life cover and for unit savings part; 
+and 
+• Consumers’ margins improved due to lower product charges , while discounted 
+profit margins of an insurance company decreased. This signals a “re-balancing” 
+between consumers’ outcomes and insurance companies’ profits.
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+Hungary 
+In Hungary, the supervisory process to increase value for money of products (especially life 
+insurance products) had two phases/two regulation packages.  
+Cost regulation 
+In 2016, the first phase main focus was on cost regulation for life insurance products. The 
+regulation of the ACR (all cost ratio) calculation method increased the comparability of costs. 
+Moreover, limits were also introduced for ACR in Unit Linked Guideline issued by the Hungarian 
+National Bank (MNB). As a result of the regulation, expensive products with ACR between 6–14% 
+disappeared from the market, and for products with an average term of 10 years it decreased from 
+7% to 4.8% after the introduction of the ACR limits. 
+Improving product performance  
+The main focus  of the second phase was on product performance scenarios, which are the 
+Hungarian measures based on EU regulations (IDD and POG requirements). In 2025 MNB issued 
+a POG guideline, which introduced special requirements for unit-linked products. Based on the 
+moderate scenario of the Key Information Document (KID), the average yearly return at the 
+recommended holding period must be above 0 % for asset funds with Summary Risk Indicator 
+(SRI) 1-3 (low risk funds), and above 3% relevant inflation target for asset funds with SRI 4-7 (high 
+risk funds). As a result, the average yearly return shown in the K IDs went up from 3.5% return 
+(year-end 2023) to 6.2% return (October 2025) for high-risk asset funds. Also, the proportion of 
+product-fund combinations in the market performing below these benchmarks drastically lowered 
+from 33% of the products to 1% of the products. 
+6.5 Undue costs and commissions for pure risk products  
+76. High commissions and/or high costs can have an important impact on product value. 
+Consistently high costs and/or consistently high commissions can be an indication of low value. 
+EU 
+EIOPA has developed a retail risk indicators methodology that also measure the level of 
+commission rates. EIOPA analyses on an annual basis these retail risk indicators , which help 
+national authorities in identifying possible outliers. The retail risk indicators were also used as part 
+of EIOPA’s thematic review, where EIOPA also identified that:  
+• A significant portion of the Gross Written Premium (GWP ) paid by consumers 
+finances the remuneration of banks, while claims payouts to consumers are, on 
+average, below 30% of GWP. 
+• F or the period between 2018 and 2020, commissions paid to banks ranged:  
+o Between 30% and 70% of GWP for over half of mortgage Credit Protection 
+Insurance (CPI) policies;  
+o Between 40% and 80% of GWP for over two- thirds of consumer credit CPI 
+policies; and  
+o Between 40% and 90% of GWP for most credit card CPI policies 63F
+64 
+ 
+64 EIOPA, Warning to insurers and banks on Credit Protection Insurance, 2022
+
+Public consultation on Draft Issues Paper on customers receiving value from insurance 
+products  
+28 April 2026 – 28 July 2026 
+ 
+The thematic review resulted in a warning to the market where EIOPA emphasi sed that 
+manufacturers should also ensure that the testing assesses whether the product offers value to 
+the target market, including by balancing the benefits for the manufacturer and the distributor with 
+the ones to the target market. This should also include an assessment as to whether all costs are 
+proportional to the expenses borne by the manufacturer and by the distributor and the benefits, 
+with particular attention to the compr ehensiveness of the coverage offered, and the services 
+offered to the target market (ie no cost should be undue) 
+ Conclusion  
+77. Insurance is a cornerstone of societal resilience and financial stability, as well as a key 
+contributor to an individual’s financial health, by offering protection against risks and enabling 
+recovery from adverse events. However, the extent to which insurance products deliver value 
+to consumers can vary, influenced by a range of factors.  
+78. This paper has explored the challenges consumers face in evaluating the value of insurance 
+products at the time of making insurance purchasing decisions , plus the characteristics or 
+practices that can diminish this value and those that can enhance it. 
+79. Consumers often encounter significant hurdles when assessing the value of insurance, including 
+cognitive complexity, behavioural biases and informational asymmetries. These challenges can 
+be compounded by market practices such as bundled sales, opaque pricing and distribution  
+practices, which can further obscure the value proposition of insurance products. Observations 
+from various jurisdictions highlight that these issues are not isolated. 
+80. At the same time, there are identifiable characteristics and practices that can enhance the value 
+offered by insurance products. These include thoughtful product design that rewards risk 
+reduction, responsive and consumer -focused claims handling, and flexibility to adapt to 
+changing consumer needs.  
+81. The paper has described how supervisory approaches vary globally . Some jurisdictions have 
+adopted explicit expectations around value for money, while others rely on broader principles 
+such as fair treatment and product suitability to intervene in cases of low-value products. Other 
+approaches include modifying the decision-making environment and promoting consumer 
+understanding, both of which focus on trying to enable the customer to select an insurance 
+product that will be valuable to them. These differences reflect the diverse regulatory landscapes 
+and market conditions across jurisdictions. 
+82. The paper has also provided insight into different ways supervisors can monitor and assess 
+value. They can rely on tools  such as  governance reviews and transparency measures or 
+develop specific indicators to monitor value (eg claims ratios, returns over costs). 
+83. By bringing these issues to light, this paper aims to provide a comprehensive overview of the 
+factors influencing the value of insurance products  and the supervisory practices that address 
+them. The observations presented here are intended to contribute to a deeper understanding of 
+the challenges and opportunities in ensuring that insurance products meet the needs of 
+consumers and support their financial security and resilience.

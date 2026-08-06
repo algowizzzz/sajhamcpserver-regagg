@@ -1,0 +1,2005 @@
+ReRes  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ancillary risk indicators in the Global 
+Monitoring Exercise 
+ 
+ 
+November 2025
+
+About the IAIS 
+The International Association of Insurance Supervisors (IAIS) is a voluntary membership 
+organisation of insurance supervisors and regulators from more than 200 jurisdictions. The mission 
+of the IAIS is to promote effective and globally consistent supervisi on of the insurance industry in 
+order to develop and maintain fair, safe and stable insurance markets for the benefit and protection 
+of policyholders and to contribute to global financial stability.  
+Established in 1994, the IAIS is the international standard -setting body responsible for developing 
+principles, standards and other supporting material for the supervision of the insurance sector and 
+assisting in their implementation. The IAIS also provides a forum for m embers to share their 
+experiences and understanding of insurance supervision and insurance markets.  
+The IAIS coordinates its work with other international financial policymakers and associations of 
+supervisors or regulators, and assists in shaping financial systems globally. In particular, the IAIS is 
+a member of the Financial Stability Board (FSB), member of the Standards Advisory Council of the 
+International Accounting Standards Board (IASB), and partner in the Access to Insurance Initiative 
+(A2ii). In recognition of its collective expertise, the IAIS also is routinely called upon by the G20 
+leaders and other international standard-setting bodies for input on insurance issues as well as on 
+issues related to the regulation and supervision of the global financial sector. 
+For more information, please visit https://www.iais.org/ and follow us on LinkedIn: IAIS – International 
+Association of Insurance Supervisors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+International Association of Insurance Supervisors  
+c/o Bank for International Settlements   
+CH-4002 Basel   
+Switzerland   
+Tel: +41 61 280 8090  
+  
+This document is available on the IAIS website (www.iais.org). 
+© International Association of Insurance Supervisors (IAIS), 2025.   
+All rights reserved. Brief excerpts may be reproduced or translated provided the source is stated.
+
+Content Overview 
+Content Overview .............................................................................................................. 3 
+Acronyms ........................................................................................................................... 4 
+ Introduction ......................................................................................................................... 5 
+1.1 Objective .......................................................................................................................................... 5 
+1.2 Structure of the consultation document ........................................................................................... 6 
+ Ancillary indicator on credit risk ....................................................................................... 6 
+2.1 Overview .......................................................................................................................................... 6 
+2.2 Investments by credit rating ............................................................................................................. 7 
+2.3 Credit risk scenario analysis ............................................................................................................ 8 
+ Ancillary indicator on derivatives ...................................................................................... 9 
+3.1 Overview .......................................................................................................................................... 9 
+3.2 Relative usage of derivatives ......................................................................................................... 10 
+3.3 Potential future exposure ............................................................................................................... 11 
+3.4 Materiality of OTC derivatives ........................................................................................................ 11 
+3.5 Margin and collateral calls .............................................................................................................. 12 
+3.6 Central clearing .............................................................................................................................. 12 
+3.7 Hedging .......................................................................................................................................... 13 
+ Ancillary indicator on reinsurance .................................................................................. 13 
+4.1 Overview ........................................................................................................................................ 13 
+4.2 Usage of reinsurance ..................................................................................................................... 14 
+4.3 Cross-border life reinsurance ......................................................................................................... 15 
+4.4 (Re)insurers’ market share ............................................................................................................. 15 
+ Amendments to the liquidity metrics .............................................................................. 16 
+5.1 Overview ........................................................................................................................................ 16 
+5.2 Simplifications due to the 2025 review of the GME (IIM assessment methodology)  ..................... 16 
+5.3 ILR stress scenario correlation....................................................................................................... 17 
+ Conclusion ........................................................................................................................ 18 
+Annex 1: Illustrative example of the ILR adjustment ............................................................ 20 
+Annex 2: Excerpts from the IIM and SWM 2024 data templates and technical specifications
+ .................................................................................................................................................. 21 
+A.2.1 IIM 2024 data template ............................................................................................................... 21 
+A.2.2 IIM 2024 technical specifications ................................................................................................ 25 
+A.2.3 SWM 2024 data template ........................................................................................................... 42 
+A.2.3 SWM 2024 technical specifications ............................................................................................ 43
+
+Acronyms 
+AF Adjustment Factor 
+Cat Catastrophe event 
+CLP Credit loss parameters 
+CM Correlation Matrix 
+FSB Financial Stability Board 
+FV Fair value 
+GIMAR Global Insurance Market Report 
+GME Global Monitoring Exercise 
+GNA Gross notional amount 
+IAIS International Association of Insurance Supervisors 
+IG Investment grade 
+IIM Individual Insurer Monitoring 
+ILR Insurance Liquidity Ratio 
+IRR Interest rate risk 
+ModCo Modified coinsurance 
+OTC Over-the-counter 
+P&C Property and casualty 
+PFE Potential future exposure 
+SWM Sector-Wide Monitoring 
+VM Variation margin
+
+Introduction 
+In November 2019, the International Association of Insurance Supervisors (IAIS) adopted the Holistic 
+Framework for the assessment and mitigation of systemic risk in the insurance sector 1 (Holistic 
+Framework) to support its mission to promote effective and globally consistent supervision of the 
+insurance industry. In December 2022, the Financial Stability Board (FSB) endorsed the Holistic 
+Framework as an effective framework for the assessment and mitigation of systemic risk in the 
+insurance sector. In November 2025, the FSB reaffirmed its decision to use Holistic Framework 
+assessments for its evaluation of systemic risk in the insurance sector, instead of an annual 
+identification of global systemically important insurers.2 
+The key elements of the Holistic Framework are: (1) an enhanced set of supervisory measures for 
+macroprudential purposes; (2) the IAIS Global Monitoring Exercise (GME);3 and (3) an assessment 
+by the IAIS of the comprehensive and consistent implementation of enhanced ongoing supervisory 
+policy measures and powers of intervention. 
+As a key component of the Holistic Framework, the GME is designed to evaluate global insurance 
+market trends and developments, as well as to identify potential systemic risks within the global 
+insurance sector. This involves an annual assessment by the IAI S, which examines potential 
+systemic risks that may arise from sector -wide trends related to specific activities and exposures. 
+Additionally, the assessment considers the possible concentration of systemic risks at the level of 
+individual insurers, using a  specific assessment methodology to evaluate these activities and 
+exposures. 
+1.1 Objective 
+The Individual Insurer Monitoring (IIM) assessment comprises several components: 
+• Individual assessments, where scores for individual insurers are determined using both absolute 
+and relative indicator-based methodologies; 
+• Cross-sectoral analysis, comparing the systemic footprint of individual insurers with that of 
+banks;  
+• Aggregate trend developments of individual insurers; and  
+• Ancillary indicators, to supplement the primary individual assessments. 
+The ancillary risk indicators aim to further aid the IAIS assessment of global insurance market trends 
+and any potential systemic risk in the global insurance sector within the IIM component of the GME. 
+These ancillary indicators do not impact the total quantitative scores of individual insurers , but 
+provide additional context that can inform the overall assessment of systemic risk. While the ancillary 
+indicators are mainly envisaged to provide additional information on individual insurers, the IAIS will 
+also continue to monitor aggregate developments of the components of the proposed ancillary 
+indicators. 
+In November 2022, the IAIS completed the development of the first ancillary indicators, consisting of 
+liquidity metrics, following two public consultations .4 These liquidity metrics serve as a tool for the 
+ 
+1 See IAIS, Holistic Framework. 
+2 See IAIS, The FSB reaffirms its endorsement of the IAIS Holistic Framework for the assessment of systemic risk in the insurance 
+sector, November 2025. 
+3 See IAIS, Global Monitoring Exercise, November 2025. 
+4 See IAIS, IAIS finalises liquidity metrics as an ancillary indicator for its Global Monitoring Exercise, November 2022.
+
+IAIS to assess insurers’ liquidity exposures. They function as a monitoring tool to help identify 
+liquidity trends in insurers and the insurance sector. 
+This document introduces an additional set of ancillary indicators concerning credit risk, derivatives 
+and reinsurance. Additionally, two amendments to the liquidity metrics, specifically to the calculation 
+of the Insurance Liquidity Ratio (ILR), are  outlined in this document. These amendments are to be 
+read in conjunction with the original November 2022 document “Liquidity metrics as an ancillary 
+indicator”5 and supersede any conflicting provisions therein. 
+The development of the additional ancillary indicators accounted for the responses provided by 
+stakeholders to the November 2024 –February 2025 public consultation and was conducted in the 
+context of the 2025 regular review of the GME  assessment methodology. A detailed resolution of 
+comments is available on the IAIS website on the webpage related to the 2024 –2025 public 
+consultation on ancillary risk indicators in the GME.6 
+1.2 Structure of the consultation document 
+The remainder of this document is organised as follows: 
+• Section 2: Ancillary indicator on credit risk. 
+• Section 3: Ancillary indicator on derivatives. 
+• Section 4: Ancillary indicator on reinsurance. 
+• Section 5: Amendments to the liquidity metrics. 
+• Section 6: Conclusion. 
+Each section outlines the objectives of the ancillary indicator, including the potential transmission 
+channels to systemic risk. Where possible, the definitions of the proposed metrics refer to data item 
+codes collected in the GME. Excerpts from the data collection templates and technical specifications 
+of the items required to calculate the ancillary indicator metrics are available in Annex 2.  
+ Ancillary indicator on credit risk 
+2.1 Overview 
+Insurers are increasingly important providers of credit across a range of sectors and asset classes, 
+including sovereign bonds, corporate bonds, securiti sations, and loans and mortgages. These 
+investments expose insurers to potential losses in the event of defaults . Additionally, credit rating 
+downgrades may force insurers to hold additional capital or sell such assets. In sectors where 
+insurers are particularly active, a pullback of credit provided by insurers could have impacts on the 
+real economy. Similarly, if defaults or downgrades occur in sectors and asset classes where insurers 
+are heavily invested, the potential losses for insurers could be significant. T he credit risk ancillary 
+indicator aims to capture insurers’ exposure to certain  asset types and the potential losses in the 
+event of defaults or downgrades of the relevant counterparties.  
+Multiple metrics are introduced, in order to comprehensively capture the various dimensions of credit 
+risk. Table 1 provides an overview of the ancillary indicator  on credit risk . In the table and in the 
+ 
+5 See IAIS, Liquidity metrics as an ancillary indicator, November 2022. 
+6 See IAIS, Public consultation on ancillary risk indicators in the Global Monitoring Exercise, November 2024.
+
+remainder of the document, all items related to investments and their subcomponents refer to 
+investments excluding separate accounts. 
+Table 1: Ancillary 
+indicator on credit risk 
+Metric Numerator  Denominator  
+Investments by credit 
+rating 
+CRE.1.a Investments in debt securities (unrated, below 
+Investment Grade (IG) and at IG) 
+Total investments 
+Credit risk scenario 
+analysis 
+CRE.2.a Simulated credit losses for debt securities Total investments in 
+debt securities 
+2.2 Investments by credit rating  
+This metric assesses  the proportion of insurers ’ investments that consist of high- yield (below 
+investment grade) debt, unrated debt and at investment grade debt, expressed as a percentage of 
+their total investments. They are compiled as an aggregate of various debt instruments and credit 
+ratings and can be further detailed by individual asset classes and ratings. 
+For the purpose of the ancillary indicator on credit risk, an investment is defined as being “at” 
+investment grade if its credit rating is at (and no higher) than step 4 in the classification outlined in 
+Table 2. 
+Table 2: 
+Credit 
+rating 
+Step S&P Moody’s Fitch DBRS AM 
+Best NAIC Solvency 
+II 
+Chinese 
+ratings 
+Japan 
+Credit 
+Rating 
+Agency 
+R&I 
+(Japan) 
+Above IG 1 AAA Aaa AAA AAA  1 CQ0  AAA AAA 
+Above IG 2 AA / 
+A-1 Aa / P-1 AA / 
+F1 AA / R-1 A+ 1 CQ1  AA / J-1 AA / a-1 
+Above IG 3 A / A-2 A / P-2 A / F2 A / R-2 A 1 CQ2 AAA A / J-2 A / a-2 
+At IG 4 BBB / 
+A-3 
+Baa / P-
+3 
+BBB / 
+F3 
+BBB / R-
+3 B+ 2 CQ3  BBB / 
+J-3 
+BBB / a-
+3 
+Below IG 5 BB Ba BB BB B 3 CQ4 AA/A1, 
+A/A2 BB BB 
+Below IG 6 B / B B / NP B / B B / R-4 C+ 4 CQ5 BBB/A3, 
+BB, B B / NJ B / b 
+Below IG 7 
+CCC / 
+C and 
+lower 
+Caa and 
+lower 
+CCC / 
+C and 
+lower 
+CCC / 
+R-5 and 
+lower 
+C and 
+lower 5/6 CQ6 
+CCC 
+and 
+lower 
+CCC 
+and 
+lower 
+CCC / c 
+and 
+lower 
+2.2.1 Objective 
+As a primary channel of potential transmission of systemic risk, this metric aims to monitor the asset 
+liquidation channel. Large-scale selling of assets by insurers may lead to procyclical price declines  
+in asset classes where insurers own a large share of the market. Such selling can occur because of 
+insurer distress, as well as in response to regulatory constraints (eg higher capital requirements) in 
+the event of debt securities downgrades.
+
+2.2.2 D efinition 
+For the purpose of the ancillary indicator on credit risk , debt securities include sovereign bonds, 
+corporate bonds, securitisations, and loans and mortgages, while total investments include all bonds, 
+shares, real estate investments, cash investments and any other means of asset allocation. In other 
+words, debt securities are included in total investments. The following definitions refer to investments 
+excluding separate accounts and to data item codes collected within the IIM template in the GME: 
+• CRE.1.a: Investments in debt securities (unrated, below IG and “at” IG) / Total investments 
+𝐶𝐶𝐶𝐶𝐶𝐶. 1. 𝑎𝑎 =  
+∑ (𝐼𝐼𝐼𝐼𝐼𝐼.𝑖𝑖=1,2,𝑍𝑍,3 65. 𝑖𝑖. 2 + 𝐼𝐼𝐼𝐼𝐼𝐼. 65. 𝑖𝑖. 3 +  𝐼𝐼𝐼𝐼𝐼𝐼. 65. 𝑖𝑖. 4) 
+𝐼𝐼𝐼𝐼𝐼𝐼. 65  
+2.3 Credit risk scenario analysis 
+The credit risk scenario analysis  measures simulated credit losses as a percentage of total debt 
+securities.  
+2.3.1 Objective 
+The credit risk scenario analysis aims to estimate potential losses following a credit loss event using 
+historical default rates and recovery rates . The credit risk scenario analysis  focuses on the 
+interconnectedness and counterparty risk  transmission channels to potential systemic risk, 
+specifically focusing on the potential impact of credit defaults on insurers ’ balance sheets and their 
+subsequent effects on the broader financial system. 
+2.3.2 D efinition 
+The credit risk scenario analysis simulates credit losses by applying the credit loss parameters (CLP) 
+to exposures to different asset classes, split by credit rating. 
+For each asset  class and rating bucket,  credit losses are calculated as the product of amounts 
+invested times default rates and loss-given-default (defined as “1 - Recovery Rates”). The following 
+definitions refer to investments excluding separate accounts: 
+• CRE.2.a: Simulated credit losses for debt securities / Total investments in debt securities 
+𝐶𝐶𝐶𝐶𝐶𝐶. 2. 𝑎𝑎 = 
+ ∑ 𝐼𝐼𝐼𝐼𝐼𝐼.65𝑖𝑖,𝑗𝑗∗𝑖𝑖,𝑗𝑗 𝐶𝐶𝐶𝐶𝐶𝐶𝑖𝑖,𝑗𝑗
+∑ 𝐼𝐼𝐼𝐼𝐼𝐼.𝑖𝑖=1,2,𝑍𝑍,3 65.𝑖𝑖  
+𝑪𝑪𝑪𝑪𝑪𝑪 = −𝟏𝟏 ∗  𝑫𝑫𝑫𝑫𝑫𝑫𝑫𝑫𝑫𝑫𝑫𝑫𝑫𝑫 𝑹𝑹𝑫𝑫𝑫𝑫 𝑫𝑫𝑹𝑹 ∗ (𝟏𝟏 − 𝑹𝑹𝑫𝑫 𝑹𝑹𝑹𝑹𝑹𝑹𝑫𝑫 𝑹𝑹𝑹𝑹 𝑹𝑹𝑫𝑫 𝑫𝑫𝑫𝑫 𝑹𝑹) 
+𝒊𝒊 = {𝑺𝑺𝑹𝑹
+𝑹𝑹𝑫𝑫𝑹𝑹𝑫𝑫𝒊𝒊
+𝑺𝑺𝑺𝑺 𝒃𝒃𝑹𝑹
+𝑺𝑺𝒃𝒃𝑹𝑹; 𝑪𝑪𝑹𝑹
+𝑹𝑹𝑪𝑪𝑹𝑹
+𝑹𝑹𝑫𝑫𝑫𝑫𝑫𝑫 𝒃𝒃
+𝑹𝑹𝑺𝑺𝒃𝒃𝑹𝑹
+; 𝑺𝑺𝑫𝑫
+𝑹𝑹𝑫𝑫𝑹𝑹𝒊𝒊𝑫𝑫𝒊𝒊𝑹𝑹𝑫𝑫𝑫𝑫𝒊𝒊𝑹𝑹𝑺𝑺𝑹𝑹; 𝑪𝑪
+𝑹𝑹𝑫𝑫𝑺𝑺𝑹𝑹 𝑫𝑫
+𝑺𝑺𝒃𝒃 𝒎𝒎𝑹𝑹
+𝑹𝑹𝑫𝑫𝑺𝑺𝑫𝑫𝑺𝑺𝑫𝑫 𝑫𝑫
+𝑹𝑹𝑫𝑫𝑺𝑺𝑹𝑹} 
+𝒋𝒋 = {𝑫𝑫
+𝒃𝒃𝑹𝑹𝑹𝑹𝑫𝑫 𝑰𝑰𝑰𝑰; 𝑫𝑫𝑫𝑫 𝑰𝑰𝑰𝑰; 𝒃𝒃𝑫𝑫𝑫𝑫𝑹𝑹𝒃𝒃
+ 𝑰𝑰𝑰𝑰; 𝑫𝑫
+𝑺𝑺𝑹𝑹𝑫𝑫𝑫𝑫𝑫𝑫𝒃𝒃} 
+ 
+The CLP used for each asset class and credit rating bucket are displayed in Table 3. 
+Table 3: Credit risk 
+scenario analysis 
+Credit rating Default rates Recovery rates CLP 
+Sovereign bonds Above IG 0.09%  70% -0.03% 
+At IG 0.82%  70% -0.25% 
+Below IG 7.23%  70% -2.17% 
+Unrated 2.76%  70% -0.83%
+
+Corporate bonds Above IG 0.39%  70% -0.12% 
+At IG 1.02%  70% -0.31% 
+Below IG 9.03%  70% -2.71% 
+Unrated 3.48%  70% -1.04% 
+Securitisations Above IG 0.39%  40% -0.23% 
+At IG 1.02%  0% -1.02% 
+Below IG 9.03%  0% -9.03% 
+Unrated 3.48%  0% -3.48% 
+Loans and mortgages Above IG 0.39%  70% -0.12% 
+At IG 1.02%  70% -0.31% 
+Below IG 9.03%  70% -2.71% 
+Unrated 3.48%  70% -1.04% 
+Sources: Global Credit Data, S&P Global, IAIS members’ input and IAIS Secretariat calculations. 
+ Ancillary indicator on derivatives 
+3.1 Overview 
+Derivatives may be useful instruments  for insurers to manage risk and/or reduce costs. However, 
+derivative positions may in some circumstances be a source of liquidity or credit risks. Derivatives 
+can also be considered as a potential transmission channel between the different financial sectors. 
+Given the varied nature and the overall complexity of the risks and benefits associated with the use 
+of derivatives by insurers, the IAIS deems it preferable to develop several metrics to assess multiple 
+relevant dimensions. 
+An overview of the ancillary indicator is provided in Table 4. For the purpose of the ancillary indicator 
+on derivatives, total assets include separate accounts. 
+Table 4: Ancillary indicator on 
+derivatives 
+Metric Numerator Denominator 
+Relative usage of derivatives DER.1.a Gross notional amount (GNA) of 
+derivatives 
+Total assets 
+DER.1.b Activated FV of derivatives GNA of derivatives 
+DER.1.c GNA of interest rate risk (IRR), FX, 
+equity, reinsurance, credit risk and 
+other derivatives 
+GNA of all derivatives 
+Potential future exposure (PFE) DER.2.a PFE of derivatives Total assets
+
+Materiality of OTC derivatives DER.3.a GNA of OTC derivatives Sector wide GNA of 
+OTC derivatives 
+Margin and collateral calls DER.4.a Max 10-day variation margin (VM) call Cash 
+DER.4.b Max 10-day VM call Insurance Liquidity 
+Ratio (ILR) liquidity 
+sources 
+DER.4.c Max 10-day VM call Average 10-day VM 
+call 
+Central clearing DER.5.a GNA of centrally cleared OTC 
+derivatives 
+GNA of OTC 
+derivatives 
+Hedging DER.6.a GNA of derivatives used for hedging GNA of all derivatives 
+ 
+3.2 Relative usage of derivatives  
+The following metrics are proposed to monitor relative usage of derivatives: 
+• DER.1.a: GNA of derivatives / Total assets; 
+• DER.1.b: Activated value of derivatives (FV der. assets + FV der. liabilities) / GNA; and 
+• DER.1.c: GNA share of derivatives’ types (IRR, FX, equity, reinsurance, credit risk). 
+ 
+3.2.1 Objective 
+Measuring the relative usage of derivatives through various metrics provides a nuanced assessment 
+of the potential impact on financial stability  through the interconnectedness and counterparty risk 
+transmission channels. Several metrics are therefore proposed to jointly assess  insurers’ relative 
+usage of derivatives: 
+• DER.1.a: The ratio of GNA of derivatives to total assets shows the scale of derivative exposure 
+relative to the insurer’s overall assets. A higher ratio may indicate significant leverage and 
+potential vulnerability to market fluctuations, affecting the insurer’s ability to meet obligations in 
+stressed conditions. 
+• DER.1.b: The sum of fair value of derivatives assets and liabilities divided by GNA compares the 
+market value of derivatives to their GNA, reflecting the extent to which these positions are in or 
+out of the money. A high value suggests greater sensitivity to market movements and potential 
+risk amplification. 
+• DER.1.c: A diverse derivative portfolio can either mitigate or increase risk, depending on how it 
+is managed. Monitoring various types of derivatives  helps in assessing whether the insurer is 
+exposed to concentrated risks (eg reliance on specific markets or instruments) or has mitigated 
+risks through diversification. 
+By measuring these  metrics, the IAIS can evaluate both the scale and the nature of an insurer ’s 
+derivative exposure, identifying areas of potential systemic risk that could impact financial stability. 
+3.2.2 Definition 
+The following definitions refer to data item codes collected within the IIM template of the GME:
+
+• DER.1.a: GNA of derivatives / Total assets 
+𝐷𝐷𝐶𝐶𝐶𝐶. 1. 𝑎𝑎 = 𝐼𝐼𝐼𝐼𝐼𝐼. 40. 𝐴𝐴. 1
+𝐼𝐼𝐼𝐼𝐼𝐼. 9  
+• DER.1.b: Activated value of derivatives (FV der. assets + FV der. liabilities) / GNA 
+𝐷𝐷𝐶𝐶𝐶𝐶. 1. 𝑏𝑏 = 𝐼𝐼𝐼𝐼𝐼𝐼. 39.3 + 𝐼𝐼𝐼𝐼𝐼𝐼. 39.4
+𝐼𝐼𝐼𝐼𝐼𝐼. 40. 𝐴𝐴. 1  
+• DER.1.c: GNA shares of derivatives’ types (IRR, FX, equity, reinsurance, credit risk) 
+𝐷𝐷𝐶𝐶𝐶𝐶. 1. 𝑐𝑐 = 𝐼𝐼𝐼𝐼𝐼𝐼. 75. 𝑖𝑖
+∑ 𝐼𝐼𝐼𝐼𝐼𝐼. 75. 𝒌𝒌𝒌𝒌=𝟏𝟏,…,𝟔𝟔
+ 
+3.3 Potential future exposure 
+Metric DER.2.a consists of the ratio of  PFE divided by total assets. Such a metric  is part of the 
+assessment of interconnectedness and counterparty risk transmission channels to potential 
+systemic risk. 
+3.3.1 Objective 
+The PFE is a risk measure used in the context of derivatives to estimate the maximum expected 
+credit exposure over a specified future time horizon at a given confidence level. It represents how 
+much an insurer could potentially lose if a counterparty defaults in a crisis scenario, considering the 
+possible fluctuations in the value of derivative contracts due to market movements. 
+The PFE provides the maximum monetary amount an insurer could be owed by a counterparty in 
+the future. This provides a way to evaluate the scale of potential losses. 
+3.3.2 Definition 
+The following definition refers to data item codes collected within the IIM template of the GME: 
+• DER.2.a: PFE / Total assets 
+𝐷𝐷𝐶𝐶𝐶𝐶. 2. 𝑎𝑎 = 𝐼𝐼𝐼𝐼𝐼𝐼. 40. 𝐵𝐵
+𝐼𝐼𝐼𝐼𝐼𝐼. 9  
+3.4 Materiality of OTC derivatives 
+The ratio of GNA of individual insurers’ OTC derivatives divided by  the s ector-wide OTC GNA 
+aggregate is the proposed metric to assess the materiality of OTC derivatives usage. 
+3.4.1 Objective 
+The GNA of derivatives owned by an insurer reflects the full scale of its market exposure. Divided 
+by the insurance sector-wide GNA, this metric, though not a direct measure of risk, helps to measure 
+the individual insurer’s involvement in the insurance sector -wide derivatives market activity. Large 
+gross notional values can indicate significant exposure to market volatility and counterparty risk, 
+even if most derivatives are at the money and some positions are offset. Understanding this scale 
+contributes to evaluating the insurer’s systemic risk potential, particularly in stressed market 
+conditions, where substantial exposures could threaten broader financial stability. 
+3.4.2 Definition 
+The following definition refers to data item codes collected within the IIM and Sector-Wide Monitoring 
+(SWM) templates of the GME:
+
+• DER.3.a: GNA of insurer’s OTC derivatives / SWM OTC GNA aggregate 
+𝐷𝐷𝐶𝐶𝐶𝐶. 3. 𝑎𝑎 = 𝐼𝐼𝐼𝐼𝐼𝐼. 40. 𝐴𝐴. 1. 𝑎𝑎
+𝑆𝑆𝑆𝑆𝐼𝐼. 𝑆𝑆41. 𝐺𝐺  
+3.5 Margin and collateral calls 
+The following metrics are introduced to monitor margin and collateral calls: 
+• DER.4.a: Maximum 10-day variation margin call as a percentage of cash; 
+• DER.4.b: Maximum 10-day variation margin call as a percentage of ILR liquidity sources; and 
+• DER.4.c: Variability of margin calls (Maximum margin calls / Average margin calls). 
+3.5.1 Objective 
+Margin calls on derivatives can create liquidity risks for insurers. If markets move against their 
+derivative positions, insurers may be required to post additional collateral quickly, potentially draining 
+their liquid assets. Large or frequent margin calls can strain liquidity reserves, forcing asset sales at 
+unfavourable prices or even triggering potential defaults should the insurer be unable to meet 
+collateral demands. This liquidity squeeze can destabili se the insurer and, in extreme cases, 
+contribute to broader market instability, particularly if multiple insurers face simultaneous margin 
+calls during volatile periods. 
+3.5.2 Definition 
+The following definitions refer to data item codes collected within the IIM template of the GME: 
+• DER.4.a: Maximum 10-day variation margin call as a percentage of cash 
+𝐷𝐷𝐶𝐶𝐶𝐶. 4. 𝑎𝑎 = 𝐼𝐼𝐼𝐼𝐼𝐼. 39.11.2
+𝐼𝐼𝐼𝐼𝐼𝐼. 9.4  
+• DER.4.b: Maximum 10-day variation margin call as a percentage of ILR liquidity sources  
+𝐷𝐷𝐶𝐶𝐶𝐶. 4. 𝑏𝑏 = 𝐼𝐼𝐼𝐼𝐼𝐼. 39.11.2
+𝐼𝐼𝐼𝐼𝐼𝐼. 53.1  
+• DER.4.c: Variability of margin calls (Maximum margin calls / Average margin calls) 
+𝐷𝐷𝐶𝐶𝐶𝐶. 4. 𝑐𝑐 = 𝐼𝐼𝐼𝐼𝐼𝐼. 39.11.2
+𝐼𝐼𝐼𝐼𝐼𝐼. 39.11.3 
+3.6 Central clearing 
+To monitor the significance of derivatives that are centrally cleared, the following metric is introduced: 
+• DER.5.a: Share of OTC derivatives that are centrally cleared. 
+3.6.1 Objective 
+Central clearing reduces risks for insurers by mitigating counterparty risk, improving transparency 
+and facilitating efficient collateral management through a central counterpart y. It helps standardise 
+contracts and reduce exposure through netting. Measuring the percentage of derivatives not 
+centrally cleared is important because non-cleared derivatives carry higher liquidity and counterparty 
+risk. Measuring this percentage enables an assessment of the overall exposure to potential defaults 
+and its potential impact on financial stability.
+
+3.6.2 Definition 
+The following definition refers to data item codes collected within the IIM template of the GME: 
+• DER.5.a: Share of OTC derivatives that are centrally cleared 
+𝐷𝐷𝐶𝐶𝐶𝐶. 5. 𝑎𝑎 = 𝐼𝐼𝐼𝐼𝐼𝐼. 40. 𝐴𝐴. 1. 𝑎𝑎. 𝐶𝐶𝐶𝐶
+𝐼𝐼𝐼𝐼𝐼𝐼. 40. 𝐴𝐴. 1. 𝑎𝑎  
+ 
+3.7 Hedging 
+The share of derivatives used for hedging purposes is used t o monitor the leverage transmission 
+channel to potential systemic risk.  
+3.7.1 Objective 
+From a financial stability perspective, derivatives held by insurers for non- hedging purposes (ie for 
+leverage or speculation) pose significant risks. These positions can amplify losses in volatile market 
+conditions, as the insurer is exposed to larger financial commitments than its initial investment. This 
+leverage increases the risk of liquidity shortages, capital depletion and , potentially, default if the 
+market moves unfavourably. Furthermore, large speculative positions can contribute to systemic 
+risk, especially if multiple insurers are exposed to similar market conditions, potentially destabilising 
+the broader financial system during times of stress. 
+3.7.2 Definition 
+The following definition refers to data item codes collected within the IIM template of the GME: 
+• DER.6.a: Share of derivatives used for hedging purposes (hedging defined according to insurers’ 
+own discretion) 
+𝐷𝐷𝐶𝐶𝐶𝐶. 6. 𝑎𝑎 =
+∑ 𝐼𝐼𝐼𝐼𝐼𝐼. 75. 𝑖𝑖6
+𝑖𝑖=1 [𝐺𝐺𝐺𝐺𝐴𝐴] × 𝐼𝐼𝐼𝐼𝐼𝐼. 75. 𝑖𝑖[% 𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢 𝑓𝑓𝑓𝑓𝑓𝑓 ℎ𝑢𝑢𝑢𝑢𝑒𝑒𝑖𝑖𝑒𝑒𝑒𝑒]
+∑ 𝐼𝐼𝐼𝐼𝐼𝐼. 75. 𝑖𝑖6
+𝑖𝑖=1 [𝐺𝐺𝐺𝐺𝐴𝐴]  
+ 
+ Ancillary indicator on reinsurance 
+4.1 Overview 
+Reinsurance is a key risk mitigation tool that allows for global diversification of risk and contributes 
+to narrowing various insurance protection gaps. For several years, asset-intensive reinsurance7 has 
+been identified as an increasing trend in life insurance (see the IAIS’ Global Insurance Market 
+Reports). This approach has emerged as a way to optimise and consolidate risk and capital 
+management. This type of reinsurance agreement, which has existed for decades, has been on the 
+rise in recent years, although concentrated in a few jurisdictions on both the cedent and the reinsurer 
+ 
+7 Asset-intensive reinsurance refers to reinsurance transactions through which both the investment and biometric risk associated 
+with a block of insurance liabilities are transferred from a ceding primary insurer to a reinsurer. This type of reinsurance agreement 
+typically targets long-term life liabilities, such as deferred annuities and universal life policies.
+
+side. Further information on this can also be found in publications by the IMF8 and BIS.9 Additionally, 
+asset-intensive reinsurance is also one of the topics of the IAIS Issues Paper on structural shifts in 
+the life insurance sector.10 
+Multiple metrics are meant to comprehensively monitor the development of reinsurance in general 
+and to address any potential upcoming macroprudential concern in a timely manner 
+An overview of the ancillary indicator is summarised in Table 5. 
+Table 5: Ancillary indicator on 
+reinsurance 
+Metric Numerator Denominator 
+Usage of reinsurance RE.1.a Ceded life technical provisions Life technical provisions 
+RE.1.b Ceded non-life premiums Non-life gross written 
+premiums 
+Cross-border life reinsurance RE.2.a Life technical provisions ceded 
+cross-border (to affiliate and 
+non-affiliate entities) 
+Total gross technical 
+provisions 
+(Re)insurers’ market share 
+ 
+RE.3.a Assumed life premiums Aggregate Insurer Pool11 
+assumed life premiums (IIM) 
+RE.3.b Assumed non-life premiums Aggregate Insurer Pool12 
+assumed non-life premiums 
+(IIM) 
+4.2 Usage of reinsurance 
+A potential reduction of reinsurance capacity could put pressure on insurers that are highly 
+dependent on the usage of external reinsurance. Those insurers are more sensitive to reinsurance 
+pricing and might be affected by a potential default of a reinsurer. 
+4.2.1 Objective 
+To analyse whether a reduction of reinsurance capacity could negatively impact the financial 
+situation of insurers in the insurance pool, two metrics are included: one to measure the effect on 
+life insurance and one for monitoring non-life insurance.  
+4.2.2 D efinition 
+The following definitions relate to data item codes collected through the IIM template of the GME: 
+• RE.1.a: Ceded life technical provisions / Life technical provisions 
+ 
+8 See IMF, “Private equity and life insurers”, Global Financial Stability Notes, No 2023/001, December 2023. 
+9 See BIS, “Shifting landscapes: life insurance and financial stability”, BIS Quarterly Review, September 2024, pp 21–34. 
+10 See IAIS, Issues Paper on structural shifts in the life insurance sector, November 2025. 
+11 The criteria defining the composition of the IIM Insurer Pool are outlined in Section 4.1.1 of the Global Monitoring Exercise 
+Document. 
+12 The criteria defining the composition of the IIM Insurer Pool are outlined in Section 4.1.1 of the Global Monitoring Exercise 
+Document.
+
+𝐶𝐶𝐶𝐶. 1 . 𝑎𝑎 =  𝐼𝐼𝐼𝐼𝐼𝐼. 68.1 − 𝐼𝐼𝐼𝐼𝐼𝐼. 69.1
+𝐼𝐼𝐼𝐼𝐼𝐼. 68.1  
+• RE.1.b: Ceded non-life premiums / Non-life gross written premiums 
+𝐶𝐶𝐶𝐶. 1
+. 𝑏𝑏 =  𝐼𝐼𝐼𝐼𝐼𝐼. 66.2 − 𝐼𝐼𝐼𝐼𝐼𝐼. 67.2
+𝐼𝐼𝐼𝐼𝐼𝐼. 66.2  
+4.3 Cross-border life reinsurance  
+To fulfil its goal of allowing global diversification of risks, reinsurance must operate cross -border to 
+some extent. Cross-border activity provides cedents with a wide range of options to actively manage 
+risks. On the other hand, transferring risks out of the home jurisdiction might increase the complexity 
+of supervisors’ efforts to monitor and assess them. 
+4.3.1 Objective 
+To monitor the relevance of cross-border reinsurance for life insurance business in the Insurer Pool, 
+it is proposed to include a metric to measure the amount of life provisions transferred cross -border 
+in relation to total gross technical provisions. Importantly, the objective of this metric is to capture the 
+transfer of life provisions to both non- affiliate and affiliate entities . This includes, amongst  others, 
+provisions ceded through modified coinsurance (ModCo) and coinsurance contracts, as well as 
+coinsurance with funds withheld. 
+4.3.2 D efinition 
+The following definition relates to data item codes collected through the IIM template of the GME: 
+• RE.2.a: Life technical provisions ceded cross-border (to non-affiliate and affiliate entities) / Total 
+gross technical provisions 
+𝐶𝐶𝐶𝐶. 2
+. 𝑎𝑎 = 𝐼𝐼𝐼𝐼𝐼𝐼. 85.3 + 𝐼𝐼𝐼𝐼𝐼𝐼. 86.3
+𝐼𝐼𝐼𝐼𝐼𝐼. 68.1  
+4.4 (Re)insurers’ market share  
+A further macroprudential concern could lie in a high concentration of reinsurance business in a 
+small set of or a single (re)insurer. Publicly available information provides data on written premiums 
+of the largest (re)insurers. In addition, t he IAIS collects information from supervisors of member 
+jurisdictions that can be used to estimate the market share of the (re)insurers in the Insurer Pool.  
+4.4.1 Objective 
+Due to interconnectedness and provision of critical service s, the failure or pullback of a key 
+(re)insurer may lead to losses and adverse effects for other market participants.  
+The share of assumed premiums by individual insurers within the IIM I nsurer Pool is calculated to 
+monitor whether any concentration develops within the IIM Insurer Pool. 
+4.4.2 Proposed definition 
+The following definitions relate to data item codes collected through the IIM template of the GME: 
+• RE.3a: Assumed premiums (life) / Aggregate Insurer Pool assumed premiums (life) 
+𝐶𝐶𝐶𝐶. 3
+. 𝑎𝑎 =  𝐼𝐼𝐼𝐼𝐼𝐼. 66. 𝐴𝐴. 1
+∑ 𝐼𝐼𝐼𝐼𝐼𝐼. 66. 𝐴𝐴. 1𝑖𝑖
+
+• RE.3b: Assumed premiums (non-life) / Aggregate Insurer Pool assumed premiums (non-life) 
+𝐶𝐶𝐶𝐶. 3
+. 𝑏𝑏 =  𝐼𝐼𝐼𝐼𝐼𝐼. 66. 𝐴𝐴. 2
+∑ 𝐼𝐼𝐼𝐼𝐼𝐼. 66. 𝐴𝐴. 2𝑖𝑖
+ 
+ 
+ Amendments to the liquidity metrics 
+5.1 Overview 
+In 2022, the IAIS introduced a set of liquidity metrics as an ancillary indicator for its GME to monitor 
+liquidity risk as part of its assessment of systemic risk within the Holistic Framework.13 One of these 
+liquidity metrics is the ILR, defined as the ratio of available liquidity sources over liquidity needs of 
+insurers. 
+This section introduces two amendments to the ILR: 
+1) It describes the simplifications to the ILR based on the revised assessment methodology of the 
+GME applicable to the 2026–2028 cycle;14 and 
+2) It explains the implicit correlations embedded in the definition of liquidity needs within the ILR and 
+introduces an adjustment to these correlations while maintaining a prudent approach. 
+These amendment s are to be read in conjunction with the original November 2022 document 
+“Liquidity metrics as an ancillary indicator”15 and supersede any conflicting provisions therein. 
+5.2 Simplifications due to the 2025 review of the GME (IIM assessment 
+methodology) 
+As described in the November 2022 document mentioned above , c ommercial time deposits  are 
+factored into the calculation of the ILR liquidity needs.  As part of the 2025 review of the IIM 
+assessment methodology of the GME, “other borrowings” (item code 24.4 of the IIM data collection) 
+will also be included to the ILR liquidity needs with the same haircuts as commercial time deposits. 
+This helps to address a potential gap and ensure equal treatment independent of the classification 
+of specific elements. 
+Commercial time deposits are calculated by deducting from the total of certificates of deposit 
+outstanding those certificates of deposit outstanding that are from retail or small business customers, 
+from central banks or from public sector entities.  
+Due to simplifications introduced with the 2025 review of the IIM assessment methodology, 
+borrowing from central banks or public sector entities no longer needs to be collected separately in 
+four different rows (24.3 .b, 24.3.d, 24.4.b  and 24,4.d). Instead, certificates of deposit and other 
+borrowing from central banks and public sector entities will be collected in one row  that will be 
+deducted from the total. 
+ 
+13 See IAIS, IAIS finalises liquidity metrics as an ancillary indicator for its Global Monitoring Exercise, press release, 18 November 
+2022. 
+14 See IAIS, Global Monitoring Exercise, November 2025. 
+15 See IAIS, Liquidity metrics as an ancillary indicator, November 2022.
+
+5.3 ILR s tress scenario correlation 
+Comments from prior public consultations highlighted the importance of addressing the differing 
+liquidity profiles across insurance sectors. This section illustrates  enhancements to segregate the 
+liquidity needs arising from different business lines within an insurance group. 
+In the November 2022 document,
+16 t he ILR is calculated by taking aggregated liquidity sources, 
+applying a haircut, and dividing by the aggregate liquidity needs. This method implicitly assumes that 
+all liquidity stresses occur simultaneously, which may not always reflect the reality for composite 
+insurers who face liquidity needs from both life - and property and casualty (P&C)-related stresses. 
+For example, the ILR assumes that a Catastrophe ( Cat) event impacting a non-life insurer occurs 
+simultaneously with a surrender event impacting a life insurer within the same group.  
+Table 7 presents a summary of the stress scenario part of the calculation of liquidity needs for the 
+ILR. 
+Table 7: Liquidity 
+stress categories 
+Component Description 
+Life stress 
+ 
+Surrender values - institutional Surrenders from institutional clients 
+Surrender values - retail Surrenders from retail clients 
+Unearned premiums Unearned premiums from business and retail 
+policyholders 
+P&C stress Cat risk Payments arising from catastrophe risk related losses 
+ Claims and expenses Non-life claims payments and incurred expenses 
+ Reserving Liquidity needs from potential under reserving 
+ Recoveries Liquidity needs from unrecovered reinsurance payments 
+Repos & securities 
+lending 
+Repos Repurchase transaction liabilities 
+ Securities Lending Securities lending liabilities 
+Funding Funding Short-term borrowing and contingent liabilities 
+ Bank deposits Retail and institutional bank deposits 
+ Credit downgrades Additional payments due as the result of credit 
+downgrade 
+Derivative Derivatives Derivatives margin payments 
+Operational risk Operational and cyber risk Operational and cyber risk liquidity needs 
+ 
+16 See IAIS, Liquidity metrics as an ancillary indicator, November 2022.
+
+5.3.1 Objective 
+To address concerns regarding distinct liquidity needs across business models, this section 
+introduces adjustments to the ILR to account for the level of correlation between stress scenarios . 
+The correlation adjustment methodology is described below.   
+5.3.2 Correlation adjustment 
+To adjust the ILR for the level of correlation between the stress scenarios, the following correlation 
+matrix (CM) between the six stress scenarios considered in the definition of ILR liquidity needs is 
+introduced (see Table 8).  
+Table 8: Stress scenario 
+correlation matrix 
+Life 
+stress 
+P&C 
+stress 
+Repos & 
+securities 
+lending 
+Funding  Derivative Operational 
+risk 
+Life stress 100% 𝟎𝟎% 100% 100% 100% 100% 
+P&C stress 𝟎𝟎% 100% 100% 100% 100% 100% 
+Repos & securities 
+lending 
+100% 100% 100% 100% 100% 100% 
+Funding  100% 100% 100% 100% 100% 100% 
+Derivative 100% 100% 100% 100% 100% 100% 
+Operational risk 100% 100% 100% 100% 100% 100% 
+In the hereby introduced adjustment, the correlation matrix is multiplied by  the individual insurers’ 
+shares of total liquidity needs from each type of stress. The result of this multiplication gives a scalar, 
+defined as the “adjustment factor” (𝐴𝐴𝐴𝐴). Finally, to obtain the adjusted ILR, the adjustment factor is 
+multiplied by the individual insurers’ liquidity needs. In formulas: 
+𝐼𝐼𝐼𝐼
+𝐶𝐶𝑎𝑎𝑎𝑎𝑎𝑎 = 𝐼𝐼 𝑖𝑖 𝐿𝐿𝑢𝑢 𝑖𝑖𝑢𝑢𝑖𝑖 𝐿𝐿𝐿𝐿 𝑆𝑆𝑓𝑓 𝑢𝑢𝑓𝑓𝑐𝑐𝑢𝑢𝑢𝑢
+𝐼𝐼𝑖𝑖 𝐿𝐿𝑢𝑢 𝑖𝑖𝑢𝑢𝑖𝑖 𝐿𝐿𝐿𝐿 𝐺𝐺 𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢 ∗ 𝐴𝐴𝐴𝐴 = 𝐼𝐼𝐼𝐼 𝐶𝐶
+𝐴𝐴𝐴𝐴  
+The adjustment factor 𝐴𝐴𝐴𝐴 is the result of the transformation illustrated below, where 𝑒𝑒 i s a vector 
+containing the shares of liquidity needs per type of stress, CM is the correlation matrix as defined in 
+Table 8, and 𝑒𝑒𝑇𝑇 is the transpose of vector 𝑒𝑒: 
+𝐴𝐴𝐴𝐴 = �(𝑒𝑒 ∙ 𝐶𝐶
+𝐼𝐼) ∙  𝑒𝑒𝑇𝑇  
+Under the November 2022 definition of the ILR  (all correlation factors implicitly set to 100%) , this 
+transformation resulted in an adjustment factor of 1 00%, thereby maintaining the value of the ILR  
+unchanged. 
+An illustrative example including detailed calculations of the adjustment factor and resulting adjusted 
+ILR is outlined in Annex 1. 
+ Conclusion 
+This document introduced an additional set of ancillary indicators to enhance the toolkit for evaluating 
+global insurance market trends  and monitoring the potential build-up of systemic risk in the global 
+insurance sector, with a focus on credit risk, derivatives and reinsurance. Additionally, it introduced
+
+two amendments to the liquidity metrics, specifically to the calculation of the ILR, that are to be read 
+in conjunction with the original November 2022 document “Liquidity metrics as an ancillary indicator” 
+and supersede any conflicting provisions therein.  
+The development of the ancillary indicators accounted for the responses provided by stakeholders 
+to the November 2024–February 2025 public consultation17 and was conducted in the context of the 
+2025 review of the GME methodology18. A detailed resolution of comments is available on the IAIS 
+website on the webpage related to the 2024–2025 public consultation on ancillary risk indicators in 
+the GME.19 
+ 
+ 
+ 
+ 
+17 See IAIS, Public consultation on ancillary risk indicators in the Global Monitoring Exercise, November 2024. 
+18 See IAIS, Public consultation on the review of the Global Monitoring Exercise, June 2025. 
+19 See IAIS, Public consultation on ancillary risk indicators in the Global Monitoring Exercise.
+
+Annex 1: Illustrative example of the ILR adjustment 
+This annex provides an illustrative example of the correlation adjustment for the ILR outlined in 
+Section 5. 
+The following abbreviations are used for the six stress categories requiring liquidity needs: 
+𝐼𝐼 = 𝐼𝐼𝑖𝑖𝑓𝑓𝑢𝑢; 𝑃𝑃 = 𝑃𝑃&𝐶𝐶; 𝐶𝐶 = 𝐶𝐶𝑢𝑢𝑅𝑅𝑓𝑓𝑢𝑢;  𝐴𝐴 = 𝐴𝐴𝑢𝑢𝑒𝑒𝑢𝑢𝑖𝑖𝑒𝑒𝑒𝑒;  𝐷𝐷 = 𝐷𝐷𝑢𝑢𝑓𝑓𝑖𝑖𝐷𝐷𝑎𝑎𝐿𝐿𝑖𝑖𝐷𝐷𝑢𝑢𝑢𝑢;  𝑂𝑂 = 𝑂𝑂𝑅𝑅𝑢𝑢𝑓𝑓𝑎𝑎𝐿𝐿𝑖𝑖𝑓𝑓𝑒𝑒𝑎𝑎𝑂𝑂 𝑓𝑓𝑖𝑖𝑢𝑢𝑟𝑟 
+As illustrated in Section 5, the correlation factor between life stress and P&C stress is set  to 0%, 
+while all the other correlation factors remain at 100%. This results in the following correlation matrix: 
+𝐶𝐶𝐼𝐼 =
+⎣
+⎢
+⎢
+⎢
+⎢
+⎡100% 𝟎𝟎% 100% 100% 100% 100%
+𝟎𝟎% 100% 100% 100% 100% 100%
+100% 100% 100% 100% 100% 100%
+100% 100% 100% 100% 100% 100%
+100% 100% 100% 100% 100% 100%
+100% 100% 100% 100% 100% 100%⎦
+⎥
+⎥
+⎥
+⎥
+⎤
+  
+ 
+Assume also that an insurer has the following  shares of liquidity needs for the six stress scenarios 
+considered: 
+𝑒𝑒 = [𝛼𝛼𝐶𝐶 𝛼𝛼𝐶𝐶 𝛼𝛼𝑅𝑅 𝛼𝛼𝐹𝐹 𝛼𝛼𝐷𝐷 𝛼𝛼𝑂𝑂] = [40% 30% 10% 10% 5% 5%] 
+The resulting adjustment factor would be:  
+𝐴𝐴𝐴𝐴 = �(𝑒𝑒 ∙ 𝐶𝐶𝐼𝐼) ∙  𝑒𝑒𝑇𝑇 = 87% 
+Assuming an initial ILR of 100%, the adjusted ILR would be: 
+𝐼𝐼𝐼𝐼𝐶𝐶𝑎𝑎𝑎𝑎𝑎𝑎 = 𝐼𝐼𝐼𝐼𝐶𝐶
+𝐴𝐴𝐴𝐴 = 100%
+87%  = 115% 
+Note that the same adjustment to the correlation factor applied to an insurer with no liquidity needs 
+from either the life business or the P&C business keeps  the ILR unchanged. In other words, 
+composite insurers with an evenly distributed mix of liquidity needs benefit the most from the 
+introduced adjustment. The calculations below illustrate the case of an insurer with no liquidity needs 
+from the life business: 
+  
+𝑒𝑒′ = [𝛼𝛼𝐶𝐶′ 𝛼𝛼𝐶𝐶′ 𝛼𝛼𝑅𝑅 𝛼𝛼𝐹𝐹 𝛼𝛼𝐷𝐷 𝛼𝛼𝑂𝑂] = [𝟎𝟎% 𝟕𝟕𝟎𝟎% 10% 10% 5% 5%] 
+𝐴𝐴𝐴𝐴′ = �(𝑒𝑒′ ∙ 𝐶𝐶𝐼𝐼) ∙  𝑒𝑒′𝑇𝑇 == 100% 
+𝐼𝐼𝐼𝐼𝐶𝐶𝑎𝑎𝑎𝑎𝑎𝑎 = 𝐼𝐼𝐼𝐼𝐶𝐶
+𝐴𝐴𝐴𝐴′ = 100%
+100%
+ = 100%
+
+Annex 2: Excerpts from the IIM and SWM 2024 data templates and 
+technical specifications 
+A.2.1 IIM 2024 data template 
+2.2 Assets and Liabilities 
+    
+  Assets 
+  a. Total assets 
+9   Total assets  
+9.S   Separate account or unit-linked assets 
+  c. Cash and cash equivalents 
+9.4   Cash and cash equivalents 
+9.4.a   Cash 
+    
+  Liabilities 
+  a. Total liabilities 
+10.1   Total liabilities (on balance sheet) 
+10.2   Policyholder liabilities (both primary insurance and reinsurance) 
+10.2.S   Separate account or unit-linked policyholder liabilities 
+ 
+2.8 Classes of Financial Assets 
+    
+  Level 1, 2 and 3 assets (FV hierarchy) 
+30.1   Total level 1 financial assets 
+30.2   Total level 2 financial assets 
+30.3   Total level 3 financial assets 
+30.3.1        of which are loans (excluding mortgages) 
+30.3.2        of which are mortgages 
+30.3.3        of which are equity and debt securities 
+30.3.4        of which are holdings of real estate as financial investments 
+30.4   
+Level 3 assets - any direct holding of physical real estate that were excluded from the row 
+30.3 
+  Assets held at historical or amortised costs 
+30.5   All assets held at historical or amortised costs 
+30.5.1        of which would be considered a level 3 valuation if they were reported at FV  
+30.5.2        of which are loans (can be included also in the 30.5.1, excluding mortgages)  
+30.5.3        of which are mortgages (can be included also in the 30.5.1) 
+30.5.4   
+     of which is structured credit and all forms of securitisations (can be included also in the 
+30.5.1) 
+30.5.5        of which are others (can be included also in the 30.5.1, automatically calculated field)  
+  Assets originated by related parties  
+30.6   Assets originated by related parties  
+ 
+2.12 
+Derivatives
+
+Gross Fair Value of Derivatives Assets and Liabilities 
+39.1   Gross amount of recognised derivative assets 
+39.2   Gross amount of recognised derivative liabilities 
+39.3   Net amount of recognised derivative assets 
+39.3.a   of which are traded over-the-counter 
+39.3.a.1   of which are over–the-counter derivatives with a financial institution 
+39.4   Net amount of recognised derivative liabilities 
+39.4.a   of which are traded over-the-counter 
+39.4.a.1   of which are over–the-counter derivatives with a financial institution 
+39.5   ILR Gross Derivative Liabilities 
+39.6   ILR Eligible Cash Variation Margin 
+39.6.ALL   ILR Eligible Variation Margin 
+39.9   Initial Margin 
+39.10   ILR Gross Derivative Assets 
+39.11.1   
+Dollar value of additional posted variation margin in response to 100 bps 
+increase/decrease in reference rate 
+39.11.2   
+Maximum 10-day cash outflows related to margin and collateral calls during the 
+reporting year 
+39.11.3   
+Average 10-day cash outflows related to margin and collateral calls during the 
+reporting year 
+    
+  Gross notional amount of derivatives 
+40.A.1   Gross notional amount of derivatives contracts 
+40.A.1.1   of which are derivatives contracts with currently negative market/fair value  
+40.A.1.a   of which are traded over-the-counter derivatives contracts 
+40.A.1.a.CC           of which are over-the-counter derivatives contracts that are centrally cleared  
+40.A.H   
+Gross notional amount of derivatives used to hedge guarantees on variable insurance 
+products 
+    
+  Potential future exposure 
+40.B   Potential future exposure (automatically calculated) 
+40.B.1   Potential future exposure for all derivatives with a net positive fair value  
+40.B.1.a   
+Potential future exposure for all over-the-counter derivatives with a net positive fair 
+value 
+40.B.1.a.1   
+Potential future exposure for all over-the-counter derivatives conducted with a 
+financial counterparty that have a net positive fair value. 
+40.B.2   Potential future exposure for all derivatives with a net negative fair value  
+40.B.2.a   
+Potential future exposure for all over-the-counter derivatives with a net negative 
+fair value 
+40.B.2.a.1   
+Potential future exposure for all over-the-counter derivatives conducted with a 
+financial counterparty that have a net negative fair value. 
+    
+ 
+  
+  
+Global Monitoring Exercise - Interplays with Sector-wide Monitoring 
+  Global Monitoring Exercise - Asset Allocation 
+65   Total investments, excl. separate accounts
+
+65.CRE   
+Commercial real estate (CRE) exposures, including indirect (eg loans, equities) and 
+direct real estate holdings (these exposures should be reported in parallel under 
+relevant 65.x rows) 
+65.UGL   Unrealised gains and losses from all investments, excl. separate accounts 
+65.E   Equities, excl. separate accounts 
+65.E.F   
+of which are equities from financial institutions (eg. banks, insurers and 
+investment funds) 
+65.E.U   of which unlisted equities 
+65.E.IF   
+of which are all types of investment funds (eg. mutual funds, MMFs, ETFs or 
+hedge funds) 
+65.1   Sovereign bonds, excl. separate accounts 
+65.1.1   of which are Credit Rating Step <4 (above investment grade) 
+65.1.2   of which are Credit Rating Step 4 (investment grade) 
+65.1.3   of which are Credit Rating Step >4 (below investment grade) 
+65.1.4   of which are Unrated 
+65.2   Corporate bonds, excl. separate accounts 
+65.2.F   
+of which are corp.bonds from financial institutions (eg. banks, insurers and 
+investment funds) 
+65.2.1   of which are Credit Rating Step <4 (above investment grade) 
+65.2.2   of which are Credit Rating Step 4 (investment grade) 
+65.2.3   of which are Credit Rating Step >4 (below investment grade) 
+65.2.4   of which are Unrated 
+65.Z   Securitizations (including CLOs), excl. separate accounts 
+65.Z.M   of which are backed by mortgages or loans collateralised by real estate collateral  
+65.Z.F   
+of which are securitizations from financial institutions (eg. banks, insurers and 
+investment funds) 
+65.Z.1   of which are Credit Rating Step <4 (above investment grade) 
+65.Z.2   of which are Credit Rating Step 4 (investment grade) 
+65.Z.3   of which are Credit Rating Step >4 (below investment grade) 
+65.Z.4   of which are Unrated 
+65.3   Loans and Mortgage loans, excl. separate accounts 
+65.3.M   of which are mortgages or loans backed by real estate collateral 
+65.3.F   
+of which are loans granted to financial institutions (eg. banks, insurers and 
+investment funds) 
+65.3.1   of which are Credit Rating Step <4 (above investment grade) 
+65.3.2   of which are Credit Rating Step 4 (investment grade) 
+65.3.3   of which are Credit Rating Step >4 (below investment grade) 
+65.3.4   of which are Unrated 
+65.4   Real estate, excl. separate accounts 
+65.5   Reinsurance recoverables 
+65.6   
+Reinsurance assets (including ModCo, coinsurance, funds withheld) excl. separate 
+accounts 
+65.6.1   of which are equties 
+65.6.2   of which are corporate debt securities 
+65.6.3   of which are sovereign bonds 
+65.6.4   of which are loans and mortgages 
+65.6.5   of which are securitizations (including CLOs) 
+65.6.6   of which are other reinsurance assets (automatically calculated field) 
+65.7   Deferred acquisition costs 
+65.8   Intangibles and goodwill 
+65.10   Infrastructure investing 
+65.OA   
+Other assets, excl. separate accounts (automatically calculated) - provide explanation 
+if material 
+     
+  Global Monitoring Exercise - Written Premium and Technical Provisions 
+66   Total gross written premiums, excluding separate accounts
+
+66.1           of which is life business 
+66.2           of which is non-life or health business 
+66.S   Gross written premiums for separate accounts (automatically calculated) 
+66.A   
+Assumed premiums, excluding separate accounts (a subpart of Total gross written 
+premium) 
+66.A.1           of which is life business 
+66.A.2           of which is non-life or health business 
+66.C   
+Ceded/retroceded premiums, excluding separate accounts (a subpart of Total gross 
+written premium) 
+66.C.1           of which is life business 
+66.C.2           of which is non-life or health business 
+67   Total net written premiums, excluding separate accounts 
+67.1           of which is life business 
+67.2           of which is non-life or health business 
+68   Total gross technical provisions, excluding separate accounts 
+68.1           of which is life business 
+68.2           of which is non-life or health business 
+68.S   Gross technical provisions for separate accounts 
+69   Total net technical provisions, excluding separate accounts 
+69.1           of which is life business 
+69.1.1                  of which are long-term liabilities (with maturity longer than 5 years) 
+69.1.2                  of which are mid-term liabilities (with maturity between 1-5 years) 
+69.1.3                  of which are short-term liabilities (with maturity shorter than 1 year) 
+69.2           of which is non-life or health business 
+69.2.1                  of which are long-term liabilities (with maturity longer than 5 years) 
+69.2.2                  of which are mid-term liabilities (with maturity between 1-5 years) 
+69.2.3                  of which are short-term liabilities (with maturity shorter than 1 year) 
+69.S   Net technical provisions for separate accounts 
+ 
+    
+Global Monitoring Exercise - 
+Monitoring of derivatives       
+        
+75 Split of derivative transactions 
+Gross notional 
+amounts 
+(GNA) 
+% of 
+GNA 
+which is 
+centrally 
+cleared 
+% of GNA used for 
+hedging (not only 
+hedging accounting 
+is considered, but 
+any form of hedging, 
+e.g. dynamic 
+hedging) 
+75.1   Interest rate derivatives     
+75.2   Equity-linked derivatives     
+75.3   Foreign exchange derivatives     
+75.4   Credit risk derivatives (including CDS)     
+75.5 
+  
+Derivatives related to life (re)insurance 
+(e.g. to longevity or mortality)     
+75.6   Other derivatives
+
+Global Monitoring Exercise - Reinsurance 
+    
+    
+85 Life technical provisions ceded to non-affiliates 
+85.1   Total Technical Provisions ceded to non-affiliates 
+85.2          of which are Total Technical Provisions ceded due to ModCo and coinsurance  
+85.3          of which are Total Technical Provisions ceded to cross-border non-affiliates 
+    
+86 Life technical provisions ceded to affiliates 
+86.1   Total Technical Provisions ceded to affiliates 
+86.2   
+       of which are Total Technical Provisions ceded due to ModCo and coinsurance 
+(affiliates only) 
+86.3          of which are Total Technical Provisions ceded to cross-border affiliates 
+      
+ 
+A.2.2 IIM 2024 technical specifications 
+Include assets and liabilities related to segregated accounts (also referred to as separate accounts) 
+or unit-linked policies in the figures for all data rows, unless otherwise specified. 
+For additional guidance the following colour coding is added to the instructions 
+■□ general account only 
+□■ separate account only 
+■■ general and separate accounts 
+□□ off-balance sheet 
+Assets and Liabilities 
+Row 9: Total assets  ■■ 
+Report the total value of on -balance sheet assets in Row 9 ( eg. general accounts, segregated 
+accounts, separate accounts, intangibles, etc.). If this amount is different to the 2023 public financial 
+statements, explain the reason for the variation and to which official financial statements, if available, 
+it relates in the Explanatory Statement. If adjusted as a result of discontinued operations (such as 
+deals that were signed during the reporting period, but closed after the reporting period), explain the 
+nature of the discontinued operations. The basis of this information should be the 2023 financial 
+statements on a consolidated accounts basis.  
+ 
+Row 9.S: Separate account or unit-linked assets □■ 
+Report the total value of on- balance sheet assets whose investment performance is borne by 
+policyholders or contract holders. Such assets are often reported as “segregated accounts”, “unit -
+linked assets ” or “separate accounts” but may not necessarily be captured within those 
+classifications. The amount reported in this row should be a subset of the total assets reported in 
+Row 9. Assets that back guarantees (eg. minimum guarantees of asset performance), when the risk
+
+is not borne by the policyholder, should be excluded from Row 9.S but still be included in Row 9. 
+ 
+Row 9.4: Cash and cash equivalents (excl. separate accounts or unit-linked policies) ■□ 
+Report all cash and cash equivalents (excluding cash held for separate accounts or unit -linked 
+business). The row does not include T -bills and similar financial instruments that may be reported 
+under rows 9.5.X. 
+ 
+Row 9.4.a: Cash ■□ 
+Report all holdings of cash, including cash and currency on hand, demand deposits with banks or 
+other financial institutions or other kinds of accounts that have the general characteristics of demand 
+deposits. Include central bank reserves only if they can be withdrawn in a time of stress. Do not 
+include cash equivalents, defined as short -term, highly liquid investments that are both readily 
+convertible to known amounts of cash and subject to an insignificant risk of change in value assessed 
+against the amount at inception. Do not include cash which is restricted as to its withdrawal or usage. 
+Row 10.1: Total liabilities ■■ 
+Report total on-balance sheet liabilities. Exclude equity/own funds or minority interests . If the total 
+liabilities amount is different to 2023 public financial statements, explain the reason for the variation 
+and to which official financial statements it relates. If adjusted as a result of discontinued operations 
+(such as deals that were signed during the reporting period, but closed after the r eporting period), 
+explain the nature of the discontinued operations. 
+ 
+In addition, provide in the Explanatory Statement a list, a valuation and a description of the five 
+largest liabilities items on your balance sheet, as reported in your financial statements that are not 
+policyholder liabilities as defined in Row 10.2. 
+ 
+Row 10.2: Policyholder liabilities (both primary insurance and reinsurance) ■■ 
+Report the gross amount of policyholder liabilities held in both general (non- linked) and separate 
+(unit-linked) accounts in Row 10.2: Policyholder liabilities include: 
+• all technical provisions held for the purpose of fulfilling insurance contracts (including 
+policyholder dividends, funds held pursuant to reinsurance treaties, future policy benefits, 
+policyholder account balances, loss reserves, asset valuation reserves and interest 
+maintenance reserves related to insurance products20, and unearned premiums reserves and 
+excluding advance premiums received); 
+• investment contract liabilities, including guarantees of asset performance in separate 
+accounts,21 policyholder liabilities in segregated or separate accounts, unit -linked liabilities 
+and unallocated divisible surplus (UDS). 22 If the firm has any UDS, include the amount of 
+UDS reported in the Explanatory Statement;  
+• any of the above elements that are classified as “Held for sale” or equivalent on the balance 
+sheet under the relevant accounting system. 
+ 
+ 
+20 Asset valuation and interest maintenance reserves are applicable only to companies submitting data in accordance with U.S. 
+Statutory Accounting Principles. 
+21 The reference to “separate accounts” is intended to capture all structures where the investment performance is borne by the 
+policyholder. See Row 9.S. 
+22 In certain participating long-term insurance and investment business, the nature of the policy benefits is such that the division 
+between shareholder reserves and policyholder liabilities is uncertain. Amount whose allocation to either policyholders or 
+shareholders has not been determined by the end of the financial year are held within liabilities as an unallocated divisible surplus.
+
+Row 10.2.S: Separate account or unit-linked policyholder liabilities □■ 
+Report the gross amount of policyholder liabilities  attributable to separate account or unit -linked 
+liabilities (Subset of Row 10.2). If 10.2.S is greater than 9.S, provide an explanation of the liabilities 
+that exceed the assets held for separate account holders. 
+Classes of financial assets 
+Report the gross fair value of all assets that are valued on a recurring basis using fair value hierarchy 
+levels 1, 2 and 3. This includes assets which can be valued under another basis, but for which 
+the company chooses to hold at fair value. Do not include assets valued using other methods in 
+the financial statements, such as amortised cost. Cash should not be included in Level 1 financial 
+assets in this data element.   
+ 
+The definition of the fair value hierarchy levels can be found in International Financial Reporting 
+Standard 13, Fair Value Measurement and U.S. Accounting Standard Codification (ASC) 820, Fair 
+Value Measurement. Also refer to IFRS 13, paragraph 93 and ASC 820-10-50-1 and 820-10-50-2b.  
+ 
+In addition to the accounting guidance, note that, for the purpose of this data collection, you should: 
+(i) exclude any direct holding of physical real estate, (ii) include other holdings of all real 
+estate-related assets as financial instruments in the relevant class of assets  (from level 1 to 
+3).  
+ 
+Row 30.1: Level 1 financial assets ■■ 
+Report all level 1 assets valued at fair value. Exclude any holdings of real estates as specified above. 
+ 
+Row 30.2: Level 2 financial assets ■■ 
+Report all level 2 assets valued at fair value. Exclude any holdings of real estates as specified above. 
+ 
+Row 30.3: Level 3 financial assets ■■ 
+Report all level 3 assets valued at fair value. Exclude any holdings of real estates as specified above. 
+ 
+Row 30.3.1: of which are loans (excluding mortgages) ■■ 
+Row 30.3.2: of which are mortgages ■■ 
+Row 30.3.3: of which are equity and debt securities ■■ 
+Row 30.3.4: of which are holdings of real estate as financial investments ■■ 
+ 
+Note: The sum of Rows 30.3.1, 30.3.2, 30.3.3 and 30.3.4 should not exceed the amount reported in 
+the row 30.3. 
+ 
+𝟑𝟑𝟎𝟎. 𝟑𝟑. 𝟏𝟏 + 𝟑𝟑𝟎𝟎. 𝟑𝟑. 𝟐𝟐 + 𝟑𝟑𝟎𝟎. 𝟑𝟑. 𝟑𝟑 + 𝟑𝟑𝟎𝟎. 𝟑𝟑. 𝟒𝟒 ≤ 𝟑𝟑𝟎𝟎. 𝟑𝟑 
+ 
+ 
+Row 30.4: Level 3 assets - any direct holding of physical real estate ■■ 
+Report all direct holding of physical real estate valued at fair value as level 3 assets that were 
+excluded from the row 30.3. Do not include the row 30.4 in the row 30.3.  
+ 
+Note: The sum of Rows 30.1, 30.2, 30.3, 30.4 and 30.5 should not exceed the total assets amount
+
+reported in the balance sheet. 
+ 
+𝟑𝟑𝟎𝟎. 𝟏𝟏 + 𝟑𝟑𝟎𝟎. 𝟐𝟐 + 𝟑𝟑𝟎𝟎. 𝟑𝟑 + 𝟑𝟑𝟎𝟎. 𝟒𝟒 + 𝟑𝟑𝟎𝟎. 𝟓𝟓 ≤ 𝟗𝟗 
+ 
+Row 30.5: All assets held at historical or amortised costs ■■ 
+Report value of assets held at historical or amortised costs. Amortized cost is an accounting method 
+in which all financial assets must be reported on a balance sheet at their amortized value which is 
+equal to their acquisition total minus their principal repayments and any discounts or premiums minus 
+any impairment losses and exchange differences. Exclude any holdings reported under rows 30.1-
+30.4 (at fair value) as specified above. 
+ 
+Row 30.5.1: of which would be considered a level 3 valuation if they were reported at FV ■■ 
+Row 30.5.2: of which are loans (exclude. mortgages) ■■ 
+Row 30.5.3: of which are mortgages ■■ 
+Row 30.5.4: of which is structured credit and all forms of securitisations                  ■■ 
+Row 30.5.5: of which are others            ■■ 
+ 
+Note: Rows 30.5.2, 30.5.3, 30.5.4 and 30.5.5 can be subsets of the row 30.5.1.  
+ 
+Row 30.6: Assets originated by related parties                    ■■ 
+Assets originated by related parties: Report the total investment in assets that have been originated by 
+related parties. Related parties include entities that belong to the same group or entities in which the 
+group holds an equity stake, whether controlli ng or not. 'Originated' refers to assets created, issued, or 
+generated directly by these related parties or where the parties participated in the origination, either 
+indirectly or directly. Examples include, but are not limited to, Collateralized Loan Obli gations (CLOs), 
+syndicated loans, participation in direct lending platforms, asset-based finance, and other similar financial 
+instruments.       
+Derivatives 
+For the purposes of derivatives reporting, unless stated otherwise, report derivatives exposure as 
+disclosed in the reporting company’s consolidated financial statements, in particular in the notes to 
+the consolidated financial statements in accordance with FASB ASU 2011-11 & ASU 2013-1 and 
+IFRS 7 and IAS 32 last amendments. Gross figures are exposures prior to any collateral or 
+counterparty netting. Do not include bifurcated embedded derivatives in technical provisions in Rows 
+39 through 39.8. 
+ 
+Row 39: Fair value of derivatives assets and liabilities  ■■ 
+Information reported in Rows 39.1 through 39.6 should mirror amounts reported in the notes to the 
+consolidated financial statements in accordance with FASB ASU 2011-11 & ASU 2013-1, IFRS 7 and 
+IAS 32 last amendments or similar GAAPs:  
+  
+Row 39.1: Gross amount of recognised derivative assets ■■ 
+Report the sum of the fair value of all derivative contracts that have a positive fair value, and it is not 
+reduced by any netting arrangements or collateral in accordance with FASB ASU 2011- 11 & ASU 
+2013-1, IFRS 7 and IAS 32 last amendments or similar GAAPs. Do not include bifurcated embedded 
+derivatives
+
+Row 39.2: Gross amount of recognised derivative liabilities ■■ 
+Report the sum of the fair value of all derivative contracts that have a negative fair value, and it is 
+not reduced by any netting arrangements or collateral in accordance with FASB ASU 2011-11 & ASU 
+2013-1, IFRS 7 and IAS 32 last amendments or similar GAAPs. Do not include bifurcated embedded 
+derivatives. 
+ 
+Row 39.3: Net amount of recognised derivative assets ■■ 
+Report the net amount of derivative assets as displayed in the notes to the consolidated financial 
+statements, in accordance with FASB ASU 2011- 11 & ASU 2013- 1, IFRS 7 and IAS 32 2012 
+amendments or similar GAAPs: this is the sum of the fair value of all derivative contracts that have 
+a positive fair value, after taking into account all netting and offsetting stages allowed by the IFRS, 
+US GAAP and similar accounting standards, including for all the derivatives contracts settled under 
+a master netting agreement the counterparty netting (financial instruments) and the cash collateral 
+offsetting, whatever the reporting accounting rules are (US GAAP, IFRS or similar GAAPs). Do not 
+include bifurcated embedded derivatives. 
+ 
+Where the value reported here equals the value in Row 39.1, provide an explanation in the 
+Explanatory Statement. 
+ 
+This number is not necessarily  the same figure reported on financial statements where 
+different netting and offsetting rules apply according to the different accounting standards, but should 
+be the final one displayed within the derivatives note to the consolidated financial statements in 
+accordance with FASB ASU 2011-11 & ASU 2013-1, IFRS 7 and IAS 32 2012 amendments or similar 
+GAAPs.  
+The number reported in the financial statements should be reported in the row 39.7. 
+ 
+𝟑𝟑𝟗𝟗. 𝟑𝟑 ≤ 𝟑𝟑𝟗𝟗. 𝟕𝟕 
+ 
+Row 39.3.a: of which are over–the-counter derivatives ■■ 
+ 
+Row 39.3.a.1: of which are over–the-counter derivatives with a financial institution. ■■ 
+ 
+Row 39.4: Net amount of recognised derivative liabilities ■■ 
+Report the net amount of derivative liabilities as displayed in the notes to the consolidated 
+financial statements, in accordance with FASB ASU 2011- 11 & ASU 2013-1, IFRS 7 and IAS 32 
+2012 amendments or similar GAAPs: this is the sum of the fair value of all derivative contracts that 
+have a negative fair value, after taking into account all netting and offsetting stages allowed by the 
+IFRS , US GAAP and similar accounting standards, including for all the derivatives contracts settled 
+under a master netting agreement the counterparty netting (financial instruments) and the cash 
+collateral offsetting, whatever the reporting accounting rules are (US GAAP , IFRS or similar GAAPs). 
+Do not include bifurcated embedded derivatives. 
+ 
+Where the value reported here equals the value in Row 39.2, provide an explanation in the 
+Explanatory Statement. 
+ 
+This number  is not necessarily the same figure reported on financial statements where 
+different netting and offsetting rules apply according to the different accounting standards, but should 
+be the final one displayed within the derivatives note to the consolidated financial statements in
+
+accordance with FASB ASU 2011-11 & ASU 2013-1, IFRS 7 and IAS 32 last amendments or similar 
+GAAPs. 
+ 
+The number reported in the financial statements should be reported in the row 39.8. 
+ 
+𝟑𝟑𝟗𝟗. 𝟒𝟒 ≤ 𝟑𝟑𝟗𝟗. 𝟖𝟖 
+ 
+Row 39.4.a: of which are over–the-counter derivatives ■■ 
+ 
+Row 39.4.a.1: of which are over–the-counter derivatives with a financial institution. ■■ 
+  
+ 
+Row 39.5: ILR Gross Derivative Liabilities ■□ 
+The calculation of ILR gross derivatives liabilities is performed by contractual netting set.  A 
+contractual netting set is the set of all contracts subject to master netting agreement. Derivative 
+transactions not subject to a master netting agreement are their own contractual netting set.   
+ 
+ILR gross derivative liabilities is the sum of the netting sets that have negative replacement cost from 
+the perspective of the insurer (i.e. the insurer’s current position has a negative market value). 
+ 
+ 
+� max(−𝑒𝑒𝑓𝑓𝑓𝑓𝑢𝑢𝑢𝑢 𝑓𝑓𝑢𝑢𝑅𝑅𝑂𝑂𝑎𝑎𝑐𝑐𝑢𝑢𝑟𝑟𝑢𝑢𝑒𝑒𝐿𝐿 𝑐𝑐𝑓𝑓𝑢𝑢𝐿𝐿 𝑓𝑓𝑓𝑓 𝑢𝑢𝑢𝑢𝑓𝑓𝑖𝑖𝐷𝐷𝑎𝑎𝐿𝐿𝑖𝑖𝐷𝐷𝑢𝑢𝑢𝑢 𝑖𝑖𝑒𝑒 𝑒𝑒𝑢𝑢𝐿𝐿𝐿𝐿𝑖𝑖𝑒𝑒𝑒𝑒 𝑢𝑢𝑢𝑢𝐿𝐿, 0)
+𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑖𝑖𝑛𝑛𝑛𝑛 𝑠𝑠𝑛𝑛𝑛𝑛𝑠𝑠
+ 
+ 
+Because of an insurer may have derivative assets and liabilities within a netting set and because 
+this excludes derivatives held in separate accounts, this amount should be less than or equal to the 
+value reported in 39.2.   
+ 
+𝟑𝟑𝟗𝟗. 𝟓𝟓 ≤ 𝟑𝟑𝟗𝟗. 𝟐𝟐 
+ 
+Do not include the value of any bifurcated embedded derivatives related to insurance contracts. The 
+liquidity risk on these products is assessed using Row 33. Include any bifurcated embedded 
+derivatives that do not have a host insurance contract.  
+ 
+Do not include the value of any collateral cash or securities collateral pledged or received in the 
+calculation of ILR Gross Derivatives Liabilities.   
+ 
+Row 39.6: ILR Eligible Cash Variation Margin ■□ 
+Report the value of any cash collateral provided to counterparties on ILR Gross Derivative Liabilities 
+in the derivative’s settlement currency.  Exclude any amounts reported in row 9.4.  
+ 
+Row 39.6.ALL: ILR Eligible Variation Margin ■□ 
+Report the value of any collateral provided to counterparties on ILR Gross Derivative Liabilities in 
+the derivative’s settlement currency.  Include any amounts reported in row 39.6 and other non-cash 
+forms of collateral.
+
+𝟑𝟑𝟗𝟗. 𝟔𝟔 ≤ 𝟑𝟑𝟗𝟗. 𝟔𝟔. 𝐀𝐀𝐀𝐀𝐀𝐀 
+ 
+Row 39.9: Initial Margin ■□ 
+Report the fair value of the securities posted as initial margin by an insurer for derivatives contracts.  
+Include the value of securities pasted as initial margin that are included in rows 9.5.x.  Do not include 
+any cash initial margin that is not reported in row 9.4. 
+ 
+Row 39.10: ILR Gross Derivative Assets ■□ 
+The calculation of ILR gross derivative assets is performed by contractual netting set.  A contractual 
+netting set is the set of all contracts subject to master netting agreement. Derivative transactions not 
+subject to a master netting agreement are their own contractual netting set.   
+ 
+ILR gross derivative assets is the sum of the netting sets that have positive replacement costs from 
+the perspective of the insurer (i.e. the insurer’s current position has a positive market value). 
+ 
+ 
+� max(𝑒𝑒𝑓𝑓𝑓𝑓𝑢𝑢𝑢𝑢 𝑓𝑓𝑢𝑢𝑅𝑅𝑂𝑂𝑎𝑎𝑐𝑐𝑢𝑢𝑟𝑟𝑢𝑢𝑒𝑒𝐿𝐿 𝑐𝑐𝑓𝑓𝑢𝑢𝐿𝐿 𝑓𝑓𝑓𝑓 𝑢𝑢𝑢𝑢𝑓𝑓𝑖𝑖𝐷𝐷𝑎𝑎𝐿𝐿𝑖𝑖𝐷𝐷𝑢𝑢𝑢𝑢 𝑖𝑖𝑒𝑒 𝑒𝑒𝑢𝑢𝐿𝐿𝐿𝐿𝑖𝑖𝑒𝑒𝑒𝑒 𝑢𝑢𝑢𝑢𝐿𝐿, 0)
+𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑖𝑖𝑛𝑛𝑛𝑛 𝑠𝑠𝑛𝑛𝑛𝑛𝑠𝑠
+ 
+ 
+Do not include the value of any bifurcated embedded derivatives related to insurance contracts. The 
+liquidity risk on these products is assessed using Row 33. Include any bifurcated embedded 
+derivatives that do not have a host insurance contract.  
+ 
+ 
+Row 39. 11.1: Dollar value of additional posted variation margin in response to 100 bps 
+increase/decrease in reference rate ■□ 
+Report the dollar value of additional posted variation margin in response to 100 bps 
+increase/decrease in reference rate. If separate accounts cannot be separated, provide the value for 
+both GA and SA and mention it in the Explanatory Statement.  
+ 
+Row 39.11.2: Maximum 10-day cash outflows related to margin and collateral calls during the 
+reporting year ■□ 
+Report the m aximum 10-day (using a moving time window) cash outflows related to margin and 
+collateral calls during the reporting year . These maximum outflows should cover all margin and 
+collateral calls of an insurance group. If separate accounts cannot be separated, provide the value 
+for both GA and SA and mention it in the Explanatory Statement.  
+ 
+Row 39.11.3: Average 10-day cash outflows related to margin and collateral calls during the 
+reporting year ■□ 
+Report the average  10-day (using a moving time window) cash outflows related to margin and 
+collateral calls during the reporting year . These average outflows should cover all margin and 
+collateral calls of an insurance group. If separate accounts cannot be separated, provide the value 
+for both GA and SA and mention it in the Explanatory Statement.  
+ 
+Row 40.A: Gross notional amount of derivatives:  ■■
+
+Row 40.A.1: Gross notional amount of derivatives contracts:  ■■ 
+Report the total gross notional amount of derivatives. The notional amount  of derivatives whether 
+with positive or negative value should be added. For example, if the insurer has two offsetting 
+positions, it should sum up the absolute value of the positions to reach a gross notional number 
+rather than offset the positions to arrive at a lower value. Do not include bifurcated embedded 
+derivatives.  
+ 
+Row 40.A.1.1: of which are deriv. contracts with currently negative market/fair value              ■■ 
+ 
+Row 40.A.1.a: of which are over–the-counter derivatives contracts.  ■■ 
+ 
+Row 40.A.1.a.CC: of which are OTC derivatives contracts that are centrally cleared ■■ 
+ 
+Row 40.A.H: Gross notional amount  of derivatives used to hedge guarantees on variable 
+insurance products: ■■ 
+Report the total gross notional amount of derivatives that are used to hedge guarantees on variable 
+insurance products (as defined in Section 3.10). This row is a subset of Row 40.A.1. 
+ 
+Row 40.B: Potential future exposure (automatically calculated): ■■ 
+Report the amount for potential future exposure, which is obtained by multiplying the notional 
+principal amount of derivatives by a factor depending on the type of derivative and residual maturity. 
+These factors estimate the potential future exposure for 10 trading-day horizon.  
+ 
+For the 2020 exercise a tool (“Row 40 Tool”  tab) was included in the Template file to help firms 
+accurately complete this section. In an effort to improve data quality and avoid resubmissions, firms 
+should report the notional principal amount within the tool's tables (each one corresponds to a single 
+main Template row). Once complete, the tool calculates each potential future exposure row for 
+reporting within the main Template. Included within the tool are simple logic test highlighting unlikely 
+results.  
+ 
+The following matrix, also included within the tool, gives the proper factors according to the type of 
+derivatives and maturity: 
+ 
+ Interest 
+rates 
+FX and 
+Gold 
+Credit 
+(investment 
+grade 
+reference 
+asset) 
+Credit 
+(non-
+investment 
+grade 
+reference 
+asset) 
+Equities 
+Precious 
+metals 
+except 
+gold 
+Other 
+commodities 
+One year 
+or less 0.0% 1.0% 5.0% 10.0% 6.0% 7.0% 10.0% 
+Over one 
+year to 
+five 
+years 
+0.5% 5.0% 5.0% 10.0% 8.0% 7.0% 12.0% 
+Over five 
+years 1.5% 7.5% 5.0% 10.0% 10.0% 8.0% 15.0%
+
+List insurance linked derivatives together with their treatment concerning the potential future 
+exposure calculation in the Explanatory Statement. 
+ 
+Row 40.B.1: Report the PFE for all derivatives with a net positive fair value ■■ 
+ 
+Row 40.B.1.a: Report the potential future exposure for all over -the-counter derivatives with a net 
+positive fair value ■■ 
+ 
+Row 40.B.1.a.1: Report the potential future exposure for all over-the-counter derivatives conducted 
+with a financial counterparty that have a net positive fair value. ■■ 
+ 
+Row 40.B.2: Report the potential future exposure for all derivatives with a net negative fair value
+ ■■ 
+ 
+Row 40.B.2.a: Report the potential future exposure for all over -the-counter derivatives with a net 
+negative fair value ■■ 
+ 
+Row 40.B.2.a.1: Report the potential future exposure for all over-the-counter derivatives conducted 
+with a financial counterparty that have a net negative fair value. ■■ 
+ 
+Interplays with Sector-wide Monitoring 
+Data elements below connect and explore the interplays of the IIM and SWM. These shared data 
+elements facilitate a more integrated view on the possible build- up of systemic risk in the global 
+insurance sector and enrich the GME’s necessary forward -looking perspective. Report all data 
+elements (except Rows 62 to 64.2 , 68.S and 69.S) only for general accounts. The data elements 
+below will be collected in a separate sheet “Global Monitoring Exercise”) 
+ 
+Row 65: Total investments, excl. separate accounts ■□ 
+Report the aggregate market value of all investments (excl. unit -linked assets) done by insurer. It 
+includes all bonds, shares, real estate investments, cash investments or other means of asset 
+allocation. The reported value covers all investments regardless credit quality, maturity, yield or 
+counterparty. This row includes general account part of rows: 20.1, 21.1, 22.1 and 23.1. Furthermore, 
+this row also includes real estate investments (rows 65.4.1 and 65.4.2) and any other type of asset 
+allocation that is not mentioned above. 
+ 
+Row 65.CRE: of which are commercial real estate (CRE) exposures, including indirect (eg  loans, 
+equities) and direct real estate holdings (these exposures should be reported in parallel under 
+relevant 65.x rows). ■□ 
+ 
+Row 65.UGL: Unrealised gains and losses from all investments (GA only) ■□ 
+Report unrealised gains and losses from all investments (GA only) during the reporting period.
+
+Row 65.E: Equities, excl. separate accounts  ■□ 
+Report all holdings of equity belonging to general account only . Include investments in collective 
+investment vehicles, including mutual funds, ETFs, UCITs , etc. (eg. equity, bond, hybrid and money 
+market funds) that are administered outside of the reporting group. Exclude any debt or lending that, 
+in some jurisdictions, may be called equity such as hybrid securities if you already reported it under 
+corporate debt. 
+ 
+𝐑𝐑𝐑𝐑𝐑𝐑 𝟔𝟔 𝟓𝟓 . 𝐄𝐄  (𝐆𝐆 𝐀𝐀 𝐑𝐑 𝐨𝐨𝐨𝐨𝐨𝐨) ≤ 𝐑𝐑𝐑𝐑𝐑𝐑 𝟐𝟐 𝟑𝟑 . 𝟏𝟏 (𝐆𝐆 𝐀𝐀 + 𝐒𝐒 𝐀𝐀) 
+ 
+Row 65.E.F: of which are equities from financial institutions (eg. banks, insurers and investment 
+funds) ■□ 
+Row 65.E.U: of which unlisted equities ■□ 
+Row 65.E.IF: of which are all types of investment funds (eg. mutual funds, MMFs, ETFs or hedge 
+funds) ■□ 
+ 
+𝐑𝐑
+𝐑𝐑𝐑𝐑𝐑𝐑 (𝟗𝟗. 𝟓𝟓. 𝟏𝟏
+𝟎𝟎
+. 𝟏𝟏. 𝐀𝐀 + 𝟗𝟗
+. 𝟓𝟓. 𝟏𝟏
+𝟎𝟎
+. 𝟐𝟐. 𝐀𝐀 + 𝟗𝟗
+. 𝟓𝟓. 𝟏𝟏
+𝟎𝟎
+. 𝟑𝟑. 𝐀𝐀
+)  ≤ 𝐑𝐑𝐑𝐑𝐑𝐑 𝟔𝟔
+𝟓𝟓
+. 𝐄𝐄. 𝐈𝐈𝐈𝐈 
+ 
+Row 65.1: Sovereign bonds, excl. separate accounts  ■□ 
+Report the aggregate value (excl. unit-linked assets) of all sovereign counterparty exposure, on an 
+immediate risk basis, held either outright or through participation in publicly traded collective investment 
+vehicles. Sovereign bonds include bonds issued by public authorities, whether by central 
+governments, supra -national government institutions, multilateral international banks, regional 
+governments or local authorities and bonds that are fully, unconditionally and irrevocably guaranteed 
+by a Member State’s central government and central bank, denominated and funded in the domestic 
+currency of that central government and the central bank, multilateral development or international 
+organisations. This row includes rows 9.5.1, 9.5.2, 9.5.3 and other sovereign bond investments (with 
+lower quality). Do not include any securitizations as reported in the row 65.Z. 
+ 
+Row 65.1.1: of which are Credit Rating Step <4 (above investment grade) ■□ 
+Row 65.1.2: of which are Credit Rating Step 4 (investment grade) ■□ 
+Row 65.1.3: of which are Credit Rating Step >4 (below investment grade) ■□ 
+Row 65.1.4: of which are Unrated ■□ 
+ 
+For the credit steps, refer to the table below (internal ratings may be used for loans & mortgages).  
+Credit 
+Rating 
+Steps 
+S&P Moody’s Fitch DBRS AM 
+Best 
+NAIC 
+Desig-
+nations 
+Chinese 
+ratings 
+Japan 
+Credit 
+Rating 
+Agency 
+R&I 
+(Japan) 
+1 AAA Aaa AAA AAA    AAA AAA
+
+2 AA / A-
+1 Aa / P-1 AA / 
+F1 
+AA / R-
+1 A+   AA / J-1 AA / a-1 
+3 A / A-2 A / P-2 A / F2 A / R-2 A 1 AAA A / J-2 A / a-2 
+4 BBB / 
+A-3 Baa / P-3 BBB / 
+F3 
+BBB / 
+R-3 B+ 2  BBB / J-
+3 
+BBB / a-
+3 
+5 BB Ba BB BB B 3 AA/A1, 
+A/A2 BB BB 
+6 B / B B / NP B / B B / R-4 C+ 4 BBB/A3, 
+BB, B B / NJ B / b 
+7 
+CCC / 
+C and 
+lower 
+Caa and 
+lower 
+CCC / 
+C and 
+lower 
+CCC / 
+R-5 
+and 
+lower 
+C and 
+lower 5 CCC and 
+lower 
+CCC 
+and 
+lower 
+CCC / c 
+and 
+lower 
+ 
+Additionally, participating insurers  can use ratings issued by a rating agency that the banking 
+regulator in its jurisdiction (or for a subsidiary, in the subsidiary’s jurisdiction) has recognised as an 
+External Credit Assessment Institution (ECAI) under the Basel II framework. The credit rating step 
+corresponding to a rating produced by such an agency is the Basel II rating category to which the 
+supervisor has mapped the rating (the combined rating class AAA/AA corresponds to the IIM credit 
+rating step 2). 
+ 
+Row 65.2: Corporate bonds, excl. separate accounts  ■□ 
+Report total account market value (excl. unit -linked assets), held either outright or through 
+participation in publicly traded collective investment vehicles, invested in any type of corporate debt 
+securities, including commercial paper. Include both cover ed and also non- covered debt. “Debt 
+securities” include only plain- vanilla assets whose value is readily available based on standard 
+methods and does not depend on private knowledge (ie. excluding structured products or 
+subordinated debt). This row includes the row 9.5.5 and other non-investment grade corporate debt. 
+Equity instruments are not included. Do not include any securitizations as reported in the row 65.Z. 
+ 
+Row 65.2.F: of which are corp.bonds from financial institutions (eg. banks, insurers and investment 
+funds) ■□ 
+Row 65.2.1: of which are Credit Rating Step <4 (above investment grade) ■□ 
+Row 65.2.2: of which are Credit Rating Step 4 (investment grade) ■□ 
+Row 65.2.3: of which are Credit Rating Step >4 (below investment grade) ■□ 
+Row 65.2.4: of which are Unrated ■□ 
+ 
+Row 65.Z: Securitizations (including CLOs), excl. separate accounts  ■□
+
+Report the market value (excl. unit-linked assets) of all securitizations. Securitization is the financial 
+practice of pooling various types of contractual debt such as residential mortgages, commercial 
+mortgages, auto loans or credit card debt obligations (or other non- debt assets which generate 
+receivables) and selling their related cash flows to third party investors as securities, which may be 
+described as bonds, pass-through securities, or collateralized loan obligations (CLOs). Investors are 
+repaid from the principal and interest cash flows collected from the underlying debt and redistributed 
+through the capital structure of the new financing. Include CLOs into this row. 
+ 
+Row 65.Z.M: of which are securitizations backed by mortgages or loans collateralized by real estate 
+collateral ■□ 
+Row 65.Z.F: of which are securitizations from financial institutions (eg. banks, insurers and 
+investment funds) ■□ 
+Row 65.Z.1: of which are Credit Rating Step <4 (above investment grade) ■□ 
+Row 65.Z.2: of which are Credit Rating Step 4 (investment grade) ■□ 
+Row 65.Z.3: of which are Credit Rating Step >4 (below investment grade) ■□ 
+Row 65.Z.4: of which are Unrated ■□ 
+ 
+Row 65.3: Loans and Mortgage loans, excl. separate accounts  ■□ 
+Report total account market value (excl. unit -linked assets), held either outright or through 
+participation in publicly traded collective investment vehicles, invested in loans or mortgages. Do not 
+include securitisations. Internal ratings may be used for the credit rating splits. 
+ 
+Row 65.3.M: of which are mortgages or loans backed by real estate collateral ■□ 
+Row 65.3.F: of which are loans granted to financial institutions (eg. banks, insurers and investment 
+funds) ■□ 
+Row 65.3.1: of which are Credit Rating Step <4 (above investment grade) ■□ 
+Row 65.3.2: of which are Credit Rating Step 4 (investment grade) ■□ 
+Row 65.3.3: of which are Credit Rating Step >4 (below investment grade) ■□ 
+Row 65.3.4: of which are Unrated ■□ 
+ 
+Row 65.4: Real estate, excl. separate accounts  ■□ 
+Report market value of all real estate investments (for the whole insurance group). Include two 
+categories: 
+• Direct real estate investments (eg. direct property held, property for own use); 
+• Indirect real estate investment ( eg. through real estate funds or other vehicles).  Equity or 
+debt issued by real estate corporations should not be included. 
+ 
+Row 65.5: Reinsurance recoverables, excl. separate accounts  ■□ 
+Report the aggregate value of gross recoverables from ceded business. The term recoverable refers 
+to the portion of an insurance/reinsurance company’s losses from claims that can be recovered from
+
+reinsurance companies. They include the amount owed to the insurer/reinsurer by the reinsurer for 
+claims and claims-related expenses, the amount owed for estimated losses that have occurred and 
+been reported, the amount of incurred but not reported (IBNR) losses, and the number of unearned 
+premiums paid to the reinsurer. Gross means that these values include collateral and other offsetting 
+items. 
+ 
+𝟐𝟐𝟕𝟕. 𝟏𝟏. 𝐂𝐂 (𝐆𝐆𝐀𝐀 + 𝐒𝐒𝐀𝐀)  ≥ 𝟔𝟔𝟓𝟓. 𝟓𝟓 (𝐆𝐆𝐀𝐀 𝐑𝐑𝐨𝐨𝐨𝐨𝐨𝐨) 
+𝟔𝟔𝟓𝟓. 𝟓𝟓 (𝐆𝐆𝐀𝐀, 𝐚𝐚𝐨𝐨𝐨𝐨 𝐭𝐭𝐨𝐨𝐭𝐭𝐭𝐭𝐑𝐑) ≥ 𝟑𝟑𝟖𝟖. 𝟔𝟔 (𝐆𝐆𝐀𝐀, 𝐑𝐑𝐨𝐨𝐨𝐨𝐨𝐨 𝐜𝐜𝐚𝐚𝐑𝐑𝐜𝐜) 
+ 
+Row 65.6: Reinsurance assets, excl. separate accounts  ■□ 
+Report the aggregate value of reinsurance assets (funds withheld, assets in trust, or similar assets, 
+excl. unit-linked assets) that are not included in the row 65.5. Include any investments into non -
+affiliated reinsurance companies (outside of your insurance group) or special purpose vehicles which 
+serve to reinsurance or risk transfer purposes.  This row includes assets withheld by the ceding 
+insurer held in a segregated account or trust and established pursuant to contracts of ceded re -
+insurance.   
+Row 65.6.1: of which are equities ■□ 
+Row 65.6.2: of which are corporate debt securities ■□ 
+Row 65.6.3: of which are sovereign bonds ■□ 
+Row 65.6.4: of which are loans and mortgages ■□ 
+Row 65.6.5: of which are securitizations (including CLOs) ■□ 
+Row 65.6.6: of which are other reinsurance assets (automatically calculated field) ■□ 
+ 
+Row 65.7: Deferred acquisition costs ■□ 
+Report the aggregate value of deferred acquisition costs . Deferred acquisition costs (DAC) is an 
+asset on the balance sheet representing the deferral of the cost of acquiring new 
+insurance/reinsurance contracts, thereby amortising the costs over their duration. 
+Insurance/reinsurance companies face large upfront c osts incurred in issuing new business, such 
+as commissions to sales agents, underwriting, bonus interest and other acquisition expenses. 
+ 
+ 
+Row 65.8: Intangibles and goodwill ■□ 
+Report value of all group intangibles including goodwill . An intangible asset (an intangible) is an 
+asset that lacks physical substance. Examples are patents, copyright, franchises, goodwill, 
+trademarks, and trade names, as well as software. This is in contrast to physical assets (machinery, 
+buildings, etc.) and financial assets (bonds and equities, etc.). The goodwill is an intangible asset 
+recognized when a firm is purchased as a going concern. It reflects the premium that the buyer pays 
+in addition to the net value of its other assets. Goodwill is often underst ood to represent the firm's 
+intrinsic ability to acquire and retain customer business, where that ability is not otherwise attributable 
+to brand name recognition, contractual arrangements or other specific factors.
+ 
+ 
+ 
+Row 65.10: Infrastructure investing ■□
+
+Report total market value of the exposure to infrastructure investing. Infrastructure is defined as the 
+basic physical and organizational structures needed for the operation of a society or enterprise. 
+Traditional infrastructure subsectors include social i nfrastructure (schools, hospitals, etc., typically 
+built under public -private partnership frameworks), utilities (gas, water/waste and electricity 
+networks), transportation (toll roads, airports and seaports) and energy infrastructure (power 
+generation and midstream assets, such as pipelines). Infrastructure is an asset class that emerged 
+in the mid-1990s and is typically considered in a portfolio context alongside other private markets 
+asset classes, such as private equity and real estate. However, infrast ructure investments share 
+certain attributes that make them unique and are meant to provide steady, reliable returns across a 
+wide variety of economic conditions.  
+Returns are generally inclusive of a cash yield, which is beneficial for investors who seek income as 
+well as total return.
+ 
+ 
+Row 65.OA: Other assets, excl. separate accounts (automatically calculated) ■□ 
+Others assets belonging to the general accounts are automatically calculated in the Template using 
+the following formula: 
+𝑂𝑂𝐿𝐿ℎ𝑢𝑢𝑓𝑓 𝑎𝑎𝑢𝑢𝑢𝑢𝑢𝑢𝐿𝐿𝑢𝑢 = 𝑇𝑇𝑓𝑓𝐿𝐿𝑎𝑎𝑂𝑂 𝑎𝑎𝑢𝑢𝑢𝑢𝑢𝑢𝐿𝐿𝑢𝑢 −  𝐶𝐶𝐿𝐿𝑢𝑢𝑖𝑖𝐿𝐿𝑖𝑖𝑢𝑢𝑢𝑢  −  𝑆𝑆𝑓𝑓𝐷𝐷𝑢𝑢𝑓𝑓𝑢𝑢𝑖𝑖𝑒𝑒𝑒𝑒 𝑏𝑏𝑓𝑓𝑒𝑒𝑢𝑢𝑢𝑢 −  𝐶𝐶𝑓𝑓𝑓𝑓𝑅𝑅𝑓𝑓𝑓𝑓𝑎𝑎𝐿𝐿𝑢𝑢 𝑏𝑏𝑓𝑓𝑒𝑒𝑢𝑢𝑢𝑢 
+−  𝐼𝐼𝑓𝑓𝑎𝑎𝑒𝑒𝑢𝑢&𝑟𝑟𝑓𝑓𝑓𝑓𝐿𝐿𝑒𝑒𝑎𝑎𝑒𝑒𝑢𝑢𝑢𝑢 −  𝑆𝑆𝑢𝑢𝑐𝑐𝑢𝑢𝑓𝑓𝑖𝑖𝐿𝐿𝑖𝑖𝑆𝑆𝑎𝑎𝐿𝐿𝑖𝑖𝑓𝑓𝑒𝑒𝑢𝑢 −  𝐶𝐶𝑢𝑢𝑎𝑎𝑂𝑂 𝑢𝑢𝑢𝑢𝐿𝐿𝑎𝑎𝐿𝐿𝑢𝑢 −  𝐶𝐶𝑎𝑎𝑢𝑢ℎ
+− 𝐶𝐶𝑢𝑢𝑖𝑖𝑒𝑒𝑢𝑢𝑢𝑢𝑓𝑓𝑎𝑎𝑒𝑒𝑐𝑐𝑢𝑢 𝑎𝑎𝑢𝑢𝑢𝑢𝑢𝑢𝐿𝐿𝑢𝑢 − 𝐷𝐷𝐴𝐴𝐶𝐶 
+No values should be reported in blue cells. Provide clarification which asset classes you have 
+included in the “Other assets” category in the column “Explanations” if a share of “Other assets” on 
+all total assets (general account) is above 20%. 
+ 
+In Rows 66 to 69 split premium and provisions data into life business, captured in the *.1 rows and 
+non-life including health business, captured in the *.2 rows. 
+Rows 66.1 and 66.2: Total gross written premium, excl. separate accounts ■□ 
+Report all premiums written by all entities in all countries  that belong to general accounts. Exclude 
+any business belonging to separate accounts or unit -linked products.  These premiums are the 
+contractually determined premiums on all policies which a company has issued in the period 
+specified for this report, regardless of how they are accounted for under the national GAAP. For non-
+life insurance and reinsurance, gross pr emiums are the sum of direct premiums written and 
+assumed, both earned and unearned, b efore any outgoing reinsurance . Assumed premiums are 
+included. For life insurance and reinsurance, gross premiums that should be included are the stock 
+of insurance written that is recognised that year as earned on the Income Statement and the new 
+flow written that year. If the number is different from what is reported on the Income Statement, 
+provide details in the Explanatory Statement. Premiums for contracts where insurers do not accept 
+material insurance risk from policyholders should be excluded. 
+ 
+𝐺𝐺𝑓𝑓𝑓𝑓𝑢𝑢𝑢𝑢 𝑤𝑤𝑓𝑓𝑖𝑖𝐿𝐿𝐿𝐿𝑢𝑢𝑒𝑒 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 = 𝐷𝐷𝑖𝑖𝑓𝑓𝑢𝑢𝑐𝑐𝐿𝐿 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 + 𝐴𝐴𝑢𝑢𝑢𝑢𝑢𝑢𝑟𝑟𝑢𝑢𝑢𝑢 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 
+Provide gross written premium split both life and non-life (including health) business lines. If the split 
+is not readily available, provide division on the best effort basis. 
+ 
+𝟏𝟏𝟖𝟖 ≥  𝟔𝟔𝟔𝟔. 𝟏𝟏 + 𝟔𝟔𝟔𝟔. 𝟐𝟐 
+𝟏𝟏𝟖𝟖 =  𝟔𝟔𝟔𝟔 + 𝟔𝟔𝟔𝟔. 𝐒𝐒 (a linkage with the sheet 1)
+
+Row 66.S: Total gross technical provision – separate accounts only □■ 
+This row is automatically calculated and equal to a difference between rows 18 and 66. 
+ 
+Row 66.A: Assumed premiums, excl. separate accounts ■□ 
+Report all premium s assumed by  all entities in all countries. Assumed premiums are secondary 
+premiums that were directly written by other insurers (ie primary insurers) and subsequently ceded 
+to the reinsurers. Assumed premiums include also premiums that were retroceded by some 
+reinsurers to other reinsurers. 
+ 
+𝐴𝐴𝑢𝑢𝑢𝑢𝑢𝑢𝑟𝑟𝑢𝑢𝑢𝑢 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 = 𝐺𝐺𝑓𝑓𝑓𝑓𝑢𝑢𝑢𝑢 𝑤𝑤𝑓𝑓𝑖𝑖𝐿𝐿𝐿𝐿𝑢𝑢𝑒𝑒 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 −  𝐷𝐷𝑖𝑖𝑓𝑓𝑢𝑢𝑐𝑐𝐿𝐿 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 
+Provide assumed premiums split both life and non-life (including health) business lines. If the split is 
+not readily available, provide division on the best effort basis. 
+ 
+ 𝟔𝟔𝟔𝟔. 𝟏𝟏  (𝐆𝐆𝐆𝐆𝐆𝐆 𝐨𝐨𝐥𝐥𝐥𝐥𝐭𝐭 𝐛𝐛𝐛𝐛𝐑𝐑𝐥𝐥𝐨𝐨𝐭𝐭𝐑𝐑𝐑𝐑) ≥  𝟔𝟔𝟔𝟔. 𝐀𝐀. 𝟏𝟏 (𝐚𝐚𝐑𝐑𝐑𝐑𝐛𝐛𝐚𝐚𝐭𝐭𝐚𝐚 𝐭𝐭𝐩𝐩𝐭𝐭𝐚𝐚𝐥𝐥𝐛𝐛𝐚𝐚𝐑𝐑 𝐨𝐨𝐥𝐥𝐥𝐥𝐭𝐭 𝐛𝐛𝐛𝐛𝐑𝐑𝐥𝐥𝐨𝐨𝐭𝐭𝐑𝐑𝐑𝐑) 
+ 
+𝟔𝟔𝟔𝟔. 𝟐𝟐 (𝐆𝐆𝐆𝐆𝐆𝐆 𝐨𝐨𝐑𝐑𝐨𝐨𝐨𝐨𝐥𝐥𝐥𝐥𝐭𝐭 𝐛𝐛𝐛𝐛𝐑𝐑𝐥𝐥𝐨𝐨𝐭𝐭𝐑𝐑𝐑𝐑) ≥  𝟔𝟔𝟔𝟔. 𝐀𝐀. 𝟐𝟐 (𝐚𝐚𝐑𝐑𝐑𝐑𝐛𝐛𝐚𝐚𝐭𝐭𝐚𝐚 𝐭𝐭𝐩𝐩𝐭𝐭𝐚𝐚𝐥𝐥𝐛𝐛𝐚𝐚𝐑𝐑 𝐨𝐨𝐑𝐑𝐨𝐨𝐨𝐨𝐥𝐥𝐥𝐥𝐭𝐭 𝐛𝐛𝐛𝐛𝐑𝐑𝐥𝐥𝐨𝐨𝐭𝐭𝐑𝐑𝐑𝐑) 
+ 
+Row 66.C: Ceded premiums, excl. separate accounts ■□ 
+Report all ceded premiums. Ceded premiums means  all premiums (including policy fees), 
+considerations, deposits and other similar amounts actually paid by a ceding insurer and received 
+by the cedent (a reinsurer) as a part of the reinsured policies, net of the amount deemed payable in 
+respect of reinsur ance premiums. A ceding insurer is an insurer that underwrites and issues an 
+original, primary policy to an insured and contractually transfers (cedes) a portion of the risk to the 
+cedent (a reinsurer). 
+ 
+𝐶𝐶𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 = 𝐺𝐺𝑓𝑓𝑓𝑓𝑢𝑢𝑢𝑢 𝑤𝑤𝑓𝑓𝑖𝑖𝐿𝐿𝐿𝐿𝑢𝑢𝑒𝑒 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 −  𝐺𝐺𝑢𝑢𝐿𝐿 𝑤𝑤𝑓𝑓𝑖𝑖𝐿𝐿𝐿𝐿𝑢𝑢𝑒𝑒 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢  
+Provide net written premium split both life and non-life (including health) business lines. If the split is 
+not readily available, provide division on the best effort basis. 
+ 
+Rows 67.1 and 67.2: Total net written premium (automatically calculated) ■□ 
+Report all net premium written by all entities in all countries after ceding a part of gross written 
+premiums to reinsurers. These premiums are the contractually determined premiums on all policies 
+which a company has issued in the period specified for thi s report, regardless of how they are 
+accounted for under the national GAAP. For non -life insurance and reinsurance, net premiums are 
+the sum of direct premiums written and assumed, both earned and unearned, after considering 
+reinsurance protection. Assumed premiums are included. 
+ 
+For life insurance and reinsurance, net premiums that should be included are the stock of insurance 
+written that is recognised that year as earned on the Income Statement and the new flow written that 
+year. If the number is different from what is reported on the Income Statement, provide details in the 
+Explanatory Statement. Premiums for contracts where insurers do not accept material insurance risk
+
+from policyholders should be excluded. Net written premiums may be calculated using the following 
+formula: 
+ 
+𝐺𝐺𝑢𝑢𝐿𝐿 𝑤𝑤𝑓𝑓𝑖𝑖𝐿𝐿𝐿𝐿𝑢𝑢𝑒𝑒 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 = 𝐺𝐺𝑓𝑓𝑓𝑓𝑢𝑢𝑢𝑢 𝑤𝑤𝑓𝑓𝑖𝑖𝐿𝐿𝐿𝐿𝑢𝑢𝑒𝑒 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 −  𝐶𝐶𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 
+ 
+Provide net written premium split both life and non-life (including health) business lines. If the split is 
+not readily available, provide division on the best effort basis. 
+ 
+𝟏𝟏𝟖𝟖 − 𝟏𝟏𝟖𝟖. 𝟏𝟏 ≥  𝟔𝟔𝟕𝟕. 𝟏𝟏 + 𝟔𝟔𝟕𝟕. 𝟐𝟐 
+ 
+Row 68.S: Total gross technical provision – separate accounts only □■ 
+Report total gross (gross of reinsurance) technical provisions which belong to separate accounts 
+only. 
+ 
+Rows 68.1 and 68.2: Total gross technical provision, excl. separate accounts ■□ 
+Report total gross (gross of reinsurance) technical provisions which are held for the purpose of 
+fulfilling insurance contracts (including policyholder dividends, funds held pursuant to reinsurance 
+treaties, future policy benefits, policyholder account balances, loss reserves, asset valuation 
+reserves and interest maintenance reserves related to insurance products, and unearned premiums 
+reserves and excluding advance premiums received). Report values before considering any 
+outgoing reinsurance.  Technical provisions related to assumed premiums (ceded from other 
+insurers) are included. Reinsurance recoverables (on the asset side) should not be deducted from 
+gross technical provisions. Reinsurance recoverables should not be taken into calculation of gross 
+technical provisions. Report total gross technical provisions for all lines of business. 
+ 
+Provide gross technical provisions split both life and non-life (including health) business lines. If the 
+split is not readily available, provide division on the best effort basis. 
+ 
+Row 69.1: Total life net technical provision, excl. separate accounts ■□ 
+Report total life net (net of reinsurance) technical provisions which are held for the purpose of fulfilling 
+insurance contracts (including policyholder dividends, funds held pursuant to reinsurance treaties, 
+future policy benefits, policyholder account balances, loss reserves, asset valuation rese rves and 
+interest maintenance reserves related to insurance products, and unearned premiums reserves and 
+excluding advance premiums received). Report values after considering any reinsurance contract or 
+cession.  
+ 
+Row 69.1.1: of which are long-term liabilities (with maturity longer than 5 years) ■□ 
+Row 69.1.2: of which are mid-term liabilities (with maturity between 1-5 years) ■□ 
+Row 69.1.3: of which are short-term liabilities (with maturity shorter than 1 year) ■□ 
+ 
+Row 69.2: Total non-life and health net technical provision, excl. sep. accounts ■□
+
+Report total non-life and health net (net of reinsurance) technical provisions which are held for the 
+purpose of fulfilling insurance contracts (including policyholder dividends, funds held pursuant to 
+reinsurance treaties, future policy benefits, policyholder account balances, loss reserves, asset 
+valuation reserves and interest maintenance reserves related to insurance products, and unearned 
+premiums reserves and excluding advance premiums received). Report values after considering any 
+reinsurance contract or cession.  
+ 
+Row 69.2.1: of which are long-term liabilities (with maturity longer than 5 years) ■□ 
+Row 69.2.2: of which are mid-term liabilities (with maturity between 1-5 years) ■□ 
+Row 69.2.3: of which are short-term liabilities (with maturity shorter than 1 year) ■□ 
+ 
+Row 69.S: Total net technical provision – separate accounts only □■ 
+Report total net (net of reinsurance) technical provisions which belong to separate accounts only. 
+Monitoring of derivatives  
+Row 75: Split of derivative transactions ■■ 
+Report a s plit of derivative transactions  into six below listed categories. Provide split for g ross 
+notional amounts (GNA) and market value of the derivative transactions. The gross notional amount 
+of derivatives whether with positive or negative value should be added. For example, if the insurer 
+has two offsetting positions (+1000 and -500), it should sum up the absolute value of the positions 
+to reach a gross notional number (GNA of this example = |1000| + |-500| = 1500) rather than offset 
+the positions to arrive at a lower value. Do include bifurcated embedded derivatives.  The market 
+value of derivatives with positive or negative value should be added  and offset each other.  For 
+example, if the insurer has two offsetting positions (+100 and -50), it should sum up the value (not 
+absolute) of the positions to reach the total market value (+100 – 50 = +50). In addition to GNA and 
+market values, provide best effort % estimates of: 
+• GNA which is centrally cleared - Centrally-cleared derivatives are negotiated between the 
+counterparties but contain standardized terms and are traded through a central clearing 
+house. 
+• GNA used for hedging or efficient portfolio management (ie dynamic hedging, any form of 
+hedging accounting and efficient portfolio management strategies, including cost reduction, 
+anticipate re-investments or income enhancement , the residual part will be considered as 
+derivatives held for speculative purposes) 
+• GNA belonging to option derivative contracts (exclud ing swaps, forwards and futures)  – 
+Option derivative contracts include also embedded options. 
+ 
+Row 75.1: of which are interest rate derivatives ■■ 
+Row 75.2: of which are equity-linked derivatives  ■■ 
+Row 75.3: of which are foreign exchange derivatives  ■■ 
+Row 75.4: of which are credit risk derivatives (including CDS)  ■■ 
+Row 75.5: of which are derivatives related to life (re)insurance (e.g. derivatives related to transfers 
+of longevity or mortality risks)   ■■
+
+Row 75.6: of which are other derivatives (residual category of derivatives not including in rows 
+75.1 – 75.5)                                   ■■ 
+Reinsurance 
+Row 85.1 Total Technical Provisions ceded to non-affiliates ■□ 
+Report gross technical provisions ceded or retroceded to non -affiliated counterparties. This should 
+be gross of any payable or reinsurance asset recognised. This total should also include total reserve 
+credit taken. Exclude technical provisions relating to accident and health. 
+ 
+Row 85.2 Total Technical Provisions ceded due to ModCo and coinsurance ■□ 
+Report the sub-total of 85.1 that are ceded due to modified coinsurance (ModCo)  and coinsurance 
+contracts, including coinsurance with funds withheld.  
+ 
+Row 85.3 Total Technical Provisions ceded to cross-border non-affiliates ■□ 
+Report the sub-total of 85.1 that are ceded to cross border non-affiliated counterparties. 
+ 
+Row 86.1 Total Technical Provisions ceded to affiliates ■□ 
+Report gross technical provisions ceded or retroceded to affiliated counterparties . This should be 
+gross of any payable or reinsurance asset recognised. This total should also include total reserve 
+credit taken. Exclude technical provisions relating to accident and health. 
+Row 86.2 Total Technical Provisions ceded due to ModCo and coinsurance ■□ 
+Report the sub-total of 8 6.1 that are ceded due to ModCo and coinsurance contracts, including 
+coinsurance with funds withheld. 
+ 
+Row 86.3 Total Technical Provisions ceded to cross-border affiliates ■□ 
+Report the sub-total of 86.1 that are ceded to cross-border affiliated counterparties. This includes all 
+internal reinsurance transactions as the reinsurance is between two entities within the same group.  
+ 
+A.2.3 SWM 2024 data template 
+ 
+  
+Derivatives, repos and securities lending: Excluding unit-linked 
+business 
+S41.G.P Gross notional amount of all OTC derivatives with positive value 
+S41.G.N 
+Gross notional amount of all OTC derivatives with negative value (please use a 
+positive sign) 
+S41.G 
+Gross notional amount of all OTC derivatives (a sum of rows S41.G.P and 
+S41.G.N)
+
+Premiums assumed, written, ceded and retroceded 
+R10 
+Total gross reinsurance premiums written and assumed (both ceded and retroceded 
+premiums from other insurers, primary insurance included (if any)) 
+R10.L          of which: Life insurance (no accident and health) 
+R10.N          of which: Non-life/Cat insurance 
+R11 
+Gross reinsurance premiums assumed from reinsurers (retrocession only, subpart of 
+R10) 
+R11.L          of which: Life insurance (no accident and health) 
+R11.N          of which: Non-life/Cat insurance 
+R12 Direct gross written premiums if any (primary insurance only, subpart of R10) 
+R12.L          of which: Life insurance (no accident and health) 
+R12.N          of which: Non-life/Cat insurance 
+R13 
+Total gross reinsurance premiums assumed (R10-R12, both ceded and retroceded 
+premiums from other insurers, primary insurance excluded (if any), automatically 
+calculated) 
+R13.L          of which: Life insurance (no accident and health) 
+R13.N          of which: Non-life/Cat insurance 
+    
+R14 All ceded/ retroceded premiums (by reporting entities, ≤ R10) 
+R14.L          of which: Life insurance (no accident and health) 
+R14.N          of which: Non-life/Cat insurance 
+R15 Net reinsurance premiums assumed (automatically calculated) 
+R15.L          of which: Life insurance (no accident and health) 
+R15.N          of which: Non-life/Cat insurance 
+ 
+ 
+A.2.3 SWM 2024 technical specifications 
+ 
+Row S41.G: Gross notional amount of all OTC derivatives  
+Report the total gross notional amount of all OTC derivatives, before any netting/offsetting. The 
+notional amount of derivatives whether with positive or negative value (please report them with a 
+positive sign) should be added/summed up in separate data rows. For example, if the insurer has 
+two offsetting positions, the indicator should sum up the absolute value of the positions to reach a 
+gross notional number rather than offset the positions to arrive at a lower value. Include bifurcated 
+embedded derivatives. CDS derivatives are included in the reported notional amounts. 
+ 
+Row R10: Total gross reinsurance premiums assumed (or premiums written)
+
+Report total gross reinsurance premiums assumed (or premiums written) for all types of reinsurance 
+coverage (in summary, all premium in-flows). Include three following kinds of premiums:  
+• Premiums ceded from primary insurers (standard reinsurance);  
+• Premiums retroceded from other reinsurers (as a part of retrocession, reported also separately in 
+the row R11);  
+• Primary direct insurance premiums written by reported reinsurers (if any, reported also separately 
+in the row R12).  
+Report all (gross of bought reinsurance) premium written by all solo reported reinsurance companies 
+in your jurisdiction. These premiums are the contractually determined premiums on all policies which 
+an entity has issued in the period specified for this report, regardless of how they are accounted for 
+under the national GAAP. Provide life and non- life sector split. For non- life insurance and 
+reinsurance, gross premiums are the sum of direct premiums written and assumed, both earned and 
+unearned, before any  outgoing reinsurance. Assumed premiums should be included. Include 
+CatRisk and health insurance under the non-life insurance. CatRisk coverage include all NatCat and 
+human catastrophes-related perils.  
+For life insurance and reinsurance, gross premiums that should be included are the stock of 
+insurance written that is recognized that year as earned on the Income Statement and the new flow 
+written that year. If the number is different from what is reported on the Income Statement, provide 
+details in the column “Explanations”. Report total gross reinsurance premiums for all lines of 
+business.  
+𝐺𝐺𝑓𝑓𝑓𝑓𝑢𝑢𝑢𝑢 𝑓𝑓𝑢𝑢𝑖𝑖𝑒𝑒𝑢𝑢𝑢𝑢𝑓𝑓𝑎𝑎𝑒𝑒𝑐𝑐𝑢𝑢 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 (𝑎𝑎𝑂𝑂𝑂𝑂 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟 𝑖𝑖𝑒𝑒𝑓𝑓𝑂𝑂𝑓𝑓𝑤𝑤𝑢𝑢) = 𝐷𝐷𝑖𝑖𝑓𝑓𝑢𝑢𝑐𝑐𝐿𝐿 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢(𝑖𝑖𝑓𝑓 𝑎𝑎𝑒𝑒𝐿𝐿) + 𝐴𝐴𝑢𝑢𝑢𝑢𝑢𝑢𝑟𝑟𝑢𝑢𝑢𝑢 
+𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 (𝑐𝑐𝑢𝑢𝑢𝑢𝑢𝑢𝑖𝑖𝑓𝑓𝑒𝑒+𝑓𝑓𝑢𝑢𝐿𝐿𝑓𝑓𝑓𝑓𝑐𝑐𝑢𝑢𝑢𝑢𝑢𝑢𝑖𝑖𝑓𝑓𝑒𝑒)  
+Provide a total for all entities in one column and a detail for only affiliate entities in a separate column. 
+An affiliate entity is an entity that is a part of the same insurance/reinsurance entity. Affiliate entities 
+may be located also in other jurisdictions.  
+Row R11: Gross reinsurance premiums assumed from reinsurers (retrocession only, subpart 
+of R10)  
+Report total gross reinsurance premiums assumed from reinsurers only for all types of reinsurance 
+coverage. It is a subpart of the row R10 and covers only reinsurance retrocession. Retrocession is 
+the reinsuring of reinsurance. Retrocession is a separate c ontract and document from the original 
+reinsurance agreement between a primary insurance company (as the reinsured) and the original 
+reinsurer. A retrocession is placed to afford additional capacity to the original reinsurer or to contain 
+or reduce the original reinsurer's risk of loss, and is either specific or blanket. A specific retrocession 
+may be a single risk only or a carefully defined group of risks, structured as pro rata or excess of 
+loss reinsurance. A blanket retrocession covers the original rei nsurer's entire net portfolio of 
+reinsured business (i.e., net in being less any specific retrocession protection) and is normally 
+structured as excess of loss reinsurance, arranged separately by major line of reinsured business 
+(i.e., property, casualty, ocean marine, aviation, accident and health, amongst  others). Provide life 
+and non-life sector split.  
+Row R12: Direct gross written premiums if any (primary insurance only, subpart of R10, 
+optional)  
+Report total gross premiums directly written by reported reinsurers for all types of insurance 
+coverage, excluding reinsurance business. Reinsurers may provide also direct insurance coverage. 
+Report amounts of direct premiums in order to capture all reinsurers’ premiums in-flows. Provide life 
+and non-life sector split.
+
+Row R14: All ceded/ retroceded premiums (by reporting entities, ≤ R10)  
+Report all ceded (or retroceded) premiums. Ceded premiums mean all premiums (including policy 
+fees), considerations, deposits and other similar amounts actually paid by a ceding reinsurer and 
+received by the cedent (a reinsurer) as a part of the reinsured policies, net of the amount deemed 
+payable in respect of reins urance premiums. A ceding reinsurer is a reinsurer that assumes/ 
+underwrites certain policies and contractually transfers (cedes/retrocedes) a portion of the risk to the 
+cedent (another reinsurer). Report total ceded/retroceded premiums for all lines of business.  
+𝐶𝐶𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 = 𝐺𝐺𝑓𝑓𝑓𝑓𝑢𝑢𝑢𝑢 𝑤𝑤𝑓𝑓𝑖𝑖𝐿𝐿𝐿𝐿𝑢𝑢𝑒𝑒 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 −𝐺𝐺𝑢𝑢𝐿𝐿 𝑤𝑤𝑓𝑓𝑖𝑖𝐿𝐿𝐿𝐿𝑢𝑢𝑒𝑒 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢  
+𝐴𝐴𝑂𝑂𝑂𝑂 𝑐𝑐𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢 𝑎𝑎𝑒𝑒𝑢𝑢 𝑓𝑓𝑢𝑢𝐿𝐿𝑓𝑓𝑓𝑓𝑐𝑐𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢 ≤ 𝐺𝐺𝑓𝑓𝑓𝑓𝑢𝑢𝑢𝑢 𝑓𝑓𝑢𝑢𝑖𝑖𝑒𝑒𝑢𝑢𝑢𝑢𝑓𝑓𝑎𝑎𝑒𝑒𝑐𝑐𝑢𝑢 𝑅𝑅𝑓𝑓𝑢𝑢𝑟𝑟𝑖𝑖𝑢𝑢𝑟𝑟𝑢𝑢  
+𝐶𝐶14 ≤𝐶𝐶10  
+Provide a detail for only affiliate entities. An affiliate entity is an entity that is a part of the same 
+insurance/reinsurance entity. Affiliate entities may be located also in other jurisdictions.

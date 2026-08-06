@@ -1,0 +1,24 @@
+{
+  "doc_id": "334b687da92b995b",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "The IAIS is committed to diversity, equity and inclusion as a global membership association - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/2022/11/the-iais-is-committed-to-diversity-equity-and-inclusion-as-a-global-membership-association/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8153aca60157bb16ec037ec19893df713494ad4fa9785c11582fe7edd3ae0092",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/334b687da92b995b",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

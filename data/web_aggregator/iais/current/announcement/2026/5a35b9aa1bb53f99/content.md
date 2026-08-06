@@ -1,0 +1,269 @@
+Restricted 
+Stakeholder Engagement October 2024 – June 2025 
+This table sets out IAIS engagement with stakeholders in the period 1 October 2024 to 30 June 2025. It includes all substantive 
+stakeholder engagement by the IAIS Secretariat, the Chair of the Executive Committee (“IAIS Chair”) and at (sub)committee 
+meetings. Additional engagement with insurers participating in the Insurance Capital Standard monitoring period and in the Global 
+Monitoring Exercise is not included in this table, due to confidentiality reasons. Engagements with members and stakeholders as 
+part of IAIS implementation assessment activities are also not included. 
+ 
+Date Stakeholder/description Location IAIS participants 
+2 Oct Toronto Centre | Topics: Update on IAIS – Toronto Centre capacity 
+building projects Basel Secretary General 
+2 Oct UN Special Rapporteur on extreme poverty and human rights | 
+Topics: climate change, insurance protection gaps virtual Secretariat Senior 
+Management member 
+7 Oct KBRA Rating Agency | Topics: Credit ratings and alternative assets  virtual MSWG, Secretariat member 
+7 Oct International Actuarial Association | Topics: Exchange on ongoing 
+IAIS-IAA projects on Artificial Intelligence virtual Secretariat member 
+14 Oct Consultative Group on Assisting the Poor summit  virtual  
+Secretary General, 
+Secretariat Senior 
+Management member
+
+Restricted 
+Date Stakeholder/description Location IAIS participants 
+21 Oct International Monetary Fund and World Bank Group Spring meetings Washington DC ExCo Chair, Secretary 
+General 
+23 Oct Institute of International Finance Annual Membership meetings  Washington DC ExCo Chair, Secretary 
+General 
+23 Oct Retirement Income and Pensions Forum stakeholder engagement | 
+Topics: pension trends and | Stakeholders: Milliman and AON virtual Secretariat member 
+26 Oct International Monetary Fund | IMF-IAIS joint panel on protection gaps  Washington DC ExCo Chair, Secretary 
+General 
+29 Oct PwC   | Topics: Valuations and alternative assets  virtual MSWG, Secretariat member 
+29 Oct S＆P Global Market Intelligence | Topics: Valuations and alternative 
+assets 
+virtual Secretariat member 
+30 Oct Geneva Association High Level Meeting | Topics: Developments in the 
+sector, protection gaps, ICS virtual 
+ExCo Chair, Vice Chairs, 
+ExCo, Secretary General, 
+Secretariat Senior 
+Management member 
+4 Nov Stakeholder Advisory Council | Topics: Emerging developments, work 
+plan priorities New York AAWG Chair, Secretariat  
+5 Nov Deloitte at MCWG meeting | Topics: Insurance conduct regulation in the 
+UK: the Consumer Duty journey Bern MCWG, Secretariat member
+
+Restricted 
+Date Stakeholder/description Location IAIS participants 
+12 Nov IFRS Advisory Council  London Secretariat Senior 
+Management member 
+17 Nov National Association of Insurance Commissioners | NAIC Fall 
+meetings, IAIS Secretariat Q&A with interested parties  Denver, CO Secretary General 
+20 Nov Finance Watch roundtable | Topics: Climate change  Virtual Secretariat Senior 
+Management member 
+21 Nov EIOPA International Insurance Conference  Frankfurt ExCo Chair  
+29 Nov United Nations Secretary-General's Special Advocate for Inclusive 
+Finance for Development | Topics: Financial inclusion, workplan   Basel Secretary General, 
+Secretariat member 
+5 Dec IAIS Annual Conference  
+Bilateral meetings: ACLI/APCIA   Cape Town 
+ExCo Chair, Vice Chairs, 
+Secretariat senior 
+management, Secretariat 
+member 
+9 Dec UNDP Insurance and Risk Finance Facility (IRFF) | Topics: climate 
+change work Virtual  Secretariat member 
+10 Dec FinTech Forum stakeholder engagement | Topics: quantum computing, 
+cyber and operational risks, underwriting   Virtual  Secretariat member 
+11 Dec AAWG Stakeholder Call | Topics: Update on AAWG workplan projects 
+and stakeholder feedback  Virtual  Secretariat member
+
+Restricted 
+Date Stakeholder/description Location IAIS participants 
+12 Dec Sustainability Assurance Update (EY) | Topics: Sustainability 
+assurance  Virtual  AAWG, Secretariat member 
+12 Dec Asian Forum of Insurance Regulators  
+Virtual 
+prerecorded 
+remarks 
+Secretary General 
+12 Dec Geneva Association roundtable on insurability of physical climate 
+risk   | Topics: the insurability of physical risk  Virtual Secretariat management 
+member, Secretariat member 
+12 Dec 
+Consumer engagement | Topics: Engaging on consumer issues  
+Organisations: Instituto de Defesa de Consumidores; Associação 
+SoIluções Inclusivas Sustentáveis 
+ Virtual  Secretariat member 
+13 Dec 
+Deloitte | Topics: Perspectives on priority regulatory topics and the 
+industry’s response to them spanning stress-testing exercises, model risk 
+management, consumer duty, the financial advice gap, motor insurance 
+pricing and profitability, and the use of AI. 
+Virtual Secretariat member
+
+Restricted 
+2025 
+Date Stakeholder/description Location IAIS participants 
+6 Jan RenRe | Topics: climate disclosure  Virtual Secretariat member 
+9 Jan American Council of Life Insurers | Topics: ACLI Executive roundtable Virtual Deputy Secretary General 
+9 Jan Universität Zürich | Topics: Transnational Insurance Law Zurich Secretariat member 
+15 Jan Glasgow Financial Alliance for Net Zero | Topics: ICS and 
+infrastructure   Virtual  Secretariat member 
+15 Jan International Actuarial Association members | Topics: Artificial 
+Intelligence   Virtual  FinTech Forum, Secretariat 
+member 
+20 Jan Asian Forum of Insurance Regulators  Kathmandu ExCo Chair, Secretary 
+General  
+22 Jan AM Best | Topics: Introductory meeting  virtual Secretariat member 
+29 Jan Zurich Insurance Company Ltd | Topics: IAIS Roadmap  Zurich Secretary General 
+6 Feb Program on International Financial Systems (PIFS) | Topics: potential 
+collaboration  Virtual  Secretary General, Deputy 
+Secretary General 
+11 Feb BIS media conference | Topics: update on IAIS Roadmap Basel Secretary General
+
+Restricted 
+Date Stakeholder/description Location IAIS participants 
+11 Feb 
+IAIS Chief Economist Roundtable | Topics: key issues impacting the 
+insurance sector, geopolitical tensions, changing credit universe, impact 
+of artificial intelligence on the sector   
+Virtual 
+MPC Chair, Secretary 
+General, Senior Management 
+member 
+12 Feb InsurImpact Conference Pakistan | Topics: prerecorded opening 
+remarks  
+Prerecorded 
+opening remarks  Secretary General 
+12 Feb 
+Retirement Income and Pensions Forum stakeholder engagement | 
+Topics: Joint workshop with OECD on pension advice | Stakeholder: 
+Super Consumer  
+Virtual  Secretariat member 
+13 Feb International Actuarial Association members | Topics: Artificial 
+Intelligence  Virtual FinTech Forum, Secretariat 
+member 
+14 Feb Baringa | Topics: climate disclosure  Virtual Secretariat member 
+21 Feb United Nations Secretary-General's Special Advocate for Inclusive 
+Finance for Development  Virtual Financial Inclusion Forum, 
+Secretariat member 
+21 Feb Consultative Group to Assist the Poor | Topics: Financial Inclusion 
+Forum preparations Virtual Secretariat member 
+25 Feb IFRS Foundation | Topics: disclosures about transition plans Virtual Secretariat member 
+3 Mar 
+Building the consumer voice in digital finance | Topics: Digital 
+Innovation, consumer voice, product development | Stakeholder: 
+Consumers International 
+London Secretariat member
+
+Restricted 
+Date Stakeholder/description Location IAIS participants 
+3 Mar PwC | Topics: ICS update Virtual Deputy Secretary General 
+4 Mar WWF | Topics: Climate and nature science implications for financial 
+sector regulation  Virtual  Secretariat member 
+12 Mar Stakeholder engagement | Topics: Risk transformation projects Sydney, Australia GWG, Secretariat member 
+13 Mar Stakeholder engagement | Topics: Ethics in the Boardroom Sydney, Australia GWG, Secretariat member 
+19 Mar InsurTech conference | Topics: Insurtech, artificial intelligence, 
+developments in the insurance sector  London ExCo Chair, Secretariat 
+management member 
+20 Mar Consultative Group on Assisting the Poor | Topics: presenting IAIS 
+work to CGAP 
+WBG, 
+Washington DC Secretariat member 
+21 Mar Bilateral with Lloyds | Topics: IAIS Roadmap London ExCo Chair  
+23 Mar National Association of Insurance Commissioners | Topics: NAIC 
+Spring meetings Q&A session  Virtual Secretary General 
+24 Mar World Federation of Insurance Intermediaries | WFII Annual Meeting 
+recorded video message 
+Pre-recorded 
+video message Secretary General  
+26 Mar European Financial Services Round Table | Annual Stakeholder 
+Round Table Topics: IAIS update  Brussels Deputy Secretary General
+
+Restricted 
+Date Stakeholder/description Location IAIS participants 
+3 Apr IAIS consumer engagement programme   Virtual Secretariat members and 
+IAIS MCWG Chair/Vice Chair 
+7 Apr Bloomberg | Topics: Climate risk Virtual  Secretariat member 
+9 Apr 
+Eurofi | Topics: Insurance protection gaps, key developments in the 
+sector  
+Bilaterals: IIF, GDV, Moody’s, Finance Watch, Prudential, Bermuda 
+Monetary Authority, Insurance Europe, Morgan Stanley  
+Warsaw ExCo Chair, Secretary 
+General 
+9 Apr FCA AI stakeholder conference | Topics: Update on IAIS’ work on AI London Secretariat member 
+21 Apr International Monetary Fund and World Bank Group Spring 
+meetings  Washington DC ExCo Chair  
+24 Apr Institute of International Finance | Roundtable: The Future of Financial 
+Global Policymaking  Washington DC ExCo Chair  
+29 Apr United Nations Development Program | Topics: Risk Proofing Our 
+Common Future: The Role of Insurance Supervision Virtual Senior Management member 
+7 May FinTech Forum stakeholder engagement | Topics: Insurtech 
+developments in India | Stakeholder: India InsurTech Association Virtual Secretariat member 
+8 May Reuters | Topics: Future of Insurance Europe  Amsterdam Senior Management member
+
+Restricted 
+Date Stakeholder/description Location IAIS participants 
+8 May 
+IAIS CRO Roundtable | Topics: key risks in the insurance sector, impact 
+of AI on insurers and societies, life insurers shift to alternative 
+investments and increased use of asset-intensive reinsurance  
+Virtual 
+ExCo Chair, ExCo Vice 
+Chairs, MPC Chair, Senior 
+Management Member, 
+Secretariat member 
+12 May Moody’s Ratings: | Topics: IAIS Draft Issues Paper on structural shifts in 
+the life insurance sector Virtual Secretariat member 
+19 May G20 SFWG | Topics: financial stability impact of NatCat protection gaps Virtual Senior Management member 
+21 May IAIS consumer engagement programme | Topics: Value to customers, 
+Claims handling Virtual MCWG, Secretariat member 
+26 May Meeting with representative of Chinese Taipei to Switzerland  Basel Senior Management member 
+28 May National Association of Insurance Commissioners International 
+Conference  Washington DC Deputy Secretary General, 
+Senior Management member 
+28 May 
+Retirement Income and Pensions Forum stakeholder engagement | 
+Topics: update on the conclusions in the report on Demographics and 
+Long-Term Care | Stakeholders: Gallagher Re; Swiss Re 
+Virtual 
+Secretariat member, 
+Retirement Income and 
+Pensions Forum 
+28 May KPMG | Topics: preparatory call for presentation to FinTech Forum Virtual Secretariat member 
+28 May FT Partners | Topics: preparatory call for presentation to FinTech Forum Virtual Secretariat member 
+2 Jun InsuranceERM conference on asset intensive reinsurance | Topics:  
+asset intensive reinsurance London Deputy Secretary General
+
+Restricted 
+Date Stakeholder/description Location IAIS participants 
+4 Jun Insurance Development Forum summit | Topics: Insurance Protection 
+Gaps  Venice Secretary General 
+4 Jun FSI/Toronto Centre meeting on technological developments | Topics: 
+Artificial Intelligence  Basel  Secretariat member 
+4 Jun Meeting with British Association for Insurers | Topics: Structural shifts 
+in life insurance  Virtual Secretariat member 
+10 Jun Climate Interactive | Topics:  Updated climate models Virtual  Secretariat member 
+11 Jun Consultative Group to Assist the Poor | Symposium “Rethinking 
+Resilience: Why Inclusive Finance Can't Wait” Amsterdam Secretary General 
+12 Jun G20 Finance Ministers meeting side meeting | Topics: IAIS G20 input 
+paper on natural catastrophe protection gaps Cape Town Senior Management member 
+12 Jun Georgian Financial Supervisory Agency | International Insurance 
+Conference of Georgia Batumi, Georgia IAC Chair, Secretariat 
+member 
+13 Jun American Council of Life Insurers / Global Federation Insurance 
+Associations | Topics: IAIS pensions work Virtual  Secretariat member 
+13 Jun 
+Geneva Association | Regulatory roundtable discussion on 
+“Safeguarding Home Insurance Amid Rising Exposure and Vulnerability 
+to Extreme Weather” 
+Virtual Secretariat member
+
+Restricted 
+Date Stakeholder/description Location IAIS participants 
+18 Jun Swiss Re | Topics: IAIS Workplan  Zurich ExCo Chair 
+24 Jun Alliance for Financial Inclusion | Topics: AFI - IAIS collaboration Basel, 
+Switzerland Senior Management member 
+25 Jun FinTech Forum stakeholder engagement | Topics: AI use cases 
+Stakeholder: Evident Insights  Virtual Secretariat member 
+26 Jun Cambridge SupTech Lab | Topics: recent report on SupTech 
+developments Virtual  Secretariat member 
+28 Jun Bank for International Settlements | AGM panel on “Regulatory 
+asymmetries and competitiveness”  Basel Secretary General 
+28 Jun Islamic Financial Services Board | Topics: IAIS Workplan  Basel Secretary General 
+30 Jun International Actuarial Association High Level Meeting   Virtual Secretary General, Senior 
+Management

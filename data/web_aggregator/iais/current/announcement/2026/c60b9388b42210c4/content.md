@@ -1,0 +1,83 @@
+PRESS RELEASE 
+22 October 2024 
+ 
+ 
+ 
+IAIS sets strategic direction for 2025-2029 
+• Amid global trends expected to shape the insurance landscape over the next five years, the 
+IAIS has identified three strategic themes that will feature prominently in its work programme: 
+climate change, digital innovation including the use of artificial intelligence and cyber risks, and 
+the need for insurance to deliver on its societal purpose of building resilience. 
+• Over the next five years, the IAIS will place a heightened emphasis on globally consistent 
+implementation of the IAIS’ standards, including by assessing implementation across 
+jurisdictions and by supporting members’ efforts in implementing effective supervisory 
+practices. 
+• Assessing and responding to key risks and trends impacting the global insurance sector will 
+remain a priority. The IAIS will continue to refine its annual risk assessment framework and use 
+it to support globally coordinated supervisory responses. 
+ 
+Basel, Switzerland – The International Association of Insurance Supervisors (IAIS) today published 
+its Strategic Plan 2025-2029. The plan was developed through a rigorous process of engagement 
+with IAIS members and stakeholders.    
+“The 2025-2029 Strategic Plan builds on the achievements of the previous five -year period,” said 
+IAIS Executive Committee Chair Shigeru Ariizumi. “ Looking ahead, the IAIS will place a  greater 
+emphasis on implementation of our standards  and on the themes of climate change, digital 
+innovation and societal resilience.” 
+The IAIS, as a standard- setting body and a membership- driven association, is uniquely positioned 
+to support its members in strengthening insurance supervision across the globe.  
+The Strategic Plan articulates the core objectives of the IAIS as a standard-setting body, identifies a 
+set of strategic themes and sets out the operational priorities of the IAIS. Together, these elements 
+will shape the IAIS’ activities over the next five years and guide the development of the IAIS’ annual 
+workplan, known as the Roadmap. The Roadmap for 2025-2026 will be published in early 2025.  
+ 
+Core objectives 
+The IAIS is committed to pursuing work that serves all its members and their varying mandates , 
+spanning financial stability, financial soundness, market conduct and consumer protection, as well 
+as mandates related to market development and financial inclusion.  The IAIS performs its role  
+through a mutually reinforcing cycle of activities, characterised as core objectives. These are: 
+1. Monitor and respond to key risks and trends in the global insurance sector; 
+2. Set and maintain globally recognised standards for supervision that are effective and 
+proportionate; 
+3. Support members by sharing good supervisory practices, promoting understanding of 
+supervisory issues and facilitating capacity building; and 
+4. Assess comprehensive and globally consistent implementation of global standards.
+
+Strategic themes 
+In addition to the core objectives, the IAIS has identified three strategic themes  for its work 
+programme in areas that have the potential to significantly impact, or even reshape, the insurance 
+sector in the coming years: 
+• Strengthening the supervisory response to climate change; 
+• Adapting to digital innovation and cyber risks; and 
+• Supporting insurance to serve its societal purpose of building resilience.  
+The third theme is new and considers the role of insurance supervisors in supporting efforts to ensure 
+that societal needs are being met by insurance products and services. Building on existing IAIS work, 
+the theme will incorporate  topics like access and affordability of insurance, fair treatment of 
+consumers and the need to address protection gaps.  
+“The IAIS has identified climate change, digital innovation and cyber risks, and supporting insurance 
+to serve its societal purpose as warranting heightened attention and action by the global supervisory 
+community”, said IAIS Secretary General Jonathan Dixon. “We will integrate work on these strategic 
+themes across all four IAIS core objectives.” 
+ 
+Operational priorities 
+To maximise its effectiveness in carrying out its work, and in support of the Association’s broad and 
+diverse membership, the IAIS is committed to continuous improvement in how it operates. Through 
+2025-2029, the Association will be guided by four operational priorities focused on diversity, equity 
+and inclusion, sustainability, strengthened engagement with members and stakeholder s and 
+implementation of efficiencies. Leveraging technology is expected to be an important enabler in 
+achieving these priorities. 
+In conjunction with the Strategic Plan, the IAIS has also adopted its corresponding Financial Outlook 
+for 2025-2029. The Financial Outlook is available only to members.  
+Read the IAIS Strategic Plan 2025-2029 here.  
+About the IAIS 
+The IAIS is a global standard- setting body whose objectives are to promote effective and globally 
+consistent supervision of the insurance industry to develop and maintain fair, safe and stable 
+insurance markets for the benefit and protection of policyholders and to contribute to the 
+maintenance of global financial stability. Its membership includes insurance supervisors from more 
+than 200 jurisdictions. Learn more at  www.iaisweb.org. Follow us on LinkedIn: IAIS – International 
+Association of Insurance Supervisors. 
+ 
+Media contact: 
+ 
+Melanie Clowes 
++41 61 280 8442 
+IAIS-Press@bis.org

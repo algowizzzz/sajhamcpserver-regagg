@@ -1,0 +1,21 @@
+1. [Home](https://www.iais.org/)
+2. Paolo Cadoni
+
+### **Paolo Cadoni**
+
+*Vice Chair, IAIS Standards and Supervisory Practices Committee (SSC)*  
+*Head, Insurance Policy Division, Prudential Policy Directorate, Bank of England*
+
+Paolo joined the Bank of England (formerly the FSA) in 2004, where he has held a succession of roles across both banking and insurance. He is currently Head of the Insurance Policy Division in the Prudential Policy Directorate. In this role, he is responsible for domestic insurance policy at the PRA covering climate related risks, resolution, insurance groups, Pillar 2, and capital resources, and he leads the PRA/Bank of England’s input into the International Association of Insurance Supervisors (IAIS), in particular the Standards and Supervisory Practices Committee (SSC) and the Monitoring and Risk Assessment Committee (MRC).
+
+Previously, Paolo also led the Bank of England’s engagement with the European Insurance and Occupational Pensions Authority (EIOPA), including chairing EIOPA’s Internal Models Committee.
+
+Paolo served as Vice Chair of the IAIS Policy Development Committee (PDC) from 2018 to 2025. He is currently Vice Chair of the IAIS Standards and Supervisory Practices Committee (SSC). Since March 2013, he has been Chair of the IAIS Capital and Solvency Working Group, overseeing the development and field testing of the Basic Capital Requirement (BCR), Higher Loss Absorbency (HLA) and the Insurance Capital Standard (ICS).
+
+Until March 2009, Paolo was responsible for the FSA’s policy development and implementation of the Internal Model Method (IMM) for counterparty credit risk for banks and investment firms. He also represented the FSA in the Overall Capital and Quantitative Impact Study Working Group of the Basel Committee on Banking Supervision, and led the FSA’s work on QIS5.
+
+Prior to becoming a regulator, Paolo worked as a financial modeller in the oil and power sector.
+
+He holds a PhD in Finance from the ICMA Centre and an MSc in Econometrics from the University of Southampton.
+
+![](https://www.iais.org/uploads/2022/01/Paolo-Cadoni-300x409.png)

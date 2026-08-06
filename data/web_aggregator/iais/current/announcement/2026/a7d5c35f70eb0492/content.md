@@ -1,0 +1,705 @@
+Global Insurance 
+Market Report (GIMAR)
+MID-YEAR UPDATE July 2026
+
+2026 MID-YEAR GIMAR UPDATE
+The International Association of Insurance Supervisors 
+(IAIS) is a voluntary membership organisation of 
+insurance supervisors and regulators from more 
+than 200 jurisdictions. The mission of the IAIS is to 
+promote effective and globally consistent supervision 
+of the insurance industry in order to develop and 
+maintain fair, safe and stable insurance markets 
+for the benefit and protection of policyholders 
+and to contribute to global financial stability. 
+Established in 1994, the IAIS is the international 
+standard-setting body responsible for developing 
+principles, standards and other supporting material for 
+the supervision of the insurance sector and assisting in 
+their implementation. The IAIS also provides a forum for 
+members to share their experiences and understanding 
+of insurance supervision and insurance markets. 
+The IAIS coordinates its work with other international 
+financial policymakers and associations of supervisors 
+or regulators and assists in shaping financial systems 
+globally. In particular, the IAIS is a member of the 
+Financial Stability Board (FSB), member of the 
+Standards Advisory Council of the International 
+Accounting Standards Board (IASB), and partner in 
+the Access to Insurance Initiative (A2ii). In recognition 
+of its collective expertise, the IAIS also is routinely 
+called upon by the G20 leaders and other international 
+standard-setting bodies for input on insurance 
+issues as well as on issues related to the regulation 
+and supervision of the global financial sector.
+For more information, please visit www.iais.org   
+and follow us on LinkedIn.
+International Association of Insurance Supervisors
+c/o Bank for International Settlements
+CH-4002 Basel
+Switzerland
+Tel: +41 61 280 8090
+This document is available on the IAIS website (www.iais.org).
+© International Association of Insurance Supervisors (IAIS), 2026. 
+All rights reserved. Brief excerpts may be reproduced or translated provided the source is stated.
+The Global Insurance Market Report (GIMAR) reports on the outcomes of the IAIS’ Global Monitoring Exercise 
+(GME). The GME is the IAIS’ framework for monitoring risks and trends in the global insurance sector and 
+assessing the possible build-up of systemic risk. This is the mid-year update for the 2026 GIMAR.
+About the IAIS
+About the GIMAR
+I
+
+2026 MID-YEAR GIMAR UPDATE
+1 INTRODUCTION 1 
+2 GLOBAL MACRO-FINANCIAL DEVELOPMENTS 2
+3 SOLVENCY, LIQUIDITY AND PROFITABILITY 4
+4 AGGREGATE SYSTEMIC RISK SCORES 6
+5 SECTOR-WIDE THEMES IN THE 2026 GME  8
+ 5.1 The impact of macroeconomic risks on life insurers’ balance sheets 8
+ 5.2 Transmission channels of geopolitical risk in non-life insurance 9
+ 5.3 The impact of advancements in AI and technology on insurers’ cyber resilience 11
+6 OTHER AREAS OF FOCUS 12
+ 6.1 AI underwriting and digital assets  12
+ 6.2 Climate-related risks  12
+7 NEXT STEPS 14
+Contents
+II
+
+1
+2026 MID-YEAR GIMAR UPDATE
+1. Introduction
+The mid-year Global Insurance Market Report (GIMAR) presents the interim outcomes of 
+the IAIS’ 2026 Global Monitoring Exercise (GME) ahead of the year-end GIMAR publication. 
+This report offers a preliminary analysis of the impact 
+of global macro-financial trends, as well as insights 
+into solvency, liquidity and profitability developments 
+within the global insurance sector. It also provides 
+aggregate systemic risk scores and highlights key focus 
+areas of the 2026 GME. Against a backdrop of ongoing 
+uncertainty in the global macro-financial environment, 
+the IAIS is maintaining a strong focus on assessing 
+trends and addressing the build-up of risks in the 
+insurance sector. Sector-wide themes of the 2026 GME 
+include:
+1. The impact of macroeconomic risks on life insurers’ 
+balance sheets;
+2. Transmission channels of geopolitical risk in non-life 
+insurance; and 
+3. The impact of advancements in artificial intelligence 
+(AI) and technology on insurers' cyber resilience. 
+Additional areas of focus are AI underwriting and  
+digital assets, and climate-related risks. 
+This mid-year update is based on preliminary GME 
+2026 data collected up to June 2026. 1 The charts 
+and results are subject to change in view of the 2026 
+year-end GIMAR. The dataset includes the 2026 
+individual insurer monitoring (IIM) data, applicable 
+to insurance groups meeting the Insurer Pool 
+criteria2 – consisting of 56 of the largest international 
+insurance groups from 18 jurisdictions – and the 
+qualitative sector-wide monitoring (SWM) data, 
+covering aggregate insurance market data collected 
+from IAIS members and comprising more than 
+90% of global gross written premiums. Quantitative 
+SWM data will feature in the year-end GIMAR. 
+While not a focus of this year's GIMAR, work on 
+structural shifts in the life insurance sector continues as 
+per the IAIS Roadmap 2026-2027, building on the IAIS 
+Issues Paper. This includes enhanced data collection 
+through the GME to strengthen systemic risk analysis, 
+and a review of IAIS supervisory and supporting material.
+1 The quantitative GME 2026 data has year-end 2025 as a reference date (except for one jurisdiction with a financial year ending in March instead of 
+December). The qualitative GME 2026 component also has a forward-looking perspective, focusing on expected developments in 2026 and 2027.
+2 The Insurer Pool criteria are outlined in the GME document.
+
+2
+2026 MID-YEAR GIMAR UPDATE
+3 International Monetary Fund. World Economic Outlook. October 2025.
+2. Global macro- 
+ financial  
+ developments 
+The global economic outlook points to heightened uncertainty and volatility, coupled 
+with slower growth.
+Global macro-financial conditions in 2025 were marked 
+by slower economic growth, moderating inflation, 
+rising uncertainty, increased protectionism, geopolitical 
+tensions and fiscal vulnerabilities. 3 Despite these 
+challenges, insurers continue to demonstrate resilience 
+with solvency, liquidity and profitability remaining stable. 
+As 2026 unfolded, the macro-financial environment 
+grew increasingly uncertain. The first half of the year 
+has been marked by rising geopolitical conflicts, which 
+triggered heightened volatility in energy prices, shipping 
+costs and financial markets. Amid these developments, 
+sovereign bond yields, in general, remain elevated, 
+putting pressure on sovereign balance sheets (Figure 1). 
+ Sovereign bond yields (10-year) Global equities
+FIGURE 1
+Equity prices are rebased to 100 in December 2019  
+Source: Bloomberg
+14%
+12%
+10%
+8%
+6%
+4%
+2%
+0% 
+–2%
+350%
+300%
+250%
+200%
+150%
+100%
+50%
+0%
+Yield
+China South Africa India
+USUKJapanGermanyCanada
+China South Africa India
+USUKJapanGermanyCanada
+Apr
+Dec
+Dec
+Aug
+Nov
+Dec
+Sep
+Apr
+Sep
+Aug
+Sep
+Sep
+Jun
+Dec
+Sep
+Dec
+Aug
+Mar
+Dec
+Feb
+Apr
+Dec
+Aug
+Dec
+Dec
+Dec
+Apr
+Jun
+Mar
+Jun
+Dec
+Jun
+Apr
+Apr
+Aug
+Mar
+Dec
+Mar
+Mar
+Feb
+Apr
+Sep
+Aug
+Jun
+Dec
+Jun
+Apr
+Jun
+Jun
+Mar
+20202019 2019 20202021 20212022 20222023 20232024 20242025 2026 2025 2026
+
+3
+2026 MID-YEAR GIMAR UPDATE
+Geopolitical tensions, energy market disruptions and 
+rising macro-financial uncertainty are challenging  
+global economic growth.
+Equity markets experienced periodic corrections; 
+however, valuations in several major markets remained 
+elevated. Sustained high valuations could lead to 
+a potential repricing, particularly if macroeconomic 
+conditions deteriorate. Credit default swap spreads 
+intermittently widened during episodes of heightened 
+risk aversion. These trends underscore the fragile 
+balance between stability and uncertainty as global 
+markets navigate a complex and evolving landscape.
+In July 2026, the International Monetary Fund (IMF) 
+projected global economic growth to slow down to 
+3.0% in 2026 and 3.4% in 2027, 4 largely reflecting 
+the disruptions associated with geopolitical conflicts, 
+although the impact is expected to be partly offset 
+by stronger demand in the global technology cycle 
+because of a rise in the adoption of AI. Inflation, 
+which stood at 4.1% in 2025, is projected to rise to 
+4.7% in 2026 before declining to 3.9% in 2027. 
+The IMF noted that the risk of renewed geopolitical 
+conflict remains significant, potentially amplifying 
+commodity price instability, further disrupting supply 
+chains, driving up costs, and adding strain to financial 
+conditions.
+For insurers, the macro-financial environment presents 
+a mixed outlook. Higher interest rates could support 
+investment income and improve reinvestment yields. 
+However, persistent volatility in bond and credit 
+markets poses risks to fixed-income portfolios. 
+Additionally, if inflationary pressures remain elevated, 
+claims costs across various lines of non-life insurance 
+business could rise, further straining profitability.
+Geopolitical developments could add another layer of 
+complexity, heightening underwriting risks in areas such 
+as aviation, cyber, marine and trade credit insurance. 
+Disruptions to maritime routes and energy markets 
+have introduced uncertainty to claims processes, while 
+issues such as war exclusions and cyber attribution 
+risks5 continue to demand attention from insurers and 
+supervisors.
+Despite the resilience demonstrated by the insurance 
+sector in recent years, the 2026 outlook underscores 
+heightened macro-financial and geopolitical risks. 
+These challenges may pressure insurers’ balance 
+sheets, impact underwriting performance and test the 
+sector’s overall financial stability. As insurers navigate 
+these uncertainties, a focus on risk management, 
+diversification and the adaptability of business models in 
+response to changing economic, market and regulatory 
+conditions will be critical to maintaining financial stability.
+4 International Monetary Fund. World Economic Outlook Update. July 2026.
+5 Cyber attribution risks are primarily relevant to cyber insurance policies and refer to the difficulties in determining the origin and intent of a cyber-attack, 
+which can affect insurance coverage, liability and the resolution of claims.
+
+4
+2026 MID-YEAR GIMAR UPDATE
+3. Solvency, liquidity  
+ and profitability 
+Aggregate participating insurers’ solvency, liquidity and profitability positions were 
+relatively stable in 2025.
+Source: IIM 2026 – interim result
+250%
+200%
+150%
+100%
+50%
+0%
+Solvency ratios in % 
+(YE20 –YE25)
+YE20 YE21 YE22 YE23
+YE24 YE25
+YE20 YE21 YE22 YE23
+YE24 YE25
+YE20 YE21 YE22 YE23
+YE24 YE25
+1.2%
+1.0%
+0.8%
+0.6%
+0.4%
+0.2%
+0.0%
+Return on assets in % 
+(YE20 –YE25)
+250%
+200%
+150%
+100%
+50%
+0%
+Insurance liquidity ratio in % 
+(1 year) (YE20 –YE25)
+FIGURE 2
+This analysis is based on interim outcomes of the 2026 
+GME. Figure 2 highlights relatively stable outcomes 
+for solvency, liquidity and profitability positions among 
+participating insurers in 2025, underscoring the sector’s 
+resilience. The aggregate solvency ratio declined slightly 
+but remained well above regulatory requirements. 
+Participating insurers indicated that the decline was 
+partly driven by interest rate volatility and adverse 
+market movements affecting investment and business 
+activity, although operating profitability helped offset 
+these pressures. Insurers’ solvency was also negatively 
+impacted by share buybacks, dividend declarations, 
+debt redemptions, and merger and acquisition 
+activities, while benefiting from effective risk 
+diversification across asset classes and geographies. 
+As in previous years, performance varied across the 
+different business types in the sector.
+
+5
+2026 MID-YEAR GIMAR UPDATE
+In 2025, the insurance sector’s aggregate liquidity 
+position, as measured by the insurance liquidity ratio, 6 
+remained stable, indicating that the sector maintained 
+a strong capacity to manage liquidity needs and meet 
+policyholder obligations as they fall due. Participants 
+attributed the stable liquidity position to positive 
+operating cash flows, debt issuance proceeds and 
+investment portfolio adjustments towards more 
+liquid assets in response to heightened geopolitical 
+uncertainty. These liquidity gains were largely offset by 
+dividend payments, share buybacks, higher allocations 
+to illiquid assets, debt repayments and market volatility. 
+The insurance sector’s aggregate return on assets 
+also increased. Participating insurers indicated 
+that the increase is driven by positive asset 
+In 2025, insurers showed resilience, maintaining 
+stable solvency, liquidity and profitability 
+despite volatile market conditions.
+portfolio returns, improved underwriting margins, 
+strong operating performance, greater asset 
+and insurance portfolio diversification and cost 
+management initiatives. Nevertheless, some insurers 
+faced pressures from market volatility, widening 
+spreads and reduced asset balances resulting from 
+dividend payments and share buybacks. Overall, 
+participants indicated that their effective risk 
+management practices contributed to maintaining 
+stability in their assets and associated returns.
+The 2026 year-end GIMAR plans to offer deeper 
+insights into the evolving solvency, liquidity and 
+profitability of insurers, factoring in macroeconomic 
+and geopolitical developments that could 
+influence their financial performance.
+6 The insurance liquidity ratio is defined in  
+the liquidity metrics as an ancillary indicator .
+
+6
+2026 MID-YEAR GIMAR UPDATE
+4. Aggregate systemic 
+ risk scores
+IIM systemic risk scores increased slightly at year-end 2025.
+7 For more information about the revised IIM assessment methodology, please refer to IAIS publishes updated Global Monitoring Exercise (GME) document.
+8 Results from year-end 2022 to year-end 2025 were calculated using the revised assessment methodology, while the old methodology was used for the 
+prior years.
+FIGURE 3 8
+Source: IIM 2026 – interim result
+Total systemic risk score (YE20-YE25)
+12,000
+10,000
+8,000
+6,000
+4,000
+2,000
+0
+Score in basis points
+YE20 YE21 YE22 YE23 YE24 YE25
+Size Global activity Interconnectedness Asset liquidation Substitutability
+The IIM systemic risk scores are part of the IAIS Holistic 
+Framework, which aims to assess and mitigate the 
+potential build-up of systemic risk in the global insurance 
+sector. The scores are calculated using an indicator-
+based assessment methodology and are based on data 
+collected across five systemic risk categories: size, 
+global activity, interconnectedness, asset liquidation and 
+substitutability, which together consist of 13 indicators. 
+The methodology was revised in 2025 7 and is designed 
+to support a comprehensive assessment of build-up of 
+potential systemic risk at the level of relevant individual 
+insurance groups at a global level.
+
+7
+2026 MID-YEAR GIMAR UPDATE
+9 The methodological changes have resulted 
+in lower aggregate scores compared with 
+the old methodology.
+Figure 3 displays the aggregate systemic risk score 
+of insurers participating in the IIM data collection over 
+time.9 Overall, the aggregate scores increased slightly 
+in 2025, with the largest increases recorded in asset 
+liquidation and interconnectedness.
+The year-end GIMAR expects to provide more detail 
+on the underlying drivers of changes in systemic risk 
+indicators and share a cross-sectoral perspective 
+comparing these developments to those observed  
+in the banking sector.
+Systemic scores for global insurance groups edged 
+higher at year-end 2025, driven by asset liquidation 
+categories and interconnectedness.
+
+8
+2026 MID-YEAR GIMAR UPDATE
+10 Financial Stability Board. Report on Vulnerabilities in Private Credit. May 2026.
+5. Sector-wide themes 
+ in the 2026 GME 
+The 2026 GME analysis will focus on the following sector-wide themes as top priorities 
+for insurers and supervisors, recognising their interconnections and potential non-linear 
+effects.
+5.1  THE IMPACT OF MACROECONOMIC 
+ RISKS ON LIFE INSURERS’  
+ BALANCE SHEETS
+For insurers, notably life insurers, macroeconomic 
+shocks directly affect investment portfolios, solvency 
+ratios and overall balance sheet resilience. These 
+pressures are particularly acute for life insurers 
+given their exposure to long-duration liabilities 
+and the sensitivity of their asset-liability positions 
+to shifts in the interest rate environment.
+Key areas of focus under this theme are:
+ ] Market and investment risks
+Rising interest rates and widening credit spreads 
+can place downward pressure on the market value 
+of fixed-income portfolios. Insurers with significant 
+exposures to lower-rated sovereign or corporate 
+debt, commercial real estate, infrastructure finance 
+and structured credit may be particularly impacted.
+ ] Liquidity pressures
+Insurers could encounter heightened liquidity risks 
+due to higher collateral and margin calls on derivative 
+hedging programmes, increased policyholder 
+surrender activity and declining liquidity in private 
+asset and corporate bond markets during periods 
+of volatility. These pressures are testing insurers’ 
+liquidity management frameworks, particularly those 
+with significant exposure to illiquid investments. 
+Private credit exposures are becoming increasingly 
+relevant in the financial ecosystem, with the Financial 
+Stability Board estimating total global private credit 
+assets at approximately $2.0 trillion at the end of 2024. 10  
+Insurers, as major institutional investors in private credit 
+markets, face growing risks from valuation uncertainty, 
+concentration risks and potential losses under stressed 
+conditions, highlighting the importance of asset 
+diversification and sound asset-liability matching.
+
+9
+2026 MID-YEAR GIMAR UPDATE
+Geopolitical tensions  
+and energy market 
+disruptions are amplifying 
+underwriting risks, 
+particularly in marine, 
+aviation and trade  
+credit insurance.
+ ] Sovereign risks
+Higher fuel and food prices, weaker currencies and 
+tighter financial conditions are increasing sovereign 
+borrowing costs and reducing domestic market liquidity. 
+Insurers with high refinancing needs or foreign 
+exchange mismatches face greater risks, particularly 
+if they hold significant lower-rated sovereign debt.
+ ] Interconnectedness with non-bank financial 
+intermediaries (NBFIs)
+Insurers’ growing links to NBFIs 11 and banks through 
+shared exposures to common assets and derivatives 
+are amplifying systemic risk transmission channels. 
+These interconnected vulnerabilities could increase 
+the potential for cross-sector contagion during  
+periods of financial stress.
+ ] Capital and asset-liability management pressures
+Persistent macroeconomic volatility may lead to a 
+strain on insurers’ capital positions and complicates 
+their asset-liability management strategies. Rising 
+interest rates, volatile bond yields and inflation-driven 
+claims costs could increase the difficulty of maintaining 
+solvency and implementing long-term capital planning. 
+The IAIS plans to continue the monitoring of these 
+developments and will provide further insights in  
+the year-end GIMAR. 
+11 NBFIs include asset managers, pension funds, hedge funds and other financial intermediaries.
+12 International Monetary Fund. World Economic Outlook. April 2026.
+5.2  TRANSMISSION CHANNELS  
+ OF GEOPOLITICAL RISK IN  
+ NON-LIFE INSURANCE
+The second theme focuses on the distinct ways in 
+which geopolitical risk transmits through to non-life 
+insurers’ operations and balance sheets.
+Geopolitical conflicts are creating challenges for the 
+global insurance sector by disrupting energy markets, 
+driving inflation and amplifying underwriting risks. 
+According to the IMF ,12 escalating geopolitical tensions 
+and disruptions to energy supply chains have increased 
+the risk of renewed energy price volatility, which could 
+feed through to inflation and raise claims costs across 
+non-life insurance lines such as motor, property and 
+business interruption. Additionally, disruptions to 
+maritime shipping and aviation are heightening risks  
+for marine and aviation insurers, with claims related  
+to war risk, cargo losses, rerouting costs and rising  
+jet fuel prices. 
+Cyber risks, driven by geopolitical tensions and 
+advancements in AI, could further amplify pressures 
+on insurers by generating correlated losses across 
+multiple business lines such as cyber, property and 
+liability insurance. Meanwhile, modern conflicts 
+involving cyber operations, sanctions and proxy attacks 
+are complicating the enforcement of war exclusions and 
+coverage for indirect losses. Insurers are responding 
+by conducting stress tests and strengthening capital 
+and liquidity buffers. However, challenges persist due 
+to fragmented legal environments, lack of standardised 
+definitions and increasing financial market volatility.
+
+10
+2026 MID-YEAR GIMAR UPDATE
+Key areas of focus under this theme are:
+ ] Inflation, energy prices and claims costs 
+Elevated inflation and rising commodity prices, 
+particularly the surge in oil and gas prices, are a key 
+transmission channel for non-life insurance. High 
+energy costs are driving up claims across multiple 
+insurance lines, particularly non-life segments such 
+as motor, property and liability insurance. Long-tail 
+lines, such as liability and workers’ compensation, 
+are especially vulnerable, as inflation risks depleting 
+reserves and weakening profitability and solvency. 
+Insurers are facing difficulties in keeping premium 
+repricing aligned with rising claims costs, while 
+increasing replacement costs and reserve pressures 
+could add to the strain on financial performance.
+ ] Maritime, shipping and aviation risks
+Marine and aviation insurers are encountering elevated 
+risks due to disruptions in shipping routes and airspace. 
+These include war-risk incidents, cargo losses, piracy, 
+vessel rerouting and contingent business interruption 
+claims. Rising freight costs, energy prices and jet 
+fuel prices, which have nearly tripled in some cases, 
+are exacerbating pressures on underwriting margins 
+and increasing exposure to operational risks.
+ ] War exclusions and cyber risks
+Conflicts involving cyber operations, sanctions and 
+proxy attacks are complicating the enforcement 
+of war exclusions and creating uncertainty around 
+claims outcomes. Insurers are increasingly relying on 
+restrictive clauses and adjustments to policy wording 
+to manage these uncertainties. Additionally, cyber 
+incidents could pose risks across multiple insurance 
+lines, including cyber, marine, property and liability 
+insurance. However, the insurance industry has made 
+good progress in reducing silent cyber exposure, 
+with cyber risks increasingly being explicitly covered 
+under standalone policies. While the cyber insurance 
+market remains relatively small, insurers are actively 
+managing risks through measures such as setting 
+coverage limits and exclusions. These evolving 
+dynamics highlight the growing need for robust risk 
+management frameworks and operational resilience.
+The 2026 year-end GIMAR expects to provide 
+valuable insights into how insurers are responding 
+to these challenges posed by geopolitical risks.
+Insurers are mitigating silent cyber exposure 
+by increasingly providing explicit coverage 
+through standalone policies.
+
+11
+2026 MID-YEAR GIMAR UPDATE
+5.3  THE IMPACT OF ADVANCEMENTS  
+  IN AI AND TECHNOLOGY ON  
+ INSURERS’ CYBER RESILIENCE
+As technological advancements, such as AI, digital assets 
+and increased complexity of IT systems continue to 
+reshape the global economy, the IAIS remains committed 
+to monitoring their impact on insurers. This includes 
+assessing how these developments may heighten risks, 
+influence investment strategies and affect underwriting 
+activities, as well as evaluating their implications for 
+financial stability and policyholder protection.
+Cyber risks continue to evolve, with more frequent 
+and sophisticated attacks, including new risks posed 
+by frontier AI models. Insurers are exposed both as 
+underwriters and as potential victims of operational 
+disruption. This is a fast-moving area where supervisors 
+have noted that these developments underscore 
+Cyber risks are 
+advancing rapidly, with 
+emerging technologies 
+accelerating vulnerability 
+identification and 
+enabling sophisticated 
+cyber-attacks.
+the importance of effective operational resilience 
+frameworks including robust cyber hygiene, effective 
+patching of information and communication technology 
+(ICT) vulnerabilities and possibly the use of defensive 
+AI capabilities. With frontier AI models reducing the 
+time to both identify vulnerabilities and mount cyber-
+attacks, the setting up of effective operational resilience 
+frameworks will become even more important. The  
+year-end GIMAR plans to consider how the IAIS’  
+work on operational resilience supports responses  
+to growing risks, including AI-enabled cyber-attacks.
+
+12
+2026 MID-YEAR GIMAR UPDATE
+6. Other areas of focus 
+6.1 AI UNDERWRITING AND  
+ DIGITAL ASSETS 
+As legal frameworks relating to AI continue to develop, 
+there are implications for insurers underwriting commercial 
+liability risks. The year-end GIMAR will discuss whether 
+increased AI use by commercial policyholders is 
+impacting the underwriting of AI liabilities (including 
+through accumulation risk). The IAIS will consider how 
+supervisors are engaging with insurers to understand 
+how these risks are being managed.
+This year, the GME and an IAIS member survey intend 
+to gather insights from insurers and supervisors on 
+the underwriting of liabilities and investment activities 
+related to digital assets. These contributions will shape 
+the year-end GIMAR's overview of emerging trends in 
+this focus area.
+6.2 CLIMATE-RELATED RISKS 
+The IAIS has consistently prioritised the assessment 
+of climate-related risks. This analysis was first 
+highlighted in the 2021 GIMAR special topic edition 
+and has since been included as a dedicated chapter 
+in every subsequent annual GIMAR. This focus will 
+continue, with a chapter on climate-related risks 
+planned for inclusion in the 2026 year-end GIMAR.
+Physical climate risks manifest in two ways. First, 
+through the increasing frequency and severity of 
+extreme weather events, which have led to rising claims 
+pressures on insurers. Although catastrophe modelling 
+capabilities are improving, significant challenges persist, 
+particularly in addressing data gaps and uncertainties 
+related to tail risks. Second, physical risks may manifest 
+through chronic physical risk drivers (for example, 
+sea level rise, drought and heat stress), which may 
+also cause material direct or indirect impacts on 
+insurers over time, particularly on their investments.
+AI underwriting and digital assets, and climate-related risks are also considered high-priority 
+areas and will be closely monitored by the IAIS as part of the scope of the GME 2026.
+
+13
+2026 MID-YEAR GIMAR UPDATE
+Supervisory frameworks 
+must evolve to close 
+gaps in data availability 
+and improve modelling 
+capabilities for climate-
+related risks.
+Many jurisdictions continue to characterise the near-
+term impact of climate-related risks on insurers as 
+manageable. However, this often coexists with notable 
+gaps in data availability, challenges in risk quantification 
+and limitations in supervisory frameworks. The depth 
+and quality of responses also vary significantly across 
+jurisdictions.
+While progress is being made in addressing climate-
+related risks, overcoming these challenges will require 
+a concerted effort to enhance data quality, improve 
+modelling capabilities and strengthen supervisory 
+frameworks. These steps will be essential to ensuring 
+insurers are well-equipped to manage these risks 
+effectively, both in the near term and over the long term.
+
+14
+2026 MID-YEAR GIMAR UPDATE
+7. Next steps 
+The 2026 year-end GIMAR, scheduled for publication in December, plans to elaborate on key potential 
+systemic risk developments in the insurance sector, compare these with those in the banking sector, and 
+provide a more detailed analysis of solvency, liquidity and profitability positions in the global insurance sector. 
+It will also include an analysis of the themes and risks outlined in sections 5 and 6.  
+The year-end GIMAR 2026 intends to examine 
+systemic risk trends in insurance, and compare 
+them with those in banking, and assess solvency, 
+liquidity and profitability positions.
+
+International Association of Insurance Supervisors 
+c/o Bank for International Settlements 
+Centralbahnplatz 2 
+CH-4002 Basel 
+Switzerland
+Tel:  +41 61 280 80 90
+E-mail:  info@iais.org 
+Web:   www.iais.org

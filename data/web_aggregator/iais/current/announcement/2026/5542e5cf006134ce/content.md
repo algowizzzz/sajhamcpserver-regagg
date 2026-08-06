@@ -1,0 +1,1012 @@
+Draft Application Paper on supervising 
+diversity, equity and inclusion: the 
+governance, risk management and culture 
+perspective 
+ 
+March 2024
+
+About the IAIS 
+The International Association of Insurance Supervisors (IAIS) is a voluntary membership 
+organisation of insurance supervisors and regulators from more than 200 jurisdictions. The mission 
+of the IAIS is to promote effective and globally consistent supervisi on of the insurance industry in 
+order to develop and maintain fair, safe and stable insurance markets for the benefit and protection 
+of policyholders and to contribute to global financial stability.  
+Established in 1994, the IAIS is the international standard -setting body responsible for developing 
+principles, standards and other supporting material for the supervision of the insurance sector and 
+assisting in their implementation. The IAIS also provides a forum for members to share their 
+experiences and understanding of insurance supervision and insurance markets.  
+The IAIS coordinates its work with other international financial policymakers and associations of 
+supervisors or regulators, and assists in shaping financial systems globally. In particular, the IAIS is 
+a member of the Financial Stability Board (FSB), member of the Standards Advisory Council of the 
+International Accounting Standards Board (IASB), and partner in the Access to Insurance Initiative 
+(A2ii). In recognition of its collective expertise, t he IAIS also is routinely called upon by the G20 
+leaders and other international standard-setting bodies for input on insurance issues as well as on 
+issues related to the regulation and supervision of the global financial sector. 
+For more information, please visit www.iaisweb.org  and follow us on LinkedIn: IAIS – International 
+Association of Insurance Supervisors. 
+ 
+Application papers provide supporting material related to specific supervisory material (ICPs or 
+ComFrame). Application paper s could be provided in circumstances where the practical 
+application of principles and standards may vary or where their interpretation and implementation 
+may pose challenges. Application papers do not include new requirements, but provide further 
+advice, illustrations, recommendations or examples of good practice to supervisors on how 
+supervisory material may be implemented. The proportionality princi ple applies to the content of 
+application papers. 
+ 
+International Association of Insurance Supervisors  
+c/o Bank for International Settlements   
+CH-4002 Basel   
+Switzerland   
+Tel:  +41 61 280 8090  
+  
+This document was prepared by the Governance Working Group (GWG) in consultation with IAIS 
+Members. 
+This document is available on the IAIS website (www.iaisweb.org). 
+© International Association of Insurance Supervisors (IAIS), 2024.   
+All rights reserved. Brief excerpts may be reproduced or translated provided the source is stated.
+
+Table of Contents 
+1 Introduction.................................................................................................................. 4 
+1.1 Context and objective...................................................................................................... 4 
+Box 1: Interpretation of the terms diversity, equity and inclusion in this paper ................... 5 
+1.2 Related work by the IAIS .................................................................................................  5 
+1.3 Proportionality ................................................................................................................. 7 
+2 Why DEI within an insurer matters to ICPs 7, 8 and corporate culture .................. 8 
+Box 2: What is groupthink and why does it matter to insurers? .......................................... 11 
+3 What should a supervisor look out for? .................................................................. 12 
+3.1 Relevant matters to look at ........................................................................................... 12 
+3.2 Warning signs an insurer might need to enhance its DEI efforts ............................... 13 
+Box 3: What is DEI-washing? .................................................................................................  17 
+Box 4: Indicators of positive action on DEI at an insurer ..................................................... 17 
+4 What can a supervisor do in response? .................................................................. 18 
+4.1 Industry-wide approach ................................................................................................ 18 
+4.1.1 Use of soft powers ...................................................................................................................... 19 
+4.1.2 Incorporating DEI themes into supervisory approaches ............................................................ 19 
+4.1.3 Develop requirements ................................................................................................................ 20 
+4.2 Insurer-specific engagement ........................................................................................ 21 
+4.2.1 Understanding an insurer’s approach to DEI ............................................................................. 21 
+4.2.2 Undertake review work to examine DEI related arrangements and plans  ................................. 22 
+Box 5: Collecting and using data as part of a DEI strategy .................................................. 23 
+5 Conclusion ................................................................................................................. 25
+
+1 Introduction  
+1.1 Context and objective 
+1. The IAIS underpinned the importance of diversity, equity and inclusion (DEI) by adopting DEI, in 
+September 2021, as one of its key strategic themes under the IAIS Strategic Plan 2020-2024. It 
+supported this step by publishing a statement in November 2021 explaining the importance of 
+DEI considerations in insurance supervision.  
+2. In December 2022, the IAIS publis hed a Stocktake on diversity, equity, and inclusion in the 
+insurance sector report  detailing the actions IAIS member supervisors, other international 
+organisations and the insurance industry are taking to advance DEI in the global insurance 
+sector. The stocktake was a first step to inform further IAIS work to promote DEI in insurers’ 
+governance and conduct of business. This was followed by a member-only document released 
+in October 2023 exploring how the IAIS sees DEI as relevant to insurers’ governance, risk 
+management and corporate culture, and therefore the link to supervisory objectives. 
+3. The IAIS’ Governance Working Group kept the momentum on this topic by preparing this 
+application paper focused on the potential implications to insurers’ governance, risk management 
+and corporate culture if they lack a commitment to DEI and the actions supervisors can take in 
+response, whether industry-wide or insurer-specific. It is intended to complement ongoing work 
+by the IAIS’ Market Conduct Working Group which focuses on DEI considerations in conduct of 
+business (per ICP 19) to secure  fair treatment of diverse consumers, meaning those who may 
+have specific needs, be under-served, or be experiencing vulnerability.  
+4. This application paper highlights the significance of DEI in the context of ICPs 7, 8 and corporate 
+culture1 and illustrates practical considerations for supervisors who are examining the state of 
+an insurer’s DEI strategies. It sets out suggested focus areas when considering DEI in the context 
+of governance, risk management and corporate c ulture—recognising the universal importance 
+of these to conduct and prudential supervisors —and flags potential warning signs indicative of 
+the need for increased engagement on the topic of DEI by an insurer. The application paper 
+builds on the identificati on of these warning signs by recommending actions that a supervisor 
+can take when encountering these warning signs, ranging from soft approaches (eg suasion) to 
+more prescriptive interventions  (eg developing requirements) at sector-wide and firm -specific 
+level. It also confirms how supervisors can lead by example and encourage progress on DEI by 
+themselves striving to improve DEI within their own organisations and adopting some 
+transparency in the process.  
+5. The application paper is structured as follows:  
+• Section 2 explains what is meant by DEI and why it is relevant in the context of an 
+insurer’s corporate governance, risk management and corporate culture, flagging at a 
+high level some of the risks that may arise in an insurer due to a lack of DEI. 
+• Section 3 highlights relevant matters that supervisors should look for and provides a non-
+exhaustive list of possible warning signs that an insurer might need to work on its DEI.  
+ 
+1 While ICPs 7 and 8 address corporate culture, the concept of corporate culture covered in this paper is more expansive than 
+only the corporate governance and risk management aspects under ICPs 7 and 8.
+
+• Section 4 proposes potential steps that a supervi sor can take  either industry-wide or 
+insurer-specific in response to identifying concerns regarding DEI, ranging from soft 
+powers to more formal interventions.  
+6. The IAIS acknowledges that local circumstances, particularly the legal, cultural and historical  
+context, will influence how DEI is considered and the actions taken by supervisors and insurers 
+themselves, to enhance DEI within the sector. This application paper should therefore be read 
+with this context in mind throughout. 
+Box 1: Interpretation of the terms diversity, equity and inclusion in this paper 
+The IAIS does not seek to define ‘DEI’, recognising the particular importance local legal and 
+cultural context can play in determining what is the ‘right’ DEI approach for an insurer. The IAIS 
+uses the following interpretation of the terms ‘diversity’, ‘equity’ and ‘inclusion’ based on the 
+practices to date of different IAIS supervisory authorities, which may be helpful for supervisors to 
+consider: 
+Diversity: A reflection of the differences between people within an organisation or wider society. 
+This includes different perspectives, abilities, knowledge, attitudes, skills, experience, ways of 
+thinking and demographic characteristics. Demographic characteristics may include, but are not 
+limited to, charact eristics such as age, disability, ethnicity, gender, national origin, religion and 
+sexual orientation, as well as cultural, educational and/or socio -economic background. Different 
+ways of thinking may include, but are not limited to, different ways of reas oning, processing 
+information, making decisions, problem solving, learning, creating and innovating. The notion that 
+the differences between people can lead them to think differently from one another and therefore 
+have varying perspectives to contribute to an organisation is sometimes called ‘diversity of thought’ 
+or ‘cognitive diversity’. 
+Equity: Seeking to achieve fairness for all through allocating resources and opportunities in a way 
+that recognises the different circumstances and needs of different groups of people, particularly 
+where there is evidence of disadvantage amongst certain groups. Equity is different from equality: 
+equality offers the same resources and opportunities to everyone, while equity helps remove the 
+barriers that some people may face in accessing resources and opportunities. 
+Inclusion: When all people in an organisation, regardless of their differences, feel a sense of 
+belonging and feel unimpeded by barriers (both physical and non-physical barriers) such that they 
+are enabled to fully participate in and contribute to the organisation. This includes a culture in 
+which a mix of people, at all levels of seniority, feel empowered to speak up and express their 
+views because they feel confident that their views will be heard and that it  is extremely unlikely 
+they will suffer negative repercussions for challenging the prevailing views. 
+1.2 Related work by the IAIS 
+7. The 2022 stocktake report (referenced in paragraph 2 above) is a key related publication by the 
+IAIS. Participating supervisors attributed varying priority levels  to taking supervisory action to 
+promote DEI with just over half viewing it as a medium or high priority . T here was broad 
+agreement that a key challenge is the absence of an agreed standard, best practice guidance or 
+a regulatory framework for approaching DEI-related supervisory activities.  
+8. While targeted focus on DEI has grown over recent years, the importance of having diverse
+
+perspectives is not a new concept. As will be illus trated throughout this application paper , 
+identification and mitigation of barriers to promoting DEI  with an insurer are important in 
+advancing effective corporate governance (ICP 7) and risk management (ICP8).2   
+9. The Principle Statement of ICP 7 is: ‘ The supervisor requires insurers to establish and 
+implement a corporate governance framework which provides for sound and prudent 
+management and oversight of the insurer’s business and adequately recognises and 
+protects the interests of policyholders .’ Some relevant key elements relating to the role of 
+DEI in supporting good corporate governance include:  
+• Being able to effectively set and oversee the insurer’s corporate culture, business 
+objectives and strategies (ICP 7.2).  
+• Having an appropriate number and mix of individuals on the Board (ICP 7.3).  
+• Having appropriate internal governance practices and procedures to promote efficient, 
+objective and independent judgement and decision-making by the Board (ICP 7.3).   
+• Individual members of the Board must exercise independent judgment and objectivity in 
+their decision-making, taking due account of the interests of the insurer and policyholders 
+(ICP 7.4)  
+• Obligation on Senior Management to promote sound risk management, compliance and 
+fair treatment of customers (ICP 7.10).  
+10. Also relevant is the guidance under ICP 7 (at ICP 7.3.9) that, amongst other measures, objectivity 
+in decision-making is promoted by Board members providing constructive and robust challenge 
+of proposals and decisions and avoiding groupthink  (see Box 2  for further information on 
+groupthink). 
+11. With respect to risk management, the Principle Statement of ICP 8 is: ‘The supervisor requires 
+an insurer to have, as part of its overall corporate governance framework, effective 
+systems of risk management and internal controls, including effective functions for risk 
+management, compliance, actuarial matters and internal audit. ’ While this involves m any 
+facets, DEI considerations can be particularly relevant in the following aspects, which will be 
+elaborated on further in the application paper:  
+• The risk management system should take into account all reasonably foreseeable and 
+relevant material risks to which the insurer is exposed, both at the insurer and the 
+individual business unit levels. This includes current and emerging risks. (ICP 8.1.5) 
+• The Board should approve the authority and responsibilities of each control function to 
+allow each control f unction to have the authority and independence necessary to be 
+effective. (ICP 8.3.6). 
+12. In addition to the ICPs and the Common Framework for the Supervision of Internationally Active 
+Insurance Groups (ComFrame), a range of IAIS supporting materials address issues interlinked 
+with aspects of DEI:  
+• The Application paper on the Composition and the Role of the Board (2018) highlighted 
+that board diversity in its broadest sense can be an essential driver of the b oard’s 
+effectiveness by creating a breadth of perspectives amongst  members and breaking 
+ 
+2 IAIS Members are also referred to Member only document: The relevance of diversity, equity and inclusion to governance, risk 
+management and corporate culture (on the Members Extranet, accessed with log-in).
+
+down a tendency towards groupthink. While the application paper focused on the diversity 
+of competencies, such as knowledge and expertise, it recognised that diversity can be 
+considered in the context of various other characteristics, such as gender, race and 
+ethnicity, as well as skills, backgrounds, personalities, opinions and experiences. 
+• The Application paper on Proactive Supervision of Corporate Governance (2019) focused 
+on insurance supervisors rather than insurers and recognised the necessity of creating a 
+culture that values the diversity of thought to enable supervisors to supervise more 
+effectively and proactively. 
+• In the context of customer-facing issues that risk detracting from DEI values, the Issues 
+Paper on Big Data Analytics in Insurance (2020) elaborated on potential challenges and 
+risks including algorithmic discrimination, bias and exclusion linked to the use of , or 
+reliance on, Artificial Intelligence and Machine Learning. 
+• The Issues Paper on Insurer Culture (2021)  explored the role of insurer culture, which 
+informed decisions, behaviours and practices across an insurer’s business, as a critical 
+intersection point for managing prudential and conduct risks. The Issues Paper identified 
+that insurers’ approaches to DEI issues likely influence their overall culture, and vice 
+versa.  
+• In November 2021, the IAIS published a Statement on the importance of DEI 
+considerations in insurance supervision. In that Statement, the IAIS committed to 
+deepening and strengthening its work on DEI and to supporting insurance superv isors’ 
+and the insurance sector’s efforts to further consider and take actions on DEI issues. The 
+IAIS also committed to taking action to further build DEI into its own internal governance 
+and processes as a global membership association. 
+13. This application paper builds on the existing IAIS material to bring a more holistic view of how an 
+insurer’s approach to DEI can manifest itself in practices and outcomes, and sets out the steps 
+supervisors could take in response to address potential and realised risks. 
+1.3 Proportionality 
+14. This application paper should be read in the context of the proportionality principle, as described 
+in the Introduction to the ICPs: “ Supervisors have the flexibility to tailor their implementation of 
+supervisory requirements and their application of insurance supervision to achieve the outcomes 
+stipulated in the Principle Statements and Standards.” 3 The guidance, illustrations, 
+recommendations or examples of good practice provided in this application paper  do not 
+supersede this overarching proportionality principle.  Where appropriate, this application paper 
+offers practical examples of how the proportionality principle could be applied. 
+15. Supervisory action related to DEI will likely be informed by the legal remit of the supervisor, the 
+broader legal and cultural context of the jurisdiction, and the size , location and nature of the 
+insurer in question. 
+ 
+3 “Implementation - Proportionality allows ICPs to be translated into a jurisdiction's supervisory framework in a manner appropriate 
+to its legal structure, market conditions and consumers. Application - proportionality allows the supervisor to increase or decrease 
+the intensity of supervision according to the risks inherent to insurers, and the risks pos ed by insurers to policyholders, the 
+insurance sector or the financial system as a whole. A proportionate application involves using a variety of supervisory techniques 
+and practices that are tailored to the insurer to achieve the outcomes of the ICPs. Suc h techniques and practices should not go 
+beyond what is necessary in order to achieve their purpose.”
+
+2 Why DEI within an insurer matters to ICPs 7, 8 and corporate 
+culture 
+16. Worldwide there is growing awareness of the relevance of advancing diversity, equity, and 
+inclusion within organisations , and likewise the topic has gained prominence in the global 
+insurance sector. The IAIS holds the view that a focus on improving and sustaining DEI will help 
+insurers build positive corporate cultures within the insurer that better support sound prudential 
+and consumer outcomes. 
+17. Positives derived from sound DEI practices emanate from:  
+• Diversity which brings broader perspectives. 
+• Equity which helps to achieve diversity and inclusion by acknowledging structural and 
+systemic disadvantages and creating opportunities that aim to overcome them. 
+• Inclusion which activates the benefits of div ersity by helping broader perspectives be 
+heard. Inclusion also supports attracting and retaining diverse talent.4 
+18. For insurance supervisor s DEI is relevant to several  risk areas, and from the institutional 
+perspective truly embedding DEI can positively impact the insurer’s corporate governance, risk 
+management and corporate culture. 
+Figure 1: Illustrative graphical table that lists benefits of DEI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19. Diversity brings broader perspectives to corporate governance  which can reduce groupthink, 
+widen understanding of strategic risks and opportunities, and lead to better decisions. A group 
+of people from different backgrounds and experiences are more likely to be able to pinpoint a 
+broader range of risks and opportunities as they consider business objectives and strategies. It 
+also encourages constructive debate, the development of new/different thinking and more 
+ 
+4 Please also refer to Box 1: Interpretation of the terms diversity, equity and inclusion in this paper.
+
+creative strategies and solutions. Inclusion is particularly important to ensure that people feel 
+comfortable to contribute to the conversation, including when their view is different from that of 
+the majority, and to feel that their view will be heard and considered. This facilitates effective 
+challenge of prevailing ideas and supports efficient, objective and independent judgement and 
+decision-making.  
+20. With respect to risk management, diversity can lead to a more complete understanding of all 
+reasonably foreseeable and relevant material risks . A diverse collection of people working 
+together is more likely to c onsider a broad scope of risks (current and emerging), than if the 
+people were all similar. Additionally, inclusion improves the likelihood of important risk 
+management information and perspectives being brought forward, and then being duly 
+considered. It is especially crucial that the people working in risk management and control 
+functions are not afraid to raise difficult issues and share difficult messages with their seniors. 
+Inclusive leaders who are open to challenge are more likely to be open to hearing such messages 
+and feel safer to raise these issues with their seniors in turn. In this way, reporting of risks can 
+be appropriately escalated throughout the organisation with appropriate employee safety 
+procedures in place. This can potentially help avert risk management and control failures.
+5 
+21. In both of the above- described contexts, equity helps a broader range of people to be there 
+(achieving more diversity) and to access the opportunities (achieving more inclusion).  For 
+instance, equitable approaches to recruitment and promotion would involve mitigating biases, 
+creating dedicated intake opportunities, supporting people to successfully ‘grow into’ roles (with 
+extra training, coaching or other support) and having policies that support people to participate 
+in the work environment notwithstanding their unique circumstances (eg flexible working policies, 
+reasonable adjustments to assist people with disabilities).  
+22. DEI helps to create a corporate culture that recognises, values and adjusts for differences and 
+emphasises contributions, participation and opportunity. This can lead to: 
+• Greater reinforcement of norms for responsible and ethical behaviour all the way through 
+the organisation, including all the way into the conduct of front -line employees with 
+customers. 
+• More efficient consideration of differences of opinion, leading to better decision- making 
+by having a corporate culture that values debate and constructive challenge. 
+• Earlier sight of potential problems/crystallising risks by having a corporate culture that 
+encourages openness, leading to employees that are not afraid to raise issues or admit 
+honest mistakes. 
+• Less likelihood of systemic misconduct or misconduct that goes undetected for a long 
+time. When there is diversity of thought, it is more likely that misconduct will be noticed 
+and/or identified as being misconduct (eg rather than just “the way things are done around 
+here”) and then reported.  
+• A culture that values and supports fairness and employee wellbeing, which is likely to 
+lead to better employee retention and productivity, and to reduce employee misconduct. 
+• Better outcomes for employee retention, performance and conduct . For instance,  by 
+considering how events (especially crisis events such as the Covid- 19 pandemic) affect 
+ 
+5 The Application paper on Supervision of Control  Functions (2021) also addressed the importance of key persons in control 
+functions raising concerns, and of the board and senior management appropriately discussing and addressing those concerns 
+(see pages 14-15).
+
+individual employees differently and disadvantage some more than others, then adjusting 
+for this in organisational policies and working practices. 
+• A corporate culture that appreciates differences in values and convictions, which can  
+smooth interactions, leading to better handling of tasks and situations, and a greater 
+respect for understanding, accepting and tolerating varying opinions. 
+23. Additionally, increasing the diversity in the insurer’s workforce and leadership so that it better 
+reflects the community served by that insurer enables it to better understand the customer base 
+and therefore better design and deliver products. As a result, DEI can also lead to better business 
+outcomes by improving the insurer’s ability to sustainably provide products that meet consumer 
+needs and that customers see as providing value. 
+24. The lack of DEI in an insurer may result in various risks, including:    
+• Safety and soundness risk 
+The insurer’s overall safety and soundness could be at risk because of suboptimal business 
+practices, poor decision-making, weak internal challenge, or a lack of innovation.  A lack of 
+diverse perspectives, particularly in risk roles and amongst key decision makers, can result 
+in an incomplete assessment of the full range of risks an insurer is or may become exposed 
+to. 
+• Competition risk 
+The insurer’s business strategy may be less competitive in comparison to its peers, or its 
+product offering may be less attractive in the market because of, for example: 
+o An inappropriately targeted range of products or services through overlooked 
+opportunities by not having wide enough perspectives in the organisation, or these 
+perspectives not being sufficiently included; or 
+o Being slow to innovate and improve quality because of missing out on the increased 
+learning ability and continuous improvement that comes from employees at all levels 
+being encouraged and feeling safe to speak up and raise issues. 
+• Misconduct risk  
+The insurer may experience a higher degree of employee misconduct. When DEI is poor,  
+groupthink is more likely, increasing the risk of inappropriate conduct  occurring and 
+perpetuating, especially systemic misconduct. The risks of employee misconduct  are also 
+heightened when employees feel discriminated against, disenfranchised, or excluded in the 
+workplace and its culture.  
+• Reputational risk  
+The insurer’s reputation may be damaged if future employees, consumers, and investors, 
+amongst others, see a lack of appropriate care taken by the insurer toward DEI. This could 
+manifest through the insurer's approach to Environmental, Social, and Governance (ESG) 
+factors (including DEI) which can be a key component to a company’s public image and 
+business potential. I nvestors may consider how a company manages ESG risks as an 
+important factor in their investment decision-making.
+ 6 Public opinion may expect insurers to 
+focus more on advancing societal issues including human capital management elements like 
+DEI, hiring practices and fair pay. 
+ 
+6 https://www.pwc.com/gx/en/corporate-reporting/assets/pwc-global-investor-survey-2021.pdf
+
+• Talent risk  
+The insurer may be less likely to attract, and retain, the best talent in a competitiv e labour 
+market because DEI policies are important in the employee value proposition to many people. 
+Recruitment processes may be too narrow and biases may mean that high- quality talented 
+applicants are overlooked and not selected.  
+• Legal and regulatory risk  
+The insurer may face a risk of regulatory sanctions, prosecution, or litigation for engaging in 
+discriminatory or inappropriate practices or  allowing them to occur within its work 
+environment. Greater awareness of DEI and active steps to promote its embedding within 
+institutions can help reduce occurrence of such practices. 
+25. These risks can adversely impact an insurer’s reputation, competitiveness and broader long-
+term viability. By contrast, a strong and active commitment to DEI can be considered one of the 
+drivers of effective corporate governance and risk management , and of a positive corporate 
+culture which supports sound and successful business, benefiting insurers and customers alike. 
+Accordingly, it is important for insurance supervisor s to be abl e to recognise when an insurer 
+lacks focus on DEI.  
+26. Notwithstanding the benefits of DEI explained above, it is important that insurers maintain a 
+balanced approach to assimilating DEI. There is a risk that over-emphasising DEI or going about 
+it ineffectively could be detrimental to corporate governance and risk management and culture 
+outcomes. For example, excessive focus on DEI could cre ate a culture where challenge is 
+stymied by fears of not being perceived as politically correct. In such instances the benefits of 
+constructive challenge would be lost. Another example is if there is a  box-ticking approach to 
+DEI, without genuine commitment to sustainable improvements. The risk of a box-ticking culture 
+may be exacerbated by financial incentives linked to reaching certain quantitative diversity 
+metrics. Instead, it is more effective to link DEI non -financial performance metrics for variable 
+remuneration to the delivery of a diversity and inclusion strategy more generally. 
+ 
+Box 2: What is groupthink and why does it matter to insurers? 
+The theory of groupthink was introduced by psychologist Irving L. Janis. It can be defined as “a 
+mode of thinking that people engage in when they are involved in a cohesive in- group, when the 
+members’ striving for unanimity overrides their motivation to realistically appraise alternative 
+courses of action”.7 Janis studied how groupthink can be a factor in bad decision-making through 
+studying well-known incidents such as the Cuban missile crisis.8   
+Although some later work is critical of Janis’s theories, the concept has nevertheless become a 
+widely accepted lens through which to consider organisational decision- making. Analysts have 
+named it as a contributing factor in “the Challenger and Columbia space shuttle disasters […] the 
+failures of companies such as Enron and Worldcom, decisions relating to the second Iraq war, 
+ 
+7 Janis, I.L. (1982) Groupthink: Psychological studies of policy decisions and fiascos. Boston: Houghton Mifflin, p. 9. 
+8 Janis, I.L. (1972) Victims of groupthink. Boston: Houghton Mifflin.
+
+and the [… 2008] financial crisis.” 9 The I nternational Monetary Fund’s (IMF) Independent 
+Evaluation Office cited groupthink as a factor that contributed to the IMF not warning its member 
+countries about the build-up of risks that culminated in the financial crisis.10 
+In the insurance sector specif ically, groupthink has been cited as a factor in the failure of AIG 
+during the financial crisis. In this case, a dominant CEO had handpicked board members who 
+were unable to constructively challenge his business decisions or set appropriate risk appetites.  
+This ultimately contributed to significant financial misconduct in addition to risk management 
+failures.11 
+International standard setting bodies, including the IAIS, commonly reference groupthink as one 
+barrier to sound prudential and conduct outcomes at financial firms.12  
+How can DEI reduce groupthink? 
+Janis (1982) outlined some potential structural faults within an organisation which can contribute 
+to groupthink. These include, amongst others: 
+• Lack of impartial leadership; and 
+• Homogeneity of members’ social background and ideology. 
+Therefore, one way to mitigate groupthink and its detrimental effect on decision- making is to 
+consider ways of reducing the structural factors within an organisation which can lead to 
+groupthink. DEI can help reduce homogeneity in social background and ideology, and via inclusion 
+can also help create an institutional culture in which leaders invite constructive challenge. This can 
+then help ensure that alternative courses of action are sufficiently appraised during decision -
+making, therefore reducing the likelihood of adverse risk incidents. 
+ 
+3 What should a supervisor look out for? 
+ 
+3.1 Relevant matters to look at 
+27. Diversity in insurers usually means three things: (i) demographic diversity, (ii) diversity of 
+experience and (iii) diversity of thought (also called cognitive diversity). 13 In relation to 
+demographic diversity, personal data on diversity characteristics needs to be handled sensitively 
+and, in some cases, cannot be collected at all  (eg for legal reasons) . Regarding diversity of 
+experience and diversity of thought, they are particularly challenging to measure, but all are 
+relevant for sound decision-making. A combination of demographic diversity and diversity of skills 
+ 
+9 Bénabou, R. (April 2013) ‘Groupthink: Collective Delusions in Organizations and Markets’. The Review of Economic Studies  
+80(2), p. 430.  
+10 Collyns, C. and Loungami, P. (2023) Independent Evaluation at the IMF: The Second Decade, Independent Evaluation Office 
+of the International Monetary Fund, p. 86. 
+11 Cass Business School (2021) ‘Roads to ruin: A study of major risk events’ p.6. 
+12 See for example: IAIS (November 2018) ‘Application paper on the Composition and Role of the Board’. Financial Stability Board 
+‘Strengthening Governance Frameworks to Mitigate Misconduct Risk: A toolkit for Firms and Supervisors’. Blinco, S. et al (March 
+2020) ‘Bank Boards – a review of post-crisis regulatory approaches’, Financial Stability Institute/Bank for International Settlements.  
+13 Please also refer to Box 1: Interpretation of the terms diversity, equity and inclusion in this paper.
+
+and experience are likely to fos ter greater diversity of thought in firms and help reduce 
+groupthink.  
+28. Notwithstanding these challenges, diverse representation (ie the presence of diversity amongst 
+the people working for the insurer) can be a worthwhile initial focus area for a superviso r to 
+examine, where possible. Supervisors may focus first on whether there is diverse representation 
+at the board and senior management level with a view to assessing potential risk of groupthink 
+where key decisions are made . In addition, supervisors may  look for diverse representation at 
+other levels of the insurer ( including, for example, amongst members of nomination/selection 
+committees) and at how well diverse representation is supported by recruitment and promotion 
+processes. 
+29. Equity and inclusion, often reflected through acts, behaviour and attitudes , can be harder to 
+measure. Insurers can assess equity by analysing and monitoring the employee lifecycle such 
+as recruitment and promotion practices and outcomes. Inclusion can be measured  by insurers 
+undertaking employee surveys and monitoring outcomes of those surveys. Supervisors can look 
+at whether an insurer is paying attention to DEI by assessing whether these types of initiatives 
+are in place.  
+30. A lack of attention to equity and inclusion can not only cause direct adverse implications for the 
+quality of governance and risk management, but can also be a barrier to the benefits of diversity 
+coming to fruition. Furthermore, a focus on inclusive practices that promote challenge and debate 
+may be particularly pertinent to those insurers where achieving a diverse workforce may be 
+challenging due to, for example, the location of the business (eg where offices are located outside 
+of major cities). Supervisors may wish to engage with insurers on how they promote equity and 
+inclusion given the aforementioned risks.  
+31. Some insurers may be reluctant  to focus on DEI and may have blind spots for the need for 
+change and/or continuous improvement. Supervisors may wish to understand an insurer’s 
+rationale for this further, and whether an insurer’s stance on DEI is in itself being driven by 
+groupthink.  
+32. The next section elaborates on the warning signs supervisors can look for; conversely Box 3 at 
+the end of the section provides an overview of indicators of positive DEI action by an insurer.  
+3.2 Warning signs an insurer might need to enhance its DEI efforts  
+33. Certain circumstances or behaviours can be warning signs indicative of the need for increased 
+engagement on the topic of DEI by that insurer. A warning sign, especially on its own, may not 
+conclusively be due to problems with DEI but warning signs merit further enquiry. Some may be 
+easily correctable, while others may be indicative of deeper issues. Observing multiple warning 
+signs reveals an even higher likelihood of DEI-related issues at the insurer. 
+34. Two sets of warning signs are presented below. The first  relates to concerns that would be 
+observable when examining governance, risk management and corporate culture at an insurer 
+—which all insurance supervisors do—and they are concerns which may in fact be rooted in DEI 
+issues. Therefore this set of warning signs illustrates how DEI issues within an insurer could be 
+causing impacts that raise supervisory concerns, and is relevant to all supervisors. The second 
+set is warning signs that the DEI initiatives being implemented by an insurer involve shortcomings 
+or problems which may actually make them ineffective in driving real change. This second set of 
+warning signs is relevant for supervisors who already (or are preparing to or are considering to)
+
+examine the DEI actions being taken by insurers. Supervisors may observe one, or other, or both 
+kinds of warning signs at a given insurer.  
+35. Governance, risk management, and corporate culture warning signs that may arise when 
+there is a lack of DEI: 
+• Lack of challenge in board discussions and key decision-making processes  
+This could be observed in board meeting minutes which reveal that some members, including 
+the Chair, are dominating board discussions, or the Chair does not invite sufficient input from 
+all participants in b oard meetings. It can also be detected by supervisors observing board 
+meetings to see the group dynamics of the board and how comfortable board members are 
+to contribute and challenge,  and the extent to which members’ views are considered and 
+included. Recognising that the presence of supervisors may in some cases change the 
+board’s behaviour during a meeting, holding interviews with individual directors can provide 
+additional insights into regular practices . A lack of challenge and robustness in b oard 
+discussions can mean that diverse experiences and perspectives are not being contributed 
+and hence decisions being taken are not as robustly debated and they may be impacted by 
+groupthink.  
+• Resistance to change 
+A corporate culture that is resistant to change can be indicative of groupthink and of a lack 
+of psychological safety, as they both limit people’s ability to see the merit in different ways of 
+doing things and to feel empowered to try new approaches or take suitable risks.  
+• Lack of open communication between levels  
+The absence of open channels to express concerns or provide feedback about specific 
+issues may lead to problems not being addressed in the insurer. The lack of transparent 
+communication also means that senior management may miss crucial insights and 
+perspectives from lower levels, which could lead to decisions that inadvertently 
+disadvantage certain groups or segments, or identified concerns not being addressed.  
+This deficiency could be observed by the investigation of incidents revealing that issues, 
+identified risks, and misconduct were known to some but were not appropriately escalated 
+to senior management, or to the board. This may point to a culture where differences of 
+opinion are not respected by the people in senior management or on the board, and where 
+employees feel targeted or discriminated against for speaking up. It may also be an 
+indication of a ‘good news’ culture in an insurer, where the raising of negative issues is not 
+welcomed or rewarded.  
+• Breaches that persist for a long time  
+Misconduct, compliance, or Key Performance Indicator (KPI) breaches that continue for a 
+long time can be indicative of groupthink within an organisation. When the people working in 
+an organisation are all similar to each other and different perspectives and opinions are not 
+encouraged, there is a higher risk that misconduct, compliance or KPI breaches can become 
+normalised as “the way things are done around here” and are allowed to persist without being 
+recognised as wrong.  
+• Insufficient consideration to views of control functions  
+This could be observed by the roll out of new initiatives before the proper risk management 
+processes are implemented, or by the reporting of risks being paid insufficient attention. It
+
+can be indicative of different perspectives and diff erent skill sets not being respected within 
+an organisation and can be a sign of a poor risk culture within an insurer.   
+• High employee attrition levels and/or retention challenges  
+The pace of employee turnover can be a result of negative organisational dynamics due to 
+DEI factors. Where there is a lack of DEI, employees may feel disenfranchised or it may have 
+a negative impact on employee satisfaction and erode trust amongst employees, ultimately 
+resulting in individuals leaving employment. In addition, where an insurer is not attracting or 
+retaining staff from particular groups, and they are leaving at disproportionate rates  as 
+compared to other groups, this may indicate a lack of inclusion in the culture of the insurer.  
+Where there is high turnover at senior levels this can be an even more acute indication.  Exit 
+interviews may be a useful tool to determine whether the root cause of the turnover is DEI 
+related, for instance by revealing a lack of embedment of inclusion in the culture of the  
+insurer.  
+• High or long-term vacancy rates and poor recruitment outcomes 
+An insurer may struggle to recruit talent if it  has a reputation for not having a diverse 
+workforce or being inclusive. Where recruitment practices do not account for the importance 
+of DEI in the workforce, this may result in poor recruitment outcomes that do not deliver the 
+desired change. 
+• Outcomes of employment tribunals/discrimination cases in favour of employees, and 
+against the insurer 
+These outcomes can be indicative of unfair labour practices through indirect or direct 
+discrimination within the insurer that needs to be remedied. 
+ 
+36. Warning signs highlighting shortcomings or problems with the embedding of DEI14: 
+• Disparaging or dismissive attitude to promoting DEI 
+A lack of appropriate leadership, positive tone from the top and role modelling on the 
+importance of DEI. This may include dismissive attitudes or unsympathetic messaging on 
+DEI matters displayed by the board or senior management. 
+• Lack of DEI efforts in an insurer to drive change 
+The absence of a clear strategy or policy on DEI, no consideration of the lack of DEI as a 
+risk, and/or no conviction that progress on DEI is worth pursuing. Also, an unwillingness to 
+design and implement more equitable processes that depart from the status quo.  
+• Unclear accountability  
+Lacking, or unclear accountability at all levels  of the organisation, or accountability only at 
+the executive level. Without a proper framework providing clear accountability and 
+measurement and evaluation, challenges will arise in effectively embedding DEI initiatives. 
+• Limited or stagnant diversity metrics 
+No monitoring of diversity or inclusion metrics (where legally permissible for the insurer to be 
+doing so), or limited change over prolonged periods of time. Lack of appropriate diversity 
+metrics could be a warning sign, or where there are diversity metrics in place but evidence 
+ 
+14 Conversely, Box 4 provides an overview of indicators of positive DEI action by an insurer.
+
+of little or no improvement in diversity outcomes over time signalling a lack of progress in 
+embedding DEI practices. 
+• Insufficient attention given to inclusive attitudes and behaviour 
+Focusing solely on diversity metrics without giving due consideration to the importance of 
+inclusive practices. Action to improve DEI needs to focus not only on increasing the presence 
+of diversity, but also on fostering better inclusion so that the benefits of that increased 
+diversity can be activated. 
+• All talk and no substance (see also Box 3 on ‘What is DEI-washing?’) 
+Taking an unambitious, “box -ticking” view of DEI. The insurer should be focused on the 
+practical application of DEI to achieve genuine enhancements, instead of taking a tick -box 
+approach. Inability to demonstrate the application of DEI commitments and lack of purposeful 
+follow-through on DEI pledges can be a telling warning sign,  as can public disclosures that 
+do not realistically reflect the situation. 
+• Lack of an informed DEI strategy 
+The absence of a clear understanding of the current state, the desired DEI target state and 
+an approach to regularly measure progress towards that state, including effective feedback 
+loops. Without sufficient data and insights, the insurer cannot determine its current position 
+relative to its target state and the effectiveness  of its DEI strategy. It also exacerbates the 
+risk of introducing new DEI initiatives without reflecting on whether the existing structures, 
+processes and systems contribute to poor DEI practices and how to correct those. 
+• Poor internal communication on DEI 
+Inadequate internal communication reinforcing the commitment to DEI and driving 
+awareness of the initiatives and progress. This can result in a lack of engagement by staff 
+and middle management, and the perception that any DEI-related change is deemed a low 
+priority for management and the organisation.   
+• Limited employee feedback channels 
+Absence of confidential routes for staff to express their views or raise concerns, including for 
+issues related to poor DEI practices , without fear of  repercussion. Confidential 
+communication routes can include engagement surveys or secure whistleblowing channels. 
+A lack of opportunities for employees to provide honest feedback and to report their personal 
+experiences indicates a lack of genuine commitm ent to understanding the employees’ 
+experience of inclusion (or exclusion, as the case may be)  and can indicate wider cultural 
+issues within an insurer.  
+• Absence of a holistic approach 
+An overreliance on bottom -up initiatives like staff networks or allyship groups , without an 
+institution-wide strategy and/or dedicated resource. Although important, networks should not 
+be relied on to create systemic change  in isolation, in particular where the staff are not 
+sufficiently resourced to do so outside of their day job. 
+• Focusing on increasing diverse representation only at the senior leadership level  
+Diversity at all levels of the insurer is important  to drive long term change. Focusing on 
+diversity also in junior and middle management creates a better pipeline of talent coming up 
+through the organisation.
+
+Box 3: What is DEI-washing? 
+In some jurisdictions the term ‘DEI-washing’ (reminiscent of the more familiar term greenwashing) 
+is becoming increasingly common and is used to describe the situation in which diversity, equity, 
+and inclusion is pursued in a superficial or symbolic manner. Like greenwashing, DEI -washing is 
+used to refer to organisations that prioritise messages over meaningful policies and tracking of 
+progress on DEI initiatives. These organis ations may be consciously only adopting superficial 
+mechanisms to create the appearance of diversity without taking genuine, committed action to 
+address real inequalities. 
+Several research studies 15 have shown that a number of companies actively promote their 
+commitment to diversity, equity and inclusion in their public communications, but in reality, their 
+recruitment practices or corporate culture are not representative of reality in the workplace. 
+Concerning the insurance sector, a real diversity of talent and realities in the workforce can lead 
+to a much more comprehensive product offering that is far more tailored to consumers’ needs. 
+Conversely, DEI -washing can lead to poorly defined insurance n eeds, leaving the consumer 
+without suitable product options. 
+Subsequently, this can cause problems regarding ESG ratings. Companies can exaggerate their 
+commitment to DEI, causing inflated ESG ratings and increased ownership by ESG focused 
+investors. This may create legal and regulatory risk for such a company, as they may face a risk 
+of regulatory sanctions, prosecution or litigation for engaging in inaccurate or misleading 
+disclosures.  
+ 
+37. It is worth noting that some insurers may be making a concerted effort in promoting DEI internally, 
+recognising the benefits it can bring. Indeed, there are many voluntary initiatives across 
+jurisdictions that aim to promote particular aspects of DEI, and multiple insurers  have taken 
+unilateral action or as part of such i nitiatives with a view of driving progress and making lasting 
+change. Examples of positive actions are provided in Box 4 . While not an exhaustive list, and 
+noting that DEI practices continue to evolve, these indicators may be helpful for supervisors when 
+considering the state of play with respect to DEI amongst insurers. 
+ 
+Box 4: Indicators of positive action on DEI at an insurer 
+Supervisors can look for these indicators of positive DEI action at an insurer: 
+Enablers 
+• Active engagement speci fically on DEI by boards, senior managers and evident throughout 
+the insurer (including clear DEI strategy, objectives, targets and communications). 
+• Existence of a strong DEI framework (including policies, procedures and  governance 
+structures). 
+• Adequate budget and resources to support the insurer’s DEI activities. 
+ 
+15 Diversity Washing by Andrew Baker, David F. Larcker, Charles McClure, Durgesh Saraph, Edward M. Watts :: SSRN
+
+• Engagement with stakeholders, companies within an insurance group, peer organisations 
+(maybe via trade groups, professional organisations and specialist DEI advisors etc) to 
+leverage the expertise, experiences and perspectives of others. 
+Tools 
+• Provision of training and education to staff, at all levels. 
+• Linkages to other initiatives (eg culture, risk culture, accountability frameworks, succession 
+planning and recruitment). 
+• Existence of employee focus groups to promote the insurer’s DEI activities and initiatives.   
+• Use of remuneration to drive good DEI outcomes (eg incentives, performance targets and 
+consequence management). 
+• Clear accountabilities set (eg prescribed responsibilities, scorecards and job descriptions). 
+• Existence of secure mechanisms of whistleblowing channels. 
+Evidence 
+• Positive feedback/results from staff surveys and questionnaires (including topics such as 
+culture, behaviours, freedom to contribute and remedial action to address issues).   
+• Talent surveys and evidence of opportunities and rotations being given to those from diverse 
+backgrounds (who may not have so benefited in the past). 
+• Positive quantitative and qualitative data results. 
+• Benchmarking with external organisations and published results. 
+• Customer feedback. 
+Controls and reporting 
+• Independent oversight monitoring and input (eg using internal audit, risk management and 
+compliance). 
+• Comprehensive, meaningful, and honest data gathering and reporting. 
+ 
+4 What can a supervisor do in response? 
+38. Supervisors have a number of ways to address DEI issues identified at an insurer, with the nature 
+of the response varying depending on the severity of the issue, the viability of the insurer and its 
+impact across the sector. The first section sets out potential industry -wide actions, then the 
+second section builds on this focusing on more targeted actions a supervisor may take with 
+individual insurers where one or more of the aforementioned warning signs have been identified. 
+The potential actions available to supervisors as set out in this section must be considered in the 
+jurisdictional context of the supervisor, bearing in mind the powers and mandate of a supervisor 
+to undertake any such action. 
+4.1 Industry-wide approach 
+39. Similar to other aspects of governance, risk management and corporate culture, some DEI 
+challenges may be common across the insurance sector, and so an industry-wide approach may 
+be warranted. This may particularly be the case where poor DEI practices are culminating in 
+adverse outcomes that already are, or are likely to, negatively impact the safety and soundness 
+of insurers. In addition, a sector-wide approach may be appropriate where systemic issues have 
+been observed and public action can help drive greater attention to DEI across the board.
+
+40. Supervisors have a range of options from using soft powers , to incorporating DEI into their 
+supervisory approach, through to using formal powers to create new requirements. Implementing 
+a combination of responses is likely to have the greatest positive impact. The actions taken by a 
+supervisor will depend on what is possible under their supervisory remit and statutory objectives, 
+as well as their strategic priorities.  Irrespective of which route is taken, consideration of 
+proportionality is needed when developing industry-wide responses. The location and size of the 
+insurer are two factors that can be impactful , as well as  the importance of local cultures and 
+context.  
+41. If supervisors feel unable to take any DEI -specific action they can nonetheless contribute 
+positively to the promotion of DEI more broadly within insurers, such as through whistleblower 
+programs and other protections. The ability for truthful accounts of lived experiences to be raised 
+is an important way that exclusion and mistreatment can be brought to light and acted upon. 
+Supervisors can also strengthen cooperation with other authorities that have the mandate to 
+promote DEI, such as equality and anti-discrimination bodies.  
+42. Supervisors can also have a positive influence industry-wide in encouraging progress on DEI by 
+striving to improve DEI within their own organisations and adopting some transparency in the 
+process. In this way they can serve as role models leading by example. All supervisors have the 
+potential to do this, including those unable to take DEI-specific action with insurers.  
+4.1.1 Use of soft powers 
+43. As a starting point, the use of softer powers by the supervisor can open the dialogue on the role 
+of DEI in supporting good governance, risk management and corporate culture in insurers. 
+Delivering speeches, publishing articles and being transparent about the supervisory body’s own 
+objectives, actions and progress in driving change can encourage dialogue. Supervisors may 
+also consider suasion techniques (eg Dear CEO/Chair letters), voluntary initiatives (such as 
+public commitments and disclosures by insurers of their DEI approach and achievements), and 
+engaging in informal conversations that encourage progress. In turn, supervisors may review 
+existing disclo sures and/or other available material (including from other sectors, where 
+appropriate), to inform these conversations. 
+44. Recognising that progressing diverse representation and embedding more inclusive practices is 
+a learning curve for all institutions, supervisors may consider using their convening powers to 
+work together with industry on identifying challenges and sharing learnings and steps to 
+overcome these (eg via roundtables, organising mentoring schemes, etc). This may be 
+particularly helpful where co mmon challenges exist, including in creating a diverse pool of 
+candidates for both insurers and supervisors alike, as well as identifying and working through 
+barriers certain groups of individuals  may face once within the workforce (eg  flexible working). 
+Partnering with other suitable organisations to drive attention/progress on DEI  (eg peer 
+supervisors, government or similar agencies, professional bodies etc) can also support a broader 
+approach that provides diversity of thought and experience, including from other sectors. 
+4.1.2 Incorporating DEI themes into supervisory approaches 
+45. Consideration of DEI can be integrated into existing supervisory practices, in particular to form 
+part of general supervisory approaches related to governance, risk management and corporate 
+culture. For example, when supervising governance, supervisors may be able to learn about 
+insurers’ approaches to DEI by assessing board and senior management composition, including 
+how diversity of views in decision making is welcomed and constructi ve challenge is received.  
+Closer consideration can also be given to insurers’ approaches to succession planning,
+
+recruitment practices and training, as well as their understanding of the impact of DEI in objective 
+setting, product and service development and strategy.  
+46. DEI warning indicators relating to compliance and KPI breaches, whistleblowing, escalation of 
+issues and consideration of control function concerns may all be identified as part of supervision 
+of risk management and risk culture. Supervision of behavioural and cultural risk may also help 
+identify and address DEI concerns, including in relation to lack of challenge, misconduct, 
+communication and speaking up.   
+47. In addition, particular supervisory programmes could be broadened/deepened to include DEI 
+considerations. For example, individual accountability and remuneration supervision can also 
+assess the extent to which DEI is reflected in senior individuals’ statements of responsibilities 
+and in the remuneration scorecards of key decision makers, to help drive accountability and 
+consequence management. Accountability for DEI should be clear with the ability to measure 
+and monitor progress towards a target state.  
+48. Where supervisors have less insight into DEI through regular supervision, they may consider 
+conducting a thematic industry wide study (or selecting certain insurers), including through 
+surveys and document reviews.  This can be broad or adopt a focus on one or more of a range 
+of DEI-relevant topics, such as levels of speaking up, psychological safety, recruitment policies 
+and practices etc. Using the information collected, supervisors may subsequently report publicly 
+on the DEI progress of the insurance sector, describing examples of good practice for insurers 
+to consider. 
+4.1.3 Develop requirements 
+49. In addition to the above, and particularly where issues and risks are persisting, supervisors may 
+want to take more formal action to help drive meaningful change.  This may take the form of 
+supervisory expectations, standards, rules or similar and could be mandatory or followed on a 
+‘comply or explain’ basis  – depending on the powers, approach, and policy rationale of the 
+supervisor.  The requirements may differ according to the size of the insurer.  
+50. Supervisors could require insurers to: 
+• Develop and maintain DEI strategies and/or internal policies. 
+• Set targets for demographic representation and/or improved inclusion metrics. 
+• Allocate senior responsibility within the insurer for DEI, perhaps connecting it to performance 
+objectives and remuneration. 
+• Implement training on DEI (for example unconscious bias training, or training on hiring 
+practices).16 
+• Implement measures to gather employee perspectives/insights on the state of DEI within the 
+insurer. 
+• Collect and report to the supervisor, several types of data: 
+o on employee demographics. 
+ 
+16 The goal of unconscious bias training is to help individuals understand and recognise their own unconscious and implicit biases 
+and suggest behaviours to mitigate those preconceptions. Training with respect to hiring and recruitment practices can help 
+support hiring managers and employees in Human Resources to understand how their biases may affect how they view and 
+assess candidates and help them make more inclusive hiring decisions.
+
+o on employee inclusion. 
+o other insurer data with DEI indicators (eg  board interactions, recruitment, retention, 
+promotion, attrition, policies & practices, performance management, remuneration 
+practices, and internal communications). 
+• Publicly disclose information on their data and/or approaches related to DEI. 
+• Undertake targeted remedial action. 
+51. Box 5 sets out how insurers and supervisors collecting and using diversity data can support the 
+embedding of DEI into insurers’ strategies and day-to-day operations. 
+52. To supplement the introduction of new requirements, publishing further supervisory guidance 
+may be helpful in supporting the industry’s understanding and may include benchmarks and 
+examples of practices.  
+53. Relevant laws of the jurisdiction (including any legal restrictions), existing standards and codes, 
+and the mandate and objectives of the supervisor, as well as whether other relevant supervisory 
+and policy frameworks already exist, will all be relevant to whether and how new expectations 
+and/or requirements can be introduced. 
+4.2 Insurer-specific engagement 
+54. Irrespective of whether a supervisor chooses to take sector -wide action, engagement with 
+individual insurers on DEI in a more targeted way may be pursued. Responses may range from 
+a preliminary discussion with the insurer to verify the actual implementation of what is provided 
+for in the insurer’s policies and practices (section 4.2 .1) to a more detailed review and analysis 
+of the insurer’s approach to DEI and the outcomes thereof (section 4.2.2).  
+55. As a result of insurer -specific engagement, a formal interv ention might result if the supervisor 
+finds serious concerns and if such intervention is available within the parameters of  the 
+supervisor’s mandate and powers.  Such formal interventions could include private warnings, 
+public disclosure of non-compliance, fines etc according to the egregiousness of the misconduct 
+or breaches. 
+4.2.1 Understanding an insurer’s approach to DEI 
+56. Generally, the starting point for a supervisor when warning signs on DEI are encountered would 
+be to undertake an analysis of the insurer’s approach to DEI, including engaging with the insurer 
+on the indicators identified. In such instances exploratory discussions can be undertaken to 
+understand how DEI is reflected in its business strategy, what the current status of DEI is, and 
+its intention and aspirations in this regard. 
+57. A valuable starting point may be targeted engagement with the board on  their role in setting 
+organisational values of the insurer and effectively setting and overseeing the insurer’s corporate 
+culture, business obj ectives and strategies. Such engagement with the board can include 
+understanding how the board gains comfort that DEI strategies are being implemented and that 
+the benefits thereof are being cascaded throughout the organisation.  
+58. Consideration can also be given to incorporating discussions on DEI into the supervisory 
+approach more generally with that insurer (eg via regular engagement, governance reviews, 
+approvals, etc). Discussions could include the insurer’s commitments, objectives, monitoring, 
+resources, priorities and budgets in relation to DEI, as well as potential challenges, obstacles, or 
+restrictions it may face. Consideration can be given to verify whether the insurer's commitment
+
+to DEI is limited to compliance with applicable standards or goes beyond it ( eg by joining DEI 
+related projects of external parties or with international standards and recognised initiatives). 
+59. On the human resources side, remuneration, training, benefits and career opportunities should 
+be similar and accessible to all empl oyees with equivalent skills and work experience, and 
+supervisors may be able to enquire on this during regular engagement and on- site inspections. 
+A strong code of conduct, an internal DEI strategy and a whistleblowing policy can be 
+implemented to build a strong corporate culture and a safe and healthy work environment –  all 
+of which could be assessed through document review and interviews.  
+60. In detail, the supervisor could engage on whether the insurer has:  
+• A process to identify relevant issues linked to DEI. 
+• Internal DEI management methods  which may include also having brought on appropriate 
+specialist expertise. 
+• Group policies and procedures. 
+• Investor or stakeholder influence in relation to its approach to DEI. 
+• Quantitative information to enhance its DEI actions. 
+• Measurement of inputs and outcomes. 
+• The appropriateness of the prioritisation given to DEI at the b oard level, in senior 
+management and in the organisation as a whole. 
+4.2.2 Undertake review work to examine DEI related arrangements and plans 
+61. In addition to engaging with the insurer, the supervisor may consider undertaking a targeted 
+review of the insurer’s approach to DEI. Certain aspects of DEI may be difficult to identify and 
+monitor from document review alone, in particular where these are non- measurable and relate 
+to actions and norms within an insurer. A targeted review could be linked to quantitative and 
+qualitative assessments and include evidence-based engagements to explore and verify t he 
+design and effectiveness of DEI initiatives.  
+62. In the case of a desk-based assessment, a targeted review might include examining: 
+• DEI-related policies and documents: data providing insight into current status of DEI and 
+projects with metrics including leading and lagging indicators and dashboards; training 
+materials, job adverts, role descriptors and recruitment policies (for the entire employee 
+lifecycle, not only on entry to the insurer). 
+• Tone from the top messages: the organisation’s objectives, mission statements, internal 
+communications including DEI content on insurer intranet, senior leadership sponsorship and 
+messaging of DEI initiatives. 
+• Board and senior level engagement: reporting to inform the board and senior management 
+of DEI progress, board papers and minutes, and the oversight and monitoring at board level, 
+senior management level, and by the 1st, 2nd, and 3rd lines of defence. 
+• Accountability: board and senior management scorecards and accountability statements. 
+Details of allocation of key responsibilities amongst board members, senior management, 
+and staff.  
+• Culture assessments: culture or risk culture reviews, surveys and questionnaires (the 
+details and results thereof, and actions taken by the insurer in response thereto),
+
+compliance and internal audit reports, benchmarking (locally and internationally) within the 
+insurer and by comparison to peer organisations. 
+• Employee resource/affinity groups: groups representing different employee demographics 
+may provide additional context around intrinsic and emerging challenges, complementing 
+top-down communications and formal policies/guidelines, revealing DEI reality within the 
+insurer. 
+• DEI at the board level: board skills matrix, board performance and evaluation reports and 
+succession plan, reporting and escalation procedures to senior management and the 
+board. 
+63. In addition to information produced by the insurer, a supervisor may further choose to review 
+available external sources of information such as public disclosures on DEI (eg reports and 
+accounts, disclosures on the insurer’s website, and other published data), awards and prizes, 
+independent peer review, survey results, audits or measurement systems, external performance 
+evaluations, benchmarking, stakeholder feedback and complaint management systems. 
+64. While the design of DEI policies may be possible to asses s from desk -based reviews, their 
+effectiveness may be harder to evaluate based on written material alone. To that end  
+incorporating DEI concerns, questions, and considerations into business -as-usual supervisory 
+engagement such as on-site visits, observation of board and senior management meetings and 
+structured meetings or interviews can help provide further insights to assess whether policy and 
+practice align. If looking into DEI specifically, supervisors may consider the use of focus groups 
+and ‘year on year’ reviews or engagements to track progress/developments. 
+65. In addition, supervisors may undertake their own enquiries or investigations with insurers to 
+understand their arrangements. These could include a focus on known issues or incidents arising 
+by conducting a root cause analysis to determine if the underlying causes of DEI issues have 
+been identified and that steps have been taken to address them effectively and to prevent future 
+occurrences.  
+66. Supervisors may also consider how DEI is managed at group level to ensure that individual 
+insurance legal entities within the group do not overly rely on group- level DEI policies and 
+procedures without adapting t hem t o appropriately reflect their own specificities. Such 
+specificities may include the current DEI state within that individual insurance legal entity and, 
+more broadly, may reflect the jurisdictional DEI priorities and approaches of where it is located.  
+67. In all cases, it is important for supervisors to ensure DEI is not treated as a box ticking exercise, 
+and that the board and senior management treat it with sufficient consideration. When DEI 
+considerations are fully embedded in all aspects of the insurer, they can positively contribute to 
+governance, risk management and culture and generally how the insurer carries out its business, 
+thereby helping reduce risks to supervisory objectives. 
+Box 5: Collecting and using data as part of a DEI strategy 
+With any change strategy, it is useful to have a well -informed understanding of the current s tate 
+from which to identify problems and opportunities, design initiatives and then measure progress. 
+Gathering and using data that give insight into the presence or not of diversity and the degree of 
+inclusion or exclusion within an insurer, in jurisdictions where it is legal and culturally acceptable,
+
+can therefore be a powerful component of insurer -initiated DEI actions and action by the 
+supervisor.  
+Insurers’ use of data: 
+If an insurer is collecting data, it should be then using the data to inform its D EI strategy in 
+accordance with the following steps: 
+• Collecting data on the state of diversity, equity and inclusion within the insurer.  
+• Analysing and interpreting the data to reveal insights (ie by comparison of data with local 
+societal demographics, soci etal norms and expectations, by comparison with peers – 
+where peer data is available) 
+• Informed by the data insights, setting a strategy with clear objectives and ways of 
+measuring future progress and then implementing that strategy. 
+• After implementation of  the strategy, review its progress over time by collecting and 
+analysing data to measure progress reveal whether the initiatives are proving successful 
+in achieving the strategic goals.   
+Thus, the steps repeat to form a cycle of data collection and analys is > strategy formation > 
+implementation > data collection for assessment, etc. 
+Data can be used to examine diversity, equity, and inclusion: 
+• Diversity – In some jurisdictions, insurers are legally permitted to collect demographic data 
+on their employees though employees are not required to respond. Insurers can use this 
+data to build an understanding of how various demographic groups are represented within 
+the insurer, including at different levels and roles within the insurer. This would help t hem 
+understand if they were sufficiently diverse considering their local context, including 
+sufficiently diverse at different levels and in different role types. 
+• Equity – Insurers can collect data on the outcomes being achieved by equitable initiatives 
+they have introduced such as mentorship programs, targeted recruitment programs and 
+blind recruitment processes (where gender and name are removed from applications) to 
+test whether they are contributing to more diversity and enhanced inclusion. Data can also 
+be interrogated to test whether there are distinctions in salary progression, awarding of 
+bonuses, allocating development opportunities and career progression on the basis of 
+gender or other diversity characteristics.  
+• Inclusion – Insurers can also gather data on inclusion via voluntary, anonymous employee 
+surveys designed to gather data such as whether employees feel a sense of trust, 
+belonging and psychological safety at their workplace. 
+The data can then be analysed, for example, in the following ways:  
+• Insurers that can collect both demographic and inclusion data and analyse the two 
+alongside one another to try and establish if there are concerns in relation to equity within 
+the insurer. For example, do people from a particular demographic group feel lower levels 
+of psychological safety in the insurer?  
+• Insurers with demographic data can cross -reference this with data on employee 
+promotions and attrition. They can also look at intersectionality ie are employees with more
+
+than one characteristic from a di sadvantaged group experiencing disadvantage or 
+exclusion at the insurer? 
+• Insurers can look at demographic data with reference to representation at different levels 
+within an insurer (eg are people from a disadvantaged demographic group represented at 
+lower levels of an insurer but not at senior levels?). 
+• Insurers that cannot collect demographic data but can collect inclusion data can consider 
+if they are receiving lower than expected results in any area. For example, do people in the 
+insurer feel they can speak up and challenge the prevailing views and that if they do, they 
+will be listened to? If the survey revealed that the majority don’t feel this way, the insurer 
+can consider how to improve this metric. 
+Supervisors’ use of data: 
+Supervisors, by receiving reporting of an insurer’s DEI data, and/or by receiving information about 
+the insurers’ approach to collecting and informing itself on the analysis of that data, will be able to 
+form an assessment of the robustness of the insurers’ strategic approach to DEI. The supervisor 
+will also be able to identify outliers, for instance, where inclusion measures are especially low or 
+where there is especially low diverse representation at an insurer compared with its peers and this 
+can help achieve traction with the insurers’ board on the need for change.  
+Additionally, there is a useful role for the insurance supervisor in collecting from insurers the data 
+that they have to enable public reporting by the supervisor on DEI within the insurance sector 
+(most likely in aggregate) to promote transparency, motivate progress and facilitate insurers’ ability 
+to compare themselves against peers. 
+Where DEI data collection is not an option:  
+Where a supervisor cannot require insurers to collect and disclose DEI related data due t o 
+limitations in the supervisory mandate, jurisdictional context or in the absence of legislative power, 
+the supervisor can instead examine how the insurers’ policies, practices and culture support 
+increasing diversity within the insurer and creating inclu sive environments. Consideration can 
+particularly be given to recruitment and promotion, senior level buy -in and accountability for DEI 
+and policies that make the work environment psychologically safe.  Further examples are set out 
+in Section 4 of this paper. 
+5 Conclusion  
+68. Embedding DEI in an insurer is anticipated to positive ly impact its corporate governance, risk 
+management and corporate culture. For this reason it bears a direct correlation to supervisory 
+objectives.  
+69. That said, DEI needs to be considered within the jurisdictional and cultural context of a particular 
+supervisor, acknowledging legislative restrictions that may exist and recognising that diversity 
+focus can vary from one jurisdiction to another. 
+70. Understanding the benefits of DEI and being able to identify warning signs of a lack of DEI is 
+critical in helping supervisors identify and address the implications on the corporate 
+governance, risk management and corporate culture of an insurer. This could mitigate the 
+potential for widespread misconduct, groupthink and inappropriate decision making and reduce 
+financial and consumer harm, thereby supporting positive outcomes related to the insurer’s 
+safety and soundness, the interests of its policyholders and other stakeholders.

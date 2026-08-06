@@ -1,0 +1,1340 @@
+Draft Application Paper on climate 
+scenario analysis in the  
+insurance sector 
+November 2023
+
+About the IAIS 
+The International Association of Insurance Supervisors (IAIS) is a voluntary membership 
+organisation of insurance supervisors and regulators from more than 200 jurisdictions. The mission 
+of the IAIS is to promote effective and globally consistent supervisi on of the insurance industry in 
+order to develop and maintain fair, safe and stable insurance markets for the benefit and protection 
+of policyholders and to contribute to global financial stability.  
+Established in 1994, the IAIS is the international stand ard-setting body responsible for developing 
+principles, standards and other supporting material for the supervision of the insurance sector and 
+assisting in their implementation. The IAIS also provides a forum for Members to share their 
+experiences and understanding of insurance supervision and insurance markets.  
+The IAIS coordinates its work with other international financial policymakers and associations of 
+supervisors or regulators, and assists in shaping financial systems globally. In particular, the IAIS is 
+a member of the Financial Stability Board (FSB), member of the Standards Advisory Council of the 
+International Accounting Standards Board (IASB), and partner in the Access to Insurance Initiative 
+(A2ii). In recognition of its collective expertise, t he IAIS also is routinely called upon by the G20 
+leaders and other international standard-setting bodies for input on insurance issues as well as on 
+issues related to the regulation and supervision of the global financial sector. 
+For more information, please visit www.iaisweb.org and follow us on LinkedIn: IAIS – International 
+Association of Insurance Supervisors. 
+ 
+Application papers provide supporting material related to specific supervisory material (ICPs or 
+ComFrame). Application papers could be provided in circumstances where the practical 
+application of principles and standards may vary or where their interpretation and implementation 
+may pose challenges. Application papers do not include new requirements, but provide further 
+advice, il lustrations, recommendations or examples of good practice to supervisors on how 
+supervisory material may be implemented. The proportionality principle applies to the content of 
+application papers. 
+ 
+International Association of Insurance Supervisors  
+c/o Bank for International Settlements  
+CH-4002 Basel  
+Switzerland  
+Tel: +41 61 280 8090  
+  
+This document was prepared by the Climate Risk Steering Group (CRSG) in consultation with IAIS 
+members. 
+This document is available on the IAIS website (www.iaisweb.org). 
+© International Association of Insurance Supervisors (IAIS), 2023.  
+All rights reserved. Brief excerpts may be reproduced or translated provided the source is stated.
+
+Contents  
+Contents ............................................................................................................................. 3 
+ Introduction ............................................................................................................... 5 
+ Scenario analysis versus stress testing ................................................................. 6 
+2.1 Identifying and applying climate change risk drivers ................................ ....................... 7 
+ Scenario analysis objectives and scenario design (ICP 24 and 16) ................... 10 
+3.1 Objectives of climate-related scenario analysis exercise ................................ .............. 10 
+3.1.1 Analysing objectives and design considerations ................................................................................... 11 
+3.2 Scenario design ................................ ................................ ................................ ................. 12 
+3.2.1 Supervisory design considerations........................................................................................................ 12 
+3.2.2 Insurer design considerations ............................................................................................................... 16 
+ Macroprudential considerations for supervisors (ICP 24) .................................. 17 
+4.1 Assessing systemic importance (ICP 24.3) ................................ ................................ ..... 17 
+Recommendations ................................ ................................ ................................ .................. 17 
+4.1.1 Challenges at a national level ............................................................................................................... 17 
+4.1.2 Challenges at an international level ...................................................................................................... 18 
+4.1.3 Risk concentration ................................................................................................................................. 18 
+4.2 Supervisory response (ICP 24.4) ................................ ................................ ...................... 22 
+4.3 Transparency (ICP 24.5) ................................ ................................ ................................ .... 23 
+ cenario analysis to inform assessment of insurers’ risk management and 
+governance (ICP 16) ........................................................................................................ 24 
+5.1 ERM framework review (ICP 16.16) ................................ ................................ .................. 25 
+5.2 Investment policies (ICP 16.6) ................................ ................................ .......................... 25 
+5.3 Underwriting policies (ICP 16.7) ................................ ................................ ....................... 26 
+5.4 Insurer ORSAs (16.12) (16.14)................................ ................................ ........................... 26 
+5.5 Integrating scenario analysis into risk policies (ICP 16.5, 16.6 & 16.7) ......................... 29 
+5.6 Risk appetite statement (ICP 16.4) ................................ ................................ ................... 30 
+5.7 Board accountability (ICP 16.11) ................................ ................................ ...................... 31
+
+Acronyms 
+ACPR Autorité de contrôle prudentiel et de résolution 
+(French Prudential Supervision and Resolution Authority) 
+APRA Australian Prudential Regulation Authority 
+BoE Bank of England 
+BMA  Bermuda Monetary Authority 
+EIOPA European Insurance and Occupational Pensions Authority 
+ERM Enterprise risk management  
+FSB  Financial Stability Board 
+GHG Greenhouse gasses 
+IAIG Internationally active insurance groups 
+ICP Insurance Core Principle 
+IEA International Energy Agency 
+IPCC Intergovernmental Panel on Climate Change 
+MAS Monetary Authority of Singapore 
+NGFS Network for Greening the Financial System 
+ORSA Own risk and solvency assessment
+
+Introduction 
+1. Climate change is a source of financial risk, which has the potential to impact the resilience of 
+individual insurers1 and financial stability2. It poses risks to both sides of insurers’ balance sheets. 
+It will result in significant economic and social change globally. Current failures to implement 
+agreed policies to move to net zero increase both the physical and transition risks to which 
+insurers are exposed. As a result, climate change is a key strategic them e for the IAIS. In May 
+2021, the IAIS published an initial Application Paper on the Supervision of Climate-related risks 
+in the Insurance Sector (“2021 Application Paper”).3 Since then, the IAIS has closely monitored 
+developments in global climate change mitigation efforts, climate science and how supervisory 
+practices to manage climate -related risks have evolved. In 2022, the IAIS performed a gap 
+analysis of existing IAIS supervisory material to assess how climate risk is already captured and 
+to identify possible further work in terms of standard setting and/or providing further guidance on 
+supervisory practices. This is the second in a series of consultation documents.  
+2. The focus for this paper is the use of climate-related scenario analysis by both supervisors and 
+insurers to understand the risks to which the insurance sector is exposed at a micro - and 
+macroprudential level. The paper considers why and how climate -related scenario analysis 
+exercises should be used and the extent to which they can overcome some of the shortcomings 
+of existing methods for assessing risks. It does not consider the development of climate 
+scenarios themselves, which are issues to be considered by bodies such as the Network for 
+Greening the Financial System (NGFS). 
+3. This application paper focuses in particular on how climate-related scenario analysis should be 
+considered in light of the standards set out in the Insurance Core Principles (ICPs) 16 (Enterprise 
+Risk Management for Solvency Purposes) and 24 (Macroprudential Supervision). In particular:  
+Table 1 Overview of ICP standards discussed 
+ICP Topic ICP Topic 
+16.2 Risk quantification 24.1 Scenario analysis data collection 
+16.3 Risk appetite  24.2 Sector analysis 
+16.4 Risk appetite statement 24.3 Assessing systemic importance 
+16.5 Asset and liability management  24.4 Supervisory response 
+16.6 Investment policy  24.5 Transparency 
+16.7 Underwriting policy    
+16.10 Own risk and solvency assessment (ORSA)   
+16.11 Board accountability    
+16.12 Performing ORSA   
+16.14 Time horizons   
+ 
+1 Paragraph 7 of the Introduction to the ICPs notes “Generally, the ICPs are equally applicable to the business of insurers and  
+reinsurers. Where the ICPs do not apply to reinsurers, this is indicated in the text ”. Therefore, broadly in this Application Pap er 
+any reference to insurance covers both primary insurers and reinsurers. However, where necessary the text will distinguish 
+between these. 
+2 The macroeconomic and financial stability impacts of climate change: research priorities | Banque de France (ngfs.net) 
+3 https://www.iaisweb.org/uploads/2022/01/210525-Application-Paper-on-the-Supervision-of-Climate-related-Risks-in-the-
+Insurance-Sector.pdf
+
+4. Climate-related scenario analysis is still in its early stages as a risk assessment tool but continues 
+to evolve rapidly and, for this reason, the IAIS expects to supplement this work in the coming 
+years as new tools, techniques and data becomes available. It also means the utility of climate-
+related scenario analysis will increase over time as data gaps are filled, the relationship between 
+climate risks and financial risks is better understood and the capacity of supervisors and insurers 
+improves. 
+5. The use of scenario analysis as a supervisory tool should be proportionate to the supervisor’s 
+assessment of the current uncertainty and limitations of scenario analysis (and the confidence in 
+the validity of assumptions). 
+6. The IAIS is also working with partners including the Financial Stability Institute  of the Bank for 
+International Settlements to support capacity building of insurance sup ervisors as this field of 
+work develops. It will continue to support members and an international dialogue in this evolving 
+area.  
+ Scenario analysis versus stress testing  
+7. As noted above, this application paper focuses on the role of climate -related scenario analysis 
+within ICP 16 (Enterprise Risk Management for Solvency Purposes) and ICP 24  
+(Macroprudential Supervision). The IAIS distinguishes scenario analysis from stress testing as 
+follows: 
+8. Stress testing is defined in the IAIS Glossary as:  
+“A method of assessment that measures the financial impact of stressing one or 
+more factors which could severely affect the insurer.” 
+Although climate-related stress testing is not the focus of this Application Paper, the concepts 
+described in the paper may also be relevant for stress testing exercises. 
+9. Meanwhile, scenario analysis is defined as:  
+“A method of assessment that considers the impact of a combination of 
+circumstances to reflect historical or other scenarios which are analysed in light of 
+current conditions . Such analysis may be conducted “deterministically or 
+stochastically.”4  
+10. Climate change is a driver of existing risks and therefore supervisors expect insurers to consider 
+the potential impact of climate change when assessing the existing risk categories . Given the 
+long-term nature of the risk, the significant impact it will have on economies and the dynamics of 
+physical, transition and climate -related litigation risks, it is well suited to scenario analysis. 
+However, historic data is not a good predictor  of risks because climate change is an emerging 
+phenomenon and because its effects are nonlinear. As a result, when conducting scenario 
+analysis, supervisors should ensure that scenarios are sufficiently forward-looking to capture the 
+specifics of climate change. These considerations add significant additional complexity to this 
+task. As a result, supervisors need to consider the proportionality of exercises.  
+ 
+4 The IAIS Glossary defines a deterministic scenario as “ An event, or a change in conditions, with a set probability in which the 
+underlying assumptions are fixed”. It defines stochastically as: “A methodology which aims at attributing a probability distribution 
+to certain financial variables. It sometimes uses closed form solutions, often involves simulating large numbers of scenarios in 
+order to reflect the distributions of the capital required by, and the different risk exposures of, the insurer.”
+
+2.1 Identifying and applying climate change risk drivers 
+11. Climate change is a driver of existing risks. To understand how climate change may impact the 
+insurance sector, it is important for supervisors and insurers at all levels to both understand the 
+transmission channels for climate-related risks and to keep abreast of scientific climate change 
+developments.  
+12. Table 2 below, for the purposes of this paper  sets out definitions for some key issues that are 
+discussed:  
+ 
+Table 2 Definitions 
+Term Definition 
+Climate change A change in the state of the climate that can be identified  by changes in the mean 
+and/or the variability of its properties and that persists for an extended period, 
+typically decades or longer. 
+Climate-related 
+risk/Climate risk5 
+Risk posed by the exposure of an insurer to physical, transition and/or liability risks 
+caused by or arising from climate change. 
+Climate-related 
+litigation risk 
+Cases brought before judicial and [quasi -judicial] bodies that raise issues of law or 
+facts regarding the science of climate change and climate change mitigation and 
+adaptation efforts.6  
+Physical risk Physical risks, including both longer-term changes in climate (chronic risk) as well as 
+changes to the frequency and magnitude of extreme weather events (acute risk), can 
+cause direct damage to assets or property, changes to income and costs, and  
+changes to the cost and availability of insurance. 
+Transition risk Transition risks include risks related to changes in domestic and international policy 
+and regulatory settings, technological innovation, social adaptation and market 
+changes, which can r esult in changes to costs, income and profits, investment 
+preferences and asset viability. 
+ 
+13. Climate-related scenario analysis exercises can be used to identify and assess emerging risks 
+that may arise over time and use that information to make forward-looking business strategy and 
+investment decisions. For example, certain assets may present increased risks if those sectors 
+become negatively impacted by policy shifts or technological changes related to climate change. 
+Climate-related scenario analysis can highlight these risks so that insurers can take appropriate 
+action to effectively and proactively manage them. Insurers could also use scenario analysis to 
+guide and prepare for changes that may be needed to their investment limits framework.  
+14. Similarly, climate-related scenario analysis can be an impactful tool for managing underwriting 
+risks. Non -life insurers could use scenario analysis to measure the compounding impact of 
+several catastrophe risk perils occurring consecutively in short order. For exampl e, heavy 
+precipitation causing floods is followed by extreme drought conditions causing wildfires, with the 
+pattern repeating itself in the following years. Climate change is projected to increase the 
+frequency and severity of these compounding extreme weather events, and some geographical 
+regions have experienced similar weather manifestations already. 
+ 
+5 These terms are used interchangeably in this paper. 
+6 CFRF: Scenario analysis working group: climate litigation risk chapter (fca.org.uk)
+
+15. Climate-related litigation risks are emerging in various jurisdictions across the globe and are 
+similar to both transition and physical risks in that they c an reduce asset values and create 
+additional costs for insurers (including legal fees) through rising claims  for business lines such 
+as directors’ and officers’ cover. They arise from a variety of bases such as environmental 
+damage, human rights violations, greenwashing or simply failure to disclose climate exposures. 
+The materiality of these risks is not currently clear, however large settlements could pose 
+financial risks for insurers. Equally, the likelihood and impact of this risk is highly influenced by 
+local legal regimes. In some jurisdictions, class actions may present significant risks for 
+corporates while for others there may be little risk. In considering these risks in scenario analysis, 
+it will therefore be important for supervisors and insurers to be clear on the specific climate -
+related litigation risks posed in the jurisdictions in which the insurer operates.  
+16. Efforts to address climate change are accelerating globally although progress is currently falling 
+behind internationally agreed targets, which poses significant risks for insurers. New approaches 
+and technologies to address climate -related risks are emerg ing at a rapid pace. Supervisors 
+should consider including both downside scenarios in which the greenhouse gas (GHG) 
+emissions stay elevated resulting in extreme physical risks, like the Current Policies scenario, 7 
+and other scenarios under which the tran sition to a lower emissions economy is achieved in a 
+smooth manner, like NGFS’ Orderly Net Zero 2050 scenario. Finally, they should also consider 
+scenarios in which the most extreme physical risks are avoided at the cost of a disruptive 
+transition, such as the Delayed Transition scenario. In all scenarios, insurance markets will be 
+impacted and, therefore, the focus is not on “if” insurers will be impacted but “when” and “how 
+much” they will be impacted. Insurers should also assess the need to adjust public ly available 
+scenarios to meet their needs to better understand emerging climate risks, but in doing so should 
+document these modifications in disclosures.  
+17. Climate-related scenario analysis, when designed and implemented appropriately, is a tool that 
+can help insurers build resiliency in their business models over the long-term, spanning multiple 
+decades, which goes beyond the regular business planning cycle. 
+18. The table below provides a non -exhaustive set of examples of the risks that can be identified 
+and assessed using scenario analysis for different lines of business: 
+ 
+Table 3 Climate risks by business line 
+Type of insurance 
+business 
+Examples of physical risk impact Examples of transition risk impact 
+All types of 
+business 
+• Impact of a certain Natural Catastrophe 
+(NatCat) risk perils on both sides of the 
+balance sheet. For instance, where an 
+insurer may hold mortgage-backed 
+assets on their balance sheet in a 
+region exposed to NatCat risk and have 
+an underwriting exposure to properties 
+in the same region. As a result, both 
+sides of the balance sheet are exposed 
+to the same risk. 
+• Assets may lose value and 
+liquidity due to climate-related 
+policy shifts, changes in 
+consumer demand or 
+technological changes, 
+especially in a delayed transition 
+scenario.  
+• Insurers may face reputational 
+risks and/or government policy 
+intervention as a result of 
+insuring certain emissions 
+ 
+7 https://www.ngfs.net/ngfs-scenarios-portal/
+
+• Corporate bond and equity exposures 
+on insurers’ balance sheets may be 
+subject to increased credit risk as a 
+result of physical risks to these issuers. 
+For example, supply chain disruption 
+because of a storm may impact profits 
+and increase the risk of default. 
+• Increased frequency and severity of 
+certain catastrophe risk perils can 
+negatively impact the value of certain 
+asset classes, like real estate lending 
+and infrastructure investments. 
+intensive sectors, which may 
+reduce certain business lines. 
+• Long-lived assets may lose 
+value and liquidity due to 
+climate-related policy shifts or 
+technological changes. 
+• Real estate investments may 
+face transition risks. For 
+instance, buildings with low 
+energy efficiency may be prone 
+to transition risks, if new 
+regulation forces all properties to 
+meet certain higher sustainability 
+standards, leading to either 
+stranded assets or significant 
+investments to meet the higher 
+standard.  
+Non-life specific • Increased frequency and severity of 
+NatCat perils on liabilities (and its 
+impact on the damage function used to 
+translate perils impacts to financial 
+losses). 
+ 
+• As economies transition to net 
+zero, key markets such as car 
+insurance will change. As these 
+changes occur, insurers will 
+need to understand the impact 
+on their underwriting risks. For 
+instance, the move to electric 
+vehicles will present different fire 
+risks to vehicles powered by 
+combustion engines.  
+Life specific • Chronic physical risks like heat waves 
+or persistent droughts can lead to 
+increased or altered mortality and 
+morbidity experience, impacting 
+underwriting risks.  
+• Life insurers in particular may have 
+significant sovereign asset exposure 
+creating a sovereign/insurer nexus. This 
+depends on the intrinsic exposure of a 
+jurisdiction to physical risk events (for 
+instance, the debt of jurisdictions most 
+exposed to a rise in sea levels may 
+suffer in case of a global warming 
+quicker than anticipated). 
+ 
+Health specific • Increased heat and moisture content in 
+the atmosphere can increase or alter 
+the likelihood of breakouts of water 
+borne diseases like malaria and 
+increase infectious diseases, etc. Global 
+warming will increase zoonotic transfer 
+of diseases and increase the probability 
+of infectious disease pandemics.
+
+19. Climate-related litigation risk scenarios could involve assessing underwriting liabilities (claim 
+settlement, for instance, from directors’ and officers’ policies and legal costs) that a corporate 
+could incur as a result of climate litigation. Or it could consider the extent to which litigation risk 
+is adequately captured in the assessment of investment risks (eg on corporate bonds and equity), 
+and the extent to which insurers could be liable for some of these losses; including the insurers’ 
+view on the robustness of any explicit contract exclusions in place. 
+20. While climate risk will be universal, risk factors will be jurisdiction-specific. Physical impacts will 
+be regional or even more local. Transition risks will be driven by a range of national factors (eg 
+the ambition of governments on net zero transition plans ) and legal liability risks will vary 
+depending on t he local  legal system. Supervisors will therefore need to understand these 
+dynamics and ensure they are factored into scenario design.  
+ Scenario analysis objectives and scenario design (ICP 24 and 
+16) 
+Context 
+21. This section provides guidance on how superviso rs could consider data collection within the 
+context of climate-related scenario analysis (ICP 24.1), how it could be a tool to support sector-
+wide analysis (ICP 24.2) and relevant time horizon considerations for climate -related scenario 
+analysis, including considerations within the insurer’s ORSA related to time horizons (ICP 16.14). 
+ICP 24.1 is embedded across Section 5 whilst ICP 24.2 is covered in Section 3.2. 
+Recommendations 
+3.1 Objectives of climate-related scenario analysis exercise 
+22. It is important to clearly define the objectives of the exercise from the onset. Supervisors will 
+need to make this decision based upon their knowledge of the insurance sector they supervise, 
+as developing an effective scenario will be specific to the char acteristics of that market or the 
+insurers that will be within the scope of the exercise. The objectives of the exercise will also 
+depend on the supervisory mandate and may differ depending on whether it includes a 
+microprudential, macroprudential and/or conduct supervisory mandate. As described in section 
+4.1.1, climate-related scenario analysis may, for instance, help assess protection gaps (see Box 
+2), which is relevant for both conduct and prudential supervisors. It may also help assess possible 
+transmission channels between the insurance sector and the financial system and real economy 
+more widely. 
+23. Considerations will be specific to the jurisdiction’s insurance sector, such as examining and 
+concluding on the impact of climate change on insurer assets an d liabilities, how to define 
+benchmarking of insurers for specific regulatory requirements and how to assess the longer-term 
+soundness of the industry.  
+24. Climate change is a long-term risk and climate science is evolving as observations, models and 
+physical understanding of climate improve. To understand the full range of impacts of climate 
+change on insurer risks, it will be important to run a range of scenarios over time. Running each 
+scenario requires considerable time and resources, therefore supervisors  should consider how 
+their use of scenarios will develop over  time and how the different exercises will build on each 
+other. Supervisors should think strategically about which scenarios should be used when and
+
+how they can build on each other. Coordination with other supervisors, in the case of overlapping 
+jurisdiction, will help maximise resource efficiency and capabilities.  
+25. Jurisdictions should decide on the scope of insurers to include in a scenario analysis exercise 
+after defining their objectives. It is desirable that when the aim is to analyse financial stability 
+implications, such exercises cover at least all domestic systemically important insurers or locally 
+headquartered internationally active insurance groups (IAIGs). 
+3.1.1 Analysing objectives and design considerations  
+26. As set out above, there are a range of considerations that inform the objectives for a scenario 
+analysis exercise. The table below sets out how these objectives and design considerations 
+can be considered together. This is not an exhaustive list and a number of these objectives 
+may be captured in one exercise, however the table is designed to help supervisors consider 
+relevant issues.  
+Table 4 Scenario analysis design considerations 
+Objectives Design considerations 
+To develop capacity 
+for insurers and 
+supervisors in 
+undertaking scenario 
+analysis.  
+A dynamic balance sheet approach will allow insurers to consider the 
+management actions they take to deal with the impact of climate change, thus 
+building capacity. However, it will make cross-sector comparison more difficult. 
+Equally, a simpler static balance sheet approach may help supervisors and 
+insurers that are new to scenario analysis develop their understanding of first 
+order impacts of various climate risk scenarios.  
+To assess 
+underwriting risks to 
+insurers from climate 
+change.  
+Depending on the geographic footprint of the insurer, supervisors may wish to 
+limit the exercise to the most relevant material geographies and/or those with 
+the most exposures.  
+To assess risks to 
+assets from climate 
+change.  
+Asset values will be affected by direct impacts (eg increased credit risks for 
+certain assets given physical risks from climate change and, more broadly, 
+because of macroeconomic impacts from change). Whilst it may not be 
+possible to include all of these elements, it will be important to be clear on what 
+is and isn’t in scope. 
+To assess the impact 
+of physical risk to 
+individual insurers.  
+Physical risks can differ considerably in relatively small areas. For instance; a n 
+elevation of one metre may significantly change the underwriting risks to which 
+an insurer is exposed. Adaptation measures may also reduce exposure. In 
+developing the scenario, it will be important to understand what physical risk 
+related data is available and the limitations that this may pose. 
+To assess the long-
+term impact (more 
+than 30 years) of 
+climate change on the 
+insurance sector.  
+A long time horizon will highlight the broader strategic considerations for the 
+impact of climate change. However, the long-term nature increases uncertainty 
+and complexity. This exercise could be useful when trying to understand likely 
+management actions and the impact these would have on the insurance 
+sector. An exercise can also contain several scenarios with different time 
+horizons, although, in the interest of limiting the complexity and burden, a 
+balance will need to be sought between the number of scenarios and the 
+added value of having different time horizon perspectives.
+
+To assess the impact 
+of transition risk to 
+individual insurers. 
+Transition risks will depend on the geographic footprint of the insurer. 
+Supervisors may find it easier to understand the transition risks in their own 
+jurisdiction and, therefore, may decide to limit the scope of the exercise to their 
+jurisdiction or may look to third parties to help verify the assessments.  
+To assess 
+macroprudential risks 
+to large insurers from 
+climate change.  
+To assess macroprudential risks supervisors may need greater consistency 
+across insurers, for instance, taking more of a top down approach and setting 
+more parameters for the exercise. In such instances it will be useful to work 
+with insurers both before and after the exercise to understand the different 
+approaches they have taken. 
+Whilst it might be proportionate to limit the exercise to larger insurers, 
+supervisors may wish to consider how to communicate the findings to smaller 
+insurers to increase capacity across the sector.  
+To assess 
+macroprudential risks 
+to the financial system 
+from climate change. 
+The scenario may look at the spillover effects of climate risk to the rest of the 
+financial sector, for example possible increased credit risk on mortgage books 
+for banks if insurance coverage is reduced (ICP 24.2). Or increased liquidity 
+risks on certain assets as they are quickly repriced when climate risks 
+crystallise.  
+Such exercises are likely to be very complex to run, therefore, when designing 
+a scenario, it is important to know which macroprudential spillover effects to 
+measure. Such exercises are most likely conducted in a second stage, after 
+other sectoral-specific scenario exercises.  
+To understand the 
+impact of climate 
+change on protection 
+gaps.  
+In a twin peaks model, prudential and conduct supervisors may wish to work 
+together on the exercise. Design may look at how demand for cover will 
+change as pricing increases, which is relevant from both a prudential and 
+policyholder protection perspective (see Box 2). 
+3.2 Scenario design 
+27. Scenario design is driven by the objectives for which scenario analysis is being undertaken. This 
+is likely to differ between supervisors and insurers. Supervisors may consider risks from a 
+microprudential and/or a macroprudential perspective as well as broader macroeconomic 
+impacts of climate change. Insurers , meanwhile, may use scenario analysis to understand the 
+potential impact of climate change on their business, strategy, investment por tfolio and capital 
+position.  
+28. If the exercise is performed to support microprudential risk analysis, insurers in scope should 
+ideally be selected according to their exposures to specific risks and  the scenarios to be 
+assessed. If the exercise aims to enhan ce macroprudential analysis, it is desirable that such 
+exercise include at least all systemically important insurers or locally headquartered IAIGs (see 
+also ICP 24.2.6-8). 
+3.2.1 Supervisory design considerations  
+29. Scenarios should reflect the current market envi ronment and potential unfavourable evolutions 
+in terms of changes in market conditions and other risks to which insurers are exposed. Historic 
+data typically does not capture the frequency and severity of future climatic scenarios and the
+
+impacts of tipping points.8 For these reasons, sector analysis should be forward looking, to the 
+extent possible, when developing scenarios to capture potential future developments. 
+30. Science-based scenarios , such as  the Intergovernmental Panel on Climate Change (IPCC )-
+sourced scenarios used by the NGFS , can be utilised as reference scenarios, providing a 
+common starting point for supervisors to analyse climate risks to the economy and financial 
+system. 
+31. Such ready-made scenarios provide a range of possible outcomes, based on different future 
+paths of climate policies, technological developments and consumer behaviour aimed at limiting 
+the rise in global temperatures and redu cing emissions pathways, in combination with the 
+corresponding projected temperature rises. 
+32. The technical scoping of a climate-related scenario analysis exercise is driven by its objectives. 
+Supervisors should decide on the key sources of scenario specification and if any modifications 
+are required when using ready -made scenarios. The scenario archite cture is supported by the 
+different types of scenario analysis (top -down vs bottom-up, see table 5 below) and other key 
+design decisions. Supervisors may also wish to add elements from authoritative sources such 
+as the analysis by the International Energy Agency (IEA) or the IPCC. However, in making 
+changes they should clearly document all relevant changes and adjustments.  
+33. There are four categories of primary design decisions. Advanced climate -related scenario 
+analysis exercises can be supported by two fur ther design decisions. These decisions are 
+explored further in the table below: 
+ 
+Table 5 Scenario analysis design decisions 
+Primary design decision Key considerations 
+Scenario design A supervisor can choose between using ready-made scenarios (such as 
+those developed by the NGFS), modifying ready-made scenarios and 
+developing reverse stress tests.9 A variety of factors including resourcing, 
+relevant skillsets and data availability should be considered. Where ready-
+made scenarios contain limitations (eg data provided is not sufficiently 
+granular), supervisors should be aware of such limitations and could 
+consider modifying ready-made scenarios to address these limitations. 
+Time horizon and interval of 
+analysis 
+To assess impact, climate change scenarios could be generated by 
+comparing the climate risk and impacts in a baseline (or reference 
+situation) with scenarios inducing various impacts on the risks at different 
+time horizons: short-term, medium-term or long-term. 
+Common time periods currently being used are three to five years for 
+short-term (consistent with NGFS short-term scenarios), between five and 
+15 years for medium-term and around 30 years for long-term, although a 
+longer target horizon of 50 years or greater can also be considered. 
+ 
+8 Economic impacts of tipping points in the climate system | PNAS 
+9 ICP 16.2.21: Reverse stress testing may help identif y scenarios that could result in failure or cause the financial position of an 
+insurer to fall below a predefined level. Whilst some risk of failure is always present, such an approach may help to ensure 
+adequate focus on the management actions that are appropriate to avoid undue risk of business failure. The focus of such reverse 
+stress testing is on appropriate risk management actions rather than the assessment of its financial condition and so may be 
+largely qualitative in nature although broad assessment of associated financial impacts may help in deciding the appropriate action 
+to take.
+
+Supervisors will want to consider the most appropriate timelines based on 
+the specifics of their insurance market and/or insurers in scope of the 
+scenario analysis. Supervisors may also wish to align these time horizons 
+with any horizons specified in any other disclosures where companies 
+may be reporting on these exercises. 
+Each time horizon has advantages and disadvantages when designing 
+climate scenarios, and the choice is driven by the expected purpose and 
+intended outcomes of the exercise. 
+Given the uncertainty surrounding the timing of the impact of climate-
+related risks and the dependency on short-term actions, transition risks 
+would be best captured within a shorter- to medium-term time horizon as 
+they require more pressing actions, whilst physical risk would be best 
+captured within medium- to longer-term horizon as events can take years 
+to unfold and most material physical risks are currently expected to 
+materialise later in the century. They are also most of the time aligned with 
+net zero commitments of either the insurers themselves, where net zero 
+commitments are required by law or voluntarily committed, or of the 
+government of the jurisdiction in which they operate, that are themselves 
+of a medium- to longer-term nature. 
+Alternatively, some supervisors, such as the Bank of England, have 
+looked at the impact of bringing forward long-term climate risks to consider 
+what impact their crystallisation would have on current balance sheets. 10  
+In addition to the time horizon of the exercise, risks can be assessed at 
+different intervals (eg one year, two years, five years, 10 years, etc) over 
+the course of the time horizons.  
+Balance sheet choices (static 
+vs dynamic vs hybrid) 
+Static balance sheets require insurers to hold their portfolios constant over 
+time and replace maturing assets with new, similar assets whilst 
+maintaining a consistent insurance policy profile. Its focus is on risks in the 
+current balance sheet and it is more concerned with understanding current 
+exposure and is not as dependent on assumptions. Management actions 
+are, therefore, not included in this approach. The outcomes of the exercise 
+may, however, be used to inform management actions.  
+Dynamic balance sheets allow for the inclusion of management actions in 
+the scenario analysis itself, where institutions can assume to react to 
+future events including changing their exposure profile, regulatory 
+changes, technology developments and changes in customers’ 
+preferences. It is thus dependent on assumptions about behaviour.  
+A hybrid approach combining a static and dynamic balance sheet may 
+also be pursued. 
+The decision on balance sheet assumptions is interdependent with 
+decisions on time horizons. Over long-term horizons, management actions 
+will be a primary driver of impacts but are very difficult to predict. 
+A benefit of allowing for management actions is the ability of supervisors 
+to understand aggregate industry actions, eg if all insurers intend to sell 
+the same classes of asset under stress (ie a fire sale), asset prices may 
+be significantly lower than insurers expect, or where insurers in aggregate 
+ 
+10 https://www.bankofengland.co.uk/stress-testing/2021/key-elements-2021-biennial-exploratory-scenario-financial-risks-climate-
+change
+
+might want to withdraw coverage in a geographical area or for type of 
+business. It may, thereby, help the assessment of possible systemic risks 
+(see ICP 24.0.3), ie “the risk of amplification and transmission of shocks to 
+the financial system and real economy caused by (…) collective actions of 
+a sufficiently large number of insurers undertaking similar activities and 
+thus exposed to common risks.” 
+Top-down or bottom-up In a top-down exercise, the analysis is primarily run centrally by the 
+supervisor, using a centrally defined model and limited input from insurers. 
+In contrast, a bottom-up exercise is run by participating insurers, using a 
+company-specific model.  
+Supervisors may also take a hybrid approach where the scenarios and 
+output variables are highly prescribed by the supervisor but are run by the 
+insurer, using a company-specific model. 
+The relative advantages and disadvantages of both approaches is 
+explored in more detail within the IAIS’ Application Paper on 
+Macroprudential Supervision (pg 16). 
+Advanced design decision Key consideration 
+Shock calibration 
+(prescriptive vs descriptive 
+shocks) 
+Different climate economy models offer different levels of sectoral and 
+geographic coverage and, therefore, it is important to understand which 
+financial and macroeconomic shocks are most relevant. Prescriptive 
+shocks involve specifying additional detail to define the shocks that 
+insurers should apply, whereas descriptive shocks will provide guidance 
+on the impacts that the supervisor is looking to explore as part of the 
+exercise. 
+Supervisors can decide between including prescriptive or descriptive 
+shocks. Prescriptive specifications of macroeconomic scenarios will 
+minimise the assumptions made in different models used by insurers. As a 
+result, it leads to greater consistency between insurers taking part in the 
+exercise. Descriptive shocks can make the magnitude of shocks intuitive, 
+but are hard to translate into financial market impacts. 
+Modelling freedom The flexibility of the modelling methodology provides a further dimension 
+in which results from the scenario analysis can be aligned to strategic 
+objectives.  
+A standardised approach can help to improve consistency and ensure 
+some degree of comparability, enhancing the usefulness of the 
+information received by supervisors. Allowing a degree of freedom for 
+insurers can avoid a “one-size-fits-all” situation, acknowledging the 
+different time horizons and different impacts that are meaningful for 
+insurers. However, it can make consistent interpretation of conclusions 
+more difficult.
+
+3.2.2 Insurer design considerations  
+34. The previous section considered scenario objectives that are more likely to be relevant for 
+insurance supervisors. Whilst these considerations may also be relevant for insurers, there are 
+additional considerations for insurers that conduct scenario analysi s exercises to support their 
+own enterprise risk management (ERM), including:  
+a. Strategy: insurers may want to run a scenario to understand the extent to which climate 
+change will impact their business strategy. For example, will certain business lines continue 
+to be profitable in 10 years’ time; or how will insured losses change. Will certain industries 
+continue to exist or substantially diminish with the transition to net zero and what does this 
+mean for certain business lines?  
+b. Pricing: to what extent wil l climate risk impact pricing and what price elasticity is to be 
+expected in certain lines of business, eg commercial lines vs retail? What impact may such 
+pricing changes have on the rest of the business? 
+c. Operational risks: the insurer may want to conside r the extent to which climate -related 
+physical risks may increase the risks to their business operations. For instance, direct impact 
+on their own assets (eg risks to data centres) or significant supply chain disruption , which 
+could pose material challenges to their business model.  
+d. Capital position and risk management: scenario analysis could help assess the potential 
+future impact on the capital position from climate-related scenarios. Caution should be used 
+when determining the impact to capital, given the high degree of tracking error, use of 
+subjective assumptions, numerous variables, varying time horizons, range of possible 
+outcomes associated with each scenario and overall uncertainty of scenarios. Over time , 
+supervisors and insurers will hopef ully be able to address these issues. Despite these 
+challenges, climate-related scenario analysis outcomes can still provide meaningful input for 
+the assessment of its risk management and current, and likely future, solvency position (see 
+ICP 16.10), as it still provides an indication on the relative magnitude of capital impacts under 
+different scenarios. 
+Box 1: Examples of technical design decisions in recent climate scenario exercises
+
+Macroprudential considerations for supervisors (ICP 24) 
+Context 
+35. This section provides guidance on how supervisors could integrate climate -related scenario 
+analysis into supervisory processes to assess the potential systemic importance of individual 
+insurers and the insurance sector (ICP 24.3), using climate -related scenario analysis to inform 
+supervisory response (ICP 24.4), and publication of relevant data and statistics on the insurance 
+sector from climate-related scenario analysis exercises (ICP 24.5). 
+4.1 Assessing systemic importance (ICP 24.3) 
+36. ICP 24.3 requires supervisors to have an established process to assess the potential systemic 
+importance of both individual insurers and the insurance sector as a whole. In particular , 
+guidance under ICP 24.3.3 states that, as part of their assessment under ICP 24.3, supervisors 
+should consider emerging developments that may affect the insurance sector’s risk exposures.  
+Recommendations 
+37. Supervisors may include climate risks considerations through climate -related scenario analysis 
+exercises in scope of their quantitative analyses – considering both inward and outward risks 11 
+– as required under ICP 24.2. The output of climate-related scenario analysis could then help to 
+assess the impact and trend of climate-related risks on the insurance sector’s exposures – both 
+in terms of assets and liabilities – which can ultimately help to serve the overall assessment of 
+the potential systemic importance of insurers. 
+38. As highlighted above, the focus of the scenario analysis can be on the insurance industry as a 
+whole, or on a selection of insure rs that are identified based on specific criteria. It can also be 
+carried out on other financial sectors, in combination with the insurance sector, to gain a better 
+idea of risks across the financial system.  
+4.1.1 Challenges at a national level  
+39. In instances wh ere spillover effects on other parts of the financial sector (eg banking) are 
+detected, a cross-sectoral approach might be needed. Some supervisors have narrow sector -
+specific mandates. For example, they may only supervise insurers or a twin peaks model ma y 
+operate in their jurisdiction (ie separation of prudential and conduct regulation). It will be 
+important, therefore, to consider how to overcome these structural hurdles. For instance:  
+a. Insurance-only supervisors: where supervisors only supervise the ins urance sector, they 
+should take steps to collaborate with other financial supervisors in a way that allows them to 
+more effectively identify and address spillovers. For instance, this could be addressed by 
+developing a cross-agency standing committee or a similar structure.  
+b. Twin peaks model: where one supervisor has responsibility for prudential supervision and 
+the other for conduct of business supervision, there are also significant benefits in 
+collaborating. For instance, a prudentially focused  climate s cenario may provide useful 
+information on the extent to which insurers expect to alter their pricing policy to take into 
+account climate risks. This is relevant information for a conduct supervisor to the extent it 
+ 
+11 Assessing inward risks refers to the extent insurers may be exposed to, or vulnerable to, a certain risk within the insurance 
+sector, whereas the outward risk refers to the situation in which these vulnerabilities would generate externalities which may 
+then propagate to other financial markets or the real economy.
+
+may highlight consumer protection issues, especially where a supervisor has pricing powers. 
+In this case, the two authorities could strive to share information.  
+c. Unitary authorities: even in authorities that have a mandate across prudential and conduct 
+supervision, and across different parts of the financial sector, it will be important to share 
+experiences across banking, insurance and markets teams given that there could be potential 
+spillover effects between sectors . F or example, reduced insur ance availability and 
+affordability could pass additional physical risk exposure through to banks where mortgage 
+customers cannot secure adequate insurance.  
+4.1.2 Challenges at an international level  
+40. When conducting a climate -related scenario analysis on IAIGs, supervisors should consider 
+coordinating with other involved supervisors12 and regional or global insurance standard-setters 
+(eg the IAIS). This is a useful exercise to the extent it reduces the number of overlapping requests 
+that insurers receive, helps  to build a greater understanding across the insurance group’s 
+supervisors of the climate risks it is exposed to and also helps build capacity amongst the 
+supervisory community. There are significant benefits to aligning the design and frameworks of 
+climate-related scenario analysis at an international level and sharing best practice. 
+41. Supervisors leading a scenario analysis exercise may wish to collaborate with other involved 
+supervisors via supervisory colleges in a number of different ways:  
+a. Design: collaboration in the design phase of the exercise could benefit supervisors in gaining 
+a better understanding of insurers’ exposures. It will also reduce the number of separate 
+requests that insurers may receive.  
+b. Data gathering: supervisors may be able to shar e information on useful data sources and 
+assumptions about the impact of climate risks in their jurisdiction.  
+c. Results: sharing the results in a college discussion will help develop a common 
+understanding across supervisors of the extent of the insurer’s e xposure to climate-related 
+risks.  
+42. At the international level, the international financial organisations cooperate in order to provide 
+shared examples of best practice and to avoid areas of overlap, eg through the NGFS or the 
+FSB.  
+4.1.3 Risk concentration 
+43. Scenario analysis can be carried out to assess potential systemic risk concentrations, and 
+whether indications exist for spillover effects not only into the real economy in general but also 
+into other sectors and/or other assets, due to potential financial sector and market interlinkages. 
+Assessing risk concentrations is relevant when assessing the potential systemic importance of 
+individual insurers and/or the insurance sector as a whole. 
+44. Concentrations may exist in the following areas, amongst others: 
+• Physical risk concentrations manifest in underwriting liabilities, which are significantly 
+impacted by  the increasing severity and frequency of natural catastrophe losses. For 
+instance, where an insurer has a particular geographic focus, or its underwriting risks are 
+highly correlated (eg an insurer with a large property insurance portfolio that is affected by 
+an increase in fire risk, driven by rising temperatures). This could impact individual insurers 
+ 
+12 See ICP 25 (Supervisory Cooperation and Coordination), in particular ICP 25.2, 25.3 and ComFrame integrated in ICP 25.6.
+
+or could be common across many insurers and , therefore, poses a macroprudential risk 
+through its cumulative impact. See examples of risk correlation in section 5.5. 
+• Transition risk specific to: 
+− carbon-intensive assets concentrations (fixed income or equity) and their credit quality. 
+This has the potential to be both a micro and macroprudential risk; 
+− exposure to green assets (eg those likely needed for the transition to net zero); and 
+− underwriting certain lines of business.  
+• Assets vulnerable to physical risks : where a jurisdiction faces significant physical risks and 
+assets are largely invested in that jurisdiction, there is potential for an increased 
+macroprudential risk.  
+• Reinsurance: given the importance for primary insurers of ceding risks and the increased 
+risks reinsurers will face from climate change, scenario analysis can help to understand how 
+market dynamics may change. For instance, what concentrations will reinsurers face (eg 
+increased correlation across the globe of extreme weather events may limit t he ability for 
+diversification of risk) and what action will they take to mitigate this risk (eg reducing cover 
+for certain primary insurers in certain jurisdictions, increasing prices). Scenarios analysis 
+should critically challenge assumptions to understand what impact climate change will have 
+on different parts of the insurance sector. 
+Box 2: Scenario analysis and protection gaps 
+Gaps in protection against climate-related risks are, in many cases, significant and supervisors 
+anticipate they will continue to grow, which is why this will be an increasing area of focus for the 
+IAIS.13 Supervisors expect the impact of climate change to widen and materially affect how the 
+insurance sector sets pricing, risk appetite and coverage. Particularly in concen trated markets 
+that are dependent on a small pool of large insurers, a change in their settings could lead to a 
+widening of protection gaps, which could carry potential wider systemic implications. The 
+strengthening of supervisory tools to assess and monit or the availability and affordability of 
+insurance products could play a key role in addressing some protection gap concerns. 
+Scenario analysis of climate-related risks is relevant for both prudential and conduct supervisors 
+with regards to natural catastrophe protection gaps (see section 3.1). For prudential supervisors, 
+it can be used as a tool for assessing the viability of business lines and models and assessing 
+the potential systemic importance of insurers and the insurance sector (ICP 24.3). Meanwhile , 
+for conduct supervisors, it can be used as a tool to assess how the market may change in the 
+face of increased climate risk, what consumer risks may emerge and whether certain 
+policyholder groups are most likely to be negatively impacted.  
+Scenario analysis exercises may explore the impact of climate change on pricing and identify 
+vulnerable regions/communities (eg those exposed to transition and/or physical risks), 
+vulnerable socio-economic groups, and other protection gaps. Such exercises can also be used 
+to explore the impacts of climate change on reinsurance affordability and availability/capacity. 
+Impact on policyholders  
+As climate change impacts physical risk in the form of increasing frequency and severity of 
+losses from weather extremes, insurers could decide to reprice their products to reflect the 
+ 
+13 https://www.iaisweb.org/2023/11/iais-outlines-actions-for-insurance-supervisors-in-addressing-natural-catastrophe-protection-
+gaps/
+
+change in risk. This could lead to either a decline in the availability and/or affordability of property 
+catastrophe lines, as individuals and businesses are priced out of the market. A sufficiently 
+material increase in physical risks could reduce insurers’ risk appetite. Insurers may reduce their 
+exposure to certain geographies or perils, which could lead to an exit or substantial reduction in 
+the provision of catastrophe insurance cover. This may also apply to other lines of business.  
+Competition could be reduced if insurers exit markets or product lines to mitigate their climate 
+risk. This could also prompt government intervention, such as public bodies directly offering 
+weather disaster insurance, th ereby potentially reducing the size of a market -based insurance 
+sector. Supervisors should consider finding methodologies that allow them to assess the 
+likelihood, extent and implication of such developments, where appropriate, as part of scenario 
+analysis. For instance, where scenario analysis exercises use dynamic balance sheets and allow 
+for management actions, supervisors will be provided with a cross-industry view of issues related 
+to pricing and availability. By looking at the proposed collective mana gement actions, 
+supervisors will gain a better understanding of possible dynamics on pricing and availability.  
+Consistent with ICP 24.5, transparency over protection gaps identified in scenario analysis 
+exercises will help to bring these issues to the attention of a range of different stakeholders and 
+foster a broader policy discussion.  
+Financial stability considerations  
+Protection gaps could also have broader financial system implications. Increasing protection 
+gaps could: 
+• Impact bank balance sheets (through increased credit risk); 
+• Force governments to take a more direct role as the “insurer of last resort”; and/or  
+• Result in a slower recovery of the overall economy as the public (private persons and/or 
+enterprises) incur greater losses after a catastrophe event.  
+In the case of additional government intervention, this could put additional fiscal pressure on 
+governments, which could affect the broader financial system and economy (for example, 
+through increased government borrowing to fund reconstruction and adaptation, putting credit 
+stress on sovereigns).  
+Climate-related scenario analysis could be used to better  understand the risks posed to the 
+financial system, and vulnerabilities that may arise in the local economy and community, 
+stemming from less affordable insurance coverage. It may be beneficial for scenario analysis to 
+be used to better understand the potential: 
+• Size, scale and location of insurance affordability challenges and to identify the most 
+vulnerable communities; 
+• Concentrations of risk, which could impact other lending institutions and their lending 
+portfolios (uninsurable collateral); 
+• Potential fiscal pressure created by governments becoming the insurer of last resort in order 
+to support consumers facing unaffordable insurance; 
+• Opportunities for prevention and mitigation efforts, such as flood levies or nature -based 
+solutions, thereby reducing the risks faced by financial institutions and their customers. Or 
+work to look at adaptation measures (eg build back better) to reduce exposure to future 
+claims;  
+• Extent of increasing natural catastrophe losses that result in insurers and reinsurers choosing 
+to stop, or decrease significantly, writing a specific line of business, which would impact 
+insurance or reinsurance capacity; and
+
+• Changes in the appetite of reinsurers to take on climate risks. Scenarios could be used to 
+assess whether increasi ng severity and frequency of weather events could reduce global 
+reinsurance risk appetite. This may indirectly contribute to the widening of domestic 
+protection gaps in individual countries. For example, increased occurrence of hurricanes in 
+the United Sta tes and winter storms in Europe, occurring concurrently with increased 
+wildfires in other countries, could lead to increased reinsurance costs globally, thereby 
+indirectly amplifying insurance costs and protection gaps in each individual domestic market. 
+Cross-sectoral supervisors may assess risks to the financial system from the transfer of physical 
+risk from the insurance sector to the banking sector. For example, bank mortgages being left 
+without adequate insurance coverage against weather catastrophes d ue to unaffordability or 
+unavailability of insurance coverage. The falling collateral value leads to a higher loan -to-value 
+ratio for the bank and thus higher credit risk, all things being equal. 
+In cases of scenario analysis using dynamic balance sheets ( ie insurers are allowed to take 
+management actions), supervisors should look to understand the risks that these management 
+actions may pose for the sector as a whole. For instance, from a demand perspective, what 
+assumptions are insurers making about deman d and price elasticity for coverage of products. 
+Equally, from a supply perspective, will the accumulation of indicated management actions 
+increase protection gaps. Insurers may well take logical actions from a microprudential 
+perspective (eg to reprice or  reduce/remove cover), but the collective impact could lead to 
+significant protection gaps with associated consumer and macroprudential risks. Looking at 
+management actions during a scenario analysis exercise has the potential to cast new light on 
+these issues.  
+Using data to assess protection gaps 
+Consistent with ICP 24.1, supervisors with access to adequately granular data, specific to 
+protection gaps and other societal and financial stability impacts, could use scenario analysis for 
+the following purposes: 
+• To create a national climate peril map (showing risk today and future projections), for use by 
+government agencies responsible for land planning, building codes and mitigation work; 
+• Overlay the climate risk map with the mortgage portfolio of the entire banking system, or 
+individual lenders, to better understand insurance coverage of collateral as well as potential 
+concentration risks; 
+• Potentially consider the impacts to different socio-economic groups, which may better inform 
+government policy and prioritisation; and 
+• In combination with transition risk and socio -economic data, understand where economic 
+circumstance such as job losses in climate -relevant sectors, combined with physical risk, 
+drive unaffordability in general insurance. 
+If a protection gap issue is projected or observed, supervisors may wish to inform and collaborate 
+with other public bodies to find solutions. Other agencies dealing in land use, building standards 
+and public works, may be best placed to develop an appropriate and feasible res ponse. Such 
+findings may also be relevant when discussing double materiality, whereby the possible 
+transition plans of insurers could contribute to the mitigation of climate change and aid in the 
+reduction of protection gaps in the long-term.
+
+4.2 Supervisory response (ICP 24.4) 
+Context 
+45. Insurance supervisors may choose from a wide range of supervisory responses, including both 
+macroprudential and microprudential supervisory tools, to address the outcomes of their scenario 
+analysis exercises.  
+Recommendations 
+46. A number of actions or follow-up work that could be taken:       
+a. Further supervisory work 
+The scenario analysis outcomes may also reveal certain vulnerabilities or risk exposures that 
+warrant further supervisory action at the level of the individual insurer or the insurance 
+market. 
+Where there are common issues identified across a number of insurers by the scenario 
+analysis exercise, further thematic initiatives may need to be undertaken to ad dress 
+weaknesses. For instance, thematic work on ERM integration, setting out preventive and 
+corrective measures (eg restrictions on business activities or restricting exposures, see ICP 
+10.2) and where there are significant concerns looking at issues related to crisis management 
+and planning (see ICP 24.4.4).  
+Further work may take a macroprudential perspective, for instance, scenario analysis may 
+highlight climate change risk concentrations across the sector and , therefore, could be a 
+useful early indicat or for the need to undertake further thematic supervisory activity. Such 
+work could be used to better quantify the cross -sector impact of climate change. The 
+exploration could focus on whether climate change risk is adequately reflected and quantified 
+in f inancial returns. Additionally, in the case of transition risk, if insurers face difficulties 
+quantifying risk, then further supervisory work could explore what can be done to support 
+insurers adequate risk quantification . For example, the sharing of best practices or the 
+formation of cross-sector groupings to map out responses to these issues.  
+Finally, further action may be needed to address insurer -specific issues, highlighted by the 
+scenario analysis. This may include weak integration of climate risk in to ERM. Here 
+supervisors should consider whether individual remediation plans need to be developed. 
+b. Climate change financial disclosure requirements 
+Scenario analysis exercises demonstrate that climate-related financial disclosures help build 
+a wider understanding of the effects of climate change on insurers, and provide more 
+transparency as to the financial implications on insurers. Disclosure requirements provide 
+supervisors and other stakeholde rs – in an ideal case – with comparable, clearly defined 
+data.  
+It may not be possible, due to resourcing constraints or limited expertise, for supervisors to 
+regularly conduct scenario analysis exercises; which is where disclosure requirements, 
+typically built on certain standards, can be utilised to provide detailed information on how 
+insurers assess, manage and mitigate climate-related financial risks and opportunities. Whilst 
+disclosure requirements tend to have a microprudential focus, they can be used  to assess 
+macroprudential impacts when sufficiently harmonised. Supervisors should ensure alignment 
+with international standards such as those developed by the International Sustainability
+
+Standards Board 14 and other standard -setting activity (eg US Secur ities and Exchange 
+Commission and European Financial Reporting Advisory Group).  
+c. Scenario analysis to inform further scenario exercises 
+The outcomes of scenario analysis can also point to vulnerabilities in other areas that may 
+need to be further explored to better understand climate-related risks to which insurers are 
+exposed. The conclusions of a previously carried -out scenario analysis exercise may, for 
+example, show the volatile and changing nature of climate risks or lack of precision in climate 
+change exposure quantification, which could necessitate such an exercise to be conducted 
+on an incremental basis.  
+Conducting follow-up scenario analysis exercises will allow supervisors to observe how an 
+exposure is trending for a specific jurisdiction from a m acro perspective and to take note of 
+any emerging risks or trending topics. Supervisors can better quantify climate-related risks if 
+they are well informed of developing capabilities of insurers and systems. A number of 
+jurisdictions that have already cond ucted scenario analysis exercises  have experienced  
+some limitations in the precision and granularity of the data inputs used, resulting in data 
+quality issues, which may r equire that they  repeat the exercises (in a similar, or altered, 
+format).  
+Given that no single scenario analysis exercise design can address all risks on all time 
+horizons, follow-up scenario analysis exercises also present an opportunity to address new 
+risks and scopes that may not have been prioritised in the initial exercises. 
+d. Policy work 
+Where issues identified through a scenario analysis exercise cannot be addressed by 
+supervisory actions, new policy tools may be needed to address the issues identified. In this 
+case, the scenario analysis exercise could be a key input to defining the problem and helping 
+to find a policy-oriented solution.  
+4.3 Transparency (ICP 24.5) 
+Context 
+47. When considering transparency of scenario analysis exercises, the purpose and objectives of 
+the exercise will ultimately define which results are published. Publishing results can send a clear 
+message about the potential climate -related risks posed to the insurance sector, and also  
+highlight any shortcomings such as data quality and modelling issues.  
+Recommendations 
+48. Supervisors should communicate results as these can be used to increase transparency on the 
+impact of climate risk, build industry capacity and ensure that the market more broadly 
+appreciates climate risks to the insurance sector.  
+49. The focus of the scenario analysis exercise will determine what information is published. Before  
+publishing any data, it is important to ensure its validation. Limitations may exist for a number of 
+insurers in properly quantifying climate -related risks so it is important to  ensure the quality of 
+data.  
+50. Depending on the focus of the exercise, the following data/statistics could be published: 
+• Quantitative assumptions and caveats for the scenarios itself; 
+ 
+14IAIS response to ISSB climate exposure draft (iaisweb.org)
+
+• Asset/liability splits, exposure to physical and transition risk under certain scenarios, over 
+specific time horizons; 
+• Business developments, lines of business, geographic distribution of coverage, certain 
+supply/demand developments and the impact on availability of reinsurance; 
+• Soundness of the insurance sector under t he different scenarios and time horizons (eg 
+solvency impacts); 
+• Conduct of business issues (eg availability and cost of coverage); 
+Any qualitative considerations such as embedding climate -related risks into strategic 
+decisions or reputational impacts of climate change; and 
+• Data quality challenges, key material assumptions, modelling uncertainty and limitations.  
+The level of transparency is expected to increase as climate scenario analysis capabilities evolve 
+over time. 
+51. Additionally, reports may highlight lessons learnt from the exercise and share examples of best 
+practice to help build capacity across the industry. For example, where scenario analysis has 
+highlighted problems with ERM integration , these could be mentioned together with the steps 
+taken to mitigate them. Alternatively, good examples of the tools that insurers use to translate 
+climate risks into financial risks could be shared to spread best practices.  
+Box 3: Case study on regulatory example of published scenario analysis conclusions  
+The Bermuda Monetary Authority ( BMA) published their 2021 Climate Risk Exposure Survey 
+Report, including outcomes of a scenario analysis exercise that sought to obtain early indications 
+of the industry’s climate change risk exposures, based on several relatively simple quantitative 
+metrics focusing on physical risk. The survey identified particularly affected perils and related 
+loss cost increases, and concluded that physical risk is the most significant driver of climate risk-
+related exposures due to the nature of risks underwritten in Bermuda, particularly NatCat 
+exposures. The exercise also found that the modelling of mid- to long-term physical climate risk 
+is still in the development stages and requires improvements. 
+ 
+ Scenario analysis to inform assessment of insurers’ risk 
+management and governance (ICP 16) 
+Context:  
+52. This section provides guidance on how supervisors could integrate climate -related scenario 
+analysis into ERM for solvency purposes, including:  
+• ERM framework review (ICP 16.16); 
+• Risk appetite statements (ICP 16.4); 
+• Asset-liability management (ICP 16.5): 
+- in investment policies (ICP 16.6) 
+- in underwriting policies (ICP 16.7); and  
+• Board accountability (ICP 16.11).
+
+5.1 ERM framework review (ICP 16.16) 
+Context 
+53. The nature and materiality of the relevant  risk (eg insurance, credit, market, concentration, 
+operational or liquidity) will vary depending on the exposure to climate change of each insurer. 
+Hence, the ORSA is a particularly useful tool for insurers to assess the adequacy of their ERM 
+and capital positi on, as it summarises the main outcomes of the risk management process to 
+ensure proper communication to the management board.  
+Recommendations 
+54. Supervisors should base their expectations of  the ERM framework on the nature, scale and 
+complexity of the busine ss (ICP 16.16.5). Climate risk is one key risk driver that should be 
+considered as part of the ORSA assessment. As such, the supervisor should assess whether 
+the scenario analysis and modelling approaches commensurate with the insurer’s vulnerability 
+to climate risks, based on the insurer’s risk profile.  
+55. Supervisors should consider the extent to which climate risk is integrated into ERM. The outcome 
+of the scenario analysis, shall define the resilience of the business strategy of the ins urer, 
+providing insights into material exposures and business risks as well as testing the robustness 
+and adequacy of its solvency position. These insights should be taken into account when defining 
+both short- and long-term strategy and the most appropria te management actions to properly 
+react to occurring risks (eg a limit breach). 
+56. Supervisors may wish to consider taking a proportionate approach. The requirements could 
+apply to the insurance industry as a whole, or only to insurers with a certain risk profile, size or 
+complexity, depending on whether the outcomes of the scenario analysis demonstrate that only 
+select entities are affected. However, using only size as a criteria for inclusion will not capture 
+smaller entities that may be materially exposed to climate change risks; or any potential change 
+in climate risk concentrations of smaller entities. For this reason, a broader criteria for the scope 
+might be more appropriate. 
+57. The ORSA requirements may also be applicable to entities in phases, where speci fic 
+requirements will be rolled -out over a number of years or according to entities’ size (ie where 
+smaller entities will be required to enhance their ORSA a year or two later than large r groups 
+and/or IAIGs ). Additionally, distinction can exist between re quirements across the insurance 
+sector, such as having separate requirements for life vs property and casualty insurers.  
+5.2 Investment policies (ICP 16.6) 
+58. Physical and, especially, transition risks can have complex and non -linear impacts on insurers’ 
+investments. Where material, these risks must be taken into account regardless of whether the 
+insurer invests directly , or  through a third -party asset manager or investment advisor. 
+Supervisors and insurers could use scenario analysis to better understand:  
+a. The gaps in knowledge that need to be filled to understand the climate risks to which their 
+assets are exposed. Insurers may need to engage more with investee companies to 
+understand the steps they are taking to reduce their exposure so that the insurer has a better 
+understanding of the evolution of these risks. Insurers should also consider engaging with 
+investee companies (through proxy voting or sector collaboration as appropriate)  to help 
+positively shape the corporate behaviour of investee companies. This i ncludes supporting
+
+investee companies’ efforts in the ir transition over time towards more sustainable business 
+practices, while maintaining their risk management standards. 
+b. How and when different climate tipping points will impact risks , including capturing the non-
+linear impacts on credit, market and liquidity risks. Insurers could use this information to 
+consider what conclusions from scenario analysis exercises mean in terms of the assets they 
+hold and the extent to which they may be able to diversify some of their risks.  
+5.3 Underwriting policies (ICP 16.7)  
+59. Physical, transition and liability risks arising from climate change can impact the business risk 
+profile, underwriting strategy and underwriting processes of insurers. When material, supervisors 
+should expect insurers to identify the relevant physical, transition and liability risks inherent in 
+their business portfolios, assess the implications for their underwriting strategy and develop 
+policies and procedures to integrate the manage ment of these risks in their enterprise risk 
+management framework and risk appetite statement. Supervisors and insurers should use 
+scenario analysis to:  
+a. Understand climate risk exposure in certain geographic areas (eg flood plains, areas of 
+increased drought or fire risk) , economic sectors (eg energy intensive sectors) or lines of 
+business (eg property, agriculture) that have higher exposure to climate risk; and 
+b. Understand how areas of new business and the overall insurance market may be affected by 
+climate change, including from a macroprudential perspective.  
+60. Consideration should be given to how results from climate -related scenario analysis can be 
+integrated into underwriting processes and what additional data or decision points may be 
+needed to make scenario analysis more actionable.  
+61. Scenario analysis may also be useful for understanding second or third order impacts and how 
+these may impact on underwriting decisions. For instance, will a move to net zero lead to fewer 
+cars per household, increased community pooling of cars or different risks. These changes will 
+have a significant impact on business models.  
+5.4 Insurer ORSAs (16.12) (16.14) 
+Context 
+62. Climate-related scenario analysis could be used as an input to ORSAs. As per ICP 16.12, it is 
+required that ORSAs “encompass all reasonably foreseeable and relevant material risks (…) 
+and, as necessary: to assess the insurer’s resilience against severe but plausible 
+macroeconomic stresses through scenario analysis or stress testing; and assess aggreg ate 
+counterparty exposures and analyse the effect of stress events on material counterparty 
+exposures through scenario analysis or stress testing”.  
+63. The unique business strategy, investment portfolio and risk profile of each insurer will affect the 
+degree of impact from climate-related risks. The nature and materiality of the relevant insurance, 
+credit, market, concentration, operational and liquidity risks will vary depending on each insurers’ 
+exposure to climate change. Hence, the ORSA is a particularly useful tool for insurers to assess 
+the adequacy of their ERM and capital position. Supervisors should expect insurers to consider 
+all material , physical, transition and liability risks arising from climate change in their ORSA 
+process, and adopt the appropr iate risk management actions to mitigate the identified risks. 
+Insurers may consider the risks on both a qualitative and quantitative basis, with the
+
+understanding that quantitative capabilities should improve over time as the ability to access the 
+necessary data is improved. 
+Recommendations 
+64. As part of the ORSA, the insurer assesses its risk management and financial resources over a 
+longer time horizon than the time horizon used to determine regulatory capital requirements. 
+Given the systemic nature of climate risk, it is important for scenario analysis to go beyond normal 
+business planning cycles of three to five years, to take account of medium- and longer-term risks, 
+thereby addressing what has been described as the “tragedy of the horizons” .15 The time horizon 
+should be consistent with the nature of the insurer’s risks and business planning. Some climate-
+related risks may take longer to fully materialise and, therefore, it would be expected that the 
+ORSA also include appropriate scenarios that cover a mo re extended time horizon. When 
+assessing the appropriateness of time horizons used by insurers, supervisors should consider 
+the nature and types of business written by the insurer. 
+65. As part of the ORSA, an insurer is required to perform a continuity analysi s to assess its ability 
+to manage its risks and meet its capital requirements under a range of plausible adverse 
+scenarios with a forward-looking perspective in mind. When material, this analysis should include 
+the identification and assessment of the dire ct and indirect impact of climate -related risks (for 
+instance, including as part of the scenario analysis a (reverse) stress testing process). This would 
+enable insurers to assess their resilience to financial losses with respect to climate change. This 
+process should incorporate an assessment of physical, transition and liability risks across the 
+different risk categories, for example: 
+• Assessment of physical risks includes the use of catastrophe modelling, covering a number 
+of different scenarios (eg 1-100, 1-500 or 1-1000 year events), to assess the impact on both 
+assets and liabilities. Asset -focussed assessments should include both financial as well as 
+operational assets, such as office buildings and data centres. Liability assessment s should 
+not only look at natural catastrophe exposures but also consider how hotter climates may 
+impact life and health insurance liabilities , due to the increased occurrence of heat waves 
+and the expected wider geographical spread of tropical diseases; 
+• Assessment of transition risks may cover how increases in carbon taxes and moves towards 
+a low-carbon economy would impact both financial assets and technical provisions. Also, any 
+risk of deterioration of future new business volumes or increase in lapses should be assessed 
+to avoid any negative reputational impact in the event an insurer’s activities are considered 
+to be supporting carbon intensive industries; and  
+• Climate-related litigation risk assessment involves the risks resulting from potential changes 
+in societal, litigation and judicial environments. These are likely to differ significantly across 
+jurisdictions and over time. The assessments should cover litigation risk from existing or 
+future insurance contracts as well as from the insurers’ own activities  (eg a ny potential 
+greenwashing risk). 
+66. Supervisors should encourage insurers to use models that are pertinent to their geographical 
+scope and the nature of their business. It is important for insurers to fully understand these 
+models, the uncertainties of the re sults and their underlying assumptions and methodologies 
+when deciding on their relevance. 
+67. Climate-related risks are material to the insurance industry and are expected to potentially have 
+an impact on all insurers; therefore, these risks should be considered for inclusion in the ORSA. 
+If climate-related risks are assessed to be immaterial by an insurer, the insurer should document 
+ 
+15 https://www.bankofengland.co.uk/speech/2015/breaking-the-tragedy-of-the-horizon-climate-change-and-financial-stability
+
+the reason for this assessment. The rationale for immateriality could be included in the 
+documentation that summarises the risks that the insurer considered for incorporation in the 
+ORSA and may be concise. 
+Box 4: EIOPA guidance on scenario analysis and ORSA16 
+ 
+16 Application guidance on climate change materiality assessments and climate change scenarios in ORSA (europa.eu) 
+17 The PESETA IV study aims to better understand the effects of climate change on Europe and how these effects could be 
+avoided with mitigation and adaptation policies. https://joint-research-centre.ec.europa.eu/peseta-projects/jrc-peseta-iv_en 
+The European Insurance and Occupational Pensions Authority (EIOPA) has recognised the 
+importance of climate change and its potential impact on the insurance sector. The authority has 
+developed application guidance  to assist insurance companies in conducting climate change 
+materiality assessments and utilising climate change scenarios in the ORSA process. 
+The application guidance from EIOPA provides insurers with practical guidance on how to 
+conduct these assessment s, including the identification of relevant climate change risks, the 
+assessment of their materiality and the integration of the findings into their risk management 
+frameworks. 
+In addition, the guidance emphasises the use of climate change scenarios in the ORSA process. 
+Climate change scenarios are hypothetical future pathways that capture different climate 
+outcomes and their potential impacts on the insurance sector. By using these scenarios, insurers 
+can assess their resilience and evaluate the effectiven ess of their risk management strategies 
+in different climate change scenarios. 
+The application guidance is neither binding nor prescriptive to promote a diversity of approaches, 
+which would support the development of technical knowledge and tailored risk assessments. 
+For physical risk, the guidance informs on concrete approaches for scenario analysis, such as: 
+• Using NGFS climate impact explorer: this tool shows how the severity of climate change 
+impacts will increase over time in continents, countries and p rovinces at different levels of 
+warming, starting with 1.5°C; 
+• Using the PESETA IV study:17 it aims to better understand the effects of climate change on 
+Europe, for a number of climate change impact sectors; 
+• Using CAT models: catastrophe modelling is the p ractice of using computer programmes to 
+mathematically represent the physical characteristics of natural catastrophes; and 
+• Using existing scenario analysis: previous scenarios could also be used to perform a climate 
+change scenario analysis in the ORSA. The Bank of England (BoE), for example, launched a 
+biennial insurance stress test in 2019 , which included an exploratory exercise in relation to 
+climate change. 
+For transition risk, examples are include: 
+• Using a traditional scenario analysis: offers flexibility for tailoring to the specific objective of 
+the stress test exercise; 
+• Using the open-source tools: eg measuring the alignment of a portfolio to a range of climate 
+transition scenarios via forward -looking comparisons of key outputs, such as emissions 
+intensity of the investment portfolio and transition plans ; and 
+• Using existing scenario analysis: the 2020 -2021 Autorité de contrôle prudentiel et de 
+resolution (ACPR) pilot climate exercise scenarios have been presented as an example of 
+the application of a climate stress test to a whole market using the NGFS transition pathways 
+as a starting point.
+
+5.5 Integrating scenario analysis into risk policies (ICP 16.5, 16.6 & 16.7) 
+Context  
+68. Given the need to integrate climate risks into existing frameworks, this section considers how 
+climate risk scenario analysis can be relevant for investment (ICP 16.6) and underwriting policies 
+(ICP 16.7), together with asset liability management (ICP 16.5). 
+Recommendations 
+69. Where material, supervisors should encourage insurers to include an assessment of climate risks 
+as part of their overall review of investment and underwriting risks and have internal guidance 
+on how the assessment and monitoring of such risks are embedded in the investment  and 
+underwriting processes.  
+70. Supervisors could also consider setting out expectations on the role of scenario analysis to 
+determine the appropriate frequency for reviewing and making changes to investment policies, 
+including the limits framework. For example, scenario analysis may highlight the need to review 
+sectoral investment limits for certain vulnerable sectors that are more exposed to climate-related 
+financial risks. 
+71. Scenario analysis can prompt early development of mitigation strategies like investe e 
+engagement, restricted lists18 and divestment lists19 for asset types that have been identified as 
+vulnerable. Insurers could also use scenario analysis to determine the impact of these mitigation 
+strategies on its balance sheet for solvency and liquidit y purposes. For example, scenario 
+analysis could highlight assets that become “stranded” 20 under certain scenarios, resulting in 
+significant losses and adversely impacting the capital and liquidity position of the insurer. Hence, 
+supervisors should require insurers to incorporate consideration of climate-related risks in their 
+investment and underwriting policies, where there is material exposure of individual products to 
+climate change risk.  
+72. ICP 16.5 requires insurer’s ERM frameworks to include an explici t asset-liability management 
+(ALM) policy that specifies the nature, role and extent of ALM activities and their relationship with 
+product development, pricing functions and investment management. Scenario analysis could 
+help to identify correlation risks between assets and insurance liabilities that are not apparent  
+(for instance, retail mortgage backed assets in areas subject to significant climate risk held as 
+assets on an insurer’s balance sheet and where the insurer underwrites cover for residential 
+property in the same area ). A robust bottom -up approach in building the scenario analysis 
+exercise could allow the insurer to isolate such correlated positions and address the risks , by 
+either divesting or diversifying such exposures, before they are manifested. 
+  
+ 
+18 A list of investments, normally in certain sectors, that investors will not invest in because it does not align with their climate risk 
+tolerance.  
+19 A list of investments that an investor chooses to sell because it is not aligned with their climate risk tolerance e.g. they do no 
+longer wish to hold equity in a certain sector or with a company that undertakes certain activities.  
+20 Assets that have suffered from unanticipated or premature write-downs, devaluations or conversion to liabilities.
+
+Box 5: Examples of risk correlation 
+Physical risk correlation 
+For example, a physical risk correlation could exist as a result of a real estate portfolio that is 
+exposed to the changes in value of properties that serve as collateral. Depending on their 
+geographical location, these properties can be exposed to several natural catastrophe perils. A 
+property and casualty insurer that might be exposed to certain natural catastrophe perils by 
+holding mortgage loan assets in its portfolio might also be underwriting the same natural 
+catastrophe perils on the liability side, and thus doubling down on the same risk. 
+Transition risk correlation 
+Another example could be through a risk arising from transition risk correlation. A life and annuity 
+insurance company might be underwriting minimum guarantee riders for its variable annuity 
+liabilities. The underlying funds for these liabilities could be exposed to carbon-intensive sectors. 
+It might also be owning assets from these sectors in its general account portfolio. In aggregate, 
+it will have exposure to transition risk from similar vulnerable sectors on both sides of the balance 
+sheet.  
+5.6 Risk appetite statement (ICP 16.4) 
+Context 
+73. ICP 16.4 requires insurers to have a risk appetite statement that: 
+• Articulates the aggregate level and types of risk that the insurer is willing to assume within its 
+risk capacity to achieve its financial and strategic objectives, and business plan; 
+• Takes into account all relevant and material categories of risk and their interdependencies 
+within the insurer’s current and target risk profiles; and 
+• Is operationalised in its business strategy and day-to-day operations through a more granular 
+risk limits structure. 
+Recommendations 
+74. Supervisors could consider setting expectations on scenario analysis design that allows for 
+assessing alignment of the existing portfolio of assets and liabilities with the risk appetite 
+statement, under different scenarios, over longer time horizons. Scenario analysis could also be 
+used to assess the adequacy and appropriateness of the existing risk appetite statement under 
+different plausible or potential future business environments. Certain lines of business could 
+become riskier in the future as the nature of risk changes due to climate change, and certain 
+traditional avenues of risk transfer could shrink or no longer exist. Increasing frequency and 
+severity of catastrophe perils that are expected in the future may impact the pricing and 
+reinsurance capacity available to the insurer. The insurer should consider incorporating such 
+changes to the existing re-insurance capacity in the scenario analysis exercise. This information 
+would be useful in assessing product viability and risk mitigation in a forward-looking manner.  
+75. Supervisors could consider the use of scenario analysis as a tool that could allow insurers to 
+identify and assess the robustness of their risk appetite statement and evaluate the need to make 
+any changes to the statement upfront. For example, scenario analysis can highlight time periods 
+under different scenarios when capital levels may be at risk of breaching the thresholds dictated 
+by the risk appetite statement. 
+76. Scenario analysis could be used to inform the insurer of the potential vulnerabilities in its 
+business model that could result in breaches to the risk appetite statement in the future.
+
+5.7 Board accountability (ICP 16.11) 
+Context 
+77. The board of directors are responsible  for setting and overseeing insurer’s overall business 
+strategy and risk appetite, including climate risk. The use of climate risk scenario analysis is an 
+important tool to aid the integration of the risks from climate.  
+Recommendations 
+78. Boards should ensure that they are provided with sufficient information to understand the climate 
+change risk to which their business is exposed. They should explicitly consider how climate -
+related scenario analysis is integrated into existing governance frameworks. In particular, the 
+board should be provided with: 
+• A materiality assessment, identifying the current exposure of the insurer as a starting point 
+for the analysis; 
+• A set of scenarios aimed at assessing climate risk in a forward -looking manner, taking into 
+account the long-term nature of climate risk. They should provide an adequate basis for the 
+assessment of overall solvency needs; and 
+• Management actions to be undertaken in case of adverse scenarios. Management actions 
+should be concrete, applicable within a short timeframe and tailored to the specific risk profile 
+of the insurer. 
+79. When scenario analysis exercises are conducted , the board should dedicate  time to 
+understanding the results and what they mean for the insurer’s strategy. Boards may discuss the 
+more detailed findings in board subcommittees.  
+Box 6: MAS guidelines on environmental risk management for insurers 
+The Monetary Authority of Singapore (MAS) recognises the critical role that the board of directors 
+plays in incorporating environmental considerations (including climate risk) into the insurer’s risk 
+appetite, strategies and business plans. This includes t aking into consideration both the short -
+term (within the insurer’s business planning horizon) and the longer-term (given that the impact 
+may arise beyond the maturity of current portfolios and run into decades) when assessing the 
+impact of environmental risk and opportunities. 
+The MAS guidelines inform on responsibilities of the board, such as: 
+• Approving an environmental risk management framework and policies to assess and manage 
+the insurer’s environmental risk exposures on an ongoing basis. This includes using climate 
+scenario analysis to assess these risk exposures; 
+• Setting clear roles and responsibilities of the board, including personnel who are responsible 
+for oversight of the insurer’s environmental risks; and 
+• Ensuring that directors have adequate und erstanding of environmental risk and that senior 
+management is equipped with appropriate expertise for managing environmental risk.

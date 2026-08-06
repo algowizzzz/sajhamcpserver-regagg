@@ -1,0 +1,31 @@
+# IAIS contributes to G7 framework on public-private insurance programmes against natural hazards
+
+[27 May 2024](https://www.iais.org/2024/05/iais-contributes-to-g7-framework-on-public-private-insurance-programmes-against-natural-hazards/)
+
+in [Latest news](https://www.iais.org/category/latest-news/), [Other supervisory notes and reports](https://www.iais.org/category/other-notes-reports/)
+
+In 2024, under the Italian Presidency, the G7 continued to identify disaster risk finance as a priority topic – consistent with earlier Presidencies including that of Japan in 2023. The G7 Finance Track, through its Climate Change Mitigation Working Group (CCMWG), has advanced this focus, particularly emphasising the role of public private insurance programmes (PPIP).
+
+Following last year’s publication of the IAIS report, [A call to action: the role of supervisors in addressing natural catastrophe protection gaps](https://www.iaisweb.org/uploads/2023/11/IAIS-Report-A-call-to-action-the-role-of-insurance-supervisors-in-addressing-natural-catastrophe-protection-gaps.pdf), which emphasises the key role that supervisors can play in addressing natural catastrophe protection gaps of advising government and industry, including on the design and implementation of insurance schemes, such as PPIPs, the G7 CCMWG sought technical input from the IAIS to support this work, together with the OECD. This culminated in the G7 “[High-Level Framework for Public-Private Insurance Programmes against Natural Hazards](https://www.g7italy.it/wp-content/uploads/Annex-II-Full-Document-High-Level-Framework-for-PPIPs-against-Natural-Hazards.pdf)”, published alongside the G7 Finance Ministers and Central Bank Governors [communiqué](https://www.g7italy.it/wp-content/uploads/Stresa-Communique-25-May-2024.pdf) on 25 May.
+
+Consistent with the 2023 “Call to action” report, the G7 Framework underscores that narrowing the protection gap requires a collaborative effort between multiple parties, including governments, insurance supervisors and the insurance sector. Multi-stakeholder collaboration could include several approaches to increase insurance coverage, such as improving risk awareness and financial literacy, investing in risk prevention and reduction, promoting the availability and uptake of private insurance by regulators and/or supervisors, as well as establishing public-private insurance programmes (PPIPs).
+
+It further sets out considerations for developing a high-level framework for PPIPs against natural hazards for countries, particularly targeting policy makers, insurance regulators and supervisors who are considering the development of PPIPs. The framework serves as a step-by-step guide, illustrating the different phases of PPIP development for disaster risk finance, and has been developed based on contributions from the IAIS and OECD.
+
+*“The collaboration with the OECD in providing expert input to the G7 High-Level Framework for Public-Private Insurance Programs demonstrates the value, from a key policymaking perspective, of the IAIS’ work on addressing the pressing issue of natural catastrophe protection gaps. As the global standard setter for insurance supervision, we are committed to continue to share our expertise and work together with partners to enhance resilience against natural catastrophe risks.”*
+
+*– Shigeru Ariizumi, IAIS Executive Committee Chair*
+
+5 Mar 2025
+
+[Climate risk](https://www.iais.org/tag/climate-risk/)[Protection gaps](https://www.iais.org/tag/protection-gaps/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2024%2F05%2Fiais-contributes-to-g7-framework-on-public-private-insurance-programmes-against-natural-hazards%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

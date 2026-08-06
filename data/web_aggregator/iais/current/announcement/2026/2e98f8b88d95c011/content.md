@@ -1,0 +1,1492 @@
+Consultation comments received on supporting material on 
+macroprudential and group supervisory issues and climate risk 
+ 
+ 
+15 July 2024 to 28 October 2024
+
+Organisation Jurisdiction Comment 
+General comments on the draft climate risk ICP 24 related supporting material 
+Insurance 
+Europe 
+Europe Insurance Europe agrees that potential financial stability implications of climate-related risks should be an integral part of 
+macroprudential monitoring, and therefore the IAIS’s efforts to provide supporting material for national insurance supervisor s are 
+welcomed.  
+ 
+Many of the IAIS's recommendations and examples of good practice regarding potentially systemic climate- related risks are 
+already in place in the European Union, eg as part of the comprehensive macroprudential monitoring and analyses by ESRB,  
+ECB and EIOPA. Further measures regarding climate-related risks will be implemented as part of the reforms agreed on with the 
+Solvency II review.  
+ 
+In dealing with potential systemic climate-related risks, it is crucial that the general principles of insurance supervision are fully 
+adhered to. Supervisory action should be proportionate and risk-oriented in order to avoid unnecessary burdens on insurers and 
+supervisors or potential negative side effects on the functioning of the insurance industry. With res pect to financial stability 
+implications from climate-related risks, the IAIS should place greater emphasis on the crucial role insurers play in managing risks 
+on behalf of the broader economy thereby mitigating overall systemic risk. Additionally, climate risk also presents an opportunity 
+for insurers, given that risk management is their core business.
+
+International 
+Actuarial 
+Association 
+(IAA) 
+International • The draft paper seems to be overly focused on investment operations, especially those related to long duration products, wi th 
+little that is clearly relevant to macroprudential short duration non- life markets (where the investments may have durations of 5 
+years or less).   
+• For insurance of non-life property risks, a major factor in systemic risk may be markets of last resort – both whether they exist at 
+all and the significance of those that do exist.  Such markets would be expected to have increasing i mportance in many 
+jurisdictions, and may not be included in the data collections discussed in the draft paper.  The paper should address includ ing 
+such market mechanisms in any relevant macroprudential analysis, including how the significance of such markets may change 
+over time as climate change implications grow. 
+For example, there may be systemic risk if the non-life industry abandons markets of high windstorm or wildfire risk, such that 
+industries or residences in those areas no longer have property damage risk protection.  Even if markets of last resort exist for 
+such areas, the structure of those markets may lead to systemic risk in times of stress.  
+American 
+Property 
+Casualty 
+Insurance 
+Association 
+(APCIA) 
+USA We agree that macroprudential supervisors should be aware of climate risks and their potential impact. That said, in this are a as 
+in others, insurers are primarily mitigators of systemic risk rather than generators or transmitters of systemic risk, and su pervisors 
+should keep this in mind. Insurers have helped society price and bear the costs of climate- related risks for many years, thus 
+absorbing the impact of losses that would otherwise be borne by the real economy. They are also leaders in risk prevention, 
+mitigation, and adaptation activities that also smooth the impact of catastrophic losses on society. Inappropriate restrictions will 
+only reduce the effect of these beneficial activities.  
+ 
+We also believe that the IAIS’s holistic framework for the supervision of systemic risk in the insurance sector is sufficient for the 
+consideration of climate risks, and additional tools are unnecessary.
+
+Council on 
+Economic 
+Policies, 
+Actuarial 
+Association of 
+Europe 
+(answer 
+submitted in 
+personal 
+capacity) 
+Switzerland General comments on the draft climate risk ICP 24 related supporting material 
+• We welcome that the IAIS is highlighting macro-prudential supervisory issues and making recommendations related to systemic 
+risk, an important topic which is underdeveloped and under-researched in the insurance sector compared to the banking sector. 
+This said, the paper could be more structured in its analysis, notably by clearly distinguishing between climate mitigation i ssues 
+(such as the financing and underwriting of high- vs. low-carbon technologies) and climate adaptation issues (such as 
+uninsurability and its potential knock-on effects on real estate markets, financial markets and the economy). Important examples 
+are also only briefly alluded to in Annex 1, rather than in the body of the report itself. Further detailed feedback is provided below.  
+• Paragraph 1: We suggest amending to ‘climate change is not only a source of financial risk for individual insurers; it ALSO  HAS 
+wider implications on financial stability’ 
+• Annex 1, examples of physical risk indicators: on two occasions, the paper makes use of the expression ‘return period (e.g. 1 in 
+100)’. Such terminology is potentially misleading in the context of emerging risks which are, statistically speaking, non- stationary. 
+For emerging risks such as climate, and as noted elsewhere in the paper by the IAIS, historical data is unlikely to provide reliable 
+estimates for the future. Therefore, it would be more accurate to use for instance ‘1% -Value-at-Risk’, and stress that this must be 
+evaluated on a forward-looking basis and that it will not necessarily coincide with the historical return period.  
+• Annex 1, examples of physical risk indicators, last bullet point: the text should reflect the impact of premium changes, e. g., as 
+follows: ‘… as well as necessary premium changes for business continuity AND THE EXPECTED IMPACT OF SUCH PREMIUM 
+CHANGES ON AFFORDABILITY AND INSURABILITY.’ 
+• Annex 1, examples of transition risk indicators, asset and underwriting risks, second bullet point: the mention of high- carbon 
+industries is welcome, but it is such an important climate mitigation topic that it should also be referred to in the body of  the report 
+itself. The body of the report should also include an explanation that the financing and underwriting of high- carbon industries 
+contributes to fueling physical risks that ultimately pose a threat to financial stability.  
+• Annex 1, examples of transition risk indicators, asset risks, first bullet point: CO2 emission indicators should also be ex tended to 
+liabilities, not just assets, i.e., this indicator should be moved up to the previous section on “asset and underwriting risks”. 
+Insurance-associated emissions can be measured in line with the methodology which is being developed by PCAF (the 
+Partnership for Carbon Accounting Financials). 
+• Annex 1, examples of transition risk indicators, asset risks, second bullet point: Portfolio alignment indicators are already 
+mandatory in some jurisdictions, but are relevant in all jurisdictions for the purpose of financial stability anal yses. 
+• Annex 1, examples of climate scenario metrics, asset-related indicators, third bullet point: the mention of uninsurable real estate 
+is welcome, but it is such an important climate adaptation topic that it should also be referred to in the body of t he report itself. It 
+should also be accompanied by an explanation that uninsurability (and its precursor, i.e. unaffordability of insurance) is ul timately 
+a threat to financial, economic and social stability. 
+• Annex 1, examples of climate scenario metrics, underwriting-related indicators, fourth bullet point: the mention of technology mix 
+is welcome, but it is such an important climate topic that it should be also referred to in the body of the report itself. It  should also
+
+be accompanied by an explanation that insurance has an important systemic role in supporting the development and deployment 
+of new technologies that are needed for the climate transition.
+
+The Life 
+Insurance 
+Association of 
+Japan 
+Japan The Life Insurance Association of Japan (the “LIAJ”) appreciates the opportunity to submit public comments to the Internation al 
+Association of Insurance Supervisors (the “IAIS”) regarding the fourth consultation on climate risk related to the insurance sec tor. 
+The supporting material should particularly consider three points: (1) climate risks impact the life insurance and non- life insurance 
+businesses differently; (2) insurers play a role in mitigating climate risks; (3) application of capital add- on to insurers would not be 
+a valid measure to address climate risks. 
+ Firstly, the supporting material discusses how the supervisors capture, monitor and address the effects of climate risks. 
+However, it should take into consideration the premise that climate risks have different effects on life insurance and non-life 
+insurance businesses. The LIAJ hence believes that it would be effective to clarify whether the illustrated measures are inte nded 
+for life or non-life insurance businesses. 
+Secondly, the supporting material mainly focus on risks of insurers when addressing climate changes. However, when 
+considering supervisory matters within this topic, it is important to take into account the insurers’ role in contributing to the 
+mitigation of climate risks through the engagement with investee companies. 
+Thirdly, application of capital add-on to insurers (paragraph 35) would not be a valid measure to address climate risks.  
+Climate risks materialise over a long time horizon with significant uncertainty in the timing and degree of manifestation, which 
+differ greatly from other traditional risks where capital requirement can be calculated based on historical data. While the LIAJ 
+understands the reason to consider mitigation measures of climate risks where necessary, it would be difficult to determine the 
+consistency between climate risks and traditional risks as they have different time- horizons due to the above climate risk 
+characteristics. For that reason, it is unclear that capital add-on would be the best mitigation measure. 
+As described in paragraph 71 of “the draft Application Paper on public disclosure and supervisory reporting of climate risk”,  there 
+are various issues concerning the quality of climate risk related data and calculation. Even if the add- on capital was to be 
+calculated, the determination of the appropriate level of capital add-on would be difficult. 
+To lightly suggest capital add-on without examining these issues would place an excessive burden on insurers and would 
+damage their capacity to contribute to the mitigation of climate risks through investments.  
+For the reasons above, application of capital add-on to insurers would not be appropriate for the purpose of addressing climate 
+risks. The words “or applying a capital add-on” in paragraph 35 should be deleted or be supported by a conditional statement 
+“only if the add-on capital can accurately be quantified”
+
+Finance Watch EU Finance Watch welcomes the draft supporting material and the recognition that climate -related risks need additional guidance to 
+be addressed as part of macroprudential supervision under ICP 24. The IAIS has made important progress on this subject in the 
+past years. However, there is a further opportunity to strengthen the supporting material by mentioning the specific risks related 
+to fossil fuel exposures. ICP 24.0.2 already acknowledges the importance of proper attention to outward risk to mitigate possible 
+systemic risks. 
+ 
+Fossil fuel-related assets are well known to be subject of a higher degree of transition and stranding risk, as recognised by 
+EIOPA in this years Consultation on the Prudential Treatment of Sustainability Risks (see also our response to the consultation: 
+https://www.finance-watch.org/policy-portal/sustainable-finance/eiopas-report-shows-they-take-climate-risk-seriously-
+consultation-response/). The higher risk differential of these assets means they also carry a higher risk for systemic 
+destabilisation..  Systematic underpricing of these risks would lead to concentrations and in the case of abrupt risk materia lisation 
+in the case of a disorderly transition will cause knock-on, contagion or spillover effects. 
+ 
+A key point for the draft supporting material is that it should avoid the use of ‘may’ or ‘could’ when providing guidance and rather 
+use ‘do’,‘will’ or ‘should’. A first example comes in the second paragraph of the paper, stating that the guidance provided may be 
+implemented in the context of climate-related risk drivers. The draft supporting material needs to be clearer, using ‘should’ here-  
+otherwise the value of the guidance in supporting more harmonised supervisory application is reduced.
+
+Public Citizen United States Public Citizen supports IAIS and insurance supervisor consideration of climate risk impacts to financial stability. In partic ular, we 
+support IAIS’ attention to the following areas: (1) The need for insurance supervisors to address the risks from a delayed or 
+divergent transition and the reality that global emissions are not currently aligned with the goals of the Paris Agreement. ( 2) The 
+need for insurance supervisors to consider feedback loops and second order effects when assessing climate impacts on the 
+insurance sector, financial system, and broader economy. (3) The need for insurance supervisors to work collaboratively with 
+other financial regulators to address the ways risks in the insurance sector can affect other parts of the financial system.  
+ 
+We also support specific recommendations of this guidance that would better align supervisor assessment and mitigation of 
+climate risk with the realities of climate change. We support (1) the preventive and corrective measures highlighted in this 
+guidance— in particular, “prohibiting the insurer from underwriting certain climate- related risks.” and (2) the use of alternate data 
+sources given the gaps and shortcomings of climate risk data. In particular we support the use of scientific physical risk 
+projections to better align models on climate-related financial risk with climate science.  
+ 
+To improve this guidance, IAIS should encourage supervisors to take a precautionary approach to mitigating risk in the insurance 
+sector. Given the data gaps and shortcomings highlighted in this guidance, supervisors cannot wait for climate risks to materialize 
+in traditional risk models. Instead, supervisors should incorporate precautionary tools including restrictions on fossil fuel  
+underwriting, climate-related capital requirements, and mandated transition planning to mitigate risk now.
+
+Ceres United States It is a pleasure to submit comments on behalf of Ceres and the Ceres Accelerator for Sustainable Capital Markets. Ceres is a 
+nonprofit advocacy organization with over 30 years of experience working to accelerate the transition to a cleaner, more just , and 
+sustainable world. Our Investor Network currently includes over 220 institutional investors that collectively manage over $44 
+trillion in assets. Ceres is a founding partner of the Net Zero Asset Managers Initiative and the Paris Aligned Investor Init iative, 
+which supports investors in aligning their investments and portfolios with the goal of a net zero emissions economy by 2050 or 
+sooner. Our Company Network includes 50 major corporations representing industries and sectors across the economy with 
+whom we work on an in-depth basis on climate strategy and disclosure, among other issues. Our Policy Network includes some 
+of the most well-known brands in the U.S. with whom we work on a range of state and federal policy issues.   
+ 
+The Accelerator aims to transform the practices and policies that govern capital markets by engaging federal and state 
+regulators, financial institutions, investors, and corporate boards to act on climate change as a systemic financial risk. Th e 
+comments provided herein represent only the opinions of Ceres, and do not necessarily infer endorsement by each member of 
+our Investor, Company, or Policy networks.    
+ 
+ Ceres has advocated for improved climate risk disclosure and management by insurers for over 15 years, including encouraging 
+work by U.S. state insurance commissioners to improve companies’ climate disclosures. We have published 10 reports focusing 
+on insurance, with the latest one published in July 2024 on “Navigating Climate Risks: Progress and Challenges in U.S. 
+Insurance Sector Disclosures”, the second annual analysis Ceres has conducted of major U.S. insurers’ climate risk strategies by 
+examining the disclosures companies are making. Additionally, our Director of Insurance, Jaclyn de Medicci Bruneau, is an 
+official Consumer Presentative of the US NAIC.   
+ 
+Ceres appreciates the opportunity to review the IAIS draft Application Paper supporting material on climate risk and 
+macroprudential supervision. As an organization dedicated to advancing sustainable business practices and addressing climate 
+change, we find this paper to be a significant step forward in recognizing the importance of climate- related risks in the insurance 
+sector.  
+ 
+The draft supporting material demonstrates a clear understanding that climate change is not only a source of financial risk for 
+individual insurers but also has potential implications for broader financial stability. This aligns well with Ceres' perspec tive on the 
+far-reaching impacts of climate change on the financial system. We note the comprehensiv e approach taken in addressing 
+various aspects of climate risk, including both physical and transition risks. The IAIS's recognition of the evolving nature of 
+climate-related risks and the need for adaptive supervision is particularly pertinent given the dynamic nature of climate change 
+and its impacts.  
+ 
+The emphasis on data collection and analysis for macroprudential purposes is a crucial element of the draft guidance. Climate
+
+risk presents unique challenges in terms of data availability, quality, and comparability, and addressing these issues is 
+fundamental to effective risk assessment and management. The inclusion of scenario analysis as a key tool for assessing 
+climate-related risks is noteworthy. Given the forward-looking nature of climate risks, scenario analysis is indeed an essential 
+component of a robust supervisory framework.  
+ 
+The inclusion of the need for cross-sectoral and cross-jurisdictional coordination reflects the interconnected nature of climate 
+risks and their potential to impact multiple areas of the financial system simultaneously. This approach is crucial for effec tive 
+macroprudential supervision in the context of climate change. We also appreciate the attent ion given to qualitative analysis 
+methods, recognizing that not all climate-related risks can be captured through quantitative metrics alone. This balanced 
+approach allows for a more comprehensive assessment of potential vulnerabilities. The consideration of second- round effects 
+and the potential for climate risks to create or amplify systemic risks provide a sophisticated analysis of the complex ways in 
+which climate change can impact the insurance sector and broader financial stability.  
+ 
+Overall, Ceres finds that this draft application paper provides a solid foundation for integrating climate risk considerations into 
+macroprudential supervision of the insurance sector. It reflects a growing recognition of the urgency and complexity of addressing 
+climate-related financial risks, which is crucial for building a more resilient and sustainable financial system.
+
+CRO Forum 
+Association & 
+CFO Forum 
+Association 
+Europe The CRO Forum would stress the need for a more proportionate and flexible approach to address any macro -prudential issues 
+around climate risk. Insurers’ exposure to physical, transition, liability and reputational climate- related risks and the impacts of 
+those risks can vary considerably. A clearer delineation is needed of the various dimensions of climaterelated risks and their  
+potential magnitude before determining appropriate supervisory responses to the each of these dimensions. As an example, the 
+IAIS primarily focuses on two specific risks: asset transition risk and natural catastrophe (NatCat) risk. Recent studies, includi ng 
+those by EIOPA, have shown that asset transition risk for insurers is very limited in Europe, as EU insurers generally do not  hold 
+many assets highly exposed to transition risk.  
+As for NatCat risk, this is not a new challenge but one that insurers are actively managing and monitoring using a risk -based 
+approach. Furthermore, the IAIS's integration of climate risks into the global data collection for the GIMAR, do not indicate 
+anything systemic.  
+ 
+As is rightly pointed out in the footnote 4 on p. 10, supervisors should consider any possible negative impacts of their acti ons, 
+also with view to a potential increase of the insurance protection gap. This remark should be highlighted more prominently in the 
+text, referring to all of the contemplated supervisory measures. These need to be balanced and also consider macroeconomic 
+effects, especially on the re/insurance market dynamics.  
+ 
+Quite striking is in this regard the suggested example of the supervisory measure to prohibit an insurer from underwriting cert ain 
+climate-related risks. This would represent a very strong intervention in the market. If a prohibition from covering ertain cli mate-
+related risks is suggested, there is immediately the question on the alternatives, leading quickly to the assumption that there 
+would be a shift from market-based covers to state intervention. This would send the wrong signal also to affected 
+populations/public and private policyholders that they do not need to or cannot find solutions to cover their risks, based on the 
+assumption that governments will have to step in with taxpayer money if no insurance is available. Rather, the promotion of r isk 
+reduction measures wherever possible, in order to support/maintain the insurability of certain climate risks should be highlighted 
+and considered to become part of the role of insurance supervisors. It is further the core function of insurance and reinsurance t o 
+provide an indication of the price/cost associated with a certain risk and to thereby signal where action is needed to keep e.g. 
+business and social activities and private as well as public property insurable.  
+ 
+In addition, we would also highlight attention to the EC Climate Resilience Dialogue paper where in chapter 3 “risk reduction 
+measures” of the EC Climate Resilience Dialogue paper it underlines the importance of risk reduction. In the summary of the 
+proposed action in Chapter 5 climate risk reduction measures are among those which are listed for public authorities to take 
+action on. 
+ 
+In conclusion, CROF would request the IAIS to focus on a proportional approach to climate change risk and avoid supervisory
+
+overreach. We caution against disproportionate supervisory tools, such as prohibiting insurers from underwriting specific cli mate 
+risks, as these may be counterproductive, especially in light of the issue of the protection gaps.
+
+EDHEC Infra 
+& Private 
+Assets 
+Singapore While the draft of Application Paper and supporting material have been drafted in line with the concept of single materiality  (i.e., 
+focusing on risk), we would like to remind supervisors the feedback loops between the climate, economy, and society systems. 
+When we emphasis one aspect too much, it could lead to the outcomes we want to avoid initially. For instance, if supervisors 
+emphasize the risks associated with stranded assets too heavily, insurers may intend to rapidly reduce their exposure to these 
+assets within a short timeframe. Such actions could have significant shocks in the financial markets, potentially increasing risks 
+across all asset classes. Moreover, it could lead to sharp rises in utility prices, adversely affecting public interests in the short 
+term and thereby hindering progress towards net-zero targets. We suggest supervisors use more holistic views instead of 
+standing on the financial risk views only when handling the chall enges of climate related risks.
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global GFIA agrees that potential financial stability implications of climate-related risks should be an integral part of macroprudential 
+monitoring, and welcomes the IAIS’s efforts to provide supporting material for national insurance supervisors.  
+ 
+GFIA also agrees that it is important for macroprudential supervisors to be aware of climate risks and their potential impacts. 
+However, it needs to be reminded that in this area as in others, insurers are primarily mitigators of systemic risk rather than 
+generators or transmitters of systemic risk. GFIA suggests that supervisors take that into consideration.  
+ 
+Many of the IAIS's recommendations and examples of good practice regarding potentially systemic climate- related risks are 
+already in place in many jurisdictions around the world.  
+ 
+In dealing with climate-related risks as a new source of potential systemic risk, just as with any other of the potential systemic 
+risks the insurance industry faces, it is crucial that the general principles of insurance supervision are fully adhered to. 
+Supervisory action should be proportional and risk-oriented in order to avoid unnecessary burdens on insurers and supervisors or 
+potential negative side effects on the functioning of the insurance industry. Considering that supervisors  already have strong 
+principles regarding systemic risks in place, climate risks should be integrated within this existing oversight framework.  
+With respect to financial stability implications from climate-related risks, the IAIS should place greater emphasis on the crucial 
+role insurers play in managing risks on behalf of the broader economy, thereby mitigating overall systemic risk. Additionally , 
+climate risk also presents an opportunity for insurers, given that risk management is their core business.
+
+The Geneva 
+Association 
+International We are concerned about the extensive recommendations and the prescriptive language put forward in the macroprudential 
+paper. The paper seems to conflate the distinction between the macroeconomic and macroprudential aspects of climate risk. 
+While climate change undoubtedly presents significant macroeconomic and societal challenges, this does not automatical ly 
+translate into macroprudential risks that could destabilise the insurance sector. The paper appears to suggest that the insur ance 
+industry may exacerbate these risks, a far-reaching claim that would require careful substantiation by the IAIS. On the contrary, 
+insurers play a key role in mitigating and managing climate-related impacts, thereby fostering broader climate resilience for 
+society. Furthermore, the approach to climate risk seems to have been improperly modelled on the response to the 2008 
+Financial Crisis, which involved opaque non-insurance financial transactions, whereas climate change poses a distinctly different 
+challenge. The insurance industry does not create or worsen climate- related risks but helps to mitigate them. Any argument to the 
+contrary must be thoroughly substantiated, and macroprudential concerns or financial stability implications related to the 
+insurance sector must be clearly identified to justify any supervisory intervention.  
+ 
+Supervisors are concerned about potential spill-over effects between insurers and banks, especially where climate change risks 
+may affect the availability and affordability of insurance in high- risk areas. While insurance pricing provides vital risk signals to the 
+economy and broader society, it is the role of property buyers and banks to assess and appropriately reflect such price signals, 
+including the cost of insurance. Banks are increasingly exposed to climate- related risks, but this is not due to insurers adjusting 
+their pricing based on risk; rather, this pricing helps to provide essential price signals which are important to prevent build- up of 
+systemic risk. When property owners cannot afford insurance due to climate- driven price hikes, it signals the need for policy 
+action, such as revising zoning regulations or enhancing infrastructure. Restricting insurers from covering certain risks would 
+undermine their essential role in mitigating climate impacts. The IAIS’ macroprudential concerns around asset transition and 
+NatCat risks stands in contrast with recent studies that found that insurers face limited asset transition risks and manage NatCat 
+risks well through a risk-based approach. Recent stress tests by EIOPA and ACPR show that NatCat risk does not pose 
+significant capital threats. The IAIS GIMAR report in 2021 with focus on identifying systemic risks with regard to insurers assets 
+concluded that climate-related risks in the insurance sector are manageable and it indicated that the integration of climate risks 
+into the data collection for the Global Monitoring Exercise (GME) was not related to the idea that there is climate change related 
+systemic risk emanating from the insurance industry. It is crucial that the IAIS approach to macroprudential policy for clima te risks 
+remains consistent with perspectives across various IAIS studies and aligned with the real risks posed.  
+ 
+Given our concerns, we find the suggested supervisory actions in the macroprudential paper difficult to reconcile with the ac tual 
+risks identified. We are particularly concerned about the inadequate recommendations, including potential implicit restrictions on 
+underwriting climate-related risks and capital add-ons and prescriptive language in the paper (e.g. using words like “should”). 
+These recommendations stand in sharp contrast with the IAIS’ recent work on protection gaps, highlighting that such measures 
+could widen the protection gap and impose undue burdens on insurers, hindering their ability to manage these risks effectivel y. 
+Including these insights could help ensure that policy measures are effective and avoid any unintended, counterproductive
+
+effects. 
+ 
+Instead of restricting insurers from covering respective risks or proposing capital add- On’s, a more appropriate response would 
+involve policy measures aimed at reducing overall climate-related risks, which often extend beyond the direct control of insurers 
+and supervisors. Rather than initiating with prescriptive supervisory actions based on unsubstantiated assumptions, a more 
+helpful starting point would be if the IAIS conducts a comprehensive study on how climate- change-related risks would affect the 
+economy and the insurance sector. Only after conducting such an analysis and concluding that climate change threatens the 
+viability of the industry appropriate supervisory actions should be defined. The current approach, which begins with data 
+collection, is unlikely to enhance the sector's resilience against potential climate- related risks. 
+ 
+Data collection 
+The draft supporting material places significant emphasis on data collection and analysis for macroprudential purposes, including 
+data related to the climate scenario metrics listed in the appendix. However, it remains unclear how these data points will be 
+utilised to assess risk. Supervisory authorities should have a clear rationale and objective before requesting extensive data from 
+the industry. They should also consider publicly available information before seeking additional data. IAIS guidance in this 
+direction would in our view be more helpful than the development of additional metrics and the collection of additional data for 
+macroprudential purposes.
+
+Institute of 
+International 
+Finance (IIF) 
+United States The Institute of International Finance (IIF) and its insurance members welcome the opportunity to comment on the IAIS’s Draft  
+supporting material on macroprudential and group supervisory issues and climate risk (Draft supporting material).  Insurance 
+Core Principle (ICP) 24 calls on supervisors to identify, monitor, and analyze market and financial developments and other 
+environmental factors that may impact insurers and the insurance sector, use this information to identify vulnerabilities, and 
+address, where necessary, the build-up and transmission of systemic risk at the individual insurer and at the sector -wide level.  
+The Draft supporting material is intended to provide further advice, illustrations, recommendations or examples of good pract ice 
+on how ICP 24 may be implemented in the context of climate-related risk drivers 
+ 
+The Draft supporting material should adopt an illustrative, proportionate and adaptable ‘toolbox’ approach rather than settin g out 
+prescriptive guidance to supervisors.  The supporting material should reflect an adaptable ‘toolbox’ approach in line with the 
+objective of an application paper, which is to provide illustrations, recommendations and examples of good practice to 
+supervisors. More illustrative and adaptable supervisory material would better accommodate the range of supervisory 
+approaches employed by insurance supervisors and reflect specific jurisdictional contexts and markets.  
+ 
+As proposed, the Draft supporting materials are overly prescriptive, including through the frequent use of the term ‘should,’ and 
+do not, in our view, accomplish the objective of an application paper.  The tools in the toolbox should be proportionate to a ny 
+finding of macroprudential concerns related to the insurance sector.  
+ 
+The IAIS should consult further on any final package of guidance or recommendations on climate- related risks.  In addition to the 
+current consultation and the IAIS consultation on the Draft Application Paper on public disclosure and supervisory reporting of 
+climate risk, the IAIS has sought input since March 2023 on: (i) changes to the ICP Introduction and the supporting materials 
+under ICPs 7 and 8 (March 2023); (ii) supporting materials addressing market conduct and scenario analysis (November 2023); 
+and changes to ICP and supporting material related to corporate governance, risk management and internal controls, valuation 
+for solvency purposes, investment activities and enterprise risk management frameworks (March 2024). IIF members believe 
+there is a need for stakeholder input on any final product that is designed to integrate these different and extensive elements into 
+a final product that is intended to position climate risk within the global framework for insurance supervision. This is part icularly 
+necessary in light of the need for a substantially different approach to the Draft supporting material, as outlined in our overarching 
+comments.
+
+E3G United States We support acknowledgment of second order effects that could result from actions taken by financial institutions and others i n 
+response to climate risk or scenarios. We support risk assessment of the second- round effects induced by endogenous drivers 
+following actions taken by financial institutions, households, regulators and/or policymakers in response to an initial climate risk 
+impact or scenario. 
+ 
+As described above, we underscore the need for coordination across sectors, and across borders, e.g., reinsurance markets.  
+Comments on climate change and financial stability risks 
+Council on 
+Economic 
+Policies, 
+Actuarial 
+Association of 
+Europe 
+(answer 
+submitted in 
+personal 
+capacity) 
+Switzerland Comments on climate change and financial stability risks 
+• Paragraph 5: We disagree that there is a ‘lack of consistent methodologies, standardized metrics and comparable disclosures  
+around climate risk’. Over the last years, TCFD has become a standard framework and has been incorporated in numerous 
+national reporting requirements, either directly or indirectly through requirements that are TCFD -compatible (e.g. EU 
+CSRD/ESRS E1, ISSB/IFRS S2). It is worth noting that in addition to reporting requirements, TCFD also provides methodological 
+recommendations (both in its core version and in its specific guidance for the financial sector) which can be consistently applied 
+and leveraged by insurance companies. 
+• Paragraph 6: This should be amended to reflect that ‘insurers may face reputati onal AND/OR LITIGATION RISK due to their 
+financial support for carbon-intensive sectors’ 
+• Paragraph 8: This should be amended to reflect that ‘if the effective transition to a more sustainable or net -zero economy is 
+delayed, this WILL increase the probability that physical risks will materialize’ 
+• Paragraph 8: Regarding the transition pathways that supervisors should consider, this should not be limited to orderly and 
+disorderly transitions. For proper macro-prudential risk management, this should also include more adverse scenarios, such as 
+‘business-as-usual’/‘hothouse’ scenarios. 
+The Life 
+Insurance 
+Association of 
+Japan 
+Japan The IAIS states that “insurers could contribute to the generation or amplification of systemic risk induced by climate risk e vents” in 
+paragraph 4. The word “amplification” should be deleted as it is not supported with sufficient and persuasive explanation, and is 
+misleading.
+
+Finance Watch EU The recognition of higher impact of a delayed and divergent transition in the draft supporting material is important, as is the 
+recognition of the need for supervisors to better understand climate-related risks. 
+ 
+The draft supporting material also rightly highlights disruption risk - outlining the situation where climate impacts on the financial 
+system could also trigger reactions with other participants within the financial system (including insurers) trying to mitigate the 
+impact of the events on their balance sheet. The explicit acknowledgment that climate change is not only a financial risk to 
+individual insurers but also has the potential to disrupt the wider financial system is a significant step.  
+ 
+The recognition in the draft supporting material of the heightened risks associated with a delayed and divergent transition i s 
+particularly important. As the transition to a low-carbon economy is delayed, the possibility of a disorderly transition increases, 
+and with it the chance of severe disruption in financial markets. By emphasising this, the IAIS is supporting supervisors in taking 
+timely measures to address these risks. As insurers and other financial participants react to a sudden transition, systemic risk s 
+will be amplified, potentially triggering broader macroeconomic effects. The focus on how these reactions may influence both the 
+financial system and the real economy is a key consideration in macroprudential supervision.  
+ 
+In line with the recent work of EIOPA on the prudential treatment of sustainability risks, the supporting advice is right to point out 
+that market pricing of investments is not taking into account climate risk. EIOPA investigated the specific area of fossil fuel 
+exposures and found them to be underpriced from a risk capital perspective. This is an example and a result of the market not  
+pricing in climate risk. 
+ 
+As it has been established that fossil fuel exposures carry a much higher risk differential (transition/ stranding and increasingly 
+reputational), it would be important to see the draft supporting material on ICP 24 dive deeper into the specific risks of hi gh-
+carbon industries, both for underwriting and assets. Supervisors should also pay special attention to the impact materiality of 
+fossil fuel exposures, as is already embedded in ICP 24.0.2 (outward risks). Systematic underpricing of these risks would lead to 
+concentrations and in the case of abrupt risk materialisation in the case of a disorderly transition will cause knock -on, contagion 
+or spillover effects.
+
+National 
+Association of 
+Insurance 
+Commissioner
+s (NAIC) 
+USA, NAIC Suggest the following editorial change to Para. 8: 
+ 
+For instance, if the effective transition to a more sustainable or net zero economy is delayed, this may increase the probabi lity 
+that physical risks will materialise, including the severity and frequency  of physical risk events. 
+Public Citizen United States As this guidance highlights, “climate risk events could spread beyond the insurance sector and impact the wider financial 
+system.” When supervisors consider the flow of risk from insurers to financial markets, the economy, and society writ -large, 
+supervisors should incorporate measures to ensure these risks do not fall disproportionately on low and moderate income (LMI) 
+communities and communities of color.  
+ 
+Insulating insurer balance sheets from climate risks do not make these risks disappear, instead they migrate elsewhere in the 
+financial system. Bluelining, or the practice of limiting credit creation and investment in climate- vulnerable areas, often leads to 
+financial exclusion for LMI communities and communities of color. Due to a history of systemic exclusion, including redlining, low 
+income communities and communities of color are overrepresented in climate- vulnerable areas and are disproportionately 
+subjected to higher premiums or the loss of coverage. [1] This practice can exacerbate existing inequa lities, creating further 
+financial exclusion for communities that already face systemic barriers to credit access and homeownership. Prudent 
+macroprudential risk management cannot rely on transferring risks from insurers to climate- vulnerable communities. This transfer 
+of risk could further heighten financial inequality, while a growing body of research suggests that growing inequality could 
+contribute to financial instability.  
+ 
+[1] https://greenlining.org/wp-content/uploads/2023/08/FINAL-GLI_Bluelining_report_2023.pdf.
+
+Ceres United States Ceres commends the IAIS for its comprehensive approach to addressing climate -related risks in the insurance sector and their 
+potential impact on financial stability. The paper's emphasis on the urgency of climate action, as highlighted by the reference to 
+the UN Framework Convention on Climate Change's 2023 report, aligns strongly with Ceres' stance on the critical nature of 
+immediate climate action. We appreciate the recognition of the "rapidly narrowing window" for action, which underscores the need 
+for swift and decisive measures within the insurance sector.  
+ 
+The multifaceted nature of climate risks facing insurers is well-articulated, encompassing physical, transition, liability, and 
+reputational risks. This holistic approach is vital for understanding the full scope of climate -related challenges. Moreover, the 
+acknowledgment of insurers' dual exposure to climate risks as both underwriters and investors highlights the sector's unique 
+position in climate risk management and mitigation. The draft language on transmission channels and feedback loops within the 
+financial system is particularly insightful, as it effectively illustrates how climate risks can have far -reaching impacts beyond the 
+insurance sector, potentially affecting the broader economy. This s ystemic view aligns with Ceres' understanding of the 
+interconnected nature of climate risks across various sectors and financial systems.  
+ 
+We appreciate the paper's recognition of the challenges in assessing and pricing climate risks due to the lack of consistent 
+methodologies and standardized metrics. This acknowledgment resonates with Ceres' work on improving climate risk disclosure 
+and management. Similarly, the inclusion of reputational risks associated with financing carbon- intensive sectors aligns with our 
+focus on sustainable finance and the need for a transition to a low-carbon economy. The consideration of interdependencies 
+between physical and transition risks, along with the exploration of different transition scenarios, demonstrates a nuanced 
+understanding of climate change impacts. This approach is crucial for developing effective risk management strategies and 
+policies.  
+ 
+While the paper provides a strong foundation, Ceres believes there are opportunities to further enhance its guidance and impact. 
+We recommend strengthening the emphasis on transition planning, providing more detailed guidance on climate scenario 
+analysis, and addressing data gaps in climate risk assessment. Given the growing trend of climate- related litigation, a more 
+detailed exploration of liability risks would be valuable. Additionally, while the focus on risks is crucial, we suggest including a 
+discussion on the opportunities for insurers in the transition to a low -carbon economy, such as innovative products supporting 
+clean energy and climate resilience.  
+ 
+To further strengthen the paper's practical application, we recommend adding guidance on how insurers can engage with their 
+clients and investee companies to promote climate risk management and emissions reduction. This engagement can be a 
+powerful tool in insurers' risk mitigation strategies. Lastly, given the paper's comprehensive discussion of various risk 
+transmission channels, we suggest including recommendations for climate stress testing that capture these complex interactions 
+and feedback loops. Such stress tests could provide valuable insights for both insurers and supervisors in understanding and
+
+managing climate-related risks.  
+ 
+Ceres believes that by incorporating these recommendations, the IAIS can further strengthen this application paper, providing 
+more comprehensive guidance for insurance supervisors in addressing climate- related risks and promoting a sustainable, 
+resilient financial system. We appreciate the opportunity to contribute to this important work and look forward to continuing 
+engagement with IAIS on these critical issues.
+
+EDHEC Infra 
+& Private 
+Assets 
+Singapore We notices the increasing importance of analysis using the scenarios corresponding to delayed and divergent transitions. Despite 
+insurers can have insights by using the scenarios with these two narratives, we emphasis there is the likelihood that the wor ld 
+does not go into either of the two scenarios eventually. As a more robust approach to understand the climate related risks, we 
+recommend the industry using the stochastic scenarios which contain a broader spectrum of possible outcomes with climate 
+uncertainties. This provides supervisors more systematic views on the risks of the insurance sector.
+
+The Geneva 
+Association 
+International The paper seems to conflate the distinction between the macroeconomic and macroprudential aspects of climate risk. While 
+climate change undoubtedly presents significant macroeconomic and societal challenges, this does not automatically translate 
+into macroprudential risks that could destabilise the insurance sector. The paper appears to suggest that the insurance industry 
+may exacerbate these risks, a far-reaching claim that would require careful substantiation by the IAIS. On the contrary, insurers 
+play a key role in mitigating and managing climate-related impacts, thereby fostering broader climate resilience for society. 
+Furthermore, the approach to climate risk seems to have been improperly modelled on the response to the 2008 Financial Crisis , 
+which involved opaque non-insurance financial transactions, whereas climate change poses a distinctly different challenge. The 
+insurance industry does not create or worsen climate-related risks but helps to mitigate them. Any argument to the contrary must 
+be thoroughly substantiated, and macroprudential concerns or financial stability implications related to the insurance sector must 
+be clearly identified to justify any supervisory intervention.  
+ 
+Supervisors are concerned about potential spill-over effects between insurers and banks, especially where climate change risks 
+may affect the availability and affordability of insurance in high- risk areas. While insurance pricing provides vital risk signals to the 
+economy and broader society, it is the role of property buyers and banks to assess and appropriately reflect such price signals, 
+including the cost of insurance. Banks are increasingly exposed to climate- related risks, but this is not due to insurers adjusting 
+their pricing based on risk; rather, this pricing helps to provide essential price signals which are important to prevent build- up of 
+systemic risk. When property owners cannot afford insurance due to climate- driven price hikes, it signals the need for policy 
+action, such as revising zoning regulations or enhancing infrastructure. Restricting insurers from covering certain risks would 
+undermine their essential role in mitigating climate impacts. The IAIS’ macroprudential concerns around asset transition and 
+NatCat risks stands in contrast with recent studies that found that insurers face limited asset transition risks and manage NatCat 
+risks well through a risk-based approach. Recent stress tests by EIOPA and ACPR show that NatCat risk does not pose 
+significant capital threats. The IAIS GIMAR report in 2021 with focus on identifying systemic risks with regard to insurers assets 
+concluded that climate-related risks in the insurance sector are manageable and it indicated that the integration of climate risks 
+into the data collection for the Global Monitoring Exercise (GME) was not related to the idea that there is climate change related 
+systemic risk emanating from the insurance industry. It is crucial that the IAIS approach to macroprudential policy for clima te risks 
+remains consistent with perspectives across various IAIS studies and aligned with the real risks posed.
+
+Institute of 
+International 
+Finance (IIF) 
+United States The interlinkages between climate change and broader macroeconomic considerations should not be conflated with the 
+discussion of macroprudential or financial stability implications of insurance sector climate- related financial risks.  The broader 
+macroeconomic risks and impacts of climate change for society, which are undoubtedly high, should be distinguished from the 
+macroprudential perspective and any possible contribution by the insurance industry to any negative climate impacts on financ ial 
+stability.  The Draft supporting material does not clearly identify nor substantiate the IAIS’s macroprudential and financial stability 
+perspectives, which should be the focus of any supervisory action, if needed.  
+ 
+We believe that the insurance sector’s positive macroeconomic contributions could be better reflected in t he Draft supporting 
+material.  We encourage the IAIS to recognize the important role that the insurance sector plays in dampening and mitigating the 
+impacts of climate change on society by underwriting and reinsuring climate exposures, engaging in climate- related investment 
+activities, and supporting climate resilience efforts.   
+ 
+The IAIS should provide clear support for how any potential negative macroeconomic impacts arising from insurance sector 
+activity warrant a need for macroprudential action with the level of prescription in the Draft supporting material.  The IAIS should 
+describe in sufficient detail the evidence supporting a finding that there are substantive implications from climate change f or the 
+insurance sector and should substantiate how the approach taken in the Draft supporting material is proportionate, risk -based 
+and carefully tailored to address the specific identified potential need for macroprudential action for the insurance sector.   
+ 
+We encourage the IAIS to identify and substantiate the key assumptions underlying the Draft supporting material.  For example, 
+Paragraph 6 states without clear support that insurers could contribute to the generation or amplification of systemic risk i nduced 
+by climate risk events. 
+MSCI ESG 
+Research LLC 
+United States 
+of America 
+In addition to the risks outlined by IAIS, supervisors may also consider requiring insurers to assess and manage the impact o f 
+climate risk on asset-liability management. Transition and physical risks of climate change may affect insurers’ asset and liabil ity 
+sides in different degrees and in different time horizons. This poses additional liquidity challenges to insurers.
+
+E3G United States As this guidance highlights, “climate risk events could spread beyond the insurance sector and impact the wider financial 
+system.” When supervisors consider the flow of risk from insurers to financial markets, the economy, and society writ -large, 
+supervisors should incorporate measures to ensure these risks do not fall disproportionately on low and moderate income (LMI) 
+communities and communities of color.  
+ 
+  
+Recent research from the U.S. Treasury’s Office of Financial Research, as well as the New York Federal Reserve describes 
+impacts on housing markets here, as well as here. See also, Office of Financial Research/Cornell University Conference October 
+2024.  
+ 
+Insulating insurer balance sheets from climate risks do not make these risks disappear, instead t hey migrate elsewhere in the 
+financial system. 
+In the U.S., for example, blue lining, or the practice of limiting credit creation and investment in climate- vulnerable areas, often 
+leads to financial exclusion for LMI communities and communities of color. D ue to a history of systemic exclusion, including 
+redlining, low income communities and communities of color are overrepresented in climate- vulnerable areas and are 
+disproportionately subjected to higher premiums or the loss of coverage.  
+ 
+This practice can exacerbate existing inequalities, creating further financial exclusion for communities that already face systemic 
+barriers to credit access and homeownership. Prudent macroprudential risk management cannot rely on transferring risks from 
+insurers to climate-vulnerable communities. This transfer of risk could further heighten financial inequality, while a growing body 
+of research suggests that growing inequality could contribute to financial instability.  
+Comments on data collection for macroprudential purposes
+
+International 
+Actuarial 
+Association 
+(IAA) 
+International Paragraph 14 – This paragraph suggests monitoring “at least annually”.  The implication is that more frequent monitoring may be 
+necessary.  We would caution against more frequent monitoring, as portfolios of insurance risk do not turn over that frequently for 
+nearly all product types.  With annual policies or longer-term policies, an insurer cannot change its portfolio of insurance risk 
+except over time, such that monitoring more frequently than annual would likely fail any cost-benefit analysis. 
+ 
+Annex 1 – We were surprised to see AAL listed as a measure of systemic risk.  Instead we believe that AAL is not useful for a 
+measure of systemic risk, as it is a pricing variable, a measure of expected losses.  Presumably an insurer (and societal in 
+general) should not face systemic risk if expected losses occur.  "PML" is what should be used, although the term "PML", whil e 
+frequently used in this regard, is actually a misnomer.  PML with regard to property risks related to what could be expected as a 
+maximum loss for something like theft, where it was not realistic to assume that an entire warehouse would be robbed of 100% of 
+contents (where the PML was an estimate of the maximum amount a thief might steal given the volumes involved).  Instead, the 
+VaR (or loss for a given return period) is what is actually being calculated and given the label of PML.  
+American 
+Property 
+Casualty 
+Insurance 
+Association 
+(APCIA) 
+USA We agree with paragraph 10’s statement that “Supervisors should first make use of the data sets that are available and consider 
+the costs and benefits of obtaining additional data.” All subsequent data requests should be pursuant to supervisory authorit y and 
+limited to material risks, supported by a clear rationale and objective, and should be narrowly tailored to support that objective 
+without imposing undue expenditure of resources.
+
+Council on 
+Economic 
+Policies, 
+Actuarial 
+Association of 
+Europe 
+(answer 
+submitted in 
+personal 
+capacity) 
+Switzerland Comments on data collection for macroprudential purposes 
+• Paragraph 11, third bullet point: Supervisors’ data governance and IT infrastructure should also be able to accommodate 
+qualitative data, such as for instance descriptions of transition plans or qu alitative risk analysis (e.g., reputation risk). 
+• Paragraph 12: Regarding third-party models for natural catastrophes, supervisors should favor, wherever possible, open- source 
+models that are also available to a wider range of stakeholders, in order to re ach a transparent, shared view of climate risks. 
+Such examples include EIOPA (EU) using the Climada models (https://www.eiopa.europa.eu/tools -and-data/open-source-tools-
+modelling-and-management-climate-change-risks_en) 
+• Paragraph 13: This should be amended to reflect that ‘where spillover effects on other parts of the financial sector (e.g., 
+banking) are likely, a cross-sectoral approach WILL be needed’, notably for financial conglomerates active in other financial 
+sectors (such as banking, asset management or pension funds) in addition to insurance.  
+• Text box ‘IAIS climate data and analysis’: supervisors should also collect (and publish) insurers’ exposure to fossil fuels , as has 
+been done for their investments by the California Department of Insurance or  by France’s ACPR/AMF, for example. 
+The Life 
+Insurance 
+Association of 
+Japan 
+Japan As to the statement “if climate risk-based indicators are not available, exposure-based proxies, such as investment breakdown by 
+high-carbon intensive sectors or NatCat exposures by peril, could also be used” in paragraph 18, it should be noted that the us e 
+of sector-based exposures as a monitoring indicator may overestimate climate risks. Individual insurer’s climate risks cannot be 
+measured based solely on the sector because insurers take different measures against climate risks even if they belong to the 
+same sector. Also when monitoring climate-related risks, it would be important to focus not only on the values at a single point in 
+time, but also on the change of value over two points in time. Monitoring values only at a single point in time could overl ook an 
+insurer’s effort to mitigate the GHG emission during a period and would contribute to the pressure for divestment. Since clim ate 
+risks need to be captured over a longer time horizon (e.g. 20 to 30 years), transition plans would be useful considering insurers’ 
+long-term efforts. Therefore, the LIAJ believes that monitoring indicators need to be determined by individual insurer’s exposures  
+with the consideration of transitional and other measures rather than sectoral exposures.
+
+Finance Watch EU Finance Watch welcomes the guidance in the draft supporting material to use scientific physical risk projections for the risk  
+assessment. This allows supervisors to make proper assessments of whether the data coming from insurers is leading to realist ic 
+conclusions on the impact of climate risks.  
+ 
+Given the current issues with climate risk data outlined in the supporting material, there is a need for advice on precautionary 
+macroprudential measures to address systemic build-ups of climate risk.  
+ 
+As the supporting material rightly states, timely and high-quality data are essential to systemic risk assessment. Climate-related 
+risks are inherently forward-looking, non-linear and radically uncertain. As the transition to a low-carbon economy has not yet 
+occurred, the risks associated with that transition are not represented in the data, which is recognised by the supporting material .  
+ 
+To address this, the focus must shift as well to forward-looking data. As recognised by EIOPA in their Consultation on the 
+Prudential Treatment of Sustainability Risks, forward-looking data is essential to any analysis aimed mitigating climate- related 
+risks. (see also our response to the consultation: https://www.finance- watch.org/policy-portal/sustainable-finance/eiopas-report-
+shows-they-take-climate-risk-seriously-consultation-response/). However, Finance Watch recognises that forward-looking 
+methodologies hinge on certain assumptions and models, particularly models used in the analysis of different transition 
+scenarios, which greatly impacts the results. We have previously discussed modelling limitations in current scenario analysis in 
+our report ‘Finance in a hot house world’ (https://www.finance-watch.org/policy-portal/sustainable-finance/report-finance-in-a-hot-
+house-world/).
+
+Public Citizen United States We support the need for timely and high quality data to support analysis and decision -making in the insurance sector, including 
+data collection to inform macroprudential risk management. In particular, we support the use of both quantitative and qualitativ e 
+data, as quantitative data on climate-related financial risks can be limited and overreliance on inadequate quantitative data can 
+encourage false precision. We also support the use of scientific physical risk projections when financial risk data is incomplete or 
+unavailable. These projections can better account for the scope and severity of physical risk when compared to many widely 
+used climate-related financial risk models (i.e NGFS scenarios).  
+ 
+Insurance supervisors should also consider the ways that data collection for macroprudential purposes is distinct from data 
+collection to inform firm-level risk management. Supervisors should collect data not only on risks insurers are exposed to, but 
+also risks insurers contribute to the financial system, including, for example, through their underwriting and financing of fossil fuel 
+projects. While reliance on one year contracts may reduce an insurer’s own transition risk, these projects contribute climate risk 
+to the system. Macroprudential risk management must include assessment of these risks.   
+ 
+Additionally, the availability of climate risk data and modeling through third- party vendors is not a substitute for insurers and their 
+supervisors building their own capacity to assess climate risk. Given the limite d oversight of third-party vendors, the risk 
+assessments produced by these firms must be closely evaluated by insurance supervisors rather than accepted without scrutiny.  
+To address the limitations of reliance on third party data providers, insurance super visors should work cooperatively with other 
+financial regulators and governments to create public climate risk data options.
+
+Ceres United States Ceres views the IAIS draft application paper on data collection for macroprudential supervision of climate -related risks as a 
+significant step forward. The paper's integration of climate risk data collection into existing supervisory frameworks aligns  with our 
+stance on mainstreaming climate considerations in financial oversight. The IAIS's recognition of evolving data needs reflects  the 
+dynamic nature of climate risks; a flexibility that is crucial as our understanding of climate impacts on the financial s ystem 
+continues to develop. The paper's acknowledgment of challenges in climate data collection, including the nascent nature of many 
+sources, demonstrates a pragmatic approach to the current state of climate risk assessment.  
+ 
+We support the emphasis on enhanced data governance and IT infrastructure to accommodate climate- related information. The 
+recognition that climate risk analysis may require more granular data than traditional risks resonates with the complexities 
+involved in climate risk assessment. The suggestion to complement insurer -provided data with third-party models and scientific 
+projections is credible, potentially building a more comprehensive picture of climate risk. Additionally, the focus on cross -sectoral 
+and cross-jurisdictional coordination in data collection and analysis is essential, given that climate risks transcend sector and 
+national boundaries. The IAIS's ongoing work to integrate climate-related elements into the Global Monitoring Exercise (GME) 
+demonstrates a commitment to refining climate risk assessment. The recent addition of liability risks related to natural 
+catastrophe events is a positive development.  
+ 
+To further enhance the paper's guidance, Ceres recommends:  
+- Providing more specific direction on standardizing climate risk metrics and methodologies, potentially with a tiered system 
+including both core and optional indicators, to allow governments of different capacity levels to build up their capabilities  
+gradually.  
+- Emphasizing forward-looking metrics and scenario analysis data.  
+- Including guidance on collecting data related to insurers' climate strategies and transition plans.  
+- Specifying data collection frequencies for different types of climate- related information.  
+- Suggesting capacity-building measures for supervisors to enhance their climate data capabilities.
+
+EDHEC Infra 
+& Private 
+Assets 
+Singapore To address the challenge of the "nascent nature of many climate-related data sources," enhancing the transparency of data and 
+methodology is essential step. We fully discloses the methodologies for sustainability data and climate risk metrics as in a serie s 
+of our papers, e.g. N. Manocha and F. Blanc-Brude (https://publishing.edhecinfra.com/papers/2021_blanc-brude_manocha.pdf) 
+describes systematic approach to the ESG taxonomy for infrastructure assts; B. Jayles and J. Shen 
+(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779788) and F. Blanc -Brude et.al. 
+(https://scientificinfra.com/paper/physical-risks-the-cost-of-capital-of-infrastructure-investments-flood-damage-factor-estimation-
+and-bond-yields-in-u-s-airports/) illustrate the methodology of collecting and assessing the asset-level physical damage and etc. 
+To further support reliability, we are developing a Data Quality Score, which aligns with the principles of the PCAF Global G HG 
+Standard , but extends to both physical and transition risks. We beli eve these methodologies and indicators can accelerate the 
+data collection for supervisors. 
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global GFIA agrees with Paragraph 10’s statement that “Supervisors should first make use of the data sets that are available and 
+consider the costs and benefits of obtaining additional data.” 
+The Geneva 
+Association 
+International The draft supporting material places significant emphasis on data collection and analysis for macroprudential purposes, inclu ding 
+data related to the climate scenario metrics listed in the appendix. However, it remains unclear how these data points will be  
+utilised to assess risk. Supervisory authorities should have a clear rationale and objective before requesting extensive data from 
+the industry. They should also consider publicly available information before seeking additional data. IAIS guidance in this  
+direction would in our view be more helpful than the development of additional metrics and the collection of additional data for 
+macroprudential purposes.
+
+Institute of 
+International 
+Finance (IIF) 
+United States Section 1.2 of the Draft supporting material properly acknowledges the challenges faced by insurers in providing climate -related 
+data.  We support the recommendations to supervisors to employ data from external sources, as well as information that is 
+already available to supervisors.   
+ 
+We would expand Section 1.2 to state that any data requested from an insurer or insurance group should be clearly reflective of 
+the materiality of the climate-related risks to which the company is subject.  Data collections for macroprudential purposes should 
+be clearly tied to the supervisory mandate and supervisors should clearly articulate how the information will be used and 
+analyzed for supervisory purposes. 
+MSCI ESG 
+Research LLC 
+United States 
+of America 
+On the asset/investment side, MSCI sees value in the introduction of a common set of quantitative indicators to ensure greate r 
+comparability of climate-related risks among insurers. By having access to a core list of quantitative data, stakeholders will be 
+able to build a more accurate and detailed assessment of an insurer’s climate- related risk exposure profile.  
+Supervisors may consider aligning their data collection requirements with existing climate disclosure requirements for instit utional 
+investors. These standards include ISSB, SASB, EU ESRS, US SEC’s rule among others. Furthermore, employing forward-
+looking disclosure templates, such as the distance to net zero pathways and alignment metrics, would provide stakeholders wit h 
+a more comprehensive assessment of the future resilience, or lack thereof, of insurers.
+
+E3G United States We support the need for timely and high quality data to inform analysis and decision -making in the insurance sector, including 
+data collection to inform macroprudential risk management. We support the use of both quantitative and qualitative data, as 
+quantitative data on climate-related financial risks can be limited and overreliance on inadequate quantitative data can encourage 
+false precision. These projections can better account for the scope and severity of physical risk when compared to many widely 
+used climate-related financial risk models. 
+ 
+Insurance supervisors should also consider the ways that data collection for macroprudential purposes is distinct from data 
+collection to inform firm-level risk management. Supervisors should collect data not only on risks insurers are exposed to, but 
+also risks insurers contribute to the financial system, including, for example, through their underwriting and financing of f ossil fuel 
+projects. While reliance on one year contracts may reduce an insurer’s own transition risk, these projects contribute climate risk 
+to the system over time. Macroprudential risk management must include assessment of these risks.   
+ 
+See also comments above regarding oversight of third party information providers.
+
+Natural 
+Resource 
+Defense 
+Council 
+United States In section 1.4, we welcome the direction in Paragraph 19 to use scenario analysis and stress testing to facilitate macroprude ntial 
+analysis. Climate scenario analysis can help supervisors understand insurer risk. It can complement current modeling where 
+usable data is scarce, and highlight areas where data is lacking. It can help reveal critical exposures, by identifying areas and 
+sectors most vulnerable to climate change impacts. At the same time, supervisors using insurer climate scenario analyses for 
+purposes of macroprudential analysis should note that the methodology and principles underlying climate scenario models 
+remain subject to significant limitations.  
+• Scenarios must be realistic. Climate scenario analysis must incorporate scientific physical r isk projections. 
+• A wide disparity in methods and scenarios used by insurers results in challenges when seeking to compare the outputs of the 
+models. Supervisors should encourage the development of consistent standards to enhance comparability and credibi lity of 
+results. 
+• Underlying economic models cannot provide realistic results if they are based on backward- looking data. As noted in the IAIS 
+Draft Application Paper on climate scenario analysis, “[c]limate change is projected to increase the frequency and severity of 
+compounding extreme weather events.” Climatological forecasts suggest the risk of increasing new disruptions in weather 
+systems, water supplies, agricultural production, and the habitability of different regions. (See, for example, National Climate 
+Assessment, Impacts, Risks, and Adaptation in the United States (Report), Vol. 2 (Nov. 23, 2018), 
+https://nca2018.globalchange.gov)  Because of these shifts, traditional backward- looking risk assessments and climate-economic 
+models are inherently flawed when it comes to calculating some climate-related risks (including “green swan” risks – potentially 
+profoundly disruptive climate events). Traditional models are based on historical data and assume that the probability of shocks 
+follows a normal distribution around the mean, generally seeking to account for losses that can be expected with a 95– 99% 
+confidence level over a relatively short-term horizon. But extrapolating from historical trends is not a reliable means of assessing 
+risks that are already increasing. As noted in paragraph 19 of the draft supporting material, “the historical trends of climate risk 
+drivers are unlikely to be indicative of how they will develop in the future.” Moreover, some significant climate -related risks may fit 
+fat-tailed distributions, and are thus unlikely to be captured by traditional value- at-risk models. Integrating forward-looking 
+assessments under different time horizons into the risk modeling underlying climate scenario analysis can provide a more 
+accurate picture of macro risk.
+
+Comments on risk dashboard for monitoring climate-related vulnerabilities 
+Council on 
+Economic 
+Policies, 
+Actuarial 
+Association of 
+Europe 
+(answer 
+submitted in 
+personal 
+capacity) 
+Switzerland No comments on this section 
+Finance Watch EU Finance Watch welcomes the proposal for climate-specific risk dashboards. This could also become a key activity of the IAIS at a 
+global level.  
+ 
+Annex 1 outlines key indicators that could be used as part of the dashboard. These indicators must take into ac count key 
+differences with the impact of climate change for physical risks in particular, such as accelerations when climate tipping po ints are 
+breached and that the expectations for AAL and PML are likely to fall short in these cases. Annex 1 does, however, capture the 
+key indicators for transition risks for assets and underwriting. In particular the portfolio alignment to the Paris Agreement , 
+exposure to high-carbon industries and the analysis on different transition scenarios are essential. The suggestion to use 
+exposure-based proxies could also be a useful avenue to explore. However, given the lack of commonly recognised/harmonised 
+methodologies on measuring portfolio alignment (transition risk), additional guidance on transparency on the underlying 
+methodologies and approaches for the disclosed metrics would be important. 
+ 
+We refer to our response to the BCBS consultation on climate-related risk disclosures https://www.finance-watch.org/policy-
+portal/sustainable-finance/banks-should-also-disclose-the-results-of-capital-adequacy-assessment-bcbs-consultation-on-climate-
+risk-disclosure/ 
+Public Citizen United States We support the publication of risk dashboards to monitor climate-related vulnerabilities.
+
+Ceres United States Ceres welcomes the IAIS's guidance on developing risk dashboards for monitoring climate -related vulnerabilities. This approach 
+aligns with our view that effective climate risk management requires comprehensive, accessible tools for supervisors. The 
+suggestion to either create a climate-specific dashboard or incorporate climate risks into existing frameworks demonstrates an 
+adaptability that allows supervisors to choose the most suitable approach for their jurisdictions, potentially facilitating q uicker 
+adoption of climate risk monitoring practices.  
+ 
+We appreciate the recognition that these dashboards may need to rely on third- party information, given the challenges in 
+collecting climate data directly from insurers. This approach acknowledges current data li mitations while still enabling supervisors 
+to gain insights into climate-related vulnerabilities. The proposed inclusion of indicators covering various transmission channels is 
+also important. By encompassing elements such as climate scenario impacts on investments and projected effects on natural 
+catastrophe capital requirements, the dashboard can provide an integrated view of climate risks. The suggestion to use 
+exposure-based proxies when climate risk-based indicators are unavailable is practical. Metrics like investment breakdowns by 
+carbon-intensive sectors or natural catastrophe exposures by peril can offer valuable insights in the absence of more specific 
+climate risk data.  
+ 
+We particularly commend the recommendation to include key climate policy and  science metrics. Incorporating emission gaps 
+relative to the Paris Agreement, emission pricing levels, and current global warming projections can contextualize the financ ial 
+risks within the broader climate challenge.  
+ 
+To further enhance this guidance, Ceres suggests:  
+- Recommending regular stakeholder engagement to refine dashboard metrics and ensure their relevance and effectiveness.  
+- Encouraging the inclusion of transition risk indicators, such as measures of portfolio alignment with net -zero pathways.  
+- Suggesting the incorporation of physical risk indicators beyond natural catastrophes, such as chronic risks like sea- level rise or 
+changing precipitation patterns.  
+- Advising on how to present uncertainty and ranges in climate projections within the dashboard format.  
+- Proposing ways to capture interconnected risks and potential feedback loops in the dashboard structure.  
+- Recommending the inclusion of positive indicators, such as insurers' progress in developing green products or supporting 
+climate resilience.  
+- Provide open access to the dashboard (or part of the dashboard) in a user -friendly manner to ensure transparency of both the 
+data and methodology.
+
+EDHEC Infra 
+& Private 
+Assets 
+Singapore No comments. 
+E3G United States We support the publication of risk dashboards to monitor climate-related vulnerabilities. 
+Comments on data analysis for macroprudential purposes 
+General 
+Insurance 
+Association of 
+Japan 
+Japan As Paragraphs 10 and 12 explain, supervisors should first make use of the data sets that are available, use data already provided 
+by insurers as a proxy for exposures to climate-related risk drivers, and consider the costs and benefits of obtaining additional 
+data. 
+Insurance 
+Europe 
+Europe The industry agrees that timely and good quality data is crucial for analysing potential financial stability implications of climate 
+risk. However, in view of the increasing information requirements placed on insurers, it is key to avoid unnecessary burdens. In 
+particular, it should be made clear that ad-hoc information requests to insurers should be avoided whenever possible and limited 
+to exceptional cases with a clear supervisory rationale. 
+International 
+Actuarial 
+Association 
+(IAA) 
+International Paragraph 22 – This paragraph says that an assessment of second-round effects “could” be particularly useful when applied to 
+“an insurer”.  First, we suggest that the word “might” replace the word “could”, as the word “could” implies more success in the 
+endeavor than may be justified.  Second, we find it interesting that the focus of this is “an insurer”, which seems inconsistent with 
+the ICP 24 focus on macroprudential issues.  Should the paragraph be discussing approaches which could possibly be applied to 
+an industry or industry sector, rather than to an individual insurer?
+
+Council on 
+Economic 
+Policies, 
+Actuarial 
+Association of 
+Europe 
+(answer 
+submitted in 
+personal 
+capacity) 
+Switzerland • Paragraph 20: This should be amended to ‘verify whether a risk driver is emerging and could have wider implications for the  
+stability of the insurance sector AND FOR THE REST OF THE FINANCIAL SYSTEM’  
+• Paragraph 22: This should be amended to ‘a risk assessment of the second- round effects induced by endogenous drivers 
+following actions taken by financial institutions, households, regulators and/or policymakers in response to an initial climate risk 
+impact or scenario SHOULD be performed’ 
+• Paragraph 26: Relevant stakeholder categories should be explicitly mentioned including insurance industry associations and 
+think-tanks, risk professionals (e.g. actuaries), NGOs, and representatives from consumer associations.
+
+Finance Watch EU It is important for the IAIS to provide more guidance here in the supporting material, to address how climate -related risks can be 
+captured under ICP 24.2. The IAIS should also consider building on the important work of integrating climate- related data into the 
+GME and conduct insurance-sector wide climate risk scenario analysis. 
+ 
+Additionally, explicitly referring to the role of climate scenario analysis with a forward looking perspective in view of ICP 24.2.7 
+would be important. Caution should be taken, however, to ensure that scenario analyses can support sector wide analysis.. As a 
+key starting point the assessments of the economic consequences of climate change in the scenarios needs to be realistic. 
+Scenarios must take account of the following points to achieve this:  
+- Ensure realistic scenarios are used 
+- Ensure that economic models account for the specificities of climate change, including its magnitude and irreversibility  
+- Ensure that the conclusions of economic models are compatible with the conclusions of climate science, including by rejecting 
+the use of quadratic-only damage functions in loss assessments 
+- Conduct unbiased and rigorous analyses of the results 
+- Conduct sanity checks between the results of CSA and climate science  
+ 
+This section of the supporting material rightly points to the need to assess second- round effects, but should be clearer in 
+requiring this as a key part of the analysis supervisors undertake. Given that consideration of second- round effects currently 
+remains beyond reach of climate scenario exercises, the paper should be clear to recognise the limitations of climate scenari o 
+exercises and their implications in terms of the need for precautionary action. More work should also be done on outlining how 
+supervisors can identify emerging threats to financial stability arising from climate- related risk drivers.
+
+Public Citizen United States We support the use of scenario analysis and stress testing as tools to assess forward looking climate risk. In particular we 
+support the following points addressed in this section: (1) the need for scenario analysis exercises to incorporate second or der 
+effects of a climate risk event, (2) the need for climate scenarios to be well calibrated to contemporary climate science, and (3) 
+the importance of qualitative approaches when quantitative models cannot fully capture a scenario’s complexity.  
+ 
+Additionally, supervisors must recognize that scenario analysis designed to inform macroprudential supervision is 
+methodologically distinct from scenario analysis designed to inform firm- level risk identification and management. 
+Macroprudential scenario analysis must incorporate contagion effects and account for the flow of risks between financial 
+institutions and sectors. While it is appropriate for financial institutions to be concerned primarily with identifying and m itigating 
+their own risks, regulators must also be attuned to aggregate risks in the system. In the absence of sophisticated models to 
+capture second order effects, contagion risks, and the multiple transmission channels through which climate risk can material ize, 
+qualitative scenarios are necessary.  
+ 
+As highlighted in previous consultation responses, overreliance on scenario analysis is likely to postpone necessary regulatory 
+action at a time when urgent action is needed. A precautionary approach necessitates immediate and decisive actions to mitiga te 
+the escalating risks of climate change, rather than delaying action due to incomplete information and imperfect models.
+
+Ceres United States Ceres supports the IAIS's approach to data analysis for macroprudential purposes in the context of climate risk. The paper's 
+emphasis on forward-looking methodologies, particularly scenario analysis and stress testing, acknowledges that historical trends 
+are insufficient for assessing future climate risks. The guidance on integrating climate- related scenario analysis into supervisory 
+processes provides a solid foundation for assessing systemic importance and informing supervisory responses. We appreciate 
+the inclusion of additional approaches such as vulnerability analysis, horizontal reviews, and qualitative analyses, which offer a 
+comprehensive toolkit for supervisors.  
+ 
+The paper's recommendation to identify key climate risk drivers and trends as a first step in vulnerability analysis is critical. The 
+suggested drivers, including  
+global warming trajectories and emission gaps relative to the Paris Agreement, capture essential elements of climate risk. We 
+support the call for quantitative analysis where data permits, complemented by qualitative assessments when necessary. The 
+acknowledgment of potential data limitations in public disclosures and standardized reporting, and the suggestion for ad hoc data 
+requests, demonstrates a practical approach to the evolving nature of climate risk information.  
+ 
+We particularly commend the inclusion of second-round effects in the vulnerability assessment. This consideration of indirect 
+impacts, such as supply chain disruptions and policy responses, reflects the complex, i nterconnected nature of climate risks. The 
+paper's guidance on qualitative analysis methods is equally valuable, especially in addressing risks that quantitative methods 
+may miss. We support the emphasis on identifying key sources of market, industry, climate policy, and scientific information, as 
+well as the recommendation for regular internal reviews and senior-level engagements with insurers.  
+ 
+The call for a multi-disciplinary, cross-sectoral approach in macroprudential supervision aligns with Ceres' view on the need for 
+collaborative efforts in addressing climate risk. The suggestion to engage with diverse stakeholders through periodic meetings 
+could foster a more comprehensive understanding of climate risks and their potential impacts.  
+ 
+To further enhance this section, we suggest:  
+- Providing more specific guidance on integrating climate scenarios with traditional financial stress tests.  
+- Emphasizing the importance of considering transition risks alongside physical risks in vulnerability assessments .  
+- Recommending ways to assess and incorporate climate-related litigation risks in the analysis.  
+- Suggesting methods for analyzing the potential impact of climate risks on insurance affordability and availability.  
+- Advising on how to assess insurers' climate risk mitigation strategies as part of the vulnerability analysis.  
+- Recommending approaches to analyze the interconnections between climate risks and other systemic risks.
+
+EDHEC Infra 
+& Private 
+Assets 
+Singapore No comments. 
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global GFIA agrees that timely and good quality data is crucial as the basis of analysing potential financial stability implications  of 
+climate risk. However, in view of the increasing information requirements insurers are subject to, it is important that unnec essary 
+burdens are avoided. In particular, it should be made clear that ad- hoc information requests on insurers should be avoided where 
+possible and be limited to exceptional cases with a clear supervisory rationale.   
+ 
+As Paragraphs 10 and 12 rightfully highlight, supervisors should first make use of the data sets that are available, use data 
+already provided by insurers as a proxy for exposures to climate- related risk drivers, and consider the costs and benefits of 
+obtaining additional data.
+
+Institute of 
+International 
+Finance (IIF) 
+United States Paragraph 13 references coordination with supervisors in other financial sectors and a cross -sectoral approach to understanding 
+systemic financial impact.  We appreciate the interest in cross-sectoral supervisory coordination on these important issues, 
+provided that proper recognition is given to the differences between climate- related financial risks in the insurance sector as 
+contrasted with other financial services sectors.  The IAIS should bring insurance- specific perspectives into cross-sectoral 
+discussions and analysis. 
+ 
+Any cross-sectoral analysis should take into account the very different impacts of climate- related risks on specific sectors. 
+Specifically, the IAIS found in its 2021 special climate edition of the Global Insurance Market Report  that the insurance sector as 
+a whole appears able to absorb predicted investment losses across a range of scenarios in light of high pre- stress capital levels.   
+ 
+Section 1.4 promotes a very broad analysis of climate-related vulnerabilities of the insurance sector that presupposes, without 
+adequate evidence or support, the macroprudential relevance of climate- related risks for the insurance sector.  We encourage the 
+IAIS to first consider the macroprudential relevance, if any, of climate- related risks for the sector before conducting the extensive 
+analysis proposed in this Section.   
+ 
+Section 1.4 of the Draft supporting material should also reflect that climate scenario analysis is only one of many tools that are 
+available to insurance supervisors to facilitate a forward-looking analysis of material climate risks.  The IAIS should explicitly 
+acknowledge the limitations of forward-looking exercises in informing supervisory decision making due to the inherent 
+uncertainties and the potential mismatch of the duration of the underlying risks, particularly for short -tail lines of business such as 
+property. 
+ 
+We strongly support the recommendations to supervisors in Section 1.4.2 of the Draft supporting material to engage with a wide 
+range of stakeholders involved in the insurance sector, climate policy and climate science and to consider the range of views 
+contained in their analyses.  Engagement with climate experts can help to focus climate- related risk analysis on the most material 
+risks and can help to sharpen analyses and findings in order to lower the risk of flawed or incomplete analysis leading to 
+unintended consequences.  Expert engagement can also help to focus on metrics that provide a more forward -looking view of 
+climate-related risks.
+
+MSCI ESG 
+Research LLC 
+United States 
+of America 
+Being overly prescriptive in scenario assumptions and modelling approaches may lead to a lack of ownership of insurers over 
+their climate assumption and model choices. Other unintended consequences may be potential systemic risk from an 
+overreliance by all insurers on similar climate assumptions due to ‘group think’.  
+This could be overcome by not being overly prescriptive on exact scenario assumptions and models, but instead providing 
+guidance on best practice of scenario methodologies. It is critical to ensure that the climate scenario exercise is robust, 
+challenging, considers multiple plausible scenarios, and in line with the latest climate science, especially regarding physic al risks. 
+In certain aspects, this could be enhanced with recommendations for a more granular approach. Supervisors may consider 
+leaving room for local authorities and even insurers themselves to develop their own scenarios. On both transition and physic al 
+risk sides potential nonlinear impacts, networked impacts and market pricing- in dynamics should be considered.
+
+E3G United States We support the use of scenario analysis and stress testing as tools to assess forward looking climate risk that includes: 
+incorporation of second order effects of a climate risk event; calibration to contemporary climate science, and using qualitative 
+approaches when quantitative models cannot fully capture a scenario’s complexity.  
+ 
+Support should continue for cross sectoral stress testing as well, such as work done by the Bank of England.  
+ 
+Additionally, supervisors must recognize that scenario analysis designed to inform macroprudential supervision is 
+methodologically distinct from scenario analysis designed to inform firm- level risk identification and management.  
+Macroprudential scenario analysis must incorporate contagion effects and account for the flow of risks between financial 
+institutions and sectors. While it is appropriate for financial institutions to be concerned primarily with identifying and m itigating 
+their own risks, regulators must also be attuned to aggregate risks in the system. In the absence of sophisticated models to 
+capture second order effects, contagion risks, and the multiple transmission channels through which climate risk can material ize, 
+qualitative scenarios are necessary.  
+ 
+As highlighted in previous consultation responses, overreliance on scenario analysis is likely to postpone necessary regulatory 
+action at a time when urgent action is needed. A precautionary approach necessitates immediate and decisive actions to mitiga te 
+the escalating risks of climate change, rather than delaying action due to incomplete information and imperfect models.  
+See above comments urging collaboration between insurance and banking supervisors on scenario analysis in light of the recent  
+Basel consultation. 
+Comments on supervisory response
+
+Insurance 
+Europe 
+Europe In Insurance Europe’s view, any supervisory response to potential systemic risks should be tailored to the risk and circumsta nces 
+of the insurance sector within the relevant jurisdiction. It is welcomed that the IAIS’s draft stresses this necessary flexib ility for 
+supervisors. Microprudential instruments can also be used with a macroprudential perspective in mind. However, applying a 
+capital add-on is rarely a suitable instrument to address potential systemic climate -related risk.  
+ 
+In risk based supervisory regimes like Solvency II in the EU, climate-related risks are already considered when calculating regular 
+supervisory capital requirements. Regarding potential systemic effects not covered by microprudential supervision, evidence-
+based quantification would be very difficult, if not impossible, due to complex methodological issues and data gaps. If capital add-
+ons were incorrectly calibrated, this could impair the effectiveness of the insurance sector, such as in providing insurance 
+coverage. 
+ 
+In addition, the suggested example of the supervisory measure to prohibit an insurer from underwriting certain climate- related 
+risks would represent a very strong intervention in the market. As it is rightly pointed out in footnote 4 on page 10, superv isors 
+should consider any possible negative impacts of their actions, including the potential risk of increasing the insurance protection 
+gap. This remark should be highlighted more prominently in the text, referring to all the contemplated supervisory measures. 
+These measures need to be balanced and consider broader effects, such as impacts on (re)insurance market dynamics.  
+ 
+If a prohibition from covering certain climate-related risks is considered, this immediately poses the question on the alternatives, 
+including that there could be a shift from market-based covers to state intervention. This could send the wrong message to 
+affected populations and public or private policyholders, suggesting they do not need to, or cannot, find solutions to cover their 
+risks, leading to the assumption that governments will have to step in with taxpayer money if private insurance cover is 
+unavailable. Instead, the promotion of risk reduction measures wherever possible, to support and maintain the insurability of  
+certain climate risks, should be highlighted and considered part of the role of insurance supervisors.  
+ 
+Furthermore, a core function of insurance and reinsurance is to provide an indication of the price/cost associated with a cer tain 
+risk, thereby signalling where action is needed to keep, for example, business and social activities, as well as private and public 
+property, insurable.
+
+International 
+Actuarial 
+Association 
+(IAA) 
+International Paragraph 35 – The example of “prohibiting the insurer from underwriting certain climate-related risks” would seem to be placing 
+the insurance supervisor in charge of overall societal public policy, as prohibiting the underwriting of a certain economic activity is 
+effectively the same as prohibiting that activity.  If the underwriting prohibition were necessary for an individual insurer’s solvency, 
+then the prohibition is clearly within the purview of the supervisor, but otherwise it does not seem like an action that coul d be 
+taken unilaterally by an insurance supervisor. 
+American 
+Property 
+Casualty 
+Insurance 
+Association 
+(APCIA) 
+USA We strongly disagree with paragraph 35’s suggestion that supervisors should consider “prohibiting the insurer from underwriti ng 
+certain climate-related risks” and “applying a capital add-on”. Footnote 4 in the draft recognizes that underwriting prohibitions 
+could increase protection gaps, and the same is true for capital add-ons. We are also unaware of any statistically verifiable way to 
+calculate the appropriate amount of a capital add-on.  
+ 
+We also suggest that Footnote 4 to paragraph 35 be moved into the main text. Otherwise, the message that supervisors should 
+consider the possible negative impacts of supervisory action, and the possibility that it might exacerbate protection gaps, c ould be 
+lost.
+
+Council on 
+Economic 
+Policies, 
+Actuarial 
+Association of 
+Europe 
+(answer 
+submitted in 
+personal 
+capacity) 
+Switzerland • Paragraph 30: This should be amended to ‘In cases where identified vulnerabilities in the jurisdiction originate from other  parts 
+of its financial sector, the supervisor SHOULD coordinate with other institutions in their jurisdiction’  
+• Paragraph 35: As a general remark, we welcome and support the proposals mentioned here, in particular directions to reinfor ce 
+the insurer’s financial position, such as capital add-ons. 
+• Paragraph 35, first bullet point: This should indeed include ERM frameworks (‘Pillar 2’), but not be limited to them. Super visors 
+should also examine on a regular basis whether capital requirements (‘Pillar 1’) adequately reflect emerging climate risks from a 
+micro-prudential perspective. 
+• Paragraph 35, third bullet point: Potentially prohibiting insurers from underwriting certain climate- related risks should indeed be 
+part of the supervisory intervention toolbox. However, from a macro-prudential perspective it may also be important to support 
+insurers so that they are still able to fulfil their climate adaptation role and insure certain climate- related risks (e.g. property, due 
+to a potentially catastrophic effect on the price of real estate which is considered uninsurable). Otherwise, if insurers are 
+withdrawing from insuring certain risks, certain regions or certain technologies that are needed for the climate transition, this may 
+have negative consequences for the financial system and for the economy as a whole, and this would also include second- order 
+negative feedback loops for insurers themselves. Supporting insurability may go beyond the sole remit of insurance supervisor s 
+and may require other policymaking initiatives linked to legislation, regulation, taxes and/or the establishment of adequate Public -
+Private Partnerships (PPP – see notably https://climate.ec.europa.eu/document/download/4df5c2fe- 80f9-4ddc-8199-
+37eee83e04e4_en?filename=policy_adaptation_climate_resilience_dialogue_report_en.pdf, section 4.1.) for hard- to-insure 
+climate risks. Nonetheless, insurance supervisors have an important role to play here as well.  
+The Life 
+Insurance 
+Association of 
+Japan 
+Japan Please refer to the LIAJ’s comments on Question 1.
+
+Finance Watch EU The points raised in this section to confirm the application of ICP 24.4 in the case of climate -related risks from a macroprudential 
+perspective are useful. More guidance on how supervisors should coordinate across jurisdictions to tackle vulnerabilities f or the 
+sector as a whole or originating from other jurisdictions is needed. This should cover in particular coordination over the 
+application of microprudential instruments with a macroprudential perspective. ICP 25 provides options to structure the 
+coordination between supervisors from different jurisdictions, such as supervisory colleges.  
+ 
+Addressing climate-related systemic risk by means of utilising the microprudential instruments under ICP 24 might raise a tension 
+between the microprudential approach, which is primarily concerned with the safety and soundness of individual undertakings, 
+and the macroprudential dimension of climate risk. Given the primarily objective of macroprudential intervention is to prevent the 
+build-up of systemic risk that emerges when individual undertaking’s actions contribute to the system- wide risk (which cannot be 
+captured from the microprudential perspective), it is important to elaborate on the need to consider this systemic dimension when 
+applying available microprudential instruments. Furthermore, design of dedicated macroprudential instruments is warranted. For 
+example, in the EU, the European Systemic Risk Board had elaborated on the need for dedicated macroprudential tools for the 
+insurance industry, which are particularly relevant in case of climate- related risk 
+(https://www.esrb.europa.eu/pub/pdf/reports/esrb.report181126_macroprudential_provisions_measures_and_instruments_for_ins
+urance.en.pdf). 
+Public Citizen United States We support the application of a macroprudential perspective in insurance supervision. To successfully take this approach, 
+supervisors must be concerned not only with the financial stability threats faced by the largest and most important insurers,  but 
+also with the risks insurers create for the financial system. The preventive and corrective measures highlighted in this section are 
+an important tool in mitigating risks insurers create for the financial system. In particular, we support the inclusion of “r estrictions 
+on underwriting certain climate-related risks” as a necessary tool.
+
+Ceres United States Ceres supports the IAIS's guidance on supervisory responses to climate -related risks in the insurance sector as this 
+macroprudential perspective aligns with our view that addressing systemic risks is crucial for financial stability. We apprec iate the 
+flexibility advocated in the guidance, allowing supervisors to tailor responses to individual insurers or the sector, based on 
+vulnerability analysis outcomes. The recognition that climate-related systemic risks evolve over time, necessitating adaptable 
+supervisory approaches, reflects the dynamic nature of climate challenges.  
+ 
+The paper's two-pronged approach to supervisory responses - general requirements for sector resilience and targeted measures 
+for specific systemic exposures - provides an inclusive framework and a strategy that allows for both broad- based improvements 
+in risk management and focused interventions where needed. The emphasis on coordination and cooperation with supervisors in 
+other jurisdictions and financial sectors is also important, given the cross-cutting nature of climate risks. We endorse this 
+collaborative approach as essential for effective macroprudential oversight. The suggestion to utilize microprudential instruments 
+with a macroprudential perspective is pragmatic, leveraging exist ing tools to address emerging risks. The examples provided, 
+such as strengthening climate risk integration in ERM frameworks and enhancing crisis management for climate- related 
+catastrophes, are particularly relevant.  
+ 
+To further enhance this section, we propose:  
+- Recommending supervisory actions to promote insurers' alignment with climate mitigation goals, such as portfolio 
+decarbonization targets.  
+- Suggesting ways supervisors can encourage innovative products and services that support climate resilience and adaptation.  
+- Advising on supervisory approaches to address potential market failures, such as insurance availability and affordability iss ues 
+in high-risk areas.  
+- Recommending supervisory measures to enhance insurers' climate- related disclosures and transparency.  
+- Suggesting ways to incorporate climate considerations into supervisory stress testing and capital adequacy assessments.  
+- Advising on how supervisors can promote knowledge-sharing and best practices in climate risk management across  the 
+insurance sector.
+
+EDHEC Infra 
+& Private 
+Assets 
+Singapore No comments.
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global In GFIA’s view, any supervisory response to potential systemic risks should be tailored to the risk and the specific circumstances 
+of the insurance sector in the relevant jurisdiction. GFIA welcomes that the IAIS’s draft stresses this necessary flexibility  for 
+supervisors. GFIA agrees that microprudential instruments can also be used with a macroprudential perspective in mind. 
+However, GFIA believes that applying a capital add-on is not a suitable instrument to address potential systemic climate- related 
+risk. 
+ 
+In risk based supervisory regimes like Solvency II in the EU, or the US financial examination regime, cl imate-related risks are 
+already considered in calculating the regular supervisory capital requirements. Regarding potential systemic effects not covered 
+in microprudential supervision, evidence-based quantification would be very difficult, if not impossible, because of the complex 
+methodological questions involved and because of data gaps. If capital add- ons were incorrectly calibrated, this could impair the 
+effectiveness of the insurance sector, eg in providing insurance coverage.  
+ 
+Additionally, in the introduction section IAIS mentions core risk categories as: market, credit, liquidity, underwriting, and then adds 
+reserving. GFIA would suggest operational risk is a more appropriate risk category for climate risk drivers than reserving. F or 
+example, physical risks manifested in operational risks can closely correlate with the other categories.  
+ 
+The supporting material is problematic in this section. The measures suggested in Paragraph 35 go well beyond the ICP 10.2 th at 
+is referenced. ICP 10.2 generally covers actions supervisors should take for troubled insurers to protect policyholders interests or 
+mitigate threats to financial stability. GFIA has concerns about the assumption that climate risk, for almost any insurer but  
+certainly for life insurers, would result in material harm to policyholders’ interests or threaten financial stability as long as the 
+insurer is appropriately managing the other risks (market, credit, mortality, etc.) through which climate risk would manifest .
+
+The Geneva 
+Association 
+International Given our concerns, we find the suggested supervisory actions in the macroprudential paper difficult to reconcile with the ac tual 
+risks identified. We are particularly concerned about the inadequate recommendations, including potential implicit restriction s on 
+underwriting climate-related risks and capital add-ons and prescriptive language in the paper (e.g. using words like “should”). 
+These recommendations stand in sharp contrast with the IAIS’ recent work on protection gaps, highlighting that such measures 
+could widen the protection gap and impose undue burdens on insurers, hindering their ability to manage these risks effectivel y. 
+Including these insights could help ensure that policy measures are effective and avoid any unintended, counterproductive 
+effects. 
+ 
+Instead of restricting insurers from covering respective risks or proposing capital add- On’s, a more appropriate response would 
+involve policy measures aimed at reducing overall climate-related risks, which often extend beyond the direct control of i nsurers 
+and supervisors. Rather than initiating with prescriptive supervisory actions based on unsubstantiated assumptions, a more 
+helpful starting point would be if the IAIS conducts a comprehensive study on how climate- change-related risks would affect the 
+economy and the insurance sector. Only after conducting such an analysis and concluding that climate change threatens the 
+viability of the industry appropriate supervisory actions should be defined. The current approach, which begins with data 
+collection, is unlikely to enhance the sector's resilience against potential climate- related risks.
+
+Institute of 
+International 
+Finance (IIF) 
+United States It is extremely important for the IAIS to acknowledge and for supervisors to recognize the potential negative impacts of certain 
+policy actions, including but not limited to those that would exacerbate protection gaps. For example, prohibiting an insurer  from 
+underwriting certain climate-related risks or withholding approval for acquisitions may have negative impacts on insurance 
+markets and policyholders and may run counter to the need to maintain or improve access to coverage. By proposing such 
+potential actions, the IAIS goes against the very role of the insurance sector in providing resilienc e and in helping society to 
+mitigate the impacts of climate change. We reference the IAIS staff paper, A call to action , which clearly identifies some of the 
+related policy trade-offs that are not, in our view sufficiently reflected in the Draft supportin g material. 
+ 
+The design of prudential capital frameworks already enables climate risks to be appropriately accounted for in the charges for 
+financial risks such as underwriting risk and market risk.  The use of capital add- ons to address supervisory concerns should be 
+risk-based and limited to specific concerns arising from the solvency position of the insurer or the adequacy of its reserves.  
+Capital add-ons should not be a broad-brush supervisory response to a wide range of potential concerns unrelated to solvency. 
+The IAIS should also recognize the potential negative impacts of capital add- ons, including on the availability and affordability of 
+insurance.   
+ 
+We strongly encourage the IAIS to move footnote 4 of the Draft supporting material into the text of Paragraph 35 by including the 
+language of footnote 4 directly after the bulleted items.  It is extremely important for supervisors to recognize the potenti al 
+negative impacts of supervisory actions, including but not limited to those that would exacerbat e protection gaps. As noted above, 
+the IAIS staff paper, A call to action clearly identifies some of the related policy trade- offs that should be considered in the Draft 
+supporting material. 
+ 
+As one example relevant to Paragraph 35, prohibiting an insurer from underwriting certain climate- related risks or withholding 
+approval for acquisitions may have negative impacts on insurance markets and policyholders and may run counter to the need to 
+maintain or improve access to coverage.   More broadly, withholding approval for acquisitions or imposing underwriting 
+restrictions are extreme supervisory tools, the use of which should be limited to situations involving significant and uncorr ected 
+governance or risk management failures.  
+ 
+The current prudential capital framework already provides mechanisms to account for climate risks and, therefore, the use of 
+capital add-ons to address supervisory concerns should be limited to concerns arising from the solvency position of the insurer or 
+the adequacy of its reserves.   
+ 
+The findings from the most recent 2022 EIOPA climate stress test reveal that climate- related impacts on how insurance and 
+pension sectors respond to adverse scenarios are more nuanced than conventional assumptions would indicate. Rather than 
+showing uniform negative impacts, the aggregate sector showed resilience with only modest declines in funding levels. The most
+
+revealing insights come from examining the distribution of impacts across institutions. These results suggest that the relati onship 
+between climate stress scenarios and funding ratios is not straightforward, and that institutional characteristics, investment 
+strategies, and risk management approaches play crucial roles in determining outcomes.
+
+E3G United States We support the application of a macroprudential perspective in insurance supervision. To successfully take this approach, 
+supervisors must be concerned not only with the financial stability threats faced by the largest and most important insurers,  but 
+also with the risks insurers create for the financial system. The preventive and corrective measures highlighted in this section are 
+an important tool in mitigating risks insurers create for the financial system.  
+General comments on the draft climate risk ICP 25 related supporting material 
+Council on 
+Economic 
+Policies, 
+Actuarial 
+Association of 
+Europe 
+(answer 
+submitted in 
+personal 
+capacity) 
+Switzerland Paragraph 36: Coordination with other involved supervisors should not be limited to insurance supervisors, notably for financ ial 
+conglomerates active in other financial sectors in addition to insurance (such as banking, asset management or pension funds) . 
+For instance, during the 2008 Financial Crisis, AIG’s bankruptcy was linked to one of their non- insurance subsidiaries (AIG 
+Financial Products). In addition to such obvious cases, we note that coordination with other financial supervisors outside of  
+insurance make sense in general due to the potential macro contagion effects between insurance and the rest of the financial 
+sector. For example, if insurers stop insuring properties in a specific region, the responsible insurance supervisor for that  region 
+should coordinate with the supervisors of the banks that are exposed to this region, regardless of whether the insurers also have 
+a banking business themselves. 
+Finance Watch EU The considerations on the application of ICP 25 in context of the macroprudential dimension of climate risk is important, but  
+should not be limited to the IAIGs and ComFrame standards.   
+ 
+As outlined in the response to question 6, there could be a need for more guidance on structured coordination of supervisors from 
+different jurisdictions, such as supervisory colleges.
+
+Public Citizen United States We support acknowledgment of second order effects that could result from actions taken by financial institutions and others i n 
+response to climate risk or scenarios, “Furthermore, a risk assessment of the second- round effects induced by endogenous 
+drivers following actions taken by financial institutions, households, regulators and/or policymakers in response to an initial 
+climate risk impact or scenario could be performed.” This section of the guidance acknowledges that insurer departures could 
+create risks that need to be addressed by other financial actors, such as lenders, including through increased coordination. We 
+also support more explicit attention to the need for coordination included in the guidance (i.e. “Coordination with supervisors in 
+other jurisdictions or other financial sectors will be key to understanding systemic financial impact. There are instances where 
+spillover effects on other parts of the financial sector (eg banking) are likely and a cross -sectoral approach may be needed.”)
+
+Ceres United States Ceres appreciates the IAIS's attention to group-level considerations in climate risk supervision and the provision of examples for 
+physical risk indicators. The emphasis on coordination among supervisors for data collection and assessment of climate- related 
+risks aligns with our view on the importance of collaborative approaches in addressing global challenges, and this coordinati on 
+can enhance the efficiency of supervisory efforts and promote a more comprehensive understanding of group- wide climate risks.  
+ 
+The paper's acknowledgment that group-wide climate risk integration may not adequately cover jurisdiction- specific requirements 
+for individual entities shows a nuanced understanding of the complexities in group supervision, a recognition that is crucial  for 
+ensuring that climate risk management is effective at both the group and entity levels. The inclusion of physical risk indicators in 
+Annex 1 provides valuable guidance for supervisors in assessing climate- related vulnerabilities. The range of indicators 
+suggested, covering aspects such as frequency and severity of natural disasters, geographical risk exposure, and scenario-
+based projections, offers a robust framework for evaluating physical climate risks. We note the paper's emphasis on consideri ng 
+both acute events (like hurricanes and floods) and chronic changes (such as heat stress and vector -borne diseases) in risk 
+assessments. This approach to physical risks aligns with the complex and multifaceted nature of climate change impacts. The 
+suggestion to use different physical risk scenarios to produce a range of potential impacts demonstrates an understanding of the 
+uncertainties inherent in climate projections and the need for forward- looking risk assessments. Overall, this section of the paper 
+provides a solid foundation for addressing climate risks in group supervision and offers practical guidance on assessing physical 
+climate risks. EDHEC Infra 
+& Private 
+Assets 
+Singapore No comments.
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global GFIA welcomes the IAIS approach to group-wide supervision and the application of ComFrame and supervisory colleges.  
+E3G United States We support acknowledgment of second order effects that could result from actions taken by financial institutions and others i n 
+response to climate risk or scenarios. We support risk assessment of the second- round effects induced by endogenous drivers 
+following actions taken by financial institutions, households, regulators and/or policymakers in response to an initial climate ri sk 
+impact or scenario. 
+ 
+As described above, we underscore the need for coordination across sectors, and across borders, e.g., reins urance markets. 
+Comments on group considerations for data collection 
+General 
+Insurance 
+Association of 
+Japan 
+Japan When defining climate-related data collection requests that affect insurance groups active in multiple jurisdictions, supervisors 
+should coordinate with other involved supervisors and insurance standard setters. In addition, data collection requests shoul d be 
+made after confirming whether data could be collected from other supervisors. 
+Council on 
+Economic 
+Policies, 
+Actuarial 
+Association of 
+Europe 
+(answer 
+submitted in 
+personal 
+capacity) 
+Switzerland This section is missing a discussion on the potential systemic relevance of re/insurance groups. The discontinued 2016 list of 
+global systemically important insurers (G-SIIs) from the FSB included no group whose primary business is reinsurance. However, 
+reinsurance is a concentrated sector (with a handful of large reinsurers playing an important role, and with key regional 
+reinsurance hubs such as Bermuda or Switzerland) and it plays a key role in underwriting and diversifying climate risks at the 
+global level. Without sufficient and affordable reinsurance capacity to reinsure direct insurers, direct insurers may start 
+withdrawing from certain climate risks and/or certain regions (as has been observed in Florida for property insurance for ins tance, 
+see https://www.civilbeat.org/2024/03/how-floridas-home-insurance-market-became-so-dysfunctional-so-fast/).
+
+Finance Watch EU As highlighted in this section, particular attention should be drawn to cases where group -wide climate risk integration into the 
+corporate governance framework, enterprise risk management and financial position may not be properly covering what is 
+required of an individual insurance legal entity in a specific jurisdiction. The draft supporting material should provide more 
+guidance on how this can be addressed. 
+ 
+In general the confirmation that climate-related risks should be a key area that is considered by group-wide supervisors, involved 
+supervisors and in their cooperation through supervisory colleges is important.
+
+Ceres United States Ceres commends the IAIS for addressing the complexities of climate-related data collection for insurance groups operating 
+across multiple jurisdictions. The guidance on reducing overlapping requests through coordination is expedient, potentially e asing 
+the reporting burden on insurers while enhancing supervisors' understanding of group- wide climate risks. This approach could 
+foster capacity building within the supervisory community, crucial for effective climate risk oversight. We appreciate the pa per's 
+recognition that group-wide climate risk integration may not fully address jurisdiction- specific requirements for individual entities, 
+an understanding that is essential for ensuring comprehensive risk management at both group and entity levels. The suggestion 
+to leverage data from other supervisors for multi-jurisdictional insurers demonstrates a practical approach to information sharing, 
+potentially leading to more efficient and effective supervision.  
+ 
+To further strengthen this section, Ceres recommends:  
+- Developing standardized templates for climate-related data collection across jurisdictions to facilitate comparability and reduce 
+reporting complexities.  
+- Establishing clear guidelines for information sharing among supervisors, ensuring data privacy and confidentiality while 
+promoting comprehensive risk assessment.  
+- Encouraging supervisors to collaboratively develop climate scenarios that account for regional variations yet maintain global  
+consistency.  
+- Promoting the creation of a centralized database of climate-related supervisory data, accessible to relevant authorities, to 
+enhance cross-border risk monitoring.  
+- Advising on methods to reconcile potential conflicts between group-wide and entity-specific climate risk management 
+requirements.  
+- Suggesting mechanisms for regular review and update of coordinated data collection processes to keep pace with evolving 
+climate risks and regulatory landscapes.  
+ 
+These enhancements could foster more effective supervision of cross -border insurance groups, promoting a globally coordinated 
+approach to climate risk management while respecting jurisdictional specificities. This balanced strategy could significantly  
+contribute to building resilience in the global insurance sector against climate- related challenges.
+
+EDHEC Infra 
+& Private 
+Assets 
+Singapore No comments 
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global When defining climate-related data collection requests that affect insurance groups active in multiple jurisdictions, supervisors 
+should coordinate with other involved supervisors and insurance standard setters. In addition, data collection requests should be 
+made after confirming whether data could be collected from other supervisors.  
+Institute of 
+International 
+Finance (IIF) 
+United States Effective cross-border cooperation and coordination among insurance supervisors, particularly through supervisory colleges, can 
+ensure that supervisory actions are taken in a manner that meet the needs of the entire group and respect both home and host 
+supervisory interests. The supervisory college mechanism has proven to be an effective method of promoting home- host 
+cooperation and coordination. We appreciate the IAIS’s recognition in the Draft supporting material that the evolving and 
+uncertain impacts of climate-related drivers of financial risks on insurance groups can be explored through active supervisory 
+dialogue via the supervisory college structure.  
+ 
+Supervisory college discussions can help to prevent situations where supervisory actions taken by one jurisdiction do not fully 
+reflect the best course of action for the group as a whole, which can undermine stability.  Such opportunities for discussion can 
+increase the understanding across jurisdictional supervisors of the important synergies and inter dependencies within the group.  
+ 
+We appreciate the IAIS’s acknowledgement of the need for supervisory coordination when developing climate- related data 
+collection requests that affect cross-border insurance groups.  The supervisory college framework can be leveraged successfully 
+for this purpose.   
+ 
+To the extent possible, data should be collected from existing supervisory databases rather than from the insurer.  Jurisdict ion-
+specific requests for additional data from individual insurance legal entities (Paragraph 37) should be justified on the basis of 
+materiality and carefully scoped.

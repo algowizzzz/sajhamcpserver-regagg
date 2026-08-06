@@ -1,0 +1,4105 @@
+Consultation comments on draft Application Paper on climate 
+scenario analysis in the insurance sector 
+ 
+ 
+23-11-23 to 23-02-24
+
+Q1 General comments on draft application paper on climate risk scenario analysis in the insurance sector:  
+Principles for 
+Responsible 
+Investment 
+United 
+Kingdom 
+The PRI welcomes efforts by the International Association of Insurance Supervisors (IAIS) to develop guidance on the 
+use of climate-related scenario analysis in the insurance sector, focusing on how scenario analysis may be used by 
+both supervisors and insurers to understand the risks to which the insurance sector is exposed at a micro- and 
+macroprudential level.  
+ 
+The PRI’s key recommendations are set out below: 
+■ Supervisors should work to develop a comprehensive global understanding of the systemic impac t of climate change 
+on the insurance industry as a whole. 
+■ In addition to promoting transparency of scenario analysis exercises, it is important to clarify a number of conceptual 
+issues in addition to quantitative assumptions and data sources. To ensure wide public and industry appreciation of the 
+meaning and value of climate-related scenarios, supervisors should ensure that these issues are clearly communicated 
+and understood.  
+■ Insurers should be encouraged to explore harmonizing the risk analysis approaches used in the context of 
+underwriting with those used for investment.  
+■ Risk analysis should integrate physical risk, tipping points, and second-order effects.  
+■ Insurers should engage with investee companies to understand the steps they are taking t o reduce their exposure to 
+climate risk, and insurers should use proxy voting and sector collaboration to positively shape investees’ transition to 
+more sustainable business practices. 
+■ Insurers should assign specific board committees responsibility for the oversight of climate change issues.
+
+World 
+Federation of 
+Insurance 
+Intermediaries 
+WFII 
+global Please allow us to make the following observations: • In areas where commercial insurers do not wish to insure the 
+climate-related risks, does this free up state owned insurers to take over the opportunity to provide such covers in 
+whatever form is deemed to be prudent? This action may be taken to ensure ec onomic continuity, employment and 
+other financial benefits to a particular region or district. • Is there an obligation on insurers or insureds to inform their 
+respective lenders that climate related covers are excluded or limited as the case may be? • Is there a specific standard 
+dealing with the assessment and quantification of potential climate-related losses or impacts e.g. Hydrological 
+assessments on expected flows following a catastrophic event?• Do the intended climate related studies take into 
+account the direct and indirect economic effect on business situated within certain geographies e.g. factories employ 30 
+000 people but they can no longer obtain flood cover therefore these businesses withdraw or relocate causing 
+increased unemployment, affecting multiple persons directly linked to the workers but then also the knock on effect of 
+other businesses either supplying or being supplied by the said businesses?• In the case of national climate change risk 
+exposures and the fundamental importance to the economy – will governments via their respective regulators permit co-
+operation between competitors in terms of climate change related matters – given their national (and international 
+importance)? 
+National 
+Association of 
+Insurance 
+Commissioners 
+(NAIC) 
+United 
+States of 
+America 
+• Para 1: for the last sentence, it may be more helpful for the IAIS to describe the other relevant work; otherwise this 
+sentence is rather vague.
+
+The Life 
+Insurance 
+Association of 
+Japan 
+Japan  Given the long-term and dynamic effects of climate change, the LIAJ believes that applying scenario analysis to 
+climate issues would be effective. Thus, the following points, which are noted in the application paper to some extent, 
+should especially be taken into consideration:– As methodologies for climate-related scenario analysis are still evolving, 
+the resulting analyses may change due to further calibration in methodologies. In addressing issues identified based on 
+these results, supervisory authorities should consider specific approaches and timeline, keeping in mind of the 
+developing analytical methodologies and forward-looking nature of the analyses.– As stated in the application paper, 
+climate risk factors are jurisdiction-specific while climate risk is universal. On the other hand, supervisory authorities 
+need to ensure a certain level of global coordination, assuming that information sharing related to their respective 
+jurisdictions or sectors is needed to compare companies in different jurisdictions or sectors. – Given that climate 
+scenario analysis itself is still evolving, and that risk factors are influenced by juris dictional features as stated above, 
+disclosing the results of the scenario analysis should be considered carefully. The application paper states in 
+paragraph 22 the importance for supervisory authorities to clearly define the objectives of the scenario analysis 
+exercise. The LIAJ appreciates this understanding to some extent, as it would encourage supervisors to only require 
+insurers to conduct scenario analysis for supervisory purposes as necessary. However, to avoid imposing undue 
+regulations on insurers for supervisory purposes, the following points should also be noted: – The scope of the scenario 
+analysis may vary depending on its purpose. As a result, the LIAJ understands that the scenario analysis that insurers 
+conduct to meet ISSB and other standard disclosure requirements, which focuses on providing information benef icial for 
+investors’ decision-making, would not necessarily cover the scope of the scenario analysis for supervisory purposes. – 
+Also, when utilising the scenario analysis, due consideration should be given to limitations inherent in the approach and 
+burden caused by administrative complexity as stated below:Ø Scenario analysis is a process to assess potential 
+effects based on assumptions. As such, limitations Ø exist as results may change depending on its assumptions, 
+conditions or factors on scenario analysis.Ø The scope of the scenario analysis needs to consider multiple aspects, 
+including its assumptions, conditions and factors. This administrative complexity would impose undue bur den on 
+insurers.– As such, to avoid imposing undue burden on insurers, supervisors should carefully consider when requiring 
+insurers to conduct scenario analysis for supervisory purposes. They should at least determine whether they need to 
+require additional scenario analysis for supervisory purposes after adequately evaluating if such scenario analysis could 
+be substituted with existing scenario analysis conducted by insurers for disclosure purposes to meet the ISSB and other 
+standards. If supervisors determine that additional scenario analysis is required, they should explain to insurers the 
+need for conducting it.
+
+Insurance 
+Europe 
+Europe • Overall, the European industry is supportive of the draft IAIS application paper on climate scenario analysis in the 
+insurance sector. Robust short, medium and long-term scenario analysis work should enable firms to better understand 
+their exposure to climate change, mitigate their climate risk exposure more effectively and adopt more suitable business 
+strategies.• Insurance Europe highlights the following key aspects of its response:o Emphasising the principle of 
+proportionality, by focusing on material risk only, is essential when using scenario analysis as a supervisory tool. In 
+particular, the IAIS’s expectations regarding use of scenario analysis for the underwriting, investment and risks policies 
+are too prescriptive. The expectations regarding the Board accountability are also overly prescriptive. o On publication of 
+the results, it is not clear what level of aggregation is sought. Individual disclosure should be very clearly excluded given 
+the level of uncertainty surrounding the scenario design and the results. This should be specified in the Application 
+Paper.    o Insurance Europe welcomes the IAIS’s acknowledgement of the continuous development (and improvement) 
+in climate data/methodologies/models and the limitations arising from these. Companies should also be aware of the 
+limitations of these.  At the same time, the paper should outline the limitations of forward- looking assessments and 
+reflect these in the recommendations throughout the paper. In particular with regard to the decision usefulness, e.g. to 
+inform pricing, investment and underwriting decisions, risk appetite statements or capital requirements and solvency 
+positions. o The IAIS should also clarify that there is no need to re-run such extensive exercises every year, as 
+underlying assumptions do not change fundamentally each year.o The IAIS is encouraged to recognise that the design 
+of the scenario analysis and the assessment should follow two guiding principles 1) the minimisation of the complexity 
+of the analysis to maximise interpretability of the results, and 2) caution in extrapolating conclusions beyond the set of 
+assumptions that drove the scenario results.
+
+CRO Forum & 
+CFO Forum 
+Global The CROF/CFOF agrees with the general observation in the draft IAIS application paper on climate scenario analysis in 
+the insurance sector that robust short, medium and long-term scenario analysis enable firms to better understand their 
+exposure to climate change, which may inform their climate risk management and business strategies. However, any 
+such analysis should be meaningful and proportional. Scenarios need to be realistic and focused, acknowledging that 
+climate is only one risk that insurers need to manage and there are many other risks that often are more impactful. On 
+the paper, we would like to highlight two additional guiding principles i.e., the minimization of the complexity of the 
+analysis to maximize interpretability of the results, and caution in extrapolating conclusions beyond the set of 
+assumptions that drove the scenario results. In light of this, we note a couple of areas in the paper where improvements 
+are needed.  The CROF/CFOF observes that care must be taken in the analysis of results, especially in the case of 
+more long-term scenarios and notably, but not limited to, those which are based on a projection of the balance sheet 
+and/or the P&L and/or solvency and requires the implementation of management actions in a dynamic way. This is 
+relevant for any supervisory driven stress-testing analysis and of individual insurer assessment such as the ORSA, 
+which should cover the business planning horizon. A dynamic balance sheet approach, based on instantaneous shocks 
+but even more so on a projection of financial items, leads to over-engineered results which test the limit of 
+interpretability given the number of assumptions and variables used. Trying to develop capacities to perform fictional 
+management actions under hypothetical assumptions is very onerous while not bringing decision-useful insights to the 
+actual steering of the business in the “real world”. Actual management actions taken will depend on many different 
+factors that can only be assessed when a specific scenario actually occurs and will consider the wider context in which it 
+takes place to select the right and most feasible actions. There is little value in trying to mechanically engineer future 
+management actions based on idiosyncratic hypothetical scenarios. It will set expectations that are not realistic and that 
+may very well not reflect reality. This is especially the case for macro-prudential exercises that cover scenarios that are 
+sector-wide.Indeed, climate scenarios provide a view of a limited number, among an infinity,  of plausible possible future 
+states and they are not predictions of the future. Therefore, supervisors must exercise caution about conclusions they 
+may draw and certainly when considering any interventions or recommendations either at a macro or micro lev el based 
+solely on the analysis of a specific hypothetical scenario. We note specifically the mention of the inclusion of tipping 
+points in scenarios, which we understand historical data may not include such extreme theoretical events. Nonetheless, 
+this uncertainty around tipping points is too high, which is supported by a statement of the PNAS paper mentioned by 
+IAIS: "Climate tipping points are subject to considerable scientific uncertainty in relation to their size, probability, and 
+how they interact with each other". A forward-looking analysis based on a set of highly uncertain potential developments 
+on such theoretical tipping points and any consequences of crossing these in a specific scenario path may lead to some 
+qualitative insights of such extreme scenarios but should be used carefully to drive quantitative capital analysis or to 
+inform concrete business decisions today. There is simply too much uncertainty on such potential scenarios and their 
+potential paths, and they should be expected to go far beyond the 1/200-year events that most legal capital frameworks, 
+such as Solvency II, expect insurers to hold.Climate risk is a risk driver and not a new risk category. It is generally not
+
+possible to disentangle this driver from other key drivers that impact for example asset valuations. Trying to isolate this 
+risk may lead to double counting in overall risk assessments and ultimately drive up the cost of insurance related 
+solutions in the area of climate change and/or ignore other drivers may be more important. It does not mean there is no 
+value in undertaking climate-specific scenario analysis, but when understanding any potential impact, it needs to be 
+assessed in the wider economic and risk context. The IAIS AP does in our view not sufficiently take into account such 
+inherent limitations of this tool.If solvency impact of climate risks is looked at, a lot of attention should be given around 
+the uncertainties in the results and the limited conclusions that could be taken from them. In any case, an approach 
+based on instantaneous shocks should be preferred to one that would rely on projecting balance sheet items and value 
+at risk into the future. Nevertheless, the longer-term impacts have to be considered carefully and should be of a more 
+qualitative nature. Scenarios should also not be overly complex with too many variables (including severe economic 
+stresses) since it will only be more difficult to assess the impact of the climate related part. Finally, the timelines of the 
+scenarios need to be relevant to the duration of the underlying business and the business planning horizon. This is 
+especially relevant in the context of the ORSA, where it remains important to run meaningful assessment s.CROF/CFOF 
+are supportive of the principle of proportionality when using scenario analysis as a supervisory tool and the recognition 
+that climate data, methodologies and models are still developing and continually improving. Thus, firms and supervisors 
+should be aware of the limitations of (third-party) climate data, methodologies and models and allow for these in their 
+assessments. The principles of proportionality should avoid too prescriptive recommendations on how to integrate 
+climate risk within the insurer’s risk management.On transparency, we observe a lack of balance in the analysis such as 
+recognizing the pros but not the cons of any disclosure. It is not most effective, and generally even counter -effective, to 
+use transparency to highlight shortcoming in data quality and modelling issues. In terms of industry capacity building to 
+manage climate risks, this is only useful if the scenarios are not too extreme such that unnecessary high buffers would 
+need to be held. It would conflict with the increasing requests to help address protection gaps related to climate risk. 
+Therefore, transparency as a tool should be carefully considered, especially in light of the overall objective of any 
+specific climate scenario analysis. Specifically, in light of macro-prudential sector-wide climate scenario analysis, 
+individual disclosure should be more clearly excluded given the level of uncertainty and idiosyncrasy surrounding the 
+scenario design and the results. Especially, in a European context after the implementation of SST and Solvency II, 
+there are appropriate frameworks already in place to compare insurer capital strength, that is based on a consistent 
+stress on all dimensions.We agree that the level of transparency may be possible to increase as climate scenario 
+analysis capabilities evolve over time, but only in so far that transparency is the right tool. However, we also note that 
+climate transition in various ways is a transition risk and therefore that the risk is embedded in pricing, valuation and risk 
+management over time and thus the additional risk would be decreasing. This observation is currently lacking in the 
+paper.Overall, the CROF/CFOF believes the paper provides good guidance on a number of elements on the subject of 
+climate scenarios but should be improved in the areas noted above. It is important to stress the importance of focusing
+
+on meaningful analysis only and to always keep in mind the proportionality principle in terms of the relative risk and 
+impact for insurers in the broader risk universe.
+
+American 
+Property 
+Casualty 
+Insurance 
+Association 
+United 
+States 
+The paper seems to be a useful primer for those supervisors and insurers that wish to conduct climate risk scenario 
+analysis. It also contains helpful comments about the need to identify a clear regulatory purpose whose benefits justify 
+the costs, the need for proportionality, and the unsuitability of scenario analysis for development of additional capital 
+charges. That said, the paper is too prescriptive in several areas, and there is danger that it will be used to try to impose  
+public policy decisions that are outside the purview of insurance supervisors. It also does not seem to point a way 
+forward for those global insurers that need uniformity and coherence.APCIA endorses the comments of the Global 
+Federation of Insurance Associations (GFIA) that “for the most part the narrative within a scenario reflects subjective 
+judgements made today about future possibilities. The IAIS should bear in mind these scenarios  are future possibilities 
+and not predictions of the future.”We also caution against overreliance on scenario analysis for periods past five years 
+or so for property/casualty insurers, especially with regard to quantitative analysis; The danger of false and misleading 
+precision is high. For similar reasons we also urge against any requirement that individual insurer results be disclosed 
+(see answer to question 11 for elaboration). 
+Public Citizen United 
+States 
+We commend IAIS for acknowledging the benefit of climate scenario analysis to financial supervision, as climate 
+change will bring about severe and frequent financial risks necessitating a forward -looking approach. As noted by IAIS, 
+the tool should be used proportionate to the uncertainty and limitation of the exercise. The effectiveness of scenario 
+analysis hinges on the quality of the models utilized, and currently these models are still being developed to adequately 
+understand climate risk for both supervisors and insurers. To improve the decision-usefulness of scenario analysis, we 
+strongly encourage further work to improve the alignment of climate scenario analysis with climate science.  
+ 
+Current limitations of early exercises conducted by supervisors include insufficient sectoral, temporal, and spatial data 
+to complete the exercise adequately, overly simplistic models, and a misalignment between scenarios and climate 
+science. Right now, scenario analysis primarily serves as capacity-building for both supervisors and their supervised 
+entities. Ideally, scenario analysis can be instrumental in guiding policy decisions tailored to specific regions or 
+industries, and assist in setting targets for policies, such as decarbonization goals or climate adaptation m easures. We 
+applaud IAIS for beginning discussion on the limitations, potential improvements, and policy implications of scenario 
+analysis.
+
+Finance Watch EU The IAIS rightly states that climate change is a source of financial risk that impacts both sides of insurers balance 
+sheets. It also points to the need to better understand climate-related financial risks and suggests that scenario analysis 
+can overcome some shortcomings of existing methods for assessing risks. This recognition of the limitations of existing 
+methods to capture climate-related risks is key. Some caution is needed though over the ambition for scenario analysis, 
+which can supplement existing methods, but may also suffer from similar limitations as existing methods. Scenario 
+analysis can be a useful tool if suitable economic models and realistic assumptions are identified and used. Otherwise 
+current models and assumptions used in scenario analyses produce highly unrealistic predictions, which underestimate 
+climate losses. If supervisors validate these predictions and the use of the models that produce them can send a signal 
+to policymakers that climate-related financial risks are being captured when this is not yet the case. Scenario analyses 
+should provide a realistic assessment of climate change-related economic impacts and be combined with an adequate 
+time-horizon and quantification of the stranded fossil fuel assets borne by investment port folios to be effective tools for 
+assessing climate-related risks.
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global GFIA welcomes the opportunity to respond to the application paper of the IAIS on climate scenario analysis. GFIA 
+would like to emphasise that climate scenario analyses are mostly prospective tools that can be used to better 
+understand the exposure of insurers to climate risks. However, even if the scenarios may draw on quantitative data, for 
+the most part the narrative within a scenario reflects subjective judgements made today about future possibilities. The 
+IAIS should bear in mind these scenarios are future possibilities and not predictions of the future.  
+ 
+Rather, supervisors should regard scenario analysis as a tool that prudent insurers ought to be using when appropriate, 
+and should ask insurers for specific, targeted purposes, and seek to understand what scenarios have been tested, why 
+they have been tested, and what they have learned from them that supports their ability to m anage possible future risks. 
+For these reasons, supervisors must exercise caution about conclusions they may draw and certainly should not 
+consider public disclosures or interventions either at a macro or micro level based solely on how an insurer is apply ing 
+the learnings it has taken from the analysis.   
+ 
+Supervisors should focus on materiality and proportionality. To this extent it is important that firms have some flexibility 
+to adapt the analysis to their risk profile, e.g. when conducting climate scenario analysis in the own risk and solvency 
+assessment (ORSA). 
+ 
+GFIA highlights the limitations related to forward-looking climate risk assessments/scenario analyses that provide 
+limited insights to inform concrete business decisions today (e.g. for short term liabilities). IAIS has to be mindful of 
+these limitations and not to propose over utilising risk management tools for something they are not suited for. The IAIS 
+should also clarify that there is no need to re-run such extensive exercises every year, also because underlying 
+assumptions do not change fundamentally each year.
+
+American 
+Academy of 
+Actuaries 
+United 
+States 
+For the financial soundness of an industry for which risk is foundational, it is essential that risks —including climate 
+change risk—are assessed, quantified, and managed on an impartial basis. The American Academy of Actuaries 
+Prudential Regulation Committee believes that the extensive scenario analysis that is suggested may not be appropriate 
+for every insurer, because the relative importance of an insurer’s risk exposures will vary depending on individual facts 
+and circumstances. An overemphasis might lead to the neglect of more impactful marketplace or risk phenomena, 
+because company management, the board, and regulatory bodies have a finite ability to evaluate and manage risks. We 
+encourage a balanced approach that would caution stakeholders about the perils of either a neglect of or overemphasis 
+on any particular risk phenomenon, including climate change risk.The paper recommends that supervisors and insurers 
+place heavy reliance on a tool that the paper itself deems unreliable. Climate scenario analys is is suggested for an array 
+of core insurance functions, including risk assessment, investment portfolio management, pricing, business strategy, 
+and capital management. It further recommends that supervisors employ climate scenario analysis in the context  of 
+financial stability. Yet paragraph 34d of the paper observes: “Caution should be used when determining the impact to 
+capital, given the high degree of tracking error, use of subjective assumptions, numerous variables, varying time 
+horizons, range of possible outcomes associated with each scenario and overall uncertainty of scenarios.” This “overall 
+uncertainty” would limit the utility of climate scenario analysis for all suggested uses, not just capital management. As 
+currently drafted, it seems imprudent for the IAIS to suggest the extensive use of a tool that could produce unreliable 
+results. Two potential options for revision of the current language include positioning the recommended uses as 
+aspirational (subject to better data and modeling), or a more cautious or narrow scope regarding the suggested uses of 
+scenario analysis. There is a risk of improper supervisory expectations and application, such as the proposed use of 
+scenario analysis to assess protection gaps and risk concentrations (Box 2).Overall, the paper does not appear to give 
+significant attention to the differences between life insurers and property and casualty insurers (P&C). For example, 
+P&C insurers are mostly exposed to physical risk, and scenario analysis may not consider impact s on investments. P&C 
+business is subject to frequent repricing and reunderwriting (with policy terms of only 12 months or shorter in most 
+cases). P&C investments are aligned with these shorter durations, which limits the usefulness of projections for longer 
+time horizons. Life insurers, on the other hand, will be most exposed to investment risks, which are longer term. These 
+differences and their implications for scenario analysis merit a fulsome discussion within the paper. The paper appears 
+overly prescriptive and detailed in its recommendations. Given the nature of climate scenario analysis, a principles -
+based approach would be more effective for supervisory oversight and insurer risk management, with the following 
+points of emphasis:1.1. Materiality. The paper does not sufficiently approach this risk topic with the principles of 
+proportionality and materiality (see par. 10 and 16). Thus, it does not place any reasonable use case restrictions or 
+limits on climate scenario analysis, such as if it is deemed to be immaterial for an insurer or duplicative to other risk 
+factors (as a driver of other risks that are already identified, assessed, and managed). Instead, the paper expects 
+continued escalations of scenario analysis (e.g., section 4.2). Recommendations. The recommendations related to the 
+Enterprise Risk Management framework, investment policies, Own Risk and Solvency Assessment, risk policies like
+
+Asset Liability Management, and board accountability overstate how climate scenario analysis can reasonably inform 
+those risk practices (see section 5).1.2. Best Practices. For an emerging, jurisdiction-specific, and uncertain risk, “best 
+practices” are often unclear. As drafted, the paper conveys an authoritative and prescriptive perspective that goes 
+beyond recommending. We strongly encourage the use of “may consider” in place of “should” throughout this section 
+and the broader draft.
+
+International 
+Actuarial 
+Association 
+(IAA) 
+International The draft paper seems to imply that static approaches to scenario analysis are appropriate for all business models, and 
+that the same long-term horizons are appropriate for all business models.  If this is the intent, then the IAA believes this 
+should be changed for the reasons explained below.In general, the appropriate time horizon and the associated use of 
+static vs. dynamic assumptions should be dependent on the business model.  Static assumptions implicitly assume that 
+the current structure of an insurer’s assets and liabilities is relatively rigid, with limited opportunity for adjustment.  But 
+where the business model allows for frequent management actions the current structure is not at all rigid.  As an 
+analogy, consider the risk of drowning for someone lying on an ocean beach.  Under a static assumption for a one- day 
+time horizon, the risk of drowning would be 100% due to ocean tides, but that is clearly nonsensical and results in a 
+useless scenario analysis.  Similarly, where an insurer’s existing policies cover only 12 month periods, with annual re-
+underwriting and re-pricing, and where the both the resulting liabilities and supporting assets roll off in 5 years, the use 
+of a 25 year horizon with static assumptions assume an incompetent management. As seen with the underwriting of war 
+risk in the Middle East, the underwriting and pricing of wildfire risk in California, and the underwriting of cyber risk in 
+Lloyds, managements do react to a changing risk environment in a relatively timely manner.  The draft application paper 
+needs to recognize this in its discussion of static vs. dynamic assumptions and its discussion of time horizons.
+
+Ceres United 
+States 
+We appreciate the opportunity to offer comments in response to the International Association of Insurance Supervisors’ 
+(IAIS) draft application paper on climate scenario analysis in the insurance sector. The proposed Draft Application 
+Paper on climate risk scenario analysis in the insurance sector focuses on the use of climate-related scenario analysis 
+as a tool used by both supervisors and insurers to understand the risks to which the insurance sector is exposed at a 
+micro- and macroprudential level. The paper considers why and how climate-related scenario analysis exercises should 
+be used and the extent to which they can overcome some of the shortcomings of existing methods for assessing risks. 
+In particular, the paper focuses on how climate-related scenario analysis should be considered in light of the standards 
+set out in ICP 16 (Enterprise Risk Management for Solvency Purposes) and ICP 24 (Macroprudential Supervision). 
+Ceres is a nonprofit organization working with the most influential capital market leaders to solve the world’s greatest 
+sustainability challenges. The Ceres Accelerator for Sustainable Capital Markets works to transform the practices and 
+policies that govern capital markets in order to reduce the worst financial impacts of the climate cr isis. It spurs action on 
+climate risk as a systemic financial risk – driving the large-scale behavior and systems change needed to achieve a net-
+zero emissions economy. The comments provided herein represent only the opinions of Ceres, and do not necessari ly 
+infer endorsement by each member of our Investor, Company, or Policy networks. Ceres also includes the Investor 
+Network on Climate Risk and Sustainability, which consists of over 220 institutional investors managing a combined $ 45 
+trillion in assets, who advance leading investment practices, corporate engagement strategies, and pol icy and 
+regulatory solutions to address sustainability risks and opportunities. These investors have indicated that mandatory 
+corporate climate disclosure is a top priority for them. For many years, Ceres has worked with state insurance 
+commissioners, the NAIC, insurers, investors, and other regulators on how climate risk affects insurers and 
+policyholders and how insurers can proactively take actions to reduce climate risks . Our research reports on these 
+issues include Addressing Climate as a Systemic Risk (which provides 10 recommendations for state and federal 
+insurance regulators), Scaling U.S. Insurers' Clean Energy Infrastructure Investments, Insurer Climate Risk Di sclosure 
+Survey Report & Scorecard, and Assets or Liabilities? Fossil Fuel Investments of Leading U.S. Insurers. In July -  
+October 2021, we produced a series of trainings for the insurance companies that have completed their TCFD reports, 
+many for the first time. This ten-hours of on-line content, in conjunction with NAIC and included remarks from several 
+state insurance regulatory leaders, was aimed at helping insurers use the Task Force on Climate- related Financial 
+Disclosures (TCFD) recommendations, How Insurers are Rising to the Challenge of Climate Risk Disclosure. Most 
+recently, Ceres published the following reports to  provide critical research, analysis, and solutions for the U.S. 
+insurance industry:  Inclusive Insurance for Climate-Related Disasters January 2023 which provides discussion and 
+analysis of inclusive insurance and incorporates parametric insurance commentary; Climate Risk Management in the 
+U.S. Insurance Sector July 2023  an analysis and summary of the TCFD climate disclosures submitte d by nearly 
+480 insurers; and The Changing Climate for Insurance Investments August 2023 an analysis and summary of the 
+investment portfolios of over 400 insurers. Ceres submitted comments to IAIS on May 16, 2023 responding to a request 
+for input on updates to the overall work program of the IAIS in promoting a globally consistent supervisory response to
+
+climate change within the insurance sector.1 In those comments we noted Ceres considers issues relating to corporate 
+governance, risk management, and internal controls as critically paired with the integration of climate risks to prepare for 
+the acceleration of climate change impacts. The Swiss Re Institute annual report, which looks at losses from natural 
+catastrophes such as floods, hurricanes, and wildfires, estimates the total economic losses will reach $260 billion in 
+2022. That is down 11% from the year prior, but still well above the 10-year average of $207 billion and 2023 estimates 
+to range on par or higher. As a sustainability nonprofit helping institutions and industry tackle climate risk, Ceres 
+applauds the IAIS’ leadership in issuing much-needed guidance on climate scenario analysis for the insurance industry. 
+This draft paper firmly positions worsening climate impacts as a pivotal financial risk meriting urgent attention. We 
+particularly support transparent disclosure calls so stakeholders can assess insurers’ climate risk governance.  With 
+escalating physical dangers and net zero imperatives intensifying, transparency catalyzes accountability. Equally vital 
+are analyses assessing consumer protection impacts like widening insurance affordability gaps which disproportionately 
+hamper disadvantaged communities. Prioritizing equitable climate resilience is urgent and insights should inform policy 
+solutions. However, fulsome adoption may require more regulatory specificity on consistent reporti ng standards, 
+accessible risk data, normalized methodologies, and proportional guidance so less -resourced insurers can integrate 
+climate risk responsibly.  Overall, the application paper sends a timely call for urgent transformation in risk governance 
+and business models on the scale demanded by the climate emergency. This will spur the managed transition toward 
+sustainable underwriting and investing so vital for stable markets that promote prosperity for all. We urge all insurance 
+supervisors to enact these recommendations preemptively as risks intensify.
+
+E3G United 
+States 
+General CommentsImperatives of data collection. The widely acknowledged data gaps faced by supervisors and 
+insurers make it difficult to fully assess the comprehensiveness and completeness of the recommendations. As noted in 
+the IAIS 2023 Global Insurance Market Report “A comprehensive understanding of the potential risks and exposures 
+from climate change is dependent on accurate and sufficiently detailed data sources. When asked whether jurisdictions 
+currently collect climate-related liability data in their jurisdiction, the majority of responses (18 out of 32) indicated that 
+this is either currently not done or that this is planned for the near future. It appears that there is very limited regular 
+climate data collection by IAIS members other than data related to Nat CAT exposures.  This remains an area where 
+supervisors need to do more to gather relevant data on assets and liabilities.”  The input of climate scientists on 
+scenario development is critical to guidance on the “how and why” of the IAIS’s sc enario application paper. We respect 
+that the IAIS’s focus is on the “why and how” climate related scenario analysis exercises should be used, and 
+adjustments to their use can that could help overcome some shortcomings in existing methods.  While the IAIS notes 
+this consultation paper “…does not consider the development of the climate scenarios themselves, which are issues to 
+be considered by bodies such as the [NGFS,” we respectfully believe, however, that model development is integral to 
+the “why and how” they should be used.  The NGFS’s models have evolved significantly, but the NGFS’ most recent 
+‘use with care’ label is sobering.  The NGFS identified these areas as ones that users may need to adapt the intensity of 
+scenarios “…tipping points, physical impacts that are not captured at present, societal impacts such as migration 
+influenced by climate change, compound risks, the calibration of physical damages, technology assumptions, 
+government policy changes and financial sector dynamics…”   These design limitations can lead to a drastic under-
+pricing of risks, and thus produce poorly informed policy making that could actually be counter -productive to the 
+transition to net zero. To avoid such outcomes, the IAIS should more strongly encourage/require that climate scientists 
+be integrated into in scenario analysis design and use to improve to make the “how and why” of scenario use’ is more 
+meaningful. Mandatory transition plans and scenario analysis. Supervisors should support the immediate development 
+and detailed disclosure of transition plans, particularly the insurance sector. The U.K.’s 2021 Climate Biennial 
+Exploratory Scenario (CBES) exercise highlighted that “…lack of data on corporate current emission and future 
+transition plans is a collective issue affecting all participating firms.  One recurrent theme across participants was a lack 
+of data on many key factors that participant need to understand to manage climate risks.”
+
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+We support the use of scenario analysis and its integration into the supervisory process. However, any scenario 
+analysis is only as useful as the model(s) relied on and the understanding of model results and limitations by 
+supervisors and insurers. Therefore, we strongly encourage further work to improve climate scenario analysis and 
+education of supervisors and insurers, including boards and management. Scenario analysis results may create a false 
+sense of security if unrealistic models are used, and scenario analysis exercises are just one tool that supervisors and 
+insurers must use to manage climate risks.The use of scenario analysis must not be treated as a substitute for other 
+tools or be used as a final determinant of supervisory measures and regulatory requirements. In particular, scenario 
+analysis must not be used to justify any strategic decision making that is not compatible with the implementation of and 
+adherence to robust transition plans that move insurers away from fossil fuels by mid century  as agreed in the Paris 
+accord. All of our recommendations involving the use of scenario analysis for various purposes should be read with the 
+understanding that climate-related scenario analysis (1) is imperfect and subject to several shortcomings, (2) is  not a 
+substitute for other supervisory tools or insurer risk management processes, and (3) should only be used if the 
+underlying models are consistent with climate science and do not produce economic results that are incompatible with 
+changes in the natural world that will occur due to climate change. Models that understate these risks should not be 
+used in scenario analysis exercises.While the draft application paper does not consider the development of climate 
+scenarios, model development and characteristics are integral to determining why and how climate- related scenario 
+analysis exercises should be used. Even the NGFS, which the draft application paper points to as a more appropriate 
+body to develop climate scenarios, notes that their scenarios are not designed to be “off-the-shelf” packages and may 
+require users to individually adapt them for their own purposes.[1] These limitations and need for modifications by users 
+point to a need for supervisors to participate in the scenario development process. Given the radical uncertainties and 
+extreme risks of climate change, supervisors should take a precautionary approach. This is especially true as climate-
+related risk management tools remain in a developmental state. It is also questionable whether climat e-related financial 
+risks, which flow from the existential risks of climate change itself, can be “managed.” Supervisors must also recognize 
+that the risks are asymmetrical. Due to potential tipping points and the irreversibility of climate change, recover ies from 
+crises may not be possible as they are in the case of more traditional financial stress. Recoveries may not just be 
+slower; they may not occur at all. Climate scenario analysis exercises must consider such outcomes. Further data 
+collection is necessary to better inform scenario analysis design and methods, as well as other supervisory measures 
+such as transition plans and traditional stress testing. However, the need for additional data should not be used as an 
+excuse for inaction. Climate change requires immediate action now. Even longer-term risks will depend on the urgency 
+with which supervisors, insurers, and others act today. Scenario analysis should be used now, with recognition of its 
+limitations and in conjunction with other supervisory tools to address climate-related financial risks, while additional data 
+is collected, understanding of climate risks is improved, and scenario modelling and methodology is enhanced. Our 
+more detailed comments below focus primarily on areas for improvement in the final application paper rather than on 
+areas of agreement. —-------[1] NGFS (2024).  NGFS scenarios: Purpose, use cases and guidance on where
+
+institutional adaptations are required, 
+https://www.ngfs.net/sites/default/files/medias/documents/ngfs_guidance_note_on_the_scenarios.pdf
+
+Lloyd's Market 
+Association 
+United 
+Kingdom 
+We agree with IAIS that climate change is a source of financial risk that impacts the resilience of insurers and could lead 
+to financial stability risk. We also welcome IAIS considerations as discussed in your draft application paper on climate 
+scenario analysis in the insurance sector.Our Market recognises the importance of the use of climate-related scenario 
+analysis to understand and quantify the emerging physical, transition and litigation risks. The Prudential Regulation 
+Authority’s supervisory statement SS3/19 has set out the rules on which the PRA is supervising the market on climate 
+risk management. The PRA expects firms to develop and embed effective risk management processes to manage their 
+climate risks and use long term scenario analysis to inform strategy setting risk assessment and identification. The PRA 
+recently set its 2024 regulatory priorities through a ‘Dear CEO’ letter and noted that insurers should cont inue to work 
+towards implementing the requirements of ss3/19. Our members have made significant progress on the embeddedness 
+of climate risk management processes within the strategic decision-making and how climate change related risks impact 
+their reserving and capital frameworks. This has also been supported by the roll out of the Lloyd’s Principles Oversight 
+Framework and the focus of the Lloyd’s risk aggregation and exposure management team on managing exposure to 
+physical risk. Managing Agents annually take part in analysing portfolio exposure to Realistic Disaster Scenarios, set by 
+Lloyd’s to ensure market wide exposure and capital remains within risk appetite. Our members focus on physical risk 
+will continue in 2024 throughout the work conducted by Lloyd’s to develop a climate key -risk indicator for physical flood 
+risk. In addition to this, further guidance is planned to be released by Lloyd’s on a key risk indicator for climate –  related 
+liability risk. The LMA is supporting Lloyd’s and PRA’s activities through the LMA’s Climate Risk, Exposure Management 
+and Actuarial committees. In 2024, the LMA will be supporting the market further understand business and financial risk 
+impact from the transition and climate litigation risk through the development of a transition risk heatmap and regular 
+and continuous engagement with the PRA and Lloyd’s.
+
+Institute of 
+International 
+Finance 
+United 
+States 
+Dear Messrs. Ariizumi and Mr. Dixon:The Institute of International Finance (IIF) and its insurance members  are pleased 
+to respond to the IAIS’s Draft Application Paper on climate risk scenario analysis in the insurance sector (Draft 
+Application Paper). The IIF has been leading and supporting efforts within the broader financial services industry to 
+advance sound risk management practices for climate-related financial risks, including the use of climate scenario 
+analysis. Last year, the IIF analyzed insurer approaches to climate scenario analysis, which culminated in the 
+publication of its report, “Supervisory and Industry Approaches to Insurer Climate Scenario Analysis and Stress 
+Testing.”  Many of the insights from this IIF report, which was informed by the practical experiences of IIF members, 
+have helped inform our response to this Draft Application Paper.   We understand the interest of the IAIS in developing 
+guidance for jurisdictions on how climate risk scenario analysis should be considered in light of Insurance Core 
+Principles (ICPs) 16 and 24. However, we believe that the IAIS should go back to first principles in drafting an 
+Application Paper. As noted in the preface to the Draft Application Paper, Application Papers provide supporting 
+material related to specific supervisory material in the ICPs or ComFrame by providing further advice, information, 
+recommendations, or examples of good practice. Application Papers are subject to the principle of proportionality and 
+should not include new requirements that go beyond the scope of the existing ICPs.  This distinction is important as, in 
+practice, Application Papers are often interpreted by supervisors as prescriptive requirements from the IAIS and, by 
+extension, failure to implement them could give rise to negative assessments.  We encourage the IAIS to reiterate and 
+clarify the purposes and intent of an Application Paper for the benefit of its members and stakeholders and to reflect the 
+intended purpose of an Application Paper in redrafted language in any final Application Paper. Overarching 
+CommentsThe Draft Application Paper reflects an overly optimistic view of the current state of climate risk modeling and 
+climate scenario analysis.  While the Introduction to the Draft Application Paper notes that climate- related scenario 
+analysis is still in its early stages as a risk assessment tool and discusses some of the current limitations of these 
+analyses, the remainder of the Paper reflects an overly optimistic view of the current state of the art and potential use 
+cases for climate scenario analysis without appropriately reflecting and discussing the limitations of climate scenario 
+analysis. The Paper reflects an overconfidence in climate scenario analysis use cases that does not appropriately 
+consider important limitations and modeling challenges. We believe that the Draft Application Paper would benefit from 
+setting out these limitations in more detail, and we encourage the IAIS to continue to consult with industry, climate 
+scientists, and modeling experts before progressing this work to a final Application Paper.  Importantly, the IAIS and its 
+member supervisors should avoid being overly prescriptive and should pursue a principles -based and incremental 
+approach to climate risk scenario analysis, where methodologies and approaches are still developing.The Draft 
+Application Paper addresses a broad range of issues relevant to climate scenario analysis, including macroprudential 
+considerations and the use of scenario analysis to inform insurers’ risk management and governance. Given the far-
+reaching scope set out in the Draft Application Paper for this topic and in consideration of the limitations of climate 
+scenario analysis as set out in this response, we strongly encourage the IAIS to take an incremental approach to 
+climate scenario analysis. For instance, the IAIS should first explore climate scenario analysis objectives and exercise
+
+design considerations in a microprudential context before progressing to address the complex topic of how climate 
+change can be a driver of systemic risk. The work of the IAIS on climate-related risks and scenario analysis can be an 
+input into its broader macroprudential analyses, but forward-looking climate scenario analysis needs more exploration 
+and development before becoming part of a broader macroprudential analysis. We are also concerned that some of the 
+use cases provided in the Draft Application Paper for climate scenario analysis for firm-specific exercises and, in 
+particular, as a tool to inform enterprise risk management are overly optimistic.  We encourage the IAIS to review with 
+experts in climate scenario analysis the potential use cases put forward in the Draft Application Paper in order to 
+confirm the potential situations in which climate scenario analysis can be decision- useful for risk management. More 
+aspirational use cases should be clearly identified as such in any final Application Paper. Climate scenario analysis 
+should not be conflated with business-as-usual climate risk management.  Climate scenario analysis, which employs 
+longer-term, forward-looking climate modelling, differs from business-as-usual climate risk management over the near- 
+to mid-term, and the two should not be conflated.  Climate change should be seen as an additional risk driver on top of 
+existing climate risk management.  Forward-looking impacts are dependent on a number of assumptions and estimates 
+that make their use in influencing business strategies and decisions- over the business-as-usual time horizon 
+considerably less reliable.The discussion of transparency in Section 4.3 of the Draft Application Paper should be 
+substantially revised given that the output from climate scenario analysis exercises are -  at least over the near-term - 
+likely to be imprecise and unreliable in light of the complexity and methodological and data challenges associated with 
+the exercises. Disclosing such information runs the risk of misleading stakeholders and would pose undue risks to 
+insurers. Paragraph 47 states that publishing the results of climate scenario analysis exercises can send a clear 
+message about the potential climate-related risks posed to the insurance sector.  However, given the data and 
+methodological limitations discussed above, this statement is not fully accurate.  Moreover, we believe that this 
+statement overlooks the potential for the disclosure of the results of exercises to create confusion among investors and 
+other stakeholders that receive and use these disclosures in their decision- making, which gives rise to significant 
+litigation and reputational risks for the industry. Further consideration of the risks of public disclosure is provided in th e 
+IIF’s comment letter on the IAIS market conduct consultation. Substantial improvements in data and modeling are 
+needed before the results of climate scenario analysis will be decision-useful to the users of insurers’ 
+disclosures.Climate scenario analyses over a range of timeframes can be useful to an insurer for strategic planning and 
+for testing the viability of various business models over a longer time horizon, but they are not a suitable tool to inform 
+concrete decision making, particularly for short tail lines of business such as property catastrophe.  This lack of 
+suitability for decision making arises from the need to align the assessment horizon with the duration of the underlying 
+liabilities in order to inform concrete business decisions.  In particular, exercises that are designed to explore longer 
+timeframes may result in outputs that exceed those arising from risk-based capital calculations. In addition, the 
+considerable potential for error in scenario analysis results can make firms reluctant to draw any f irm conclusions that 
+would inform business plans or strategy.An obligation to disclose the results of those analyses should respect the
+
+uncertainty and potential business sensitivities of the outcomes, otherwise it would have a chilling effect on the 
+willingness of insurers to engage in these exercises.   Individual firm’s results should not be disclosed publicly, as they 
+conflict with legally required disclosures and would result in confusion and misunderstanding to the serious detriment of 
+the users of disclosures, disclosing firms and the sector as a whole. The significant litigation risks to insurers arising 
+from misunderstanding these disclosures and from the fact that the results may not be sufficiently reliable should not be 
+overlooked by insurance supervisors.Supervisors should strictly limit the publication of any results of their supervisory 
+exercises to anonymized and aggregated information and should strongly caveat any findings in order to reflect the 
+limitations of those exercises. Supervisors should strictly avoid any publication of individual firm’s scenario analysis 
+results given the substantial uncertainty and business sensitivities surrounding those results. We propose a redrafting of 
+Section 4.3 in our specific comments below.The use of climate scenario analysis as a prudential supervisory tool is not 
+appropriate in light of the uncertainty around climate change outcomes and shortcomings in data availability and 
+reliability.  While the use of climate scenario analysis as a prudential supervisory tool is not appropriate, it can serve a 
+valuable role in facilitating supervisory discussions with insurers or in testing the long- term viability of an insurer’s 
+business model. The IAIS should not promote the use of climate scenario analysis to inform firms’ capital and solvency 
+requirements.Climate-related risk drivers of financial risk should not be elevated over other insurance risk drivers.   
+While climate-related risk drivers of financial risk are undoubtedly an important consideration for insurers and 
+supervisors, they should not be elevated above other risk drivers to an insurance enterprise unless a materiality 
+determination provides evidence that it is in fact more significant to the organization than other risks and, thus, should 
+be prioritized.  For some insurers, climate-related risk drivers may be significant, whereas for others, non-climate-related 
+risk drivers may pose the larger threat to their business model over a longer time horizon.  Elevating climate- related risk 
+drivers over other more material risk drivers can distort supervisory and firms’ business decisions and, hence, is in 
+conflict with the very objectives of prudential supervision.We welcome the delineation of specific climate-related risks by 
+insurance lines of business in Table 3 of the Draft Application Paper. This approach should be carried through the 
+remainder of the Paper, including in the discussion of scenario analysis design considerations, including in Tables 4 and 
+5.There continues to be a need for supervisors to increase their alignment of supervisory approaches to climate- related 
+risks, including climate scenario analysis.  While the Draft Application Paper calls for greater alignment of supervisory 
+approaches to climate scenario analysis, the various case studies contained in the Paper reveal considerable 
+divergence among jurisdictions in their approaches to supervisory exercises and guidance on this topic.  As noted in a 
+recent IIF report,  regulatory fragmentation has many negative consequences for both the financial services industry 
+and its customers and counterparties.  The IAIS should continue to encourage its member supervisors to work 
+collaboratively to increase alignment on supervisory approaches to climate-related risks, including climate scenario 
+analysis. Supervisory climate scenario analysis exercises should be limited in scope and tied directly to supervisory 
+mandates and objectives.  Supervisory requests for industry participation in climate scenario analysis exercises should 
+be tied directly and specifically to the supervisory mandate and objectives.  The exercises should be proportionate,
+
+flexible, and focused on the material climate-related risks faced by exercise participants. Supervisors should recognize 
+that insurers with global operations often are contending with multiple, varying exercises with overlapping and ambitious 
+timeframes and, accordingly, tailor their exercises to focus on the most material exposures that are directly relevant to 
+their supervisory objectives. Paragraph 46c. advocates for supervisors to conduct follow -up scenario analysis exercises 
+to identify emerging risks or trends.  While, in principle, this suggestion is valid, it does not reflect the considerable 
+uncertainty surrounding the results of these exercises and the serious risk of compounding erroneous results, which can 
+lead to self-fulfilling prophecies arising from the inherent presumption that a particular trend will develop (i.e. attempting 
+to prove a trend by calculating the potential impact should a presumed trend materialize), circular reasoning and a false 
+sense of precision in the outcomes.  Supervisors should fully understand and digest the results of their initial exercises 
+and verify the assumptions and estimates on which they are based before engaging in follow -up analyses.  Moreover, 
+supervisors should interpret the outcomes of supervisory exercises through the lens of materiality.Supervisors’ climate 
+scenario analysis exercises should not ‘crowd out’ insurers’ internal analyses. Insurers and supervisors have a common 
+goal to enhance climate-related risk management practices, including the use of climate scenario analysis.  Given the 
+considerable expertise in modeling and scenario analysis in the industry, it may be appropriate for insurers to take the 
+lead in advancing sound climate scenario analysis practices.  Insurers are best placed to tailor the analysis to their risk 
+profile and business model.  In contrast, top-down supervisory approaches limit the ability to tailor the analysis and, 
+therefore, produce results that are less valuable to an insurer.  At a minimum, supervisory capacity buildi ng would be 
+enhanced and accelerated through collaboration with private sector experts in risk management and modeling. Specific 
+CommentsSection 2 – Scenario analysis versus stress testingParagraph 13 states that climate-related scenario analysis 
+exercises can be used to identify and assess emerging risks that may arise over time so that insurers can take 
+appropriate action to effectively and proactively manage those risks.  We agree with the statement that climate 
+exercises can be used to identify and assess emerging risks, but the use of the results of forward- looking climate 
+scenario analysis exercises in business decision making and capital allocation is limited due to data gaps, issues 
+related to data quality and reliability, methodological constraints, and the need to rely significantly on assumptions and 
+estimates.  These data and methodological limitations constrain the ability of insurers to use climate scenario analysis 
+as an effective tool in decision making at the present time.  We anticipate that further advances in data quality and 
+modeling will make the results of climate scenario analysis more decision useful over time.  However, some structural 
+limitations will remain, e.g., the decision usefulness of such forward-looking assessments for short-term liabilities or 
+capital requirements.Paragraph 14 states that climate-related scenario analysis could be used to measure the 
+compounding impact of several catastrophe risk perils occurring consecutively in short order.  We believe that the state 
+of the art of climate scenario analysis is not yet sufficiently advanced to make the results from any such analysis 
+reliable. Paragraph 14 also states that non-life insurers could use scenario analysis to measure the compounding 
+impact of several catastrophe risk perils occurring consecutively in short order.  While climate scientists and modeling 
+experts are exploring multi-peril impacts, we understand that the results of those exercises generally are not considered
+
+fully reliable for use in business decision making at the present time.Section 3 – Scenario analysis objectives and 
+scenario design We encourage the IAIS to more clearly delineate the supervisory objectives of climate- related scenario 
+analysis before outlining extensive design considerations in this Section.  The extensive list of objectives set forth in 
+Table 4 should be more carefully limited in order to produce exercises that are more likely to result in information and 
+analyses that are decision-useful for insurers and their supervisors.In addition, the scientific knowledge around climate 
+change does not change that frequently, which limits the usefulness of annual exercises. Supervisors should consider 
+less frequent formal supervisory exercises and place greater reliance on discussions w ith insurers based on their firm-
+specific assessments.In designing climate scenario analyses, it is important to reflect that climate change is a risk driver 
+that is already embedded in an insurer’s financial risks, to the extent that it is deemed material to the firm.  For example, 
+the impact of climate change on real estate holdings in a particular location may be well reflected in the current credit 
+risk assessment. Double counting should be avoided as it could lead to flawed analysis and inputs to decision-making. 
+In other cases, it may be difficult to isolate certain risks.  For example, isolating climate transition risks, which are one of 
+several drivers of spread risk, can be extremely challenging due to data limitations and model bias that can arise when 
+attempting to isolate transition risk from other drivers using traditional methods such as bivariate and multivariate 
+regressions.   We do not believe that scenarios should reflect climate tipping elements or tipping points and we would 
+delete the reference to tipping points in Paragraphs 29 and 58b. of the Draft Application Paper. Tipping points are 
+subject to competing theories and are not precisely known.  The term is also generally interpreted as meaning that a 
+particular system will ‘tip’ very abruptly once the threshold is crossed, which may not be necessarily true for a particular 
+tipping element.  Multiple thresholds may govern a particular tipping element, and climate change may influence a range 
+of different feedback effects. That said, state-of-the-art climate models (e.g. CMIP66 ), represent all physical processes 
+of the climate system, including feedback processes and potential tipping points. As such, they are already reflected to 
+the extent possible and should not be singled out. We would therefore recommend that the IAIS not ask supervisors to 
+include tipping points in their analyses, nor should supervisors require firms to include tipping points in their firm- specific 
+analyses beyond widely recognized scientific climate models. Section 4 – Macroprudential considerations for 
+supervisorsWe understand and share the IAIS’s interest in emerging developments that may affect the insurance 
+sector’s risk exposures.  The Holistic Framework for the Assessment and Mitigation of Systemic Risk in the Insurance 
+Sector (Holistic Framework) is designed to increase the resilience of the sector through a global monitoring exercise 
+that assesses trends and development in the sector in order to detect the possible build-up of systemic risks.  The 
+IAIS’s review of system-wide climate-related risks should be directly linked to the Holistic Framework and conducted 
+through the global monitoring exercise, as was done in 2021.  Notably, the 2021 Global Insurance Mark et Report 
+(GIMAR) Special Topic Edition on climate-related risks (2021 GIMAR)  results indicated that, considering the solid 
+overall solvency position of the global insurance sector, the sector as a whole appears to be able to absorb investment 
+losses from all scenarios tested and that transition risks from climate change generally are manageable for the 
+insurance sector.  The findings from the 2021 GIMAR are not appropriately reflected in the Draft Application Paper and
+
+should be discussed in any final Application Paper.The IAIS can play an important role in coordinating supervisory 
+exercises through the GIMAR, thereby limiting the growing proliferation of supervisory exercises with different objectives 
+and design features.  The IAIS can also serve as a forum for discussing the results of supervisory exercises and for 
+determining when material changes in the industry’s risk profile or material advancements in modeling and scenario 
+analysis warrant a further review or analysis of past findings.  The IAIS and its members should not presume that 
+annual or bi-annual exercises are necessary; rather, they should base a decision to conduct follow -on work based on a 
+material change in scientific literature or on significant advancements in methodology and techniques that can provide 
+new insights to both supervisors and the industry.  Paragraph 25 of the Draft Application Paper should reflect an 
+approach to supervisory exercises that ties specifically to the Holistic Framework, r ather than the focus on domestically 
+systemically important insurers or locally headquartered internationally active insurance groups.  We encourage the 
+IAIS to take a sector-wide view of climate-related risks, consistent with the approach taken in the 2021 
+GIMAR.Paragraph 35 of the Draft Application Paper attempts to put into context the macroprudential considerations for 
+supervisors but fails to recognize the important role that insurers play in reducing the economy -wide risks and impacts 
+of climate change through mitigation, adaptation, and risk transfer measures.  In developing a proportionate approach to 
+the macroprudential treatment of climate risk considerations, the IAIS should recognize the positive contributions to 
+financial system-wide resilience that are made by the insurance sector, including by developing innovative new 
+products, by adopting internal policies and practices to reduce their carbon footprints, and by considering climate-
+related considerations in their investment policies and in their engagement with investees.With respect to the discussion 
+of climate-related risk concentrations in Section 4.3.1, there are serious methodological and modeling challenges 
+related to assessing and measuring climate-related risk concentrations that make any system-wide analysis of 
+concentration risk subject to considerable uncertainty and imprecision.  The determination of the impact of perils and the 
+quantification of the effects of physical and transition risk correlations (see also Box 5) are subjec t to substantial 
+uncertainty, as a result of the need to rely on information that is incomplete or subject to a high degree of estimation, 
+assumptions that may or may not prove valid, and dependencies that may not be readily apparent or well understood.  I t 
+is important to first assess the materiality of portfolio risks before considering more complex issues around 
+concentration risks.These shortcomings can seriously compromise the decisions that supervisors might make based on 
+this information.  It is very difficult even for individual insurers or insurance groups to conduct these analyses; the state 
+of the art is not sufficiently advanced at the present time for supervisors to attempt to use these analyses for 
+macroprudential purposes.  To do so could give rise to the potential for unintended consequences and supervisory 
+decisions based on inaccurate or incomplete information.  These risks are compounded when consideration is given to 
+assessing spillover effects to the real economy and other sectors (see Paragraph 43). Moreover, the lack of common 
+and well-developed definitions of some key terms impedes the ability of insurers or supervisors to conduct a meaningful 
+assessment of concentration risks.  We appreciate the IAIS providing definitions of certain key terms in Table 2 but 
+other key terms still need clear and aligned definitions.  For example, Paragraph 44 discusses carbon- intensive and
+
+green assets without clarifying the IAIS’s definition of these terms.  Moreover, there are a multiplicity of definitions 
+across jurisdictions and among insurers and supervisors, which complicate any analysis of transition risk 
+concentrations. Moreover, Paragraph 44 focuses on carbon-intensive assets as a potential source of micro and 
+macroprudential risk, which overlooks other potential drivers of financial risk.   It should also be acknowledged that 
+carbon-intensive assets will continue to play an important role as economies transition to net zero. With respect to the 
+use of climate scenario analysis to explore the impact of climate change on capacity (See Box 2), we do see a useful 
+role for climate risk maps, such as those constructed by EIOPA, that can help provide national, regional, and local 
+governments to better assess potential impacts of natural catastrophe events and to develop mitigation and resilience 
+strategies and community education programs.  However, a broader role for climate scenario analy sis in understanding 
+the impact of climate change on protection gaps (see objective 9 of Table 4), goes beyond the current capabilities of 
+insurers’ climate modeling and is subject to significant assumptions, dependencies, and uncertainties.  As a result, it is 
+unlikely that any exercise designed to understand the impacts of climate change on protection gaps would result in the 
+development of actionable information.As noted in our overarching comments, the discussion of transparency in Section 
+4.3 of the Draft Application Paper should be substantially revised in light of the substantial risks of disclosing the results 
+of climate scenario analysis given data and methodological constraints.We propose the following language to replace 
+current Section 4.3:Context47.  When considering transparency of scenario analysis exercises, supervisors should 
+consider carefully the risks and benefits of publishing results in light of the data limitations, methodological constraints,  
+and uncertainty associated with forward-looking climate risk modeling and climate scenario 
+analysis.Recommendations48.  Recognizing these limitations, constraints and uncertainty, supervisors should limit any 
+publication of results to high-level, aggregated results and allow firms to determine if and to what extent additional 
+information regarding the results of exercises should be disclosed to the public.  49.  The publication of information from 
+analyses conducted over mid- to longer time horizons should respect and clearly state the significant uncertainty 
+surrounding those results in order to avoid misinterpretation.  50.  Supervisors could consider publishing information on 
+the scope of the exercise, the scenarios explored, the assumptions and estimates used in developing scenarios, 
+scenario caveats, data quality challenges and modeling uncertainty and limitations. Section 5 – Scenario analysis to 
+inform assessment of insurers’ risk management and governance (ICP 16) As noted in our overarching comments, the 
+Draft Application Paper reflects an overly optimistic view of the current state of climate scenario analysis.  In particular, 
+Section 5 promotes the overutilization of climate scenario analysis to inform a firm’s risk management decisions.  The 
+Draft Application Paper reflects an overconfidence in scenario analysis use cases that does not consider important 
+limitations and modeling challenges.  These realities call for a principles-based and incremental approach to climate risk 
+scenario analysis, where methodologies and approaches are still developing.  We encourage the IAIS to include in the 
+Draft Application Paper an exploration of current limitations and challenges associated with climate scenario analysis 
+and to continue to consult with industry, climate scientists, and modeling experts before progressing to a final 
+Application Paper.In managing their exposure to climate risks, insurers consider in their modeling the current impacts of
+
+climate change over the strategic business planning horizon of three to five years; that is, the business -as-usual 
+horizon.  Importantly, to properly inform business decisions, the time horizons used in climate scenario analysis must 
+align with the duration of the underlying liabilities and the characterization of the assets supporting the liabilities.  While 
+climate change is a phenomenon that materializes over a longer time horizon, some liabilities, including property 
+catastrophe liabilities, have a much shorter duration.  For longer term life insurance liabilities, insurers have deep 
+expertise in adjusting their assets and in managing reinvestment risk, for which climate change is one of many 
+considerations.  In addition, climate scenario analysis is dependent upon a number of key assumptions for 
+macroeconomic variables that are subject to considerable uncertainty over those longer -term time horizons.  Given the 
+time horizon and the degree of uncertainty, in order to be useful, climate scenarios need to reflect most likely outcomes 
+without the undue complexity introduced by extreme scenarios and stresses on extreme tail risk assumptions. Insurers 
+should have the discretion to determine how best to conduct any firm-specific climate scenario analysis exercises, both 
+in terms of the time horizon of the exercise, as well as the level of granularity.  Individual insurer climate scenario 
+exercises should focus on the climate-related financial risks that are most material to the insurer’s individual risk profile. 
+The Draft Application Paper implies that climate-related risks are material to all insurers.  (See e.g., Paragraph 67.)  We 
+do not agree with this inference.  The effects of climate change impact insurers and insurance lines of business 
+differently in terms of the nature, scope, and significance of climate-related financial risks to which they are exposed. 
+The materiality of insurers’ climate risk will depend on the lines of business, activities, portfolio exposures, investment 
+strategies, key markets and geographic footprint of a particular insurer. Further, in the assessment of the materiality of 
+climate-related risks, it may be appropriate to reflect the impacts of group-wide diversification as a risk mitigant.  A 
+materiality assessment is a first step in designing insurer exercises and should also be a precursor to any supervisory 
+exercises, although we acknowledge the added complexity of assessing the materiality of climate- related risks across 
+multiple insurers within a jurisdiction.Comments with respect to ERM framework review (Section 5.1)The discussion of 
+climate scenario analysis should note the limitations of and the unsuitability of the outcomes of these exercises for 
+informing concrete risk management and business decisions today, as discussed above.  The Draft Application Paper 
+should make a clear distinction between insurance business-as-usual climate risk management, which is very well 
+advanced (and not the topic of this Draft Application Paper) and climate scenario analysis, which has c lear limitations 
+with respect to informing risk management decisions, so as to minimize the risk of misinterpretation of the IAIS’s 
+guidance by supervisors. Paragraph 55 states that supervisors should consider the extent to which climate risk is 
+integrated into enterprise risk management.  We would revise this sentence to provide that supervisors should consider 
+the extent to which an insurer’s material exposures to climate risk are integrated into its climate risk management.    
+Moreover, a blanket statement that the outcome of scenario analysis shall define the resilience of the business strategy 
+of the insurer, providing inputs into its investment and underwriting processes and pricing, as well as testing the 
+robustness and adequacy of its solvency position, fails to take into consideration the structural limitations of this tool to 
+inform concrete business decisions as well as the materiality of climate-related risks to the insurer.  The third sentence
+
+of Paragraph 55 should be deleted; the insurer should determine whether and to what extent insights provided by 
+climate scenario analysis can and should define its short- or long-term strategy and management actions.  In some 
+cases, insights provided by climate scenario analysis may not be sufficiently reliable to inform business and risk 
+management decisions and management actions.We propose the following language for Paragraph 55:Supervisors 
+should consider the extent to which an insurer’s material exposures to climate risk are integrated into its climate risk 
+management.We propo
+
+The Geneva 
+Association 
+International -Climate change risk is an important topic for the Geneva Association and our members and insurers are playing an 
+active role in addressing climate change. As risk managers, insurers have been instrumental in increasing climate risk 
+awareness and promoting risk mitigation and prevention. -As an industry that is directly impacted by the effects of 
+climate change, managing its impacts is of great importance to us. Given the centrality of climate issues to our industry, 
+we are eager to contribute to the IAIS's efforts in this domain. 
+The Geneva 
+Association 
+International o Climate change risk is an important topic for the Geneva Association and our members and insurers are playing an 
+active role in addressing climate change. As risk managers, insurers have been instrumental in increasing climate risk 
+awareness and promoting risk mitigation and prevention.  
+ 
+o As an industry that is directly impacted by the effects of climate change, managing its impacts is of great importance 
+to us. Given the centrality of climate issues to our industry, we are eager to contribute to the IA IS's efforts in this 
+domain. 
+ 
+General comments on section 1 Introduction 
+  
+  
+General 
+Insurance 
+Association of 
+Japan 
+Japan Paragraph 1 (4th line) refers to "agreed policies", but we recognize that what has been agreed at the policy level under 
+the UNFCCC is limited. Therefore, "agreed goals" would be more appropriate.  
+ 
+We agree with what Paragraph 5 describes. While climate-related scenario analysis has great potential to be useful in 
+understanding risks in the insurance sector, it is a relatively new analysis method. Therefore, the methodology and data 
+to be used have not yet been fully established and developed toward its introduction into insurance supervision, its use 
+in specific decision making by insurance companies (e.g., underwriting and investment), and public disclosure of its 
+results. It is necessary to refine the method by exploring exercises among jurisdictional authorities and insurance 
+companies. 
+National 
+Association of 
+Insurance 
+Commissioners 
+(NAIC) 
+United 
+States of 
+America 
+• Para 7: this paragraph does not seem necessary as the first sentence just 
+restates what was said on the prior page and the second tees up para 8 and 9 –  suggest deleting. 
+• Para 10: last sentence, suggest rewording to clarify: 
+As a result, supervisors need to consider the proportionality when undertaking these exercises.
+
+American 
+Property 
+Casualty 
+Insurance 
+Association 
+United 
+States 
+The language in paragraphs 2 and 3 is too prescriptive. While we understand that application papers are not intended to 
+be guidance and are intended to discuss best practices, the paper uses words like “should” frequently, and the 
+implication is clear that supervisors and insurers are expected to employ scenario testing. We believe this is not the 
+proper function of an application paper. 
+ 
+We do believe, however, that paragraph 5’s focus on proportionality in the use of scenario analysis is entirely 
+appropriate. 
+Public Citizen United 
+States 
+Scenario analysis may underestimate climate risk due to data gaps and models’ misalignment with climate science. Due 
+to this, findings from scenario analysis are often used as an excuse for policy inaction. Supervisors should acknowledge 
+this potential underestimation of climate risk due to limited data and modeling challenges. The use of scenario analysis 
+should be proportional to the certainty and confidence in the results of exercises, and must not be treated as a 
+substitute for other more effective tools at managing climate risk, such as Paris -aligned transition plans. This 
+underscores the necessity for a precautionary approach irrespective of the outcomes of scenario analysis. The radical 
+uncertainties and existential threats posed by climate change—including those related to the irreversible nature of non-
+linear tipping points—necessitate adopting a precautionary approach. Current models inadequately capture these 
+threats, and traditional financial modeling frameworks fail to adequately address climate risk. There are profound 
+uncertainties surrounding climate change, which render accurate risk assessment challenging. Therefore, a 
+precautionary approach and other supervisory tools should be used in addition to scenario analysis to facilitate a 
+managed transition and macroprudential policy interventions that aim to mitigate systemic financial risks.  
+Finance Watch EU The draft application paper has not identified ICP 16.8.9 on liquidity risk as relevant for the scenario exercises, yet the 
+paper does mention that climate risk can be a driver of liquidity risk. This appears inconsistent and further guidance on 
+how scenario analysis could be used as part of a combined approach with stress testing, in order to better capture 
+situations such as the one referred to in the first row of Table 3 of the draft application paper.
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global Many stakeholders readily acknowledge that climate scenario analysis is subjective. GFIA’s general comment observes 
+that, for the most part, climate scenarios “reflect subjective judgements made today about future possibilities.” This view 
+is also supported by some of the commentary in the application paper, e.g. ■ Paragraph 5 of the IAIS paper 
+acknowledges this subjectivity and uncertainty, noting, “The use of scenario analysis as a supervisory tool should be 
+proportionate to the supervisor’s assessment of the current uncertainty and limitations of scenario analysis (and the 
+confidence in the validity of assumptions).” ■ Later, paragraph 34d alerts readers that “Caution should be used when 
+determining the impact to capital, given the high degree of tracking error, use of subjective assumptions, numerous 
+variables, varying time horizons, range of possible outcomes associated with each scenario and overall uncertainty of 
+scenarios.”However, the paper also endorses scenario analysis for a vast range of purposes, including: emerging risk 
+identification; business strategy development; risk appetite assessment; product pricing; capital management (albeit 
+with the caution of paragraph 34d); the management of investment, transition, underwriting, physical, liti gation, and 
+operational risks; identifying risk correlations; assessing financial stability at both the individual insurer and sectoral 
+levels; and supervisory analysis and research.  Due to the inherent subjectivity and uncertainty of this type of analy sis, 
+GFIA would reiterate the need for supervisors to be cautious and not to place overreliance on scenario analysis for risk 
+management purposes.Paragraph 1:(4th line) refers to "agreed policies", but GFIA recognises that what has been 
+agreed at the policy level under the United Nations Framework Convention on Climate Change (UNFCCC) is limited. 
+Therefore, "agreed goals" would be more appropriate.Paragraph 5:■ GFIA agrees with what Paragraph 5 describes. 
+While climate-related scenario analysis has great potential to be useful in understanding risks in the insurance sector, it 
+is a relatively new analysis method. Therefore, the methodology and data to be used have not yet been fully established 
+and maintained toward its introduction into insurance supervision, its use in specific decision making by insurance 
+companies (e.g. underwriting and investment), and public disclosure of its results. It is necessary to refine the method 
+by exploring exercises among jurisdictional authorities and insurance companies.Existing frameworks on capital 
+modelling and solvency assessments already require insurers to include all material risks. This includes climate change 
+if applicable to the company’s strategy and exposures. In addition, the existing capital framework incorp orates climate-
+related risks by reflecting higher capital charges when larger losses are incurred and when there is an increase in 
+unearned premium reserves. Beyond this, insurers themselves (and their investments) are also subject to third party 
+assessments through rating agencies which take into account many factors including an insurer’s risk management 
+framework and the impacts of risks (including climate and credit risks). As part of the rating process, the agency 
+engages in a rigorous review and will determine whether to downgrade a company (and/or its investments) based on 
+the risks and approach presented.
+
+International 
+Actuarial 
+Association 
+(IAA) 
+International In Para 1 Ihe IAA suggests inserting “likely” so the third sentence reads “It will likely result...”.The paper considers the 
+development of scenarios in places so the third sentences in Para 2 should be deleted. In Para 6, it would be better to 
+insert “foster” before “an international dialogue”. 
+Ceres United 
+States 
+The Introduction constructively positions climate change as a pivotal financial risk requiring urgent action while rightly 
+situating scenario analysis as an essential tool for surmounting existing limitations in prevailing risk assessment 
+approaches not equipped to handle complex climate dynamics. It puts forth a pragmatic roadmap for embedding 
+practices within adaptable Insurance Core Principles. Furthermore, the recognition of evolving developments across 
+climate science, data, and supervision to build resilience aptly demonstrates responsiveness to a shifting landscape. If 
+inclined towards continual refinement, the IAIS could modestly expand concepts addressing:  
+ 
+1. Interconnectedness of risks: Climate risk does more than just amplify existing risks - it fundamentally alters their 
+dynamics through complex interdependencies. Beyond direct first order impacts, significant attention should be paid to 
+cascading second and third order effects across the broader economy.  
+ 
+2. Cross-sector perspectives: In addition to insurer-specific and sector-widfe analysis, assessments should evaluate 
+climate risk transmission channels across the full financial system. Siloed thinking will prove inadequate.  
+ 
+3. Distributional impacts: Climate risk exacerbates pre-existing socioeconomic and racial disparities. Scenario analysis 
+objectives should include evaluating differential impacts on disadvantaged communities.  
+ 
+4. Transparency: Detailed results and lessons learned from analyses should be abundantly shared across regulatory  
+jurisdictions and fully disclosed to market participants to accelerate collective understanding.  
+ 
+In summary, the Introduction denotes an auspicious foundation blending rigor, restraint, and visionary leadership 
+befitting the IAIS’ globally influential standard-setting role. Positioning climate scenario analysis more explicitly as a 
+cross-cutting, decisively transparent exercise in systems thinking would further strengthen this well-developed 
+Introduction as it lays the groundwork to help safeguard financial stability as insurers navigate formidable climate risk 
+currents in the decades ahead.
+
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+n/a 
+The Geneva 
+Association 
+International - The Geneva Association's work on climate risk assessment and scenario analysis, including our publications on 
+regulatory approaches, resonates with several points in the application paper. We concur with the IAIS’s recognition that 
+climate scenario analysis still in its early stages and is an evolving tool (para 4). We also support the proportionate use 
+of scenario analysis given the uncertainty and limitations of scenario analysis (para 5).  -  We appreciate and support the 
+IAIS re-emphasising that climate change is a driver of existing risks and is not a new risk category. We also appreciate 
+the clear distinction between scenario analysis and stress testing. The AP also rightly emphasises the importance of 
+designing scenario analyses with specific objectives in mind (section 3). We also welcome the clear steer for 
+supervisors to coordinate and collaborate on climate scenario analysis exercises, particularly when used for macro-
+prudential purposes. - Importantly, insurance firms have experience in managing climate risks, e.g. on their property 
+book. Physical risks from climate change should not be conflated with this business -as-usual climate risk management 
+as part of insurance firm’s business but are to be seen as an additional risk driver on top of ex isting climate risk 
+management that materializes over the longer term. The tools required to conduct such forward- looking risk 
+assessments, e.g. climate scenario analysis, are not very well developed, and have structural constraints that limit its 
+use as for micro- and macro-prudential purposes. Paragraph 34d acknowledges some of these limitations in the context 
+of capital management; However, these limitations should be applied more broadly throughout the paper, as explained 
+below.
+
+The Geneva 
+Association 
+International o The Geneva Association's work on climate risk assessment and scenario analysis, including our publications on 
+regulatory approaches, resonates with several points in the application paper. We concur with the IAIS’s recognition that 
+climate scenario analysis still in its early stages and is an evolving tool (para 4). We also support the proportionate use 
+of scenario analysis given the uncertainty and limitations of scenario analysis (para 5).  o We appreciate and support 
+the IAIS re-emphasising that climate change is a driver of existing risks and is not a new risk category. We also 
+appreciate the clear distinction between scenario analysis and stress testing. The AP also rightly emphasises the 
+importance of designing scenario analyses with specific objectives in mind (section 3). We also welcome the clear steer 
+for supervisors to coordinate and collaborate on climate scenario analysis exercises, particularly when used for macro-
+prudential purposes. o Importantly, insurance firms have experience in managing climate risks, e.g. on their property 
+book. Physical risks from climate change should not be conflated with this business -as-usual climate risk management 
+as part of insurance firm’s business but are to be seen as an additional risk driver on top of ex isting climate risk 
+management that materializes over the longer term. The tools required to conduct such forward- looking risk 
+assessments, e.g. climate scenario analysis, are not very well developed, and have structural constraints that limit its 
+use as for micro- and macro-prudential purposes. Paragraph 34d acknowledges some of these limitations in the context 
+of capital management; However, these limitations should be applied more broadly throughout the paper, as explained 
+below. 
+ 
+Comments on section 2 Scenario analysis versus stress testing
+
+General 
+Insurance 
+Association of 
+Japan 
+Japan Paragraph 10 describes that "supervisors should ensure that scenarios are sufficiently forward -looking". However, to 
+"ensure" seems very difficult, because underwriting exposures at a future point in time, and vulnerabilities based on the 
+development of disaster prevention infrastructure at a future point in time, will continue to be uncertain. The same 
+paragraph also states that "supervisors need to consider the proportionality of exercises". We would like to confirm that 
+the intent is to continue to make improvements in consideration of complexity and feasibility.  
+National 
+Association of 
+Insurance 
+Commissioners 
+(NAIC) 
+United 
+States of 
+America 
+• Paras 15 and 19: the IAIS does not use the term “corporates” – suggest using “companies” or “insurers” depending on 
+the context. 
+• Para 18, Table 3: In the third column of the “Non-life specific” row, recommend adding “than those” to the final 
+sentence so it reads: “For instance, the move to electric vehicles will present different fire risks to vehicles than those 
+powered by combustion engines.” 
+• Para 20: IAIS material typically uses “jurisdictional” rather than “national” – suggest: 
+Transition risks will be driven by a range of jurisdictional factors... 
+American 
+Property 
+Casualty 
+Insurance 
+Association 
+United 
+States 
+We appreciate paragraph 10’s continued recognition of the need for proportionality.  
+Public Citizen United 
+States 
+In order to capture the non-linear tipping points and the existential impacts of climate risk, including tail risks from 
+extreme events, supervisors should conduct a reverse stress test scenario that results in 100% GDP loss at a given 
+temperature limit. Supplementing climate scenario analysis with a stress test will capture tail risks that may reveal 
+greater financial vulnerabilities. This will prevent supervisors from ignoring the potential long- term existential risk of 
+climate change in scenario analysis. Furthermore, short-term assessments should consider the potential for climate tail 
+risks manifesting in the near term.
+
+Finance Watch EU The distinction made between the scenario analysis and stress testing should be made clearer in terms of the 
+conclusions and actions drawn from these exercises. From the prudential perspective, the definition should be 
+consistent with the Basel Committee on Banking Standards (see footnotes 6 and 10 here: 
+https://www.bis.org/bcbs/publ/d532.pdf). The difference should also be clarified in terms of the implications of the results 
+of both exercises for defining management actions by insurers and prudential acti ons by supervisors.Paragraph 10 
+suggests that scenario analysis is well suited as a tool to capture the impacts of climate change. The same paragraph, 
+however, also qualifies this statement by pointing to the limitations of using historical data. The conclusion is perhaps as  
+contradictory as the first two statements, suggesting to create forward-looking scenarios that can capture specifics of 
+climate change, but ensuring proportionality to avoid too much burden from the complexity of the task. Essentially  the 
+overview of scenario analysis promotes them as a solution, despite pointing to a fundamental flaw in the data they 
+mostly rely on. It then also suggests that the way to overcome this is through more complex and detailed scenarios, but 
+implies that they should not be required as they would be too burdensome. For the scenario analyses to meaningfully 
+inform prudential actions and support effective risk mitigation, the scenarios, incl. underlying assumptions, should be 
+consistent with climate science. In our recent report, ‘Finance in a hot house world’ (https://www.finance-
+watch.org/publication/report-finance-in-a-hot-house-world/), Finance Watch has made three concrete recommendations 
+to improve the assessment of the economic consequences of climate change. They are: - to ensure that economic 
+models account for the specificities of climate change, including its magnitude and irreversibility; - to ensure that the 
+conclusions of economic models are compatible with the conclusions of climate science, including by rejecting the use 
+of quadratic-only damage functions in loss assessments; - and to conduct unbiased and rigorous analyses of the 
+results.Without improving these key areas, scenario analyses will provide unrealistic overviews of the possible impact of 
+climate change and have limited use to assess the associated risks.
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global Scenarios are not a future prediction and that this therefore has limitations in how they are to be used and how and to 
+whom they are disclosed. GFIA appreciates, however, the paper’s continued reference for the need for proportionality.  
+ 
+Paragraph 10:  
+■ It describes that "supervisors should ensure that scenarios are sufficiently forward- looking". However, to "ensure" 
+seems very difficult, because underwriting exposures at a future point in time, and vulnerabilities based on the 
+development of disaster prevention infrastructure at a future point in time, will continue to be uncertain. The same 
+paragraph also states that "supervisors need to consider the proportionality of exercises". GFIA would like to confirm 
+that the intent is to continue to make improvements in consideration of complexity and feasibility.  
+■ For this reason, IAIS should regard scenarios as future possibilities and not predictions of the future. Its focus ought to  
+be on whether future climate risks and their impact on underwriting or investment or supply chains have been 
+considered and if so what, if anything, has an insurer done. 
+International 
+Actuarial 
+Association 
+(IAA) 
+International In paragraph 10, first sentence, the IAA suggests rewording the first sentence to “Climate change is a driver of many 
+existing risks and is likely to give rise to new risks.  Supervisors expect…”  The current wording implies that all risks are 
+impacted materially by climate change, but that is an overstatement.  Counterexamples include pet insurance and bail 
+bonds.  In para10 it says that “supervisors should ensure that scenarios are sufficiently forward- looking …”.  We suspect 
+that some supervisors will not enter their position with sufficient expertise to accomplish this.  Should this paper suggest 
+ways that such expertise could be obtained? 
+Ceres United 
+States 
+This section provides crucial definitional clarity, delineating scenario analysis and stress testing as distinct supervisory 
+assessment methods. The distinctions noted regarding incorporating multiple risk dimensions and reflecting hypothetical 
+scenarios make clear why climate-related risks are well suited to scenario analysis. The guidance around ensuring 
+climate scenarios are sufficiently forward-looking given the emerging, non-linear nature of climate change is perceptive. 
+However, the draft paper could potentially more strongly emphasize the point that historical data has limited utility for 
+climate risk analysis and should not be unduly relied upon when considering future scenarios.  
+ 
+The acknowledgement of the significant additional complexity entailed by climate scenario development is balanced by 
+the prudent caution around proportionality and avoidance of false precision. This pragmatism, allowing for an evolution 
+in precision over time as understanding deepens, is admirable. Insurers’ existing risk t axonomy may require expansion 
+to fully capture novel transmission channels revealed by climate scenario exercises. But the draft guidance correctly 
+centers climate risk as an overarching risk driver that should permeate all existing risk categories rather than be siloed.
+
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+Though scenario analysis and stress testing are distinct exercises, scenario analysis exercises must include stress 
+scenarios in order to be useful and account for the uncertainty and risks associated with climate change. Specifically, 
+scenario analysis exercises must capture tail risks associated with catastrophic climate change. They cannot be limited 
+to scenarios that represent median risks. Tail risks must be included. The draft application paper correctly notes that 
+historic data is not a good predictor of climate risks and, therefore, scenario analysis must be forward looking. While it is 
+true that climate change is a long-term risk, there are also immediate risks and well-documented impacts today. 
+Supervisors should not ignore the possibility for significant losses to materialize over near-term horizon and should 
+include scenarios that have near-term impacts. 
+The Geneva 
+Association 
+International We appreciate and support the IAIS re-emphasising that climate change is a driver of existing risks and is not a new risk 
+category. We also appreciate the clear distinction between scenario analysis and stress testing.  
+The Geneva 
+Association 
+International o We appreciate and support the IAIS re-emphasising that climate change is a driver of existing risks and is not a new 
+risk category. We also appreciate the clear distinction between scenario analysis and stress testing.  
+ 
+Comments on section 2.1 Identifying and applying climate change risk drivers:  
+  
+  
+American 
+Property 
+Casualty 
+Insurance 
+Association 
+United 
+States 
+Paragraph 16 again uses “should” instead of less prescriptive language such as “may” in several places.
+
+Public Citizen United 
+States 
+Climate change risk drivers will be non-linear and compounding. Scenario analysis should model compounding and 
+interdependent events that occur in correlation with one another. Current versions of scenario analysis often model 
+transition and physical risks separately, making it challenging to understand their correlated impacts and feedback 
+loops. Climate change does not manifest in isolated, independent events; rather, interconnected events will arise 
+concurrently and sequentially. Scenario analysis exercises should model interdependent events, as well as second- and 
+third-order impacts. In addition, climate risks will have financial stability implications, therefore scenarios should model 
+contagion and transmission channels that will impact individual insurers and the financial system on the whole.  
+ 
+The transmission of physical and transition risk will have various networking effects and multiple feedback loops that 
+extend throughout the financial market across extended time horizons. To adequately capture this complexity, models 
+need to consider the relationship between micro- and macro- financial dynamics. Current scenario analysis models 
+often overlook correlated risks that have impacts beyond the boundaries of one insurer. A comprehensive approach 
+should entail modeling transmission channels across insurers and other financial entities to understand risks to the 
+financial system. The draft application paper does not acknowledge the link between micro-  and macro-prudential 
+exercises. Macro- and microprudential scenario analyses are interconnected, as testing the resilience of financial 
+systems under various climate-related stress conditions has repercussions for specific insurers due to contagion and 
+spillover effects, and vice versa. Simultaneously, climate-related "sub-systemic" shocks to specific insurers and sectors 
+may have implications for broader financial stability risk.
+
+Finance Watch EU This section looks at climate change as a driver of existing risk, but does not fully recognise the unique challenge it 
+poses to existing risk management frameworks. Whilst there is recognition of the need to take a longer -term view of 
+risk, the crucial question of the possible multiplying effects and impacts of different climate risks materialising 
+simultaneously or overlapping is not addressed. One crucial point here is to look at how the unforeseen or abrupt 
+materialisation of one or more of these climate related risks could cause economic disruption and a scenario where the 
+economy cannot continue to function as it does now (see page 12 of the Finance in a hot house world report 
+https://www.finance-watch.org/publication/report-finance-in-a-hot-house-world/). Paragraph 16 makes two important 
+points that should influence approaches and thinking on climate risks. Firstly the world is not on track to meet 
+internationally agreed targets and secondly insurers should take a ‘when’ and ‘how much’ rather than an ‘if’ approach to 
+assessing how they will be impacted by climate change. While the paragraph points to accelerating efforts to address 
+climate change and new technologies and approaches to address climate risk, it does not recognise the acceleration 
+and unexpected ways that climate change and the associated risks are materialising. This perspective leads to 
+downplaying the landscape of risk and is reflected in reliance on established boundaries on the potential scale of 
+climate impacts from existing scenarios. This hits to the heart of the issue that although there is agreement that the 
+probability of climate risk materialising is certain, there are still limits put on the expected economic losses, often 
+contextualised with assumptions that action will be taken to prevent ‘worse’ happening. This in turn limits the scope of 
+indicators, assumptions and the use of scenarios and raises concerns over the adequacy of the suggested supervisory 
+and internal risk management response options (as discussed in parts 4.2 and 5 of the draft application paper).    We 
+welcome the clear inclusion of litigation risk as one of the drivers of climate-related risks. However, the draft application 
+paper is largely focused on litigation risks in the insurers’ asset and underwriting portfolios, whilst only mentioning  
+briefly litigation risks from insurers’ own practices. Given the recent history of litigation cases, litigation risks related to 
+financial institutions’ own practices are growing, in particular due to insurers’ voluntary commitments and regulatory 
+obligations. These litigations risks warrant more extensive consideration in the climate scenario exercises and risk 
+assessment more broadly (refer, for example, to the publication Wetzer et 
+al.https://www.science.org/doi/10.1126/science.adj0598 and the speech by Frank Elderson ““Come hell or high water”: 
+addressing the risks of climate and environment-related litigation for the banking 
+sector”https://www.bankingsupervision.europa.eu/press/speeches/date/2023/html/ssm.sp230904~1ae5fa553e.en.html).
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global The focus on risk identification and understanding the drivers of risk is important. However, too much focus on risk and 
+little or none on the opportunities that climate change brings will provide only part of the picture.  The fact that litigation 
+is occurring as noted in 15 should also acknowledge that judicial decisions bring clarity where there is uncertainty and 
+that is beneficial for informing risk.As far as managing catastrophe risk, property/casualty insurers have proven they are 
+capable and up to the task of managing this risk. In the broader context, climate is one risk. For many insurers it may be 
+an important risk. Yet, for some insurers it may not be the greatest priority risk. As discussed elsewhere in comments, 
+there are mechanisms and established frameworks for identifying and handling risks.  The primary role of insurers is to 
+be part of a risk management solution for others. Some insurers may also work to be helpful in reducing and transferring 
+clients’ transition risks. And if in this process there are material risks to an insurer from that t ransition, that insurer can 
+assess and manage risks (as well as discuss them with regulators) through its existing processes, tools, and filings. 
+Also, it is crucial to avoid presuming that a long-time horizon (as opposed to a typical shorter business planning time 
+frame) is relevant and viable for especially property-casualty insurers. Essentially the exercise threatens to be 
+speculative; the further out in time, the less certain the situation/results. Insurers should have the flexibility to exercise 
+judgement as to how to best achieve climate-related goals. If the IAIS does elect to continue looking into this, among 
+the considerations for such efforts is consistency with fundamental standards including being flexible and principles -
+based, risk-based, insurance fundamentals focused, materiality directed, respectful of data challenges, and iterative.
+
+International 
+Actuarial 
+Association 
+(IAA) 
+International Para 11 suggests changing the first sentence to “Climate change is a driver of many existing as well as future risks.”  
+The word “many” reflects the fact that not all risks are impacted by climate change (e.g., bail bond risks).  The words “as 
+well as future” reflects the fact that not all impacts of climate change are currently present.  Various tipping points are 
+discussed in the literature regarding climate change, and where those tipping points have yet to be reached the 
+associated risks are not yet present.Table 2 – the definition of climate-related risk should mention the risk of insurers 
+being held liable. In the definition of Physical Risk, it may be clearer to start the definition with “The risk pf direct damage 
+to assets or property...”It would be better to reword the second sentence in Para 13 as “For example, certain asset 
+classes may present increased risks if they become...”.In para 14 mention of non-life insurers, the IAA suggests also 
+addressing the use of the scenario analysis tool for evaluating longer-term strategy.  That is likely to be where non-life 
+insurers will find value in this tool for longer time horizons, as longer time horizons (e.g., 25 years) are premature for us e 
+in current pricing and investment portfolio decisions.The IAA suggests that para 15 should mention that an important 
+outcome of climate litigation is damage to reputation.In para 16, the first sentence, the IAA suggests changing the end 
+of the sentence so it reads “which poses significant risks for many insurers”.  The current wording implies that climate 
+change poses significant risks for all insurers, but that is not true (e.g., pet insurance providers). In para 16, last 
+sentence, it says that insurers should also assess the need to adjust publicly available scenarios to meet their needs.  
+The implication is that such publicly available scenarios can be adjusted to meet their needs.  For some business 
+models this would be problematic due to the need for far more granularity than is available in such publicly avai lable 
+scenarios.  As a result, the IAA suggests some mention of the possibility that this may be problematic.  (As an example 
+of this need for greater granularity, some business models may entail writing only in certain areas not near coastlines or 
+major rivers, and only in certain relatively small jurisdictions.) In addition, this para suggests that supervisors should be 
+developing the scenarios rather than monitoring the scenarios used by insurers –  it should be made clear what is 
+intended here.Para 17 says that climate scenario models can help insurers build resiliency in their business models for 
+time periods spanning multiple decades.  This is not realistic for a business model that allows for 12 month policies with 
+re-underwriting, re-pricing, and the ability to change contract terms.  Where the business model deals with insuring the 
+risks from current technology, that technology changes significantly over multiple decades, making any business 
+planning beyond a decade to be not reliable.  The IAA suggests removing the term “spanning multiple decades”, or 
+caveating that phrase. (For such business models, multiple decade scenarios may have some usefulness for broad 
+strategic direction, but even then the underlying environment may change so much in even one decade that any 
+reliance on multiple decade scenarios is likely to be limited.)In Table 3, row for Non-life specific, it uses the phrase 
+“NatCat perils on liabilities”.  This is unclear for that industry sector, as existing balance sheet liabilities are  not what is 
+being discussed.  Suggest changing “liabilities” to “incurred claims”.  For short duration non- life business it is not the 
+current balance sheet that is at risk, but future earnings and claim volume, as many claims are paid within one or two 
+years such that while net assets are impacted there can be minimal impact on year -end liabilities.In the Life specific row 
+of Table 3, this should refer to Acute physical risks rather than “chronic”.  In the Health specific row. “can” should
+
+replace “will”.In para 19, first sentence, suggest changing “underwriting liabilities” to “underwriting results” or something 
+similar.  The term “liabilities” in the non-life context typically refers to a balance sheet, while what is being discussed 
+here is potential future incurred losses or underwriting results.  This current wording seems to imply a long- duration 
+business bias that does not translate well to a short-duration business model.  Climate change for a fast pay property 
+insurance business impacts net assets far more than balance sheet liabilities.
+
+Ceres United 
+States 
+This section examines the multifaceted risks climate change poses and the imperative for forward -looking analysis from 
+a holistic perspective. The guidance on leveraging scenario exercises to surface emerging risks and inform long- horizon 
+strategic decisions is prudent given climate change’s overarching systemic impacts across timescales. While avoiding 
+prescription, the paper rightly situates physical, transition, and litigation risks as inherently interlinked. This foregroun ds 
+the value of cross-dimensional scenario development attuned to transmission channels and cascading effects. Though 
+still evolving, litigation risks warrant inclusion given potentially substantial balance sheet impacts. The differentiation 
+between orderly and disorderly transition pathways well articulates rising mitigation ambition while outlining plausible 
+adverse scenarios should cooperation falter. The paper could still more assertively emphasize the limitations of 
+historical data given climate change’s nonlinear impacts. In summary, this section provides excellent definitional clarity 
+around manifold risks climate change introduces while outlining reasonable expectations for insurers to continually 
+update their climate risk identification as scenarios and science evolve. The guidance strikes a grounded balance 
+between conveying urgency while allowing room for uncertainty. 
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+The final application paper should clarify that litigation risks can also arise from claims related to insurers’ contribution s 
+to climate change as well as insurers’ climate-risk mitigation efforts (e.g., risk mitigation efforts that have disparate 
+impacts on vulnerable populations). It should also clarify that insurers may face climate-related litigation risks due to 
+failure to meet the commitments they have made or by following strategies that are inconsistent with public statements 
+regarding their plans to address climate-related financial risks.   
+ 
+Supervisors should not take steps to minimize potential legal liability by, for example, supporting legislation or 
+submitting amicus briefs in litigation to minimize liabilities. Insurers should internalize the costs of their activities, and 
+litigation is a critical mechanism for forcing them to do so. 
+ 
+ Comments on section 3 Scenario analysis objectives and scenario design (ICP 24 and 16)  
+  
+  
+Finance Watch EU Please refer to the responses to questions 6 and 7.
+
+Ceres United 
+States 
+Section 3 pragmatically delineates the range of considerations supervisors must weigh in scoping climate risk scenario 
+analyses. The guidance on aligning objectives with specific national insurance sector profiles and systemic risk 
+transmission channels is perceptive. Acknowledging resource constraints and limitations of single exercises, the paper 
+aptly suggests the strategic coordination across incremental efforts over time as capabilities advance. This avoids the 
+extremes of either complacency or overreach. The flexibility shown in accommodating multiple timescales also 
+demonstrates judicious pragmatism. However, the guidance could discuss more concretely the merits of top -down 
+versus bottom-up approaches and hybrid models for balancing standardization an d customization based on unique 
+exposure profiles. More specifics on translational methodologies may also be valuable.  That said, positioning scenarios 
+firmly within Insurance Core Principles helps solidify foundations while allowing room for innovation as practices mature 
+in this still nascent domain.  Relating objectives back to potential solvency impacts and data disclosures shows savvy 
+connections to real-world transmission channels. 
+E3G United 
+States 
+Section 3.1 Objectives of climate-related scenario analysis exercise We generally concur with the recommendations at 
+paragraphs 22 -25, noting the following qualifications: Paragraph 25: change “important” to “essential” in defining 
+objectives from the outset. 
+Paragraph 24: re-phrase to state that “climate change raises both short term and long-term risks”. 
+Paragraphs 24 & 25: Analysis of financial stability implications requires inclusion of a wide range of insurers. For 
+example, material distress at or the activities of several insurers, none of which are individually systemically important, 
+could have financial stability implications. Failure to mitigate the risks that protection gaps pose to the insurance and 
+housing sectors, could result in risk transmission to the banking sector, with macroprudential implications. 
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+n/a
+
+The Geneva 
+Association 
+International - We fully agree with the notion that scenario analyses need to be designed with specific objective in mind. We 
+appreciate to see that the application paper emphasises this point.- To the extent that supervisory authorities conduct 
+climate scenario analysis, there is potentially an important role for the IAIS to create more alignment between 
+jurisdictions. Today, supervisors employ a range of approaches, which may lead to unnecessarily duplicative and 
+redundant demands on insurers. The paper could be enhanced by outlining opportunities for regulatory coordination 
+and operational efficiency. - For example, scenario analyses should wherever possible be limited to consolidated group 
+assessments. This approach recognises the global nature of climate risks, has a clear focus on materiality to the firm 
+and avoids a fragmented approach resulting from a range of approaches at the local entity level, without generating 
+more meaningful results in terms of assessing material financial risks from climate change. -  Also, we currently see little 
+benefit in running climate scenario analysis on an annual basis, due to the long-term nature of climate change and with 
+underlying assumptions and/or scientific evidence unlikely to change frequently. -  With a view to enhance consistency 
+and comparability, we support, where possible the use of a consistent set of scenarios, e.g. NGFS, in order to align on a 
+common narrative. The scenario sets should be aligned, however, with the objectives of the analys is. Regardless of the 
+scenario set, each firm will need a degree of flexibility to tailor the scenario analysis to their business model and risk 
+profiles.
+
+The Geneva 
+Association 
+International o We fully agree with the notion that scenario analyses need to be designed with specific objective in mind. We 
+appreciate to see that the application paper emphasises this point.o To the extent that supervisory authorities conduct 
+climate scenario analysis, there is potentially an important role for the IAIS to create more alignment between 
+jurisdictions. Today, supervisors employ a range of approaches, which may lead to unnecessarily duplicative and 
+redundant demands on insurers. The paper could be enhanced by outlining opportunities for regulatory coordination 
+and operational efficiency. o For example, scenario analyses should wherever p ossible be limited to consolidated group 
+assessments. This approach recognises the global nature of climate risks, has a clear focus on materiality to the firm 
+and avoids a fragmented approach resulting from a range of approaches at the local entity level,  without generating 
+more meaningful results in terms of assessing material financial risks from climate change. o Also, we currently see little 
+benefit in running climate scenario analysis on an annual basis, due to the long-term nature of climate change and with 
+underlying assumptions and/or scientific evidence unlikely to change frequently. o With a view to enhance consistency 
+and comparability, we support, where possible the use of a consistent set of scenarios, e.g. NGFS, in order to align on a 
+common narrative. The scenario sets should be aligned, however, with the objectives of the analys is. Regardless of the 
+scenario set, each firm will need a degree of flexibility to tailor the scenario analysis to their business model and risk 
+profiles. 
+ 
+Comments on section 3.1 Objectives of climate-related scenario analysis exercise:  
+General 
+Insurance 
+Association of 
+Japan 
+Japan Scenario analysis can be conducted for a variety of purposes, such as understanding the risks of individual insurers, 
+long-term (over 30 years) impacts, macroprudential impacts, and impacts on protection gaps. However, outcomes vary 
+depending on scenario settings. To make the analysis results useful, it is extremely important to prepare in advance. It 
+is also important to set appropriate objectives, select scenarios accordingly, and reduce insurer workload when 
+designing scenarios. 
+ 
+While we believe that the participation of IAIGs is necessary for scenario analysis to understand macroprudential 
+impacts, whether it is necessary to include foreign subsidiaries within the scope should be considered depending on the 
+purpose of the scenario analysis.
+
+National 
+Association of 
+Insurance 
+Commissioners 
+(NAIC) 
+United 
+States of 
+America 
+• 3.1 subheading: typo – should be “exercises”• Para 25: first sentence, for consistency should this refer to the 
+supervisor rather than the jurisdiction? Last sentence suggest this would be an and/or: The supervisor should decide on 
+the scope of insurers to include in a scenario analysis exercise after defining the objectives. It is desirable that when the 
+aim is to analyse financial stability implications, such exercises cover at least all domestic sys temically important 
+insurers and/or locally headquartered internationally active insurance groups (IAIGs). • Table 4: last row/column, suggest 
+swapping the sentences to start with what the design may look at and then note working together in a twin peaks model.  
+Insurance 
+Europe 
+Europe • Para 22: It is important to emphasise that the objectives of the scenario should be clearly defined to be able to select 
+the appropriate scenario type.  
+ 
+• Para 25: Internationally active insurance groups (IAIGs) should not be automatically included in t he scope of all climate 
+stress tests (STs) with financial stability objectives. For example, an IAIG with globally diversified geographies would be 
+less exposed to physical risk than a (re)insurer focused on a specific region, all other things being equal.  The expected 
+materiality of the exposure to the climate risks and geographies targeted by the scenarios should be the primary 
+criterion to build the sample. 
+   
+• Table 4: The dynamic balance sheet is viewed by the IAIS as a more sophisticated approach whi ch can help build 
+capacity. However, the operational burden of developing such scenarios and modelling capabilities should not be 
+underestimated and any requirements should be subject to strict ex-ante cost/benefit analysis. Developing capacity to 
+perform fictional management actions under hypothetical assumptions is very onerous while not adding many insights to 
+the actual steering of the business in the “real world”. As a general rule of thumb, minimising the complexity of the 
+scenario analysis is going to make the results more interpretable and yield more tractable conclusions.
+
+American 
+Property 
+Casualty 
+Insurance 
+Association 
+United 
+States 
+Paragraph 22 contains a very important sentence. “It is important to clearly define the objectives of the exercise from 
+the onset.” Supervisors should be clear about the purpose of scenario analysis, and the purpose should be one that is 
+within the supervisor’s responsibility. 
+ 
+We also agree with paragraph 24’s recognition of the cost in time and resources of performing scenario analysis, and 
+the nee d for coordination with other supervisors if there is overlapping jurisdiction.  
+ 
+In paragraph 25, we ask for the second sentence to be deleted. Discussion of macroprudential analysis is misplaced 
+here, and any systemic risk analysis should be consistent with the holistic framework’s approach to risk identification.  
+Public Citizen United 
+States 
+In addition to the various purposes of scenario analysis covered in the draft application, including aiding in risk 
+management, strategic planning and organizational resilience, scenario analysis should also be used for supervisors’ 
+policy implementation, adaptation planning, and ameliorating protection gaps. Supervisors can implement policy through 
+intervention-based scenarios that define benchmarks or set targets, such as scenarios that inform the planning of Paris -
+aligned transition plans.
+
+Finance Watch EU As rightly stated in this section scenario analyses provide insights limited to what they have been created to project. In 
+other words they are a way of formalisng a hypothesis, but it is the hypothesis itself that must be tested against reality 
+and used with full knowledge of its limitations. The point raised in paragraph 29 is of particular importance here, raising 
+the limitations of historical data in capturing the full potential scale of climate impacts. Scenario design should notably 
+reflect the fact that the scenarios of temperatures rise beyond 2°C, changes to the Earth ecosystems will be irreversible 
+and the economic recovery from the damage of such changes will not be possible.    
+ 
+To the point raised in paragraph 24, scenario analyses may well require significant further time and resource investment 
+before they can be used more directly in climate risk management and supervision. As stated in our comments on 
+section 2.1 above, it is essential to acknowledge the limitation of climate scenario exercis es and the fact that they only 
+provide indications of climate-related vulnerabilities of the insurers rather than full understanding of risks and their 
+implications for the insurance sector and a wider financial system.  Whilst it would be important to continue the work to 
+improve scenario analysis, this would point to the need for precautionary prudential  measures to be put in place to 
+allow them to develop.  
+ 
+The assertion in the second sentence of paragraph 24 is more concerning, as it points to an appr oach or expectation 
+that running scenarios will allow insurers and supervisors to understand the full range of climate change impacts over 
+time. This seems both unrealistic and not a suitable avenue to pursue for risk management and supervisory purposes. 
+Given the non-linear nature of many climate-related changes and multiplier effects leading to unexpected acceleration, 
+there is a high risk that full understanding will come too late and validate the need to have acted earlier.
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global Scenario analysis can be conducted for a variety of purposes, such as understanding the risks of individual insurers, 
+long-term (over 30 years) impacts, macroprudential impacts, and impacts on protection gaps. However, outcomes vary 
+depending on scenario settings. To make the analysis results useful, it is extremely important to prepare in advance. It 
+is also important to set appropriate objectives, select scenarios accordingly, and reduce insurer workload when 
+designing scenarios. The objectives must be proportional and material to the insurer as well as to the jurisdiction for 
+which the exercise is being done.However, building capacity for the sake of it cannot be an objective of scenario 
+analysis. In Table 4, the dynamic balance sheet approach is viewed as a more sophisticated approach meant to build 
+capacity: “A dynamic balance sheet approach will allow insurers to consider the management actions they take to deal 
+with the impact of climate change, thus building capacity.” But which capacity and for what? Developing capacities to 
+perform fictional management actions under hypothetical assumptions could be very onerous while not adding much 
+insight to the actual steering of the business in the “real world”. As a general rule of thumb, minimising the complexity of 
+the scenario analysis is going to make the results more interpretable and yield more tractable conclusions. If the 
+participation of internationally active insurance groups (IAIGs) is determined by their group- wide supervisors to be 
+necessary for scenario analysis to understand macroprudential impacts, whether it is necessary to include foreign 
+subsidiaries within the scope should be considered depending on the purpose of the scenario analysis. Ideally, the 
+macro-prudential exercises are conducted on a group consolidated level given the global diversification of the 
+risks.Regarding insurer-specific scenario analysis objectives, it should be recognised that some climate scenario 
+objectives may be better addressed or already be addressed by alternative risk assessment tools. In some instances, 
+this makes climate scenario analysis costly and duplicative without providing additional insights for the 
+insurer.Paragraph 22:■ Contains a very important sentence. “It is important to clearly define the objectives of the 
+exercise from the onset.” Supervisors should be clear about the purpose of scenario analysis, and the purpose should 
+be one that is within the supervisor’s responsibility.Paragraph 24:■ GFIA also agrees with paragraph 24’s recognition of 
+the cost in time and resources of performing scenario analysis, and the need for coordination with other supervisors if 
+there is overlapping jurisdiction.Paragraph 25: ■ IAIGs should not be automatically included in the samples of all climate 
+Stress Tests with financial stability objectives. An IAIG with globally diversified geographies would be less exposed to 
+physical risk than a (re)insurer focused on a specific region, all other things being equal. The expected materiality of the 
+exposure to the climate risks and geographies targeted by the scenarios should be the primary criterion to build the 
+sample.
+
+International 
+Actuarial 
+Association 
+(IAA) 
+International In para 23, suggest changing “liabilities” to “future claim activity” or something similar.  In Table 4, first row, the “design 
+considerations” should include a caveat with regard to a static balance sheet approach.  Such an approach is less 
+useful to the extent that management action decision points are numerous during the time period being evalu ated and 
+there is a large degree of flexibility as to possible management actions.  A static approach works best where such 
+flexibility is limited (or non-existent) for a material portion of the business model and balance sheet, but can be less 
+useful in the opposite situation.  Where flexibility and opportunity for management actions is significant, a static 
+approach may be viewed as more “precisely wrong” rather than approximately right.In Table 4, third row (assets), there 
+should be mention of the following considerations that are important to the scenario design: · Duration of the fixed 
+income assets.  (A static approach over 20 years makes little sense for a bond portfolio with duration of, say, 5 years.)· 
+Liquidity of the assets.  (Assets for which there is a robust secondary market should be treated differently than illiquid 
+assets.  For example, if an insurer’s investment guidelines limit its holdings of non -investment grade assets, then it will 
+not hold an asset until default if that asset is being continually degraded.)In Table 4, fifth row (long-term impact), this is 
+missing a major consideration, namely whether the underlying business is long- term or short-term.  For annual 
+contracts, the number of management actions for projecting out even one decade make any detailed analysis very 
+unreliable.  For such business a long time horizon is only useful for broad strategic analysis, and even then such 
+analysis is extremely uncertain.  (Akin to evaluating college options for a newborn.)In Table 4, transition risk row, there 
+should also be mention of the product mix.  Different products have different exposure to transition risk. In Table 4, row 
+discussing macroprudential risks for large insurers, consistency also requires consistent approaches for comparable 
+product mixes.  Size should not be the only consideration.
+
+Ceres United 
+States 
+Ceres applauds this section’s grounded guidance on tailoring climate scenario analysis based on unique supervisor 
+mandates, sectoral profiles, and resource constraints. The emphasis on strategic coordination and sequenced 
+progression as capabilities advance over time demonstrates awareness of an evolving landscape. The guidance on 
+addressing both micro and macroprudential risks shows thoughtful consideration of transmission channels and 
+cascading impacts across the financial system and real economy. In complex cross -cutting issues like climate risk, 
+system-wide resilience requires eliminating siloed thinking.  However, we believe the paper would benefit from more 
+details of methodological specifics on balance sheet approaches, top-down versus bottom-up tradeoffs, and risk model 
+inputs/outputs to support customization. More granularity of technical translation would also be valuable. That said, 
+relating objectives back to solvency and data disclosures shows perceptive connections to real -world considerations for 
+insurers. Flexibility in accommodating unique localization dynamics is sensible given varied geographical and 
+jurisdictional risk factors. In summary, this recommendations section takes a suitably broad approach in advising on 
+process design while avoiding undue prescription. It balances ambition, standardization, and customization in a credible 
+manner befitting IAIS’ expertise.
+
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+The final application paper should clarify that supervisors should ensure that scenario analysis considers all risks 
+relevant to their mandates. Even supervisors with only microprudential mandates must consider the effect that 
+macroprudential risks will have on the safety and soundness of institutions they supervise when designing and 
+reviewing scenario analysis exercises.   
+ 
+While paragraph 24 correctly identifies climate change as a long-term risk, there are also immediate risks and impacts 
+today. Supervisors should not ignore the possibility for significant losses to materialize over near -term horizons. 
+ 
+Analysis of financial stability implications requires inclusion of a wider range of insurers than just those that are 
+individually systemically important or internationally active. For example, material distress at or the activities of several 
+insurers, none of which are individually systemically important, could have financial stability implications. As discussed 
+in Box 2 of the draft application paper, protection gaps pose risks to financial stability and can cause macroprudential 
+risks throughout the financial system, not just to insurers. For these reasons, the minimum scope of insurers that must 
+be included in scenario analysis in order to assess financial stability implications cannot be determined by the systemic 
+significance or international status of individual insurers.
+
+Comments on section 3.2 Scenario design 
+General 
+Insurance 
+Association of 
+Japan 
+Japan For the purpose of understanding macroprudential impacts, it would be appropriate to target IAIGs. However, regarding 
+to what extent their foreign subsidiaries should be included in the scope and what scenarios would be applied to these 
+subsidiaries, the purpose and intended outcomes of the exercise, as well as the burden on these insurers, should be 
+considered. 
+ 
+We agree that the scenarios to be used should be based on existing scenarios, such as NGFS scenarios. However, 
+scenarios are not yet well established and would be continually refined. In conducting scenario analysis, scenarios 
+should be firmly selected according to the exercise's objectives, the advantages and disadvantages of each scenario, 
+and the intended outcomes. In addition, when assessing the results, the uncertainties and limitations of scenario 
+analysis should be fully taken into account, as described in Paragraph 5. 
+ 
+In terms of scenario analysis disclosure, it is desirable to ensure a certain degree of consistency and comparability of 
+measurement results among insurers within each jurisdiction. From this perspective, setting a standardized approach 
+and using common models at the jurisdictional level would be worth considering.  
+ 
+Furthermore, while it is also important to strike a balance between global compara bility and region-specific factors, 
+considering the roles of IAIS and jurisdictional supervisors, what the IAIS's AP deals with in terms of scenario 
+development and risk assessment should be limited to what IAIGs are effectively required to do.  
+National 
+Association of 
+Insurance 
+Commissioners 
+(NAIC) 
+United 
+States of 
+America 
+• Para 28: last sentence suggest this would be an and/or: 
+...it is desirable that when the aim is to analyse financial stability implications, such exercises cover at least all domest ic 
+systemically important insurers and/or locally headquartered internationally active insurance groups (IAIGs). 
+• Table 5: second row, suggest deleting “such as the Bank of England” and move to footnote 10:  
+See Bank of England: [hyperlink] 
+• Table 5: third row, if ICP 24.0.3 is being quoted, then the “ie” is not needed: 
+(see ICP 24.0.3: “the risk of amplification and transmission of shocks to the financial system and real economy caused 
+by (...) collective actions of a sufficiently large number of insurers undertaking similar activities and thus exposed to 
+common risks”).
+
+Insurance 
+Europe 
+Europe • Table 5: Time horizon could be reflected through projection or crystallisation as in the case of the Bank of England. For 
+a firm or supervisor trying to quantify its exposure, the latter approach is more insightful as it requires setting less 
+assumptions and variables. The crystallisation approach allows a better understanding of the marginal contribution to 
+the risk of a smaller set of key variables and drivers. In the same vein, the dynamic balance sheet approach, implying 
+the use of future management actions in the projection, is much more complex to implement and hypothetical as a 
+result than the static balance sheet approach. Supervisors should be mindful of the fact that management actions are 
+scenario dependent. • Para 34.d: Insurance Europe highlights and strongly agrees with the IAIS’s call for caution on 
+capital impact. In particular, solvency impacts cannot determine when the design of the exercise implies a projection 
+into the medium to long-term. It should be clarified that adding a regulatory shock (e.g. a 1-200 shock in the case of 
+Solvency II) to the simulated shock assumed in the scenario would go beyond the severity of the regulatory framework. 
+Therefore, the results of such an exploratory assessment cannot be used to challenge or deter mine an insurer’s 
+required capital.In this regard, the statements 34 (b and d), 55, 78 (2nd bullet point) expectations on use of climate 
+scenario analysis to inform capital/solvency positions or pricing go too far. • Box 1: It is suggested that the Banque de 
+France example is considered for updating, as it is not up to date with the recent ACPR exercise.  
+American 
+Property 
+Casualty 
+Insurance 
+Association 
+United 
+States 
+Regarding Table 5’s discussion of “time horizon and interval of analysis”, we are very skeptical of the ability of scenario 
+analysis to provide reliable information beyond five years or so. This is especially true for non- life insurers, which write 
+6-month or annual contracts and are constantly reevaluating their risks. 
+ 
+Regarding paragraph 34(d)’s statement that “caution should be used when determining the impact to capital”, we 
+strongly agree and believe that scenario analysis should not be used to determine an insurer’s required capital.
+
+Public Citizen United 
+States 
+Financial supervisors and insurers should integrate climate scientists into the scenario analysis design process. Climate 
+scientists should be involved in creating, reviewing, and designing scenario models, including the underlying 
+assumptions, to ensure alignment with established climate science. It is crucial that models are aligned with scientific 
+narratives of physical impacts to the environment, biodiversity, and climate systems. Supervisors should collaborate 
+with climate scientists to ensure that models are aligned with these accepted climate narratives. This will enhance the 
+credibility and reliability of climate scenarios.Physical risks associated with climate change can arise from chronic or 
+acute risks. Extreme weather events like heat waves, wildfires, and hurricanes are categorized as chronic risks, while 
+gradual changes to sea levels and precipitation are considered chronic risks. Scenario anal ysis models commonly use 
+damage functions to assess physical risk. Assessing the impact of physical risks, particularly acute ones, presents 
+significant challenges for insurers due to the limited forward-looking data on the level of exposure and vulnerability to 
+various climate hazards. Damage functions commonly used in risk assessment often underestimate the financial 
+impacts of physical risks because they frequently exclude common risks associated with climate change, such as sea 
+level rise, heatwaves, and floods. When opting for descriptive rather than prescriptive physical risk shocks, the IAIS 
+should caution supervisors to use more predictable shocks with available forward -looking data. This will reduce the 
+variance of assumptions across insurers and improve the comparability of scenario results. For example, the Federal 
+Reserve’s recent bottom-up scenario exercise asks to project the impact of a hurricane in 2050 in a high-emission 
+scenario. The use of an acute physical risk poses significant challenges in ensuring uniform assumptions across 
+regulated entities regarding the hazard's intensity. Furthermore, integrated assessment models utilized in scenario 
+analysis, which model the economic impacts of both transition and physical risks, often fail to align with climate science. 
+These models suggest that significantly higher levels of global warming than the 1.5°C threshold are optimal. IAIS 
+should ensure that damage functions and integrated assessment models are aligned with the scientific understandings 
+of climate risk, including the tail or even existential risks associated with tipping points. IAIS should recommend 
+incorporating exponential and logarithmic damage functions which depicts the likelihood of triggering non- linear impacts 
+as temperatures exceed the 1.5°C threshold. This approach is aligned with climate scientists' perspective of climate 
+change as an existential and irreversible risk.To give an accurate representation of the risk to insurers’ portfolios, 
+supervisors should understand the benefits and limitations to modeling with dynamic and static balance sheets. Static 
+balance sheets do not capture managements’ decisions in given scenarios, which removes the ability to analyze 
+macroprudential implications for strategic decisions across insurers, such as rapid fire sales resulting in a “Minsky” 
+moment of financial instability. With dynamic portfolios, financial institutions can adjust their hypothetical balance sheets  
+to be consistent with desired objectives, while the alternative practice of using static portfolios is also unrealistic as 
+insurers will likely shift their underwriting and investment policies over time. Dynamic balance sheets are particularly 
+concerning if insurers are permitted to adjust balance sheets in overly optimistic way s that are unrealistic given market 
+conditions. Assumptions insurers are making about the efficacy of measures to reduce risks might not be accurate, 
+leaving outstanding risks unaddressed. In a dynamic model, management may plan to withdraw from or increas e prices
+
+in vulnerable markets as part of their climate risk mitigation strategy. Understanding these potential decisions is crucial 
+for mitigating racial disparities, including bluelining, in regards to insurers’ response to escalating climate risks. In 
+addition, modelers retain a degree of discretion when it comes to making assumptions about technological 
+advancements. Scenarios may overestimate the role of fossil fuels in the future by assuming that carbon dioxide can be 
+removed on a large scale by unproven technologies. Consequently, scenarios constructed around unrealistic 
+assumptions of the adoption of carbon capture utilization and storage technologies may underestimate climate risk. The 
+proposal should clarify that modelers should not rely on such assumptions.Lastly, the reliability of any scenario design is 
+contingent upon the specificity of the information available. As described in the draft application, climate scenario 
+analysis should not rely on historical data as this fails to account for forward-looking risks. Limited availability of granular 
+counterparty data and the lack of sufficient forward-looking sectoral, temporal, and spatial granularity in available 
+datasets presents limitations to the design of scenario exercises. Data limitations hinder t he ability to accurately assess 
+and conduct scenario analysis. Models are often unable to translate scenario shocks to specific quantified impacts to 
+particular financial instruments, sectors, and the economy writ-large due to the lack of temporal and spatial resolution of 
+climate impacts over given time horizons. There are also challenges in identifying and quantifying the multiple 
+transmission channels through which climate shocks propagate, as well as how firms respond to these shocks and the 
+extent to which costs can be passed on to customers. Consequently, scenario analysis is limited by the availability of 
+data, which should play a central role in determining the design of exercises that entities can feasibly conduct with 
+existing climate data.
+
+Finance Watch EU This section outlines a number of important considerations on the limitations of scenarios in capturing the impacts of 
+tipping points and of their reliance on historical data. It rightly points to the need to create forward- looking scenarios, but 
+misses analysis or guidance on creating realistic scenarios. A key underlying issue is the reliance of NGFS and other 
+scenarios that are based on Integrated Assessment Models (IAMs) and Computable General Equilibrium (CGE) 
+models, which rely on a general equilibrium logic. Dynamic stochastic general equilibrium (DSGE) models also rely on 
+general equilibrium theory and present a similar issue. Given the potential shock to the economic system created by 
+climate change, the hypotheses underlying general equilibrium models are not realistic. A central issue is also the 
+quadratic form of the damage function used by IAMs. The approach it takes towards temperature rises using rigged 
+assumptions is not appropriate to capture the impacts of acceleration around tipping point s. The results that using a 
+quadratic function has on GDP impact of climate change differ drastically from using exponential or logistic functions 
+(see pages 15 - 18 of the Finance in a hot house world report https://www.finance-watch.org/publication/report-finance-
+in-a-hot-house-world/).   Based on this, we agree with the words of caution with respect to using conclusion of scenario 
+analyses for assessing the potential future impact on the capital position, as expressed in the paragraph 34.d. 
+Regardless of the models used in scenarios a ‘reality check’ of the results is required to be able to use their 
+conclusions. If the scenarios and the modelling they use cannot reflect the real world then their results will have little 
+value. This should be recognised in guidance given to both insurers and supervisors to add caution on how scenario 
+analysis can be used to capture climate risk. An important element of possible scenario design pointed out in the 
+application paper is the use of reverse stress tests, which can be a useful “fix” to partially overcome the limitations of the 
+existing scenarios/underlying models to better understand climate-related vulnerabilities - a view supported by the 
+actuaries/Institute and Faculty of Actuaries (https://actuaries.org.uk/media/qeydewmk/the- emperor-s-new-climate-
+scenarios.pdf). Akin to traditional financial scenario analyses and stress testing, reverse stress testing should be made 
+a common risk management practice.With respect to the balance sheet assumptions as a scenario design choice, we 
+caution against using the dynamic balance sheet assumptions only (i.e. completely omitting the static balance sheet 
+assumption), as it will have fundamental implications for the results of the scenario analyses. Assuming that all ins urers 
+will be able to mitigate climate-related risks via changes of asset portfolio allocations and in their underwriting 
+policies/coverage, would mean, at the systemic level, that many businesses or human activities would stop being 
+insured or financed and therefore would cease altogether. This, in turn, would trigger negative spirals/second round 
+effects, and imply a general disruption of the economy and of the financial system. We refer to page 20 of the Finance 
+Watch report “Breaking the climate finance doom loop” (https://www.finance-watch.org/policy-portal/sustainable-
+finance/breaking-the-climate-finance-doom-loop/).
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global GFIA agrees that the scenarios to be used should be based on existing scenarios, such as NGFS scenarios. However, 
+scenarios are not yet well established and would be continually refined. In conducting scenario analysis, scenarios 
+should be firmly selected according to the exercise's objectives, the advantages and disadvantages of each scenario, 
+and the intended outcomes. In addition, when assessing the results, the uncertainties and limitations of scenario 
+analysis should be fully taken into account, as described in Paragraph 5.Table 5 explores several key design choices 
+which can have a material impact on the ability to derive insights from the analysis and the cost to perform it. As already 
+mentioned above, minimising the complexity of the scenario analysis is going to make the results more interpretable 
+and yield more tractable conclusions. In this light:■ The projection approach is much more complex and reliant on 
+assumptions than the crystallisation approach. For a firm or supervisor trying to quantif y risk exposures, the latter 
+approach is more insightful as it allows a better understanding of the marginal contribution to the risk of a smaller set of 
+key variables and drivers. In the same vein, the dynamic balance sheet approach, implying the use of future 
+management actions in the projection, is much more complex to implement and hypothetical as a result than the static 
+balance sheet approach. GFIA would caution supervisors to take tentative management actions considered in an 
+exercise for a prediction of recovery planning. Management actions in “real life” depend on the circumstances. In terms 
+of supervisory scenario analysis disclosure design, while it is necessary to ensure a certain degree of consistency and 
+comparability of measurement results among insurers within each jurisdiction, each firm should also be free to develop 
+their own scenarios according to their exposures and risk profile.Regarding the additional scenario design 
+considerations for insurers, these ought to be set within the specific objectives of the climate scenario. These 
+considerations may not be relevant or material for all insurers and flexibility for materiality and business model should 
+be explicitly noted. Regarding paragraph 34(d)’s statement that “caution should be used when determining the impact to 
+capital”, GFIA strongly agrees and believes that scenario analysis over the time periods discussed should not be used 
+to challenge or determine an insurer’s required capital.Para 48: On publication of the results, it is not clear what level of 
+aggregation is sought and individual disclosure should be more clearly excluded given the level of uncertainty 
+surrounding the scenario design and the results. Any public disclosure of the results of scenario analysis should be on 
+an aggregate basis only, so that confidentiality is maintained, and no insurer’s individual results are published. Scenario 
+analysis is not reliable enough for disclosure of any individual company’s results.Furthermore, while it is also important 
+to strike a balance between global comparability and region-specific factors, considering the roles of IAIS and 
+jurisdictional supervisors, what the IAIS’s application paper (AP) deals with in terms of scenario development and risk 
+assessment should be limited to what IAIGs are effectively required to do.
+
+American 
+Academy of 
+Actuaries 
+United 
+States 
+As currently drafted, the paper contains an inconsistency between the recommended climate scenarios and the 
+proposed uses of scenario analysis. Many current climate scenario sets vary by policy choice. For example, the NGFS 
+scenarios, which the paper references repeatedly, are broadly categorized into three transition types: orderly transition, 
+disorderly transition, and no transition (“hot house world”). Accordingly, if all the underlying assumptions were to 
+perfectly forecast the future of various policy choices, the NGFS scenarios would demonstrate which policy choice 
+would be best for the insurer and which policy position the insurer should support. Yet, the paper does not mention this 
+conclusion from the NGFS scenarios; instead, it recommends using scenario analysis to answer questions that the 
+scenarios themselves are not necessarily designed or intended to answer. The paper would benefit from linking 
+potential climate scenarios to the intended uses of the analysis.We are also concerned that the paper fails to sufficiently 
+address the weaknesses of static approaches and the use of longer-term time horizons when evaluating individual 
+insurers or the insurance industry. Any change in the underlying risk environment will lead to management actions from 
+insurers. The speed with which this happens is a function of the business model. Specific examples follow: 1. For 
+general insurers covering property risk from weather events, these management actions will take place every year the 
+environment changes. As a result, even a 5-year projection using static projections of the exposure of the insurer may 
+produce unreliable (and unrealistic) projections. For example, in property insurance, it is Comments on section 3.2 
+Scenario designAs currently drafted, the paper contains an inconsistency between the recommended climate scenarios 
+and the proposed uses of scenario analysis. Many current climate scenario sets vary by policy choice. For example, the 
+NGFS scenarios, which the paper references repeatedly, are broadly categorized into three transition types: orderly 
+transition, disorderly transition, and no transition (“hot house world”). Accordingly, if all the underlying assumptions were 
+to perfectly forecast the future of various policy choices, the NGFS scenarios would demonstrate which policy choice 
+would be best for the insurer and which policy position the insurer should support. Yet, the paper does not mention this 
+conclusion from the NGFS scenarios; instead, it recommends using scenario analysis to answer questi ons that the 
+scenarios themselves are not necessarily designed or intended to answer. The paper would benefit from linking 
+potential climate scenarios to the intended uses of the analysis.We are also concerned that the paper fails to sufficiently 
+address the weaknesses of static approaches and the use of longer-term time horizons when evaluating individual 
+insurers or the insurance industry. Any change in the underlying risk environment wil l lead to management actions from 
+insurers. The speed with which this happens is a function of the business model. Specific examples follow:1. For 
+general insurers covering property risk from weather events, these management actions will take place every year the 
+environment changes. As a result, even a 5-year projection using static projections of the exposure of the insurer may 
+produce unreliable (and unrealistic) projections. For example, in property insurance, it is expected that 10% - 20% of 
+insured properties will exit the portfolio annually. For medium- or longer-term time horizons, material changes in the 
+portfolio of insured properties are to be expected. Consequently, catastrophe model projections using static projections 
+as to the mix of insured properties produce largely meaningless results for longer -term time horizons.  2. A similar 
+problem exists regarding investment risk for all types of insurers. Nearly all insurers have limits on the portion of their
+
+investment portfolio that is allowed to be in non-investment-grade assets. These limits will likely be a combination of 
+internally set limits and statutorily or regulatorily set limits. As transition risks cause investments in certain asset 
+categories to be rated lower and lower, those limits force the investment portfolio to change. A static set of assumptions 
+regarding investment portfolios will therefore give an invalid projection of individual insurer’s and the insurance 
+industry’s investment risks.  The use of static approaches has value only if applied to a particular region’s total 
+exposures, serving as an indicator of where the overall market in that region would need action, such as stronger 
+building codes or new infrastructure regarding physical risks.
+
+International 
+Actuarial 
+Association 
+(IAA) 
+International In para 30, are these science-based scenarios of sufficient granularity to be of use in all supervisor efforts on climate 
+change?  Perhaps this concern could be added to the discussion.In Table 5, Scenario design row, there is mention of 
+data input not being sufficiently granular.  Mention should also be made of considering whether data output is 
+sufficiently granular.  For example, if the output for a flood risk scenario is only at the province or state level, that output 
+will not be helpful in evaluating risks restricted to areas of higher elevations within those provinces or states (or to 
+buildings built with stricter building codes).In Table 5, Time horizon row, this discussion is missing a major consideration 
+in the time horizon selection.  That missing consideration is the business model and the ability (or inability) of 
+management to adjust to changes in the environment.  For example, it did not take decades for property insurers in 
+California to adjust to a change in wildfire risk, nor did it take decades for property insurers in Florida to adjust to 
+changes in perceived hurricane risk.  Some mention should be made in this section for the ability of management to 
+adjust to changes in the environment during the chosen time horizon.In general for this section, there should be more 
+caveats with regard to the use (and limits) of static approaches for certain situations. Static approaches have a high risk 
+of error where the portfolio consists of relatively liquid (in a multi-year timeframe) assets or insurance products, as it 
+assumes management takes no actions as the environment evolves.  Such an assumption makes no sense, as it 
+assumes absent management.  The only value is to show that current practices need to change over time.  
+Ceres United 
+States 
+This section provides an excellent comprehensive overview of the multidimensional considerations underpinning climate 
+scenario design, spanning objectives, technical specifications, balance sheet assumptions, and more. The guidance 
+demonstrates sophisticated awareness of the complex translational dynamics involved. The differentiation of 
+supervisory versus insurer motivations shows thoughtful tailoring to unique risk management needs across entities. 
+However, more specifics on modelling methodologies may have been valuable to support that customization in practice.  
+ 
+ 
+Discussion of tradeoffs across timescales is notably perceptive - extended horizons better capture strategic implications 
+but near-term exercises allow more tactical precision. Highlighting challenges of behavioral predictions and non-linear 
+climate impacts also shows tempered avoidance of false confidence. Posting top- down, bottom-up, and hybrid 
+approaches highlights scenario analysis’ still-emerging nature and validates openness to experimentation alongside the 
+need for consistency; however, more concrete discussion of their relative merits would have been beneficial.
+
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+Climate scenario design requires climate scientists. Supervisors must collaborate with climate scientists in designing 
+climate scenarios and ensuring that the economic impacts are consistent with scientific understandings of the effects of 
+climate change on the planet and specific regions. Insurer-designed scenarios should be developed in consultation with 
+climate scientists or, at a minimum, be consistent with the climate science consensus. Selection and compensation 
+arrangements for climate scientists involved in these efforts must avoid conflicts of interest to ensure climate scientists 
+can challenge and overrule supervisors and insurers without fear of losing their position. Supervisors should not rely on 
+or permit insurers to use any scenarios, ready-made or adjusted, that produce or assume economic results that are 
+inconsistent with climate science. Unfortunately, many models produce economic results for scenarios involving 
+significant climate change that are not credible given the adverse impacts on habitability such scenarios would entail. 
+(See, e.g. The Emperor’s New Climate Scenarios - Limitations and assumptions of commonly used climate-change 
+scenarios in financial services  [1]). The financial system and the broader economy have been built on a natural world 
+characterized by a stable climate. Indeed, a stable climate is the foundation of and precondition for modern civilization. 
+It is simply unrealistic to assume that a climate that is significantly less conducive to human life and the natural 
+environment in which humanity has flourished will exist alongside a strong economy and resilient financial system. 
+Economic models that are not aligned with climate science and suggest that substantially higher levels of global 
+warming than the 1.5 degree celsius threshold are cost-benefit-optimal (see e.g. Policies, Projections, and the Social 
+Cost of Carbon: Results from the DICE-2023 Model [2]) should be considered not to be fit for purpose by supervisors, 
+hence excluded from scenario analysis.Scenario analysis exercises should not rely solely on dynamic balance sheet 
+designs. Static or hybrid approaches must be part of any scenario analysis exercise. Dynamic balance sheets raise 
+moral hazard problems. Specifically, they allow for insurers to dynamically increase protection gaps as a 
+microprudential de-risking. Whenever dynamic balance sheet designs are used, they must consider the macroprudential 
+risks insurers’ responses create.In addition, overly dynamic balance sheet assumptions may be overly optimist ic.  
+Insurers may not be able to adjust their balance sheets in a manner that meaningfully addresses the risks caused by 
+prior balance sheet decisions, particularly if the level of risk that insurers must address dynamically is itself 
+underestimated. As with scenario analysis more generally, dynamic balance sheet designs may create a false sense of 
+security. Catastrophic climate change is not a risk that can be managed.Supervisors should develop reverse stress 
+tests (RST) that force insurers to work backward toward a zero emission and minimum possible climate-related financial 
+risk world. Table 5 indicates that supervisors can develop RST, but development and use of RST should be used by all 
+supervisors. Standard scenario analysis and RST are complementary tools. RST enables supervisors and insurers to 
+identify potential weak points and risk concentrations. RST requires asking under what scenarios an insurer might fail. 
+This high severity outcome approach can help supervisors and insurers better understand how resilient or fragile the 
+business model is in the context of a changing climate. In addition, it may help prevent supervisors from relying primarily 
+on potentially overconfident scenarios based on economic models that significantly underestimate the ec onomic impact 
+of climate change on the economy and thus on an insurer's balance sheet. In combination with regular stress testing
+
+and scenario analysis, IAIS should make it clear to supervisors that RST must form an integral part of an institution's 
+risk assessment and “reduce the crisis short-sightedness (disaster myopia) and the associated, and possibly wrong, 
+sense of security of the decision-makers.”[3] Physical risks should not only be included in medium- to long-term 
+horizons. Certain areas are experiencing significant increases in physical risks now, contributing to rising protection 
+gaps. (See, e.g. Remarks by Secretary of the Treasury Janet L Yellen at Federal Advisory Committee on Insurance 
+Meeting [4]).—------------[1] Trust et al. (2023). The Emperor’s New Climate Scenarios Limitations and assumptions of 
+commonly used climate-change scenarios in financial servicesURL: https://actuaries.org.uk/media/qeydewmk/the-
+emperor-s-new-climate-scenarios.pd[2] Barage, L., Nordhaus, W. (2023). Policies, Projections, and the Social Cost of 
+Carbon: Results from the DICE-2023 Model. URL: 
+https://www.nber.org/system/files/working_papers/w31112/w31112.pdf[3] Eichhorn, M., Bellini, T., Mayenberger, D. 
+(2021). Reverse Stress Testing in Banking – A Comprehensive Guide. URL: 
+https://www.degruyter.com/document/doi/10.1515/9783110647907/html?lang=en [4] Yellen, J. (2023). Remarks by 
+Secretary of the Treasury Janet L Yellen at Federal Advisory Committee on Insurance Meeting. URL: 
+https://home.treasury.gov/news/press-releases/jy1375
+
+The Geneva 
+Association 
+International - Although the paper acknowledges the evolving-stage status of climate scenario analysis and some of the limitations of 
+the tool, most notably in paragraph 34d, it gives insufficient attention to these limitations throughout the paper. Instead, 
+the paper promotes a variety of uses for scenario analysis, including investment management and underwriting 
+processes (incl. pricing), risk management (incl. risk appetite statements), capital/  solvency management, business 
+strategy, and macroprudential analysis (by supervisors). The IAIS also provides descriptive indications on how firms 
+have to incorporate the outcomes of climate scenario analysis in their governance, indicating that such assessments 
+should provide an adequate basis for the assessment of overall solvency needs or to inform concrete management 
+actions based on adverse scenarios (paragraph 78). The suggested expansive use of a tool that has structural 
+limitations creates a fundamental tension within the application paper.- The Geneva Association view is that company 
+specific forward looking climate risk assessments should be aligned with the effective duration of the underlying 
+insurance liabilities to inform concrete business decisions today. But the impact of climate change is for some parts slow 
+moving while weather-related exposures can be flexibly managed and steered through limited duration of re/insurance 
+contracts (typically one-year contracts for property insurance) as well as active portfolio steering. For the same reasons, 
+such forward-looking analysis is not adequate for conclusive risk management decisions, including prudential 
+requirements, e.g., capital requirements, which are also set for a short time horizon. - While some limitations may be 
+addressed over time such as the lack of reliable data, the uncertainty regarding projections of frequency and severity of 
+insured perils and the uncertainty around climate adaptation measures taken. Other limitations, however,  are more 
+endemic, such as the uncertainty of any projection spanning multiple decades into the future. Still, such challenges limit 
+the suitability of such assessments to inform concrete business decisions such as pricing, underwriting or investment 
+decisions or capital/ solvency requirements.  We believe the paper is grounded in an assumption of an unrealistic 
+degree of precision in scenario analysis and urge the IAIS not to promote or overutilize tools for purposes for which they 
+are not necessarily well suited. Areas where we believe the IAIS has gone too far, include the following areas: § 
+Informing business strategy (paragraphs 13, 17, 27, 34, 65, 77)§ Informing risk appetite (paragraphs 74, 75, 77)§ 
+Assessing and managing capital (paragraphs 27, 34, 55, 78)§ Assessing and managing investment/ transition risks 
+(paragraphs 13, 26, 27, 58)§ Assessing and managing underwriting risks (paragraphs 14, 26, 59, 60)§ Identifying 
+climate-change related risk correlations (paragraph 72)§ Assessing financial stability implications (paragraphs 25, 26, 
+35-44)- It is in our view important to address the discrepancy between the paper’s acknowledgement of the unreliability 
+of scenario analysis and the proposed broad uses of the tool. It may therefore be more appr opriate to position the 
+application paper as aspirational, emphasizing the potential future applications of scenario analysis, while 
+acknowledging its limitations in terms of supervisory and risk management effectiveness. Concrete paragraphs that 
+merit reconsideration in line with the aforementioned limitations are: 27 (the use of scenario analysis for investment 
+portfolio and capital position); 34 (conducting scenario analyses to support pricing and capital positions); 55 (use of 
+scenario analysis for testing the robustness and adequacy of solvency positions and defining strategy); 60 (integrating 
+the results of climate scenario analysis into underwriting processes); 74 (use of scenario analysis to assess the
+
+adequacy and appropriateness of the existing risk appetite statement); 75 (SA as a tool to identify and assess the 
+robustness of their risk appetite statement); 78 (providing Board with scenarios that provide an adequate basis for the 
+assessment of overall solvency needs).  - Table 5 highlights various considerations involved with the design of scenario 
+analysis. Our view is that company-specific forward-looking climate risk assessments should be aligned with the 
+effective duration of the underlying insurance liabilities. Accordingly, the time horizon of scenario analysis for property 
+and casualty business should be shorter than the time horizon for life insurance business. This principle is insufficiently 
+addressed in the paper.
+
+The Geneva 
+Association 
+International o Although the paper acknowledges the evolving-stage status of climate scenario analysis and some of the limitations of 
+the tool, most notably in paragraph 34d, it gives insufficient attention to these limitations throughout the paper. Instead, 
+the paper promotes a variety of uses for scenario analysis, including investment management and underwriting 
+processes (incl. pricing), risk management (incl. risk appetite statements), capital/ solvency management, business 
+strategy, and macroprudential analysis (by supervisors). The IAIS also provides descriptive indications on how firms 
+have to incorporate the outcomes of climate scenario analysis in their governance, indicating that such assessments 
+should provide an adequate basis for the assessment of overall solvency needs or to inform concrete management 
+actions based on adverse scenarios (paragraph 78). The suggested expansive use of a tool that has structural 
+limitations creates a fundamental tension within the application paper.o The Geneva Association view is that company 
+specific forward looking climate risk assessments should be aligned with the effective duration of the underlying 
+insurance liabilities to inform concrete business decisions today. But the impact of climate change is for some parts slow 
+moving while weather-related exposures can be flexibly managed and steered through limited duration of re/insurance 
+contracts (typically one-year contracts for property insurance) as well as active portfolio steering. For the same reasons, 
+such forward-looking analysis is not adequate for conclusive risk management decisions, including prudential 
+requirements, e.g., capital requirements, which are also set for a short time horizon. o While some limitations may be 
+addressed over time such as the lack of reliable data, the uncertainty regarding projections of frequency and severity of 
+insured perils and the uncertainty around climate adaptation measures taken. Other limitations, however, are more 
+endemic, such as the uncertainty of any projection spanning multiple decades into the future. Still, such challenges limit 
+the suitability of such assessments to inform concrete business decisions such as pricing, underwriting or investment 
+decisions or capital/ solvency requirements.  We believe the paper is grounded in an assumption of an unrealistic 
+degree of precision in scenario analysis and urge the IAIS not to promote or overutilize tools for purposes for which they 
+are not necessarily well suited. Areas where we believe the IAIS has gone too far, include the following areas: § 
+Informing business strategy (paragraphs 13, 17, 27, 34, 65, 77)§ Informing risk appetite (paragraphs 74, 75, 77)§ 
+Assessing and managing capital (paragraphs 27, 34, 55, 78)§ Assessing and managing investment/ transition risks 
+(paragraphs 13, 26, 27, 58)§ Assessing and managing underwriting risks (paragraphs 14, 26, 59, 60)§ Identifying 
+climate-change related risk correlations (paragraph 72)§ Assessing financial stability implications (paragraphs 25, 26, 
+35-44)o It is in our view important to address the discrepancy between the paper’s acknowledgement of the unreliability 
+of scenario analysis and the proposed broad uses of the tool. It may therefore be more appropriate to position the 
+application paper as aspirational, emphasizing the potential future applications of scenario analysis, while 
+acknowledging its limitations in terms of supervisory and risk management effectiveness. Concrete paragraphs that 
+merit reconsideration in line with the aforementioned limitations are: 27 (the use  of scenario analysis for investment 
+portfolio and capital position); 34 (conducting scenario analyses to support pricing and capital positions); 55 (use of 
+scenario analysis for testing the robustness and adequacy of solvency positions and defining strategy); 60 (integrating 
+the results of climate scenario analysis into underwriting processes); 74 (use of scenario analysis to assess the
+
+adequacy and appropriateness of the existing risk appetite statement); 75 (SA as a tool to identify and assess the 
+robustness of their risk appetite statement); 78 (providing Board with scenarios that provide an adequate basis for the 
+assessment of overall solvency needs).  o Table 5 highlights various considerations involved with the design of scenario 
+analysis. Our view is that company-specific forward-looking climate risk assessments should be aligned with the 
+effective duration of the underlying insurance liabilities. Accordingly, the time horizon of scenario analysis for property 
+and casualty business should be shorter than the time horizon for life insurance business. This principle is insufficiently 
+addressed in the paper.
+
+Finance Watch EU ‘Box 2’ on protection gaps outlines important areas for supervisors and insurers to assess as part of their climate risk 
+management. Similar issues over the use of historic protection gap data and limitations of existing models are also 
+relevant here. Scenario analysis could be useful to foster broader policy discussion, by investigating the availability and 
+affordability of insurance under different scenarios. The wording of the section on the financial stability/systemic risk 
+implications of climate change and the insurance sector should be strengthened to: 1) highlight the implications beyond 
+protection gaps; 2) highlight the large scale disruptions of the economic activities which will result from protection gaps 
+(beyond increased credit risk to the banks and fiscal risks), as many economic activities will simply not be take place in 
+the absence of insurance coverage (e.g. international trade and supply chain disruptions).  
+Ceres United 
+States 
+As an organization focused on mobilizing capital market leadership on climate risk, Ceres strongly supports the paper’s 
+positioning of climate scenario analysis as an essential macroprudential supervisory tool. Rigorously assessing 
+systemic risks and interconnectedness is vital. We particularly endorse the attention on possible protection gaps which 
+could disproportionately impact disadvantaged communities and amplify inequality. Transparently assessing and 
+addressing gaps through collaborative policy solutions must be an urgent priority.   
+ 
+Additionally, the emphasis on disclosure requirements and transparency shows astute understanding of disclosure’s 
+pivotal role driving climate risk awareness, accountability, and continual progress across public and priv ate sector 
+financial institutions alike.   
+ 
+However, successfully realizing disclosure’s immense potential requires further specification around consistent, 
+decision-useful reporting standards, accessible methodological resources, sustained capability buil ding and aggressive 
+timelines matching the scale of the climate emergency. In summary, this section puts forth a balanced vision for 
+macroprudential supervision assessing potential financial stability risks holistically while centering equitable consumer 
+resilience. Concrete implementation efforts must rapidly follow to translate guidance into on- the-ground impact as 
+threats escalate. Delay invites unnecessary risk given the stakes involved for both institutional solvency and community 
+prosperity.
+
+E3G United 
+States 
+Section 4-1 Assessing systemic importance (ICP 24.3) We generally concur with the recommendations in paragraph 37 
+& 38. We concur with the observation contained in paragraph 36 notes that supervisors need to assess the potential 
+systemic importance of the insurance sector as a whole.   In addition, we concur with the spirit of the recommendations 
+in paragraph 37 & 38 to provide supervisors with flexibility in the scoping of scenario analysis, especially to gain a better  
+understanding of risks across the financial system.Emerging risks across the financial system include the global growth 
+of protection gaps noted in the IAIS’s call to action, especially because. negative impacts will be borne 
+disproportionately by vulnerable populations. The NGFS noted that “…the NGFS scenarios provide clear evidence that 
+early action delivering an orderly transition to achieve global net zero emissions by 2050 is the optimal pathway for 
+minimizing climate-related risks and losses.  Insurers’ own underwriting of, and investment in, fossil fuel activities 
+contribute to the very climate-related risks that are now causing insurers to reduce and/or eliminate coverage. 
+Paragraph 37 should be amended to reflect more definitively that supervisors “should” include climate risks 
+considerations through climate-related scenario analysis exercises in scope of their quantitative analyses –  considering 
+both inward and outward risks. – as required under ICP 24.2” (footnote omitted). Supervisors should include climate risk 
+considerations through climate-related scenario analysis and consider both inward and outward risk. 
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+n/a
+
+The Geneva 
+Association 
+International This section describes various macroprudential purposes for which climate scenario analysis might be useful. The 
+meaning of systemic risk in this context requires clarification. The FSB defines systec risk as a threat to the entire 
+financial system, “the risk of disruption to the flow of financial services that is caused by an impairment of all or parts of 
+the financial system and has the potential to have serious negative consequences for the real economy” . While climate 
+change undeniably poses risks to societies globally, to date, the linkages between climate change, the insurance sector 
+and impairment of the financial system are unsubstantiated. Also, the paper should keep in mind that while systemic 
+risks are usually in relation to a fast-moving threat, climate change is a much slower phenomenon. For example, it is 
+unclear how the impact of climate risk on asset values might create a fire sale risk such as what was experienced during 
+the 2008 financial crisis. Also, there are differences in the composition of the investment portfolio between banks and 
+insurers that the IAIS should take into consideration in its approach, with insurers investment portfolios being driven by 
+asset liability management and hence hold significant assets in government bonds that have a different exposure to 
+climate related transition risks. Importantly, the IAIS’s Global Insurance Market Report (GIMAR) published in September 
+2021 concluded that the insurance industry was well-positioned to withstand potential losses related to climate relevant 
+investments. Considering this, the IAIS should focus on the micro prudential management of risk by individual firms 
+rather than macroprudential threats to the financial system. 
+The Geneva 
+Association 
+International o This section describes various macroprudential purposes for which climate scenario analysis might be useful. The 
+meaning of systemic risk in this context requires clarification. The FSB defines systec risk as a threat to the entire 
+financial system, “the risk of disruption to the flow of financial services that is caused by an impairment of all or parts of 
+the financial system and has the potential to have serious negative consequences for the real economy” . While climate 
+change undeniably poses risks to societies globally, to date, the linkages between climate change, the insurance sector 
+and impairment of the financial system are unsubstantiated. Also, the paper should keep in mind that while systemic 
+risks are usually in relation to a fast-moving threat, climate change is a much slower phenomenon. For example, it is 
+unclear how the impact of climate risk on asset values might create a fire sale risk such as what was experienced during 
+the 2008 financial crisis. Also, there are differences in the composition of the investment portfolio between banks and 
+insurers that the IAIS should take into consideration in its approach, with insurers investment portfolios being driven by 
+asset liability management and hence hold significant assets in government bonds that have a different exposure to 
+climate related transition risks. Importantly, the IAIS’s Global Insurance Market Report (GIMAR) published in September 
+2021 concluded that the insurance industry was well-positioned to withstand potential losses related to climate relevant 
+investments. Considering this, the IAIS should focus on the micro prudential management of risk by individual firms 
+rather than macroprudential threats to the financial system.
+
+General 
+Insurance 
+Association of 
+Japan 
+Japan In order to understand systemic risks, it is important to develop scenarios that take into account issues at both the 
+national and international levels. However, it is assumed, for example, that scenario analysis to measure impacts across 
+multiple sectors at the national level involves considerable complexity. Therefore, when conducting scenario analysis 
+exercises, careful consideration should be given to balancing intended outcomes and workload, as well as feasibility.  
+ 
+The impact of risk concentration on reinsurance is greatly influenced by the underwriting policies and management 
+decisions of insurers (cedents) and reinsurers, as well as by trends in the global reinsurance market and capital markets 
+as represented by cat bonds. Effective scenario analysis requires scenario design that takes these  factors into account. 
+Principles for 
+Responsible 
+Investment 
+United 
+Kingdom 
+The PRI welcomes and supports the recommendation for supervisors to analyse climate -related factors as systemic 
+risks and to coordinate with other supervisors across jurisdictions and with regional or global insurance standard setters. 
+Although the first approaches to climate risk in the insurance sector focused on potential impacts on single- location 
+assets such as real estate or infrastructure, it is increasingly clear that climate impacts are occurring in every industry 
+across the economy. Rising temperatures are altering weather patterns, water availability, and biodiversity across 
+regional and national boundaries and in ways that affect the entire context of econom ic activity. For example, in recent 
+years, low water levels in many rivers around the globe have led to increases in the cost of transport and decreases in 
+hydropower production. While the specific impact of each of these phenomena on any particular insurer’s business will 
+be challenging to evaluate, it is essential that supervisors work to develop a comprehensive global understanding of the 
+systemic impact of climate change on the insurance industry as a whole.
+
+National 
+Association of 
+Insurance 
+Commissioners 
+(NAIC) 
+United 
+States of 
+America 
+• Para 36: for clarification, suggest quoting the ICP material:ICP 24.3 requires supervisors to have “an established 
+process to assess the potential systemic importance of both individual insurers and the insurance sector” . In particular, 
+guidance under ICP 24.3.3 states that, as part of their assessment under ICP 24.3, supervisors “should consider 
+emerging developments that may affect the insurance sector’s risk exposures”. • 4.1.1 subheading: IAIS material 
+typically uses “jurisdictional” rather than “national” – suggest:Challenges at a jurisdictional level• Para 39: a) For 
+instance, this could be addressed by developing a cross- agency standing committee or a similar structure for 
+information sharing and joint analyses.b) In this case, the two authorities could strive to share information and 
+collaborate to discuss findings and formulate strategies.• Para 40: second sentence, suggest rewording as this is not 
+something that currently exists:This is may be a useful exercise to the extent it reduces the number of overlapping 
+requests that insurers receive...• Para 44: Comments on the second and forth bullets - Transition risk specific to:carbon-
+intensive assets concentrations (whether in fixed income or equity investment) and their associated credit quality. This 
+has the potential to be both a micro and macroprudential risk;- Reinsurance: given ... (eg reducing coverage for certain 
+primary insurers in specific jurisdictions, increasing prices). Scenario analysis should critically challenge assumptions to 
+understand what impact climate change will have on different parts of the insurance sector. • Box 2: while the material in 
+this box provides a good description of how scenario analysis may help with protection gaps, it is not clear why this is in 
+a blue example box, which are typically used in IAIS material for jurisdictional examples, and exampl es that are much 
+shorter. Also it’s not clear how this necessarily relates to systemic importance which is the subject of this section. 
+Suggest making this material a (sub)section of paper where most relevant and numbering the paragraphs which will 
+help readability.• Box 2: Impact on policyholders: As climate change impacts physical risk in the form of increasing 
+frequency and severity of losses from weather extremes, insurers could decide to reprice their products to reflect the 
+change in risk. This could lead to a decline in the affordability of property catastrophe lines and reduced adoption as 
+individuals and businesses are priced out of the market. A sufficiently material increase in physical risks could reduce 
+insurers’ risk appetite. Insurers may reduce their exposure to certain geographies or perils, which could lead to an exit 
+or substantial reduction inthe availability of catastrophe insurance cover. This may also apply to other lines of business. • 
+Box 2: last subsection, first bullet – IAIS material typically uses “jurisdictional” rather than “national” – suggest:To create 
+a jurisdictional climate peril map...
+
+American 
+Property 
+Casualty 
+Insurance 
+Association 
+United 
+States 
+We are very skeptical about the use of scenario analysis on a cross-sectoral basis, as paragraph 39 appears to 
+envision. The insurance industry (and different parts of the industry, such as non- life vs. life) is too different from the 
+banking industry or non-bank financial institutions. 
+Public Citizen United 
+States 
+The proposal usefully acknowledges that risks of systemic importance include not only risks to the safety and 
+soundness of individual insurers, but also risks to the insurance sector more broadly. As the Financial Stability 
+Oversight Council of the US observes in its 2023 Annual Report, as insurance increasingly becomes less accessible in 
+climate vulnerable areas, financial risks will flow to consumers, then to lenders and investors and others. Ultimately, 
+costs will fall to taxpayers and the financial system. Moreover, threats to the financial system could occur not only 
+through the interconnectedness of these entities, but also through the heightened inequality that will result from the lack 
+of access to insurance. Marginalized and BIPOC communities will be disproportionately impacted, given that they 
+disproportionately live in climate vulnerable areas and are more likely to lose insurance as a result. Scenario analyses 
+designed to address macro concerns should consider these concerns. 
+Finance Watch EU The assessment of areas of risk concentration is important and identifies some key areas. The transition risk 
+assessment on carbon intensive assets is particularly important, given that it requires the ‘inwards and outward’ looking 
+approach. A difficult point here is how to capture concentration risks in carbon-intensive assets in other parts of the 
+financial industry. Insurers and some other financial institutions may start reducing exposures to carbon- intensive 
+assets, but other parts of the industry pursue a different strategy (see https://www.ft.com/content/ed11c971-be02-47dc-
+875b-90762b35080e and pose a risk to both insurers directly involved with them or to the system as a whole.  
+ 
+Box 2 is also particularly important considering that the results of climate scenario exercises in the insurance sector 
+should feed similar exercises in other sectors, in particular banks, to understand the systemic implications of insurance. 
+This could cover scenarios such as what implications mass withdrawals or rises in the price of insurance will have for 
+banks' lending. It could also look at whether the burden of insured losses will be pushed onto public budgets.
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global To understand systemic risks, it is important to develop scenarios that consider issues at both the national and 
+international levels. However, it is assumed, for example, that scenario analysis to measure impacts across multiple 
+sectors at the national level involves considerable complexity. Therefore, when conducting scenario analysis exercises, 
+careful consideration should be given to balancing intended outcomes and workload, as well as feasibility. The impact of 
+risk concentration on reinsurance is greatly influenced by the underwriting policies and management decisions of 
+insurers (cedents) and reinsurers, as well as by trends in the global reinsurance market a nd capital markets as 
+represented by cat bonds. Effective scenario analysis requires scenario design that takes these factors into account. Box 
+2 goes into extensive detail on how supervisors could use scenario analysis to understand potential protection gaps 
+within the context of systemic risk, even though protection gaps should not be considered first in relation to systemic 
+and financial stability risk. Within the realm of climate scenario analysis, many of the outcomes discussed in Box 2 must 
+be considered 3rd-order (climate risk making insurance unavailable/unaffordable, lowering mortgage values, increasing 
+bank credit risk) or even 4th-order (climate risk lowering insurers ability to issue new business, increasing protection 
+gaps, causing government to step in as insurers of last resort, increasing sovereign credit risk) effects of climate risk, 
+rather than the typical 1st-order (physical risk) or 2nd-order (transition risk) effects. Given the modelling challenges and 
+assumption uncertainties for just these 1st- and 2nd-order climate risk effects, scenario analysis should not be assumed 
+to be useful or reliable for assessing these 3rd- and 4th-order effects. As noted in our response to question #1, 
+supervisors must exercise caution about conclusions they may draw and certainly should not consider public 
+disclosures or interventions either at a macro or micro level based solely on the learnings from an exploratory climate 
+scenario exercise.To the extent the suggested addition may also imply that climate-related financial risk is a systemic 
+risk to the insurance sector, GFIA would disagree. Indeed, at present there is not sufficient evidence that climate-
+financial risk currently threatens the solvency of property-casualty insurers. Further, climate-financial risk is not 
+consistent with common notions of systemic risk in which major concerns may develop quickly and have cascading 
+impacts.
+
+International 
+Actuarial 
+Association 
+(IAA) 
+International In para 37, the current wording is not clear for non-life insurers where the phrase “in terms of assets and liabilities” is 
+used.  The term “liabilities” for such insurers would imply a balance sheet value, while what is meant in the non- life 
+context appears to be incurred losses.  In para 44, the current wording is not clear for non- life insurers where the phrase 
+“underwriting liabilities” is used.  The term “underwriting liabilities” for such insurers would imply a balance sheet value,  
+while what is meant in the non-life context appears to be incurred losses.  Alternatively, a phrase such as “claim 
+exposures” could be used.In para 44, last bullet point, last sentence, suggest changing “will have” to “may have”.  The 
+word “will” seems to be too strong for scenario analysis modelling in this case.In Box 2, at the end of page 19, it says 
+that “insurers could decide to reprice their products to reflect the change in risk”.  The word “could” is too weak.  An 
+insurer that did not reprice its products to reflect a change in risk would be viewed as being mismanaged.  Suggest at a 
+minimum to change “could” to “will likely”.Grammar – In Box 2 on page 20, third bullet under “Financial stability 
+considerations”, “incur” should be “incurs”.In Box 2, top of page 21, should there have been some mention of Insurance 
+Linked Securities (e.g., Cat Bonds)?In Box 2, bottom of page 21, suggest adding a definition of this term, as it appears 
+to be a concept created in Europe but without an analog in some parts of the world.  See 
+https://www.thomsonreuters.com/en-us/posts/investigation-fraud-and-risk/sec-double-materiality-climate/ 
+Ceres United 
+States 
+This section ably positions scenario analysis as an insightful tool for evaluating insurers’ potential systemic importance. 
+The emphasis on assessing risk concentrations and spillover effects spotlights the value of cross -sectoral visibility to 
+understand climate risks’ broader interconnectivity. While avoiding explicit policy advice, highlighting possible protection 
+gaps demonstrates thoughtful consideration of consumer impacts alongside financial stability risks. Guidance around 
+coordination complexities also shows awareness of practical constraints across regulatory mandates and national 
+borders that could hamper effective oversight. However, specifics on methodologies to assess distributional impacts 
+may be beneficial.  Concrete suggestions for international coordination deserve more elaboration given global risk 
+factors affecting internationally active insurance groups.  Overall, this section aligns firmly with the IAIS’ mission of 
+promoting fair, safe, stable insurance markets amidst climate uncertainty.
+
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+Paragraph 36 notes that ICP 24.3 requires supervisors to assess the potential systemic importance of the insurance 
+sector as a whole. Given the role of insurance and the systemic risks of protection gaps, supervisors cannot meet the 
+requirements of ICP 24.3 if scenario analysis is limited to insurers that are individually systemically important or that are 
+internationally active. The scope of scenario analysis exercises must be broader to fully consider the systemic risk of the 
+insurance sector as a whole.Paragraph 38 contemplates a more limited scope of scenario analysis, stating that “the 
+focus of the scenario analysis can be on the insurance industry as a whole, or on a selection of insurers that are 
+identified based on specific criteria.” It is unclear how supervisors can satisfy the ICP 24.3 requirement without  
+considering the insurance industry as a whole. This language is inconsistent with pars. 35- 36. In addition, scenario 
+analysis should consider other financial sectors as well. Insurer distress and mitigation efforts (e.g., canc elling policies 
+in high-risk areas leaving lender collateral unprotected) may have systemic effects throughout the financial system 
+which then rebound to insurers.We are extremely concerned about protection gaps. The negative impacts will be borne 
+disproportionately by vulnerable populations. Insurers’ underwriting of and investment in fossil fuel activities have 
+contributed to the climate-related risks that are now causing insurers to reduce coverage. In other words, increasing 
+protection gaps are due to insurers’ attempts today to mitigate the risks their previous actions have created. The effects 
+are likely to worsen over time. Ordinary people will be affected most directly and immediately. Protection gaps also 
+contribute to financial instability. We also reiterate our concerns that dynamic balance sheet designs may rely on 
+increasing protection gaps as a de-risking strategy. Such an approach assumes that individual insurers can avoid risks 
+by increasing protection gaps and, therefore, financial risk borne by others.Paragraph 37 states, “Supervisors may 
+include climate risks considerations through climate-related scenario analysis exercises in scope of their quantitative 
+analyses – considering both inward and outward risks – as required under ICP 24.2” (footnote omitted). Supervisors 
+should include climate risk considerations through climate-related scenario analysis and consider both inward and 
+outward risk. The IAIS should make this a clear expectation for supervisors. Similarly, scenario analysis should be used 
+to better understand the risks from loss of affordable coverage options. Of course, these efforts should be undertaken 
+with an understanding of the limitations of scenario analysis.The discussion at paragraphs 39-42 on collaboration 
+among supervisors is welcome but should be strengthened. Authorities in twin peaks models should share information 
+and information sharing across teams within unitary authorities is not just “important” but essential. Insurance 
+supervisors should also ensure they are receiving information on potential spillovers from other sectors to insurance. 
+International coordination, including with respect to scenario analysis, is particularly necessary for the supervision of 
+internationally active insurance groups.
+
+The Geneva 
+Association 
+International - The meaning of systemic risk in this context requires clarification. Traditionally, systemic risk has been understood as 
+a threat to the entire financial system, “the risk of disruption to the flow of financial services that is caused by an 
+impairment of all or parts of the financial system and has the potential to have serious negative consequences for the 
+real economy” . While climate change undeniably poses risks to societies globally, to date, the link between climate 
+change and material insurance-generated systemic risk within the insurance sector is unproven. For example, it is 
+unclear how the impact of climate risk on asset values might create a fire sale risk such as what was experienced during 
+the 2008 financial crisis.- We do, however welcome the clear steer for supervisors to coordinate and collaborate on 
+climate scenario analysis exercises, particularly when used for macro-prudential purposes. 
+The Geneva 
+Association 
+International o The meaning of systemic risk in this context requires clarification. Traditionally, systemic risk has been understood as 
+a threat to the entire financial system, “the risk of disruption to the flow of financial services that is caused by an 
+impairment of all or parts of the financial system and has the potential to have serious negative consequences for the 
+real economy” . While climate change undeniably poses risks to societies globally, to date, the link between climate 
+change and material insurance-generated systemic risk within the insurance sector is unproven. For example, it is 
+unclear how the impact of climate risk on asset values might create a fire sale risk such as what was experienced during 
+the 2008 financial crisis. 
+ 
+o We do, however welcome the clear steer for supervisors to coordinate and collaborate on climate scenario analysis 
+exercises, particularly when used for macro-prudential purposes. 
+ 
+Comments on section 4.2 Supervisory response (ICP 24.4)
+
+General 
+Insurance 
+Association of 
+Japan 
+Japan Throughout this AP, but especially in the second sub-paragraph of Paragraph 46 c. "Scenario analysis to inform further 
+scenario exercises", there is an emphasis only on quantification. While we do not deny the importance of quantitative 
+information, we believe that there is also a risk in overconfidence in quantitative information obtained by a particular 
+model. As Paragraph 63 refers to qualitative information, we suggest that the usefulness and complementarity of 
+qualitative information be added in Paragraph 46.Where there are common issues identified across a number of 
+insurers within a jurisdiction, it is useful to share best practices in and out of the jurisdiction regarding individual insurers' 
+issues.As for climate change financial disclosure requirements, to ensure global comparability, it is desirable to comply 
+with IFRS S1 and S2, which were developed to be a global baseline. 
+National 
+Association of 
+Insurance 
+Commissioners 
+(NAIC) 
+United 
+States of 
+America 
+• Para 46: rather than one paragraph, suggest converting a,b,c,d into 4.2.1, 4.2.2, etc and number the paragraphs to be 
+more consistent with the paper’s formatting elsewhere and improve readability.  
+• Para 46: a) third para, suggest splitting into two sentences for better readability:  
+Further work may take a macroprudential perspective. For, instance, scenario analysis may highlight climate change 
+risk concentrations across the sector and, therefore, could be a useful early indicator for the need to undertake further 
+thematic supervisory activity. 
+• Para 46: c) first para, in the phrase “volatile and changing nature” consider whether both ‘volatile” and “changing” are 
+necessary, as they may be somewhat redundant: ..., show the volatile nature of climate risks ...  
+Second para, suggest using more open wording: 
+Conducting follow-up scenario analysis exercises may allow supervisors to observe 
+Insurance 
+Europe 
+Europe • Para 46: “Finally, further action may be needed to address insurer-specific issues, highlighted by the scenario 
+analysis. This may include weak integration of climate risk into ERM. Here supervisors should consider whether 
+individual remediation plans need to be developed.” Individual supervisory measures should be commensurate with the 
+fact that scenario analysis relies on a set of hypothetical assumptions and possible outcomes taken from an infinite 
+range of hypothetical assumptions and possible outcomes. 
+Public Citizen United 
+States 
+The primary objective of climate scenario analysis should be to enhance supervisory practices. While scenario analysis 
+likely underestimates climate risk, results may be used to evaluate capital adequacy to reflect underlying climate risks. A 
+supervisory response to the findings of climate scenario analysis should integrate climate risk into supervisory 
+expectations in a meaningful manner. Additionally, supervisors can utilize scenario analysis for policy implementation by 
+adopting a target-seeking approach.
+
+Finance Watch EU If scenario analyses are improved, as outlined in the response to questions 1 & 3, then they should be able to provide a 
+good basis for supervisors to identify vulnerabilities and risk exposures that require further action. In this case the 
+further supervisory and policy work outlined in paragraphs 46.a. and 46.d. is par ticularly important. Most importantly, 
+policy and supervisory work to address the climate-related risks should proceed in parallel with the advancements in 
+conducting climate scenario analyses. Delaying prudential action will only increase the risk of delayed and disorderly 
+transition, which in itself has been widely recognised by the supervisors as a major source of systemic risk.  
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global Throughout this AP, but especially in the 2nd sub-paragraph of Paragraph 46 c. “Scenario analysis to inform further 
+scenario exercises”, there is an emphasis only on quantification. While GFIA does not deny the importance of 
+quantitative information, GFIA believes that there is also a risk in overconfidence in quantitative information obtained by 
+a particular model. As Paragraph 63 refers to qualitative information, GFIA suggests that the usefulness and 
+complementarity of qualitative information be added in Paragraph 46.Where there are common issues identified across 
+a number of insurers within a jurisdiction, it is useful to share best practices in and out of the jurisdiction regarding 
+individual insurers' issues.Section 4.2.b ought to distinguish between disclosures from insurers to supervisors, 
+disclosures from supervisors to other stakeholders, and disclosures from insurers to other stakeholders. Further, it 
+should be recognised that certain types of disclosure, including those related to climate scenario analysis, may affect 
+the assumptions and methods used and ultimately undermine the effectiveness of scenario analysis as a climate risk 
+management tool.Section 4.2.c, on scenario analysis informing further scenario analysis, seemingly assumes that 
+scenario analysis is always a beneficial climate risk assessment tool, and that further scenario analysis can fix the 
+limitations in earlier scenario analysis exercises. This should not be assumed and should be balanced with the 
+recognition that scenario analysis could inform the conclusion that no further scenario analysis is needed (e.g. if 
+immaterial for a certain risk) or that a different risk assessment tool is needed (e.g. if modelling or data challenges make 
+the scenario conclusion unusable). 
+International 
+Actuarial 
+Association 
+(IAA) 
+International In para 46.a., discussion of “setting out preventive and corrective measures”, such work is a function of the time horizon.  
+Assuming too long a time horizon in conjunction with static assumptions may result in inefficient measures, as such an 
+approach may overstate risks to an individual insurer's solvency given likely management responses to a changing 
+environment.
+
+Ceres United 
+States 
+The range of micro and macroprudential supervisory actions that can be informed by climate scenario analysis 
+outcomes with guidance on possible follow-up work across individual remediation plans, thematic reviews, updated 
+regulatory disclosures, incremental future scenario exercise, and even policy responses as discussed in this section 
+covers admirable breadth. Emphasizing transparency and disclosure provides constructive market discipline, fostering 
+wider climate risk awareness beyond direct supervisor intervention. This guidance may also benefit from more specifics 
+on disclosure best practices to tangibly demonstrate accountability.  
+ 
+We find the section noting that analyses could indicate future capital and liquidity inadequacies shows thoughtful 
+prudence regarding possible solvency strains. Highlighting crisis preparedness where significant concerns emerge 
+exhibits apt risk-based proportionality. That said, more concrete examples of identified sectoral risk concentrations and 
+interconnected exposures would offer useful illustrations of circumstances potentially warranting robust supervisory 
+response. Overall, this section strongly aligns potential analysis outcomes with plausible actions across regulatory 
+dimensions to promote sage, stable markets. 
+E3G United 
+States 
+Section 4.2 Supervisory response (ICP 24.4) We generally concur with the recommendations contained in paragraphs 
+46, with the following observations: We urge the IAIS to prioritize efforts for the implementation of ISSB standards at 
+national levels. Alignment with the ISSB is the best method for ensuring consistent and comparable disclosures vital to 
+facilitating insurers’ ability to assess, manage, and mitigate climate related financial risks and opportunities.  Insurers 
+should work proactively with their supervisors to support ISSB implementation, and the IAIS should lead efforts for ISSB 
+implementation across globe.  The insurance sector should play a front-line role to mandate and use transition plans to 
+enable insurers and supervisors to better manage risks posed by climate change. The final application paper should 
+clarify that the IAIS expects supervisors to take appropriate actions in response to issues identified through scenario 
+analysis, not, as paragraph 46 is drafted, merely list options that supervisors “could” take.  
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+The final application paper should clarify that the IAIS expects supervisors to take appropriate actions in response to 
+issues identified through scenario analysis, not, as paragraph 46 is drafted, merely list options that supervisors “could” 
+take. 
+ 
+This discussion only briefly mentions the potential need for new policy tools. Mere use of scenario analysis will not 
+address climate-related financial risks unless it is accompanied by necessary policy responses. Supervisors should use 
+all existing authorities to address climate-related financial risks and identify needs for new authority. Moreover, 
+supervisors should support broader policy reforms aimed at averting climate risks generally, financial -related or 
+otherwise.
+
+The Geneva 
+Association 
+International Section 4.2's recommendation for supervisors to consider a range of supervisory responses based on scenario analysis 
+outcomes is premature. It is vital for supervisors to first digest the outcomes of insurers climate scenario analysis before 
+determining the need for further action. For example, paragraph 46c's recommendation to use scenario analysis 
+outcomes to inform further scenario analysis invites supervisors to undertake repeated exercises. Given the high 
+operational burdens associated with the exercise, a more reflective approach should be taken, including an assessment 
+of the efficacy of the exercise itself to inform concrete actions. 
+The Geneva 
+Association 
+International o Section 4.2's recommendation for supervisors to consider a range of supervisory responses based on scenario 
+analysis outcomes is premature. It is vital for supervisors to first digest the outcomes of insurers climate scenario 
+analysis before determining the need for further action. For example, paragraph 46c's recommendation to use scenario 
+analysis outcomes to inform further scenario analysis invites supervisors to undertake repeated exercises. Given the 
+high operational burdens associated with the exercise, a more reflective approach should be taken, including an 
+assessment of the efficacy of the exercise itself to inform concrete actions. 
+ 
+Comments on section 4.3 Transparency (ICP 24.5)  
+General 
+Insurance 
+Association of 
+Japan 
+Japan While disclosing the results of scenario analysis is useful for the purpose of increasing transparency, in terms of 
+disclosures, there are issues such as the uncertainty inherent in scenario analysis and the limited data available. In 
+addition, consistency among insurers may be compromised if insurers use different data sets or different models, or if 
+scenario analysis involves management decisions. Therefore, a cautious approach is required regarding disclosures. In 
+order to ensure scenario analysis that contributes to meaningful disclosures, what the IAIS's AP deals with in terms of 
+scenario development and risk assessment should be limited to what IAIGs are effectively required to do. Furthermore, 
+as it is important to strike a balance between "global comparability" and "region- specific factors", measures such as the 
+standardization of approaches and use of common models at the jurisdictional level should also be considered to 
+ensure consistency and comparability of measurement results among insurers within each jurisdiction.With regard to the 
+best practices referred to in Paragraph 51, it has not yet been determined what practices are considered best; best 
+practices vary depending on the purpose. While we believe that sharing examples is beneficial in itself, it may have the 
+adverse effect of undermining diversity in underwriting behavior if the actions of insurance companies are standardized 
+into a particular set of best practices.
+
+Principles for 
+Responsible 
+Investment 
+United 
+Kingdom 
+The PRI supports the emphasis on the importance of transparency regarding climate scenario models. We recommend 
+that, in addition to promoting transparency around quantitative assumptions and data sources, it is important to clarify 
+three key conceptual issues. One, whether a given scenario incorporates transition risk, physical risk, or both; two, the 
+probability levels assigned to model outcomes; and three, the extent to which a scenario extrapolates from current 
+conditions, and assumes dramatic future changes such as new technology development, or begins from a desired 
+temperature outcome and works backward to model a required trajectory. Currently, a wide range of scenarios is in use 
+that differ in these respects and whose outcomes are therefore not directly comparable. To ensure wide public and 
+industry appreciation of the meaning and value of scenarios, supervisors must ensure that these issues are 
+communicated and understood. 
+National 
+Association of 
+Insurance 
+Commissioners 
+(NAIC) 
+United 
+States of 
+America 
+• Para 50: the penultimate bullet is missing its bullet. It seems the sentence after the bullet list should be a separate 
+paragraph as it is does not follow from or seem related to the rest of the paragraph.  
+- Quantitative assumptions and caveats for the scenarios themselves; 
+- Soundness of the insurance sector under different scenarios and time horizons (eg solvency impacts);  
+Insurance 
+Europe 
+Europe • Para 48: On publication of the results, it is not clear what level of aggregation is sought. Individual disclosure, in 
+particular of any modelled solvency impacts, should be completely excluded given the level of uncertainty surrounding 
+the scenario design, the extensive assumptions that need to be made and the results.  This exclusion should be clearly 
+specified in the Application Paper. 
+American 
+Property 
+Casualty 
+Insurance 
+Association 
+United 
+States 
+Any public disclosure of the results of scenario analysis should be on an aggregate basis only, so that confidentiality is 
+maintained and no insurer’s individual results are published. Scenario analysis is not reliable enough for disclosure of 
+any individual company’s results. In addition, inappropriate public disclosure is likely to create litigation risk, rather than 
+help to mitigate it.We also caution that, depending upon the type of scenario applied, aggregation of results must be 
+done carefully (as one example, summing up the 1/100-year PMLs of different insurers with different exposures may not 
+be appropriate). 
+Public Citizen United 
+States 
+Scenario analysis also plays a crucial role in communicating the importance of taking action to mitigate climate -related 
+financial risks to fulfill supervisors’ core mandates. Scenario analysis allows financial supervisors to engage with 
+intergovernmental bodies, international organizations, and the public to better understand their mandate to mitigate 
+climate-related financial risk, and its impact on financial stability. Transparency of the results of scenario analyses is 
+important for communicating to the public the risks of climate change to financial stability. Scenario analysis may also 
+underestimate climate risk; for this reason, supervisors should be transparent about the limitations of the exerci ses to 
+avoid contributing to inaction or a false sense of security.
+
+Finance Watch EU Transparency of scenario analyses is an important part of ensuring that the exercises develop and improve. It brings 
+trust and credibility to both supervisors and the industry. It allows more room for the robustness of the exercises to be 
+tested and benefit from the collective intelligence of a wider range of stakeholders. The guidance outlined in this section 
+is useful and comprehensive. 
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global While disclosing the results of scenario analysis is useful for the purpose of increasing transparency, in terms of 
+disclosures, there are issues such as the uncertainty inherent in scenario analysis and the limited data available. In 
+addition, consistency among insurers may be compromised if insurers use different data sets or different models, or if 
+scenario analysis involves management decisions. Confidentiality of information, such as company information that 
+could represent trade secrets or board decisions, should be considered when discussing transparency.  Therefore, a 
+cautious approach is required regarding disclosures. In order to ensure scenario analysis that contributes to meaningful 
+disclosures, what the IAIS's AP deals within terms of scenario development and risk assessment should be limited to 
+what IAIGs are effectively required to do.  Furthermore, while it is necessary to ensure a certain degree of consistency 
+and comparability of measurement results among insurers within each jurisdiction, each firm should also be free to 
+develop their own according to their exposures, risk profiles. 
+ 
+With regard to the best practices referred to in Paragraph 51, it has not yet been determined what practices are 
+considered best; best practices vary depending on the purpose. While GFIA believes that sharing examples is beneficial 
+in itself, it may have the adverse effect of undermining diversity in underwriting behaviour if the actions of insurance 
+companies are standardised into a particular set of best practices. 
+International 
+Actuarial 
+Association 
+(IAA) 
+International The IAA believes that there should be some mention in this discussion with regard to protection of confidential and/or 
+proprietary information for individual companies.  Some scenario analysis for property insurers will entail understanding 
+their underwriting guidelines and risk tolerance, which may include confidential and/or proprietary information.
+
+Ceres United 
+States 
+Ceres strongly supports the spotlight on transparency as pivotal for spurring climate risk awareness and accountability 
+across the insurance industry. Detailing quantitative and qualitative information that could be publicly shared provides a 
+strong starting point although this section may benefit from more assertive language emphasizing disclosure 
+requirements rather than just recommendations. Additional specifics on public reporting best practices could offer more 
+tangibility for both supervisors and insurers. While qualitative considerations are noted, more granular examples of key 
+quantitative metrics that could indicate emerging vulnerabilities may also prove useful - for example, highlighted 
+solvency strain thresholds warranting attention. That said, the guidance around communicating limitations and 
+uncertainties alongside results shows prudence in avoiding assumptions of excessive confidence. Sharing lessons 
+learned as industry capabilities mature demonstrates awareness of disclosure as an iterative process.  
+E3G United 
+States 
+Section 4.3 Transparency (ICP 24.5) We generally concur with the recommendations contained in paragraphs 48 -51, 
+making the following observations: Supervisors should demand full transparency from insurers with respect to scenario 
+analysis. Insurers must disclose which models and implicit assumptions underpin scenarios, the outcome of worst -case 
+scenarios, and which scenario results have been used to inform business decisions that affect either side of an insurer's 
+balance sheet. Supervisors also must ensure that insurers have appropriate expertise to conduct scenario analysis 
+exercises, evaluate the results, and identify responses.  See also responses above on transition plans and ISSB 
+implementation. 
+ 
+The final application paper should provide guidance to supervisors on the development of human resources and skills to 
+responsibly assess an insurer's use of scenario analysis in its business and risk strategy decision -making process.
+
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+Transparency of results is critical, but so is transparency of the scenario analysis limitations. For example, the draft 
+application paper discusses the importance of modeling tipping points, but these are generally excluded from current 
+scenario models. Publication of results without such critical context would be misleading. According to Baer at al., 
+“many financial institutions lack the expertise to fully understand the modeling choices and assumptions underpinning 
+these scenarios. Together this may lead to a misuse of scenarios and potentially a systematic underestimation of the 
+risk associated with the transition. It may also lead firms to take insufficient action to manage their risks caused either by 
+the uncertainties or a false perception of the risks.” [1]  Supervisors therefore must demand full transparency from 
+insurers with regard to scenario analysis. In particular, insurers must disclose which models and implicit assumptions 
+underpin applied scenarios, the outcome of worst case scenarios, and which results have been used to inform business 
+decisions that affect either side of an insurer's balance sheet. Supervisors also must ensure that insurers have 
+appropriate expertise to conduct scenario analysis exercises, evaluate the results, and identif y responses.To be able to 
+assess whether hidden systemic risk is building up as a result of misuse of scenarios leading to overconfident business 
+decisions, supervisors need to have sufficient well-trained staff. The final application paper should provide guidance to 
+supervisors on the development of human resources and skills to responsibly assess an insurer's use of scenario 
+analysis in its business and risk strategy decision-making process. There is not only a significant risk that insurers will 
+misuse scenario analysis. There is also a significant risk that they will do so and that supervisors will not see it and 
+intervene, even when the data is available.More generally, supervisors risk losing credibility if they demand disclosure 
+but are unable to digest and act on the data that is disclosed. If, as a consequence, systemic risk materialises and leads 
+to market corrections that require government intervention, this will further undermine public confidence in the market 
+and financial institutions,  as well as the institutions that are supposed to regulate and supervise them.—--------------“[1] 
+See Baer at al. (2023). All scenarios are wrong, but some are useful”—Toward a framework for assessing and using 
+current climate risk scenarios within financial decisions. URL: 
+https://www.frontiersin.org/articles/10.3389/fclim.2023.1146402/full
+
+Comments on section 5 Scenario analysis to inform assessment of insurers’ risk management and governance (ICP 16)  
+Public Citizen United 
+States 
+Insurers are endogenous to climate scenarios as they contribute to the risk they face through underwriting and investing 
+in fossil fuels. Scenario analysis should treat insurers’ actions that are not aligned with net -zero transition plans as 
+directly contributing to climate risk to the financial system and the broader economy. Scenarios used should reflect the 
+investment and underwriting policies of insurers that contribute to climate risk. In addition, the board of directors should 
+align strategy and risk appetite with the results of scenario analysis. 
+Finance Watch EU Please refer to the responses to questions 13 - 19. 
+Ceres United 
+States 
+This section pragmatically outlines how climate scenario analyses should permeate key components of insurers’ 
+enterprise risk management and oversight. Guidance on utilizing exercises to evaluate risk appetites, investment 
+policies, underwriting practices, and board accountability covers admirable breadth. Spotlighting scenario analysis as a 
+vital input for Own Risk and Solvency Assessment (ORSAs) processes demonstrates perceptive alignment with existing 
+prudential safeguards. We recommend more specifications on quantitative model expectations as this may add 
+tangibility to realize that integration. Noting analyses could indicate future solvency strains does show careful 
+consideration regarding possible capital inadequacies and relating possible findings to risk appetite thresholds and 
+strategic planning exhibits sensible risk-based thinking. However, more granular examples of risk transmission channels 
+between assets and liabilities may better highlight the importance of identifying interdependencies.  Additional 
+transparency best practices could reinforce accountability aims.  Overall, situating exercises  across governance 
+dimensions firmly embeds climate risk management into ongoing supervision.  This helps promote the resilience so vital 
+as exposures intensify amidst escalating uncertainty in years ahead. 
+E3G United 
+States 
+Section 5.1 ERM framework review (ICP 16.16) We generally support the recommendations in paragraphs 54 -57. 
+Scenario analysis should consider the micro- and macroprudential effect of investment policies. Insurers are creating 
+risks for other insurers, the financial system, and the broader economy through investment activities that contribute to 
+climate change. This creates the potential for negative feedback-loops.  As noted above, transitions plans should be put 
+into place to change the direction of this trajectory. In the meantime, risks from investment policies should be included in 
+scenario analysis exercises, and the outcome of those exercises should be incorporated into investment decisions 
+consistent with a Paris aligned transition plan.
+
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+n/a 
+The Geneva 
+Association 
+International Although the paper acknowledges the early-stage status of climate scenario analysis and some of the limitations of the 
+tool, most notably in paragraph 34d, it gives insufficient attention to these limitations throughout the paper. Instead, the 
+paper promotes a variety of uses for scenario analysis, including investment management, risk assessment, capital 
+management, pricing, business strategy, and macroprudential analysis (by supervisors). The IAIS also provides 
+descriptive indications on how firms have to incorporate the outcomes of climate scenario analysis in their governance, 
+indicating that such assessments should provide an adequate basis for the assessment of overall solvency needs or to 
+inform concrete management actions based on adverse scenarios. The suggested expansive use of a tool that has 
+structural limitations creates a fundamental tension within the paper. 
+The Geneva 
+Association 
+International o Although the paper acknowledges the early-stage status of climate scenario analysis and some of the limitations of 
+the tool, most notably in paragraph 34d, it gives insufficient attention to these limitations throughout the paper. Instead, 
+the paper promotes a variety of uses for scenario analysis, including investment management, risk assessment, capital 
+management, pricing, business strategy, and macroprudential analysis (by supervisors). The IAIS also provides 
+descriptive indications on how firms have to incorporate the outcomes of climate scenario analysis in their governance, 
+indicating that such assessments should provide an adequate basis for the assessment of overall solvency needs or to 
+inform concrete management actions based on adverse scenarios. The suggested expansive use of a tool that has 
+structural limitations creates a fundamental tension within the paper. 
+ 
+Comments on section 5.1 ERM framework review (ICP 16.16) 
+General 
+Insurance 
+Association of 
+Japan 
+Japan Although climate risk is an important risk to consider in the ORSA and ERM, how and to what extent scenario analysis 
+exercises are reflected in the ORSA and ERM should be carefully considered in view of the complexity and uncertainty 
+inherent in these exercises and the workload involved. In addition, since time horizons for climate risk scenario analysis 
+is very different from the ones for usual ORSA and ERM, it will be necessary to consider whether existing frameworks 
+can handle this issue.
+
+National 
+Association of 
+Insurance 
+Commissioners 
+(NAIC) 
+United 
+States of 
+America 
+• Para 53: The nature and materiality of relevant risks ...• Para 54: last sentence, it seems some words are missing – 
+suggest:As such, the supervisor should assess whether the scenario analysis and modelling approaches used are 
+commensurate with the insurer’s vulnerability to climate risks, based on the insurer’s risk profile. • Para 55: the second 
+sentence seems somewhat overstated – suggest:The outcome of the scenario analysis, shall define the resilience of the 
+insurer’s business strategy, providing insights into material exposures and business risks as well as testing the 
+robustness and adequacy of its solvency position. These insights should be taken into account when defining both 
+short- and long-term strategy and determining the most appropriate management actions to properly react to occurring 
+risks (eg a limit breach). may help define the resilience of the business strategy of the insurer... • Para 56: suggest 
+clarifying what supervisors may take a proportionateapproach to and strengthen to should given what ICP 16.16.5 
+says:In determining any requirements for insurers’ ERM frameworks, supervisors should consider taking a proportionate 
+approach... However, using only size as a criterion for inclusion will not capture smaller entities that may be materially 
+exposed to climate change risks; or any potential change in climate risk concentrations of smaller entities. For this 
+reason, a broader criterion for the scope might be more appropriate.• Para 57: “vs” should be spelled out as “versus” 
+Insurance 
+Europe 
+Europe • Para 54: Agree that climate risk should be seen as one risk driver rather than a separate risk category.  However, 
+some statements in the paper are difficult to consolidate with this view, e.g. para 54, where the IAIS states that climate 
+risks are a key risk driver that should be considered in the own risk and solvency assessment (ORSA).  
+The IAIS should clarify how this view goes together with the traditional risk categories, that could be influenced from 
+climate change, e.g. NatCat risk, Credit Risk, etc, assuming they should be considered within these categories. 
+• The expectations regarding use of scenario analysis for the underwriting, investment and risks policies are too 
+prescriptive and should be commensurate to the meaningfulness and decision usef ulness of the scenario design and 
+the results.  E.g. paragraphs 60, 69, 71, 74, 75. 
+Finance Watch EU If scenario analyses are improved and combined with quantification of fossil fuel exposures, as outlined in the response 
+to questions 1 & 3, then they could become an important part of the ERM framework review. It will be important to look 
+into how scenario analysis can be combined with the work done by insurers to prepare and deliver transition plans, to 
+provide a comprehensive assessment of climate risk management in the ORSA.    
+ 
+We support the view on the proportionality expressed in the application pap er, whereby proportionality should not be 
+limited to size considerations but should be based on the risk profile considerations.
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global Although climate risk is an important risk to consider in the ORSA and enterprise risk management (ERM), how and to 
+what extent scenario analysis exercises are reflected in the ORSA and ERM should be carefully considered in view of 
+the complexity and uncertainty inherent in these exercises and the workload involved. In addition, since time horizons 
+for climate risk scenario analysis are very different from the ones for usual ORSA and ERM, it will be necessary to 
+consider whether existing frameworks can handle this issue. Firms should be allowed to conduct the ORSA assessment 
+of climate-related risks in a way that the outcome is most meaningful for them to understand the risks they face. The 
+extent to which firms perform long- or short-term assessments or use quantitative and/or qualitative methods should be 
+a result of a materiality assessment for the business under consideration as well as the nature of the risks. Where firms' 
+assessment goes beyond the usual 3-5 years business planning time horizon for the ORSA, a more qualitative and 
+contextual nature of the long-term analysis should be acknowledged, as well as the inherent uncertainties and potential 
+limitations due to data quality. 
+International 
+Actuarial 
+Association 
+(IAA) 
+International In para 65, the wording “may wish to consider taking a proportionate approach” seems to be inconsistent with prior IAIS 
+publications that assume such an approach.  Is the wording “may wish to consider” too weak in this case?  
+  
+In the same paragraph, the phrase “using only size as a criteria for inclusion” seems to imply tha t size by itself is always 
+a reasonable criterium.  At a minimum we would recommend combining the business model in such a selection 
+process, as not all large insurers will have exposure to the same risks.  (E.g., large pet insurers.)  
+ 
+In paragraph 57, the phrase “having separate requirements for life vs property and casualty insurers” may result in 
+groupings that are overly broad, as there may be a desire to focus on certain product lines or geographies
+
+Ceres United 
+States 
+This section positions scenario analysis as vital for evaluating the adequacy of insurers’ enterprise risk management 
+(ERM) integration and capital resilience. Relating possible climate risk exposures revealed back to core prudential 
+safeguards like ORSAs demonstrates advanced integration, and guidance allowing flexibility based on entity risk 
+profiles exhibits sensible scope for bespoke customization according to vulnerability. Conversely, this flexible guidance 
+risks uneven adoption absent accessible methodological resources and clear supervisory monitoring mechanisms. More 
+assertive expectations could better drive market-wide transparency and accountability to accelerate progress.   
+ 
+Cognizance of possible future solvency strains and growth in small insurer climate risk concentrations shows 
+forethought of market evolution pathways. Rapid phase-in of heightened expectations reinforces thoughtful risk-based 
+escalations as capabilities mature across industry participants.  We believe the section could have be en augmented 
+with more tangibility on remediation for identified deficiencies and associated supervisory reporting expectations such 
+as robust phase-in timelines and reporting standardization.  We urge significant enhancement to require aggressive 
+phase-in matching climatic realities, set consistent reporting standards, and track continual advancement.  Without 
+assertive oversight, severe threats may manifest before methodological aspirations realize impact.  
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+The language in paragraph 55 stating that scenario analysis outcomes “shall define the resilience of the business 
+strategy of the insurer” reflects an overly optimistic assessment of the value of scenario analysis results. Scenario 
+analysis is a critical tool, but it has well-known limitations, which the draft application paper discusses. Positive scenario 
+analysis outcomes must not automatically lead to positive assessments of resiliency. Instead, scenario analysis results 
+should inform assessments of business strategy resiliency, with careful consideration of shortcomings of the exercise 
+and in conjunction with other supervisory and macroprudential considerations. While ORSA requirements may vary by 
+entity type and size, supervisors should require consideration of climate risks, including the use of scenario analysis, 
+based on the climate risks an insurer faces. Relying solely on the size or type of insurer may lead to insufficient 
+attention to climate-related financial risks that create micro- or macroprudential stress.
+
+The Geneva 
+Association 
+International - Although the paper acknowledges the evolving-stage status of climate scenario analysis and some of the limitations of 
+the tool, most notably in paragraph 34d, it gives insufficient attention to these limitations throughout the paper. Instead, 
+the paper promotes a variety of uses for scenario analysis, including investment management and underwriting 
+processes (incl. pricing), risk management (incl. risk appetite statements), capital/ solvency management, business 
+strategy, and macroprudential analysis (by supervisors). The IAIS also provides descriptive indications on how firms 
+have to incorporate the outcomes of climate scenario analysis in their governance, indica ting that such assessments 
+should provide an adequate basis for the assessment of overall solvency needs or to inform concrete management 
+actions based on adverse scenarios (paragraph 78). The suggested expansive use of a tool that has structural 
+limitations creates a fundamental tension within the paper.- The Geneva Association view is that company specific 
+forward looking climate risk assessments should be aligned with the effective duration of the underlying insurance 
+liabilities to inform concrete business decisions today. But the impact of climate change is for some parts slow moving 
+while weather-related exposures can be flexibly managed and steered through limited duration of re/insurance contracts 
+(typically one-year contracts for property insurance) as well as active portfolio steering. For the same reasons, such 
+forward-looking analysis is not adequate for conclusive risk management decisions, including prudential requirements, 
+e.g., capital requirements, which are also set for a short time horizon. - While some limitations may be addressed over 
+time such as the lack of reliable data, the uncertainty regarding projections of frequency and severity of insured perils 
+and the uncertainty around climate adaptation measures taken. Other limitations, however, are more endemic, such as 
+the uncertainty of any projection spanning multiple decades into the future. Still, such challenges limit the suitability of 
+such assessments to inform concrete business decisions such as pricing, underwriting, the ERM framework, ORSA or 
+investment decisions or capital/ solvency requirements.  We believe the AP is grounded in an assumption of an 
+unrealistic degree of precision in scenario analysis and urge the IAIS not to promote or overutilize tools for purposes for 
+which they are not necessarily well suited. Areas where we believe the IAIS has gone too far, include the following: § 
+Informing business strategy (paragraphs 13, 17, 27, 34, 65, 77)§ Informing risk appetite (paragraphs 74, 75, 77)§ 
+Assessing and managing capital (paragraphs 27, 34, 55, 78)§ Assessing and managing investment/ transition risks 
+(paragraphs 13, 26, 27, 58)§ Assessing and managing underwriting risks (paragraphs 14, 26, 59, 60)§ Identifying 
+climate-change related risk correlations (paragraph 27)§ Assessing financial stability implications (paragraphs 25, 26, 
+35-44)- It is in our view important to address the discrepancy between the paper’s acknowledgement of the unreliability 
+of scenario analysis and the proposed broad uses of the tool.  It may therefore be more appropriate to position the 
+application paper as aspirational, emphasizing the potential future applications of scenario analysis, while 
+acknowledging its limitations in terms of supervisory and risk management effectiveness. Concrete paragraphs that 
+merit reconsideration in line with the aforementioned limitations are: 27 (the use of scenario analysis for investment 
+portfolio and capital position); 34 (conducting scenario analyses to support pricing and capital positions); 55 (use of 
+scenario analysis for testing the robustness and adequacy of solvency positions and defining strategy); 60 (integrating 
+the results of climate scenario analysis into underwriting processes); 74 (use of scenario analysis to assess the
+
+adequacy and appropriateness of the existing risk appetite statement); 75 (SA as a tool to identify and assess the 
+robustness of their risk appetite statement); 78 (providing Board with scenarios that provide an adequate basis for the 
+assessment of overall solvency needs).
+
+The Geneva 
+Association 
+International o Although the paper acknowledges the evolving-stage status of climate scenario analysis and some of the limitations of 
+the tool, most notably in paragraph 34d, it gives insufficient attention to these limitations throughout the paper. Instead, 
+the paper promotes a variety of uses for scenario analysis, including investment management and underwriting 
+processes (incl. pricing), risk management (incl. risk appetite statements), capital/ solvency management, business 
+strategy, and macroprudential analysis (by supervisors). The IAIS also provides descriptive indications on how firms 
+have to incorporate the outcomes of climate scenario analysis in their governance, indicating that such assessments 
+should provide an adequate basis for the assessment of overall solvency needs or to inform concrete management 
+actions based on adverse scenarios (paragraph 78). The suggested expansive use of a tool that has structural 
+limitations creates a fundamental tension within the paper.o The Geneva Association view is that company specific 
+forward looking climate risk assessments should be aligned with the effective duration of the underlying insurance 
+liabilities to inform concrete business decisions today. But the impact of climate change is for some parts slow moving 
+while weather-related exposures can be flexibly managed and steered through limited duration of re/insurance contracts 
+(typically one-year contracts for property insurance) as well as active portfolio steering. For the same reasons, such 
+forward-looking analysis is not adequate for conclusive risk management decisions, including prudential requirements, 
+e.g., capital requirements, which are also set for a short time horizon. o While some limitations may be addressed over 
+time such as the lack of reliable data, the uncertainty regarding projections of frequency and severity of insured perils 
+and the uncertainty around climate adaptation measures taken. Other limitations, however, are more endemic, such as 
+the uncertainty of any projection spanning multiple decades into the future. Still, such challenges limit the suitability of 
+such assessments to inform concrete business decisions such as pricing, underwriting, the ERM framework, ORSA or 
+investment decisions or capital/ solvency requirements.  We believe the AP is grounded in an assumption of an 
+unrealistic degree of precision in scenario analysis and urge the IAIS not to promote or overutilize tools for purposes for 
+which they are not necessarily well suited. Areas where we believe the IAIS has gone too far, incl ude the following:§ 
+Informing business strategy (paragraphs 13, 17, 27, 34, 65, 77)§ Informing risk appetite (paragraphs 74, 75, 77)§ 
+Assessing and managing capital (paragraphs 27, 34, 55, 78)§ Assessing and managing investment/ transition risks 
+(paragraphs 13, 26, 27, 58)§ Assessing and managing underwriting risks (paragraphs 14, 26, 59, 60)§ Identifying 
+climate-change related risk correlations (paragraph 27)§ Assessing financial stability implications (paragraphs 25, 26, 
+35-44)o It is in our view important to address the discrepancy between the paper’s acknowledgement of the unreliability 
+of scenario analysis and the proposed broad uses of the tool.  It may therefore be more appropriate to position the 
+application paper as aspirational, emphasizing the potential future applications of scenario analysis, while 
+acknowledging its limitations in terms of supervisory and risk management effectiveness. Concrete paragraphs that 
+merit reconsideration in line with the aforementioned limitations are: 27 (the use of scenario analysis for investment 
+portfolio and capital position); 34 (conducting scenario analyses to support pricing and capital positions); 55 (use of 
+scenario analysis for testing the robustness and adequacy of solvency positions and defining st rategy); 60 (integrating 
+the results of climate scenario analysis into underwriting processes); 74 (use of scenario analysis to assess the
+
+adequacy and appropriateness of the existing risk appetite statement); 75 (SA as a tool to identify and assess the 
+robustness of their risk appetite statement); 78 (providing Board with scenarios that provide an adequate basis for the 
+assessment of overall solvency needs).
+
+The PRI strongly agrees that investment policies must incorporate an awareness of climate risk. We support the 
+recommendations that insurers engage with investee companies to understand the steps they are taking to reduce their 
+exposure to climate risk, and that insurers should use proxy voting and sector collaboration to positively shape 
+investees’ transition to more sustainable business practices. Across the financial sector, asset owners and asset 
+managers of all sizes and types are taking these steps in an effort to protect both their own portfolios and their ability to 
+continue to invest profitably in perpetuity. There is a widespread understanding that because the systemic nature of 
+climate risk makes it impossible to insulate a portfolio from climate risk over the long term, engagement aimed at 
+managing risks in the real economy is the best way to protect investor interests.  
+Principles for 
+Responsible 
+Investment 
+United 
+Kingdom 
+ 
+National 
+Association of 
+Insurance 
+Commissioners 
+(NAIC) 
+United 
+States of 
+America 
+• Para 58: second sentence, IAIS supporting material does not use “must” – suggest: 
+Where material, these risks should be taken into account regardless of whether the insurer invests directly...  
+• Para 58: for formatting consistency, suggest using bullets rather than a and b.  
+a) ...consider engaging with investee companies (through proxy voting or sector collaboration, as appropriate) to 
+positively influence corporate behaviour. This engagement includes ... 
+Finance Watch EU If scenario analyses are improved as outlined in the response to questions 1 & 3 and combined with work done by 
+insurers on transition planning, then the guidance in this section would be an important improvement to advise on the 
+application of ICP 16.6. In particular and very importantly, paragraph 58.b. of the guidance rightfully emphasises the 
+need to understand “how and when different climate tipping points will impact risks, including capturing the non- linear 
+impacts on credit, market and liquidity risks” in order to derive conclusions about insurers’ investment choices. However, 
+at present the scenario analyses are far from being able to model those specifics of climate risks. This is fundamental to 
+interpreting conclusions of scenario analyses, which also underscores the importance of defining timely risk 
+management measures.  
+ 
+The points raised in this section under paragraph 58.a stand as important guidance in general and not just as areas that 
+can be improved by scenario analysis. This exercise can also be informed through the work being done by insurers 
+preparing transition plans. One of the key issues will be to capture transition risk exposures where investments currently 
+have solid credit ratings and a strong history of performance, but that have a high risk of being stranded. It is important 
+that climate scenario analyses adopt time horizons congruent with international climate commitments to adequately 
+identify stranding risks and their impacts on insurers’ balance sheets.
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global GFIA recommends better contextualising paragraph 58.a through the lens of materiality and how climate scenario 
+analysis may be useful for that specific purpose. For instance, the statement “Insurers should also consider engaging 
+with investee companies (through proxy voting or sector collaboration as appropriate) to help positively shape the 
+corporate behaviour of investee companies” is not closely related to climate scenario analysis and should be removed 
+or revised. If revised, GFIA recommends the following: “Insurers may also consider engaging with investee companies 
+to understand their transition plans which may inform insurer climate scenario analysis."  
+Ceres United 
+States 
+This section rightly highlights the complex, nonlinear impacts climate change could have on insurer investment risks and 
+associated enterprise risk management response. Guidance on utilizing scenario analyses to surface knowledge gaps, 
+hidden correlations, and climate tipping points demonstrates advanced thinking, while suggestions for insurers t o 
+engage investees on managed transitions and sustainability efforts provide constructive market leadership during a 
+volatile period. Ceres recommends more specifics on substantive mitigating actions that analyses could prompt across 
+credit, liquidity, and market risks. Relating possible findings to risk appetite thresholds, asset allocation reviews, and 
+limits frameworks helps embed climate resilience into existing governance, while spotlighting stranded assets 
+vulnerabilities shows  prudence regarding repricing and devaluation dangers. Additional specifics on investment policy 
+disclosure expectations may further reinforce constructive transparency aims. Overall, thoughtful positioning analyses to 
+reveal investment risks and inform effective stewardship is extremely valuable as uncertainty mounts.  
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+Scenario analysis should consider the micro- and macroprudential effect of investment policies. Through investment 
+activities that contribute to climate change, insurers are creating risks for other insurers, the rest of the financial system, 
+and the broader economy. These feedback-loops and the resulting risks should be included in scenario analysis 
+exercises, and the outcome of those exercises should be incorporated into investment decisions.  
+ 
+Scenario analysis-informed investment decisions should at all time be consistent with a strong, Paris aligned transition 
+plan. 
+The Geneva 
+Association 
+International Paragraph 58's suggestion for insurers to influence corporate behaviour of investee companies does not seem relevant 
+to climate scenario analysis. Authorities should avoid placing the burden for all industries to transition to a low carbon 
+economy on the financial sector, as the speed and substance of the transition ultimately depends on policy decisions 
+made by governments. 
+The Geneva 
+Association 
+International o Paragraph 58's suggestion for insurers to influence corporate behaviour of investee companies does not seem 
+relevant to climate scenario analysis. Authorities should avoid placing the burden for all industries to transition to a low 
+carbon economy on the financial sector, as the speed and substance of the transition ultimately depends on policy 
+decisions made by governments.
+
+Finance Watch EU As outlined in the response to question 4 an additional risk of economic disruption should be considered in addition to 
+physical, transition and liability risks.  
+ 
+If scenario analyses are improved as outlined in the responses to questions 1 and 3 then the guidance their use here is 
+important. Paragraph 60 and 61 highlight how results of realistic scenario analyses should be used to ensure 
+underwriting processes account for climate risk. 
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global Property/casualty insurance is primarily an historical, experience-based model, with risks measured on experience, and 
+profitability based predominantly on appropriate contract pricing. To place additional emphasis on climate change 
+versus all other risk factors may create new problems – actuarial science requires being able to price according to the 
+appropriate weight for the applicable factors for the risk (taking into account many considerations, including but not 
+limited to the line of business, nature of the risk, and the duration of the policy).  
+Ceres United 
+States 
+We support the emphasis on climate risks driving review of underwriting strategies across both existing and new 
+business areas. Spotlighting higher risk sectors, assets, and regions demonstrates commendable attention to exposure 
+concentrations. The guidance on extracting actionable insights for underwriting protocols shows thoughtful connectivity 
+between analysis as an academic exercise and tangible risk management impacts. More specifics on substantive 
+integration practices may be valuable. While avoiding overt standard-setting, relating possible second and third order 
+climate impacts to product and business model resilience promotes admirable forward thinking. Considerations of 
+market-wide changes, such as shifts in car ownership models, demonstrates awareness of complex systemic dynamics. 
+However, additional transparency expectations may further reinforce constructive accountability aims as underwriting 
+practices evolve. But, overall, positioning analyses to clearly inform underwriting policies exhibits pr udence given 
+climate change’s overarching business model implications amidst rising physical risks.  
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+Scenario analysis should consider the micro- and macroprudential effect of underwriting policies. By underwriting 
+activities that contribute to climate change, insurers are creating risks for other insurers, the rest of the financial system, 
+and the broader economy. These risks should be included in scenario analysis exercises, and the results of those 
+exercises should be incorporated into underwriting decisions. 
+ 
+Scenario analysis-informed underwriting decisions should at all times be consistent with a strong, Paris aligned 
+transition plan. 
+The Geneva 
+Association 
+International Although the paper acknowledges the early-stage status of climate scenario analysis and some of the limitations of the 
+tool, most notably in paragraph 34d, it gives insufficient attention to these limitations throughout the paper. Instead, the 
+paper promotes a variety of uses for scenario analysis, including the integration of scenario analysis into underwriting 
+processes. The suggested expansive use of a tool that has structural limitations creates a fundamental tension within 
+the AP.
+
+The Geneva 
+Association 
+International o Although the paper acknowledges the early-stage status of climate scenario analysis and some of the limitations of 
+the tool, most notably in paragraph 34d, it gives insufficient attention to these limitations throughout the paper. Instead, 
+the paper promotes a variety of uses for scenario analysis, including the integration of scenario analysis into 
+underwriting processes. The suggested expansive use of a tool that has structural limitations creates a fundamental 
+tension within the AP. 
+ 
+Comments on section 5.4 Insurer ORSAs (16.12) (16.14)  
+General 
+Insurance 
+Association of 
+Japan 
+Japan Climate change risks are important to insurers and should be considered in the ORSA. Technical difficulties, such as 
+evaluation with longer time horizons and analysis of more diverse risks (physical risks, transition risks, and litigation 
+risks), are expected in incorporating scenario analysis in the ORSA. These sho uld be fully taken into account.While the 
+1st bullet of Paragraph 65 states "should...also consider how hotter climates may impact life and health insurance 
+liabilities", it is possible that, for some insurers, the related impact or importance are not si gnificant enough to be 
+included in the ORSA. Therefore, we suggest adding "when material" or changing "should" to "could also 
+consider".Regarding the 3rd bullet in Paragraph 65, as mentioned in Paragraph 15, the likelihood of occurrence and 
+impact of litigation risks vary greatly depending on the legal system of each jurisdiction. In addition, as the analysis 
+would lack feasibility in jurisdictions where there are no past cases, conditions such as "where appropriate" or "where 
+possible" should be added.
+
+National 
+Association of 
+Insurance 
+Commissioners 
+(NAIC) 
+United 
+States of 
+America 
+• Para 64: U.S. state insurance regulators agree that climate scenario analysis can be a valuable input to an insurer’s 
+ORSA process and expect insurers materially exposed to climate risk to include information on the results of scenario 
+analysis in U.S. ORSA filings. In addition, we agree that it may be appropriate for insurers to extend the time horizon 
+utilized for climate risk assessment to go beyond normal business planning cycles of three to five years, to take account 
+of medium- and longer-term risks. However, we believe that any extension of the ORSA time horizon for climate (or 
+other medium and longer-term risks) should be limited to risk assessment purposes and not for capital adequacy 
+purposes. As such, suggest the following edit to clarify this expectation: 
+Some climate related risks may take longer to fully materialise and, therefore, it would be expected that the ORSA also 
+include appropriate scenarios that cover a more extended time horizon. When assessing the appropriateness of time 
+horizons used by insurers, supervisors should consider the nature and types of business written by the insurer as well 
+as for what the time horizons are used (for example, risk assessment purposes versus capital adequacy purposes).  
+• Para 65: As part of the ORSA, an insurer is required to perform a continuity analysis to assess its ability to manage 
+risks and meet capital requirements under a range of plausible adverse scenarios, with a forward-  looking perspective. 
+When material, this analysis should include the identification and assessment of the direct and indirect impacts of 
+climate- related risks. For instance, including as part of the scenario analysis a (reverse) stress testing process. This 
+would enable insurers to assess their resilience to financial losses with respect to climate change. This process should 
+incorporate assessments of physical, transition and liability risks across the different risk categories, for example:  
+o The assessment...(eg 1-in-100, 1-in-500 or 1-in-1000 year events),...  
+o The assessment...to avoid any negative reputational impacts... 
+o Assessments should cover litigation risk... 
+• Para 67: The rationale for immateriality could be included in the documentation that summarises the risks that the 
+insurer considered for incorporation in the ORSA and should be presented concisely.  
+Insurance 
+Europe 
+Europe • Insurance Europe is fully supportive of the IAIS expecting that supervisors and insurers are focusing on material risk 
+only (e.g. para 58, 59, 63, 65, 69, 71). • However, in para 67, the IAIS concludes that climate risks are material for the 
+entire insurance industry and thus have to be included in the ORSA. This seems too prescriptive, the IAIS should allow 
+firms to conduct the ORSA assessment of climate-related risks in a way that the outcome is most meaningful for them to 
+understand the risks they face. The extent to which firms perform long- or short-term assessments or use quantitative 
+and/or qualitative methods should be a result of a materiality assessment for the business under consideration as well 
+as the nature of the risks.
+
+American 
+Property 
+Casualty 
+Insurance 
+Association 
+United 
+States 
+In paragraph 65, a 1/1000 year scenario is far too extreme and inexact to provide meaningful information.  
+Finance Watch EU As a first point the section rightly identifies the importance of dealing with more appropriate time horizons. The time 
+horizons of scenarios should extend beyond 2030 and look at the period between 2050 and 2080 (see pages 29 - 30 of 
+the Finance in a hot house world report https://www.finance-watch.org/publication/report-finance-in-a-hot-house-world/). 
+GDP impact of losses arising from climate change is set to accelerate increasing after 2050, when as things stand 
+global warming is set to move to around 2 degrees.  
+As mentioned above in our comment on part 3.2 (scenario design), reverse stress tests should be an important element 
+of climate scenario exercises under ORSA. 
+ 
+As outlined in the response to question 4 it is important to consider the risk of seve re economic disruption in addition to 
+physical, transition and litigation risks in the ORSA. Additionally as outlined in our response to question 14 there is a 
+need for further work to use work done by insurers on transition planning, along with realistic scenario analyses to 
+capture climate risks.  
+ 
+Given the current limitations of the scenario analyses and the underlying economic models, it is important to exercise 
+caution when interpreting conclusions of climate scenario analyses for the capital position and solvency of insurers.
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global For some insurers, climate change risks as well as other important risks should be considered in the ORSA. Technical 
+difficulties, such as evaluation with longer time horizons and analysis of more diverse risks (physical risks, transition 
+risks, and litigation risks), are expected in incorporating scenario analysis in the ORSA. It should be highlighted that life 
+and health insurance (re)insurers and property and casualty (re)insurers have very different exposures to climate-
+related risks. In particular, the nature, scale and complexity of the underlying physical risks related to climate change 
+are different. These should be fully taken into account and can limit the usefulness of climate scenarios, especially as 
+uncertainty increases with the extension of time horizons. As such, climate scenarios may not necessarily be the best 
+tool for assessing climate risk in light of the solvency-oriented objectives of the ORSA. Further, as climate risk affects 
+other risks that insurers manage and monitor, consideration should be given as to whether climate scenario analysis 
+would be duplicative to the assessments of material risks already included in the ORSA. For instance, if the risk of 
+deterioration in new sales or an increase in lapses is already assessed in the ORSA,  assessing how an insurer’s 
+climate-related reputation could affect sales and lapses would be costly, duplicative, and ultimately unnecessary (not to 
+mention challenging and assumption-laden). Instead of specific recommendations, a more principles-based approach 
+ought to be reflected in this section.Regarding paragraph 63, GFIA recalls that litigation risks are very hard to 
+assess.Paragraph 65:■ While the 1st bullet of Paragraph 65 states “should…also consider how hotter climates may 
+impact life and health insurance liabilities", it is possible that, for some insurers, the related impact or importance are n ot 
+significant enough to be included in the ORSA. Therefore, GFIA suggests adding "when material" or changing "should" 
+“or "could also consider".■ In addition, a 1–1000-year scenario is far too extreme and inexact to provide meaningful 
+information.■ Regarding the 3rd bullet in Paragraph 65, as mentioned in Paragraph 15, the likelihood of occurrence and 
+impact of litigation risks vary greatly depending on the legal system of each jurisdiction. In addition, as the analysis 
+would lack feasibility in jurisdictions where there are no past cases, conditions such as "where appropriate" or "where 
+possible" should be added.
+
+International 
+Actuarial 
+Association 
+(IAA) 
+International In para 64 it discusses the time horizon for an insurer’s ORSA.  The IAA has the following comments on this 
+discussion:· The time horizon should also reflect the speed with which the climate-related exposures can be managed 
+and exited or mitigated.  This may be the same as "business planning" in this phrase, but it isn't clear if that was the 
+authors' intent.· As a practical matter, it doesn't make sense to do business planning that extends beyond too many 
+management action cycles  Such time horizons may be meaningful to long term strategic visions, but may not be very 
+actionable for the short term.In para 65, first bullet:· Ithe IAA suggests deleting the reference to 1-1000 year events, as 
+such estimates are not reliable for virtually all models.· The term "liabilities" here is misleading from a non-life 
+perspective, as potential impacts from future health events relates to future claims, and not current liabilities.  In 
+addition, where the payout is fast enough, there will never be a "liability" on a published financial report for such claims.  
+The IAA suggests  changing the reference to something like "exposure to future claims" and not "liabilities".  In para 67, 
+the IAA suggests changing “impact on all insurers” to something like “impact on most insurers”, as not all insurers will be 
+materially impacted (e.g., pet insurers, bail bond insurers).Observation.  In Box 4 where it discusses EIOPA guidance, 
+there is potentially an incomplete definition of catastrophe modelling.  That definition only ment ions the modelling of the 
+physical characteristics of the catastrophe but omits mention of the damage module and the module that models the 
+insurer impact.  There is an IAA Risk Book chapter that discusses these other modules.  
+Ceres United 
+States 
+This section embeds climate scenario analysis into key internal risk governance processes like ORSAs. Requirements 
+to evaluate exposures across complex, multifaceted risks demonstrate sophisticated risk capture, and guidance to 
+assess resilience across robust, forward-looking adverse scenarios aligned with unique insurer profiles shows advanced 
+integration ambitions. However, heightened expectations may necessitate more supervisor support for 
+data/methodology development proportionate to insurer sophistication. Relating possible solvency strains to continuity 
+analysis and capital planning exhibits prudence. This section may benefit from more specifics on quantitative model 
+usability expectations and associated uncertainty communication. Additionally, timelin es tied to the “tragedy of the 
+horizons” frame climate risk as a systemic risk demanding long-term thinking, though phase-in flexibility shows 
+cognizance of incremental improvement across industry participants.  Overall, smoothly fusing exercises with internal 
+risk, solvency, and capital safeguards points towards profound risk management dividends should bold adoption occur.  
+E3G United 
+States 
+Section 5.4 Insurer ORSAs (16.12) We make the following observations about paragraphs 62 -63:  
+The IAIS should clarify when scenario analysis would be expected as part of ORSAs, acknowledging that their use 
+should take into account limitations identified by the NGFS. The IAIS should provide more clarity about the role that
+
+reverse stress tests can play to complementary scenario analysis and as an integral part of the risk management 
+toolbox. 
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+Paragraphs 62 and 63 suggest that insurers could use scenario analysis as an input to ORSAs. However, stronger 
+language is warranted. OSRAs must encompass all reasonably foreseeable and relevant material risks, and scenario 
+analysis likely will play a significant role in identifying such risks. The IAIS needs to provide more clarity around when 
+scenario analysis would be expected, while continuing to recognize current limitations. In order to make sure 
+supervisors and insurers reduce the risk of overconfidence bias and false sense of security, IAIS should clarify that RST 
+is a complementary instrument to scenario analysis and an integral part of the risk management toolbox. Paragraph 65’s 
+discussion of physical risks should explicitly acknowledge that rare weather events are becoming more common[1],  
+further highlighting the challenges of relying on historical data and the need to include severely adverse scenarios. In 
+addition, the possibility of disorderly transition risks should be directly discussed and considered. Supervisors must 
+carefully scrutinize insurer claims that their climate-related risks are immaterial and, therefore, not included in the 
+ORSA. As paragraph 67 notes, climate-related risks could potentially affect all insurers. Insurer conclusions that 
+climate-related risks are immaterial may reflect a lack of understanding and expertise on the part of the insurer. —-------
+[1] Brenda Ekwurzel, “Rare and Severe Weather Events Are Now More Common Thanks to Climate Change,” Union of 
+Concerned Scientists, The Equation (Aug. 24, 2022). URL:  https://blog.ucsusa.org/brenda- ekwurzel/rare-and-severe-
+weather-events-are-now-more-common-thanks-to-climate-change/
+
+The Geneva 
+Association 
+International We welcome the suggestion for supervisors and industry to focus on material climate -related risks in their ORSA (see 
+para 63). A few paragraphs later (para 67), however, the IAIS concludes that all climate- related risks are material to the 
+insurance industry and thus ”should be considered for inclusion” in their ORSA. The IAIS and supervisors should avoid 
+elevating climate risks above other material risk drivers by pre-concluding that they are material to firms or the 
+insurance sector as a whole. The paper also gives inadequate attention as to how climate change risk relates to 
+traditional risk categories, e.g. NatCat risk, Credit Risk, etc. and how these should be managed. Paragraph 67 should 
+be reworded to provide insurance firms with the flexibility to conduct the ORSA of climate- related financial risks in a way 
+that the outcome is most meaningful for them to understand the risks they and subject to materiality to the firm. The 
+extent to which firms perform long- or short-term assessments or use quantitative and/or qualitative methods should be 
+a result of a materiality assessment for the business under consideration as well as the nature of the risks.  
+The Geneva 
+Association 
+International o We welcome the suggestion for supervisors and industry to focus on material climate-related risks in their ORSA (see 
+para 63). A few paragraphs later (para 67), however, the IAIS concludes that all climate- related risks are material to the 
+insurance industry and thus ”should be considered for inclusion” in their ORSA. The IAIS and supervisors should avoid 
+elevating climate risks above other material risk drivers by pre-concluding that they are material to firms or the 
+insurance sector as a whole. The paper also gives inadequate attention as to how climate change risk relates to 
+traditional risk categories, e.g. NatCat risk, Credit Risk, etc. and how these should be managed. Paragraph 67 should 
+be reworded to provide insurance firms with the flexibility to conduct the ORSA of climate- related financial risks in a way 
+that the outcome is most meaningful for them to understand the risks they and subject to materiality to the firm. The 
+extent to which firms perform long- or short-term assessments or use quantitative and/or qualitative methods should be 
+a result of a materiality assessment for the business under consideration as well as the nature of the risks.  
+ 
+Comments on section 5.5 Integrating scenario analysis into risk policies (ICP 16.5, 16.6, 16.7)   
+General 
+Insurance 
+Association of 
+Japan 
+Japan While it is useful to understand the impact of climate change risk on the interconnectedness of asset management risk 
+and underwriting risk, as well as on assets and liabilities in ALM, scenario analysis is expected to involve complexity 
+and technical difficulties. Therefore, consideration should be given to its feasibility and the workload on insurers.  
+ 
+Paragraph 71 refers to investee engagement, restricted lists, and divestment lists as examples of mitigation strategies 
+prompted by scenario analysis. However, it lacks elements of engagement to encourage transition of hard-to-abate 
+sectors. Paragraph 70 also refers to an example of sectoral investment limits, leaving an impression that divestment is 
+encouraged. For this AP to prevent the inducement of ill-considered divestment and to promote awareness of the 
+importance of engagement to encourage the decarbonization of the investee, we suggest making reference to transition 
+finance.
+
+National 
+Association of 
+Insurance 
+Commissioners 
+(NAIC) 
+United 
+States of 
+America 
+• Para 72: for clarity, suggest quoting what is ICP 16.5: 
+ICP 16.5 requires “the insurer’s ERM frameworks to include an explicit asset- liability management (ALM) policy that 
+specifies the nature, role and extent of ALM activities and their relationship with product development, pricing functions 
+and investment management”. 
+• Para 72: Scenario analysis could help to identify correlation risks between assets and insurance liabilities that are not 
+apparent For instance, it can reveal risks associated with retail mortgage backed assets in areas subject to significant 
+climate risk , which are held as assets on an insurer’s balance sheet while the insurer underwrites cover for residential 
+property in the same area. 
+Insurance 
+Europe 
+Europe • In some jurisdictions, for instance in Europe, insurers are required to reflect climate-related considerations in their 
+policies. 
+Finance Watch EU If scenario analyses are improved as outlined in the response to questions 1 & 3 and combined with work done by 
+insurers on transition planning, then the guidance in this section would be an important improvement to advise on the 
+application of the ICPs here. Until then the limitations of climate scenario analyses should be prominently acknowledged 
+so that their (until now very benign) conclusions do not prevent timely development of mitigation strategies such as the 
+ones mentioned in the draft -”investee engagement, restricted lists and divestment lists for asset types that have been 
+identified as vulnerable”. This also relates to using the results of climate scenario exercises to make conclusions about 
+insurers’ solvency and liquidity. The point raised on risk correlation and looking into application of ICP 16.5 is 
+particularly important and can also be used to inform insurers work on transition planning.
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global While it is useful to understand the impact of climate change risk on the interconnectedness of asset management risk 
+and underwriting risk, as well as on assets and liabilities in asset liability management (ALM), scenario analysis is 
+expected to involve complexity and technical difficulties. There needs to be a strict focus and is heavily reliant on 
+materiality of such risks to the firm and uncertain assumptions. Therefore, consideration should be given to its feasibility 
+and whether scenario analysis can practically inform investment and ALM policies.  
+ 
+Consideration should also be given to the distinctiveness of climate risk relative to other risks when it comes to risk 
+policies. For instance, the correlation of VA minimum guarantees to general account r eturns, discussed in Box 5, is not 
+unique to climate risk factors, and it’s not clear why climate transition risk would then need to be separately addressed 
+in that context. 
+ 
+Rather than specific recommendations, a more principles-based approach ought to be outlined in this section for how 
+climate scenario analysis could be implemented into risk policies. 
+ 
+Paragraph 70: 
+■ It refers to an example of sectoral investment limits, leaving an impression that divestment is encouraged. For this AP 
+to prevent the inducement of ill-considered divestment and to promote awareness of the importance of engagement to 
+encourage the decarbonisation of the investee, GFIA suggests making reference to transition finance.  
+ 
+Paragraph 71: 
+■ It also refers to investee engagement, restricted lists, and divestment lists as examples of mitigation strategies 
+prompted by scenario analysis. However, it lacks elements of engagement to encourage transition of hard- to-abate 
+sectors. 
+International 
+Actuarial 
+Association 
+(IAA) 
+International In para 70, discussion of appropriate frequency for reviewing investment policies, this probably is generic and not just 
+related to climate change, as the investment markets are continually impacted by events in the region/sector/world.  
+Suggest replacing the words "to determine the appropriate frequency for reviewing" with "in". 
+  
+Note also that such reviews will be dependent on the duration of investments and liquidity of investments.
+
+Ceres United 
+States 
+Ceres strongly supports the value of scenario analyses for enabling insurers’ substantive reviews of vulnerabilities 
+across interlinked investment and underwriting realms. Guidance to unearth hidden correlations demonstrates 
+advanced ambitions for risk identification. Relating findings to limits frameworks and stranded ass et dangers shows 
+temperance regarding future solvency strains, and suggestions to support managed transactions endorses constructive 
+market leadership during turbulent times. However, more specific transparency expectations may further reinforce 
+positive accountability. Additionally, further detail on quantitative model usability and proprietary methodological 
+flexibility could support smooth adoption amidst data limitations. Overall, clearly embedding exercises directly into core 
+risk policies cements climate resilience responsibly into existing governance frameworks.  This integration can yield 
+major risk management dividends as exposures escalate over years ahead.  
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+Supervisors should ensure that insurers include an assessment of climate risks as part of their overall review of 
+investment and underwriting, not just encourage such assessments. Paragraph 69 should be revised accordingly. Doing 
+so would be consistent with paragraph 71, which states, in part, “supervisors should require insurers to incorporate 
+consideration of climate-related risks in their investment and underwriting policies, where there is material exposure of 
+individual products to climate change risk.” 
+ 
+Supervisors should set “expectations on the role of scenario analysis to determine the appropriate frequency for 
+reviewing and making changes to investment policies, including the limits framework” not merely “consider” doing so as 
+paragraph 70 contemplates. Supervisors must establish minimum expectations, especially with respect to the use and 
+application of new tools. However, supervisors should also clarify that each insurer may need to review and adjust 
+investment policies more frequently and that decisions should not rely on scenario analysis alone, given its limitations.
+
+The Geneva 
+Association 
+International - Although the paper acknowledges the evolving-stage status of climate scenario analysis and some of the limitations of 
+the tool, most notably in paragraph 34d, it gives insufficient attention to these limitations throughout the paper. Instead, 
+the paper promotes a variety of uses for scenario analysis, including investment management and underwriting 
+processes (incl. pricing), risk management (incl. risk appetite statements), capital/ solvency management, business 
+strategy, and macroprudential analysis (by supervisors). The IAIS also provides descriptive indications on how firms 
+have to incorporate the outcomes of climate scenario analysis in their governance, indicating that such assessments 
+should provide an adequate basis for the assessment of overall solvency needs or to inform concrete management 
+actions based on adverse scenarios (paragraph 78). The suggested expansive use of a tool that has st ructural 
+limitations creates a fundamental tension within the application paper.- The Geneva Association view is that company 
+specific forward looking climate risk assessments should be aligned with the effective duration of the underlying 
+insurance liabilities to inform concrete business decisions today. But the impact of climate change is for some parts slow 
+moving while weather-related exposures can be flexibly managed and steered through limited duration of re/insurance 
+contracts (typically one-year contracts for property insurance) as well as active portfolio steering. For the same reasons, 
+such forward-looking analysis is not adequate for conclusive risk management decisions, including prudential 
+requirements, e.g., capital requirements, which are also set for a short time horizon. - While some limitations may be 
+addressed over time such as the lack of reliable data, the uncertainty regarding projections of frequency and severity of 
+insured perils and the uncertainty around climate adaptation measures taken. Other limitations, however, are more 
+endemic, such as the uncertainty of any projection spanning multiple decades into the future. Still, such challenges limit 
+the suitability of such assessments to inform concrete business decisions such as pric ing, underwriting, the ERM 
+framework, ORSA or investment decisions or capital/ solvency requirements.  We believe the paper is grounded in an 
+assumption of an unrealistic degree of precision in scenario analysis and urge the IAIS not to promote or overutil ize 
+tools for purposes for which they are not necessarily well suited.- It is in our view important to address the discrepancy 
+between the paper’s acknowledgement of the unreliability of scenario analysis and the proposed broad uses of the tool.  
+It may therefore be more appropriate to position the AP as aspirational, emphasizing the potential future applications of 
+scenario analysis, while acknowledging its limitations in terms of supervisory and risk management effectiveness. 
+Concrete paragraphs that merit reconsideration in line with the aforementioned limitations are: 27 (the use of scenario 
+analysis for investment portfolio and capital position); 34 (conducting scenario analyses to support pricing and capital 
+positions); 55 (use of scenario analysis for testing the robustness and adequacy of solvency positions and defining 
+strategy); 60 (integrating the results of climate scenario analysis into underwriting processes); 74 (use of scenario 
+analysis to assess the adequacy and appropriateness of the existing risk appetite statement); 75 (SA as a tool to 
+identify and assess the robustness of their risk appetite statement); 78 (providing Board with scenarios that provide an 
+adequate basis for the assessment of overall solvency needs).
+
+The Geneva 
+Association 
+International o Although the paper acknowledges the evolving-stage status of climate scenario analysis and some of the limitations of 
+the tool, most notably in paragraph 34d, it gives insufficient attention to these limitations throughout the paper. Instead, 
+the paper promotes a variety of uses for scenario analysis, including investment management and underwriting 
+processes (incl. pricing), risk management (incl. risk appetite statements), capital/ solvency management, business 
+strategy, and macroprudential analysis (by supervisors). The IAIS also provides descriptive indications on how firms 
+have to incorporate the outcomes of climate scenario analysis in their governance, indicating that such assessments 
+should provide an adequate basis for the assessment of overall solvency needs or to inform concrete management 
+actions based on adverse scenarios (paragraph 78). The suggested expansive use of a tool that has structural 
+limitations creates a fundamental tension within the application paper.o The Geneva Association view is that company 
+specific forward looking climate risk assessments should be aligned with the effective duration of the underlying 
+insurance liabilities to inform concrete business decisions today. But the impact of climate change is for some parts slow 
+moving while weather-related exposures can be flexibly managed and steered through limited duration of re/insurance 
+contracts (typically one-year contracts for property insurance) as well as active portfolio steering. For the same reasons, 
+such forward-looking analysis is not adequate for conclusive risk management decisions, including prudential 
+requirements, e.g., capital requirements, which are also set for a short time horizon. o While some limitations may be 
+addressed over time such as the lack of reliable data, the uncertainty regarding projections of frequency and severity of 
+insured perils and the uncertainty around climate adaptation measures taken. Other limitations, however, are more 
+endemic, such as the uncertainty of any projection spanning multiple decades into the future. Still, such challenges limit 
+the suitability of such assessments to inform concrete business decisions such as pricing, underwriting, the ERM 
+framework, ORSA or investment decisions or capital/ solvency requirements.  We beli eve the paper is grounded in an 
+assumption of an unrealistic degree of precision in scenario analysis and urge the IAIS not to promote or overutilize 
+tools for purposes for which they are not necessarily well suited.o It is in our view important to address the discrepancy 
+between the paper’s acknowledgement of the unreliability of scenario analysis and the proposed broad uses of the tool.  
+It may therefore be more appropriate to position the AP as aspirational, emphasizing the potential future applications of 
+scenario analysis, while acknowledging its limitations in terms of supervisory and risk management effectiveness. 
+Concrete paragraphs that merit reconsideration in line with the aforementioned limitations are: 27 (the use of scenario 
+analysis for investment portfolio and capital position); 34 (conducting scenario analyses to support pricing and capital 
+positions); 55 (use of scenario analysis for testing the robustness and adequacy of solvency positions and defining 
+strategy); 60 (integrating the results of climate scenario analysis into underwriting processes); 74 (use of scenario 
+analysis to assess the adequacy and appropriateness of the existing risk appetite statement); 75 (SA as a tool to 
+identify and assess the robustness of their risk appetite statement); 78 (providing Board with scenarios that provide an 
+adequate basis for the assessment of overall solvency needs).
+
+Comments on section 5.6 Risk appetite statement (ICP 16.4)  
+General 
+Insurance 
+Association of 
+Japan 
+Japan Although it is useful to understand potential breaches to the risk appetite statement through climate risk scenario 
+analysis, the complexity, uncertainty, and technical difficulties involved in scenario analysis limit the use of the analysis 
+results. When using the results of scenario analysis to determine breaches to the risk appetite statement, these 
+limitations should be carefully considered. 
+ 
+Since risks attributable to climate change have a longer-term impact than other risks, even when a risk appetite 
+statement deals with the same risk categories, it is expected that the description will be more complex. It should also be 
+noted that risk appetite is determined by considering various risks in the overall business portfolio, and it is not always 
+feasible to use the results of climate risk scenario analysis for assessment in a risk appetite statement.  
+National 
+Association of 
+Insurance 
+Commissioners 
+(NAIC) 
+United 
+States of 
+America 
+• Para 73: for clarity, suggest quoting what is ICP 16.4: 
+ICP 16.4 requires “the insurer to have a risk appetite statement that: ... through a more granular risk limits structure”.  
+Insurance 
+Europe 
+Europe • The IAIS’s recommendation that scenario analysis should be used to assess the strength/robustness of their risk 
+appetite in the current risk environment and to then update the statement based on these scenarios is not realistic. 
+Using multiple scenarios could lead undertakings to redefine their risk appetite based on various sets of results, which 
+may vary considerably.  
+• In addition, the IAIS’s expectations that insurers change their risk appetite (e.g. by already incorporating potential 
+future changes to reinsurance capacity) based on climate risk scenario analysis is likely to have an unnecessary and 
+immediate negative effect on the protection gap. 
+Finance Watch EU If scenario analyses are improved as outlined in the response to questions 1 & 3 and combined with work done by 
+insurers on transition planning, then the guidance in this section would be an important improvement to advise on the 
+application of ICP 16.4 here. Until then the limitations of climate scenario analyses shoul d be prominently 
+acknowledged.
+
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global The complexity, uncertainty, and technical difficulties involved in scenario analysis limit the use of the analysis results t o 
+inform business decisions. When using the results of scenario analysis to determine breaches to the risk appetite 
+statement, these limitations should be carefully considered. 
+ 
+Since risks attributable to climate change have a longer-term impact than other risks, even when a risk appetite 
+statement deals with the same risk categories, it is expected that the description will be more complex. It should also be 
+noted that risk appetite is determined by considering various risks in the overall business portfolio, and it is not always 
+feasible to use the results of climate risk scenario analysis for assessment in a risk appetite statement . 
+Ceres United 
+States 
+Section 5.6 frames scenario analysis as an ideal tool for enabling substantive reviews of risk appetite adequacy amidst 
+shifting climate exposures. Relating findings to risk thresholds demonstrates advanced integration ambitions to embed 
+climate resilience responsibly. Guidance noting heightened catastrophe risk and constrained risk transfer capacity 
+shows prudence regarding future solvency strains, and considerations to evolving reinsurance and product dynamics 
+endorses constructive agility. However, more detail on associated public transparency aims and quantitative model 
+usability expectations could further reinforce positive accountability. Overall, positioning exercises to clearly inform risk 
+appetite evaluations and business model vulnerability assessments cements prudent planning into existing governance.  
+This integration promises significant risk management benefits as climate uncertainties crescendo over years ahead. 
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+The recommendations in paragraphs 74-76 should be strengthened. Supervisors should set expectations on “scenario 
+analysis design that allows for assessing alignment of the existing portfolio of assets and liabilities with the risk appetit e 
+statement, under different scenarios, over longer time horizons,” not merely consider doing so. Establishing minimum 
+expectations is a crucial supervisory role. Insurers must incorporate changes to reinsurance capacity into scenario 
+analysis exercises. Failing to do so would ignore current developments in the reinsurance market. [1] Scenario analysis 
+should be used to evaluate the robustness of risk appetite statements and make adjustments and potential 
+vulnerabilities in the business model. While scenario analysis is imperfect and should not be the only tool relied on, 
+failure to consider adverse climate scenarios increases the likelihood that insurers will not appropriately consider 
+climate-related financial risks. 
+ 
+[1] AFP, “As climate catastrophes rise, reinsurers reduce risks” (Sept. 13, 2023), https://www.france24.com/en/live-
+news/20230913-as-climate-catastrophes-rise-reinsurers-reduce-risks.
+
+The Geneva 
+Association 
+International - Although the paper acknowledges the evolving-stage status of climate scenario analysis and some of the limitations of 
+the tool, most notably in paragraph 34d, it gives insufficient attention to these limitations throughout the paper. Instead, 
+the paper promotes a variety of uses for scenario analysis, including investment management and underwriting 
+processes (incl. pricing), risk management (incl. risk appetite statements), capital/ solvency management, business 
+strategy, and macroprudential analysis (by supervisors). The IAIS also provides descriptive indications on how firms 
+have to incorporate the outcomes of climate scenario analysis in their governance, indicating that such assessments 
+should provide an adequate basis for the assessment of overall solvency needs or to inform concrete management 
+actions based on adverse scenarios (paragraph 78). The suggested expansive use of a tool that has structural 
+limitations creates a fundamental tension within the paper.- The Geneva Association view is that company specific 
+forward looking climate risk assessments should be aligned with the effective duration of the underlying insurance 
+liabilities to inform concrete business decisions today. But the impact of climate change is for some parts slow moving 
+while weather-related exposures can be flexibly managed and steered through limited duration of re/insurance contracts 
+(typically one-year contracts for property insurance) as well as active portfolio steering. For the same reasons, such 
+forward-looking analysis is not adequate for conclusive risk management decisions, including prudential requirements, 
+e.g., capital requirements, which are also set for a short time horizon. - While some limitations may be addressed over 
+time such as the lack of reliable data, the uncertainty regarding projections of frequency and severity of insured perils 
+and the uncertainty around climate adaptation measures taken. Other limitations, however, are more endemic, such as 
+the uncertainty of any projection spanning multiple decades into the future. Still, such challenges limit the suitability of 
+such assessments to inform concrete business decisions such as pricing, underwriting, the ERM framework, ORSA or 
+investment decisions or capital/ solvency requirements.  We believe the application paper is grounded in an assumption 
+of an unrealistic degree of precision in scenario analysis and urge the IAIS not to promote or overutilize tools for 
+purposes for which they are not necessarily well suited.- It is in our view important to address the discrepancy between 
+the paper’s acknowledgement of the unreliability of scenario analysis and the proposed broad uses of the tool.  It may 
+therefore be more appropriate to position the AP as aspirational, emphasizing the potential future applications of 
+scenario analysis, while acknowledging its limitations in terms of supervisory and risk management effectiveness. 
+Concrete paragraphs that merit reconsideration in line with the aforementioned limitations are: 27 (the use of scenario 
+analysis for investment portfolio and capital position); 34 (conducting scenario analyses to support pricing and capital 
+positions); 55 (use of scenario analysis for testing the robustness and adequacy of solvency positions and defining 
+strategy); 60 (integrating the results of climate scenario analysis into underwriting processes); 74 (use of scenario 
+analysis to assess the adequacy and appropriateness of the existing risk appetite statement); 75 (SA as a tool to 
+identify and assess the robustness of their risk appetite statement); 78 (providing Board with scenarios that provide an 
+adequate basis for the assessment of overall solvency needs).
+
+The Geneva 
+Association 
+International o Although the paper acknowledges the evolving-stage status of climate scenario analysis and some of the limitations of 
+the tool, most notably in paragraph 34d, it gives insufficient attention to these limitations throughout the paper. Instead, 
+the paper promotes a variety of uses for scenario analysis, including investment management and underwriting 
+processes (incl. pricing), risk management (incl. risk appetite statements), capital/ solvency management, business 
+strategy, and macroprudential analysis (by supervisors). The IAIS also provides descriptive indications on how firms 
+have to incorporate the outcomes of climate scenario analysis in their governance, indicating that such assessments 
+should provide an adequate basis for the assessment of overall solvency needs or to inform concrete man agement 
+actions based on adverse scenarios (paragraph 78). The suggested expansive use of a tool that has structural 
+limitations creates a fundamental tension within the paper.o The Geneva Association view is that company specific 
+forward looking climate risk assessments should be aligned with the effective duration of the underlying insurance 
+liabilities to inform concrete business decisions today. But the impact of climate change is for some parts slow moving 
+while weather-related exposures can be flexibly managed and steered through limited duration of re/insurance contracts 
+(typically one-year contracts for property insurance) as well as active portfolio steering. For the same reasons, such 
+forward-looking analysis is not adequate for conclusive risk management decisions, including prudential requirements, 
+e.g., capital requirements, which are also set for a short time horizon. o While some limitations may be addressed over 
+time such as the lack of reliable data, the uncertainty regarding projections of frequency and severity of insured perils 
+and the uncertainty around climate adaptation measures taken. Other limitations, however, are more endemic, such as 
+the uncertainty of any projection spanning multiple decades into the future. Still, such challenges limit the suitability of 
+such assessments to inform concrete business decisions such as pricing, underwriting, the ERM framework, ORSA or 
+investment decisions or capital/ solvency requirements.  We believe the application paper is grounded in an assumption 
+of an unrealistic degree of precision in scenario analysis and urge the IAIS not to promote or overutilize tools for 
+purposes for which they are not necessarily well suited.o It is in our view important to address the discrepancy between 
+the paper’s acknowledgement of the unreliability of scenario analysis and the proposed broad uses of the tool.  It may 
+therefore be more appropriate to position the AP as aspirational, emphasizing the potential future applications of 
+scenario analysis, while acknowledging its limitations in terms of supervisory and risk management effectiveness. 
+Concrete paragraphs that merit reconsideration in line with the aforementioned limitations are: 27 (the use of scenario 
+analysis for investment portfolio and capital position); 34 (conducting scenario analyses to support pricing and capital 
+positions); 55 (use of scenario analysis for testing the robustness and adequacy of solvency positions and defining 
+strategy); 60 (integrating the results of climate scenario analysis into underwriting processes); 74 (use of scenario 
+analysis to assess the adequacy and appropriateness of the existing risk appetite statement); 75 (SA as a tool to 
+identify and assess the robustness of their risk appetite statement); 78 (providing Board with scenarios that provide an 
+adequate basis for the assessment of overall solvency needs).
+
+Comments on section 5.7 Board accountability (ICP 16.11)  
+General 
+Insurance 
+Association of 
+Japan 
+Japan In order to recognize climate change risks as material risks and to understand the impact of these risks on the individual 
+insurer, if relevant for such individual insurer, it is important for the board of directors to be well informed. However, the 
+methodology for scenario analysis, the content to be reported, and the items to be discussed should be based on the 
+insurer's risk profile, as well as the nature and size of its business.As for the 2nd sentence of the 3rd bullet of Paragraph 
+78 ("Management actions should be concrete, applicable within a short timeframe and tailored to the specific risk profile 
+of the insurer"), management actions can vary depending on the time horizon and the assumptions of scenario analysis. 
+What measures can be implemented in a short timeframe can also vary according to market conditi ons. Therefore, 
+there may well be cases where management actions have to be similar to a high -level direction or something like a 
+decision tree. 
+Principles for 
+Responsible 
+Investment 
+United 
+Kingdom 
+The PRI welcomes and supports the recommendations that boards explicitly consider how climate -related scenario 
+analysis is integrated into existing governance frameworks. We particularly agree with the recommendations that boards 
+should explore management actions to be taken in adverse scenarios, that boards should dedicate time to discussing 
+the results of scenario analysis and their implications for strategy, and that board subcommittees may be particularly 
+useful for discussion of detailed findings. At many asset managers and asset owners around the world, it has been 
+found useful to assign specific board committees responsibility for the oversight of climate change issues. Periodic 
+examination of climate scenario results may be a useful tool for the implementation of such oversight. 
+Insurance 
+Europe 
+Europe • Para 78: The expectations regarding the Board are too prescriptive. The time spent by the Board on scenario analysis 
+should be commensurate to the meaningfulness and decision usefulness of the scenario design and the results.  
+American 
+Property 
+Casualty 
+Insurance 
+Association 
+United 
+States 
+APCIA believes that the recommendations in Paragraph 78 are overly prescriptive and are not appropriate for an 
+application paper. The concept of proportionality which is properly applied elsewhere in the paper should also be 
+applied here. We endorse the comments of the Global Federation of Insurance Associations (GFIA) that: “The 
+expectations regarding the Board are rather prescriptive. The time spent by the Board on scenario analysis should be 
+commensurate to the meaningfulness and decision-usefulness of the scenario design and the results.”
+
+Finance Watch EU We support section 5.7 and the principle of working to ensure that the board of directors receives and properly 
+considers information on climate risks, including from scenario analyses. It is, however, important for the board to 
+understand the limitations of climate scenario analyses in order to define timely measures. This should be an important 
+part of the time taken to understand scenarios and their implications outlined in paragraph 79.  
+ 
+An additional role for Board accountability around the ORSA can be to ensure that climate scenario analyses provide 
+realistic results. This can fit well with ICP 16.11.2, where an independent review can be conducted of the results of the 
+scenario analyses to this end. 
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global It is important for the board of directors to be well informed and to understand the impact of climate change risks on the 
+individual insurer. If insurers use scenario analysis, the methodology for scenario analysis, the content to be reported, 
+and the items to be discussed should be based on the insurer's risk profile, complexity of its operations, as well as the 
+nature, scope, and size of its business. In this section, climate risk ought to be contextualised as a risk that is affecting 
+other risks that are already monitored and managed by the insurer and positioned for board accountability in terms of 
+materiality and complexity in relation to those other risks. For instance, if climate risk is less material for an insurer than 
+other risks or is captured within other, non-climate-specific scenario analysis, it may be an imprudent use of time, 
+oversight, and resources for the board to receive a separate “set of scenarios aimed at assessing climate risk in a 
+forward-looking manner”. Rather, a more principles-based approach for board accountability as it relates to scenario-
+based analysis ought to be outlined in this section.Paragraph 78: ■ The expectations regarding the Board are rather 
+prescriptive. The time spent by the Board on scenario analysis should be commensurate to the meaningfulness and 
+decision-usefulness of the scenario design and the results. ■ As for the 2nd sentence of the 3rd bullet of Paragraph 78 
+("Management actions should be concrete, applicable within a short timeframe and tailored to the specific risk profile of 
+the insurer"), management actions can vary depending on the time horizon a nd the assumptions of scenario analysis. 
+What measures can be implemented in a short timeframe can also vary according to market conditions. Therefore, 
+there may well be cases where management actions have to be similar to a high -level direction or something like a 
+decision tree. 
+International 
+Actuarial 
+Association 
+(IAA) 
+International In para 78, second bullet, the time horizon for this "long-term" analysis should be relevant to the business model.  
+Applying the same time horizons to all business models would be a mistake. 
+ 
+In para 78, third bullet, management actions should not be overly descriptive and limited, to reflect the dynamic 
+environment that insurers live in.  As such, the IAA is concerned that the word “concrete” may restrict the ability of 
+management to adapt to the evolving environment.
+
+Ceres United 
+States 
+Ceres applauds the rightful positioning of boards as ultimately accountable for climate risk governance despite longer -
+term uncertainty. Guidance calling for substantive exposure assessments and scenario analysis engagement 
+demonstrates laudable ambitions to overcome short-term orientations, and framing resilience as an enterprise-critical 
+priority and emphasizing demonstrable management actions shows astute strategic thinking. Considerations of 
+solvency impacts beyond normal planning cycles exhibits studied awareness given climate risks play out over decades. 
+This section could further emphasize directors as active shepherds in business model adaptation rather than just 
+analysis monitors, but overall, clearly elevating boards’ duties suitably trains attention on governance bodies best able 
+to drive strategic realignment amidst rising climate uncertainty. Governance consideration is clearly built in as one of the 
+four key pillars of the TCFD climate disclosure structure, which has now been incorporated into t he International 
+Sustainability Standards Board. Governance is also key to the work in the U.S. from the insurance regulators in their 
+required disclosure. Ceres’ report Climate Risk Management in the U.S. Insurance Sector is an analysis of the almost 
+500 insurance companies and their responses on key topics, including governance.  
+E3G United 
+States 
+Section 5.7 Board accountability (ICP 16.11) We generally agree with the recommendations in paragraphs 78-79, with 
+the following observations: The final paper should note the importance of having top level decision makers be informed 
+about scenarios, including those that may be highly unlikely. The IAIS should ensure that boards have members with 
+appropriate expertise, and/or board members receive training to ensure sufficient understanding of climate risks, 
+scenario design and limitations, scenario results, including the risk of overconfidence and false security in scenario 
+analysis.
+
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+The draft application paper recommends that when scenario analysis exercises are conducted, the board should 
+dedicate time to understanding the results and what they mean for the insurer’s strategy. Boards may discuss the more 
+detailed findings in board subcommittees (paragraph 79). The draft further provides some clarification on the information 
+that should be provided to the board to form an opinion and make decisions. The draft is vague at best. The final paper 
+must state clearly that it's critical for top level decision making to be informed about scenarios that are unlikely or highly 
+unlikely, but must be avoided under any circumstances. There seems to be a general tendency in the draft application 
+paper to avoid identifying tail risks and acting accordingly. First, scenarios must include tail risks, and second, the 
+information about what can go wrong in the worst case must reach the top. After the Great Financial Crisis struck, 
+Queen Elizabeth asked economists at a visit to the London School of economics in 2008: “Why did no one see it 
+coming?”.[1] It seems as if the learnings have already vanished and supervisors are going down the same road again. 
+Turning a blind eye to tail risks is preparing the ground for disaster. Recommendations in the current  draft leave much 
+room for willful ignorance on the corporate and supervisory level.IAIS should make it explicit that boards need to include 
+members with expertise or they need to receive training to ensure sufficient understanding of climate risks, scenario 
+design and limitations, scenario results, and the risk of overconfidence and false security leading to erroneous strategic 
+decisions. In addition board members and management should make sure that critical information reaches the top 
+unfiltered including worst case scenarios.—------  [1] Giles, C. (2008). The economic forecasters’ failing vision. URL: 
+https://www.ft.com/content/50007754-ca35-11dd-93e5-000077b07658 
+The Geneva 
+Association 
+International The IAIS also provides descriptive indications on how firms must incorporate the outcomes of climate scenario analysis 
+in their governance, indicating that such assessments should provide an adequate basis for the assessment of overall 
+solvency needs or to inform concrete management actions based on adverse scenarios (paragraph 78)  
+The Geneva 
+Association 
+International o The IAIS also provides descriptive indications on how firms must incorporate the outcomes of climate scenario 
+analysis in their governance, indicating that such assessments should provide an adequate basis for the assessment of 
+overall solvency needs or to inform concrete management actions based on adverse scenarios (paragraph 78)
+
+Does the draft application paper provide sufficient detail to be a useful tool for supervisors and insurers?  
+General 
+Insurance 
+Association of 
+Japan 
+Japan Box 2 describes scenario analysis and protection gaps. While we agree with this intention, there are many variables 
+regarding protection gaps, such as consumer and reinsurer behaviors, making them difficult to handle in scenario 
+analysis. In addition, while scenario analysis conducted by an insurer is a bottom- up analysis of the individual 
+company's businesses, protection gaps are a macro matter. Since the scopes of the two are different, we do not believe 
+that the former can provide a meaningful analysis of the latter. It is possible to use macro scenario analysis conducted 
+by supervisory authorities, but even in that case, protection gaps will ultimately depend on the underwriting behavior of 
+individual insurance companies and the purchasing behavior of consumers. Therefore, the results are likely to differ 
+significantly depending on the assumptions and hypotheses made. 
+Finance Watch EU The draft application paper should provide more detail communicating the limitations of the climate scenario analyses 
+and interpreting their results in the view of these limitations - in order to avoid a false sense of security on the side of 
+regulators and supervisors responsible for timely mitigation actions. Supervisors should further pursue the work  to 
+ensure that climate scenarios produce realistic results, as outlined in the responses to questions 1 and 3. This should 
+be combined with an adequate time-horizon and quantification of the stranded fossil fuel assets borne by investment 
+portfolios for them to be effective tools for assessing climate-related risks. 
+ 
+Further, more guidance should be provided on the considerations of litigation risks related to insurers’ own practices - 
+refer to our comment on section 2.1 above. 
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global Box 2 describes scenario analysis and protection gaps. While GFIA agrees with this intention, there are many variables 
+regarding protection gaps, such as consumer and reinsurer behaviours, making them difficult to handle in scenario 
+analysis. In addition, while scenario analysis conducted by an insurer is a bottom- up analysis of the individual 
+company's businesses, protection gaps are a macro matter. Since the scopes of the two are different, GFIA does not 
+believe that the former can provide a meaningful analysis of the latter. It is possible to use macro scenario analysis 
+conducted by the authorities, but even in that case, protection gaps will ultimately depend on the underwriting behaviour 
+of individual insurance companies and the purchasing behaviour of consumers. Therefore, the results are likely to differ 
+significantly depending on the assumptions and hypotheses made. 
+American 
+Academy of 
+Actuaries 
+United 
+States 
+We don’t believe that the scenario analysis as described will be a useful tool for the reasons described above.
+
+International 
+Actuarial 
+Association 
+(IAA) 
+International The IAA is concerned that the paper seems to ignore the differences in business models and how that relates to time 
+horizon selections and the use of static vs. dynamic assumptions (as well as the needed granularity of the scenario 
+analysis for some business models).  The IAA believes that the guidance leans more towards a “one size fits all” 
+approach. 
+Ceres United 
+States 
+Overall, yes, our assessment is this draft application paper does provide sufficient detail to serve as a valuable tool for 
+both supervisors and insurers. Some of the key strengths include:  1) Clear definitional orientation: the paper effectively 
+distinguishes between scenario analysis and stress testing while elucidating the various dimensions of climate risk to 
+provide helpful context; 2) Actionable integration guidance: there is pragmatic guidance on embedding climate 
+considerations within existing regulatory and internal risk governance frameworks that drives adoption; 3) Holistic 
+approach: rather than a narrow focus, the paper examines implications across the breadth of supervisory mandates and 
+insurer functions, demonstrating sophisticated thinking; 4) Avoidance of over-prescription: while laying out sound 
+practices, the guidance retains flexibility for bespoke localization and proportionate customization as methodologies 
+mature in this still emerging domain; 5) Emphasis on resilience: the repeated focus on enhancing long-term resilience 
+against systemic risk promotes urgent adoption and helps frame climate risk as an enterprise- critical priority.  Some 
+sections may benefit from additional specifics on regulatory expectations, disclosure best practices, data sources, and 
+quantitative modelling processes to provide even further tangibility. The paper in sum strikes an effective balance in 
+outlining an ambitious, far-sighted vision for climate risk governance while grounding guidance in practical restr aints and 
+provides a strong toolkit for supervisor and insurers alike focused on real-world usability. 
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+n/a 
+The Geneva 
+Association 
+International By providing an overly optimistic and prescriptive perspective of potential use cases of climate scenario analysis to 
+inform macro- and micro prudential policies as well as for insurance firms governance and enterprise risk management, 
+the application paper reduced necessary flexibility for firms to conduct such forward- looking assessments in a most 
+decision useful way for their business model and risk profile. It also risks elevating climate risks above other (potentially  
+more dominant) risk drivers over a longer time horizon, leading to potential mis-incentives for prudential policy. We
+
+would recommend the IAIS to follow a more principles-based and staggered approach, reflecting the fast moving and 
+still evolving nature of underlying methodology. 
+The Geneva 
+Association 
+International o By providing an overly optimistic and prescriptive perspective of potential use cases of climate scenario analysis to 
+inform macro- and micro prudential policies as well as for insurance firms governance and enterprise risk management, 
+the application paper reduced necessary flexibility for firms to conduct such forward-looking assessments in a most 
+decision useful way for their business model and risk profile. It also risks elevating climate risks above other (potentially  
+more dominant) risk drivers over a longer time horizon, leading to potential mis-incentives for prudential policy. We 
+would recommend the IAIS to follow a more principles-based and staggered approach, reflecting the fast moving and 
+still evolving nature of underlying methodology. 
+ 
+Are the different dimensions of climate risk for insurers namely (i) transition (ii) physical and (iii) climate -related litigation risks effectively 
+covered in the application paper to both sides of insurer balance sheets?  
+General 
+Insurance 
+Association of 
+Japan 
+Japan As for (iii), while it can be understood as a reference to litigation risks in the investee (asset side) and underwriting suc h 
+as D&O (liability side), there may be differences in exposures and risk quantities for climate- related litigation risks due to 
+differences in jurisdictional legal systems. This makes it difficult to examine whether climate- related litigation risks are 
+effectively covered in the AP for both sides of insurer balance sheets.
+
+Principles for 
+Responsible 
+Investment 
+United 
+Kingdom 
+The PRI welcomes the discussions of transition, physical, and litigation risks. We would suggest that the following be 
+considered when supervisors undertake to address these risks, evaluate their relative importance, and understand the 
+interactions among them from the perspective of both sides of insurer balance sheets.While the type of risk analysis 
+done in the context of underwriting has traditionally been quite different from that used for investment, addressing the 
+climate crisis may necessitate a greater harmonization of approach.  Risk analysis for underwriting has often focused in 
+significant part on the worst possible outcomes an insurer might experience, in order to assess maximum possible 
+claims. Investment planning, meanwhile, has been more likely to take an approach that projects an expected outcome 
+as a weighted average, in which the high impact of a worst-case outcome can appear muted by its low probability. In 
+some cases, this may produce a disjunction between an underwriting team’s increasingly dire projections of climate 
+change’s catastrophic impacts and an investment manager’s relative sanguinity about the topic. To bring the two sides 
+into better alignment, insurers may wish to request that investment managers focus on assessing downside risk 
+specifically, rather than variation in general. This could be done using a variety of methods that focus on the risk of los s, 
+rather than simply standard deviation of returns. Investment staff should also be encouraged to explore narrative 
+scenarios (like those created by Business for Social Responsibility on the basis of the quantitative ones developed by 
+the Network for Greening the Financial System). These types of scenarios can help investment professionals to 
+consider climate risk as an investment theme that will alter the entire context of their activity, both through direct impacts 
+and through second and third-order effects such as supply chain disruptions and geopolitical conflict. Seen in this way, 
+the scope of the climate crisis as a financial issue may become more apparent than it does in scenarios that focus 
+solely on transition risk. (The latter may in some cases project relatively minor impacts to portfolios, as expected losses 
+in some sectors are nearly offset by gains in others.) Finally, in some cases, it may be possible for insurers to share the 
+catastrophe models developed by their underwriting teams directly with the investment professionals responsible for 
+their portfolios. Expanding the intellectual tool kit of investment managers in these ways may serve to better align the 
+conceptual approaches being taken by the two sides of insurers’ businesses and may thus better protect their long- term 
+prosperity.Modelling to date has emphasized transition risk, particularly in the short term; but physical risk, tipping 
+points, and second-order effects are increasingly being recognized as central to adequate scenario planning.  In 
+summer of 2023, the University of Exeter and the Faculty of Actuaries released a report entitled The Emperor's New 
+Climate Scenarios, which argues that the severity of climate risk has been underestimated because of inadequate 
+attention to potential tipping points and second-order effects. At COP 28, the Global Tipping Points report released by 
+Exeter’s Global Systems Institute provided more detail on some of these issues, including evidence that five of eight key 
+tipping points are already at risk of being breached. The Intergovernmental Panel on Climate Change, moreover, has 
+noted that the physical changes our planet is already experiencing as a result of climate change may be approaching 
+the limit of humanity’s ability to adapt to them. Given this reality, it is no longer prudent for scenarios to assume that 
+physical risk will become significant only in the medium to long term, or that it will grow in a linear fashion. Rather,
+
+modelers and users of scenario analysis must grapple with the fact that extreme negative effects could appear quite 
+suddenly and have an impact in the short term.
+
+Insurance 
+Europe 
+Europe • It is noted that:o A dynamic balance sheet approach requires the development of dedicated tools, which might differ 
+significantly between insurers.o The lack of data could prove challenging, in particular for stochastic valuation.  
+Finance Watch EU As referred to in the response to question 4 a key area risk around economic disruption arising from climate change 
+should be considered.  
+ 
+Also please refer to our comment on section 2.1 for the consideration of litigation risks.  
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global As for (iii), while it can be understood as a reference to litigation risks in the investee (asset side) and underwriting suc h 
+as D&O (liability side), there may be differences in exposures and risk quantities for climate- related litigation risks due to 
+differences in jurisdictional legal systems. This makes it difficult to examine whether climate- related litigation risks are 
+effectively covered in the AP for both sides of insurer balance sheets. 
+American 
+Academy of 
+Actuaries 
+United 
+States 
+These are well covered in general, but as described above we don’t believe the recognition of differences between life 
+and P&C insurers is sufficient. 
+International 
+Actuarial 
+Association 
+(IAA) 
+International The IAA believes that this question has too much of a balance sheet focus.  For fast pay non -life insurance, the issue is 
+not “liabilities” but instead the potential for incurred claim impacts that impact net assets more than the liabilities of a 
+year-end financial statement.
+
+Ceres United 
+States 
+Yes, in our assessment the draft application paper does effectively cover the core dimensions of climate risk across 
+both sides of the insurer balance sheets. Some of the key strengths demonstrating good multifaceted risk analysis 
+include: 1) Clear definitional distinctions made between physical, transition, and litigation risks that correctly situate 
+them as interconnected; 2) Guidance situating risks as relevant across existing insurance, market, credit, liquidity, and 
+operational risk taxonomy rather than in silos; 3) Examples provided of transmission channels and impacts spanning 
+assets and liabilities containing reasonable breadth; 4) Positing of second and third order effects to prevent overly 
+narrow assessments, demonstrating sophisticated systemic thinking; 5) Proportionality considerations to allow bespoke 
+localization, acknowledging global universality alongside geographical variability in risk factors; 6) Encouragement to 
+take sufficiently long-term views across multiple decades capturing risks playing out over extended timeframes; and 7) 
+Diversified transition pathway scenarios outlined, spanning both orderly and disorderly possibilities.  In summary, by 
+providing expansive orientation and diverse illustrative examples, the draft guidance effectively grounds multifaceted, 
+holistic climate risk analysis firmly into existing insurer frameworks, governance, and practices. The dimensions 
+reinforce these risks’ complex systemic nature. 
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+n/a 
+ 
+Are there concepts or approaches which should be added to the application paper?  
+Finance Watch EU The wording of the application paper on certain recommended measures should be strengthened by using the wording 
+of “should” instead of “could” - to facilitate consistency of supervisory practices, among others given the existing 
+supervisory capacity gaps. In particular, we refer to the guidance made in paragraphs 13, 14, 21, 35, 37, 46a, 50, 51, 
+58b, 62, 67, 71, 74, 76. 
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global The suggested addition of climate-related risk implies that it is an example of stand-alone risk. This is not the case. If 
+climate-related risk is going to be included, consider framing it in the context of how climate- related risks may manifest 
+themselves as a material financial risk for purposes of solvency regulation or in other areas. Such an approach of 
+putting into context may be more consistent with the importance of being focused on insurance fundamentals (through a 
+direct link to solvency). Further, it should also be focused on where such risk is material. Additionally, it should also
+
+incorporate flexibility (where property-casualty insurer risks can manage shorter tail risks over time) while respecting 
+any data challenges. 
+American 
+Academy of 
+Actuaries 
+United 
+States 
+We believe that consideration of management actions and other likely changes over time (versus a static approach) are 
+critical to consider. 
+International 
+Actuarial 
+Association 
+(IAA) 
+International There needs to be better discussion of granularity needs for certain business models. 
+Ceres United 
+States 
+Ceres recommends consideration of potential concepts or approaches that could further strengthen this climate risk 
+application paper, including: 1) More specifics on regulatory expectations for climate risk disclosures, scenario analysis 
+reporting, and associated transparency requirements. Additional detail could better reinforce accountability aims; 2) 
+Concrete illustrations of identified risk concentrations and leading practice examples for risk mitigation across both 
+assets and liabilities. Real-world cases reinforce tangibility; 3) Greater detail on quantitative model usability 
+expectations, data sources, and methodological flexibility to aid adoption by insurers amidst current limitations. 
+Granularity aids application; 4) Inclusion of guidance for smaller, less-resourced insurers on proportionate approaches 
+to progressive climate risk integration; 5) Collaborative approaches to developing open- access climate risk data 
+consortiums through supervisor cooperation and industry initiatives, as  accessibility aids smaller firm adoption; 6) 
+References to insurer climate transition plans, as highlighting forward-looking transition planning could complement risk 
+analysis with a solutions-focused, resilience-building imperative befitting IAIS’ sustainability mission. These transition 
+plans should include a longer-term net zero goal but also measurable milestones at least every 5 years; 7) Specific 
+needs and services for low- and moderate-income families and 8) Consideration of jurisdictional variation in policyholder 
+vulnerabilities and distributional climate impacts based on socioeconomic factors, providing an equity lens application. 
+In summary, additional levels of granularity, accessibility, tangibility, and specificity could provide helpful supplemental 
+guidance as supervisors and insurers alike navigate an increasingly climate risk -filled landscape in the years ahead.
+
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+n/a 
+ 
+Does the application paper cover all relevant issues for scenario analysis from a macroprudential perspective (see section 4) ?  
+Finance Watch EU Please refer to the response to question 8. 
+Global 
+Federation of 
+Insurance 
+Associations 
+(GFIA) 
+Global GFIA suggests that the IAIS not limit climate scenario analysis to quantitative analysis. Qualitative analysis can be 
+useful in (1) providing insights on the interconnectedness of climate risk with other risks (e.g. geopolitical risks) As well  
+as (2) in filling gaps in areas that are less understood or challenging to models (such as tipping point and feedback 
+loops). 
+Ceres United 
+States 
+Yes, we find the draft paper covers key relevant issues for climate scenario analysis from a macroprudential supervisory 
+perspective. Some of the main highlights demonstrating good breadth of guidance include: 1) Assessing systemic 
+importance of individual insurers and the sector through exercises evaluating risk concentrations and transmission 
+channels; 2) Use of analyses to detect protections gaps and consumer impacts alongside financial stability risks; 3) 
+Identification of data and method limitations hindering access by less-resourced firms; 4) Coordination of complexities 
+across jurisdictional, sectoral, and regulatory mandate variations; 5) Role of transparency in risk communication, 
+accountability, and motivating industry changes; 6) Relating findings to capital and liquidity planning, crisis 
+preparedness, and pre-emptive interventions; and 7) Guidance allowing flexibility for bespoke stress-testing while 
+calling for transparency.  While certain sections may have benefited from more granularity around methods, 
+coordination protocols, disclosure standards and such, the paper broadly demonstrates sophisticated thinking around 
+key channels for systemic risk amplification. In summary, section 4 details both the purpose and applications of 
+macroprudential-focused climate risk analysis across regulatory dimensions.
+
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+n/a 
+The Geneva 
+Association 
+International - The paper seems to assume a link between climate change risk and insurer-generated systemic risk. This going 
+beyond what we believe to be reasonable.  
+ 
+- The FSB defines systemic risk a threat to the entire financial system: “the risk of disruption to the flow of financial 
+services that is caused by an impairment of all or parts of the financial system and has the potential to have serious 
+negative consequences for the real economy” . While climate change undeniably poses risks to societies globally, to 
+date, the linkages between climate change, the insurance sector and impairment of the financial system are 
+unsubstantiated. For example, it is unclear how the impact of climate risk on asset values might create a fire sale risk 
+such as what was experienced during the 2008 financial crisis. Also, there are differences in the composition of the 
+investment portfolio between banks and insurers, with the latter being driven by asset liability management and hence 
+significant investments in government bonds that have a different exposure to climate related transition risks. 
+Importantly, the IAIS’s Global Insurance Market Report (GIMAR) published in September 2021 concluded that the 
+insurance industry was well-positioned to withstand potential losses related to climate relevant investments. Considering 
+this, the IAIS should focus on the micro prudential management of risk by individual firms rather than macroprudential 
+threats to the financial system.
+
+The Geneva 
+Association 
+International o The paper seems to assume a link between climate change risk and insurer -generated systemic risk. This going 
+beyond what we believe to be reasonable. o The FSB defines systemic risk a threat to the entire financial system: “the 
+risk of disruption to the flow of financial services that is caused by an impairment of all or parts of the financial system 
+and has the potential to have serious negative consequences for the real economy” . While climate change undeniably 
+poses risks to societies globally, to date, the linkages between climate change, the insurance sector and impairment of 
+the financial system are unsubstantiated. For example, it is unclear how the impact of climate risk on asset values might 
+create a fire sale risk such as what was experienced during the 2008 financial crisis. Also, there are differences in the 
+composition of the investment portfolio between banks and insurers, with the latter being driven by asset liability 
+management and hence significant investments in government bonds that have a different exposure to climate related 
+transition risks. Importantly, the IAIS’s Global Insurance Market Report (GIMAR) published in September 2021 
+concluded that the insurance industry was well-positioned to withstand potential losses related to climate relevant 
+investments. Considering this, the IAIS should focus on the micro prudential management of risk by individual firms 
+rather than macroprudential threats to the financial system. 
+ 
+Does the application paper cover all relevant issues for scenario analysis related to Enterprise Risk Management and governan ce (see section 
+5)?  
+Insurance 
+Europe 
+Europe • While the paper explores a lot of concepts, it is highlighted that it could be challenging for undertakings to apply these 
+in practice. 
+Finance Watch EU Please refer to the responses to questions 13 - 19.
+
+Ceres United 
+States 
+Yes, we find the application paper covers the key relevant issues regarding integrating climate scenario analysis into 
+enterprise risk management and insurer governance relatively comprehensively. Main highlights include: 1) Embedding 
+climate considerations across ORSAs, risk appetite evaluations, asset liability management, investment and 
+underwriting policies, and board accountability; 2) Relating findings to strategic planning, risk limits, capital adequacy, 
+stress testing, and solvency considerations; 3) Encouraging investor stewardship for managed climate risk transitions in 
+investee companies; 4) Proportionate and phase-in flexibility afforded for sophistication variations across market 
+participants; 5) Identifying second and third order business impacts spanning future products, services, and business 
+models; and 6) Long-term “tragedy of the horizons” framing underscoring systemic risk urgency.  The paper may benefit 
+from further detail around quantitative model usability expectations, data accessibility pathways, disclosure best 
+practices, and remediation protocols for identified deficiencies. Overall, section 5 embeds scenario analysis into risk 
+management and governance mechanisms demonstrating commendable awareness of transmission channels, with key  
+considerations covered well at a broad level. 
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+In the draft application paper, the IAIS suggests that scenario analysis should play a key role in informing corporate risk 
+management and governance. In particular, it is noticeable that the use of scenario analysis results as a basis for 
+strategic decision making for the development of an insurer's core business is a recurring theme throughout the draft 
+application paper. This raises the question of the use of scenario analysis results in relation to the development and 
+implementation of science-based, Paris-aligned, net zero transition plans. A highly relevant issue that is not even briefly 
+touched upon in this draft application paper. It is the responsibility of the IAIS to provide sufficient guidance on how to 
+use the various tools recommended by regulators and supervisors to address clim ate-related financial risks and inform 
+business strategy. To fulfil their responsibilities, boards and senior management need to have a thorough understanding 
+of scenario analysis and its limitations, and be fully aware that it's not an option to use scenario analysis results to justify 
+any strategic decision that is inconsistent with achieving a net-zero transition in line with the Paris Agreement, and that 
+such an attempt will trigger supervisory intervention. Where appropriate, insurers should add board members with 
+relevant expertise and provide training to other board members. Expertise should not be concentrated in the hands of 
+one board member. The same concerns and recommendations would apply to senior management.
+
+The Geneva 
+Association 
+International - As set out previously, forward-looking climate scenario analysis has clear limitations that hamper its viability to inform 
+concrete business decisions. We are of the view that the current draft paper should reflect these limitations more clearly 
+and that it goes too far in terms of promoting the reliance on this tool, particularly for firms’ enterprise risk management. 
+Areas where we believe the IAIS has gone too far include:  
+§ Informing business strategy (paragraphs 13, 17, 27, 34, 65, 77) 
+§ Informing risk appetite (paragraphs 74, 75, 77) 
+§ Assessing and managing capital (paragraphs 27, 34, 55, 78) 
+§ Assessing and managing investment/ transition risks (paragraphs 13, 26, 27, 58)  
+§ Assessing and managing underwriting risks (paragraphs 14, 26, 59, 60)  
+§ Identifying climate-change related risk correlations (paragraph 27) 
+§ Assessing financial stability implications (paragraphs 25, 26, 35-44) 
+ 
+- Also, the governance section is very detailed and prescriptive and by that singles out the treatment of one risk dr iver 
+(climate risks) over others in an insurers’ governance. This is not in line with risk -based supervision. 
+The Geneva 
+Association 
+International o As set out previously, forward-looking climate scenario analysis has clear limitations that hamper its viability to inform 
+concrete business decisions. We are of the view that the current draft paper should reflect these limitations more clearly 
+and that it goes too far in terms of promoting the reliance on this tool, particularly for firms’ enterprise risk management. 
+Areas where we believe the IAIS has gone too far include: § Informing business strategy (paragraphs 13, 17, 27, 34, 65, 
+77)§ Informing risk appetite (paragraphs 74, 75, 77)§ Assessing and managing capital (paragraphs 27, 34, 55, 78)§ 
+Assessing and managing investment/ transition risks (paragraphs 13, 26, 27, 58)§ Assessing and managing 
+underwriting risks (paragraphs 14, 26, 59, 60)§ Identifying climate-change related risk correlations (paragraph 27)§ 
+Assessing financial stability implications (paragraphs 25, 26, 35-44)o Also, the governance section is very detailed and 
+prescriptive and by that singles out the treatment of one risk driver (climate risks) over others in an insurers’ 
+governance. This is not in line with risk-based supervision.
+
+Is there any additional work the IAIS should be undertaking in the area of climate -related scenario analysis?  
+Finance Watch EU Please refer to the response to questions 1 and 3. 
+Ceres United 
+States 
+Ceres recommends the following potentially productive areas of additional work the IAIS could undertake to build on this 
+strong foundation: 1) Issue supplementary guidance with greater specification on regulatory disclosure expectations, 
+modelling standards, data accessibility pathways and flexible but standardized methodological frameworks. More 
+granularities would support adoption; 2) Provide a repository of physical and transition risk climate data sets, tools, and 
+leading practice case studies curated for the insurance sector. Accessibility aids adoption; 3) Conduct cross-
+jurisdictional scenario analysis projects evaluating consistent, comparable results across regions to better understand 
+interconnectivity of climate impacts; 4) Develop inspector training modules and run industry workshops supporting 
+capability improvement proportionate to insurer sophistication and based on evolving leading practices. Capacity 
+building aids progression; and 5) Issue guidance supporting smaller, less-resourced insurers focused on incremental 
+integration and highlighting alternative avenues to access external expertise.   
+ 
+Supplementary work enabling greater harmonization, coordination, accessibility, transparency, capability building, and 
+progress visibility could further amplify the IAIS’ influence in this critical area of insurer insolvency and systemic risk 
+resilience.
+
+The Sunrise 
+Project, 
+Financial 
+Regulation and 
+Policy Program 
+European 
+Union 
+The IAIS should undertake efforts to improve development and understanding of scenario analysis so that they can be 
+used effectively by supervisors, insurers, and other stakeholders. This work would include educating key IAIS decision 
+makers in the relevant IAIS committees such as the Executive Committee, the Implementation and Assessment 
+Committee, the Macroprudential Committee and the Policy Development Committee on the limitations of scenario 
+analysis and support knowledge diffusion among all relevant stakeholders in the insurance sector. In particular, it is the 
+full responsibility of the IAIS to ensure that insurers and supervisors understand the limitations of the NGFS and other 
+models that underpin the scenarios, as the draft application paper states that it "does not consider the devel opment of 
+climate scenarios themselves, which are issues to be considered by bodies such as the Network for Greening the 
+Financial System (NGFS)". It must be considered inherently dangerous to propose the use of a new forward- looking tool 
+to identify climate-related financial risks and to use the results as a basis for strategic decision making, which could 
+potentially create a false sense of security if applied without an understanding of the limitations rooted in the 
+underpinning models (such as the NGFS models).A growing number of economic reports are taking a critical view of 
+scenario analysis and the economic models upon which they are based (in addition to those referred to elsewhere in 
+this response, a non-exhaustive list is provided below). We strongly encourage the IAIS to ensure that these findings 
+are brought to the attention of the relevant IAIS Committees (see above) and stakeholders in the insurance sector. The 
+IAIS should consider providing supervisors and insurers with an application guide to scenario analysis, covering the full 
+range of currently available information on scenario analysis and ensuring that the tool is fully understood and correctly 
+applied.1) Huges, C., Ryan-Collins, J., Van Lerven, F. (2020). Finance, climate-change and radical uncertainty: 
+Towards a precautionary approach to financial policy. URL: 
+https://www.sciencedirect.com/science/article/pii/S092180092100015X2) Keen, S. (2023). Loading the DICE against 
+pension funds. Flawed economic thinking on climate has put your pension at risk. URL: 
+https://carbontracker.org/reports/loading-the-dice-against-pensions/3) Monasterolo, I., Nieto, M., Schets, E. (2022). The 
+Good, the Bad and the Hot House World: Conceptual Underpinnings of the NGFS Scenarios and Suggestions for 
+Improvement. URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=42113844) Monasterolo, I., Nieto, M. J., 
+Schets, E. (2023). Assessing the “Tragedy of the Horizons”: Conceptual underpinnings of the NGFS scenarios and 
+suggestions for improvement. URL: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/assessing-the-
+tragedy-of-the-horizons-conceptual-underpinnings-of-the-ngfs-scenarios-and-suggestions-for-improvement/5) 
+Philipponnat, T. (2023). Finance in a hot house world. A call for economic models that do not mislead, scenario 
+analyses that prepare the market, and a new prudential tool. URL: https://www.finance- watch.org/wp-
+content/uploads/2023/10/report-finance-in-a-hot-house-world-1.pdf6) Ranger, N. A., Mahul, O., Monasterolo, I. (2022). 
+Assessing Financial Risks from Physical Climate Shocks: A Framework for Scenario Generation. URL: 
+https://openknowledge.worldbank.org/entities/publication/99308d14-488c-5ff1-81ca-ff5417b789787) Täger, M. & Dikau, 
+S. (2023). Purposeful scenario analysis: A framework to guide central banks and financial supervisors in the selection
+
+and design of climate scenarios. URL: https://www.lse.ac.uk/granthaminstitute/publication/purposeful -scenario-analysis-
+a-framework-to-guide-central-banks-and-financial-supervisors-in-the-selection-and-design-of-climate-scenarios/
+
+The Geneva 
+Association 
+International Climate scenario analysis is an evolving, fast moving and complex topic. In light of this, we would welcome the IAIS to 
+conduct more engagement with the industry before finalizing the paper.

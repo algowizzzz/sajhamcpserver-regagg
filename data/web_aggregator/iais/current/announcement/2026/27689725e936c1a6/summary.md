@@ -1,0 +1,1 @@
+Summary: # IAIS charts course on Insurance Capital Standard (ICS) implementation ahead of adoption in December 2024

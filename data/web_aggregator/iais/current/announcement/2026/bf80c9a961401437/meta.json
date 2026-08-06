@@ -1,0 +1,24 @@
+{
+  "doc_id": "bf80c9a961401437",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2023/10/IAIS-statement-IAIS-begins-the-AM-comparability-assessment.pdf",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2023/10/IAIS-statement-IAIS-begins-the-AM-comparability-assessment.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:42c18459b9f07a2ea6d20d12e499a8a38d9145f84d4244fee3b6c57aec839d9c",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/bf80c9a961401437",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

@@ -1,0 +1,15 @@
+1. [Home](https://www.iais.org/)
+2. Victoria Saporta
+
+### **Victoria (Vicky) Saporta**
+
+*Past Chair, IAIS Executive Committee*  
+*Executive Director, Prudential Regulation Authority (PRA) and the Bank of England*
+
+Vicky Saporta is Executive Director for Prudential Policy in the Bank of England and the Prudential Regulatory Authority (PRA). Vicky has held a number of positions in regulatory policy, financial stability and monetary policy in a career spanning over 25 years at the Bank of England. Vicky was at the heart of the regulatory reforms undertaken by the Bank after the global financial crisis and has been leading the prudential policy work of the PRA since July 2016. More recently, Vicky led the Bank’s contribution to the post-Brexit regulatory framework and, within that, the PRA’s approach to rulemaking for all UK banks and insurers.
+
+Vicky has represented the Bank on numerous international committees dealing with central banking and regulatory issues. Vicky is the Past Chair of the Executive Committee of the International Association of Insurance Supervisors. She has been a member of the Basel Committee on Banking Supervision since 2016.
+
+Vicky holds a PhD in Economics, M.Phil in Finance from the University of Cambridge and a B.Sc in Mathematical Economics and Econometrics from the London School of Economics. She has published a number of articles in books, professional journals and Bank of England publications and is Professor in Practice at the Department of Economics and Finance at the University of Durham.
+
+![](https://www.iais.org/uploads/2022/01/Victoria-Saporta-header-1-300x206.jpg)

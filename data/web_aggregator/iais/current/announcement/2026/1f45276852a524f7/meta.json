@@ -1,0 +1,24 @@
+{
+  "doc_id": "1f45276852a524f7",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "IAIS issues comment letter to the IASB\u2019s exposure draft on proposed amendments to Financial Instruments with Characteristics of Equity - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/2024/03/iais-response-to-the-iasbs-exposure-draft-on-proposed-amendments-to-financial-instruments-with-characteristics-of-equity/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4b10bb9635fa709903f573a50e002c27ee3da166b805e8c036267a4ccc36f75b",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/1f45276852a524f7",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

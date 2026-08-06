@@ -1,0 +1,24 @@
+{
+  "doc_id": "57ed143a4cf03689",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "IAIS Roadmap outlines key deliverables for 2024 - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/2024/01/iais-roadmap-outlines-key-deliverables-for-2024/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5073d08be4263feefd943fc1de731a0b8a1f2a183e7d65768df1e84374f1832e",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/57ed143a4cf03689",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

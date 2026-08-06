@@ -1,0 +1,24 @@
+{
+  "doc_id": "7b26b6357c1c8ebd",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "Lara Lylozian - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/team/lara-lylozian/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:fbbb9eb368420fbd06a9c2706554aac2ea1cd9e239d2791688f83d1a3de12d97",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/7b26b6357c1c8ebd",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

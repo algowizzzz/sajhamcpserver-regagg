@@ -1,0 +1,1 @@
+Summary: # Andy Mais appointed Vice Chair of the IAIS Executive Committee

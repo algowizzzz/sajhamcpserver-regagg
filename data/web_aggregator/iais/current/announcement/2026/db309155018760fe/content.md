@@ -1,0 +1,58 @@
+# IAIS publishes its workplan (Roadmap) outlining key deliverables for 2025-2026
+
+[27 Jan 2025](https://www.iais.org/2025/01/iais-publishes-its-workplan-roadmap-outlining-key-deliverables-for-2025-2026/)
+
+in [Latest news](https://www.iais.org/category/latest-news/), [Press releases](https://www.iais.org/category/press-releases/), [Strategic Plan and Roadmap](https://www.iais.org/category/strategic-plan-and-roadmap/)
+
+* Following a period of intensive standard-setting, including the adoption of the Insurance Capital Standard (ICS) at the end of 2024, the IAIS will shift its focus to a greater emphasis on supporting comprehensive and globally consistent implementation of IAIS standards, including the development of an implementation assessment methodology for the ICS.
+* The IAIS will remain vigilant in assessing key risks and trends impacting the global insurance sector, including structural shifts in the life insurance sector and the potential financial stability impact of natural catastrophe protection gaps.
+* The IAIS will also continue to support its members’ efforts to implement IAIS standards by developing guidance papers on supervisory practices and facilitating peer exchange, including on each of the IAIS’ strategic themes: climate change, digital innovation and supporting insurance to serve its societal purpose of building resilience.
+
+**Basel, Switzerland** – The International Association of Insurance Supervisors (IAIS) today published its [Roadmap 2025-2026](https://www.iais.org/uploads/2025/01/IAIS-Roadmap-2025-2026.pdf), the first under the new [IAIS Strategic Plan 2025-2029](https://www.iais.org/uploads/2024/10/Strategic-Plan-2025-2029.pdf).
+
+The Roadmap outlines the projects and activities the IAIS will undertake in support of its four core objectives – namely to:
+
+* Monitor and respond to key risks and trends in the global insurance sector;
+* Set and maintain globally recognised standards for supervision that are effective and proportionate;
+* Support members by sharing good supervisory practices, promoting understanding of supervisory issues and facilitating capacity building; and
+* Assess comprehensive and globally consistent implementation of global standards.
+
+Following an intensive phase of standard-setting, including the [adoption of the Insurance Capital Standard](https://www.iais.org/2024/12/iais-adopts-insurance-capital-standard-and-other-enhancements-to-its-global-standards-to-promote-a-resilient-insurance-sector/) (ICS) at the end of 2024, the IAIS will now focus on the comprehensive and globally consistent implementation of its supervisory material. This shift is reflected in the Roadmap through an enhanced programme of implementation support and assessment, including the development of an assessment methodology for the ICS.
+
+“The Roadmap 2025-2026 sets out the immediate priorities for the IAIS as we pivot from a strong focus on setting standards to ensuring their effective implementation. This transition is crucial for maintaining robust and consistent supervision across the insurance sector, and we are committed to supporting our members throughout this process,” said Executive Committee Chair, Shigeru Ariizumi.
+
+In line with the IAIS Strategic Plan, the IAIS will continue to assess key risks and trends impacting the global insurance sector and discuss collective supervisory responses. This includes enhancing the annual IAIS Global Monitoring Exercise to detect systemic risks and continuing to report on its outcomes in the Global Insurance Market Report. This year, particular focus areas include structural shifts in the life insurance sector – covering increased asset allocation to alternative investments and the growth of cross-border asset-intensive reinsurance – as well as the potential financial stability implications of natural catastrophe protection gaps.
+
+The IAIS will also support its members’ efforts to implement IAIS standards by developing guidance on effective supervisory practices and facilitating peer exchange. Key areas of work will respond to trends that affect the global insurance sector and the broader financial system, such as the supervision of climate-related risks and the application of IAIS standards on the use of artificial intelligence (AI).
+
+“Our focus on climate change, digital innovation and building resilience reflects the key role that insurance plays in addressing some of society’s most pressing global challenges. By addressing these strategic themes, we aim to equip our members with the tools and knowledge needed to navigate the complexities of their impact on the insurance sector and to contribute to enhancing sustainable growth and resilience”, remarked Secretary General Jonathan Dixon.
+
+In advancing the broad range of initiatives outlined in the Roadmap, the IAIS remains committed to assisting members from emerging market and developing economy jurisdictions and will continue to collaborate with the Financial Stability Board and other standard-setting bodies as well as with other international organisations and the IAIS’ implementation partners.
+
+In tandem with launching this year’s Roadmap, we are pleased to announce that the IAIS has a new website address: www.iaisweb.org has changed to [www.iais.org](https://www.iais.org/).
+
+**Read the Roadmap 2025-2026 [here](https://www.iais.org/uploads/2025/01/IAIS-Roadmap-2025-2026.pdf).**
+
+**Please find the press release in pdf [here](https://www.iais.org/uploads/2025/01/IAIS-Press-Release-IAIS-Roadmap-2025-2026.pdf)**.
+
+**About the IAIS** 
+
+The IAIS is a global standard-setting body whose objectives are to promote effective and globally consistent supervision of the insurance industry to develop and maintain fair, safe and stable insurance markets for the benefit and protection of policyholders and to contribute to the maintenance of global financial stability. Its membership includes insurance supervisors from more than 200 jurisdictions. Learn more at [www.iais.org](http://www.iais.org/). Follow us on LinkedIn: [IAIS – International Association of Insurance Supervisors](https://www.linkedin.com/company/iais-international-association-of-insurance-supervisors). 
+
+**Media****c****ontact****:**  
+Melanie Clowes   
++41 61 280 8442   
+[press@iais.org](mailto:press@iais.org)   
+ 
+
+27 Jan 2025
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2025%2F01%2Fiais-publishes-its-workplan-roadmap-outlining-key-deliverables-for-2025-2026%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

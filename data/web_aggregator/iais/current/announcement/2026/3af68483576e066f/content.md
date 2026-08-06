@@ -1,0 +1,15 @@
+1. [Home](https://www.iais.org/)
+2. Alwin Luchmaya
+
+### **Alwin Luchmaya**
+
+***Vice Chair, IAIS Macroprudential Supervision Working Group  
+*Senior Technical Specialist in the Insurance Policy Division, Prudential Policy Directorate, Bank of England****
+
+Having joined the Bank of England in 2022, Alwin has worked on a range of domestic and international insurance policy topics. This includes capital management under Solvency UK, asset allocation, hedging, and reinsurance risk transfers in the UK life insurance sector. He has also contributed to several macroprudential and financial stability workstreams at the Bank of England, with contributions to the Life Insurance Stress Test and the Bank’s Financial Stability Reports.
+
+Alwin was also a member of the IAIS Capital, Solvency and Field-Testing Working Group, supporting the work that led to the IAIS adopting the global risk-based Insurance Capital Standard (ICS) in 2024.
+
+Prior to joining the Bank of England, Alwin held a number of roles in the private sector, supporting the UK insurance and pension sector in various capacities. He has a BSc degree in Economics and Mathematics.
+
+![](https://www.iais.org/uploads/2026/01/Alwin-Luchmaya-scaled-300x388.jpg)

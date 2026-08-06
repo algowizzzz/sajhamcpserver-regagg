@@ -1,0 +1,73 @@
+# Public consultation on draft revisions to supervisory material related to the Holistic Framework
+
+[5 Dec 2024](https://www.iais.org/2024/12/public-consultation-on-draft-revisions-to-supervisory-material-related-to-the-holistic-framework/)
+
+in [closed consultations](https://www.iais.org/category/closed-consultations/), [Consultations](https://www.iais.org/category/consultations/), [Latest news](https://www.iais.org/category/latest-news/), [Supervisory and supporting material](https://www.iais.org/category/supervisory-and-supporting-material/)
+
+[Consultation](https://www.iais.org/2024/12/public-consultation-on-draft-revisions-to-supervisory-material-related-to-the-holistic-framework/)
+
+[Stakeholder event](https://www.iais.org/events/public-background-session-on-public-consultation-on-draft-revisions-to-supervisory-material-related-to-the-holistic-framework/)
+
+[Resolution of comments](https://www.iais.org/uploads/2024/12/Resolution-of-public-consultation-comments-on-draft-revisions-to-supervisory-material-related-to-the-Holistic-Framework.pdf)
+
+[Final paper](https://www.iais.org/uploads/2025/06/IAIS-ICPs-and-ComFrame-December-2024.pdf)
+
+**The consultation closed on 27 June 2024.**
+
+**Background information**
+
+Following the adoption at the Annual General Meeting on 5 December, the IAIS has published the updated Insurance Core Principles (ICPs) and the Common Framework for the Supervision of internationally active insurance groups (ComFrame/CF), which include changes to supervisory material related to the Holistic Framework of the assessment and mitigation of systemic risk in the insurance sector.
+
+As part of its endorsement by the Financial Stability Board (FSB), the IAIS committed to consider lessons learnt from its implementation, particularly through the Targeted Jurisdictional Assessments (TJAs), which are intensive assessments of the implementation of the Holistic Framework supervisory material.
+
+Accordingly, the IAIS reviewed certain ICPs and ComFrame that form part of the Holistic Framework supervisory material. The review covered the standards and guidance related to liquidity risk, counterparty risk appetite, contingency funding plans, and recovery and resolution. Those standards were updated to incorporate lessons learnt, enhance clarity on intended outcomes, ensure consistency in interpretation and avoid unintended consequences that were identified through the TJA.
+
+Comments on the draft updated ICPs and ComFrame were sought between March and June 2024. The comments received and the IAIS’ responses are available at the bottom of this page. In response to the comments received, some further changes were made to the relevant ICPs and ComFrame.
+
+* **Updates to the standards and guidance material related to liquidity risk, counterparty risk appetite, contingency funding plans in ICP 16 (Enterprise Risk Management (ERM) for Solvency Purposes), with the aim of clarifying the standards and addressing any perceived over-prescriptiveness:**
+  + ICP 16.6 and CF 16.6.b (counterparty risk appetite): Changes to standards to allow the counterparty risk appetite statement to be specified in the ERM investment policy.
+  + ICP 16.9 and CF 16.9.c (contingency funding plan): Changes to the guidance to clarify that the contingency funding plan can be a standalone statement or, at the supervisor’s discretion, integrated fully and comprehensively into other elements of the ERM.
+  + No material changes were made to the materials following consultation.
+
+* **Updates to the standards and guidance material related to recovery and resolution plans and powers in ICP 12 (Exit from the Market and Resolution), ICP 16 and related ComFrame material:**
+  + ICP 12.3 and new ICP 12.4 and CF 12.3.a and new CF12.4.a/b (resolution plans):
+    - Changes were made to ensure consistency in determining insurers in scope of the requirement, and to further align the standards with the [FSB Key Attributes of Effective Resolution Regimes for Financial Institutions](https://www.fsb.org/2024/04/key-attributes-of-effective-resolution-regimes-for-financial-institutions-revised-version-2024/). No material changes were made to these materials following consultation, but some language was moved between ComFrame and ICP as these are applicably beyond IAIGs.
+  + ICP 12.8 and CF12.8.a-i (resolution powers):
+    - The resolution powers are grouped into eight separate categories. At the ComFrame level, instead of covering all required resolution powers in one standard, these powers are now covered in multiple standards, thereby allowing for a more precise implementation assessment. No material changes were made to these materials following consultation.
+  + ICP 16.15 (recovery planning):
+    - The changes presented for consultation were mainly made to align with those for resolution plans above.
+    - Following consultation, the IAIS made some further changes, notably to combine ICP 16.15 and 16.16 and to add some new language in the guidance. This is to make clear that the expectation for insurers to “evaluate in advance their specific risks and options to recover from severe stress”, may be applied differently to different insurers depending on the nature, scope and complexity of insurers, and that the ORSA could be used as the basis of the evaluation, particularly for small insurers.
+
+The updated ICPs and ComFrame are available below.
+
+Starting in 2025, IAIS will work on updating related supporting materials (application papers) to reflect the revised ICPs and ComFrame.
+
+### [IAIS ICPs and ComFrame adopted in December 2024](https://www.iais.org/uploads/2025/06/IAIS-ICPs-and-ComFrame-December-2024.pdf) 5 Dec 2024
+
+[Download](https://www.iais.org/uploads/2025/06/IAIS-ICPs-and-ComFrame-December-2024.pdf)
+
+### [Resolution of public consultation comments on draft revisions to supervisory material related to the Holistic Framework](https://www.iais.org/uploads/2024/12/Resolution-of-public-consultation-comments-on-draft-revisions-to-supervisory-material-related-to-the-Holistic-Framework.pdf) 5 Dec 2024
+
+[Download](https://www.iais.org/uploads/2024/12/Resolution-of-public-consultation-comments-on-draft-revisions-to-supervisory-material-related-to-the-Holistic-Framework.pdf)
+
+### [Draft revisions to supervisory material related to the Holistic Framework](https://www.iais.org/uploads/2024/03/Draft-revisions-to-supervisory-material-related-to-the-Holistic-Framework.pdf) 27 Mar 2024
+
+[Download](https://www.iais.org/uploads/2024/03/Draft-revisions-to-supervisory-material-related-to-the-Holistic-Framework.pdf)
+
+### [Questions for public consultation on draft revisions to supervisory material related to the Holistic Framework](https://www.iais.org/uploads/2024/03/Questions-for-public-consultation-on-draft-revisions-to-supervisory-material-related-to-the-Holistic-Framework.docx) 27 Mar 2024
+
+[Download](https://www.iais.org/uploads/2024/03/Questions-for-public-consultation-on-draft-revisions-to-supervisory-material-related-to-the-Holistic-Framework.docx)
+
+11 Jul 2025
+
+[Holistic Framework](https://www.iais.org/tag/holistic-framework/)[ICPs and ComFrame](https://www.iais.org/tag/icps-and-comframe/)[Liquidity risk](https://www.iais.org/tag/liquidity-risk/)[Recovery and Resolution](https://www.iais.org/tag/recovery-resolution/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2024%2F12%2Fpublic-consultation-on-draft-revisions-to-supervisory-material-related-to-the-holistic-framework%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

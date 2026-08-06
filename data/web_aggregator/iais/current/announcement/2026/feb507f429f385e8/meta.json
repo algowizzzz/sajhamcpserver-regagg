@@ -1,0 +1,24 @@
+{
+  "doc_id": "feb507f429f385e8",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "IAIS announces new Executive Committee Chair - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/2023/10/iais-announces-new-executive-committee-chair/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f27f49fe1de35a233a63633de7e1799f70dccafe8249b6436d0074576879ea1c",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/feb507f429f385e8",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

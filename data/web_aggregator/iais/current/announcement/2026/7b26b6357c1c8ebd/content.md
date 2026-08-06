@@ -1,0 +1,14 @@
+1. [Home](https://www.iais.org/)
+2. Lara Lylozian
+
+### **Lara Lylozian**
+
+*Chief Accountant and Deputy Associate Director, Division of Supervision and Regulation, Board of Governors of the Federal Reserve System*
+
+Lara Lylozian is the Chief Accountant and Deputy Associate Director in the Division of Supervision and Regulation at the Board of Governors of the Federal Reserve System. In this role, Ms. Lylozian advises the Board of Governors and senior staff on the implications of key accounting, auditing, and reporting matters. She also oversees quality control and assessment of the effectiveness of the implementation of all policies related to the supervision and regulation of insurers within the authority of the Board. To advance international initiatives, she serves as a member of the Accounting and Audit Expert Group of the Basel Committee on Banking Supervision and the Executive Committee of International Association of Insurance Supervisors.
+
+Ms. Lylozian joined the Federal Reserve in January 2015 as a Professional Accounting Fellow from PricewaterhouseCoopers. She has 20 years of professional experience leading a variety of financial accounting and reporting projects in the financial services sector, including three years in London.
+
+Ms. Lylozian holds a Bachelor of Science in Commerce from the University of Virginia and is a Certified Public Accountant licensed in Virginia.
+
+![](https://www.iais.org/uploads/2023/08/Lara-Lylozian-scaled-e1692866009244-300x371.jpg)

@@ -1,0 +1,1 @@
+Summary: # IAIS welcomes finalisation of ISSB disclosure standards

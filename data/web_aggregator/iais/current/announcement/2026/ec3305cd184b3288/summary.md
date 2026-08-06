@@ -1,0 +1,1 @@
+Summary: # IAIS Executive Committee approves Insurance Capital Standard for adoption by IAIS members and concludes Aggregation Method comparability assessment

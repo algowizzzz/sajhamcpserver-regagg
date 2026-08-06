@@ -1,0 +1,33 @@
+# Detailed assessment of observance of the IAIS Insurance Core Principles in the Sultanate of Oman published
+
+[27 Jun 2025](https://www.iais.org/2025/06/detailed-assessment-of-observance-of-the-iais-insurance-core-principles-in-the-sultanate-of-oman-published/)
+
+in [Assessments](https://www.iais.org/category/assessment-report/), [Latest news](https://www.iais.org/category/latest-news/)
+
+The IAIS has published a [detailed assessment of observance of the IAIS Insurance Core Principles (ICPs) in the Sultanate of Oman](https://www.iais.org/uploads/2025/06/Assessment-Report-MAP-Oman-2024-2025.pdf) through its Member Assessment Programme (MAP).
+
+The regulatory and supervisory framework of the Sultanate of Oman is assessed as having a good level of observance of the ICPs. A majority of the ICPs are assessed as either Observed or Largely Observed. The FSA has been developing its regulation and supervision in recent years, introducing new risk-based capital requirements and enhancing its supervision of insurers, including the input of actuarial review.
+
+The MAP is an in-depth assessment of one member’s implementation of all current ICPs. It includes a review of the legal structure and jurisdictional regulations as well as supervisory policies and practices using an evidence-based approach.
+
+To further inform this assessment, meetings were held in Muscat with the senior management and staff of the Financial Services Authority (FSA), government officials, industry (insurers and intermediaries), industry associations and professional bodies. The report contains the details of the assessment of the observance levels of the ICPs and distinct recommendations to improve observance levels of ICPs. It also includes the authority’s response to the assessment as well as an institutional and market overview.
+
+IAIS assessment activities aim to demonstrate implementation of the ICPs, which provide the globally accepted foundation of standards for the supervision of the insurance sector. The IAIS has completed five MAPs since 2019 and the MAP currently underway for Costa Rica is scheduled for completion in mid-2026.
+
+**Read the report [here](https://www.iais.org/uploads/2025/06/Assessment-Report-MAP-Oman-2024-2025.pdf).**
+
+To learn more about the IAIS’ comprehensive assessment activities visit our [**website**](https://www.iais.org/activities-topics/implementation-assessment/member-assessment-programme/).
+
+8 Apr 2026
+
+[Capacity building](https://www.iais.org/tag/capacity-building/)[ICPs and ComFrame](https://www.iais.org/tag/icps-and-comframe/)[Implementation Assessment](https://www.iais.org/tag/implementation-assessment/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2025%2F06%2Fdetailed-assessment-of-observance-of-the-iais-insurance-core-principles-in-the-sultanate-of-oman-published%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

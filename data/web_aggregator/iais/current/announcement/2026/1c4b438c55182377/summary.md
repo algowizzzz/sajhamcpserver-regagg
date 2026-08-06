@@ -1,0 +1,1 @@
+Summary: # IAIS publishes updated Global Monitoring Exercise (GME) document

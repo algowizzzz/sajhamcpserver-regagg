@@ -1,0 +1,542 @@
+PUBLIC 
+ 
+ 
+ 
+ 
+Public Consultation on Climate risk 
+supervisory guidance – part one  
+ 
+Consultation Document 
+ 
+March 2023
+
+PUBLIC 
+About the IAIS 
+The International Association of Insurance Supervisors (IAIS) is a voluntary membership 
+organisation of insurance supervisors and regulators from more than 200 jurisdictions. The mission 
+of the IAIS is to promote effective and globally consistent supervision of the insurance industry in 
+order to develop and maintain fair, safe and stable insurance markets for the benefit and protection 
+of policyholders and to contribute to global financial stability.  
+Established in 1994, the IAIS is the international standard -setting body responsible for developing 
+principles, standards and other supporting material for the supervision of the insurance sector and 
+assisting in their implementation. The IAIS also provides a forum for Members to share their 
+experiences and understanding of insurance supervision and insurance markets.  
+The IAIS coordinates its work with other international financial policymakers and associations of 
+supervisors or regulators and assists in shaping financial systems globally. In particular, the IAIS is 
+a member of the Financial Stability Board (FSB), member of the Standards Advisory Council of the 
+International Accounting Standards Board (IASB), and partner in the Access to Insurance Initiative 
+(A2ii). In recognition of its collective expertise, the IAIS also is routinely called upon by the G20 
+leaders and other international standard-setting bodies for input on insurance issues as well as on 
+issues related to the regulation and supervision of the global financial sector. 
+For more information, please visit http://www.iaisweb.org and follow us on LinkedIn: IAIS –
+ 
+International Association of Insurance Supervisors. 
+ 
+ 
+International Association of Insurance Supervisors  
+c/o Bank for International Settlements  
+CH-4002 Basel  
+Switzerland  
+Tel: +41 61 280 8090  
+  
+ 
+ 
+This document was prepared by the Climate Risk Steering Group in consultation with IAIS Members. 
+This document is available on the IAIS website (www.iaisweb.org). 
+© International Association of Insurance Supervisors (IAIS), 2023.  
+All rights reserved. Brief excerpts may be reproduced or translated provided the source is stated.
+
+PUBLIC 
+Content Overview 
+ 
+Executive Summary .................................................................................................................. 4  
+ Importance of climate change risk to insurance supervision ..........................................  4 
+1.1 Implications of recent climate changes developments .................................................................... 5 
+ IAIS response to recent developments ............................................................................. 5  
+2.1 Supervisory practices ....................................................................................................................... 5 
+2.2 Climate scenario analysis ................................................................................................................ 7 
+2.3 Climate risk data collection and analysis ......................................................................................... 7 
+ Issues for Consultation ...................................................................................................... 7  
+4.1 Changes to ICP Introduction ............................................................................................................ 7 
+4.2 Review of supporting material related to Corporate Governance, Risk Management and Internal 
+Controls ....................................................................................................................................................... 9 
+4.3 Overarching questions ..................................................................................................................... 9 
+Annex: Comparison of recent publications by the IAIS and BCBS on governance and risk 
+management in respect of climate-related financial risk. ..................................................... 11
+
+PUBLIC 
+Executive Summary  
+1. Climate change is a source of financial risk, which  impacts the resilience of individual insurers 
+as well as financial stability. Therefore, climate change is a key strategic theme for the IAIS. In 
+May 2021, the IAIS published an initial Application Paper on the Supervision of Climate-related 
+risks in the Insurance Sector (“2021 Application Paper”). 1 Since then, t he IAIS has closely 
+monitored developments in global climate change mitigation efforts, climate science and how 
+supervisory practices to manage climate-related risks have evolved. In 2022, the IAIS performed 
+a gap analysis of existing IAIS supervisory material to assess how climate risk is already captured 
+and to identify possible further work in terms of standard-setting and/or providing further guidance 
+on supervisory practices. In consideration of  the gap analysis  outcome, the IAIS intends to 
+publicly consult on limited changes to guidance related to various ICPs and to develop supporting 
+material (see section 4) in several consultations over the next 18 months. 
+2. This document provides an update on the overall work programme of the IAIS in promoting a 
+globally consistent supervisory response to climate change with in the insurance sector. The 
+current consultation also outlines proposed changes to the ICP Introduction, which positions 
+climate risk within the global framework for insurance supervision. A dditionally, the IAIS 
+discusses whether it is necessary to make changes to the existing supporting material related to 
+governance, risk management and internal controls (ICP 7 and 8). Finally, the consultation 
+includes questions seeking stakeholder feedback on the overall climate-related work as it relates 
+to supervisory guidance. 
+ 
+ Importance of climate change risk to insurance supervision 
+3. Climate change is recognised as an overarching global threat. It impacts human, societal, 
+environmental and economic systems, through rising temperatures and their consequences, 
+including rising sea levels and an increasing frequency/ severity of natural catastrophes and 
+extreme weather events. Climate change, as well as the global response to the threats posed by 
+climate change (eg the reduction of greenhouse gas emissions (GHG) and adaptation 
+programmes) may have wide- ranging impacts on the structure and functioning of the global 
+economy and financial system. 
+4. Climate change and climate-related risks are a source of financial risk, having an impact on the 
+resilience of individual financial institutions, including insurers, as well as on financial stability. 
+Climate-related risks are material for the insurance sector as they impact the insurability of 
+policyholders’ property and assets as well as insurers’ underwriting, operations and investments. 
+Therefore, supervisors should identify, monitor, assess and contribute to the mitigation of the 
+risks from climate change to the insurance sector. The insurance industry plays a critical role in 
+the management of climate-related risks in its capacity as an assessor, manager and carrier of 
+risk, and as an investor and steward of financial resources, while being uniquely qualified to 
+understand the pricing of insurance risks. Notably, through risk -based pricing and the 
+development of suitable insurance policies and products, insurers provide critical economic 
+signals regarding this changing risk environment. Insurers can also help build resilience through 
+(inclusive) insurance. 
+ 
+1 The Application Paper was developed in partnership with the UNDP Sustainable Insurance Forum (SIF)  and is available here: 
+https://www.iaisweb.org/uploads/2022/01/210525-A pplication-Paper-on-the-Supervision-of-Climate-related-Risks-in-the-
+Insurance-Sector.pdf.
+
+PUBLIC 
+5. An adequate response from supervisors to both the risks and business activity related to climate 
+change will support the objectives of insurance supervision of protecting policyholders, 
+contributing to financial stability and promoting the maintenance of a fair, safe and stable 
+insurance market (see Insurance Core Principle (ICP) Standard 1.2). As the global standard 
+setting body for insurance supervision, the IAIS is committed to supporting its members to further 
+strengthen their focus on actions taken by insurers to assess and address climate -related risks 
+and to support an orderly transition to net -zero.2 To support these supervisory objectives, the 
+IAIS is taking forward work in different areas. A vital stream of work is promoting a globally 
+consistent supervisory response to climate change, by developing guidance on supervisory 
+practices, which is the focus of this document. Other IAIS climate- related workstreams include 
+data collection and analysis as part of our Global Monitoring Exercise and furthering the design 
+and use of scenario analysis and in capacity building and training exercises. 
+1.1 Implications of recent climate changes developments  
+6. Since the publication of the 2021 Application Paper the societal challenges around addressing 
+climate change have increased. As  the IAIS highlighted in the 2022 edition of the GIMAR
+3, 
+according to the UN, mitigation pledges to date are insufficient to achieve the Paris Agreement. 
+Enhanced action is needed to prevent the continued warming that is increasing the likelihood of 
+irreversible changes to the climate system. However, the near-term supply-side energy shortage 
+is causing many countries to continue with or revert to fossil fuel sources, thereby making it more 
+challenging to meet net zero targets. These developments may lead to delayed and divergent 
+transitions across jurisdictions. This in turn may have considerable impacts on the insurance 
+industry by increasing physical, transition, liability and reputational risks as well as widening the 
+protection gap. Therefore, it is critical for insurance supervisors to strengthen their understanding 
+of the nature and magnitude of climate -related exposures of the insurance industry, in order to 
+effectively identify, monitor and reflect climate change risks in their supervisory responsibilities 
+and expectations for licensed insurers.  
+ IAIS response to recent developments  
+7. The IAIS’ work on climate change spans across many of its activities, ranging from financial 
+stability risk assessment, developing supervisory and supporting material and capacity building. 
+2.1 Supervisory practices  
+8. Building on the 2021 Application Paper, the IAIS aims to continue to help supervisors in their 
+efforts to integrate climate risk considerations into the supervision of the insurance sector by 
+updating and expanding the content of climate risk related Application Papers. The goal is to  
+provide background and guidance on how the IAIS supervisory material can be used to manage 
+the challenges and opportunities arising from climate -related risks. Application Papers do not 
+establish standards or expectations, but instead provide additional guidance to assist 
+implementation and provide examples of good practice. These papers aim to promote a globally 
+consistent supervisory approach to address climate-related risks in the insurance sector. 
+ 
+2See https://www.iaisweb.org/uploads/2022/01/211028-IA IS-Statement_Commitment-to-amplify-response-to-climate-
+change_October-2021.pdf  
+3 See https://www.iaisweb.org/uploads/2022/12/GIMAR-2022.pdf
+
+PUBLIC 
+9. In 2022, the IAIS performed a gap analysis of IAIS supervisory material to assess how climate 
+risk is already captured and to identify possible further work in terms of standard- setting and/or 
+providing further guidance on supervisory practices. Considering the outcome of the gap 
+analysis, the IAIS intends to publicly consult on proposed changes to the ICP Introduction,  
+guidance relating to ICPs 15, 16 and develop supporting material related to various topics. While 
+the final scope of these consultations is still to be determined, it will possibly cover the following 
+ICPs in several consultations over the next 18 months: 
+ICP Expected scope for consultation  
+Introduction and Assessment Methodology Add text to the ICP Introduction that highlights the 
+interconnection of risks and the relevance to 
+multiple topics discussed in the ICPs. 
+ICP 7 Corporate Governance Review the need to update content in the 2021 
+Application Paper. 
+ICP 8 Risk Management and Internal Controls Review the need to update content in the 2021 
+Application Paper. 
+ICP 9 Supervisory Review and Reporting Further to the content of 2021 Application Paper, 
+consider whether additional supporting material 
+may be appropriate as climate related reporting, 
+scenario analysis and stress testing advance. 
+ICP 14 Valuation  Consider whether including specific supporting 
+material is warranted. 
+ICP 15 Investments  Taking into account the content of the  2021 
+Application Paper, consider whether additional 
+supporting material is warranted. 
+ 
+ICP 16 Enterprise Risk Management for 
+Solvency Purposes  
+Further to the content of 2021 Application Paper, 
+consider whether additional supporting materia l is 
+warranted, for instance related to Own Risk and 
+Solvency Assessment  ( ORSA) and climate 
+scenario analysis. 
+ICP 19 Conduct of Business  Develop supporting material related to the conduct 
+of business, including related to the risk of 
+greenwashing and considerations for natural 
+catastrophe insurance. 
+ICP 20 Public Disclosure  As further work develops on scenario analysis and 
+stress testing, as well as the work of the 
+International Sustainability Standards Board, to 
+consider whether further material of the IAIS is 
+needed. 
+ICP 21 Countering Fraud in Insurance The abovementioned supporting material on ICP 
+19 and the risk of greenwashing may possibly also 
+consider the risk of fraud.  
+ICP 24 Macroprudential Supervision Develop supporting material related to 
+macroprudential supervision and climate-related 
+risks, such as related to data collection and/or 
+climate scenario analysis.  
+ICP 25 Supervisory Cooperation and 
+Coordination 
+Consider developing supporting material as it 
+relates to specific issues for group-wide 
+supervision, eg the role of supervisory colleges.
+
+PUBLIC 
+2.2 Climate scenario analysis 
+10. Climate scenario analysis is a key tool to better understand climate-related risks in the insurance 
+sector. At both domestic and international level supervisors are making significant leaps forward 
+in this area. Last year the IAIS held capacity building workshops which supported more than 200 
+insurance supervisors as they look to develop work in this area. Despite the significant advance 
+in this new and emerging area, more work needs to be undertaken to share good practices and 
+to develop more common practices. To this end, later this year the IAIS will release an Application 
+Paper that describes  supervisory considerations and good  practices on sc enario analysis 
+building on previous work the IAIS has already developed. The IAIS is also working closely on 
+these issues with colleagues at the Network for Greening the Financial System and the Financial 
+Stability Board. 
+2.3 Climate risk data collection and analysis 
+11. The Global Monitoring Exercise (GME) allows the IAIS to monitor and assess global insurance 
+market trends and developments, such as climate change, and their potential impact on 
+insurance markets and global financial stability. In relation to climate change, in September 2021 
+the IAIS published a special topic edition of the Global Insurance Market Report (GIMAR) on the 
+insurance sector’s investment exposures to climate- related risks. This report provided the first 
+quantitative global study on the impact of climate change on the insurance sector.  
+12. As a follow-up, climate data elements were added to the GME in 2022 and are also to be included 
+in the GME in 2023. These elements have become a regular feature of the IAIS’ annual 
+assessment of insurance sector risks and provide a global baseline of climate risk data for the 
+insurance sector. The outcomes of the analysis from 2022 were published as part of the regular 
+GIMAR at the end of 2022.
+4 
+ Issues for Consultation 
+13. In the current consultation, the IAIS outlines proposed changes to the ICP Introduction, which 
+position climate change risk within the global framework for insurance supervision. Also, the IAIS 
+discusses whether it is necessary to make changes to the existing supporting material related to 
+governance, risk management and internal controls (ICP 7 and 8). Finally, the IAIS provides 
+questions seeking stakeholder feedback on the overall package of climate- related work as it 
+relates to supervisory guidance. 
+4.1 Changes to ICP Introduction 
+14. Following the outcome of the gap analysis, the IAIS proposes changes to the ICP Introduction 
+for example that include adding text that highlight s as an overarching concept , the 
+interconnection of risks and the relevance to multiple topics discussed in the ICPs. In this context, 
+climate risk is mentioned as an example because  it has an amplifying effect on the other risks 
+an insurer is exposed to and has consequences for both assets and liabilities on insurer balance 
+sheets. Therefore climate-related risks need to be adequately reflected in the risk management 
+and governance frameworks of insurers.  
+ 
+4 See https://www.iaisweb.org/uploads/2022/12/GIMAR-2022.pdf.
+
+PUBLIC 
+15. The two proposed new paragraphs will be inserted under the “Proportionality and risk -based 
+supervision” sub-heading of the ICP Introduction. Additionally and with a view to aligning the sub-
+heading with its contents, it is proposed that the sub-heading be updated to “Proportionality and 
+risks”. 
+16. The proposed text is shown in redline below: 
+ 
+Proportionality and risks risk-based supervision 
+9. The ICPs establish the minimum requirements for effective insurance supervision and are 
+expected to be implemented and applied in a proportionate manner. Therefore, proportionality 
+underlies all the ICPs. Supervisors have the flexibility to tailor their implementation of supervisory 
+requirements and their application of insurance supervision to achieve the outcomes stipulated in 
+the Principle Statements and Standards. 
+• Implementation – proportionality allows the ICPs to be translated in to a jurisdiction’s 
+supervisory framework in a manner appropriate to its legal structure, market conditions and 
+consumers. 
+• Application – proportionality allows the supervisor to increase or decrease the intensity of 
+supervision according to the risks inherent to insurers, and the risks posed by insurers to 
+policyholders, the insurance sector or the financial system as a whole. A proportionate 
+application involves using a variety of supervisory techniques and practices which are tailored 
+to the insurer to achieve the outcomes of the ICPs. Such techniques and practices should not 
+go beyond what is necessary in order to achieve their purpose. 
+10. Risk-based supervision is a related concept but distinct from proportionality; it means more 
+supervisory activities and resources are allocated to insurers, lines of business or market practices 
+that pose the greatest risk to policyholders, the insurance sector, or the financial system as a 
+whole. 
+11. The ICPs are written to address the broad variety of risks related to insurance and its 
+supervision. The ICPs are applicable to traditional as well as emerging risks. Accordingly, the 
+ICPs, in general, refer simply to risks in order to be able to capture those that may be relevant 
+within the given context; where specific risks are described, this is typically for illustration or when 
+particularly relevant to a certain topic. 
+12. Individual risks are often interconnected and may have an amplifying effect on other risks. This 
+is the case, for example, with climate-related risks. Supervisors and insurers should consider how 
+to assess and address issues such as risk management and governance, valuation of assets and 
+liabilities, and conduct of business in light of such interconnectedness. 
+Terminology 
+(…) 
+ 
+Consultation questions to stakeholders 
+ 
+Q1. Do you have any comments on the proposed text referencing climate- related risk within the 
+ICP Introduction?
+
+PUBLIC 
+Q2. Do you have any comments on the location of the proposed text? 
+4.2 Review of supporting material related to Corporate Governance, Risk 
+Management and Internal Controls 
+17. Overall, the IAIS considers that the supporting material related to ICP 7 Corporate Governance 
+and ICP 8 Risk Management and Internal Controls in the 2021 Application Paper remains 
+appropriate in the context of climate risk management and there is no need to expand the 
+material. 
+18. Since the publication of the IAIS’ 2021 Application Paper, the Basel Committee on Banking 
+Supervision (BCBS) published its ‘Principles for the effective management and supervision of 
+climate-related financial risks’ 5 (“Principles document”) The IAIS  recognises the importance of 
+cross sectoral coordination and collaboration on supervisory approaches relating to climate risk 
+given the interlinkages between the banking and insurance sectors, including through financial 
+conglomerates that operate in both sectors. In this regard, the IAIS compared the material from 
+its 2021 Application Paper on governance and risk management approaches, against the BCBS’ 
+Principles document. Arising from this comparison, the IAIS is of the view that the content in the 
+respective documents are congruent and consistent even though some areas might be 
+expressed differently in certain instances. Also, to the extent there are any differences, these 
+reflect the specificities of each sector, such as the role of actuaries (see Annex). 
+ 
+Consultation question to stakeholders 
+ 
+Q3. The IAIS considers that the 2021 A pplication Paper material related to  ICP 7  (C orporate 
+Governance) and ICP 8 (Risk M anagement and I nternal Controls) remain appropriate in the 
+context of climate risk management. Are there any issues related to corporate governance and/or 
+risk management and internal controls from a climate perspective that are not addressed in the 
+2021 Application Paper that would be helpful for the IAIS to develop? 
+4.3 Overarching questions 
+19. The IAIS will continue its climate  risk related work through its established workstreams, liaise 
+with other standard setting bodies and international organisations, and develop materials for the 
+next sets of consultations. In order to feed into that work at an early stage, the IAIS is inviting 
+feedback from stakeholders on the following overarching questions.  
+ 
+Consultation questions to stakeholders 
+ 
+Q4. Do you have suggestions on issues or themes to explore in the forthcoming consultations to 
+improve the usability of the climate risk related Application Papers? 
+ 
+ 
+5 Published in June 2022, see https://www.bis.org/bcbs/publ/d530.htm.
+
+PUBLIC 
+Q5. Should the IAIS’ work and upcoming consultations on climate risk also cover considerations 
+related to transition planning by insurers? 
+ 
+Q6. Do you see anything missing from the current IAIS workplan on climate risk, as outlined in the 
+IAIS 2023-2024 Roadmap?
+
+PUBLIC 
+Annex: Comparison of recent publications by the IAIS and BCBS 
+on governance and risk management in respect of climate-
+related financial risk. 
+Topic IAIS Application paper on the 
+supervision of climate-related risks in 
+the insurance sector (May 2021)  
+BCBS Principles for effective management 
+and supervision of climate related financial 
+risks (June 2022)  
+H
+igh-level 
+comment 
+ 
+Provides guidance and instances of good 
+practice in relation to managing transition 
+and physical risk for insurers (current 
+focus on prudential risks). 
+Provides a ‘principles -based approach’ to 
+improving risk management and supervisory 
+practice in relation to climate- related financial 
+risks. Relevant for prudential supervision of 
+banks. High degree of commonality with IAIS 
+application paper regards governance and 
+risk management. 
+Board 
+responsibility 
+ 
+The Board has a role in maintaining 
+effective oversight of climate- related risk 
+management, including incorporating 
+climate-related considerations into the 
+insurer’s risk appetite, strategies and 
+business plans. Board should consider 
+potential threat to the insurer’s business 
+risks, fair treatment of customers, and 
+duty to act in a socially responsible 
+manner (para 28). Control functions 
+should determine whether the insurer’s 
+operations and results are consistent 
+with the risk appetite approved by the 
+board (para 41). 
+Board and senior management should clearly 
+assign responsibilities  
+for managing 
+climate-related responsibilities to members 
+and/or committees, and exercise effective 
+oversight (Principle 2, paras 15- 17). Board 
+and senior management shoul d ensure 
+strategy and risk appetite statement are 
+consistent with publicly -stated commitments 
+(Principle 1, para 14). Supervisors should 
+maintain sufficiently frequent contact with 
+board and senior management and be able to 
+address climate risk in a forwar d looking  
+manner (Principle 13, para 51).
+ 
+Management 
+responsibility 
+ 
+Senior management is responsible for 
+implementing policies on climate risk and 
+incorporating into business and 
+operational decisions (para 31). 
+Assigning responsibility leads to greater 
+accountability (para 24).
+ 
+See above. Banks should clearly define and 
+explicitly assign roles  
+and responsibilities 
+(paras 17). 
+Remuneration  
+ 
+Remuneration can be used as one of 
+several incentives to integrate climate-
+related risks  into the risk management 
+system (para 33).
+ 
+Board and senior management should 
+consider whether incorporating climate -
+related risks  into a bank’s strategy and risk 
+management frameworks warrant changes in 
+compensation policies (Principle 1, para 13).
+ 
+Risk 
+identification 
+and 
+monitoring 
+ 
+To identify, manage and monitor climate-
+related risks
+, insurers should develop 
+tools to collect reliable qualitative  and 
+quantitative data. Expected that 
+analysis will continue to improve as data 
+quality improves (para 38). 
+ 
+Banks should develop and implement a 
+sound process for understanding and 
+assessing the potential impact of climate-
+related risk drivers on their businesses and 
+the environments in which they operate 
+(Principle 1). 
+Risk 
+management 
+Recommended that insurers integrate 
+climate-related risks into their overall 
+Banks should incorporate climate- related 
+risks into their internal control framework
+
+PUBLIC 
+and 
+mitigation  
+governance, risk management and 
+control frameworks (para 34). Risk 
+management function should update 
+methods and metrics  regularly to 
+support decision taking by the board 
+(para 42). 
+Control functions should properly 
+consider the effect of climate change on 
+existing risk categories and should have 
+appropriate resources and expertise. 
+Such functions ne ed to continue to 
+develop tools and approaches (para 40). 
+Need for dedicated experts  (paras 49-
+51). Outlines the separate roles of risk 
+management, compliance, actuarial and 
+internal audit functions (paras 42- 48). 
+Two-
+way communication between firm 
+and sup ervisor essential and 
+transparency of supervisory expectations 
+(para 22). 
+across three lines of defence  to ensure 
+effective identification, measurement and 
+mitigation (Principle 4). 
+Supervisors should determine that a bank’s 
+incorporation of climate risk into strategy, 
+corporate governance and internal controls is 
+sound (Principle 13). Supervisors should 
+determine that banks can adequately identify, 
+manage and monitor climate-related risks as 
+part of their risk appetite and risk 
+management frameworks (Principle 14). 
+Senior management should be equipped with 
+appropriate skills and experience (Principle 
+2, para 16). Banks should consider engaging 
+with clients and counterparties (Principle 7, 
+para 32). 
+Risk reporting  
+ 
+Board relies on senior management 
+for information, metrics and setting out 
+options/recommendations (para 31). 
+Risk data aggregation and capabilities and 
+internal risk reporting practices should 
+account for climat e-related risks  – need for 
+timely information  for board and senior 
+management to take decisions (Principle 7). 
+Scenario 
+analysis 
+Stress testing and scenario analysis 
+noted in context of ORSA  (paras 64-66). 
+Use of heat maps (para 44). Given 
+changes in weat her patterns, actuarial 
+function may find historical data 
+inadequate and may draw on 
+catastrophe modelling (para 47). 
+Where appropriate, banks should make use of 
+scenario analysis to assess resilience 
+(Principle 12). Banks should have sufficient 
+capacity a nd expertise to conduct climate 
+scenario analysis (para 46). Board and senior 
+management should take a long- term view of 
+climate-related risks  
+(para 9); and should 
+apply a range of time horizons (para 47). 
+Outsourcing  
+ 
+Insurers that outsource material ac tivity 
+should preserve the ability to manage 
+risks (para 52).  
+Principle 11 covers operational risk, and 
+references critical functions and business 
+continuity (paras 42-43). 
+Disclosure 
+ 
+ 
+Disclosures should describe board’s 
+oversight and senior management’s role 
+in managing climate -related risks  and 
+opportunities (para 89). 
+Less focused on public disclosure and more 
+on internal reporting.

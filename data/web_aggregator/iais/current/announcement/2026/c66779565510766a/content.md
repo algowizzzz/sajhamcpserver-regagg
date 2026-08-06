@@ -1,0 +1,50 @@
+# IAIS collaborates with the World Bank Group to develop G20 input paper on natural catastrophe protection gaps
+
+[21 Jul 2025](https://www.iais.org/2025/07/iais-collaborates-with-wbg-on-g20-input-paper/)
+
+in [Latest news](https://www.iais.org/category/latest-news/)
+
+The IAIS today published an [input paper](https://www.iais.org/uploads/2025/07/G20-SFWG-input-paper-Identify-and-address-insurance-protection-gaps.pdf) developed with the World Bank Group for the G20 Sustainable Finance Working Group (SFWG) focussed on identifying and addressing natural catastrophe (NatCat) protection gaps.
+
+The paper recognises that NatCat protection gaps are a global challenge, affecting both advanced and emerging market and developing economy (EMDEs) jurisdictions, and therefore require global responses. With the frequency and severity of NatCat events such as hurricanes, typhoons, wildfires and floods continuing to rise, the economic and social toll is increasingly unsustainable. EMDEs face disproportionately higher protection gaps due to low insurance penetration, affordability challenges, underdeveloped insurance markets and insufficient access to risk models and data.
+
+The input paper serves as a “guide for action” to help jurisdictions narrow NatCat insurance protection gaps. The paper outlines practical and implementable actions that governments, supervisors, and the insurance industry can take, with a particular focus on EMDEs.
+
+The topic was also discussed during a [side event](https://www.iais.org/2025/07/g20-south-african-presidency-iais-and-world-bank-group-host-g20-side-event-on-addressing-the-natural-catastrophe-insurance-protection-gap/), hosted during the G20 Finance Ministers and Central Bank Governors meeting in Durban on 17 July. A recording can be found [here](https://www.youtube.com/live/Gjo1zCvE1vg?si=OrZLwd1S69tb3gNw&t=45).
+
+**Key insights from the IAIS and WBG input paper**
+
+**Foundational steps:** The paper highlights foundational actions essential for effective insurance-based solutions, including:
+
+* Building capacity to assess exposure to NatCat events and protection gaps.
+* Implementing risk-based and proportionate supervisory frameworks.
+* Improving financial literacy and risk awareness.
+* Incentivising risk reduction through measures like disaster-resistant building codes and resilient infrastructure.
+
+**Insurance-based solutions:** The paper emphasises the transformative potential of innovative insurance solutions to reduce risk and limit economic losses, such as:
+
+* Parametric insurance: Quick payouts based on predefined triggers.
+* Microinsurance: Affordable products designed for low-income populations.
+* Risk transfer mechanisms: Tools like catastrophe bonds, reinsurance, and regional risk pools to spread risk and increase affordability.
+
+**Collaboration is key:** Public-private insurance programs (PPIPs) are identified as a critical component of the solution, leveraging the strengths of governments, supervisors, insurers, and civil society to deliver targeted and scalable solutions.
+
+Building on this input paper, and as noted in the [July G20 Communiqué Finance Ministers and Central Bank Governors Meeting](https://g20.org/g20-media/3rd-finance-ministers-central-bank-governors-meeting/), the IAIS and the World Bank will continue efforts to provide practical guidance and tools to assist policymakers and supervisors in addressing NatCat protection gaps.
+
+**Download the paper [here](https://www.iais.org/uploads/2025/07/G20-SFWG-input-paper-Identify-and-address-insurance-protection-gaps.pdf).**
+
+**Read more about the IAIS work on protection gaps [here](https://www.iais.org/protection-gaps/).**
+
+21 Jul 2025
+
+[Climate risk](https://www.iais.org/tag/climate-risk/)[Protection gaps](https://www.iais.org/tag/protection-gaps/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2025%2F07%2Fiais-collaborates-with-wbg-on-g20-input-paper%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

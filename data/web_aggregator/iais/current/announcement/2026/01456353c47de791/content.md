@@ -1,0 +1,882 @@
+Financial Report  2021
+As at 31 December 2021
+
+Contents
+Letter from the Executive Committee Chair
+Letter from the Audit and Risk Committee Chair
+Letter from the Budget Committee Chair
+Financial Statements
+Auditor’s letter
+3-4
+5
+6
+7-16
+17-18
+About the IAIS 
+The International Association of Insurance Supervisors (IAIS) is a voluntary membership organisation of 
+insurance supervisors and regulators from more than 200 jurisdictions constituting 97% of the global insurance 
+premiums. The mission of the IAIS is to promote effective and globally consistent supervision of the insurance 
+industry in order to develop and maintain fair, safe and stable insurance markets for the benefit and protection of 
+policyholders and to contribute to global financial stability.
+The IAIS is the international standard-setting body responsible for developing principles, standards and other 
+supporting material for the supervision of the insurance sector and assisting in their implementation. The IAIS 
+also performs a forward-looking role in identifying key trends and developments that could reshape the business 
+of insurance to support its members in addressing emerging risks and challenges. In addition, it provides a forum 
+for members to share their experiences and understanding of insurance supervision and insurance markets.
+The IAIS coordinates its work with other international financial policymakers and associations of supervisors. 
+In particular, the IAIS is a member of the Financial Stability Board (FSB), member of the Standards Advisory 
+Council of the International Accounting Standards Board (IASB) and partner in the Access to Insurance Initiative 
+(A2ii). In recognition of its collective expertise, the IAIS also is routinely called upon by the G20 leaders and other 
+international standard setting bodies for input on insurance issues as well as on issues related to the regulation 
+and supervision of the global financial sector. 
+For more information visit www.iaisweb.org and read the IAIS Year in Review 2021.
+IAIS Financial Report 2021
+2
+
+Letter from the 
+Executive Committee 
+Chair
+Victoria (Vicky) Saporta (UK, PRA)
+Chair, IAIS Executive Committee
+Welcome to the IAIS 
+Financial Report 2021
+Starting this year, the IAIS has separated the previous 
+IAIS Annual Report into two publications: the IAIS 
+Year in Review and the IAIS Financial Report. The 
+IAIS Year in Review provides an overview of the work 
+of our Association and is published earlier in the year 
+to provide a more timely summary of our activities. 
+The IAIS Financial Report contains the financial 
+statements of the IAIS for the 12 months from January 
+to December, as well as reports from the Chairs of the 
+Budget Committee and Audit and Risk Committee. 
+Looking back at 2021, the achievements of the IAIS 
+were plenty. I encourage readers to peruse our IAIS 
+Year in Review 2021, published in May 2021, for 
+more detailed information. We continued to make 
+good progress on the ambitious goals set out in 
+the 2020-2024 Strategic Plan, aided by excellent 
+collaboration across our membership and with our 
+many stakeholders.
+Our work programme was focused on four key areas:
+• Risk assessment and the maintenance of financial 
+stability; 
+• Finalising post-crisis reforms; 
+• Implementation support and assessment; and 
+• Addressing the opportunities of accelerating trends 
+in the insurance sector and beyond. 
+In terms of monitoring financial stability risks, the 
+IAIS’ Global Monitoring Exercise (GME) continued to 
+demonstrate its value and versatility. 2021 saw the 
+completion of the first full GME focused on emerging 
+trends and potential systemic risk, utilising two years 
+of data. With an integrated approach, the GME collects 
+both individual insurer and sector-wide data and is 
+then the subject of a detailed collective discussion 
+amongst the IAIS Macroprudential Committee and 
+Executive Committee to assess potential systemic 
+risks and appropriate supervisory responses. In 2021, 
+the data showed that insurers remained operationally 
+and financially resilient in the face of significant market 
+movements and disrupted economic activity. 
+Following the collective discussion, the IAIS also 
+shared a report with the Financial Stability Board and 
+then published the outcomes for the general public in 
+its 2021 Global Insurance Market Report (GIMAR).  
+The GME is part of the Holistic Framework for the 
+assessment and mitigation of systemic risk in the 
+global insurance sector (Holistic Framework). The 
+Holistic Framework is a key post-financial crisis reform, 
+which recognises that systemic risk may arise not only 
+from the distress or disorderly failure of an individual 
+insurer but also from the collective exposures and 
+activities to insurers at a sector-wide level. This 
+moves away from the previous binary approach where 
+policy measures were applied only to a limited set of 
+identified global systemically important institutions. 
+IAIS Financial Report 2021
+3
+
+Additional features of the Holistic Framework include 
+an integrated set of supervisory policy measures for 
+macroprudential purposes and the assessment of 
+comprehensive and consistent implementation of 
+enhanced policy measures. 
+In 2021, the Holistic Framework entered its second 
+year of implementation. We finalised several 
+Application Papers to provide additional clarity 
+and support the implementation of the new and 
+enhanced Insurance Core Principles and ComFrame 
+standards. We also made strides in the assessment of 
+implementation of the Holistic Framework supervisory 
+material through the Baseline Assessment and 
+the start of more intensive Targeted Jurisdictional 
+Assessments. 
+A second key post-crisis reform is the Insurance 
+Capital Standard (ICS). The ICS aims to provide a 
+globally comparable risk-based measure of capital 
+adequacy of Internationally Active Insurance Groups 
+and a common language to facilitate effective 
+supervisory discussions of group solvency. The ICS 
+marked an important milestone in 2021 with the launch 
+of the second year of the five-year monitoring period. 
+Participation and engagement from insurance groups 
+worldwide remained strong, and we received valuable 
+feedback from supervisors on the ICS. In parallel, 
+progress continued on the comparability assessment 
+project – an initiative that will ascertain whether the 
+Aggregation Method being developed by the United 
+States provides comparable outcomes to the ICS. 
+The IAIS’ Strategic Plan 2020-2024 strongly 
+emphasises supporting our members as they face 
+emerging and accelerating trends. These include 
+climate-related risks, digital innovation, cyber risk, 
+conduct and culture and financial inclusion. 
+In 2021, a particular emphasis was given to helping 
+supervisors in their understanding of and taking action 
+to address climate-related risks. Climate change 
+constitutes a critical challenge to our planet and 
+societies. As such, it will fundamentally impact the 
+insurance sector in all aspects of its business – both 
+underwriting and investment – for decades to come. 
+The IAIS is committed to accompanying its members 
+in addressing that long-term challenge. Already a 
+pioneer amongst standard setters, we undertook 
+further work during 2021, from collecting data to 
+quantify the impact of climate risks on the insurance 
+sector – the 2021 GIMAR Special Topic edition on 
+the effect of climate change on insurers’ investments 
+was a first and important step in this direction – to 
+publishing an Application Paper to help supervisors 
+in their efforts to integrate a climate risk perspective 
+into the supervision of the insurance sector. To further 
+accelerate this work, we created the Climate Risk 
+Steering Group to drive the IAIS’ work on climate 
+change.
+Efforts and resources also increased to support other 
+IAIS strategic themes. Recognising the importance of 
+Diversity, Equity and Inclusion considerations to the 
+objectives of insurance supervision and consequently 
+to the Association’s mission, the topic was added as 
+a key strategic theme for the IAIS in 2021. In the area 
+of financial inclusion and sustainable development, 
+we continued our close collaboration with the Access 
+to Insurance Initiative (A2ii), including work on the 
+pandemic risk protection gap, completing a stocktake 
+of initiatives underway in various regions. As a sign 
+of its commitment to this theme, the IAIS is working 
+closely with other partners to transition the A2ii to 
+a more permanent and sustainable structure, both 
+financially and organisationally, to preserve its unique 
+value offering to our members, policymakers and the 
+development community. 
+Our FinTech Forum continued its targeted surveillance 
+activities of developments in digital innovation, 
+while the Operational Resilience Task Force started 
+preparation for supporting material on aspects of 
+operational resilience most relevant to the insurance 
+sector, with both groups planning to publish papers on 
+their findings in 2022. We also maintained our focus 
+on consumer outcomes, progressing work on key 
+indicators of market conduct risk that will feed into a 
+paper scheduled to be released in 2022. 
+Reflecting on the IAIS’ work and achievements in 2021, 
+I am pleased that as an Association, we have genuinely 
+kept our focus on our core mission of protecting 
+policyholders and maintaining global financial stability. 
+I would like to thank our members and stakeholders for 
+their commitment and contributions over the past year. 
+Also, a heartfelt thank you to the IAIS Secretariat for 
+your continued resilience and ability to deliver excellent 
+support to our members despite the uncertainty and 
+strain of the past few years. This hard work is the 
+foundation on which we will continue to build our 
+ambitious work plan.
+IAIS Financial Report 2021
+4
+
+Letter from the  
+Audit and Risk 
+Committee Chair
+Clement Cheung (China, Hong Kong, HKIA)
+Chair, IAIS Audit and Risk Committee 
+The Audit and Risk Committee (ARC) is responsible for 
+establishing a risk management framework and internal 
+control system, which keep risks within tolerance 
+limits established by the Executive Committee. In 
+addition, the ARC supports the Executive Committee 
+by monitoring the effective implementation of the 
+Association’s strategies, reviewing the compliance of 
+the Association’s activities with internal procedures 
+and applicable external regulations, and reviewing 
+the financial reporting process, including through the 
+oversight of the external auditor’s activity.
+During 2021, the ARC continued to oversee the main 
+risks faced by the Association and the effectiveness 
+of internal controls and management actions adopted 
+by the Secretariat for their mitigation. To this end, 
+the Committee periodically reviewed the Executive 
+Dashboard and the Management Risk Report and 
+engaged with the Secretariat to deliver challenge on 
+risk assessment and mitigation.
+Much of the ARC’s focus related to managing the risks 
+associated with challenges presented by Covid-19 
+work arrangements, namely human resources 
+and information technology risks. In addition, the 
+Committee focused on completing revisions to the IAIS 
+Risk Management Framework with a view to enhancing 
+the framework’s effectiveness and embedding risk 
+management into the IAIS’ operations. The updated 
+Risk Management Framework was approved by 
+the Executive Committee at the end of 2021 and 
+the Secretariat has begun to operationalise the 
+enhancements. 
+In cooperation with the Budget Committee, the ARC 
+reviewed and monitored the Association’s financial 
+reporting process, which included reviewing the 
+External Auditor’s 2021 audit engagement plan, the 
+Association’s 2021 Financial Reports, and monitoring 
+the external audit of the Association’s accounts 
+to ensure that this was appropriately handled and 
+compliant with procedures. There are no material 
+issues to report on with regard to the 2021 accounts.
+*Clement Cheung was appointed as Chair of the Audit Risk Committee  
+in November 2021 (succeeding Norio Hida (Japan, FSA)).
+IAIS Financial Report 2021
+5
+
+Letter from the 
+Budget Committee 
+Chair
+Ryan Workman (USA, NAIC)
+Chair, IAIS Budget Committee
+The audited financial statements for 2021 show a 
+surplus of CHF 464,508 compared with a budgeted 
+net expenditure of CHF 55,898. The surplus was due 
+largely to the Covid-19 pandemic and the associated 
+global travel restrictions. All major meetings and 
+events moved to a virtual format in 2021, resulting 
+in decreased expenses for travel, regional seminars 
+and training. Those savings were partially offset by 
+increased expenses for employment costs, as well as 
+upgrades to the IAIS website and IT tools.
+During 2021, the Budget Committee closely followed 
+the 2021 budget execution, established the 2022 
+budget on the basis of the Strategic Plan and Financial 
+Outlook 2020-2024 and discussed the budgets for 
+Annual Conferences and Global Seminars. In August, 
+the triennial fee reclassification exercise was carried 
+out as per the IAIS fee methodology. The outcome of 
+this exercise saw a handful of members re-categorised 
+to fee buckets which more appropriately reflect their 
+jurisdictional characteristics (ie Gross Domestic 
+Product per capita and insurance premiums). These 
+changes were communicated to the relevant members 
+and took effect from 2022.
+The IAIS maintains a conservative investment policy, 
+whereby funds are invested primarily in bank current 
+and deposit accounts. 
+The IAIS greatly appreciates the ongoing support it 
+receives from members whose contributions include 
+grants or in-kind support, such as secondments of 
+staff to the Secretariat. The IAIS is particularly grateful 
+for the contributions and support provided during 
+2021 by the Bank for International Settlements, the 
+China Banking and Insurance Regulatory Commission, 
+the Financial Supervisory Commission (Chinese 
+Taipei), the Financial Services Agency (Japan), and the 
+Financial Supervisory Service (Republic of Korea).  
+The 2021 IAIS financial statements were prepared 
+in accordance with Swiss law. They were audited by 
+PricewaterhouseCoopers (PwC), which issued an 
+unqualified audit opinion.
+IAIS Financial Report 2021
+6
+
+Balance sheet
+There were no movements in equity during the year other than those included in the Balance Sheet.
+The accompanying notes form part of these financial statements.
+Assets
+ 
+Cash and cash equivalents 
+Other short-term receivables 
+Prepaid expenses and accrued income
+Total current assets
+ 
+Total assets
+ 
+ 
+Liabilities and equity
+ 
+Other short-term liabilities
+Accrued expenses and deferred income 
+Total liabilities
+Voluntary retained earnings
+Balance brought forward
+Net result for year
+Total equity
+Total liabilities and equity
+2021
+10,138,229 
+210,029 
+112,500 
+10,460,758 
+10,460,758 
+-
+3,060,169 
+3,060,169 
+6,936,082 
+464,508 
+7,400,590 
+10,460,758
+2020
+8,825,291 
+117,745 
+89,425 
+9,032,461 
+ 
+9,032,461 
+-
+2,096,379 
+2,096,379 
+6,056,894 
+879,188 
+6,936,082 
+9,032,461
+Note
+6
+7
+8
+9
+Financial Statements
+As at 31 December 2021 
+(in Swiss francs)
+IAIS Financial Report 2021
+7
+
+Income statement
+Other than financial income and expenses included above, there was no non-operating income or expenses,  
+no extraordinary items or significant adjustments in respect of prior periods.
+The accompanying notes form part of these financial statements.
+Operating income
+ 
+Membership fees
+Contributions received
+Total operating income
+ 
+ 
+Operating expenses
+ 
+Contributions 
+Staff costs
+Other operating expenses
+Total operating expenses
+Operating result
+Financial income
+Financial expenses
+Net result for year
+2021
+7 ,472,000 
+2,000,000 
+9,472,000 
+(1,071)
+8,124,250
+830,358 
+8,953,537 
+518,464
+-
+(53,956)
+464,508
+2020
+7,082,161 
+2,000,000 
+9,082,161
+39,721 
+7,403,085 
+712,427 
+8,155,233 
+926,929
+-
+(47,740)
+879,188 
+Note
+3.1
+3.2
+11
+12
+13
+14
+For the year ended 31 December 2021
+(in Swiss francs)
+IAIS Financial Report 2021
+8
+
+Cash flow statement
+The accompanying notes form part of these financial statements.
+Net result for year
+ 
+Decrease/(increase) in other short-term  
+receivables
+Decrease/(increase) in prepaid expenses  
+and accrued income
+Increase/(decrease) in other current liabilities
+Increase/(decrease) in accrued expenses  
+and deferred income
+Cash inflow/(outflow) from operating activities
+Cash inflow/(outflow) for financing activities
+Cash inflow/(outflow) for investing activities
+Change in cash and cash equivalents
+ 
+Cash and cash equivalents at beginning of year
+Cash and cash equivalents at end of year
+Change in cash and cash equivalents
+2021
+464,508
+(92,284)
+(23,075)
+-
+963,790
+1,312,938
+-
+-
+1,312,938
+8,825,291
+10,138,229
+1,312,938
+2020
+879,188
+121,619
+1,273
+(100,000)
+(767,179)
+134,901
+-
+-
+134,901
+8,690,390
+8,825,291
+134,901
+Note
+6
+6
+For the year ended 31 December 2021
+(in Swiss francs)
+IAIS Financial Report 2021
+9
+
+1. Nature of organisation
+The International Association of Insurance Supervisors (“IAIS” or “the Association”) is an association established 
+under Swiss Law. The Association is domiciled in Basel, Switzerland and receives fees from its Members 
+worldwide. 
+The IAIS provides an independent forum for insurance supervisors to promote cooperation among its Members 
+in carrying out their responsibilities. Its mission is to promote effective and globally consistent supervision of the 
+insurance industry in order to develop and maintain fair, safe and stable insurance markets for the benefit and 
+protection of policyholders, and to contribute to global financial stability.
+2. Key accounting principles
+2.1 Statement of compliance
+The financial statements have been prepared in accordance with the provisions of the Swiss Law on Accounting 
+and Financial Reporting (32nd Title of the Swiss Code of Obligations) enacted on 23 December 2011 by the 
+Federal Assembly of the Swiss Confederation, that became effective on 1 January 2013.
+2.2 Scope of the financial statements
+These financial statements contain all assets and liabilities that are controlled by the Association and in respect 
+of which the economic benefits as well as the rights and obligations lie predominantly with the Association.
+2.3 Basis of preparation
+The financial statements have been prepared on a going concern basis. They have been prepared on the 
+historical cost basis, and income and expense items are recorded on the accruals basis. All amounts disclosed in 
+the financial statements have been rounded off to the nearest unit. The principal accounting policies are set out 
+below.
+2.4 Functional and presentation currency
+The functional and presentation currency is the Swiss franc. 
+2.5 Cash and cash equivalents
+Cash and cash equivalents comprise bank current and deposit accounts which are highly liquid and readily 
+convertible to cash.
+2.6 Provision for bad debts
+Provisions are recognised as a charge to the Income Statement if the Association has concern over the recovery 
+of outstanding receivables. The policy of the Association is to write-off membership fees that remain unpaid for 
+two consecutive years, or upon confirmation of non-recovery if earlier, in accordance with its fee policy.
+2.7 Withholding taxes
+Interest income is reported net of withholding taxes and included as part of financial income.
+Year ended 31 December 2021
+Notes to the Financial Statements
+IAIS Financial Report 2021
+10
+
+3. Benefits received
+3.1 Membership fees
+The majority funding of the Association comes from membership fees paid by its Members who represent 
+insurance regulators and supervisors in over 140 countries. As per the Association’s by-laws, the annual fees 
+payable by each Member are determined by the General Meeting based on the recommendation of the Executive 
+Committee. The yearly recommended fees are calculated based on a methodology approved by the Members to 
+support the activities of the Association.
+3.2 Contributions received
+The IAIS is hosted by the Bank for International Settlements (BIS). It benefits from various support provided 
+by the BIS that includes the provision of meeting organisation services, administration, accounting, human 
+resources, legal and other advisory services, office space and IT equipment, and one full-time technical 
+administrator. The BIS also administers a staff pension scheme of which a number of IAIS staff are entitled to 
+membership. The pension obligations lie with the BIS and the IAIS has no legal commitment for the payment of 
+pension amounts to staff.
+In 2019, the BIS and IAIS signed a new agreement covering the period of 2020-2024. Under this agreement, the 
+BIS provides an annual financial contribution to the IAIS in the fixed amount of CHF 2,000,000 per annum.
+The Association also benefits from Members’ secondment of staff to its Secretariat. The total amount of these 
+benefits does not form part of these financial statements.
+4. Third party contributions
+The use of these funds is restricted as determined by agreements with the contributors. 
+FSA Japan Grant
+Funds are contributed annually to support the IAIS’ activities and are held in a separate CHF-denominated bank 
+account, on which there was a balance of CHF 162,596 as at 31 December 2021 (CHF 63,254 as at 31 December 
+2020). These funds are held outside the IAIS financial statements; all transactions are financially independent 
+from the IAIS and the financial records are independently audited.
+5. Income taxes
+The Association is exempt from Swiss income tax.
+Year ended 31 December 2021
+Notes to the Financial Statements
+IAIS Financial Report 2021
+11
+
+7. Other short-term receivables
+Year ended 31 December 2021
+Membership fees receivable
+Other
+ 
+Less: provision for bad debts
+ 
+Movement in provision for bad debts:
+ 
+Charge to operating expenses:
+Provision made during the year 
+Amounts recovered in year 
+Charge to operating expenses 
+ 
+Movement in provision: 
+Opening balance 
+Charge to operating expenses 
+Amounts written off in year 
+Closing balance
+2021
+61,400 
+187,529 
+248,929 
+(38,900)
+210,029 
+38,900 
+(5,000)
+33,900 
+64,300 
+33,900 
+(59,300)
+38,900 
+2020
+75,835 
+106,210 
+182,045 
+(64,300)
+117,745 
+77,550 
+- 
+77,550 
+13,250 
+77,550 
+(26,500)
+64,300 
+8. Other short-term liabilities
+Contribution towards Annual Conference  
+and General Meeting expenses (Note 10)
+2021
+-
+-
+2020
+-
+-
+6. Cash and cash equivalents
+CHF Current accounts
+CHF Short term savings accounts
+2021
+3,161,336 
+6,976,893 
+10,138,229 
+2020
+1,830,007 
+6,995,284 
+8,825,291 
+Notes to the Financial Statements
+IAIS Financial Report 2021
+12
+
+9. Accrued expenses and deferred income
+Year ended 31 December 2021
+Accrued expenses:
+ 
+Audit
+Bank for International Settlements
+Consultancy
+Relocation
+Seminars
+Travel
+Website & IT
+Other
+ 
+ 
+Deferred income:
+ 
+Membership fees received in advance
+2021
+10,000 
+1,285,739 
+34,850 
+155,853
+22,660 
+7,317 
+45,000 
+604,827 
+893,923 
+3,060,169
+2020
+10,000 
+475,854 
+24,080 
+- 
+64,205 
+1,260 
+42,270 
+594,498 
+884,212 
+2,096,379 
+Amounts due to the Bank for International Settlements are in respect of staff costs and other operating expenses. 
+All other accrued expenses relate to third parties.
+10. Annual conference and general meeting
+Contribution towards Annual Conference  
+and General Meeting expenses
+2021
+-
+-
+2020
+-
+-
+The Annual Conference fees and expenditure are the responsibility of the host. The host is also responsible  
+for organising a General Meeting, the costs of which are borne by the IAIS. The IAIS sets aside in its annual 
+budget a maximum amount of CHF 100,000 to cover the costs of the General Meeting and contribute towards 
+costs related to the Annual Conference. Any net costs, after taking into account the IAIS contribution, are borne 
+by the host.
+No contributions were made towards the 2020 and 2021 Annual Conferences and Annual General Meetings as 
+in-person IAIS events were suspended and switched to a virtual format. See also Note 16.
+Notes to the Financial Statements
+IAIS Financial Report 2021
+13
+
+11. Contributions
+Year ended 31 December 2021
+Annual Conference and General Meeting (Note 10)
+Regional seminars
+Global seminar
+2021
+-
+(1,071)
+-
+(1,071)
+2020
+-
+39,721
+-
+39,721
+The IAIS contributes up to CHF 60,000 towards the costs of the Global Seminar. Hosts of the Global Seminar 
+may charge registration fees to stakeholder participants on a cost recovery basis. The collection of fees 
+and expenditure incurred are the responsibility of the host. Any net loss, after taking into account the IAIS 
+contribution, is borne by the host.
+No contribution was made towards the 2020 and 2021 Global Seminars as in-person IAIS events were 
+suspended and switched to a virtual format shortly after the start of 2020. Contributions to regional seminars 
+also decreased significantly, representing seminars mostly undertaken in the first quarter of 2020. The amount 
+for 2021 reflects a minor accounting adjustment resulting from a lower-than-expected contribution for a past 
+seminar. See also Note 16.
+12. Staff costs
+Employment costs
+Relocation
+2021
+7,831,073 
+293,177
+8,124,250
+2020
+7,304,826 
+98,259 
+7,403,085 
+The IAIS has on an annual average no more than 50 full time positions.
+Notes to the Financial Statements
+IAIS Financial Report 2021
+14
+
+13. Other operating expenses
+Year ended 31 December 2021
+Audit
+Consultancy fees
+Editing
+FSI Connect licences
+Information services
+Insurance
+Meeting expenses
+Miscellaneous
+Printing & documentation (incl. copies & postage)
+Bad debts expense
+Recruitment
+Telephone & fax
+Training
+Travel
+Website and IT
+2021
+9,693 
+205,159 
+19,115 
+-
+94,265 
+129,233 
+24,313 
+4,494 
+10,070 
+33,900 
+-
+(1,151)
+15,902 
+20,274 
+265,093 
+830,358
+2020
+10,027 
+72,187 
+14,436 
+59,734 
+83,452 
+100,732 
+30,976 
+1,800 
+(9,971)
+77,550 
+1,688 
+-
+19,547 
+65,252 
+185,017 
+712,427 
+The FSI Connect licenses expense occurs every two years and the benefits of the licenses lie with the recipient 
+Members. The 2021 telephone & fax expense line reflects an amount the Association no longer expects to incur.
+14. Financial expenses
+Bank charges & custody fees
+Bank interest
+Foreign exchange loss/(gain)
+2021
+1,475 
+52,481 
+- 
+53,956 
+2020
+1,385 
+48,264 
+(1,909)
+47,740 
+Bank interest represents negative interest rate charges on the Association’s Swiss franc bank account balances.
+Notes to the Financial Statements
+IAIS Financial Report 2021
+15
+
+15. Investment policy and risk management
+The Budget Committee meets around four times a year and assesses the financial risks that could have an 
+impact on the Association. The Secretariat monitors the day-to-day activities of the Association and provides 
+regular reports to the Budget Committee.
+The Association derives income primarily from membership fees. As a non-profit making organisation, it invests 
+surplus income to fund future operations. Security of capital, represented by voluntary retained earnings, has 
+a high priority within the investment policy, to ensure that the Association can continue as a going concern to 
+support its activities for the foreseeable future.
+As at 31 December 2021 the Association’s investment in financial assets comprised banks current and deposit 
+accounts.
+15.1 Liquidity risk
+The Association holds sufficient liquid funds to enable it to meet its liabilities as they fall due.
+15.2 Foreign currency risk
+The revenue and expenditure of the Association are predominantly received and paid in Swiss francs.  
+To minimise the exposure of investments to foreign currency risk, investments are normally held in Swiss franc-
+denominated financial assets. The Association’s cash and cash equivalents are also held in Swiss francs. 
+15.3 Credit Risk
+The major source of funding for the Association is fees from Members. Members represent insurance regulators 
+and supervisors from over 200 jurisdictions in more than 140 countries. Due to the nature of the Association’s 
+activities and broad membership, credit risk is considered to be low.
+16. Significant events in 2020-2021
+At the start of 2020, with the spread of Covid-19 leading to a global pandemic, and the subsequent 
+implementation of travel restrictions by governments worldwide, the IAIS took steps to safeguard the well-being 
+of its Members, stakeholders and staff. As a result, IAIS in-person meetings were replaced with virtual meetings, 
+leading to a significant decrease in expenses for 2020 and 2021. In terms of revenue, the impact was negligible. 
+17. Significant events after the balance sheet date
+There were no significant events between the balance sheet and the approval of these financial statement by  
+the IAIS Executive Committee on 12 September 2022 which could impact the book value of assets and liabilities 
+or which should be disclosed in these financial statements.
+Year ended 31 December 2021
+Notes to the Financial Statements
+IAIS Financial Report 2021
+16
+
+Auditor’s letter
+ 
+ 
+ 
+PricewaterhouseCoopers AG, St. Jakobs-Strasse 25, Postfach, CH-4002 Basel, Switzerland 
+Telefon: +41 58 792 51 00, Telefax: +41 58 792 51 10, www.pwc.ch 
+PricewaterhouseCoopers AG is a member of the global PricewaterhouseCoopers network of firms, each of which is a separate and independent legal entity. 
+Report of the statutory auditor 
+to the General Meeting of International Association of  
+Insurance Supervisors                                                                                             
+Basel 
+Report of the statutory auditor on the financial statements 
+As statutory auditor, we have audited the accompanying financial statements of International Association of Insurance 
+Supervisors, which comprise the balance sheet, income statement, cash flow statement and notes, for the year ended 
+31 December 2021.  
+Executive Committee’s responsibility 
+The Executive Committee is responsible for the preparation of the financial statements in accordance with the require-
+ments of Swiss law and the by-laws. This responsibility includes designing, implementing and maintaining an internal 
+control system relevant to the preparation of financial statements that are free from material misstatement, whether due 
+to fraud or error. The Executive Committee is further responsible for selecting and applying appropriate accounting poli-
+cies and making accounting estimates that are reasonable in the circumstances. 
+Auditor’s responsibility 
+Our responsibility is to express an opinion on these financial statements based on our audit. We conducted our audit in 
+accordance with Swiss law and Swiss Auditing Standards. Those standards require that we plan and perform the audit 
+to obtain reasonable assurance whether the financial statements are free from material misstatement.  
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the financial 
+statements. The procedures selected depend on the auditor’s judgment, including the assessment of the risks of mate-
+rial misstatement of the financial statements, whether due to fraud or error. In making those risk assessments, the audi-
+tor considers the internal control system relevant to the entity’s preparation of the financial statements in order to design 
+audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the ef-
+fectiveness of the entity’s internal control system. An audit also includes evaluating the appropriateness of accounting 
+policies used and the reasonableness of accounting estimates made, as well as evaluating the overall presentation of 
+the financial statements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a 
+basis for our audit opinion. 
+Opinion 
+In our opinion, the financial statements for the year ended 31 December 2021 comply with Swiss law and the by-laws. 
+Report on other legal requirements 
+We confirm that we meet the legal requirements on licensing according to the Auditor Oversight Act (AOA) and inde-
+pendence (article 69b paragraph 3 CC in connection with article 728 CO) and that there are no circumstances incompati-
+ble with our independence. 
+In accordance with article 69b paragraph 3 CC in connection with article 728a paragraph 1 item 3 CO and Swiss Audit-
+ing Standard 890, we confirm that an internal control system exists which has been designed for the preparation of finan-
+cial statements according to the instructions of the Association Executive Committee. 
+IAIS Financial Report 2021
+17
+
+3  International Association of Insurance Supervisors  |  Report of the statutory auditor to the General Meeting 
+We recommend that the financial statements submitted to you be approved. 
+PricewaterhouseCoopers AG 
+Ralph Maiocchi Karen Schmitt 
+Audit expert 
+Auditor in charge 
+Audit expert 
+Basel, 22 September 2022 
+Enclosure: 
+• Financial statements (balance sheet, income statement, cash flow statement and notes) 
+IAIS Financial Report 2021
+18
+
+International Association of Insurance Supervisors
+c/o Bank for International Settlements
+Centralbahnplatz 2
+CH-4002 Basel
+Switzerland
+Tel:  +41 61 280 80 90
+E-mail:  iais@bis.org
+Web:  www.iaisweb.org
+© International Association of Insurance Supervisors 
+(IAIS) 2022.
+All rights reserved. Brief excerpts may be reproduced 
+or translated provided the source is stated.

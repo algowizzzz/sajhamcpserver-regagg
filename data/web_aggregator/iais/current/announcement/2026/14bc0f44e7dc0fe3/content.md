@@ -1,0 +1,1388 @@
+Page 1 of 34 
+Restricted Restricted 
+Contents 
+Introduction .................................................................................................................................................. 1 
+Part I - ICP 16 Enterprise Risk Management for Solvency Purposes ............................................................. 3 
+Part II - Illustrative examples and optional questions ................................................................................ 32 
+  
+ 
+Introduction 
+Peer Reviews are part of the assessment strategy of the IAIS, designed to support members with the 
+implementation of the IAIS supervisory material, in particular the Insurance Core Principles (ICPs). 
+Assessments are undertaken to identify the nature and extent of any weakness or gaps in supervisory and 
+regulatory frameworks, and to provide information on the level of current supervisory capacity and extent 
+of future supervisory development. 
+YOUR AUTHORITY is being invited to participate in the self-assessment and peer review addressing ICP 16. 
+A Word document is available with the questions pertaining to th is ICP. Where you have more than one 
+insurance supervisor in a jurisdiction (eg. a conduct and a prudential one), please provide a joint and 
+coordinated response when answering the questions.  
+Instructions:  
+For each question, choose the response that most closely corresponds to the situation in YOUR 
+JURISDICTION and YOUR AUTHORITY. Some questions ask about the actual experience in YOUR 
+JURISDICTION. You should answer these questions on a “business as usual” basis. If records, reports or 
+other material exist that would help you to respond to such questions, please refer to them. In case the  
+actual experience had been absent during the COVID-19 pandemic, you are encouraged to give examples 
+of where the situation has differed during the pandemic in the text box below the question.  
+In this Questionnaire, as in the ICPs, the term “legislation”  is used to include primary legislation (which 
+generally requires full legislative consent), secondary legislation and legally enforceable rules set by YOUR 
+AUTHORITY. The term “supervisory guidelines” means documents issued by YOUR AUTHORITY  to 
+communicate expectations to the industry, which do not have the legal force of law. Where the term 
+“case-by-case basis” is used, expectation is expressed by YOUR AUTHORITY depending on the nature, scale 
+and complexity of the insurer and considering relevant micro- and macro-prudential supervisions.  
+PART I  
+A set of questions is  prepared for assessing the legislation and supervisory practices that are in place to 
+address the requirements for each ICP standard, while guidance provides recommendation on how a 
+particular standard should be interpreted. The assessment should consider whether supervisory practices
+
+Page 2 of 34 
+Restricted Restricted 
+adequately meet the outcomes provided for in legislation and whether YOUR AUTHORITY  enforces 
+compliance.  
+In the comment box following each question, you will have the opportunity to provide additional 
+information explaining cases where the actual situation differs substantially from any of the responses 
+available and/or explanations of circumstances not fully captured by the available multiple -choice 
+responses. Such information and explanation will be considered in assessing your survey responses. For 
+example, additional input s may include what triggers communication on a case-by -case basis, 
+improvements already proposed or scheduled for implementation by YOUR AUTHORITY, etc.  
+PART II Furthermore, you will have the opportunity , in the second part of the questionnaire, to describe 
+supervisory approaches in YOUR JURISDICTION. The responses are not used to assess the observance level 
+in the assessment; however,  YOUR AUTHORITY is encouraged to complete the questions in order to 
+capture implemented practices concerning ICP 16. Such practices may be included in the aggregate report 
+as “illustrative examples”. 
+Important: Please ensure that your responses have been approved as final before beginning the process 
+of entering your responses online. As you move through the online questionnaire, you may use the “save 
+as draft” option by clicking on the button at the top -right of each page. If you select the button, you will 
+be directed to the “Save your unfinished survey” page. After entering login credential, you may return to 
+the survey to continue answering questions. All responses can be edited before your final submission. 
+Additionally, if you do not wish to comment on a question, please enter “N/A” in the comment box. 
+Please note that before your individual jurisdiction’s report is finalised, YOUR JURISDICTION will be 
+provided with an opportunity to opt out of disclosing your assessment results as uploads to the IAIS 
+Members Extranet.  
+If you have any question(s) or need further information in relation to completing the questionnaire, please 
+submit your question(s) to the IAIS Secretariat ( sharon.lin@bis.org). A webinar for clarifications of the 
+questionnaire may be arranged if needed. 
+Please enter your Email Address: 
+ 
+Please Enter Your Jurisdiction’s Name:  
+ 
+Please Enter Your Authority’s Name:
+
+Page 3 of 34 
+Restricted Restricted 
+Part I - ICP 16 Enterprise Risk Management for Solvency Purposes 
+ 
+16 The supervisor requires the insurer to establish within its risk management system an 
+enterprise risk management (ERM) framework for solvency purposes to identify, measure, 
+report and manage the insurer’s risks in an ongoing and integrated manner. 
+ 
+16.1 The supervisor requires the insurer’s ERM framework to provide for the identification of all 
+reasonably foreseeable and relevant material risks and risk interdependencies for risk and capital 
+management. 
+ 
+1. How is the requirement that an insurer’s ERM framework provide for identification of all reasonably 
+foreseeable and relevant material risks and risk interdependencies implemented in YOUR 
+JURISDICTION? 
+ 1. Fully and explicitly 
+required under 
+legislation or generally 
+required under 
+legislation and 
+elaborated through 
+published supervisory 
+guidelines 
+2. Required or 
+recommended by 
+accepted 
+supervisory 
+guidelines or other 
+guidance which 
+does not have 
+force of law 
+3. Expectation is 
+expressed by 
+YOUR 
+AUTHORITY on 
+a case-by-case 
+basis 
+4. Not 
+addressed 
+a. Sources of risk  
+(incl. 
+macroeconomic 
+exposures) 
+    
+b. Scope and 
+materiality of risk  
+    
+c. Risk 
+interdependency  
+(incl. correlations 
+between the tails of 
+risk profiles) 
+    
+d. Alignment with 
+risk and capital 
+management
+
+Page 4 of 34 
+Restricted Restricted 
+If you would like to elaborate on this question, please provide your comments in the box below.   
+ 
+ 
+ 
+ 
+2. To what extent do the ERM requirements in YOUR JURISDICTION require insurers to cover the 
+following specific risk categories when identifying all reasonably foreseeable and relevant material 
+risks? 
+ 1. Fully and explicitly 
+required under 
+legislation or 
+generally required 
+under legislation and 
+elaborated through 
+published 
+supervisory 
+guidelines 
+2. Required or 
+recommended by 
+accepted supervisory 
+guidelines or other 
+guidance which does 
+not have force of law 
+3. Expectation 
+is expressed 
+by YOUR 
+AUTHORITY on 
+a case-by-case 
+basis 
+4. Not 
+addressed 
+a. Insurance risk     
+b. Market risk     
+c. Credit risk     
+d. Concentration risk     
+e. Operational risk     
+f. Liquidity risk     
+g. Other specified 
+material risk 
+    
+ 
+If you would like to elaborate on which other specified material risks are covered, please provide your 
+comments in the box below.
+
+Page 5 of 34 
+Restricted Restricted 
+ 
+[SURVEY TOOL SEPARATED SECTION] 
+This part is Optional. The responses are not used to assess the observance level in the assessment.  YOUR 
+AUTHORITY is encouraged to complete the questions in order to capture implemented practices concerning 
+ICP 16. (Set out in guidance 16.1.1 , 16.6.8, 16.12.3 etc. , this part does not prescribe any requirements, 
+therefore is not assessed for observance.) 
+ 
+o To what extent do the ERM requirements in YOUR JURISDICTION require insurers to cover the 
+following specific risk categories when identifying all reasonably foreseeable and relevant 
+material risks? 
+ 1. Fully and explicitly 
+required under legislation 
+or generally required under 
+legislation and elaborated 
+through published 
+supervisory guidelines 
+2. Required or 
+recommended by 
+accepted supervisory 
+guidelines or other 
+guidance which does 
+not have force of law 
+3. Expectation 
+is expressed 
+by YOUR 
+AUTHORITY 
+on a case-by-
+case basis 
+4. Not 
+addressed 
+a. Group risk     
+b. Climate risk     
+c. Cyber risk     
+ 
+o In requiring the insurer’s own risk and solvency assessment (ORSA) to encompass material risks, 
+has concentration risk been addressed? Please provide your comments in the box below.   
+ 
+ 
+ 
+o Can you provide an example of requiring an insurer’s assessment of aggregate counterparty 
+exposures and analysis of the effect of stress events? Please provide your comments in the box 
+below.
+
+Page 6 of 34 
+Restricted Restricted 
+ 
+3. To what extent do the ERM requirements in YOUR JURISDICTION require the insurer’s ERM framework 
+to consider the direct and indirect interrelationships  between legal entities within an insurance 
+group? 
+ 
+1. Consideration of group interrelationships is required under legislation.  
+2. Consideration of group interrelationships is not required but there is an expectation from YOUR 
+AUTHORITY.  
+3. No, there is no such requirement or expectation.  
+4. This question is not applicable, because there are no groups in YOUR JURISDICTION.  
+   
+16.2 The supervisor requires the insurer’s ERM framework to: 
+• provide for the quantification of risk and risk interdependencies under a sufficiently wide 
+range of techniques for risk and capital management; and 
+• as necessary, include the performance of stress testing to assess the resilience of its total 
+balance sheet against macroeconomic stresses. 
+4. Does YOUR AUTHORITY require insurers to provide for the quantification of risk and risk 
+interdependencies under a wide range of techniques for risk and capital management? 
+1. Yes, all insurers are required to provide for quantification of risk and risk interdependencies under 
+a wide range of techniques for risk and capital management.  
+2. Sometimes, but not always , insurers are required to provide for quantification of risk and risk 
+interdependencies under a wide range of techniques for risk and capital management.  
+3. No, but there is a communicated expectation of YOUR AUTHORITY.  
+4. No, there is no such requirement or expectation. SURVEY TOOL if selected, SKIP NEXT Qs (5&6) 
+ 
+If you would like to elaborate on your response, please provide your comments in the box below.   
+ 
+ 
+ 
+5. To what extent  does YOUR AUTHORITY require the insurer’s ERM framework to have a sufficiently 
+wide range of techniques for risk and capital management to allow for quantification of risk and risk 
+interdependencies?  
+1. A wide range of forward -looking quantitative techniques is used  (such as risk modelling, stress 
+testing, including reverse stress testing, and scenario analysis), co nsidering a range of adverse 
+circumstances and events ( such as a significant threat to the financial condition of the insurer) 
+and management actions and their timing are identified.  
+2. Some quantitative techniques are used, considering a range of adverse circumstances and 
+events, only limited management actions are identified.
+
+Page 7 of 34 
+Restricted Restricted 
+3. Quantitative techniques are rarely used for the quantification of risk and risk interdependencies 
+and no management actions are identified.  
+4. No quantitative techniques are used.  
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+6. How often  does YOUR AUTHORITY assess  an insurer’s quantification of risk and risk 
+interdependencies under its ERM framework?  
+1. Assessment is always performed as part of the evaluation of insurer ERM framework.  
+2. Assessment is sometimes performed as part of the evaluation of insurer ERM framework.  
+3. Assessment is performed in cases of actual or potential supervisory concerns.  
+4. Assessment is not performed.  
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+7. Does YOUR AUTHORITY have an established process in place to determine the insurers in scope of 
+the requirement to include the performance of stress testing to assess the resilience of its total 
+balance sheet against macroeconomic stresses? 
+1. YOUR AUTHORITY has an established and documented process in place to determine the 
+insurers in scope and is executing the process regularly.  
+2. YOUR AUTHORITY has a less formal process in place to determine the insurers in scope.  
+3. YOUR AUTHORITY has no process in place but uses judgement on a case-by-case basis to 
+determine the insurers in scope.  
+4. YOUR AUTHORITY does not determine the scope of the insurers subject to this requirement.  
+SURVEY TOOL if selected, SKIP NEXT Qs (8) 
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+8. For insurers subject to this requirement, how often does YOUR AUTHORITY review insurers to assess 
+whether and how they are performing stress testing to assess the resilience of their total balance 
+sheet against macroeconomic stresses as part of their ERM framework?
+
+Page 8 of 34 
+Restricted Restricted 
+1. A review is always performed as part of the general evaluation of the insurer’s ERM 
+frameworks with a particular focus on macroeconomic stresses.  
+2. A review is sometimes performed even when there are no supervisory concerns but still with a 
+particular focus on macroeconomic stresses.  
+3. A review only takes place in cases of actual or potential supervisory concerns and changes in 
+the macroeconomic environment.  
+4. There is no such requirement or communicated expectation of YOUR AUTHORITY that stress 
+testing with regards to macroeconomic resilience will be reviewed.  
+5. This question is not applicable as there had been no cases where stress testing was deemed 
+necessary.  
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+ 
+16.3 The supervisor requires the insurer’s ERM framework to reflect the relationship between the 
+insurer’s risk appetite, risk limits, regulatory capital requirements, economic capital and the 
+processes and methods for monitoring risk. 
+ 
+9. How is the  requirement that an insurer’s ERM framework reflect s the relationship between the 
+insurer’s risk appetite, risk limits, regulatory capital requirements, economic capital and the processes 
+and methods for monitoring risk implemented in YOUR JURISDICTION? 
+1. Fully and explicitly required under legislation or generally required under legislation and 
+elaborated through published supervisory guidelines.  
+2. Required or recommended by accepted supervisory guidelines or other guidance which does not 
+have force of law. 
+3. Expectation is expressed by YOUR AUTHORITY on a case-by-case basis.  
+4. There is no such requirement or communicated expectation.  SURVEY TOOL if selected, SKIP NEXT 
+Qs (10&11) 
+If you would like to elaborate on your response, please comment in the box below.
+
+Page 9 of 34 
+Restricted Restricted 
+10. Which of the following factors does YOUR AUTHORITY consider when evaluating whether an insurer’s 
+ERM framework reflects the relationship between the insurer’s risk appetite, risk limits, regulatory 
+capital requirements, economic capital and the processes and methods for monitoring risk? 
+ 1. Always 
+considered 
+2. Sometimes 
+considered 
+3. Not 
+considered 
+a. How the insurer’s risk management coordinates 
+with strategic planning and the insurer’s capital 
+management. 
+   
+b. Whether the insurer’s time horizon is consistent 
+with the nature of the insurer’s risks and the business 
+planning horizon. 
+   
+c. Whether risks are monitored and reported to the 
+Board and Senior Management in a regular and timely 
+manner. 
+   
+d. Where internal models are used for business 
+forecasting, the extent to which they are back-tested 
+to validate accuracy over time. 
+   
+ e. How the insurer’s reinsurance arrangements: 
+reflect the insurer’s risk limits structure; play a role in 
+mitigating risk; and impact the insurer’s capital 
+requirements. 
+   
+f. The use of any non-traditional forms of reinsurance 
+(eg. finite reinsurance).    
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+ 
+11. How often does YOUR AUTHORITY assess whether and how an insurer’s ERM framework reflects the 
+relationship between the insurer’s risk appetite, risk limits, regulatory capital requirements, economic 
+capital and the processes and methods for monitoring risk? 
+1. Assessment is always performed as part of the evaluation of the insurer’s ERM framework.  
+2. Assessment is sometimes performed as part of the evaluation of the insurer’s ERM framework.  
+3. Assessment is performed in cases of actual or potential supervisory concerns.  
+4. There is no such requirement or communicated expectation in YOUR JURISDICTION.
+
+Page 10 of 34 
+Restricted Restricted 
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+ 
+16.4 The supervisor requires the insurer to have a risk appetite statement that: 
+• articulates the aggregate level and types of risk the insurer is willing to assume within its 
+risk capacity to achieve its financial and strategic objectives, and business plan; 
+• takes into account all relevant and material categories of risk and their interdependencies 
+within the insurer’s current and target risk profiles; and 
+• is operationalised in its business strategy and day -to-day operations through a more 
+granular risk limits structure. 
+12. How is the requirement that insurers to produce a risk appetite statement implemented in YOUR 
+JURISDICTION? 
+1. Fully and explicitly required under legislation or generally required under legislation and 
+elaborated through published supervisory guidelines.  
+2. Required or recommended by accepted supervisory guidelines or other guidance which does not 
+have force of law.  
+3. Expectation is expressed by YOUR AUTHORITY on a case-by-case basis.  
+4. There is no such requirement or communicated expectation.   SURVEY TOOL if selected, SKIP 
+NEXT Qs (13&14) 
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+13. To what extent does YOUR AUTHORITY consider the following factors when assessing an insurer’s 
+risk appetite statement under an ERM framework.  
+  1. Always 
+considered 
+2. Sometimes 
+considered 
+3. Not 
+considered 
+a. The risk appetite statement provides the insurer’s 
+Board with a coherent, holistic, concise and easily 
+understood view of the insurer’s risk appetite.  
+   
+b. The risk appetite statement adequately considers 
+the risk capacity of the insurer given regulatory capital 
+requirements, economic capital, liquidity, and the 
+insurer’s operational environment.
+
+Page 11 of 34 
+Restricted Restricted 
+c. The risk appetite statement includes appropriate 
+qualitative statements as well as quantitative 
+measures expressed relative to earnings, capital, risk 
+management and other relevant measures as 
+appropriate. 
+   
+d. The risk appetite statement gives clear guidance to 
+operational management on the level of risk to which 
+the insurer is prepared to be exposed and the limits of 
+risk to which they are able to expose the insurer. 
+   
+e. The risk appetite statement defines group risk limits 
+where there are any relevant and material group risks 
+that it faces. 
+   
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+14. How often does YOUR AUTHORITY assess an insurer’s risk appetite statement to determine whether 
+and how the insurer meets the requirements of the standard? 
+1. Assessment is always performed as part of the evaluation of the insurer’s ERM framework.  
+2. Assessment is sometimes performed as part of the evaluation of the insurer’s ERM framework.  
+3. Assessment is performed in cases of actual or potential supervisory concerns.  
+4. There is no such requirement or communicated expectation in YOUR JURISDICTION.  
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+16.5 The supervisor requires the insurer’s ERM framework to include an explicit asset -liability 
+management (ALM) policy which specifies the nature, role and extent of ALM activities and their 
+relationship with product development, pricing functions and investment management. 
+ 
+15. How is the requirement that the insurer’s ERM framework includes an explicit asset-liability 
+management policy implemented in YOUR JURISDICTION? 
+1. Fully and explicitly required under legislation or generally required under legislation and 
+elaborated through published supervisory guidelines.  
+2. Accepted or recommended by supervisory guidelines or other guidance which does not have 
+force of law.
+
+Page 12 of 34 
+Restricted Restricted 
+3. Expectation is expressed by YOUR AUTHORITY on a case-by-case basis.  
+4. There is no such requirement or communicated expectation.  SURVEY TOOL if selected, SKIP NEXT 
+Qs (16&17) 
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+16. To what extent does YOUR AUTHORITY require insurers to consider the following factors when 
+establishing an ALM policy under an ERM framework? 
+  1. Always 
+required to 
+consider 
+2. Sometimes 
+required to 
+consider 
+3. Not 
+required to 
+consider 
+a. How investment and liability strategies allow for 
+interaction between assets and liabilities.    
+b. How liability cash flows will be met by the cash 
+inflows.    
+c. How the economic valuation of assets and 
+liabilities will change under a range of different 
+scenarios.  
+   
+d. Whether any insurer off-balance sheet exposures 
+or transferred risks may revert to the insurer and 
+impact on ALM management. 
+   
+e. Whether some assets and liabilities should be 
+ring-fenced to protect policyholders.    
+f. Whether it may be necessary for the insurer to 
+have separate and self-contained ALM policies for 
+particular portfolios of assets that are ring-fenced. 
+   
+g. How liabilities with particularly long durations, 
+such as certain types of liability insurance and 
+whole-life policies and annuities should be managed. 
+   
+h. How legal restrictions that may apply to the 
+treatment of assets and liabilities within the 
+jurisdictions in which an insurance group operates 
+may affect ALM. 
+   
+If you would like to elaborate on your response, please comment in the box below.
+
+Page 13 of 34 
+Restricted Restricted 
+17. How often does YOUR AUTHORITY assess an insurer’s ALM policy? 
+1. Assessment is always performed as part of the evaluation of the insurer’s ERM framework.  
+2. Assessment is sometimes performed as part of the evaluation of the insurer’s ERM framework.  
+3. Assessment is performed in cases of actual or potential supervisory concerns.  
+4. There is no such requirement or communicated expectation in YOUR JURISDICTION.  
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+ 
+16.6 The supervisor requires the insurer’s ERM framework to include an explicit investment policy 
+that: 
+• addresses investment risk according to the insurer’s risk appetite and risk limits structure; 
+• specifies the nature, role and extent of the insurer’s investment activities and how the 
+insurer complies with regulatory investment requirements; and 
+• establishes explicit risk management procedures with regard to more complex and less 
+transparent classes of asset and investments in markets or instruments that are subject 
+to less governance or regulation; and 
+• as necessary, includes a counterparty risk appetite statement. 
+ 
+18. How is the requirement that the insurer’s ERM framework to include an explicit investment policy 
+implemented in YOUR JURISDICTION? 
+1. Fully and explicitly required under legislation or generally required under legislation and 
+elaborated through published supervisory guidelines.  
+2. Required or recommended by accepted supervisory guidelines or other guidance which does not 
+have force of law.  
+3. Expectation is expressed by YOUR AUTHORITY on a case-by-case basis.  
+4. There is no such requirement or communicated expectation.   SURVEY TOOL if selected, SKIP 
+NEXT Qs (19&20) 
+If you would like to elaborate on your response, please comment in the box below.
+
+Page 14 of 34 
+Restricted Restricted 
+19. To what extent does YOUR AUTHORITY require insurers to consider the following factors when 
+establishing an investment policy under an ERM framework? 
+ 1. Always 
+required to 
+consider 
+ 2. Sometimes 
+required to 
+consider 
+ 3. Not 
+required to 
+consider 
+a. Whether the policy addresses investment risk 
+according to the insurer’s risk appetite and risk limits 
+structure.  
+   
+b. Whether the policy specifies the nature, role and 
+extent of the insurer’s investment activities and how 
+the insurer complies with regulatory investment 
+requirements.  
+   
+c. Whether the policy establishes risk management 
+procedures with regard to more complex and less 
+transparent classes of asset and investments in 
+markets or instruments that are subject to less 
+governance or regulation. 
+   
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+ 
+20. Does YOUR JURISDICTION require an insurer to consider the following factors as part of its 
+investment policy: 
+ Yes No 
+a. Its approach to the safe-keeping of assets including custodial arrangements 
+and the conditions under which investments may be pledged or lent.   
+b. Management of excessive asset concentration risk associated with 
+investments.   
+c. Management of credit risk.    
+d. Management of any foreign exchange risk exposures associated with 
+investments.    
+e. Liquidity risk associated with investments.
+
+Page 15 of 34 
+Restricted Restricted 
+f. How the insurer intends to deal with inherently complex financial instruments 
+(such as derivatives, hybrid instruments that embed derivatives, private equity, 
+hedge funds, insurance linked instruments and commitments transacted 
+through special purpose entities). 
+ 
+ 
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+ 
+21.  Does YOUR AUTHORITY have an established process in place to determine the insurers in scope for 
+the requirement to include a counterparty risk appetite statement? 
+1. YOUR AUTHORITY has an established and documented process in place to determine the 
+insurers in scope and is executing the process regularly.  
+2. YOUR AUTHORITY has a less formal process in place to determine the insurers in scope.  
+3. YOUR AUTHORITY has no process in place but uses judgement on a case-by-case basis. 
+4. YOUR AUTHORITY does not determine the scope of the insurers subject to this requirement. 
+SURVEY TOOL if selected, SKIP NEXT Qs (22) 
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+22. For insurers subject to this requirement, how often does YOUR AUTHORITY review insurers to 
+assess whether and how they have included a counterparty risk appetite statement? 
+1. A review is always performed as part of the evaluation of the insurer’s ERM framework.  
+2. A review is sometimes performed as part of the evaluation of the insurer’s ERM framework.  
+3. A review is performed in cases of actual or potential supervisory concerns.  
+4. There is no such requirement or communicated expectation in YOUR JURISDICTION.  
+If you would like to elaborate on your response, please comment in the box below.
+
+Page 16 of 34 
+Restricted Restricted 
+16.7 The supervisor requires the insurer’s ERM framework to include an underwriting policy that 
+addresses the: 
+• insurer’s underwriting risk according to the insurer’s risk appetite and risk limits structure; 
+• nature of risks to be underwritten, including any material relationship with macroeconomic 
+conditions; and 
+• interaction of the underwriting strategy with the insurer’s reinsurance strategy and pricing. 
+ 
+23. How is the requirement that the insurer’s ERM framework to include an underwriting policy as 
+described in the standard implemented in YOUR JURISDICTION? 
+1. Fully and explicitly required under legislation or generally required under legislation and 
+elaborated through published supervisory guidelines.  
+2. Required or recommended by accepted supervisory guidelines or other guidance which does not 
+have force of law.  
+3. Expectation is expressed by YOUR AUTHORITY on a case-by-case basis.  
+4. There is no such requirement or communicated expectation.  SURVEY TOOL if selected, SKIP NEXT 
+Qs (24-26) 
+24. To what extent does YOUR AUTHORITY require insurers to include the following when establishing 
+an underwriting policy under an ERM framework? 
+ 1. Always 
+required to 
+include 
+ 2.Sometimes 
+required to include 
+ 3.Not 
+required 
+a. insurer’s underwriting risk according to the 
+insurer’s risk appetite and risk limits structure. 
+   
+b. nature of risks to be underwritten, including 
+any material relationship with macroeconomic 
+conditions. 
+   
+c. interaction of the underwriting strategy with 
+the insurer’s reinsurance strategy and pricing.    
+If you would like to elaborate on your response, please comment in the box below.
+
+Page 17 of 34 
+Restricted Restricted 
+25. Does YOUR JURISDICTION require an insurer to consider the following factors as part of its 
+underwriting policy:  
+ Yes No 
+a. Underwriting process, pricing, claims settlement and expense control (where 
+applicable and relevant to the expenses of the underwriting process). 
+  
+b. The effectiveness of risk transfer, including ensuring that: 
+• the insurer’s reinsurance programme provides coverage appropriate to 
+its level of capital, the profile of the risks it underwrites, its business 
+strategy and risk appetite; and 
+• the risk will not revert to the insurer in adverse circumstances. 
+ 
+ 
+c.   Product classes the insurer is willing to write, relevant exposure limits (eg 
+geographical, counterparty, economic sector); and a process for setting 
+underwriting limits. 
+ 
+ 
+d.  The potential impact on the insurer’s financial position from material 
+correlations between macroeconomic conditions and the insurance 
+portfolio. 
+ 
+ 
+e.   How an insurer analyses emerging risks in the underwritten portfolio; and 
+how emerging risks are considered in modifying underwriting practices.   
+f.   Interactions with the reinsurance strategy and associated credit risk.   
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+ 
+26. How often does YOUR AUTHORITY assess an insurer’s underwriting policy? 
+1. Assessment is always performed as part of the evaluation of the insurer’s ERM framework.  
+2. Assessment is sometimes performed as part of the evaluation of the insurer’s ERM framework.  
+3. Assessment is performed in cases of actual or potential supervisory concerns.  
+4. There is no such requirement or communicated expectation in YOUR JURISDICTION.  
+If you would like to elaborate on your response, please comment in the box below.
+
+Page 18 of 34 
+Restricted Restricted 
+ 
+16.8 The supervisor requires the insurer’s ERM framework to address liquidity risk and to contain 
+strategies, policies and processes to maintain adequate liquidity to meet its liabilities as they 
+fall due, in normal and stressed conditions.  
+ 
+27. How is the requirement that the insurer’s ERM framework has to address liquidity risk and to 
+contain strategies, policies and processes as described in the standard implemented in YOUR 
+JURISDICTION? 
+1. Fully and explicitly required under legislation or generally required under legislation and 
+elaborated through published supervisory guidelines.  
+2. Required or recommended by accepted supervisory guidelines or other guidance which does not 
+have force of law.  
+3. Expectation is expressed by YOUR AUTHORITY on a case-by-case basis.  
+4. There is no such requirement or communicated expectation.  SURVEY TOOL if selected, SKIP NEXT 
+Qs (28-30) 
+ 
+28. To what extent does YOUR JURISDICTION require an insurer’s ERM Framework to:  
+ 1. Always required   2.Sometimes required   3.Not required 
+a. Address liquidity risk.    
+b. Contain strategies, policies and 
+processes to maintain adequate 
+liquidity. 
+ 
+  
+c.   Contain strategies policies and 
+procedures that meet liquidity 
+needs as they fall due, in 
+normal and stressed conditions. 
+ 
+  
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+ 
+29.  Does YOUR JURISDICTION require an insurer to consider the following factors as part of the 
+insurer’s ERM framework addressing liquidity risk: 
+ Yes No
+
+Page 19 of 34 
+Restricted Restricted 
+a. Whether the insurer adequately assesses the liquidity of both its assets and 
+its liabilities.    
+b.  Whether the insurer has well-defined processes and metrics in place, to 
+assess its liquidity position at different time horizons on a regular basis.    
+c.   Whether liquidity analysis adequately covers both normal and stressed 
+market conditions.   
+d.  Whether supervisory reporting of the insurer’s liquidity risk management 
+processes and analysis, including key assumptions or metrics, is adequate.   
+e.   Whether an insurance group’s assessment results in a coherent view of 
+liquidity risk across legal entities within the group.   
+ If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+30. How often does YOUR AUTHORITY assess an insurer’s liquidity risk and the strategies, policies and 
+processes to maintain adequate liquidity to meet its liabilities as they fall due in normal and stressed 
+conditions? 
+1. Assessment is always performed as part of the evaluation of the insurer’s ERM framework.  
+2. Assessment is sometimes performed as part of the evaluation of the insurer’s ERM framework.  
+3. Assessment is performed in cases of actual or potential supervisory concerns.  
+4. There is no such requirement or communicated expectation in YOUR JURISDICTION.  
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+ 
+16.9 The supervisor requires, as necessary, the insurer to establish more detailed liquidity risk 
+management processes, as part of its ERM framework, that includes: 
+• liquidity stress testing; 
+• maintenance of a portfolio of unencumbered highly liquid assets in appropriate locations; 
+• a contingency funding plan; and 
+• the submission of a liquidity risk management report to the supervisor. 
+ 
+31. Does YOUR AUTHORITY have an established process in place to determine the insurers in scope for 
+the requirement to establish more detailed liquidity risk management processes?
+
+Page 20 of 34 
+Restricted Restricted 
+1. YOUR AUTHORITY has an established and documented process in place to determine the 
+insurers in scope and is executing the process regularly.  
+2. YOUR AUTHORITY has a less formal process in place to determine the insurers in scope.  
+3. YOUR AUTHORITY has no process in place but uses judgement on a case-by-case basis.  
+4. YOUR AUTHORITY does not determine the scope of the insurers subject to this requirement. 
+SURVEY TOOL if selected, SKIP NEXT Qs (32&33) 
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+32. When YOUR JURISDICTION requires an insurer in scope to establish a more detailed liquidity risk 
+management processes, which of the following practices can YOUR JURISDICTION require the 
+insurer to implement as part of the ERM framework? [More than one response from 1 to 4 may be 
+entered, where applicable.] 
+1. Liquidity stress testing.  
+2. A portfolio of unencumbered highly liquid assets in appropriate locations.  
+3. A contingency funding plan.  
+4. The submission of a liquidity risk management report to YOUR AUTHORITY.  
+5. None of the above.  
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+33. How often does YOUR AUTHORITY review insurers subject to the more detailed liquidity risk 
+management process requirements described above, to assess whether and how they are being 
+addressed as part of the ERM framework? 
+1. A review is always performed as part of the evaluation of the insurer’s ERM framework.  
+2. A review is sometimes performed as part of the evaluation of the insurer’s ERM framework.  
+3. A review is performed in cases of actual or potential supervisory concerns.  
+4. There is no such requirement or communicated expectation in YOUR JURISDICTION.  
+If you would like to elaborate on your response, please comment in the box below.
+
+Page 21 of 34 
+Restricted Restricted 
+16.10 The supervisor requires the insurer to perform regularly its own risk and solvency assessment 
+(ORSA) to assess the adequacy of its risk management and current, and likely future, solvency 
+position. 
+ 
+34. How is the requirement that an insurer regularly performs its ORSA as described in the standard 
+implemented in YOUR JURISDICTION?  
+1. Fully and explicitly required under legislation or generally required under legislation and 
+elaborated through published supervisory guidelines.  
+2. Required or recommended by accepted supervisory guidelines or other guidance which does not 
+have force of law.  
+3. Expectation is expressed by YOUR AUTHORITY on a case-by-case basis.  
+4. There is no such requirement or communicated expectation.  SURVEY TOOL if selected, SKIP NEXT 
+Qs (35&36) 
+ 
+35. Does YOUR AUTHORITY require the insurer to document the main outcomes, rationale, calculations 
+and action plans arising from its ORSA? 
+1. Yes, the insurer is required to document the main outcomes, rationale, calculations and action 
+plans arising from its ORSA.  
+2. Sometimes, but not always, the insurer is required to document the main outcomes, rationale, 
+calculations and action plans arising from its ORSA.  
+3. There is a communicated expectation that insurers document the main outcomes, rationale, 
+calculations and action plans arising from its ORSA. 
+4. No, there is no such requirement or expectation.  
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+36. How often does YOUR AUTHORITY assess whether and how an insurer is regularly performing its ORSA 
+to assess the adequacy of its risk management and current, and likely future, solvency position? 
+1. An assessment is always performed as part of the evaluation of the insurer’s ERM framework.  
+2. An assessment is sometimes performed as part of the evaluation of the insurer’s ERM 
+framework.  
+3. An assessment is performed in cases of actual or potential supervisory concerns.  
+4. There is no such requirement or communicated expectation in YOUR JURISDICTION.  
+If you would like to elaborate on your response, please comment in the box below.
+
+Page 22 of 34 
+Restricted Restricted 
+ 
+16.11 The supervisor requires the insurer’s Board and Senior Management to be responsible for the 
+ORSA. 
+ 
+37. Does YOUR AUTHORITY require the insurer’s Board and Senior Management to be responsible for 
+the ORSA? 
+1. Yes, fully and explicitly required under legislation or generally required under legislation and 
+elaborated through published supervisory guidelines.  
+2. Yes, required or recommended by accepted supervisory guidelines or other guidance which 
+does not have force of law.  
+3. Yes, expectation is expressed by YOUR AUTHORITY on a case-by-case basis.  
+4. No, there is no such requirement or expectation.  SURVEY TOOL if selected, SKIP NEXT Q (38) 
+ 
+38. Which of the following factors does YOUR AUTHORITY consider when evaluating whether an 
+insurer’s Board and Senior Management are taking responsibility for the ORSA? 
+1. The Board adopts a rigorous process for setting, approving, and overseeing the effective 
+implementation by Senior Management of the insurer’s ORSA.  
+2. The effectiveness of the ORSA is validated through internal or external independent overall 
+review by a suitably experienced individual, where appropriate.  
+3. All of the above. 
+4. None of the above.  
+ 
+ 
+16.12  The supervisor requires the insurer’s ORSA to:  
+• encompass all reasonably foreseeable and relevant material risks including, at least, 
+insurance, credit, market, concentration, operational and liquidity risks and (if applicable) 
+group risk; and  
+• identify the relationship between risk management and the level and quality of financial 
+resources needed and available; 
+and, as necessary: 
+• assess the insurer’s resilience against severe but plausible macroeconomic stresses 
+through scenario analysis or stress testing; and  
+• assess aggregate counterparty exposures and analyse the effect of stress events on 
+material counterparty exposures through scenario analysis or stress testing. 
+ 
+39. To what extent does YOUR AUTHORITY require an insurer’s ORSA to address the following factors?
+
+Page 23 of 34 
+Restricted Restricted 
+ 1. Fully and explicitly 
+required under 
+legislation or 
+generally required 
+under legislation and 
+elaborated through 
+published 
+supervisory 
+guidelines 
+2. Required or 
+recommended by 
+accepted 
+supervisory 
+guidelines or other 
+guidance which 
+does not have 
+force of law 
+3. Expectation 
+is expressed 
+by YOUR 
+AUTHORITY on 
+a case-by-case 
+basis 
+4. Not 
+addressed 
+a. Encompass all 
+reasonably foreseeable 
+and relevant material 
+risks including, at least, 
+insurance, credit, market, 
+concentration, 
+operational and liquidity 
+risks and (if applicable) 
+group risk.  
+    
+b. Identify the 
+relationship between risk 
+management and the 
+level and quality of 
+financial resources 
+needed and available. 
+    
+ 
+40. Does YOUR AUTHORITY have an established process in place to determine the insurers in scope for 
+the requirement in the ORSA to assess the insurer’s resilience against severe but plausible 
+macroeconomic stresses through scenario analysis or stress testing?  
+1. YOUR AUTHORITY has an established and documented process in place to determine the 
+insurers in scope and is executing the process regularly.  
+2. YOUR AUTHORITY has a less formal process in place to determine the insurers in scope.  
+3. YOUR AUTHORITY has no process in place but uses judgement on a case-by-case basis.  
+4. YOUR AUTHORITY does not determine the scope of the insurers subject to this requirement.  
+SURVEY TOOL if selected, SKIP NEXT Q (41) 
+ 
+If you would like to elaborate on your response, please comment in the box below.
+
+Page 24 of 34 
+Restricted Restricted 
+41. For insurers subject to this requirement, how often does YOUR AUTHORITY review insurers to 
+assess whether and how they are assessing their resilience against macroeconomic stresses as part 
+of the ORSA? 
+1. A review is always performed as part of the evaluation of the insurer’s ERM framework.  
+2. A review is sometimes performed as part of the evaluation of the insurer’s ERM framework.  
+3. A review is performed in cases of actual or potential supervisory concerns.  
+4. There is no such requirement or communicated expectation in YOUR JURISDICTION.  
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+ 
+42. Does YOUR AUTHORITY have an established process in place to determine the insurers in scope for 
+the requirement to assess aggregate counterparty exposures and analyse the effect of stress events 
+on material counterparty exposures through scenario analysis or stress testing? 
+1. YOUR AUTHORITY has an established and documented process in place to determine the 
+insurers in scope and is executing the process regularly.  
+2. YOUR AUTHORITY has a less formal process in place to determine the insurers in scope.  
+3. YOUR AUTHORITY has no process in place but uses judgement on a case-by-case basis.  
+4. YOUR AUTHORITY does not determine the scope of the insurers subject to this requirement.  
+SURVEY TOOL if selected, SKIP NEXT Q (43) 
+ 
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+43. For insurers subject to this requirement, how often does YOUR AUTHORITY review insurers to 
+assess whether and how they are assessing aggregate counterparty exposures and analysing the 
+effect of stress events as part of the ORSA? 
+1. A review is always performed as part of the evaluation of the insurer’s ERM framework.  
+2. A review is sometimes performed as part of the evaluation of the insurer’s ERM framework.  
+3. A review is performed in cases of actual or potential supervisory concerns.  
+4. There is no such requirement or communicated expectation in YOUR JURISDICTION.  
+If you would like to elaborate on your response, please comment in the box below.
+
+Page 25 of 34 
+Restricted Restricted 
+ 
+ 
+ 
+16.13  The supervisor requires the insurer to:  
+• determine, as part of its ORSA, the overall financial resources it needs to manage its 
+business given its risk appetite and business plans; 
+• base its risk management actions on consideration of its economic capital, regulatory 
+capital requirements, financial resources, and its ORSA; and 
+• assess the quality and adequacy of its capital resources to meet regulatory capital 
+requirements and any additional capital needs. 
+ 
+44. To what extent does YOUR AUTHORITY require an insurer to do the following? 
+ 1. Always 
+required 
+ 2.Sometimes 
+required  
+ 3.Not 
+required 
+a. Determine, as part of the ORSA, the overall financial 
+resources they need to manage its business given its 
+risk appetite and business plans. 
+   
+b. Base its risk management actions on consideration of 
+its economic capital, regulatory capital requirements, 
+financial resources, and its ORSA. 
+   
+c. Assess the quality and adequacy of its capital 
+resources to meet regulatory capital requirements and 
+any additional capital needs. 
+   
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+45.  In carrying out this work, does YOUR JURISDICTION require an insurer to do the following: 
+ Yes No 
+a.  Insurer considers the issue of re-capitalisation, especially the ability of 
+capital to absorb losses on an ongoing basis and the extent to which the 
+capital instruments or structures that the insurer uses may facilitate or 
+hinder future re-capitalisation. 
+ 
+ 
+d.  Insurer assesses its ability to raise new capital considering potential impacts 
+of different options on existing shareholders, and institutional governance.
+
+Page 26 of 34 
+Restricted Restricted 
+c.   Insurer assesses its ability to raise new capital in both normal and stressed 
+market conditions.   
+d.  Insurer considers key group wide factors that may impact on capital 
+resources.   
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+ 
+16.14 The supervisor requires: 
+• The insurer, as part of its ORSA, to analyse its ability to continue in business, and the risk 
+management and financial resources required to do so over a longer time horizon than 
+typically used to determine regulatory capital requirements; and 
+• The insurer’s continuity analysis to address a combination of quantitative and qualitative 
+elements in the medium and longer-term business strategy of the insurer and include 
+projections of its future financial position and analysis of its ability to meet future regulatory 
+capital requirements. 
+ 
+46. To what extent does YOUR AUTHORITY require an insurer to do the following? 
+ 1. Always 
+required  
+ 2.Sometimes 
+required  
+ 3.Not 
+required 
+a. YOUR AUTHORITY requires the insurer, as part of its 
+ORSA, to analyse its ability to continue in business, and the 
+risk management and financial resources required to do so 
+over a longer time horizon than typically used to determine 
+regulatory capital requirements. 
+   
+b. YOUR AUTHORITY requires the insurer’s continuity 
+analysis to address a combination of quantitative and 
+qualitative elements in the medium and longer-term 
+business strategy of the insurer and include projections of 
+its future financial position and analysis of its ability to meet 
+future regulatory capital requirements.  
+   
+If you would like to elaborate on your response, please comment in the box below.
+
+Page 27 of 34 
+Restricted Restricted 
+ 
+ 
+47. In carrying out this work, Does YOUR JURISDICTION require an insurer to do the following: 
+ Yes No 
+a. Insurer establishes capital management plans and capital projections to 
+determine how it could respond to unexpected changes in market and 
+economic conditions, innovations in the industry and other factors. 
+ 
+ 
+b. Where appropriate, the insurer undertakes periodic, forward-looking 
+continuity analysis and modelling of its future financial position    
+c. The insurer requires continuity analysis, capital and cash flow projections, 
+and the proposed management actions to be approved by senior levels within 
+the organization. 
+ 
+ 
+d.  Insurer continuity analysis includes reverse stress testing to identify 
+scenarios that would be the likely cause of business failure.   
+e.  Insurers identify relevant countervailing measures and off-setting actions 
+they could realistically take to restore/improve the insurer’s capital adequacy 
+or cash flow position after future stress events. 
+ 
+ 
+f.  Continuity analysis has an appropriate time horizon needed for effective 
+business planning (for example, 3 to 5 years), which is longer than typically 
+used to determine regulatory capital requirements. 
+ 
+ 
+g. Continuity analysis assesses the ongoing support from the insurance group 
+including the availability of financial support in adverse circumstances as group 
+risks that may impact on the insurer 
+ 
+ 
+ 
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+ 
+ 
+16.15 The supervisor requires, as necessary, insurers to evaluate, in advance, their specific risks and 
+options in possible recovery scenarios. 
+ 
+48. Does YOUR AUTHORITY have an established process in place to determine the insurers in scope for 
+requiring insurers to evaluate, in advance, their specific risks and options in possible recovery 
+scenarios?
+
+Page 28 of 34 
+Restricted Restricted 
+1. YOUR AUTHORITY has an established and documented process in place to determine the 
+insurers in scope and is executing the process regularly.  
+2. YOUR AUTHORITY has a less formal process in place to determine the insurers in scope.  
+3. YOUR AUTHORITY has no process in place but uses judgement on a case-by-case basis.  
+4. YOUR AUTHORITY does not determine the scope of the insurers subject to this requirement.   
+SURVEY TOOL if selected, SKIP NEXT Q (49) 
+ 
+If you would like to elaborate on your response, please comment in the box below. 
+ 
+ 
+ 
+ 
+ 
+49. To what extent does YOUR AUTHORITY require insurers to evaluate in advance their specific risks 
+and options in possible recovery scenarios? 
+ 1. Fully 
+and 
+explicitly 
+required 
+2.Addressed 
+in general 
+terms 
+3. Partly 
+addressed 
+4. Not 
+addressed 
+a. YOUR AUTHORITY requires insurers to 
+establish recovery plans that identify 
+options to restore the financial position and 
+viability if the insurer comes under severe 
+stress. 
+    
+b. YOUR AUTHORITY requires an insurer to 
+provide necessary information to enable it 
+to assess the robustness and credibility of 
+any recovery plan required. 
+    
+c. YOUR AUTHORITY requires the insurer to 
+review any recovery plan required on a 
+regular basis, or when there are material 
+changes to the insurer’s business, risk 
+profile or structure, or any other change 
+that could have a material impact on the 
+recovery plan, and to update it when 
+necessary.
+
+Page 29 of 34 
+Restricted Restricted 
+16.16 The supervisor undertakes reviews of the insurer's ERM framework, including the ORSA. Where 
+necessary, the supervisor requires strengthening of the insurer’s ERM framework, solvency 
+assessment and capital management processes. 
+50. How is the requirement that YOUR AUTHORITY undertakes reviews of the insurer's ERM framework, 
+including the ORSA implemented in YOUR JURISDICTION? 
+1. Fully and explicitly required under legislation or generally required under legislation and 
+elaborated through published supervisory guidelines.  
+2. Required or recommended by accepted supervisory guidelines or other guidance which does 
+not have force of law.  
+3. Expectation is expressed by YOUR AUTHORITY on a case-by-case basis.  
+4. There is no such requirement or expectation. SURVEY TOOL if selected, SKIP NEXT Q (51-53) 
+ 
+51. Does YOUR AUTHORITY undertake reviews of an insurer’s ERM framework, including the ORSA? 
+1. Yes, a review of an insurer’s ERM framework, including the ORSA is always performed.  
+2. Yes, a review of an insurer’s ERM framework, including the ORSA is sometimes performed.  
+3. Yes, a review of an insurer’s ERM framework, including the ORSA is performed in cases of 
+actual or potential supervisory concerns.  
+4. No, there is no review.  SURVEY TOOL if selected, SKIP NEXT Q (52-53) 
+ 
+52. To what extent does YOUR AUTHORITY review insurers’ ERM framework, including ORSAs? 
+ 1. 
+Regularly 
+reviewed 
+2. 
+Sometimes 
+reviewed 
+3. Reviewed in 
+cases of actual 
+or potential 
+supervisory 
+concerns 
+4. Not 
+reviewed 
+a. YOUR AUTHORITY requires insurers to 
+provide appropriate information in 
+support of each component of the ERM 
+framework, including ORSA and risk and 
+solvency assessments to support the 
+conduct of reviews. 
+    
+b. YOUR AUTHORITY reviews the insurer's 
+internal controls and monitors its capital 
+adequacy, requiring strengthening where 
+necessary. 
+    
+c. YOUR AUTHORITY assesses the 
+adequacy of the risk appetite statement
+
+Page 30 of 34 
+Restricted Restricted 
+and reviews the insurer’s ORSA continuity 
+analysis, taking action to address 
+weaknesses where necessary. 
+d. YOUR AUTHORITY monitors the 
+techniques employed by the insurer for 
+risk management and capital adequacy 
+assessment and employs supervisory 
+measures to address identified 
+weaknesses. 
+    
+e. YOUR AUTHORITY monitors the 
+material results of stress testing, scenario 
+analysis and risk modelling and 
+understands their key underlying 
+assumptions. 
+    
+f. Where an insurer's risk management 
+and solvency assessment and contingency 
+planning are not considered adequate, 
+YOUR AUTHORITY employs a range of 
+corrective measures. This could be in the 
+form of additional supervisory reporting 
+or additional qualitative and quantitative 
+requirements. 
+    
+ 
+53. To what extent do reviews of the insurer's ERM framework, including the ORSA, take into account 
+whether an insurer is part of an insurance group? 
+1. Reviews of the insurer's ERM framework, including the ORSA are conducted at both the group 
+level and the legal entity level.  
+2. Reviews of the insurer's ERM framework, including the ORSA do not exist at the group level, but 
+those at the legal entity level explicitly take account whether an insurer is part of an insurance 
+group.  
+3. Reviews of the insurer's ERM framework, including the ORSA, do not exist at the group level, but 
+those at the legal entity level broadly take account whether an insurer is part of an insurance 
+group.  
+4. Reviews of the insurer's ERM framework, including the ORSA, do not exist at the group level, and 
+those at the legal entity level do not take whether an insurer is part of an insurance group.  
+5. There are no requirements that YOUR AUTHORITY conduct reviews of ERM framework, including 
+the ORSA, in YOUR JURISDICTION.  
+6. This question is not applicable, because there are no insurance groups in YOUR JURISDICTION.  
+If you would like to elaborate on your response, please comment in the box below.
+
+Page 31 of 34 
+Restricted Restricted 
+ 
+ 
+ 
+54. In the past, to what extent has YOUR AUTHORITY taken action to strengthen an insurer's ERM 
+framework, including the ORSA, to address supervisory concerns and has the action been taken in a 
+timely manner? 
+1. Most concerns were resolved in a timely manner.  
+2. Most concerns were resolved, but not always in a timely manner.  
+3. Some concerns were resolved.  
+4. Concerns were not resolved.  
+5. This question is not applicable, because no such concerns arose. SURVEY TOOL if selected, SKIP 
+NEXT Q (55) 
+ 
+ 
+55. To what extent does YOUR JURISDICTION require the insurer’s ERM framework, including ORSA, to be 
+supported by accurate documentation when identifying all reasonably foreseeable and relevant 
+material risks and risk interdependencies for risk and capital management? 
+ 
+ 1. Fully and explicitly 
+required 
+2.Addressed in 
+general terms 
+3. Partly 
+addressed 
+4. Not 
+addressed 
+a. Need for accurate 
+documentation of the 
+measurement of risk. 
+    
+b. Need for the 
+documentation to include 
+appropriately detailed 
+descriptions and 
+explanations of the risks 
+covered. 
+    
+c. Need for the 
+documentation to include 
+appropriately detailed 
+descriptions and 
+explanations of the 
+measurement approaches 
+used.
+
+Page 32 of 34 
+Restricted Restricted 
+d. Need for the 
+documentation to include 
+appropriately detailed 
+descriptions and 
+explanations of the key 
+assumptions made. 
+    
+e. Need for full 
+documentation of ORSA 
+process. 
+    
+ 
+ 
+Part II - Illustrative examples and optional questions  
+The following questions are asked in order to identify “ illustrative examples ” 
+among the IAIS members. The responses are not used to assess the observance 
+level in the assessment. YOUR AUTHORITY is encouraged to complete the 
+questions in order to capture implemented practices concerning ICP 16. 
+ 
+56. As part of YOUR AUTHORITY’s supervision, is there a formal mechanism for reviewing the  
+effectiveness of an  insurer’s ERM framework  for solvency purposes ? Please  briefly describe the 
+approaches and the salient features adopted in YOUR JURISDICTION, in particular the mechanism that 
+ensures the insurers’ ERM framework fully addresses its risks in an ongoing and integrated manner . 
+[Principle Statements] 
+ 
+ 
+ 
+ 
+57. In reflecting on the factors you use to determine whether to require insurers to perform stress testing 
+to assess the resilience of their total balance sheet against macroeconomic stresses , can you give an 
+example(s) of how YOUR AUTHORITY used these factors? [Standard 16.2]
+
+Page 33 of 34 
+Restricted Restricted 
+58. Please provide examples of the circumstances under which YOUR AUTHORITY has  required more 
+detailed liquidity risk management processes as part of an insurer’s ERM framework. Did this 
+additional information or reporting satisfy your supervisory concerns? [Standard 16.9] 
+ 
+ 
+ 
+59. How is the ORSA incorporated into the solvency surveillance process of the insurer  in YOUR 
+JURISDICTION? [Standard 16.10] 
+ 
+ 
+ 
+ 
+60. The ORSA should be performed “regularly”. How is “regularly” determined in YOUR JURISDICTION,  
+such as, annually or less  frequent? Is there a mandated deadline for the ORSA submission to YOUR 
+AUTHORITY? Is the ORSA filed as part of the annual statement or a separate filing? [Standard 16.10] 
+ 
+ 
+ 
+61. How is the time horizon in an insurer’s ERM framework, including ORSA, evaluated in YOUR 
+JURISDICTION? If the time horizon  for the prospective solvency assessment of the insurer is 
+mandated, please provide the mandated length. [Guidance 16.14.6] 
+ 
+ 
+62. Has YOUR AUTHORITY required an insurer to evaluate, in advance, possible recovery scenarios to 
+address adverse circumstances. If so, did this involve analysis of specific risks and recovery options 
+and development of a recovery plan?  [Standard 16.15]
+
+Page 34 of 34 
+Restricted Restricted 
+63. What specific supervisory  measures has YOUR AUTHORITY used  to require an insurer to strengthen 
+its ERM framework, solvency assessment and capital management processes? [Standard 16.16] 
+ 
+ 
+ 
+64. Can you describe how you determine whether the insurer’s ERM framework is effective, particularly 
+with respect to ORSA in YOUR JURISDICTION?  In addition, how do you determine whether the 
+insurer’s ERM framework is sensitive to changing conditions and is part of the insurer’s risk culture.  
+[Guidance 16.16.3] 
+ 
+ 
+ 
+ 
+65. Are insurers in YOUR JURISDICTION required to use a mandated capital metric for solvency 
+assessment in the ORSA? Please provide the capital metric if mandated. [Guidance 16.16.6]

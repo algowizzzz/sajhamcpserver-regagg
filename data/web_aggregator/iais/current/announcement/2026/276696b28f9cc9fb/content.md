@@ -1,0 +1,33 @@
+# IAIS publishes Report on Supervisors’ use of key indicators to assess insurer conduct
+
+[29 Jun 2022](https://www.iais.org/2022/06/iais-publishes-report-on-supervisors-use-of-key-indicators-to-assess-insurer-conduct/)
+
+in [Latest news](https://www.iais.org/category/latest-news/), [Other supervisory notes and reports](https://www.iais.org/category/other-notes-reports/)
+
+The IAIS recognises [conduct and culture](/activities-topics/conduct-and-culture/) as a key focus area in insurance supervision and observes that conduct risks can lead to financial soundness concerns for the sector and vice versa. Supervisors are increasingly looking to adopt more forward looking and outcomes-based approaches to conduct supervision. This includes the use of data as key indicators for assessing insurer conduct.
+
+This short report presents findings from a survey of IAIS members on current supervisory approaches and challenges related to using key indicators. It covers:
+
+\* The number and type of indicators collected by supervisors
+
+\* The purposes for which supervisors use the conduct indicators, and
+
+\* The challenges encountered by supervisors.
+
+As a next step, the IAIS is working on developing practical guidance for member supervisors on the use of key indicators to proactively monitor conduct risks to enable more timely response to emerging conduct trends and risks. This is expected to be made available to members in Q1 2023.
+
+Click [here](/uploads/2022/06/Report-on-Supervisors-Use-of-Key-Indicators-to-Assess-Insurer-Conduct.pdf) to read the report.
+
+23 Apr 2023
+
+[Conduct and culture](https://www.iais.org/tag/conduct-and-culture/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2022%2F06%2Fiais-publishes-report-on-supervisors-use-of-key-indicators-to-assess-insurer-conduct%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

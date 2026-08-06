@@ -1,0 +1,1 @@
+Summary: Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador 1 

@@ -1,0 +1,1602 @@
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador 1 
+Balance de la situación  
+sobre diversidad,  
+equidad e inclusión  
+en el sector asegurador 
+Diciembre 2022 
+This translation was prepared by the Association of Latin American 
+Insurance Supervisors (ASSAL). It is not an official IAIS translation. 
+Please visit www.iaisweb.org for the official English version.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  2 
+Acerca de la IAIS 
+La Asociación Internacional de Supervisores de Seguros (IAIS) es una organización 
+voluntaria de supervisores y reg uladores de seguros de más de 200 jurisdicciones. La 
+misión de la IAIS es promover una supervisión eficaz y consistente a nivel mundial del 
+sector asegurador con el fin de desarrollar y mantener mercados de seguros justos, 
+seguros y estables, en beneficio y protección de los asegurados, así como contribuir a la 
+estabilidad financiera mundial. 
+Creada en 1994, la IAIS es el organismo normativo internacional encargado de elaborar 
+principios, normas y material de apoyo para la supervisión del sector asegurador y de 
+colaborar en su aplicación. La IAIS actúa también como un foro para que sus miembros 
+compartan sus experiencias y conocimientos sobre la supervisión de los seguros y los 
+mercados de seguros. 
+La IAIS coordina su trabajo con otros responsables de la política financiera internacional y 
+asociaciones de supervisores o reguladores y contribuye a configurar los sistemas 
+financieros a escala mundial. En particular, la IAIS es miembro del Financial Stability Board 
+(FSB), miembro del Standards Advisory Council of the International Accounting Standards 
+Board (IASB), y socio de la Iniciativa de Acceso a los Seguros (A2ii). En reconocimiento a 
+su experiencia colectiva, los líderes del G20 y otros organismos internacionales de creación 
+de normas también solicitan habitualmente a la IAIS su opinión en materia de seguros, así 
+como en temas relacionados con la regulación y supervisión del sector financiero mundial. 
+Para más información, visite www.iaisweb.org y síganos en LinkedIn: IAIS – International 
+Association of Insurance Supervisors. 
+ 
+Asociación Internacional de Supervisores de Seguros  
+c/o Banco de Pagos Internacionales 
+ CH-4002 Basilea  
+Suiza 
+Tel: +41 61 280 8090 
+ 
+Este documento ha sido elaborado por el Governance Working Group and the Market 
+Conduct Working Group en consulta con los miembros de la IAIS. 
+ 
+Este documento está disponible en el sitio web de la IAIS (www.iaisweb.org). 
+© Asociación Internacional de Supervisores de Seguros (IAIS), 2022. 
+ 
+Todos los derechos reservados. Pueden reproducirse o traducirse breves extractos 
+siempre que se indique la fuente.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  3 
+ 
+ 
+Contenido 
+Contenido ........................................................................................................................................... 3 
+Resumen Ejecutivo ........................................................................................................................... 4 
+Nota terminológica ............................................................................................................................ 7 
+1. Introducción ................................................................................................................. 9 
+1.1 El Interés de la IAIS por la DEI ........................................................................................ 9 
+1.2 Visión general de este balance ..................................................................................... 11 
+2. Perspectivas y actividades de los supervisores de seguros ................................ 12 
+2.1 Perspectivas sobre prioridad y directivas................................................................... 13 
+2.2 Desafíos .......................................................................................................................... 13 
+2.3 Actividades de supervisión ........................................................................................... 15 
+2.3.2 Enfoque de conducta de mercado ............................................................................ 22 
+3. Actuación de la industria aseguradora en relación con la DEI ........................................ 26 
+3.1 Según lo observado por los supervisores de seguros .............................................. 26 
+3.2 Según lo explicado por la industria a través de la participación de las partes 
+interesadas ................................................................................................................................. 28 
+3.2.1 El porqué la DEI es relevante e importante para las aseguradoras ...................... 29 
+3.2.2 Los desafíos que se enfrentan incorporando la DEI ............................................... 30 
+4. El panorama a nivel internacional y cómo la actividad de la IAIS se adapta .................... 31 
+4.1 A través de las principales organizaciones internacionales .......................................... 31 
+4.2 Dentro de la IAIS .................................................................................................................. 35 
+4.2.1 El trabajo de la IAIS hasta la fecha ........................................................................... 35 
+4.2.2 2023 y más allá ............................................................................................................ 36 
+5. Conclusión ................................................................................................................................ 38
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  4 
+Resumen Ejecutivo 
+La IAIS reconoce la importancia de las medidas sobre diversidad, equidad e inclusión (DEI) 
+para los objetivos de la supervisión de seguros y, en consecuencia, para la misión de la 
+IAIS. La DEI es especialmente relevante para la gobernanza, la cultura y la conducta, pero 
+también para la inclusión financiera y el desarrollo económico sostenible, así como para la 
+innovación y la responsabilidad social. 
+La IAIS se ha comprometido a profundizar y reforzar su trabajo sobre DEI de varias 
+maneras. Entre ellas, se incluyen la exploración de los esfuerzos del sector asegurador y 
+las medidas adoptadas por los supervisores en apoyo a la DEI, incorporando los aspectos 
+pertinentes de la DEI en los proyectos y actividades en curso de la IAIS, y el estudio de las 
+oportunidades de cooperación en  materia de DEI  con otras organizaciones y socios 
+internacionales, como la Iniciativa de Acceso a los Seguros (A2ii). 
+Este informe representa el primer p aso en este trabajo. Su objetivo es hacer un balance 
+del trabajo  sobre DEI que ya están llevando a cabo los supervisores de seguros, las 
+organizaciones internacionales pertinentes y la industria aseguradora, con vistas a 
+identificar las áreas en las que la IAIS podría seguir trabajando en este ámbito, en apoyo 
+de su misión y su plan estratégico. El  informe no pretende hacer recomendaciones ni 
+establecer una posición de la IAIS sobre las mejores prácticas de supervisión. 
+La información contenida en este documento sobre las perspectivas y actividades de los 
+supervisores de seguros procede de una encuesta realizada a los miembros de la IAIS en 
+marzo/abril de 2022. La encuesta recibió 39 respuestas de jurisdicciones de todo el mundo, 
+con la mayor cantidad de respuestas procedentes de jurisdicciones de Europa Occidental, 
+seguidas de jurisdicciones norteamericanas y asiáticas. En la encuesta se preguntaba a 
+los supervisores sobre sus enfoques hacia la DEI, los enfoques que observan que se están 
+adoptando dentro del sector asegurador en sus jurisdicciones y sus ideas sobre la futura 
+labor que la IAIS podría emprender en  este ámbito. Esta incluía preguntas sobre la 
+percepción de sus directivas de supervisión para la DEI, la prioridad que le atribuyen y las 
+actividades que están llevando a cabo, así como sus opiniones  sobre los retos y 
+oportunidades que se plantean. 
+Entre las principales conclusiones figuran las siguientes: 
+ Poco más de la mitad de los supervisores que respondieron a la encuesta atribuyen 
+una prioridad media o alta a la adopción de medidas de supervisión para promover 
+la DEI en las aseguradoras, mientras que el resto la considera una prioridad baja. 
+Aquellos que señalaron una prioridad alta, generalmente lo convirtieron en una de 
+sus prioridades estratégi cas, a menudo con un enfoque en gobierno corporativo y 
+diversidad del directorio. Algunos supervisores que atribuyeron a la DEI una prioridad 
+media, indicaron que su jurisdicción ya contaba con algunas políticas, mientras que 
+muchos de los que le atribuyer on una prioridad baja, consideraron que era menos 
+relevante para su jurisdicción, que quedaba fuera de sus competencias o que ya 
+habían realizado suficientes progresos. 
+ La mayoría de los  encuestados piensan que tienen directivas de supervisión  para 
+actuar, mientras que una minoría cree que no las tenían, o que se enfrentaban a otras
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  5 
+limitaciones legales. Hubo un amplio acuerdo en que un reto clave es la ausencia de 
+una norma acordada,  una guía de buenas prácticas o un marco regulador para 
+abordar las actividades de supervisión relacionadas con la DEI. 
+ Varias jurisdicciones consideran que la gobernanza de las entidades aseguradoras 
+es un área  clave para la actividad supervisora de la DEI, en línea con el Principio 
+Básico de Seguros (PBS) 7 sobre Gobierno Corporativo. Esto podría apoyarse en una 
+combinación de requisitos formales y comunicaciones de la industria. El informe 
+esboza los pasos que varias jurisdicciones están dando en materia  de DEI en el 
+gobierno corporativo de las aseguradoras. 
+ En el ámbito de co nducta de mercado, la supervisión se centra específicamente 
+menos en el concepto de DEI, aunque la mayoría de los supervisores afirman haber 
+transmitido, en cierta  medida, sus expectativas de supervisión de que las 
+aseguradoras llevan a cabo su actividad de manera que, en efecto, promuevan la DEI 
+del cliente. Esto se debe a que la mayoría de los  supervisores afirman disponer de 
+leyes, reglamentos y/o directrices que prohíben las prácticas  discriminatorias en los 
+seguros, y se espera que los supervisores dis pongan de marcos que exijan el trato 
+justo de los clientes de acuerdo con el PBS 19 sobre la Conducción del Negocio. 
+ Un tercio de los encuestados ha realizado análisis del estado de la DEI de la industria 
+aseguradora en su jurisdicción. Los supervisores han observado que no sólo se 
+están llevando a cabo acciones individuales por parte de aseguradoras, sino también 
+por parte de asociaciones de la industria en varios niveles. Las iniciativas de la 
+industria suelen estar relacionadas con la  inclusión financier a y el acceso a los 
+seguros, o con la búsqueda de una mayor diversidad entre las personas que trabajan 
+en la industria aseguradora. El informe esboza algunos ejemplos y  temas clave de 
+las iniciativas de la industria en varias jurisdicciones. 
+La IAIS tambié n colaboró con una pequeña muestra de las partes interesadas de la 
+industria aseguradora a los que se preguntó por qué consideraban que la DEI era 
+importante para las aseguradoras, cuáles eran los mayores retos a los que se enfrentaban 
+a la hora de incorpo rar la DEI y qué pensaban que podían hacer los supervisores. En 
+general, las partes interesadas coincidieron en que la DEI puede conducir a mejores 
+resultados para la gobernanza de las aseguradoras y los clientes, enumerando una serie 
+de beneficios específ icos. Desde el punto de  vista de las partes interesadas, uno de los 
+principales retos es la naturaleza voluntaria actual de gran parte de la actividad de la DEI: 
+una mayor acción y una estructura formal podrían ayudar a  impulsar el progreso. Creen 
+que los supervisores deberían enviar un mensaje claro a las aseguradoras sobre  la 
+importancia de la DEI, pero evitando ser excesivamente prescriptivos. 
+La investigación sobre el trabajo de las organizaciones internacionales reveló un creciente 
+interés en la DEI por parte de una serie de organizaciones influyentes, con algunos 
+ejemplos esbozados en este informe, pero la acción directa se encuentra, todavía, y en gran 
+medida en una fase temprana. El panorama a nivel internacional sugiere que la IAIS podría 
+realizar una contribución única y valiosa si continuara trabajando en la DEI. 
+A partir de los resultados de este balance, la IAIS tiene previsto iniciar una labor destinada 
+a ayudar a los supervisores a comprender mejor las ventajas de la DEI, la relación entre la
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  6 
+promoción de la DEI y sus directivas de supervisión, y la gama de prácticas de supervisión 
+disponibles para promover la DEI. Este trabajo tendrá dos enfoques principales. Uno será 
+examinar el vínculo entre la DEI  dentro de las instituciones de las asegurado ras y su 
+gobernanza, la gestión de riesgos y la cultura corporativa. El otro será examinar cómo las 
+medidas de DEI en el ejercicio de la actividad de las  aseguradoras, y su supervisión, 
+pueden dar lugar a un trato más justo a los consumidores vulnerables, desatendidos o con 
+necesidades diferentes en comparación con un perfil de consumidor normativo  o 
+mayoritario. 
+La IAIS considera que la DEI es relevante y prevé interrelaciones con otros trabajos 
+prioritarios de la IAIS, en particular, en los temas de inclu sión financiera, fintech, riesgo 
+climático y brechas de  protección. La DEI seguirá siendo un tema estratégico en todo el 
+programa de trabajo de la IAIS. 
+La IAIS seguirá resaltando la importancia de la DEI para lograr mejores resultados 
+prudenciales y para los consumidores y una mayor inclusión, y animará a la comunidad 
+supervisora y a la industria a seguir avanzando en las actividades sobre DEI.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  7 
+Nota terminológica 
+La encuesta de supervisores confirmó que la mayoría de las jurisdicciones utilizan algunos 
+o todos los términos "diversidad", "equidad" e "inclusión". Muchos han adoptado el término 
+"diversidad e  inclusión", y unos  pocos utilizan términos adicionales o diferentes, como 
+"colectividad". 
+Aunque el 75% de los encuestados afirmaron no tener una defini ción oficial aplicable de 
+DEI (o terminología relevante alternativa), muchos afirmaron tener normas y/o reglamentos 
+en vigor que  cubren el concepto, y que su significado puede adaptarse al contexto único 
+actual e histórico de  la jurisdicción. Un ejemplo de  terminología específica de una 
+jurisdicción es Sudáfrica, donde los  términos "transformación del sector asegurador" y 
+"potenciación económica de la población negra" están definidos en la legislación.1 
+En consonancia con las diversas definiciones e interpretaciones comunicadas por los 
+supervisores, este informe utiliza las siguientes interpretaciones de los términos 
+"diversidad", "equidad" e "inclusión": 
+ Diversidad: Un reflejo de las diferencias entre las personas dentro una organización 
+o de la sociedad en general. 
+Esto incluye diferentes perspectivas, capacidades, conocimientos, actitudes, 
+habilidades, experiencia y características demográficas. Las características 
+demográficas suelen considerarse un factor clave de la diversidad, y pueden incluir, 
+entre otras, características como la edad, la discapacidad, la etnia, el sexo, el origen 
+nacional, la religión, la orientación sexual, así como los antecedentes culturales, 
+educativos y/o socioeconómicos. La noción de que las diferencias entre las personas 
+pueden llevarlas a pensar de forma diferente y, por tanto, a tener distintas 
+perspectivas que aportar a una organización se denomina, a veces, "diversidad de 
+pensamiento" o "diversidad cognitiva". 
+ Equidad: Tratar de conseguir justicia e igualdad de resultados pa ra todos mediante 
+la asignación de recursos y oportunidades de forma que se reconozcan las diferentes 
+circunstancias y necesidades de los distintos grupos de personas, sobre todo cuando 
+hay pruebas de desventajas entre determinados grupos. 
+La equidad es di ferente de la igualdad: la igualdad ofrece los mismos recursos y 
+oportunidades a todos, mientras que la equidad ayuda a eliminar las barreras que 
+algunas personas pueden encontrar para acceder a los recursos y oportunidades. 
+ Inclusión: Cuando todas las personas de una organización, independientemente de 
+sus diferencias, tienen un sentimiento de pertenencia que les permite participar 
+plenamente en la organización y contribuir a ella. 
+                                                
+1 En Sudáfrica, la "transformación del sector asegurador" se define en el Insurance Act (Ley de Seguros de 
+2017, ley n. º 18 de 2017) como la transformación prevista en el Financial Sector Code for Broad-Based Black 
+Economic Empowerment (Código del Sector Financiero para la Potenciación Económica de la Población 
+Negra) dictado en virtud del artículo 9(1) del Broad-Based Black Economic Empowerment Act (Ley de 
+Potenciación Económica de la Población Negra de 2003, ley n. º 53 de 2003). La "potenciación económica de 
+la población negra" se define como el empoderamiento económico de todas las personas negras, en 
+particular las mujeres, los trabajadores, los jóvenes, las personas con discapacidad y las personas que viven 
+en zonas rurales a través de una serie de estrategias socioeconómicas diversas pero integradas...", y a 
+continuación la definición procede a explicar qué incluirán estas estrategias socioeconómicas integradas.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  8 
+Esto incluye una cultura en la que una mezcla de personas, de todos los niv eles de 
+responsabilidad, se sienten capacitadas para hablar y expresar sus opiniones. Los 
+empleados de una organización inclusiva confían en que sus opiniones serán 
+escuchadas y que nunca habrá repercusiones negativas por desafiar los puntos de 
+vista predominantes. 
+ Inclusión financiera : Cuando las personas y las empresas tienen acceso a 
+productos financieros adecuados que satisfagan sus distintas necesidades.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  9 
+1. Introducción 
+1.1 El Interés de la IAIS por la DEI 
+En 2021, la IAIS adoptó la diversidad, la equid ad y la inclusión (DEI) como uno de sus 
+temas estratégicos clave, y publicó una declaración reconociendo la importancia de la DEI 
+en la supervisión de seguros. La IAIS se une a otros en el creciente reconocimiento de que 
+el avance de  la DEI dentro de las organizaciones de las aseguradoras y en su forma de 
+hacer negocios contribuye a mejorar los resultados prudenciales y hacia el consumidor. 
+En este reciente trabajo, la IAIS está interesada en promover la DEI en las aseguradoras 
+tanto en un sentido interno/institucional (es decir, el personal, el liderazgo, la cultura, la 
+toma de decisiones y la gestión de riesgos) como en sentido al cliente  (es decir, un trato 
+equitativo e inclusivo de los  clientes y que se reconozca la diversidad de la cartera de 
+clientes). En conjunto, esto abarca los PBS 7 (Gobierno corporativo), 8 (Gestión de riesgos 
+y controles internos) y 19 (Conducción del negocio). 
+Adoptar una mayor consideración por la DEI de cara al cliente puede suponer una forma 
+diferente de pensar el trato justo hacia ellos, al exigir una mayor consideración de los 
+consumidores que no  son mayoría. Los consumidores vulnerables son una de esas 
+minorías, y algunos supervisores ya han establecido expectativas diferentes para su trato 
+justo.2 
+En su documento temático “Issues Paper on Insurer Culture ” (2021), la IAIS señaló la 
+importancia de instaurar una cultura organizativa que promueva sistemáticamente buenos 
+resultados prudenciales y de conducta. En el documento se observó que el conjunto de 
+normas, prácticas, toma de decisiones y elementos de compor tamiento que conforman la 
+cultura de una aseguradora influyen directamente en la forma en que gestiona los riesgos 
+prudenciales y de conducta. También reconoció que el enfoque de una aseguradora sobre 
+las cuestiones de DEI es un elemento que puede influir en su cultura general, y viceversa. 
+La IAIS considera que centrarse en la mejora y el mantenimiento de la DEI ayudará a las 
+aseguradoras a formar conocimientos que apoyen mejor los resultados prudenciales y 
+hacia el consumidor de varias maneras: 
+ La diversidad integrada en una organización y reforzada por una cultura de equidad 
+e inclusión repercute positivamente en el gobierno corporativo y la gestión de riesgos 
+de las aseguradoras,  ya que mejora la toma de decisiones y reduce el riesgo de 
+                                                
+2 La Financial Conduct Authority (Reino Unido) ofrece una definición de "consumidor vulnerable": "alguien que, 
+debido a sus circunstancias personales, es especialmente susceptible a sufrir daños - en particular cuando una 
+empresa no actúa con los niveles adecuados de atención [...] Estas [características] podrían ser la mala salud, 
+como el deterioro cognitivo, acontecimientos de la vida tales como nuevas responsabilidades de cuidado, baja 
+resiliencia para hacer frente a los choques financieros o emocionales y baja capacidad, como la alfabetización 
+o habilidades numéricas pobres.."Fuente: “Guidance for firms on the fair treatment of vulnerable customers ”. 
+Una definición de Québec de "persona en situación vulnerable" es "una persona mayor de edad cuya capacidad 
+para solicitar u obtener ayuda está limitada temporal o permanentemente debido a factores como una 
+restricción, limitación, enfermedad, dolencia, lesión, deficiencia o minusvalía, que puede ser de naturaleza 
+física, cognitiva o psicológica, como una discapacidad física o intelectual o un trastorno del espectro autista". 
+Fuente: “Act to Combat Maltreatment of Seniors and Other Persons of Full Age in Vulnerable Situations”.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  10 
+pensamiento de grupo.3 La diversidad reúne a personas con diferentes orígenes, lo 
+que significa que se pueden compartir perspectivas más amplias, lo que conduce a 
+una visión más amplia de los posibles riesgos y oportunidades.  Las personas con 
+formación y experiencia diferentes pueden advertir cosas distintas y, por tanto, es más 
+probable que detecten riesgos que podrían pasar desapercibidos para un grupo de  
+personas con formación y experiencia similares. La equidad puede hacer posible la 
+diversidad eliminando barreras a la contratación, retención y promoción de personas 
+con una gama más  amplia de orígenes y perspectivas diferentes. La inclusión 
+también puede contribuir a la retención y garantizar que las personas puedan 
+participar plenamente en la organización,  compartiendo sus diferentes puntos de 
+vista y aportando un desafío sólido y constructivo. La  inclusión ayuda a garantizar 
+que las personas hablen y compartan sus diferentes puntos de  vista, y que el resto 
+del grupo escuche, dos aspectos importantes para una gestión eficaz del riesgo. A lo 
+largo de este documento, cuando nos referimos a la importancia de la DEI para  
+mejorar la gobernanza, nos referimos a cómo la DEI aporta perspectivas más amplias 
+y puede inspirar a la toma de decisiones y a una gestión de riesgos más sólida. 
+ La DEI puede reducir la mala conducta al crear una cultura más segura en la que los 
+empleados sientan que se los valora y que pertenecen a ella. La inclusión, en 
+particular, favorece un ambiente en el que es más probable que las personas se 
+sientan cómodas expresando sus preocupaciones, mientras que la equidad ayuda a 
+que una gama más amplia de individuos tenga la oportunidad de formar parte de la 
+conversación. La diversidad de pensamiento también puede mitigar la racionalización 
+de la mala conducta, que de otro modo, puede permitir que la mala conducta se 
+convierta en sistémica o pase desapercibida durante mucho tiempo. 
+ Las aseguradoras que incorporan medidas de DEI en la forma en que aplican su 
+negocio (incluidos todos los aspectos de la gestión del ciclo de vida del producto y la 
+interacción con los clientes) pueden proporcionar una mayor innovación y conducir a 
+mejores resultados para el consumidor. Por ejemplo, pueden evitar prácticas 
+potencialmente discriminatorias y conducir al diseño, distribuci ón y servicio de 
+productos de seguros que se adapten mejor a las diferentes necesidades de los 
+consumidores. La IAIS también considera que la DEI dentro de una aseguradora le 
+ayudará a atraer a una gama diversa de consumidores a su cartera de clientes, y 
+luego a tratar a esos clientes de una manera más equitativa e inclusiva, porque la 
+diversidad en la dirección y en el personal de la aseguradora aporta una comprensión 
+más amplia de las diferentes situaciones y necesidades de los consumidores. 
+A lo largo de este documento, cuando se habla de mejorar la DEI, se hace en referencia a 
+la consecución de los resultados enumerados anteriormente. 
+La IAIS pretende contribuir y acelerar el impulso de la  acción, tanto por parte de los 
+supervisores de seguros como de la propia industria, para avanzar en la DEI en el sector 
+                                                
+3 Oxford Reference ofrece esta definición de pensamiento de grupo: En la toma de decisiones en grupo, la 
+tendencia a derivar hacia políticas o decisiones mal concebidas sin un debate adecuado. Puede ser el 
+resultado de diversas presiones, como la ilusión de superioridad del grupo y el deseo de alcanzar el 
+consenso y evitar desacuerdos dolorosos.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  11 
+asegurador. 
+1.2 Visión general de este balance 
+En 2022, el Governance Working Group and Market Conduct Working Group de la IAIS 
+llevaron a cabo una encuesta, así como otra s actividades de participación de las partes 
+interesadas, para explorar las medidas que los supervisores miembros de la IAIS, otras 
+organizaciones internacionales y la industria aseguradora están adoptando para promover 
+la DEI en el sector asegurador. La I AIS no había realizado anteriormente ningún trabajo 
+específico sobre el tema de la DEI en los seguros, pero diversos materiales de apoyo han 
+abordado cuestiones interrelacionadas (véase la sección 4.2.1). 
+Este balance se concibió como un primer paso para i nformar sobre posibles trabajos 
+futuros de la IAIS para promover la DEI en la gobernanza y el ejercicio de la actividad de 
+las aseguradoras. En el presente informe se exponen las principales conclusiones, 
+prestando especial atención a las actividades rea lizadas hasta la fecha por los 
+supervisores de seguros para promover la DEI en las aseguradoras. 
+Los aportes a la evaluación fueron los siguientes: 
+ una encuesta a los supervisores miembros de la IAIS realizada en marzo/abril de 
+2022; 
+ investigación de la info rmación disponible públicamente, complementada con la 
+comunicación directa con las organizaciones internacionales pertinentes; y 
+ el compromiso con una muestra de las partes interesadas del sector. 
+En la encuesta se preguntó a los supervisores de seguros sobre: 
+ el estado de la DEI en el sector asegurador en su jurisdicción; 
+ sus observaciones sobre las medidas adoptadas por el sector para integrar la DEI; 
+ su percepción de sus directivas y/o su papel de supervisión para promover la DEI, y 
+la prioridad que atribuyen a esto; 
+ la actividad de supervisión (en su caso) que están llevando a cabo en relación con la 
+promoción de la DEI en la gobernanza y el ejercicio de la actividad de las 
+aseguradoras; 
+ los retos a los que se enfrentan en su capacidad como supervisores para promover 
+la DEI en las aseguradoras; y 
+ qué trabajo futuro de la IAIS consideran que apoyaría significativamente el progreso 
+de la DEI en la industria aseguradora. 
+Se recibieron 39 respuestas de jurisdicciones de todo el mundo, como muestra la figura 1.  
+El 36% de los encuestados procede de Europa Occidental, el 16% de Norteamérica, el 
+15% de Asia y el 8% de África Subsahariana. 
+El 36% de los encuestados procede de Europa Occidental, el 16% de Norteamérica, el 15% 
+de Asia, el 8% del África Subsahariana y el 25% restante se repartía por igual entre las 
+demás regiones  miembros de la IAIS. El número de respuestas representa
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  12 
+aproximadamente una cuarta parte de la membresía de la IAIS, y es probable que refleje a 
+los miembros más interesados en el tema. No  obstante, creemos que las respuestas 
+demuestran un creciente nivel de interés en la DEI a nivel internacional. Los resultados de 
+esta encuesta proporcionan una muestra útil que puede ayudar a  orientar sobre futuros 
+trabajos de la IAIS en este ámbito. 
+ 
+Figura 1:  
+Jurisdicciones encuestadas por región miembro de IAIS 
+ 
+ 
+ 
+ 
+2. Perspectivas y actividades de los 
+supervisores de seguros 
+Una parte fundamental de este balance ha consistido en recabar información de los 
+miembros de la IAIS sobre su enfoque de la DEI como tema de supervisión. Esto incluye 
+sus puntos de vista sobre la prioridad de la actividad de supervisión de la DEI en el contexto 
+de su jurisdicción, y los principales retos encontrados en la realización de actividades de 
+supervisión en esta área. Consideramos que es de esperar que existan diferencias en las 
+prioridades y la prácticas actuales en este ámbito, dada la diversidad de orígenes de los 
+miembros de la IAIS (por ejemplo, históricos, culturales, jurídicos y  políticos). Una mejor 
+comprensión de la amplitud de enfoques entre una muestra de miembros de la IAIS 
+ayudará a sentar las bases para un mayor desarrollo del enfoque de la IAIS para 
+profundizar y reforzar su trabajo sobre DEI. En particular, comprender dónde residen los 
+retos puede ayudar a  generar ideas sobre cómo la  IAIS puede  apoyar mejor a sus 
+miembros. 
+36%
+16%
+15%
+8%
+5%
+5%
+5%
+5%
+5% Europa Occidental
+Norteamérica
+Asia
+África
+Europa Cental, Oriental y Transcaucasia
+Offshore y el Caribe
+Latinoamérica
+Oceanía
+Medio Oriente y África del Norte
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  13 
+2.1 Perspectivas sobre prioridad y directivas 
+Algo más de la mitad de los encuestados atribuyeron una prioridad media o alta a la 
+adopción de medidas de supervisión para promover la DEI en el sector asegurador de su 
+jurisdicción. 
+Los supervisores que consideran que la DEI es una prioridad alta, generalmente la han 
+convertido en una de sus prioridades estratégicas de supervisión o indican su prioridad a 
+través de otras  comunicaciones con las asegur adoras que supervisan y con otras 
+relevantes partes interesadas. Muchos de estos supervisores prestan especial atención al 
+gobierno corporativo y a la diversidad  en los directorios. Algunos supervisores también 
+señalaron que las cuestiones de DEI son cuestiones de responsabilidad social más amplia, 
+más que una mera cuestión de cumplimiento. 
+Los supervisores que atribuyeron una prioridad media a la promoción de la DEI explicaron 
+que su  jurisdicción ya contaba con  algunas estrategias y  políticas sobre  DEI. Es tas 
+jurisdicciones ya reconocen la importancia de la DEI e identifican los elementos de DEI 
+existentes en su marco de  políticas internas, o el trabajo que se está  llevando a cabo 
+actualmente. 
+Casi la mitad de los encuestados informaron que la realización d e actividades de 
+supervisión para promover la DEI en el sector asegurador es actualmente una prioridad 
+baja para ellos. Algunos  supervisores describieron que el hecho de calificarlo de baja 
+prioridad se debe a que consideran que su jurisdicción ya ha avanzado lo suficiente. Otros 
+explicaron que, debido a las especificidades del mercado o a la naturaleza de la demografía 
+de su país, no habían identificado la necesidad de  desarrollar la DEI. Algunos señalaron 
+que las aseguradoras ya cumplen la legislación loc al en  materia de igualdad de 
+oportunidades, o que no existe ninguna autoridad o directiva para abordar la DEI. Otros lo 
+consideran una tarea principalmente social, más que de supervisión. 
+Desde la perspectiva de la conducta empresarial 4, la mayoría de los supervisores de 
+conducta no promueven directamente la DEI como concepto o requisito explícito sobre la 
+forma en que las aseguradoras deben tratar a los clientes y atender sus necesidades. Las 
+expectativas de los supervisores, en cuanto al trato justo de lo s clientes, son anteriores a 
+la naciente atención prestada a la DEI. DEI y los resultados de la encuesta sugieren que la 
+mayoría de los supervisores de conducta no han pensado en las expectativas de trato justo 
+de los clientes específicamente a través del lente de la DEI. Sin embargo, en los últimos 
+años, algunos supervisores han prestado mayor atención a la protección de algunos grupos 
+de población descritos como clientes vulnerables. 
+2.2 Desafíos 
+Los s upervisores informaron de varios retos a la hora de pr omover la DEI, incluida su 
+naturaleza subjetiva y la ausencia de datos coherentes y utilizables. Un punto de partida 
+podría ser que los  supervisores establecieran algunos principios y valores fundacionales 
+                                                
+4 ICP 19 Conducta empresarial
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  14 
+que consideren clave para la  DEI, que luego podrían servir de base para el  desarrollo de 
+medidas de supervisión específicas 
+La encuesta pidió a los s upervisores que elijan entre una lista de posibles desafíos que 
+podrían experimentar al abordar la DEI. Entre ellos se incluían desafíos como la decisión 
+sobre una acción de supervisión adecuada; la falta de directivas de supervisión; problemas 
+legales, de reputación o de privacidad; prioridades de supervisión contrapuestas; reticencia 
+del sector o de otras partes interesadas; u otros desafíos derivados del contexto particular 
+de cada jurisdicción. 
+ 
+Figura 2: Los desafíos de supervisión más comunes 
+ 
+El gráfico 2 muestra la distribución de las respuestas a esta pregunta. 
+El 59% de los encuestados señaló que la ausencia de una norma consensuada o de 
+directrices sobre buenas prácticas es un problema clave. El 31% no sabía qué medidas 
+tomar y el 18% se sentía limitado por la falta de conocimientos o experiencia en la materia. 
+Esta falta de normas y  mejores prácticas probadas es un impedimento importante para 
+establecer expectativas en este  ámbito y respalda el desarrollo de políticas en algunas 
+jurisdicciones que pretenden fomentar una mayor apertura en las estrategias de DEI de las 
+aseguradoras. En consecuencia, algunos encuestados mencionaron que agradecerían 
+directrices de supervisión, material de consulta y apoyo de organizaciones internacionales 
+de supervisión como la IAIS. Esto podría colaborar en  aumentar la confianza de los 
+supervisores para comenzar a desarrollar enfoques personalizados  para las  diferentes 
+jurisdicciones. 
+El segundo desafío más importante, mencionado por el 56% de los encuestados, es la 
+existencia de prioridades de supervisión contrapuestas: aunque la DEI puede considerarse 
+importante en muchas jurisdicciones, pueden existir otras prioridades que requieran una 
+atención más urgente. La variedad de problemas emergentes a los que se enfrenta el sector 
+puede dificultar la integración  de la DEI en las prioridades actuales. Para superar este 
+obstáculo, uno de los encuestados sugirió  considerar que los riesgos de reputación y 
+0%10% 20% 30% 40% 50% 60% 70% 
+Ausencia de normas/mejores prácticas consensuadas 
+Prioridades de supervisión contrapuestas 
+Falta de directivas de supervisión para actuar 
+Incertidumbre sobre qué medidas tomar 
+Otras limitaciones legales 
+Preocupación por la privacidad de los datos 
+Falta de conocimientos y experiencia pertinentes 
+Otras limitaciones legales 
+Contexto histórico, cultural o político nacional 
+Resistencia/reticencia de las aseguradoras 
+Hypocritical risk 
+Solapamiento de responsabilidades en materia de DEI 
+Resistencia/reticencia de otros interesados
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  15 
+operativos relacionados con la DEI no sean tenidos en cuenta en las evaluaciones 
+generales de riesgos de las aseguradoras. Otro encuestado ha decidido  integrar la  
+concientización sobre la DEI en todas sus actividades habituales de supervisión. 
+El 38% de los encuestados afirmó que se enfrentaban a una falta de directivas de 
+supervisión para  actuar. Sin embargo, esto no se debía necesariamente a que estas 
+jurisdicciones carecieran del marco normativo para actuar en este ámbito.  
+Los comentarios por escrito de la encuesta indicaron,  en cambio, que esta percepción 
+estaba relacionada con la falta de normas jurídicamente exigibles y específicas sobre DEI 
+en muchas jurisdicciones. 
+La mayoría de los encuestados señaló que no existen sensi bilidades que supongan un 
+obstáculo importante para la adopción de medidas. Sin embargo, para algunos 
+supervisores, tener en cuenta las diferencias culturales o las cuestiones relacionadas con 
+las comunidades indígenas requiere un examen cuidadoso 
+En conjunto, las respuestas a la encuesta parecen indicar un mayor interés por la DEI en 
+muchas jurisdicciones. En los casos en los que los s upervisores creen que tienen una 
+directiva para actuar en materia de DEI, están estudiando formas de hacerlo, pero pueden 
+encontrar dificultades debido a la ausencia de normas jurídicamente vinculantes y a la falta 
+de normas consensuadas o directrices de buenas prácticas en este ámbito. Este parece ser 
+un ámbito en el que la IAIS puede ayudar a sus miembros, poniendo en común los recursos 
+reunidos en las distintas jurisdicciones. 
+2.3 Actividades de supervisión 
+2.3.1 Gobernanza y enfoque en la gestión de riesgos 
+La IAIS considera que la DEI dentro de una aseguradora puede reducir el riesgo de 
+pensamiento de grupo, proporcionar seguridad para hablar y mejorar la toma de decisiones, 
+lo que repercute positivamente en la gobernanza y la gestión del riesgo. 5 En la encuesta 
+se preguntó a los miembros  de la IAIS si tienen un mandato  para tomar medidas sobre la 
+DEI en la gobernanza de las aseguradoras, y qué medidas estaban tomando, o planeaban 
+tomar, en este ámbito. 
+El 70% de los supervisores afirmaron tener algún tipo de mandato o marco jurídico que los 
+respalda a la hora de tomar medidas para promover la DEI en el gobierno de las 
+aseguradoras. Entre los que están tomando medidas en este ámbito, muchos informaron 
+que su trabajo sobre DEI se encuentra en una fase bastante temprana. 
+En la actualidad, no existe una imagen clara de las acciones que deberían priorizarse para 
+integrar la DEI e n el sector. Muchos supervisores sugirieron que una combinación de 
+diferentes factores es  clave para apoyar el progreso en DEI. Por ejemplo, los requisitos 
+formales podrían ayudar, pero los supervisores también podrían promover la DEI mediante 
+                                                
+5 Véase la sección 1 para más explicaciones sobre la opinión de la IAIS de que la DE I influye positivamente 
+en la gobernanza y la gestión del riesgo.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  16 
+ejemplos de buenas prácticas y comunicando al sector los beneficios y las ventajas 
+específicas. También se consideran importantes las oportunidades de intercambio 
+frecuente de ideas y opiniones entre el sector, los supervisores y otras partes interesadas. 
+La mayoría de los encuestados (76%) están adoptando algún tipo de medida de supervisión 
+sobre la DEI. La figura 3 muestra las actividades de supervisión más comunes entre los 
+encuestados que están tomando, o planean tomar, medidas de supervisión sobre DEI. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La actividad más frecuente es la defensa de la DEI a través de comunicaciones escritas y 
+verbales. Los encuestados abordaron la promoción de la DEI de diversas maneras, entre 
+ellas: 
+ a través de publicaciones como informes anuales, estrategias corporativas y escritos 
+de prioridad de supervisión dirigidas a la industria; 
+ en la prensa o en las redes sociales; 
+ en discursos o blogs de altos dirigentes; 
+ mediante presentaciones a las oportunas partes interesadas (incluidos bancos 
+centrales, otros supervisores y representantes del sector); 
+ mediante la participación en foros públicos y campañas dedicadas a la DEI; y 
+ dando ejemplo al dar prioridad a la DEI en sus operaciones internas. 
+La segunda actividad más frecuente es preguntar a las aseguradoras sobre la DEI 
+durante los exámenes/entrevistas de  supervisión. Algunos  ejemplos de esto incluyen 
+preguntar: 
+Figura 3: Actividades de supervision para promover la DEI 
+100% 
+90% 
+80% 
+70% 
+60% 
+50% 
+40% 
+30% 
+20% 
+10% 
+0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- Promoción de la DEI 
+- Conversaciones de 
+supervisión con las 
+empresas 
+- Recogida de información 
+- Divulgación/información 
+pública 
+- Nuevas directrices de 
+supervisión 
+- Intervención supervisora 
+- Nuevas normas 
+jurídicamente vinculantes 
+SI         A Futuro
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  17 
+ sobre la aplicación por parte de la entidad local de políticas o estrategias de DEI a 
+nivel de grupo; 
+ sobre las estrategias de DEI como indicador de la cultura de una aseguradora en esta 
+materia; 
+ a los altos directivos sobre cómo se aplican los requisitos de DEI; 
+ sobre aspectos de diversidad e inclusión en las revisiones de gobernanza 
+relacionadas con la eficacia del directorio; y 
+ sobre cuestiones de DEI en conve rsaciones ad hoc en torno a nombramientos de 
+altas posiciones. 
+La recopilación de información y las divulgaciones públicas también se encuentran entre 
+las acciones más frecuentes. De los que informaron estas actividades, muchos recopilan 
+información sobre la DEI y publican estadísticas agregadas para la evaluación comparativa 
+del sector. Algunos  reguladores también exigen a las aseguradoras que publiquen 
+información sobre la diversidad y composición de su directorio. 
+Varios supervisores mencionaron la importancia de recopilar datos sobre DEI, centrándose 
+en varios aspectos clave.6 En primer lugar, es importante determinar si las aseguradoras 
+recopilan datos sobre la DEI y los métodos y la forma en que se recopilan y analizan. Los 
+tipos de datos recopilados suelen referirse a las características demográficas, a menudo 
+con especial atención al género. 
+Los datos sobre diversidad que recopilan las aseguradoras también deben considerarse a 
+la luz de cualquier estrategia específica de recopilación de datos DEI y plan de acción que 
+la empresa pueda  tener en marcha. Cuando existen, algunos supervisores consideraron 
+necesario examinar cómo se aplica esta estrategia, así como la forma en que se realiza el 
+seguimiento, la supervisión y la evaluación de los datos. 
+A continuación se presenta una selección de las acciones de supervisión actuales para 
+promover la DEI en la industria aseguradora: 
+Irlanda 
+En 2020, el Central Bank of Ireland publicó un documento temático “Thematic assessment 
+of Diversity & Inclusion in insurance firms”. El objetivo era evaluar la adecuación y madurez 
+del enfoque de la diversidad y la inclusión en una muestra de compañías de seguros. Se 
+constató que todas  las compañías habían puesto en marcha iniciativas para mejorar la 
+diversidad y la inclusión, pero el trabajo se centraba principalmente en la diversidad, y todas 
+las compañías se encontraban en  una fase incipiente en su enfoque de la inclusión. Se 
+constató que la mayoría de las compañías  tienen un importante camino por recorrer para 
+garantizar que sus organizaciones sean lo suficientemente diversas e inclusivas. 
+Además del informe, el Central Bank of Ireland presentó un programa de mitigación de 
+riesgos para cada una de las once compañías, exigiéndoles que presentaran un plan de 
+                                                
+6 En algunas jurisdicciones, la recogida de datos sobre algunas características está prohibida tanto para los 
+supervisores como para las aseguradoras en virtud de la legislación nacional. En algunos casos, estas 
+prohibiciones tienen por objeto evitar la discriminación y se derivan de antecedentes históricos específicos.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  18 
+acción detallado para abordar los problemas específicos que cada compañía había 
+identificado, para garantizar que estos problemas se resolvieran adecuadamente. 
+Asimismo, como parte de su compromiso de supervisar e informar sobre el nivel de 
+diversidad en el sector7, cada año, el Central Bank of Ireland informa sobre la demografía 
+de las s olicitudes recibidas para la pre aprobación de determinados puestos de 
+responsabilidad en las empresas financieras de Irlanda. Este informe proporciona datos 
+sobre estadísticas de género por referencia al sector industrial regulado, tipo de función, 
+edad y nacionalidad. Este análisis ayuda a supervisar la actividad pertinente cada año, así 
+como los progresos y las tendencias a lo largo del tiempo. 
+A lo largo de los años, el Central Bank of Ireland se ha pronunciado públicamente sobre el 
+tema de la DEI. Algunos de los discursos más recientes son: 
+ “Sharon Donnery: Citizenship, participation and diversity”; y 
+ “Culture, diversity and the way forward - Deputy Governor Ed Sibley” 
+El Central Bank of Central  también está implementando una práctica de supervisión 
+consistente en formular preguntas sobre diversidad e inclusión durante las reun iones con 
+las empresas  financieras (incluidas las aseguradoras), y está desarrollando bases de 
+preguntas para ayudar a los supervisores a hacerlo de forma eficaz. 
+Italia 
+El Istituto Per La Vigilanza Sulle Assicurazioni (IVASS) publicó un documento de trabajo en 
+enero de 2022: "Women, board and insurance companies”. Concluyendo que "es 
+fundamental que los reguladores y supervisores [...] adopten un papel proactivo en el apoyo 
+a la diversidad y la inclusión en el sector asegurador a través de medidas como la 
+introducción de umbrales obligatorios de representación femenina y la publicación de 
+análisis comparativos". 
+Malasia 
+El Bank Negara Mala ysia supervisa la cultura de las aseguradoras, la estructura de 
+gobierno (por ejemplo, la diversidad en la composición del directorio) y el riesgo de 
+conducta (especialmente la conducta que podría comprometer el trato justo de los 
+consumidores). En un informe de 2017, " Better Boards - The Path Towards Stronger 
+Corporate Governance in Financial Institutions”, señalaron cóm o la diversidad de 
+competencias y formación puede mejorar la capacidad de los directorios para afrontar los 
+desafíos inherentes a entornos económicos inciertos y complejos. 
+Singapur 
+Las “Guidelines on Corporate Governance” de la Monetary Authority of Singapure esperan 
+que las instituciones financieras (incluidas las aseguradoras) divulguen sus políticas de 
+diversidad en los directorios y los progresos realizados  en su aplicación, incluidos los 
+                                                
+7 Diversidad e inclusión en empresas reguladas
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  19 
+objetivos. 
+Reino Unido 
+A lo largo de los años, el Bank of England, la Prudential Regulation Authority ( PRA) y la 
+Financial Conduct Authority (FCA) han mantenido un alto grado de compromiso normativo 
+con el sector financiero sobre la importancia de la diversidad y la inclusión. Algunos de los 
+discursos más recientes incluyen: 
+ en noviembre de 2022, Sheldon Mills (Director Ejecutivo de Consumidores y 
+Competencia de la FCA) habló en la Assocation of British Insurers Diversity Equity & 
+Inclusion Conference sobre “Diversity and inclusion: Driving change in our industry”; 
+y 
+ en abril de 2021, Andrew Bailey (Gobernador del Bank  of England) habló en el 
+lanzamiento de la iniciativa "Meeting Varied People” sobre la importancia de que el 
+Bank se comprometa con una gama más diversa de personas e instituciones dentro 
+del sector financiero con el fin de comprender mejor los mercados financieros 
+globales y su impacto en la economía, para informar la toma de decisiones del Bank 
+en áreas como la fijación d e los tipos de interés y el  diseño de las operaciones de 
+mercado. 
+Estados Unidos de América 
+En 2020, el Executive Committee de la National Association of Insurance Commissioners 
+(NAIC) creó un Special Committee  para abordar las cuestiones de raza y seguros. El 
+Special ( EX) Committee on Race and Insurance  demuestra el compromiso de los 
+reguladores estatales de Estados Unidos de  trabajar juntos para encontrar un enfoque 
+holístico que aborde las disparidades raciales y promueva la diversidad en el sector de los 
+seguros. La línea de trabajo 1 del Special Committee se encargó de investigar y analizar 
+el nivel de diversidad e inclusión en el sector asegurador y de  determinar qué barreras 
+existen en el sector que puedan perjudicar a las personas de color y a  los gr upos 
+históricamente infrarrepresentados. El equipo de trabajo colaboró con el personal  técnico 
+de la NAIC para investigar y resumir los datos, artículos y estudios existentes a disposición 
+del público, y también se puso en contacto con defensorías de los consumidores y 
+representantes del sector para solicitar datos e información pertinente. Las líneas de trabajo 
+también destacaron  las estadísticas  de población activa de 2019 del Bureau of Labor 
+Statistics de los Estados Unidos de América.  
+Se han introducido requisitos de diversidad para las empresas (incluidas las aseguradoras) 
+en varias jurisdicciones, por ejemplo para exigir un número determinado de mujeres en 
+puestos de liderazgo o para imponer obligaciones de información, como sobre las políticas 
+de diversidad y el progreso en relación con los objetivos de diversidad. En general, estos 
+requisitos se han establecido con la  intención de crear empresas con directorios más 
+diversos, que se consideran importantes para el  buen gobierno corporativo y la toma de 
+decisiones. Como estas iniciativas no se dirigen específicamente a las aseguradoras u 
+otras instituciones financieras, no se tratan con más detalle en este informe. 
+Algunas jurisdicciones están elaborando nuevas normas jurídicamente vinculantes
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  20 
+dirigidas específicamente al sector asegurador o al sector de los servicios financieros en 
+general: 
+California (EE.UU.) 
+El California Department of Insurance ha patrocinado legislación para codificar los 
+requisitos de información sobre la diversidad en el sector asegurador, incluida la ampliación 
+de los requisitos  de información sobre la diversidad en los directorios. Su "Insurance 
+Diversity Initiative” tiene por objeto promover la diversidad de  los proveedores y los 
+directorios en la industria aseguradora. 
+China Taipéi 
+La Financial Supervisory Commission Republic of China (Taiwán) ha declarado que en 
+2022 tiene previsto revisar las Regulations Governing Public Disclosure of Information by 
+Non-life Insurance Enterprises y las Regulations Governing Public Disclosure of Information 
+by Life Insurance Enterprises. Esto incluye la adición de disposiciones para "exigir a 
+una aseguradora que adopte una política de diversidad de los miembros del directorio y 
+que describa la política de diversidad de la compañía en sus declaraciones presentadas 
+públicamente y el estado de aplicación de dicha política". 
+Unión Europea 
+En abril de 2022, la European Insurance and Occupational Pensions Authority (EI OPA) 
+escribió al Parlamento Europeo, al Consejo de la UE y a la Comisión Europea abogando 
+por la introducción de disposiciones que promuevan la diversidad en la gobernanza de las 
+aseguradoras, así como una política y unas prácticas de remuneración neutras  desde el 
+punto de vista del género. 
+Por otra parte, a partir de enero de 2023, las empresas participantes en los mercados 
+financieros (incluidas las aseguradoras) de más de 500 empleados tendrán que informar 
+sobre la proporción de mujeres y hombres en el directorio y la brecha salarial de género no 
+ajustada de las empresas en las que invierten.8 
+Italia 
+El Ministerio de Desarrollo Económico ha publicado el Decreto Ministerial nº 88/2022 sobre 
+los requisitos de idoneidad de los directivos de las empresas y las personas que funciones 
+clave en aseguradoras o reaseguradoras. Incluye una disposición que exige una cuota 
+obligatoria para el género infrarrepresentado en los órganos administrativos y de control. 
+Sudáfrica 
+En Sudáfrica se está elaborando el Conduct of Financial Institutions Bill (proyecto de ley 
+sobre la conducta de las instituciones financieras), también conocido como COFI. El 
+objetivo del proyecto de ley COFI es consolidar los requisitos de conducta de las 
+                                                
+8 Reglamento delegado de la comisión 2022/1288
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  21 
+instituciones financieras (FIs) recogidos en diversos actos legislativos en una sola ley, al 
+tiempo que se refuerza el papel de la Financial Sector Conduct Authority (FSCA) en la 
+aplicación de los cambios establecidos en la ley. La DEI se aborda en varias partes del 
+proyecto de ley COFI. Incluye principios relativos a la cultura y la gobernanza de las 
+instituciones financieras, que estipulan que las instituciones financieras (incluidas las 
+aseguradoras) deben desarrollar su actividad de conformidad con los objetivos de inclusión 
+financiera y de promoción, en particular, de la igualdad racial mediante el cumplimiento de 
+los requisitos de la Broad-Based Black Economic Empowerment Act, 2003 (en términos 
+locales denominada "transformación del sector financiero"). 
+La FSCA y l a Prudential Authority también están elaborando un Joint Standard ( Norma 
+Conjunta) que establece requisitos de gobernanza para las instituciones financieras, que 
+incluye principios relacionados con la incorporación de la DEI. 
+ 
+ 
+Entre las futuras actividades previstas o en estudio por los supervisores figuran: 
+ 
+Reino Unido 
+En julio de 2021, la PRA, la FCA y el Bank of England publicaron un documento de debate 
+titulado “DP21/2: Diversity and Inclusion in the financial sector – Working together to drive 
+change (https://www.fca.org.uk/publication/discussion/dp21-2.pdf)”, en el que se detalló 
+cómo la mejora de la diversidad y la inclusión en las empresas reguladas puede ayudarles 
+a alcanzar sus objetivos reguladores y empresariales. En él se presentó una serie de ideas 
+sobre cómo conseguirlo, centrándose en la integración de la diversidad y la inclusión en los 
+marcos de gobernanza de las empresas, invitándose a la industria a responder. 
+Las principales consideraciones de DP21/2 incluyen: 
+ Liderazgo y cultura: Los líderes deben establecer una estrategia convincente y 
+facultar a sus equipos para que desarrollen y apliquen iniciativas que propicien un 
+cambio cultural a todos los niveles dentro de sus instituciones. Los directorios deben 
+supervisar y cuestionar los avances en materia de diversidad e inclusión. 
+ Remuneración: Vincular los avances en materia de diversidad e inclusión a la 
+remuneración podría ser una herramienta clave para impulsar l a responsabilidad en 
+las empresas e incentivar los avances. 
+ Políticas y prácticas empresariales: La política de diversidad e inclusión debe ser una 
+consideración central para todas las empresas, ya que constituye la base de una 
+estrategia y un plan de acci ón. Políticas claramente documentadas ayudan a 
+establecer las expectativas del personal sobre el significado de la diversidad y la 
+inclusión y sus respectivas funciones. 
+ Presentación de informes y divulgación: Disponer de buenos datos puede ayudar a 
+las empresas a comprender la situación actual, supervisar los progresos, identificar 
+los posibles obstáculos a los avances en materia de diversidad e inclusión y 
+seleccionar las intervenciones más eficaces. Los reguladores están estudiando la
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  22 
+posibilidad de esta blecer requisitos de información que les ayuden a evaluar los 
+progresos de cada empresa, así como a observar las tendencias y comparar los 
+progresos de todo el sector. También están considerando exigir a las empresas que 
+hagan pública la información sobre sus datos y estrategias en materia de diversidad, 
+ya que la divulgación establece una clara afirmación de intenciones y crea 
+transparencia para las partes interesadas. 
+ Conducta: Los reguladores están estudiando si los resultados adversos en relación 
+con la conducta de las personas en materia de diversidad e inclusión podrían afectar 
+a su evaluación de la idoneidad en el futuro. 
+Tras la DP21/2, la PRA y la FCA tienen previsto publicar próximamente documentos de 
+consulta paralelos sobre la diversidad y la inc lusión en el sector financiero, incluidas las 
+compañías de  seguros. Estos documentos se basarán en las respuestas recibidas al 
+documento de debate y  propondrán normas y expectativas destinadas a mejorar la 
+diversidad y la inclusión en toda la industria. 
+En general, la investigación de la IAIS muestra que muchos supervisores de seguros de 
+diferentes jurisdicciones internacionales consideran que la DEI es relevante para la 
+gobernanza de las aseguradoras, y están adoptando, o planean adoptar, medidas 
+específicas en este sentido. La IAIS seguirá supervisando la evolución en este ámbito, 
+tomando nota de nuevas ideas innovadoras y ejemplos de buenas prácticas. 
+2.3.2 Enfoque de conducta de mercado 
+La IAIS considera que la DEI integrada en la forma en que una aseguradora lleva a cabo su 
+actividad puede conducir a mejores  resultados para el consumidor. 9 En la encuesta se 
+preguntó a los  miembros de la IAIS responsables de la supervisión de la conducta 
+empresarial (según el PBS 19) hasta qué punto fomentan las medidas de DEI en la forma 
+en que las aseguradoras llevan adelante sus actividades. 
+Aproximadamente el 63% de los encuestados afirmaron transmitir, al menos en cierta 
+medida, las  expectativas de supervisión de que las aseguradoras lleven a cabo sus 
+actividades fomentando la DEI del cliente. Otro 16% afirmó hacerlo en gran medida. Los 
+supervisores que abordan la DEI de  cara al cliente han centrado sus expectativas en la 
+idoneidad de los productos, los grupos vulnerables y los clientes con discapacidades. 
+Algunos tamb ién se han centrado en la equidad,  prohibiendo la conducta empresarial 
+discriminatoria en el diseño, la fijación de precios y la cobertura de los productos. 
+La mayoría de los s upervisores afirman disponer de leyes, reglamentos y/o directrices de 
+alto nivel que prohíben las prácticas de seguros discriminatorias que afectan a los clientes, 
+y la mayoría considera que los principios de la DEI pueden abordarse en el marco del trato 
+justo a los clientes y/o de normas y principios de conducta empresarial más ampli os. Las 
+respuestas indicaron que los supervisores no necesitan necesariamente adoptar la DEI en 
+                                                
+9 Véase la sección 1 para más explicaciones sobre la opinión de la IAIS de que las medidas DEI en la forma en 
+que las aseguradoras operan sus negocios conducirán a mejores resultados para los consumidores.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  23 
+la supervisión de la conducta a través de un nuevo marco o conjunto de normas, sino que 
+más bien podrían abordarla mediante ajustes en el uso de los marcos existentes. 
+La encuesta también consultó si los supervisores realizaron algún trabajo para analizar, o 
+habían encontrado ejemplos de supervisión, de una correlación entre el estado de la DEI 
+en una aseguradora (es decir, en un sentido interno/institucional) y los resultados 
+relacionados con la conducta de la aseguradora. La mayoría respondió que no. 
+Entre las actividades de los supervisores para garantizar que las aseguradoras ofrezcan 
+buenos resultados a los consumidores entre diversas poblaciones de consumidores se 
+incluyen: 
+Australia 
+La Australian Securities and Investments Commission (ASIC) guía la legislación relativa a 
+las Obligaciones de Diseño y Distribución, que exige a los emisores de productos, incluidas 
+las aseguradoras, que tengan en cuenta los obje tivos, la situación financiera y las 
+necesidades de los  clientes a la hora de determinar sus objetivos de mercado. La 
+Regulatory Guide 274 Product design and distribution obligations de la ASIC, explica que, 
+al considerar el  diseño de un producto financiero y la forma en que llegará a los 
+consumidores, para tener un enfoque centrado en el consumidor, los emisores de productos 
+deben tener en cuenta las vulnerabilidades de los consumidores. Las vulnerabilidades de 
+los consumidores pueden incluir características personales o sociales que pueden afectar 
+a la capacidad de una persona para gestionar las  interacciones financieras, como hablar 
+un idioma distinto del inglés, tener diferentes asunciones culturales o actitudes sobre el 
+dinero, o experimentar deficiencias cognitivas o de comportamiento debidas a discapacidad 
+intelectual, enfermedad mental, problemas crónicos de salud o edad. 
+La ASIC también ha obtenido reparación para los consumidores expuestos a malas 
+prácticas de venta de seguros de vida, incluidos los consumidores residentes en zonas de 
+alta densidad de población indígena, que probablemente no poseían al inglés como lengua 
+materna. 
+ 
+China Taipéi 
+La Financial Supervisory Commission Republic of China  (Taiwán) ha establecido  unos 
+“Financial Inclusion Indicators” para evaluar la accesibilidad, facilidad de uso y calidad de 
+los servicios financieros (no sólo seguros) en  su jurisdicción, con vistas a animar a las 
+instituciones financieras a ajustar sus estrategias de  servicio. Uno de los objetivos 
+declarados de los Financial Inclusion Indicators es animar a las instituciones financieras a 
+introducir productos o servicios financieros que satisfagan las necesidades de todos los 
+sectores de la sociedad. 
+Unión Europea 
+La Unión Europea implementó nuevos requisitos de Supervisión y Gobernanza d e 
+Productos (POG) en octubre de 2018. Exigen que los manufactureros de productos de
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  24 
+seguros diseñen y comercialicen productos de seguros que sean compatibles con las 
+necesidades, objetivos y características de sus clientes -incluyendo aspectos como el 
+género, la edad y la vulnerabilidad -. También exigen que el personal que diseña los 
+productos tenga las habilidades, conocimientos y experiencia necesarios para comprender 
+estas necesidades, objetivos y características. 
+Ante la evidencia de las prácticas de price walking10, en julio de 2022 la EIOPA emitió 
+declaración de consulta pública, cuyo objetivo es reforzar la protección de los consumidores 
+mediante la prevención del trato injusto y promover una mayor convergencia en la 
+supervisión de las prácticas de fijación diferenciada de precios, para garantizar que se 
+eviten perjuicios a los consumidores a través de procesos adecuados d e Supervisión y 
+Gobernanza de los Productos. Esto siguió a la revisión temática de EIOPA , que encontró 
+evidencia de estas prácticas, y la publicación de un informe que tenía como objetivo 
+garantizar el uso ético y digno de confianza de la Inteligencia Artificial  en el sector  
+asegurador europeo. 
+Alemania 
+Los supervisores alemanes han analizado la discriminación por edad en las disposiciones 
+sobre seguros de automóviles (vehículos de motor), pero no se encontraron indicios de 
+discriminación por edad. 
+Italia 
+IVASS ha publicado un documento de trabajo en el que se estudia cómo utilizar la 
+inteligencia artificial para ayudar a diseñar productos de seguros más inclusivos y proteger 
+los intereses de los consumidores. 
+Malasia 
+Los supervisores malasios han observado los riesgos de exclusión financiera de algunos 
+segmentos de clientes debido a la edad, las disparidades socioeconómicas o las carencias 
+de conocimientos  financieros. Estudian cómo garantizar que la industria aseguradora 
+ofrezca productos que satisfagan las necesidades de los consumidores con rentas más 
+bajas, para evitar que se acentúen las disparidades existentes y contribuir a la resiliencia 
+social. El 2 de julio de 2021 se publicó un  documento de política  para aclarar las 
+expectativas del Bank Negara Malaysia al respecto. 
+Países Bajos 
+La creciente diversidad de la población de los Países Bajos, como consecuencia de la 
+proporción de ciudadanos neerlandeses de origen inmigrante, llevó a la Dutch Authority of the 
+                                                
+10 Práctica consistente en aumentar las primas en la fase de renovación basándose  en el análisis de las 
+características específicas de un determinado consumidor para predecir comportamientos no relacionados con 
+el riesgo o el coste de los servicios, como la cuantía del aumento de la prima que un consumidor individual 
+tolerará antes de buscar cobertura con otros fabricantes de productos.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  25 
+Financial Markets (AFM) a realizar un estudio exploratorio sobre la vulnerabilidad financiera 
+de los ciudadanos neerlandeses de origen inmigrante y su relación con los servicios 
+financieros. La AFM espera aumentar la concientización y contribuir al debate público sobre 
+esta cuestión. El estudio  (publicado en diciembre de 2021) concluyó que los ciudadanos 
+neerlandeses de origen inmigrante,  en particular los de origen no occidental, son, por 
+término medio, más vulnerables desde el punto de vista financiero y, en lo que respecta a 
+los seguros, existen factores (como la barrera lingüística,  la complejidad de los seguros y 
+la escasa familiaridad con el concepto de seguro) que podrían  llevarles a estar  
+sobreasegurados o infraasegurados. 
+Quebec, Canadá 
+La Autorité des marc hés financiers  (AMF) llevó a cabo un ejercicio de supervisión 
+intersectorial tras ser alertada de un posible comportamiento discriminatorio en el acceso 
+de las comunidades de las Primeras Naciones a los seguros de automóvil y hogar. Afirmó 
+que "las aseguradoras cubiertas por el ejercicio de supervisión intersectorial recibirán 
+recomendaciones personalizadas a través de un informe de supervisión privado. 
+Probablemente podría seguir una comunicación pública de las conclusiones de la AMF". 
+Estados Unidos de América 
+Las líneas de trabajo 3, 4 y 5 del Special (EX) Committee on Race and Insurance  de la 
+NAIC se centran en identificar los problemas relacionados con la raza, la  diversidad y la 
+inclusión en el acceso al sector asegurador y a los productos de seguros. Cada una de las 
+líneas de trabajo permite a los supervisores de seguros de los estados de EE.UU. destacar 
+individualmente una de las tres líneas de negocio: Property & Casualty Insurance, Life 
+Insurance &  Annuities y Health Insurance. Estas líneas de traba jo son un foro para 
+comprender las prácticas del sector asegurador que pueden perjudicar a las personas de 
+color o a los grupos históricamente infrarrepresentados. Un ejemplo concreto de conducta 
+de mercado es la comercialización, distribución y acceso a p roductos de seguros de vida 
+en comunidades minoritarias, incluido el papel  que desempeñan los conocimientos 
+financieros. Otro, es el examen del uso de medidas de adecuación de la red y del directorio 
+de proveedores (por ejemplo, diversidad de proveedores, competencia lingüística y cultural) 
+para promover el acceso equitativo a una atención culturalmente  competente. Los 
+supervisores estatales de seguros de EE.UU. se han asignado tareas y objetivos orientados 
+a la búsqueda de soluciones para abordar y solucio nar los problemas de acceso y  
+asequibilidad de los seguros que puedan existir en el mercado. 
+ 
+ 
+En cuanto a oportunidades futuras, algunos supervisores señalaron que un área de 
+desarrollo es conectar las cuestiones de conducta con algunos principios claros de DEI. La 
+accesibilidad y los segmentos de consumidores desatendidos se señalan como dos áreas 
+de atención por parte de  algunas autoridades. Alrededor de un tercio de los encuestados 
+están estudiando cómo interactúan otros requisitos con el asegurador que lleva a cabo su 
+actividad de acuerdo con las medidas de la DEI, como la definición de un mercado objetivo
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  26 
+para los productos de seguros, la libertad de contratación y el precio de la prima que refleje 
+la evaluación del riesgo. 
+Al igual que con la gobernan za, la IAIS seguirá buscando ejemplos del trabajo de los 
+supervisores en el ámbito de la DEI y la conducta de mercado, y facilitará nuevas 
+conversaciones entre las partes interesadas. 
+ 
+3.  Actuación de la industria aseguradora en 
+relación con la DEI 
+3.1 Según lo observado por los supervisores de seguros 
+La encuesta preguntaba a los supervisores si habían realizado algún análisis del estado de 
+la DEI  dentro de la industria aseguradora y qué tendencias habían observado. A 
+continuación, la encuesta  preguntaba a l os s upervisores qué consideraban que estaba 
+impulsando las medidas adoptadas  por la industria y qué creían que impulsaría nuevas 
+medidas en la industria. Un tercio de los  supervisores ha llevado a cabo un análisis del 
+estado de la DEI en las aseguradoras de su jurisdicción, y unos pocos aún no lo han hecho, 
+pero tienen previsto hacerlo. 
+Varios s upervisores informaron que existe una clara sensación de que el aumento del 
+número de aseguradoras que persiguen una mayor DEI interna está ganando impulso. Los 
+supervisores declararon haber observado que las aseguradoras están tomando una serie 
+de medidas, tanto voluntarias como en razón de iniciativas gubernamentales o requisitos 
+normativos sobre: 
+ incorporar las medidas de la DEI en su marco de gobierno corporativo; 
+ divulgar información sobre la composición de los directorios; 
+ revisar sus procesos de recursos humanos para contratar a personas con talentos 
+más diversos; 
+ estudiar los obstáculos para la entrada en la industria y la forma de mitigarlos, por 
+ejemplo introduciendo sistemas de patrocinio y becas; y 
+ buscar formas de promover a las mujeres a puestos directivos. 
+Entre las observaciones generales de los supervisores sobre la acción de DEI de la 
+industria se incluyen las siguientes: 
+ Las iniciativas de la industria suelen estar relacionadas con la inclusión financiera y 
+el acceso a los seguros, o con la búsqueda de una mayor diversidad entre las 
+personas que trabajan en el sector asegurador. 
+ Hay más concentración en aumentar la representación diversa que en la equi dad o 
+la inclusión. 
+ Aunque las aseguradoras aplican cada vez más iniciativas de DEI, no es tan 
+frecuente que realicen un seguimiento, control o evaluación de la eficacia de dichas
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  27 
+iniciativas. 
+ La diversidad de género es el objetivo más frecuente de los esfuerzos de diversidad 
+de la industria. Sin embargo, el enfoque de diversidad puede variar de una jurisdicción 
+a otra y los supervisores señalaron cierto nivel de enfoque en la etnia/raza, la 
+orientación sexual, los militares veteranos, las personas con disc apacidad y la 
+diversidad socioeconómica. 
+ Las iniciativas relacionadas con el aumento de la diversidad en la composición de los 
+directorios y la alta dirección de las aseguradoras son bastante frecuentes. Algunos 
+encuestados observaron que, en muchos casos,  las mujeres siguen estando 
+infrarrepresentadas en esas cohortes, y algunos también detectaron diferencias 
+salariales entre hombres y mujeres. Los encuestados también consideran que la 
+composición de los directorios no siempre se ajusta adecuadamente a la distribución 
+demográfica de la jurisdicción local en términos de representación de orígenes 
+étnicos. 
+ Las aseguradoras que operan a escala internacional tienen más probabilidades que 
+las demás de incorporar aspectos de la DEI a su organización y a su forma de hacer 
+negocios. 
+ Las aseguradoras no suelen estar tan avanzadas en sus esfuerzos por integrar la 
+DEI en su enfoque hacia los clientes, en comparación con sus esfuerzos por mejorar 
+su DEI interna. 
+ La industria a veces considera su actividad de inversión como parte de su acción de 
+DEI, por ejemplo, mediante la creación de iniciativas para ampliar su inversión en 
+comunidades desatendidas y desfavorecidas. 
+Los supervisores de seguros observan que no solo las aseguradoras individuales, sino 
+también las asociaciones del sector en diversos niveles como: el mundial, el regional y el 
+nacional, emprenden acciones en materia de DEI. 
+Los supervisores consideran que una serie de factores se combinan para impulsar la acción 
+de la  industria con  el fin de aumentar la DEI interna/institucional, siendo los más  
+significativos: 
+ 
+ requisitos obligatorios; 
+ la creencia de la industria de que la DEI es buena para su negocio y para su 
+reputación, incluso desde la perspectiva de la atracción y retención de empleados; y 
+ los cambios so ciales que han creado una expectativa o presión por parte de los 
+principales interesados y, por tanto, la necesidad de dedicarle tiempo y recursos. 
+Los encuestados también observaron que, en muchos casos, las medidas para aumentar 
+la DEI en la composición de la plantilla y la dirección de las aseguradoras forman parte de 
+una transición más amplia que se está produciendo en el sector financiero y en el mundo 
+empresarial en general, en lugar de ser específicas del sector asegurador. 
+Los supervisores dieron respuestas variadas sobre lo que consideran que provocaría una 
+mayor acción de la industria en relación con la DEI, pero coincidieron en que una
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  28 
+combinación de diferentes factores tendría un éxito mayor. Los s upervisores consideran 
+que las siguientes acciones son las que tienen más probabilidades de conducir a una mayor 
+acción de la industria para mejorar la DEI dentro de las aseguradoras: 
+ Los requisitos formales se mencionaron a menudo como un potente catalizador para 
+la acción de la industria. Algunos super visores propusieron que los requisitos se 
+complementaran con recomendaciones y directrices en materia de regulación que 
+establecerán expectativas no vinculantes. 
+ Los supervisores dan un empujón y animan a la industria, promoviendo iniciativas de 
+DEI; por e jemplo: mostrando y promoviendo ejemplos de buenas prácticas e 
+informando a la industria no sólo de los beneficios y ventajas de mejorar la DEI, sino 
+también de los peligros y consecuencias de ignorarla. 
+ Oportunidades para el intercambio de ideas y opinion es entre la industr ia, los 
+supervisores y otras partes interesadas. 
+ Educación y promoción de la DEI en la sociedad en general. Esto se traducirá en una 
+mayor acción sobre la DEI en el sector asegurador en concreto. 
+En general, a través de los ojos de los supervisores de seguros, hay una imagen clara de 
+que el sector asegurador está cada vez más interesado en cómo la DEI puede ser relevante 
+para sus  organizaciones. Esto se inspira en diversos factores, algunos de los cuales 
+implican acciones de supervisión, mientras que otros se deben a tendencias más amplias 
+en las jurisdicciones locales y a escala internacional. Esta investigación sugiere que puede 
+ser útil para las aseguradoras y sus  supervisores seguir manteniendo un diálogo abierto, 
+compartiendo sus idea s y experiencias sobre  cómo desarrollar  enfoques industriales y 
+reguladores de la DEI. 
+3.2 Según lo explicado por la industria a través de la 
+participación de las partes interesadas 
+Como aporte al balance, la IAIS se comprometió con una muestra de las partes interesadas 
+para ayudar de forma inicial y exploratoria a: 
+ entender si, y por qué la DEI, desde la perspectiva de la industria, se considera 
+relevante e importante tanto para la gobernanza como para el desarrollo de la 
+actividad en el sector asegurador; 
+ conocer las acciones en materia de DEI que están llevando a cabo por la industria y 
+las partes interesadas; 
+ comprender cuáles son, en opinión de la industria, los mayores desafíos y obstáculos 
+a la hora de integrar la DEI; y 
+ recibir opiniones sobre lo que  la comunidad supervisora mundial puede hacer para 
+seguir promoviendo la DEI en el sector asegurador. 
+La muestra tomada de las partes interesadas incluyó aseguradoras, organismos del sector 
+y un consultor, que representan a jurisdicciones de todo el mundo:  Asia-Pacífico, Oriente 
+Medio y África, Sudáfrica, Suiza, Reino Unido y Estados Unidos.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  29 
+La IAIS espera seguir debatiendo sobre la DEI con otras partes interesadas. Hasta la fecha, 
+han surgido las siguientes ideas clave: 
+3.2.1 Por qué la DEI es relevante e importante para las 
+aseguradoras 
+Las partes interesadas de la industria apoyan el papel que desempeña la DEI tanto desde 
+una perspectiva interna/institucional como externa, de servicio al cliente. Consideran que 
+la DEI es un ámbito en rápida evolución en el que el debate no deja de ampliarse. 
+Las partes interesadas opinan que la integración de la DEI en la gobernanza de una 
+organización es un factor de éxito organizativo. Creen que la integración de la DEI en una 
+aseguradora puede reportar los siguientes beneficios: 
+ Mejores resultados empresariales. En relación con esto, se reconoció que las 
+aseguradoras se enfrentan a muchos nuevos retos y que, por lo tanto, se necesitan 
+competencias nuevas y diversas para tener éxito. 
+ Reducción del riesgo mediante la creac ión de diversidad de pensamiento, lo que 
+significa que hay menos posibilidades de pensamiento de grupo y probablemente una 
+mejor gestión del riesgo en general. 
+ Un personal más representativo y diverso puede ayudar a comprender mejor las 
+distintas necesidades de los consumidores, lo que permite a las aseguradoras ofrecer 
+un mejor servicio a los clientes y diseñar los productos adecuados a sus necesidades. 
+Algunos interesados señalaron que los datos que lo demuestran son limitados e 
+imperfectos, lo que dificulta la capacidad de las aseguradoras para evaluar fácilmente 
+cómo están atendiendo a poblaciones diversas. 
+ Puede haber un beneficio inmediato en la capacidad de las aseguradoras para atraer 
+más talento. A largo plazo, contar con un personal más diverso pue de hacer crecer 
+orgánicamente la DEI dentro de la aseguradora, que podría entonces incorporar de 
+forma natural la DEI en la cultura y seguir atrayendo a personal diverso y con talento. 
+ La ventaja psicológica de una cultura inclusiva se traduce en empleados más felices, 
+lo que puede redundar en beneficios para la retención de empleados y la 
+productividad. 
+Algunos interesados describieron los méritos de la DEI en relación con la conducta 
+empresarial como algo vinculado a los fundamentos de tener un negocio de  éxito: la DEI 
+posiciona mejor a una aseguradora para comprender el mercado en el que se encuentra, 
+satisfacer las necesidades de ese mercado y hacerlo de forma innovadora, competitiva y 
+solvente. 
+En general, las partes interesadas reconocieron que la DEI, desde una perspectiva de 
+conducta/consumidor, no está tan desarrollada en su pensamiento, y que existe la 
+oportunidad de  explorarla más. Señalaron que la conducta de mercado está muy 
+influenciada por los respectivos antecedentes culturales o de supervisión. Esta podría ser 
+una de las razones por las que existe una  variedad de impulsores, así como una variedad 
+de acciones. Además, los regímenes reguladores  difieren en su conceptualización de la 
+DEI, así como en su enfoque del concepto de trato justo,  discriminación y  prácticas
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  30 
+desleales. 
+ 
+3.2.2 Los desafíos que se enfrentan incorporando la DEI 
+Algunas partes interesadas de la industria opinan que la naturaleza voluntaria de la DEI 
+dificulta la cristalización de acciones suficientes en todo el sector. Describ ieron que hay 
+muchos debates en torno a la DEI, pero si no hay una acción de seguimiento, no cambiarán 
+muchas cosas. En relación  con esto, se citó el challenge of inercia : es probable que las 
+personas sigan un comportamiento arraigado y no estén dispuestas  a aceptar el cambio, 
+la mayoría de las iniciativas de DEI están  impulsadas por un pequeño número de 
+defensores, y es necesario contar con un movimiento de colaboración más amplio para 
+crear el cambio. 
+En respuesta a estos retos, las partes interesadas señalaron la necesidad de acción y de 
+estructuras formales para promover la DEI, y también que la opinión de que los supervisores 
+tiene un papel clave  que desempeñar en la sensibilización y la evaluación de si las 
+aseguradoras están integrando éticamente la DEI en sus negocios de manera sostenible. 
+La falta de diversidad en el conjunto de talentos es otro desafío clave para crear un equipo 
+de trabajo diverso y representativo. Dadas las medidas adoptadas por algunas 
+aseguradoras, las partes  interesadas enunciaron su esperanza de que esta situación 
+mejore con el tiempo, pero reconocieron que es necesario seguir actuando. En 
+jurisdicciones con poblaciones culturales y demográficas  diversas, el desarrollo de 
+productos adecuados para los diferentes consumidores es u n reto de la  DEI que las 
+aseguradoras deben abordar conjuntamente, estudiando la mejor manera de hacer que los 
+seguros sean accesibles para consumidores diversos. 
+También se señaló que l as asociaciones de la industria, que tratan de impulsar la acción 
+regional o mundial en materia de DEI, deben ser sensibles y conscientes de las diferencias 
+culturales y jurídicas entre jurisdicciones. 
+ 
+3.2.3 El rol de los supervisores 
+Las partes interesadas de la industria creen que el hecho de que la IAIS haga de la DEI una 
+prioridad es útil para mot ivar el cambio. Asimismo, varios interesados afirmaron que la 
+defensa de la DEI por  parte del supervisor local es un poderoso motor de la  acción del 
+sector. 
+Como mensaje general, las partes interesadas de la industria recomendar on que los 
+supervisores deberían cristalizar su posición respecto a los principios y valores necesarios 
+en torno a la DEI y  enviar un mensaje claro a las aseguradoras y al sector en general. 
+Algunos opinaron que también podría ser beneficioso comunicar tanto las expectativas de 
+supervisión como las expectativas de que las aseguradoras tengan un régimen de rendición 
+de cuentas que apoye la DEI. 
+Algunas partes interesadas consideraron que los supervisores deberían evitar el exceso
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  31 
+de regulación, ser demasiado prescriptivos o directivos y crear cargas innecesarias. En su 
+lugar, expresaron su punto de vista: el panorama normativo deb e ser ágil. En su opinión, 
+los supervisores deberían sensibilizar a la opinión pública a nivel de principios, por ejemplo, 
+mediante la publicación de documentos sobre buenas prácticas y estudio de casos. Algunos 
+advirtieron que los supervisores deberían evitar la introducción de iniciativas (por ejemplo, 
+el establecimiento de cuotas) que en realidad podrían limitar las ambiciones de p rogresar 
+en la DEI. Algunas partes también señalaron  que los s upervisores deben reconocer las 
+diferencias entre las aseguradoras grandes, medianas y pequeñas, y advirtieron que no se 
+debe esperar un enfoque único de la DEI. 
+En lo que respecta a la DEI, en sentido a la conducta empresarial de cara al consumidor, 
+las partes interesadas de la industria reconocieron que puede abordarse a través del trato 
+justo de los consumidores, pero sugirieron que era necesario debatir con los supervisores 
+la forma de aporta r una perspectiva de DEI al trato justo de los clientes que no fuera 
+prescriptiva y, por tanto, difícil de  aplicar y supervisar, dadas las diferencias en los 
+mercados y los productos. 
+ 
+4. El panorama a nivel internacional y cómo 
+la actividad de la IAIS se adapta 
+4.1 A través de las principales organizaciones 
+internacionales 
+El balance incluyó examinar si la DEI figura en el trabajo actual y previsto por los 
+organismos internacionales con directivas relacionadas al sistema financiero internacional. 
+Evaluar el grado de atención que se presta a la DEI como tema de supervisión a escala 
+internacional ayuda a la IAIS a comprender el panorama actual y, a su vez, a la contribución 
+que puede hacer en este tema. 
+4.1.1 Panorama general 
+Las organizaciones internacionales reconocen cada vez más los beneficios de la DEI para 
+el buen  gobierno y, por lo tanto, promueven cada vez más la DEI en las instituciones 
+financieras. Sin embargo, no es tan dominante en sus programas de trabajo como otros 
+temas, ni es actualmente objeto de muchas publicaciones oficiales. En su lugar, el trabajo 
+vinculado al término general “criterios Ambientales, Sociales y de Gobernanza" (ASG) sigue 
+centrándose más a menudo en la A  (de medio ambiente), con gran parte de este trabajo 
+vinculado al cambio cli mático. Se ha registrado  cierto reconocimiento de la creciente 
+importancia de la DEI como una cuestión incluida en el ámbito  de los criterios ASG (ESG, 
+en inglés).11 
+                                                
+11 Por ejemplo, en el informe de junio de 2021 titulado “Report on Sustainability-related Issuer Disclosures”, la
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  32 
+Las organizaciones internacionales están trabajando mucho en la inclusión financiera y la 
+protección de los consumidores. Estas son áreas de trabajo bien establecidas que han 
+estado en la agenda desde antes de que la DEI cobrara importancia. A pesar de ello, puede 
+considerarse que tanto la  inclusión financiera como la protección de los consumido res 
+promueven la DEI, ya que se centran  en la inclusión de segmentos normalmente 
+desatendidos de la población y tratan de garantizar un  trato justo y productos y procesos 
+adecuados para todos los consumidores, especialmente los  vulnerables. Un aspecto que 
+debe seguir estudiándose es la forma en que la inclusión financiera y  la protección de los 
+consumidores se integran o se complementan con la labor ya realizada. 
+4.1.2 Compromisos con su propia DEI 
+Muchas organizaciones internacionales han publicado declara ciones de DEI sobre su 
+compromiso interno con la DEI como empleadores.12 En algunos casos, las declaraciones 
+reconocen especialmente el vínculo entre el hecho de que la propia organización sea más 
+diversa e inclusiva y la mejora de la adecuación de sus productos y políticas. 
+Aunque adoptar este tipo de declaraciones no equivale a avanzar en el trabajo centrado en 
+la DEI como parte de la ejecución de sus directivas, sí establece predicar con el ejemplo. 
+También puede ser indicativo de un creciente reconocimiento de la importancia de la DEI 
+en esa organización, que  con el tiempo puede llevar a su incorporación en el trabajo de 
+cara al exterior de la organización. 
+4.1.3 Reconocimiento del vínculo entre la DEI, el buen gobierno y 
+la gestión de riesgos 
+En el material publicado por las organizaciones internacionales, se hacen algunas 
+referencias a las ventajas derivadas de la DEI dentro de una institución financiera. Cuando 
+existen, las referencias  establecen el vínculo entre la DEI y un mejor rendimiento 
+corporativo, una mejor toma de decisiones y la mitigación de las conductas indebidas. 
+Un ejemplo clave de mayor reconocimiento de la importancia de la diversidad para la buena 
+gobernanza en el sector financiero es la reciente revisión de la guía del Banco Central 
+Europeo (BCE) sobre las evaluaciones de idoneidad, publicada en diciembre de 2021. Este 
+ejemplo va más allá del mero reconocimiento, porque también implica la aplicación de una 
+nueva política destinada a potenciar la diversidad. 
+El BCE describió su enfoque mejorado de la supervisión de la idoneidad centrándose en la 
+diversidad dentro de la adecuación colectiva del directorio como "un paso más en los 
+esfuerzos del BCE por promover la diversidad dentro de los órganos de dirección de los 
+bancos europeos como  condición necesaria para una gobernanza más sólida de las 
+                                                
+IOSCO (International Organization of Securities Commissions) destacó que los resultados en materia de 
+sostenibilidad de las empresas y los inversores institucionales están cada vez más en el punto de mira a 
+medida que aumenta la concientización de la sociedad sobre las cuestiones de sostenibilidad, no sólo con 
+respecto al cambio climático, sino a toda la gama de cuestiones medioambientales y sociales, incluidas la 
+diversidad y la inclusión. El informe no fue más allá con respecto a la diversidad y la inclusión. 
+12 Algunos ejemplos son: IMF, The World Bank, OECD, y BIS.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  33 
+entidades de crédito y, por tanto, un  sistema financiero más seguro". Otros comentarios 
+clave del BCE en apoyo de la DEI incluidos en la guía son: 
+"El proceso de toma de decisiones sobre estrategias y asunción de riesgos en el 
+seno de las instituciones puede verse afectado positivamente si se apoya la 
+diversidad de orígenes, experiencias, valores, opiniones y puntos de vista en los 
+órganos de dirección  de las instituciones. La diversidad en todas sus facetas 
+servirá de apoyo a los órganos decisorios de las instituciones. 
+[...] La diversidad puede tener varias dimensiones que son importantes para el 
+mejor funcionamiento del órgano de dirección. Además de la diversidad de género, 
+entre ellas  figuran la variedad de formación y antecedentes profesionales, la 
+procedencia geográfica y la edad [...]".13 
+Un par de ejemplos anteriores incluyen: 
+ En su informe de 2018 titulado “ Strengthening Governance Frameworks to Mitigate 
+Misconduct Risk: A Toolkit for Firms and Supervisors ”, el Financial Stability Board  
+enumeró a la falta de diversidad e inclusión que crea pensamiento de grupo como 
+uno de los 21 impulsores cultura les clave de la mala conducta. El Toolkit vincula el 
+pensamiento de grupo resultante de la falta de diversidad e inclusión, con procesos 
+de toma de decisiones deteriorados y con la racionalización de la mala conducta. 
+ En 2017, el Toronto Centre 14 publicó “The Business Case for Promoting Improved 
+Gender Balancein Financial Institutions ”, centrado en el vínculo entre la diversidad 
+de género dentro de las instituciones financieras y un mejor rendimiento. 
+Aunque no se limita a las instituciones financieras, los Principios de Gobierno Corporativo 
+de la OCDE y del G20 son otro ejemplo de reconocimiento a nivel internacional de la 
+relevancia de la DEI para una gobernanza eficaz. La consulta de septiembre de 2022 sobre 
+las revisiones de los Principios incluye la inserción de más referencias a la diversidad en el 
+directorio y la alta dirección. 
+4.1.4 Coordinación mundial e intercambio de conocimiento entre 
+supervisores financieros sobre la DEI 
+Se están creando iniciativas a nivel internacional para promover y patrocinar el trabajo de 
+la comunidad supervisora sobre la DEI dentro del sistema financiero con el objetivo de 
+mejorar la  comprensión, compartir conocimientos y,  en última instancia, promover el 
+cambio. 
+En diciembre de 2021, los gobernadores de los bancos centrales del G7 manifestaron su 
+intención de acelerar los avances en materia de DEI en sus bancos centrales y sistemas 
+financieros. La declaración reconoce la diversidad y la inclusión como fuentes clave de 
+fortaleza en el lugar de trabajo, ayudando a los bancos centrales a tomar mejores 
+                                                
+13 Guide to fit and proper assessments - ECB Banking Supervision, página 42-43. 
+14 El Toronto Centre ofrece programas de capacitación para supervisores y reguladores financieros de todo el 
+mundo, especialmente en los mercados emergentes y los países de renta baja -en mercados emergentes y 
+países de renta baja- con el objetivo de promover la estabilidad y la inclusión financiera
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  34 
+decisiones y políticas al servicio de sus sociedades. Como parte de ello, un grupo de G7 
+Supervisory Authorities se ha reunido para debatir el fomento de una mayor diversidad e 
+inclusión en los sectores financieros del G7 y han acordado la importancia de que los 
+Supervisores consideren las cuestiones de diversidad e inclusión en el sector financiero. 
+Otro ejemplo del creciente impulso de los supervisores que colaboran en redes y alianzas 
+internacionales para desarrollar sus enfoques de la DEI en el sector financiero es la 
+creación en 2021 de un subgrupo de interés especial sobre diversidad e inclusión como 
+parte de la Mesa Redonda de Supervisores sobre Eficacia de la Gobernanza, convocada 
+por el Banco de la Reserva Federal de Nueva York.15 
+En mayo de 2022, el Financial Stability Institute of the Bank for International Settlements 
+(FSI) publicó el documento “FSI Insights Diversity and inclusion - embracing the true colours 
+in financial  supervision”. Esta publicación es indicativa de la relevancia que está 
+adquiriendo la DEI como cuestión de política reguladora/supervisora contemporánea. El 
+documento examina la actividad en materia de diversidad e inclusión y los nuevos enfoques 
+reguladores en el sector de los servicios financieros en seis jurisdicciones diferentes. 
+Aborda el tema de la diversidad y la inclusión tanto en términos de su manifestación interna 
+dentro de una institución financiera, como en su manifestación externa en el trato con los  
+clientes. El informe concluye con las siguientes observaciones: 
+ Aunque se ha avanzado en la mejora de la DEI de las instituciones financieras, el 
+ritmo del cambio debe acelerarse, y el alcance debe ampliarse a dimensiones de la 
+diversidad que vayan más allá del género. 
+ El desarrollo normativo de la DEI es una maratón, no un sprint. 
+ Los reguladores financieros pueden dar ejemplo demostrando la importancia de la 
+DEI. 
+ Las normas y orientaciones internacionales sobre DEI podrían ser útiles para 
+impulsar el  progreso en la mejora  de la calidad del gobierno corporativo de las 
+instituciones financieras reguladas, aumentando así la seguridad y la solvencia de las 
+empresas y del sector financiero. 
+La DEI se explora cada vez más en conferencias. Un ejemplo destacado a nivel de 
+coordinación mundial de las autoridades supervisoras es el Bank of Canada, el Bank 
+of England, el Board of Governors of the Federal Reserve System  y el Banco 
+Central Europeo que han organizado colectivamente una serie de cuatro conferencias 
+(2018, 2019, 2021 y 2022) sobre Diversidad e Inclusión en Economía, Finanzas y Bancos 
+Centrales. En 2018 y 2019, las conferencias se centraron en la diversidad de género, y en 
+2021 en los problemas a los que se enfrentan los grupos infrarrepresentados en la 
+economía, las finanzas y los bancos centrales. En 2022, la c onferencia continuó  
+centrándose en los grupos infrarrepresentados, incluido el género pero sin limitarse a él, y 
+su título evolucionó con la adición de "Equidad" para convertirse en la Conferencia sobre 
+Diversidad, Equidad e Inclusión en Economía, Finanzas y Bancos Centrales. 
+                                                
+15 La Mesa Redonda es un foro de autoridades de supervisión financiera de todo el mundo que comparten 
+enfoques de supervisión y desarrollan herramientas y recursos relacionados con la supervisión de la 
+gobernanza, la cultura y el comportamiento
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  35 
+4.1.5 Organizaciones internacionales que apoyan a los 
+supervisores para mejorar la inclusión de género 
+Dos de los socios de implementación de la IAIS -Toronto Centre y A2ii- son organizaciones 
+que operan a nivel internacional c on el objetivo de apoyar a los s upervisores en la 
+promoción de la inclusión de género en el sistema financiero (en el caso de A2ii, se centran 
+específicamente en los  supervisores de seguros y  en la promoción de la inclusión  de 
+género en los seguros). 
+La misión de A2ii es desarrollar la capacidad y la comprensión de los supervisores para 
+facilitar la promoción de seguros inclusivos y responsables. En su trabajo reciente y en 
+curso, A2ii se centra en gran medida en mejorar el acceso de las mujeres a los seguros. 
+El trabajo en curso incluye el desarrollo de herramientas para los supervisores, como una 
+plantilla para la recopilación de datos desglosados por género, un módulo de formación 
+sobre "concientización de género en los seguros inclusivos" y una "herramienta de 
+evaluación de la madurez de género".16 Entre las publicaciones anteriores relevantes se 
+incluyen: “The Role of Insurance Supervisors in Boosting Women's Access to Insurance  
+(2021)” y “Mainstreaming Gender and Targeting Women in Inclusive Insurance: 
+Perspectives and Emerging Lessons (2017)”. 
+El Toronto Centre también se centra en la inclusión financiera de las mujeres a través de 
+su trabajo, y se dirige a los Supervisores Financieros (no solo específicos de seguros). Entre 
+sus publicaciones anteriores se incluyen: “How Regulators Use Sex -Disaggregated Data 
+and Regtech to Enhance Financial Inclusion (2021)”, “Removing the Barriers to Women's 
+Financial Inclusion (2019)” y “Advancing Women's Digital Financial Inclusion (2018)”. En 
+colaboración con USAID, el Toronto Centre también ha diseñado recientemente un Gender-
+Aware Supervision Toolkit. Fue construido en reconocimiento de que los s upervisores no 
+siempre tienen claro cómo el género  y la inclusión de género se relacionan con sus 
+directivas de supervisión y lo que pueden hacer, tangiblemente, para promover una mayor 
+inclusión del género. El objetivo es ayudar a los supervisores financieros de los mercados 
+emergentes a integrar las dimensiones de género en sus prácticas de supervisión. 
+4.2 Dentro de la IAIS 
+4.2.1 El trabajo de la IAIS hasta la fecha 
+En 2021, la IAIS adoptó la DEI como uno de sus temas estratégicos clave y publicó una 
+declaración sobre la importancia de las medidas DEI en la supervisión de los seguros . 
+En dicha Declaración, la IAIS se comprometió a profundizar y reforzar su trabajo sobre 
+DEI y a apoyar los esfuerzos de los supervisores de seguros y del sector asegurador 
+para seguir considerando y tomando medidas sobre cuestiones de DEI. La IAIS también 
+se ha comprometido a tomar medidas para seguir integrando la DEI en su propia 
+                                                
+16 Consulte aquí para más información sobre el trabajo en curso de la A2ii, y aquí todo el trabajo de la A2ii sobre 
+el ODS 5: Igualdad de género.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  36 
+gobernanza y procesos internos como asociación mundial de miembros.17 
+Diversos materiales de apoyo de la IAIS, publicados en 2021 y con anterioridad, abordan 
+cuestiones interrelacionadas con aspectos de la DEI: 
+ En particular, el documento de aplicación "Application Paper on the Composition and 
+the Role of the Board (2018)” destaca que la diversidad del directorio, en su sentido 
+más amplio, puede ser un motor es encial de la eficacia del directorio al crear una  
+amplitud de perspectivas entre los miembros y acabar con la tendencia al 
+pensamiento de  grupo. Aunque el documento se centra en la diversidad de 
+competencias, como los conocimientos y la experiencia, reconoce que la diversidad 
+puede considerarse en el contexto de otras características, como el género, la raza y 
+el origen étnico, así como las habilidades, los antecedentes, las personalidades, las 
+opiniones y las experiencias. 
+ Otro reconocimiento de los méritos de la diversidad en el material de la IAIS es el 
+documento de aplicación “Application Paper on Proactive Supervision of Corporate 
+Governance (2019)” que se centró en los supervisores de seguros y no en las 
+aseguradoras. En él se reconocía la necesidad de crear una cultura que valore la 
+diversidad de pensamiento (aunque no se utilizaba este término), lo que permitirá 
+a los supervisores supervisar de forma más eficaz y proactiva. 
+ En el contexto de las cuestiones de cara al cliente, que corren el riesgo de ofender 
+los valores de la DEI, el documento temático “Issues Paper on Big Data Analytics in 
+Insurance (2020)” profundizó en cuestiones de posible discriminación, parcialidad y 
+exclusión relacionadas con el uso de la inteligencia artificial y el machine learning. 
+ El documento temático “Issues Paper on Insurer Culture (2021)” exploró el rol de la 
+cultura de las aseguradoras, que informa las decisiones , los comportamientos y las  
+prácticas en toda la actividad de una aseguradora, como un punto de intersección 
+crítico para gestionar los riesgos prudenciales y de conducta. El documento temático 
+señalaba que los enfoques de las aseguradoras sobre las cuesti ones de DEI 
+probablemente influyen en su cultura general, y viceversa. 
+La IAIS también tiene un sólido historial de trabajo, y sigue prestando atención a la inclusión 
+financiera y los seguros inclusivos que, debido al objetivo de aumentar el acceso a los 
+seguros por parte de las personas típicamente excluidas o desatendidas, se vincula al tema 
+de la DEI en un sentido orientado al cliente.18 
+4.2.2 2023 y más allá 
+El trabajo realizado a través de este balance ha puesto de relieve varias áreas en las que 
+la IAIS considera que podría aportar valor al progreso de la DEI en todo el sector. 
+                                                
+17 Consulte aquí para más información sobre el compromiso de la IAIS con DEI como asociación mundial de 
+miembros. El 9 de noviembre de 2022 el Comité Ejecutivo de la IAIS aprobó esta expresión del valor que la 
+IAIS concede a la DEI porque se considera esencial para que la IAIS no solo pueda cumplir su misión con 
+eficacia, sino también los planes de la IAIS para seguir mejorando. 
+18 Application Paper on the Use of Digital Technology in Inclusive (2018), Application Paper on Product Oversight 
+in Inclusive Insurance (2017), Issues Paper on Conduct of Business in Inclusive Insurance (2015).
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  37 
+La IAIS tiene previsto iniciar nuevos proyectos sobre DEI conceptualizados en dos 
+enfoques: uno sobre la gobernanza institucional de las aseguradoras y otro centrado en el 
+consumidor. En ambos, el trabajo tiene por objeto poner de relieve la interconexión entre la 
+DEI en el sector asegurador y las directivas de supervisión, y proporcionar asesoramiento 
+y ejemplos de la gama de prácticas de supervisión disponibles en relación con la DEI que 
+apoyan el logro de mejores resultados prudenciales y para el consumidor. 
+Más concretamente: 
+ Con respecto a la gobernanza institucional de las aseguradoras, la IAIS tiene la 
+intención de explorar cómo la DEI beneficia a la gobernanza, la gestión de riesgos y 
+la cultura corporativa, incluso mediante la elaboración de lo que la DEI dentro de la 
+institución de una aseguradora podría implicar en este contexto. Este trabajo 
+informará la creación de un documento de aplicación sobre cómo los s upervisores 
+pueden reconocer y responder a las implicancias del gobierno corporativo, gestión de 
+riesgos y cultura corporativa que pueden surgir cuando una aseguradora carece de 
+diversidad y tiene una inclusión deficiente. 
+ En lo que resp ecta a la atención prestada a los consumidores, la IAIS tiene la 
+intención de explorar cómo la aplicación de una perspectiva DEI a la conducta del 
+negocio (incluido el diseño, la venta y la prestación de productos y servicios de 
+seguros) puede contribuir al trato justo de diversos grupos de clientes. Este trabajo 
+informará la creación de un documento de aplicación sobre cómo los s upervisores, 
+aseguradores e intermediarios pueden utilizar una perspectiva DEI para cumplir 
+mejor el requisito del PBS 19 de trat ar a los clientes de forma justa para aquellos 
+consumidores que son vulnerables, están infra atendidos o tienen necesidades 
+diferentes. También ayudará a los  supervisores a evaluar si las aseguradoras y los 
+intermediarios tratan a los diversos grupos de co nsumidores de forma justa y sin 
+discriminaciones inadecuadas. 
+La IAIS es consciente de que el tema de la DEI es un tema en el que el contexto cultural 
+es particularmente importante y las especificidades nacionales pueden afectar a la 
+capacidad de actuación de los supervisores y las aseguradoras. Por ejemplo, puede existir 
+legislación que limite la recopilación de determinados datos o que define la discriminación 
+prohibida o establezca las protecciones necesarias. También es importante garantizar que 
+las consideraciones de las aseguradoras sobre la DEI no se conviertan en un mero ejercicio 
+de cumplimiento o de relaciones  públicas. Estas y otras consideraciones formaran los 
+futuros trabajos y resultados de la IAIS sobre este tema y sugieren no adoptar un enfoque 
+excesivamente prescriptivo. El trabajo previsto no  propone crear nuevos requisitos, sino 
+más bien proporcionar más consejos, ilustraciones, recomendaciones y/o ejemplos de 
+buenas prácticas sobre cómo los Principios Básicos de Seguros existentes interactúan con 
+el tema de la DEI. Invitaremos a la industria y a otras partes interesadas  a contribuir a 
+medida que avancemos en el trabajo.
+
+PUBLICO 
+ 
+Balance de la situación sobre diversidad, equidad e inclusión en el sector asegurador  38 
+5. Conclusión 
+El balance de la IAIS sobre DEI ha revelado que la DEI en el sector asegurador es 
+actualmente un  tema de gran interés para la  industria y los supervisores en varias 
+jurisdicciones. 
+La encuesta a los miembros de la IAIS ha proporcionado información útil sobre lo que los 
+supervisores de seguros están haciendo y planean hacer, para promover la DEI en el sector 
+asegurador. Esta investigación puede orientar a otros supervisores sobre los pasos que 
+pueden dar para promover la DEI en sus propias jurisdicciones. La encuesta también 
+permite comprender los  desafíos a los que se enfrentan los s upervisores, lo que puede 
+ayudar a dar forma a futuros desarrollos para superar esos retos. 
+Hemos encontrado ejemplos de que la industria aseguradora está llevando a cabo 
+iniciativas sobre DEI, la mayoría de las veces sobre diversidad de género, y en algunos 
+casos con un énfasis  específico en cada jurisdicción. Las  acciones del sector  se ven 
+impulsadas por una serie de  influencias, entre las que se encuentra la opinión de que la 
+DEI ayuda a obtener mejores resultados empresariales. Aunque las acciones de la industria 
+a menudo comenzar on sin el impulso de los  supervisores de seguros, las partes 
+interesadas de la industria expresaron que los supervisores de seguros tienen un papel que 
+desempeñar para impulsar nuevas medidas, aunque con la advertencia de que los  
+supervisores deben evitar ser demasiado prescriptivos. 
+El examen del panorama actual de los trabajos sobre DEI de otras organizaciones 
+internacionales con directivas relacionadas con el sistema financiero revela un creciente 
+reconocimiento de los  beneficios de la DEI, pero señala l a oportunidad de que la IAIS 
+realice una valiosa y destacada contribución. 
+La IAIS tiene previsto seguir centrándose en la DEI mediante dos nuevos proyectos 
+centrados específicamente en la DEI. Uno examinará el vínculo entre la DEI dentro de la 
+institución de la aseguradora y su gobernanza, gestión de riesgos y cultura corporativa. El 
+otro examinará cómo las medidas de DEI en el ejercicio de la actividad de las aseguradoras, 
+y en su supervisión, pueden dar lugar a un trato más justo de los consumidores vulnerables, 
+desatendidos o con necesidades  diferentes en comparación con un perfil de consumidor 
+normativo o mayoritario. Además, la DEI  seguirá siendo un tema estratégico en todo el 
+programa de trabajo de la IAIS, con relevancia e interrelación anticipadas en otros trabajos 
+prioritarios, incluidos los de inclusión financiera, Fintech,  riesgo climático y brechas de 
+protección. 
+La IAIS seguirá resaltando sobre la importancia de la DEI para lograr mejores resultados 
+prudenciales y para los consumidores y una may or inclusión, y animará a la comunidad 
+supervisora y a la industria a seguir avanzando en las actividades sobre la DEI.

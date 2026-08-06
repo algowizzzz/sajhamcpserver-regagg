@@ -1,0 +1,1 @@
+Summary: # IAIS publishes comprehensive Application Paper on the supervision of climate-related risks in the insurance sector

@@ -1,0 +1,33 @@
+# IAIS publishes aggregate report on the peer review process on ICP 13 (Reinsurance and other forms of risk transfer)
+
+[21 Apr 2026](https://www.iais.org/2026/04/iais-publishes-aggregate-report-on-the-peer-review-process-on-icp-13-reinsurance-and-other-forms-of-risk-transfer/)
+
+in [Assessments](https://www.iais.org/category/assessment-report/), [Latest news](https://www.iais.org/category/latest-news/)
+
+The IAIS has published the aggregate assessment results and observations on the topic of “Reinsurance and other forms of risk transfer”, covering standards set out in Insurance Core Principle (ICP) 13.
+
+[The IAIS peer review process](https://www.iaisweb.org/activities-topics/implementation-assessment/peer-review-process/) (PRP) assesses the standards which apply to insurance supervision in all jurisdictions regardless of the level of development or sophistication of insurance sectors, or the type of insurance products or services being supervised.
+
+A total of 80 jurisdictions participated in the PRP, with every IAIS region represented. The assessment showed a high level of observance for ICP 13 and its standards. Eighty-five per cent of IAIS members received ratings of either Observed or Largely Observed, demonstrating that supervisors have, and are exercising, the necessary legal authority and supervisory practices.
+
+**About the PRP**
+
+The PRP aims to improve awareness on the nature and extent of any gaps in a jurisdiction’s supervisory and regulatory framework. It promotes the general understanding and observance of the IAIS’ supervisory material while fostering peer exchange. Conducted thematically, PRPs cover a defined set of ICPs and all IAIS members are invited to participate. The aggregate report includes illustrative examples of supervisory practices, offering valuable insights into the effective implementation of the assessed standards for jurisdictions to enhance their own implementation.
+
+**Read the assessment report [here](https://www.iais.org/uploads/2026/04/Aggregate-report-of-peer-review-of-reinsurance-and-other-forms-of-risk-transfer-relative-to-ICP-13.pdf)****.**
+
+**To learn more about the IAIS’ comprehensive assessment activities visit our**[**dedicated webpage**](https://www.iaisweb.org/activities-topics/implementation-assessment/)**.**
+
+21 Apr 2026
+
+[ICPs and ComFrame](https://www.iais.org/tag/icps-and-comframe/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2026%2F04%2Fiais-publishes-aggregate-report-on-the-peer-review-process-on-icp-13-reinsurance-and-other-forms-of-risk-transfer%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

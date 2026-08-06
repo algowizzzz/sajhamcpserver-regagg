@@ -1,0 +1,1 @@
+Summary: # Gerry Cross appointed as next Secretary General of the International Association of Insurance Supervisors

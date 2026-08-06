@@ -1,0 +1,141 @@
+Page 1 of 4 
+ 
+PRESS RELEASE 
+8 March 2021 
+ 
+CONTACT: Melanie Clowes-Haug 
+Melanie.Clowes-Haug@bis.org 
+ 
+ 
+Successful first year of monitoring of the global Insurance Capital 
+Standard (ICS) on route to adoption in 2024 
+• Despite the operational challenges of 2020, the first year of ICS monitoring saw strong 
+participation and engagement from insurance groups  
+• Participation in the ICS monitoring period will grow in 2021, with additional insurance 
+groups participating 
+• First ICS discussions amongst group-wide supervisors (GWS) with other involved 
+supervisors provided valuable input and feedback to enhance the ICS further 
+• The ICS aims to create a common language for supervisory discussions of group 
+solvency of Internationally Active Insurance Groups (IAIGs) to enhance global 
+convergence among group capital standards 
+ 
+Basel, Switzerland - The International Association of Insurance Supervisors (IAIS) has 
+completed the first year of monitoring for the Insurance Capital Standard (ICS). The ICS 
+aims to provide a globally comparable risk-based measure of capital adequacy of 
+International Active Insurance Groups (IAIGs) and a common language to facilitate effective 
+supervisory discussions of group solvency. The ultimate goal is a single ICS that includes a 
+common methodology by which one ICS achieves comparable, ie substantially the same, 
+outcomes across jurisdictions. 
+The IAIS Executive Committee (ExCo) last week reviewed results from the 2020 ICS data 
+collection and agreed to progress the 2021 ICS data collection with a small number of 
+revisions to address issues that were identified through the data analysis and from the 
+feedback received in the first year of the monitoring period. In June, the IAIS will publish the 
+updated ICS specifications for the second year of the monitoring period.  
+“We are pleased that despite the operational challenges of 2020, the first year of the ICS 
+monitoring period has been effective and has allowed for meaningful feedback and analyses 
+to support IAIS discussions on ICS performance,” said Vicky Saporta, IAIS ExCo Chair. 
+“With the completion of the first year of monitoring, we have taken another step towards our 
+ultimate goal of a single ICS.” 
+During this initial year of monitoring, the IAIS has for the first time received feedback 
+resulting from discussions amongst group-wide supervisors (GWS) and supervisory colleges 
+about ICS performance. This substantial and helpful feedback will contribute to further 
+improvements and planning for the second year of the monitoring period.
+
+Page 2 of 4 
+ 
+Thirty-nine volunteer groups participated in the first year of the ICS monitoring period despite 
+the extreme challenges of Covid-19. Additional volunteer groups will participate in 2021. The 
+IAIS continues to encourage participation across different jurisdictions and business models 
+to ensure that the ICS captures risk appropriately for all IAIGs. IAIS member supervisors 
+remain collectively committed to make participation as large as possible over time.  
+The Covid-19 pandemic has provided a valuable lens through which to assess the 
+performance of the ICS and evaluate the importance of a global insurance standard in 
+periods of global stress. To better understand the potential impact of Covid-19 on ICS 
+performance, the IAIS collected a stressed balance sheet based on actual holdings at end-
+March 2020, along with year-end 2019 data. Further observations from the stressed 
+conditions of 2020 will provide valuable information for any further refinements of ICS. 
+Concurrently, the IAIS recently completed a public consultation on a draft definition of 
+comparable outcomes and high-level principles to inform the development of the criteria that 
+will be used to assess whether the Aggregation Method (AM), being developed by the US 
+and other interested jurisdictions, provides comparable outcomes to the ICS. If deemed 
+comparable, the AM will be considered an outcome-equivalent approach for implementation 
+of the ICS as a prescribed capital requirement (PCR1). Despite a delay in the public 
+consultation due to the Covid-19 pandemic, feedback was received from a number of 
+stakeholders and is currently being reviewed by the IAIS. 
+“Accelerating global risks demonstrate the importance of a common language for 
+supervisory discussions of group solvency of IAIGs,” said Jonathan Dixon, IAIS Secretary 
+General. “The IAIS is committed to delivering an ICS that is fit for implementation by 
+supervisors by 2024.” 
+ 
+About the ICS: 
+The Insurance Capital Standard (ICS) aims to provide a globally comparable risk-based 
+measure of capital adequacy of International Active Insurance Groups (IAIG). The ultimate 
+goal is a single ICS that includes a common methodology by which one ICS achieves 
+comparable, ie substantially the same, outcomes across jurisdictions. 
+Approved in November 2019, ICS version 2.0 will be used during a five-year monitoring 
+period (2020-2024) for confidential reporting to group-wide supervisors (GWS) and 
+discussion in supervisory colleges. During the monitoring period, the ICS results will not be 
+used as a basis to trigger supervisory action.   
+The goal for the current phase of ICS development (ICS Version 2.0) is the delivery of a 
+capital standard that is fit for implementation by supervisors. The implementation of the ICS 
+will be conducted in two phases: (1) a five-year monitoring period (2020-2024) during which 
+the ICS will be used for confidential reporting to the GWS and discussion in supervisory 
+colleges; and (2) implementation of the ICS as a group-wide PCR. The performance of the 
+ICS will be assessed during the monitoring period, so that the ICS adopted as a PCR will be 
+                                                           
+1 Insurance Core Principle (ICP) 17.4 defines a PCR as a solvency control level above which the 
+supervisor does not intervene on capital adequacy grounds.
+
+Page 3 of 4 
+ 
+a global supervisory tool that builds mutual understanding and a common language for 
+discussions among group-wide and host supervisors. 
+ICS is the quantitative component of the Common Framework for the Supervision of IAIGs 
+(ComFrame). ComFrame is a comprehensive and outcome-focused framework aimed at 
+facilitating effective group-wide supervision of IAIGs, by providing qualitative and (in a future 
+phase) quantitative supervisory minimum requirements tailored to the international activity 
+and size of IAIGs. This should help supervisors address group-wide risks and avoid 
+supervisory gaps. One of the main objectives of ComFrame is to support coordination of 
+supervisory activities between the GWS and other involved supervisors. 
+About the ICS monitoring period:  
+The performance of the ICS will be monitored and assessed during this five-year period 
+(2020-2024).  
+The purpose of the monitoring period is to monitor the performance of the ICS over a period 
+of time, and not the capital adequacy of IAIGs. For this purpose, the monitoring period is 
+intended to be a period of stability for the reference ICS. This does not preclude possible 
+clarifications/refinements and correction of major flaws or unintended consequences 
+identified during the monitoring period to improve the ongoing development of the ICS.  
+The feedback received during the monitoring period will be used to further improve the ICS. 
+In addition to the feedback from supervisors, the IAIS will consider feedback from 
+stakeholder engagement, a public consultation and the results of an economic impact 
+assessment, all of which could result in changes to ICS Version 2.0. During the monitoring 
+period, the IAIS intends to maintain the same level of engagement with stakeholders as it 
+had during field-testing. 
+About the Aggregation Method:  
+The United States (US) and other interested jurisdictions are developing an Aggregation 
+Method (AM) to a group capital calculation. Although this is not part of ICS Version 2.0, the 
+IAIS appreciates the significance of this development and therefore is helping to collect data 
+from the US and other interested jurisdictions that will aid in the development of the AM.  
+The IAIS aims to be in a position by the end of the monitoring period to assess whether the 
+AM provides comparable outcomes to the ICS. If deemed comparable, the AM will be 
+considered an outcome-equivalent approach for implementation of ICS as a PCR. 
+About IAIGs 
+To date, 48 IAIGs have been identified by relevant group-wide supervisors (GWS) from 16 
+jurisdictions. Of those 48 IAIGs, the identity of 40 IAIGs has been publicly disclosed by 
+relevant GWS from 14 jurisdictions. This register of publicly disclosed IAIGs can be found on 
+the IAIS website
+. The active participation of IAIGs in the monitoring period is very important 
+to provide effective feedback on the ICS (covering both the reference ICS and, if applicable, 
+additional reporting at the discretion of the GWS).   
+About the IAIS 
+The IAIS is a global standard-setting body whose objectives are to promote effective and 
+globally consistent supervision of the insurance industry to develop and maintain fair, safe
+
+Page 4 of 4 
+ 
+and stable insurance markets for the benefit and protection of policyholders and to contribute 
+to the maintenance of global financial stability. Its membership includes insurance 
+supervisors from more than 200 jurisdictions. For more information, please visit 
+www.iaisweb.org and follow us on LinkedIn: 
+IAIS – International Association of Insurance 
+Supervisors.

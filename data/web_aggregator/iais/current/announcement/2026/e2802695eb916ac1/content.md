@@ -1,0 +1,17 @@
+1. [Home](https://www.iais.org/)
+2. Tony Chan
+
+### **Tony Chan**
+
+*Vice Chair, IAIS Implementation Assessment Committee (IAC)  
+Associate Director, Policy and Legislation, Hong Kong Insurance Authority*
+
+Tony is the Associate Director, Policy and Legislation of the Hong Kong Insurance Authority.
+
+Tony worked with the then Office of the Commissioner of Insurance in 1990 and had been involved in the supervision of Hong Kong insurance companies, both life and non-life, in different positions of the Office. The scope of his experience has spanned all aspects of insurance regulation, including prudential supervision of insurers, formulation and promulgation of regulatory policies on the insurance industry, liaison with international and Mainland regulatory authorities.
+
+Tony joined the Hong Kong Insurance Authority in 2017 as the Associate Director of Policy and Legislation Division. He is spearheading major projects being pursued by the Insurance Authority including development of the Risk-based capital regime, promotion of Fintech development of the insurance industry of Hong Kong; and green and sustainable insurance.
+
+Tony is a qualified accountant and holds an MBA and BA degree.
+
+![](https://www.iais.org/uploads/2022/01/Tony-Chan-300x415.jpg)

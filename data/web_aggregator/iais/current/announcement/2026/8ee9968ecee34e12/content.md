@@ -1,0 +1,31 @@
+# 2022 IAIS Annual Conference shares updates on key IAIS activities and explores role of the insurance sector (video replays available)
+
+[28 Nov 2022](https://www.iais.org/2022/11/2022-iais-annual-conference-shares-updates-on-key-iais-activities-and-explores-role-of-the-insurance-sector-video-replays-available/)
+
+in [Annual Conference](https://www.iais.org/category/annual-conference/), [Latest news](https://www.iais.org/category/latest-news/), [Stakeholder events](https://www.iais.org/category/stakeholder-events/)
+
+As the IAIS’ annual flagship event, the 2022 Annual Conference welcomed over 350 participants from 60 jurisdictions to Santiago de Chile on 10 – 11 November.
+
+Panellists and participants engaged in rich conversations, exploring the changing landscape and the role of the insurance sector in meeting emerging economic and social challenges. Diversity, equity and inclusion; changing consumer preferences; macroeconomic risks; climate risk and the Insurance Capital Standard (ICS) were the focus on the main stage.
+
+Several satellite meetings were also organised, including a joint IAIS-International Monetary Fund (IMF) workshop on risk-based solvency, an Access to Insurance Initiative (A2ii) lunch session on the conclusions from its innovation labs and a session showcasing women leaders in insurance and supervision and their experiences.
+
+Visit our [**event website**](https://iaisweb.us20.list-manage.com/track/click?u=863024fec344714c0eec40618&id=849503048b&e=29b51bff00) to read the summaries of the sessions, watch the replays and see the pictures from the event.
+
+IAIS committee meetings and AGM preceded the Annual Conference, taking place 7 – 10 November. These meetings marked the culmination of work on several key projects. Learn more about these on our [**News page**](https://iaisweb.us20.list-manage.com/track/click?u=863024fec344714c0eec40618&id=4b7a086ddc&e=29b51bff00).
+
+A special thank you to the Financial Market Commission (CMF) of Chile for hosting the event.
+
+![](https://www.iais.org/uploads/2022/09/Santiago_AC_banner_web-1024x437.jpg)
+
+29 Dec 2022
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2022%2F11%2F2022-iais-annual-conference-shares-updates-on-key-iais-activities-and-explores-role-of-the-insurance-sector-video-replays-available%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

@@ -1,0 +1,25 @@
+# Save the date! IAIS Global Seminar 2025
+
+[26 Mar 2025](https://www.iais.org/2025/03/the-event-will-take-place-virtually-on-8-10-july/)
+
+in [Events](https://www.iais.org/category/events/), [Global Seminar](https://www.iais.org/category/global-seminar/), [Latest news](https://www.iais.org/category/latest-news/), [Stakeholder events](https://www.iais.org/category/stakeholder-events/)
+
+Mark your calendar for the upcoming **IAIS Global Seminar 2025**. The event will take place virtually on **8-10 July**, enabling you to join insurance thought leaders, supervisors and experts from around the globe on key issues facing the sector. Each day will have sessions from **13:00 – 15:00 (CEST)**.
+
+This year’s Global Seminar will feature an IAIS Executive Committee Leadership Dialogue, three separate Committee Chair Engagement sessions as well as two panel discussions. In one panel we will discuss the risks in the insurance sector and the second panel will address the topic of natural catastrophe protection gaps.
+
+Stay tuned for more details, including the list of speakers, full programme and registration information.
+
+We look forward to having you join us at the IAIS Global Seminar 2025!
+
+26 Mar 2025
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2025%2F03%2Fthe-event-will-take-place-virtually-on-8-10-july%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

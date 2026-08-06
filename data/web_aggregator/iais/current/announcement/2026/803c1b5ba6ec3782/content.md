@@ -1,0 +1,405 @@
+1. [Home](https://www.iais.org/)
+2. [News and Events](https://www.iais.org/news-and-events/)
+3. 2024 Annual Conference
+
+## IAIS Annual Conference 2024
+
+The IAIS Annual Conference took place on 5-6 December 2024 in Cape Town, South Africa.
+
+The conference brought together over 500 participants from more than 105 jurisdictions and featured an excellent line-up of speakers, engaging panel discussions and interactive roundtables to explore pivotal topics around the theme “licence to operate: the role of insurance to strengthen societal resilience”.
+
+A special thank you to the **[Financial Sector Conduct Authority](https://www.fsca.co.za/)** and the Prudential Authority within the **[South African Reserve Bank](https://www.resbank.co.za/)** for hosting the event.
+
+##### Overview
+
+* [**Session replays**](#paneldiscussions)
+* **[Photo gallery](#photogallery)**
+
+### Welcome remarks
+
+The Governor of the South African Reserve Bank, Lesetja Kganyago, provided opening remarks on the topic of insurance and societal resilience.
+
+Read more
+
+The Governor also spoke on current challenges, including insurance protection gaps, climate change and emerging technologies such as AI.
+
+Innovations led by the IAIS and insurance supervisors to address the financial stability risks have been significant, including the [Holistic Framework](https://www.iais.org/activities-topics/financial-stability/holistic-framework/), the [Global Monitoring Exercise](https://www.iais.org/activities-topics/financial-stability/gimar/), and the recently adopted [Insurance Capital Standard (ICS)](https://www.iais.org/activities-topics/standard-setting/insurance-capital-standard/).
+
+The Governor shared his hope that “looking back, historians will find our efforts in responding to crises as enlightened, prudent and equal to the challenges. They would see we took a systemic perspective, doing our best to understand the risks, not just within firms but for the system as a whole and specifically building resilience within the insurance sector and supporting global financial stability.”
+
+Speakers
+
+Lesetja Kganyago – Governor of the South African Reserve Bank
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gov3-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gov3.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gov5-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gov5.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gov1-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gov1.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gov4-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gov4.jpg)
+
+### IAIS Executive Committee Town Hall and ICS panel
+
+The IAIS leadership updated on the finalisation and implementation of the Insurance Capital Standard (ICS) and discussed the IAIS’ ambitious work programme for the next five years, as set out in the [Strategic Plan](https://www.iais.org/about-the-iais/strategic-plan-and-roadmap/).
+
+Read more
+
+The IAIS Executive Committee, IAIS Champions and Committee Chairs spoke on climate change, AI, diversity, equity and inclusion and natural catastrophe protection gaps.
+
+In the next five-year period, the IAIS will shift from an intensive policy-setting agenda to focusing on globally consistent implementation of supervisory material, as well as maintaining the focus on assessing and monitoring key trends affecting the insurance sector.
+
+As discussed in the [ICS](https://www.iais.org/activities-topics/standard-setting/insurance-capital-standard/) panel, the IAIS is at an inflection point, having achieved the adoption of the ICS and now moving into a phase of ICS implementation. IAIS leadership thanked members and stakeholders for their collaborative efforts which made this historic adoption of a prescribed capital requirement for internationally active insurance groups (IAIGs) possible.
+
+The speakers also answered audience questions related to structural shifts in the life insurance sector and on the coordination with the FSB, for instance including on their published list of [insurers subject to resolution standards](https://www.iais.org/2024/12/iais-welcomes-the-release-of-the-fsbs-first-list-of-insurers-subject-to-resolution-planning-standards-consistent-with-the-fsb-key-attributes-2/).
+
+Speakers
+
+Shigeru Ariizumi – Chair, IAIS ExCo and Vice Minister for International Affairs, Financial Services Agency of Japan  
+Peter Braumüller – Chair, IAIS Implementation and Assessment Committee and Managing Director of Insurance and Pension Supervision, Austrian Financial Market Authority  
+Gerry Cross – IAIS Diversity, Equity and Inclusion Champion and Director of Financial Regulation Policy and Risk, Central Bank of Ireland  
+Dieter Hendrickx – Chair, IAIS Macroprudential Committee and Head, Prudential Policy Insurance, National Bank of Belgium  
+Petra Hielkema – IAIS FinTech Champion and Chair, European Insurance and Occupational Pensions Authority  
+Andrew N. Mais – Vice Chair, IAIS ExCo, Insurance Commissioner of Connecticut and President, National Association of Insurance Commissioners  
+Siham Ramli – Vice Chair, IAIS ExCo and Director of Communication and International Relations, Autorité de Contrôle des Assurances et de la Prévoyance Sociale Morocco  
+Matt Walker – Chair, IAIS Policy Development Committee and Manager, Insurance Supervision and Regulation Section, Federal Reserve Board of the United States  
+Daniel Wang – Chair, IAIS Climate Risk Steering Group and Executive Director, Insurance Department, Monetary Authority of Singapore
+
+*Moderator:*  
+Jonathan Dixon – IAIS Secretary General
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/TownHall6-150x150.jpg)](https://www.iais.org/uploads/2024/12/TownHall6.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/TownHall15-150x150.jpg)](https://www.iais.org/uploads/2024/12/TownHall15.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/TownHall10-150x150.jpg)](https://www.iais.org/uploads/2024/12/TownHall10.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/TownHall4-150x150.jpg)](https://www.iais.org/uploads/2024/12/TownHall4.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/TownHall7-150x150.jpg)](https://www.iais.org/uploads/2024/12/TownHall7.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/TownHall8-150x150.jpg)](https://www.iais.org/uploads/2024/12/TownHall8.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/TownHall9-150x150.jpg)](https://www.iais.org/uploads/2024/12/TownHall9.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/TownHall11-150x150.jpg)](https://www.iais.org/uploads/2024/12/TownHall11.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/TownHall12-150x150.jpg)](https://www.iais.org/uploads/2024/12/TownHall12.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/TownHall13-150x150.jpg)](https://www.iais.org/uploads/2024/12/TownHall13.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/TownHall14-150x150.jpg)](https://www.iais.org/uploads/2024/12/TownHall14.jpg)
+
+### Risks in the global insurance sector
+
+In this session, panellists noted the growth in global financial assets, while the investable universe has not expanded at a similar scale. As a result, financial markets may have become more volatile, as a larger volume of similar assets are being traded, leading to search for diversification opportunities.
+
+Read more
+
+Credit risks have also increasingly shifted from banks to pension funds and insurers. This takes place as insurers and pension funds shift from defined benefit to defined contribution products. Overall, a large increase in private credit markets is observed, interconnected with life insurance.
+
+Private-equity owned reinsurers, through asset intensive reinsurance transactions, also now hold substantial life insurance assets. This leads to increased supervisory scrutiny, for example requiring supervisory preapproval of asset-intensive reinsurance transactions. Conflicts of interest, which may potentially arise, for example in case reinsurers invest in assets originated by the private equity owner, should be carefully monitored.
+
+The panellists also emphasised the increased relevance of non-financial risks, spanning geopolitics, operational resilience in a world of increased reliance on third parties, digitalisation and AI.
+
+Overall, the panel highlighted the importance of continued global monitoring of these risks and trends through the [IAIS Global Monitoring Exercise](https://www.iais.org/activities-topics/financial-stability/gimar/), and the relevance of the IAIS strategic themes focusing on these aspects.
+
+Speakers
+
+**Andrea Maechler –** Deputy General Manager, Bank for International Settlements  
+**Gita Salden –**  Executive Board Member of Supervision, De Nederlandsche Bank **Nobuyasu Sugimoto –** Deputy Division Chief, Financial Supervision and Regulation Division, Monetary and Capital Markets Department, International Monetary Fund  
+**Halina von dem Hagen –** Chief Risk Officer, Manulife
+
+***Moderator******:*****Andrew N. Mais –** Vice Chair, IAIS ExCo and President, National Association of Insurance Commissioners
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Risks2-150x150.jpg)](https://www.iais.org/uploads/2024/12/Risks2.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Risks1-150x150.jpg)](https://www.iais.org/uploads/2024/12/Risks1.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Risks3-150x150.jpg)](https://www.iais.org/uploads/2024/12/Risks3.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Risks4-150x150.jpg)](https://www.iais.org/uploads/2024/12/Risks4.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Risks5-150x150.jpg)](https://www.iais.org/uploads/2024/12/Risks5.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Risks6-150x150.jpg)](https://www.iais.org/uploads/2024/12/Risks6.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Risks7-150x150.jpg)](https://www.iais.org/uploads/2024/12/Risks7.jpg)
+
+### Keynote address
+
+Amina J. Mohammed, Deputy Secretary General of the United Nations and Chair of the United Nations Sustainable Development Group, provided a recorded keynote address on the Sustainable Development Goals (SDGs).
+
+Read more
+
+She set out the need to focus on achieving the SDGs to hit the 2030 target and called for further rapid action to achieve climate targets.
+
+She also challenged the global insurance sector to play an active role in accelerating action on the SDGs and the climate transition.
+
+Speaker
+
+**Amina J. Mohammed**– Deputy Secretary-General, United Nations and Chair, United Nations Sustainable Development Group
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Keynote1-150x150.jpg)](https://www.iais.org/uploads/2024/12/Keynote1.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery6-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gallery6.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery3-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gallery3.jpg)
+
+### Diversity, equity and inclusion in insurance
+
+The opening remarks of the panel covered the topic of broad-based black economic empowerment in South Africa, and the panel agreed there is an urgent need for [diversity, equity and inclusion (DEI)](https://www.iais.org/activities-topics/diversity-equity-and-inclusion/) to resonate through society.
+
+Read more
+
+The panellists discussed their perspectives on how DEI is a strategic enabler for better outcomes in the insurance sector – across business performance, [financial inclusion](https://www.iais.org/activities-topics/financial-inclusion/) and the fair treatment of consumers.
+
+The global trends of technology, innovation and globalisation present both opportunities and risks to financial inclusion. The panellists stressed that embedding the prioritisation of DEI in a company’s values is critical for success and that DEI progress should be regarded as a journey where challenges will arise and persistence is needed.
+
+Speakers
+
+**Fatou Giwa –** Women’s Insurance Program Global Lead, International Finance Corporation  
+**Bongiwe Mncube** **–** Group Diversity, Equity and Inclusion Lead Swiss Re and COO, Swiss Re Africa  
+**Viviene Pearson –** CEO, South African Insurance Association **Butši Tladi –** President, World Federation of Insurance Intermediaries
+
+***Moderator*****:  
+Gerry Cross –** IAIS Diversity, Equity and Inclusion Champion and Director of Financial Regulation Policy and Risk, Central Bank of Ireland
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/DEI1-150x150.jpg)](https://www.iais.org/uploads/2024/12/DEI1.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/DEI3-150x150.jpg)](https://www.iais.org/uploads/2024/12/DEI3.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/DEI4-150x150.png)](https://www.iais.org/uploads/2024/12/DEI4.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/DEI5-150x150.png)](https://www.iais.org/uploads/2024/12/DEI5.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/DEI6-150x150.png)](https://www.iais.org/uploads/2024/12/DEI6.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/DEI7-150x150.png)](https://www.iais.org/uploads/2024/12/DEI7.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/DEI2-150x150.jpg)](https://www.iais.org/uploads/2024/12/DEI2.jpg)
+
+### Engagement with IAIS committee chairs: Implementation and Assessment Committee
+
+Peter Braumüller, Implementation and Assessment Committee Chair, shared updates from the [implementation and assessment](https://www.iais.org/activities-topics/implementation-assessment/) work at the IAIS.
+
+Read more
+
+With the new Strategic Plan 2025-2029 in place, the IAIS will place an even stronger focus on supporting members in understanding their observance of the IAIS supervisory material through robust implementation assessments.
+
+In addition, the IAIS will facilitate knowledge sharing and [capacity building](https://www.iais.org/activities-topics/capacity-building/), develop supporting materials to assist members in the application of the [IAIS supervisory material](https://www.iais.org/activities-topics/supporting-supervisory-practices/), and enhance supervisory cooperation and coordination through the [IAIS Multilateral Memorandum of Understanding](https://www.iais.org/about-the-iais/mmou/).
+
+The Q&A covered the implementation assessment of the ICS, with Peter noting that assessments will build on the IAIS’ experience of producing robust and credible implementation assessments of our supervisory material.
+
+[View and download the presentation](https://www.iais.org/uploads/2024/12/AC-Committee-chair-engagement-session-IAC.pdf).
+
+Speaker
+
+**Peter Braumüller –**Chair, IAIS Implementation and Assessment Committee and Managing Director of Insurance and Pension Supervision, Austrian Financial Market Authority
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/IAC3-150x150.png)](https://www.iais.org/uploads/2024/12/IAC3.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/IAC2-150x150.png)](https://www.iais.org/uploads/2024/12/IAC2.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/IAC1-150x150.png)](https://www.iais.org/uploads/2024/12/IAC1.png)
+
+### Engagement with IAIS committee chairs: Macroprudential Committee
+
+Dieter Hendrickx, Macroprudential Committee Chair, provided an update on the IAIS’ [financial stability](https://www.iais.org/activities-topics/financial-stability/) work.
+
+Read more
+
+He covered the key risks the sector faces in the current macroeconomic environment, including geopolitical risks, digitalisation and structural shifts in the life insurance sector.
+
+In response to a question about asset-intensive reinsurance, Dieter noted, “We observe a range of different practices around asset-intensive reinsurance. The planned IAIS Issues Paper and follow-up work will help deepen understanding of these contracts and provide best practices on how such risks are managed and supervised.”
+
+[View and download the presentation](https://www.iais.org/uploads/2024/12/AC-Committee-chair-engagement-session-MPC.pdf).
+
+Speakers
+
+**Dieter Hendrickx –** Chair, IAIS Macroprudential Committee and Head, Prudential Policy Insurance, National Bank of Belgium
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/MPC3-150x150.jpg)](https://www.iais.org/uploads/2024/12/MPC3.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/MPC2-150x150.png)](https://www.iais.org/uploads/2024/12/MPC2.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/MPC1-150x150.png)](https://www.iais.org/uploads/2024/12/MPC1.png)
+
+### Engagement with IAIS committee chairs: Policy Development Committee
+
+Matt Walker, Policy Development Committee Chair, provided an update on the work of his committee including what’s next for the IAIS following the adoption of the [ICS](https://www.iais.org/activities-topics/standard-setting/insurance-capital-standard/).
+
+Read more
+
+In 2025 the IAIS will start developing the ICS assessment methodology. In doing so, the IAIS will engage with industry and stakeholders.
+
+Matt also updated on ongoing work on [recovery and resolution](https://www.iais.org/2024/03/public-consultation-on-draft-revisions-to-supervisory-material-related-to-the-holistic-framework/), [operational resilience](https://www.iais.org/2024/08/public-consultation-on-the-draft-application-paper-on-operational-resilience-objectives-and-toolkit/) and [conduct and culture](https://www.iais.org/activities-topics/conduct-and-culture/). He also answered questions from the audience including on remuneration, the role of policyholder protection schemes in resolution planning, and the importance of embedding consumer issues into the overall work of the IAIS.
+
+[View and download the presentation](https://www.iais.org/uploads/2024/12/AC-Committee-chair-engagement-session-PDC.pdf).
+
+Speaker
+
+**Matt Walker –**Chair, IAIS Policy Development Committee and Manager, Insurance Supervision and Regulation Section, Federal Reserve Board of the United States
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/PDC1-150x150.png)](https://www.iais.org/uploads/2024/12/PDC1.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/PDC2-150x150.png)](https://www.iais.org/uploads/2024/12/PDC2.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/PDC3-150x150.png)](https://www.iais.org/uploads/2024/12/PDC3.png)
+
+### View from the C-Suite
+
+CEOs from global insurers were brought together at this panel to discuss the key challenges the global insurance sector faces in the medium- to long-term and what needs to be done to address these.
+
+Read more
+
+The discussion focused on the importance of a strong and stable insurance sector to enable economic growth, societal resilience and highlighted some of the key macro-challenges that are impacting the sector.
+
+The panellists also reflected on the biggest challenges the global insurance sector faces in the next 5-10 years and the actions insurers need to take to address these risks. These included the expected impact of climate change, specifically natural disasters, on the availability and pricing of insurance in the very different markets in which insurers operate and what insurers can do to address these issues.
+
+The CEOs shared the same vision of managing risks and making insurance more accessible and affordable. They all echoed that insurance must be a catalyst for positive change.
+
+Speakers
+
+**Charles Brindamour –** CEO, Intact Financial Corporation   
+**Tony Cheng –** President and CEO, Reinsurance Group of America   
+**Adrian Gore –** Founder, Executive Director and Group CEO, Discovery   
+**Pauline Leclerc-Glorieux –** CEO, BNP Paribas Cardif  
+**Lee Yuan Siong –** Group Chief Executive and President, AIA and Chairman, Geneva Association
+
+***Moderator*****:  
+Petra Hielkema –** IAIS FinTech Champion and Chair, European Insurance and Occupational Pensions Authority
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/C4-150x150.png)](https://www.iais.org/uploads/2024/12/C4.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/C1-150x150.jpg)](https://www.iais.org/uploads/2024/12/C1.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/C5-150x150.png)](https://www.iais.org/uploads/2024/12/C5.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/C2-150x150.jpg)](https://www.iais.org/uploads/2024/12/C2.jpg)
+
+### Societal role of insurance
+
+The panel drew together two days of discussions at the Annual Conference by shining a spotlight on the societal role of insurance, especially in emerging and developing economies.
+
+Read more
+
+The panellists set out a call to action for the insurance sector to contribute to a safer and more resilient world in the face of numerous societal challenges. The audience polls also revealed that the top priority is to develop products that meet evolving consumer needs.
+
+Critical to success will be empowering consumers through education, serving vulnerable communities, embracing innovation and creativity, and delivering on promises to build trust. The role of supervisors is to catalyse action, support innovation and facilitate knowledge and experience sharing. There’s much more to do but the panellists agreed that there is great potential for insurance to do good.
+
+Speaker
+
+**Carmine Di Noia –** Director, Directorate for Financial and Enterprise Affairs, Organisation for Economic Co-operation and Development   
+**Grace Muradzikwa –** Commissioner, Insurance and Pensions Commission  
+**Izak Smit –** Vice Chairman, International Cooperative and Mutual Insurance Federation  
+**Delphine Traoré –**  CEO, General Insurance, Sanlam Allianz
+
+***Moderator*****:   
+Farzana Badat –** Deputy Commissioner, Financial Sector Conduct Authority
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Societal8-150x150.png)](https://www.iais.org/uploads/2024/12/Societal8.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Societal7-150x150.png)](https://www.iais.org/uploads/2024/12/Societal7.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Societal10-150x150.png)](https://www.iais.org/uploads/2024/12/Societal10.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Societal9-150x150.png)](https://www.iais.org/uploads/2024/12/Societal9.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Societal4-150x150.jpg)](https://www.iais.org/uploads/2024/12/Societal4.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Societal5-150x150.jpg)](https://www.iais.org/uploads/2024/12/Societal5.jpg)
+
+### Roundtables
+
+The conference featured seven engaging roundtable discussions around the conference theme “Licence to operate: the role of insurance in strengthening societal resilience”.
+
+Topics included the role of insurance in supporting the Sustainable Development Goals (SDGs), life insurers’ shift towards alternative assets, tech and insurance, financial inclusion, capacity building as well as a roundtable on the ICS and Risk Based Solvency (RBS) frameworks.
+
+Read more
+
+Roundtable discussions filled the agenda on Thursday and Friday, providing ample opportunity for stakeholders and members to engage in deep dive discussions and provide feedback on IAIS work.
+
+**Tech and insurance**  
+Building on the IAIS’ draft Application Papers on AI and operational resilience objectives, participants discussed risks associated with the growing use of third-party service providers, how to ensure good consumer outcomes as Generative AI becomes more prevalent, and the importance of having mechanisms that encourage information sharing.
+
+**Financial inclusion and fair treatment of diverse consumers**  
+Participants discussed challenges and potential solutions to achieving more inclusion and better consumer outcomes. Key points on the radar:   
+• Rethinking product design  
+• Building trust between insurers, intermediaries and consumers  
+• Distribution using technology that the consumer has access to   
+• Consumer information and education
+
+**ICS and risk-based solvency (RBS)**  
+In this roundtable session participants divided themselves amongst tables according to topics of interest. Some participants discussed the potential impacts and opportunities from the implementation of the ICS, including how local implementation and assessment might work and how this will affect insurers and stakeholders.
+
+RBS tables discussed the need for enhancing capacity building and training for successful RBS implementation, developing practical, country-specific frameworks and the importance of early and continuous stakeholder engagement amongst many other topics.
+
+**Capacity building**  
+Finally, IAIS Implementation partners provided an overview of their activities aimed at supporting supervisory capacity building. Key areas of support range from the basics concept of insurance supervision to implementing risk-based solvency regimes and addressing key trends and aligned with the IAIS five-year strategic plan. Discussions also covered more targeted issues such as leadership skills, organisational resourcing a, and product design for vulnerable customers through structured public-private partnerships.
+
+# 
+
+# 
+
+######
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Roundtable2-150x150.jpg)](https://www.iais.org/uploads/2024/12/Roundtable2.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Roundtable3-150x150.jpg)](https://www.iais.org/uploads/2024/12/Roundtable3.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Roundtable4-150x150.png)](https://www.iais.org/uploads/2024/12/Roundtable4.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Roundtable5-150x150.png)](https://www.iais.org/uploads/2024/12/Roundtable5.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Roundtable6-150x150.png)](https://www.iais.org/uploads/2024/12/Roundtable6.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Roundtable7-150x150.png)](https://www.iais.org/uploads/2024/12/Roundtable7.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Roundtable8-150x150.png)](https://www.iais.org/uploads/2024/12/Roundtable8.png)
+
+### Closing remarks
+
+The IAIS Annual Conference 2024 closed with Jonathan Dixon, IAIS Secretary General, reflecting on conference learnings, the IAIS’ 30th anniversary and the adoption of the [ICS](https://www.iais.org/activities-topics/standard-setting/insurance-capital-standard/).
+
+Read more
+
+He emphasised how diversity and inclusion are part of the IAIS’ DNA, which has long been nurtured at the Association – and how the Annual Conference has shown that common bonds amongst the global insurance supervisory community have allowed us to finalise even the most challenging of global standards – and to cross the finish line together.
+
+“We start the next chapter of our journey well-fortified. Which is good, because as we heard this week, the role for the insurance sector – and insurance supervisors – to be part of the solution to the pressing challenges of societal resilience is greater than ever,” said Jonathan.
+
+Speakers
+
+**Jonathan Dixon –** IAIS Secretary General
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/JD1-150x150.jpg)](https://www.iais.org/uploads/2024/12/JD1.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery11-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gallery11.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/JD2-150x150.jpg)](https://www.iais.org/uploads/2024/12/JD2.jpg)
+
+## Photo gallery
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery14-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gallery14.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery1-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gallery1.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery17-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gallery17.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery2-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gallery2.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery13-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gallery13.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery4-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gallery4.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery15-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gallery15.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery9-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gallery9.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery7-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gallery7.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery18-150x150.png)](https://www.iais.org/uploads/2024/12/Gallery18.png)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery10-150x150.jpg)](https://www.iais.org/uploads/2024/12/Gallery10.jpg)
+
+[![IAIS Annual Conference 2024](https://www.iais.org/uploads/2024/12/Gallery19-150x150.png)](https://www.iais.org/uploads/2024/12/Gallery19.png)

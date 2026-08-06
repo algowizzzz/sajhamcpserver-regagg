@@ -1,0 +1,25 @@
+# Registration opens for virtual stakeholder event on accounting and auditing
+
+[5 Apr 2023](https://www.iais.org/2023/04/registration-opens-for-virtual-stakeholder-event-on-accounting-and-auditing/)
+
+in [Latest news](https://www.iais.org/category/latest-news/), [Stakeholder events](https://www.iais.org/category/stakeholder-events/)
+
+The IAIS will host a virtual stakeholder event on **Thursday, 11 May 2023 from 15:30 to 16:30 CEST**, to provide updates on the Accounting and Auditing Working Group’s activities and gather feedback on key matters of interest.
+
+If you wish to participate in the webinar, please register [online](https://bis.webex.com/weblink/register/rec244ba78a804b4916480f56113ab19d). Dial-in details will be sent to you immediately after registration.
+
+If you have any questions, please send an email to [iais@bis.org](mailto:iais@bis.org).
+
+5 Apr 2023
+
+[Accounting and auditing](https://www.iais.org/tag/accounting-and-auditing/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2023%2F04%2Fregistration-opens-for-virtual-stakeholder-event-on-accounting-and-auditing%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

@@ -1,0 +1,23 @@
+# ICS online tool available now
+
+[3 Dec 2025](https://www.iais.org/2025/12/ics-online-tool-available-now/)
+
+in [Latest news](https://www.iais.org/category/latest-news/)
+
+The IAIS has launched an interactive online tool, providing an easy-to-access compendium of the Insurance Capital Standard (ICS) Level 1 and Level 2 texts, together with explanatory content and examples to help IAIS members navigate the standard and support its implementation.
+
+To access the ICS online tool, click [here](https://www.iais.org/ics-online-tool/).
+
+3 Dec 2025
+
+[Insurance Capital Standard (ICS)](https://www.iais.org/tag/insurance-capital-standard/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2025%2F12%2Fics-online-tool-available-now%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

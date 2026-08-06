@@ -1,0 +1,86 @@
+# Public consultation on climate risk supervisory guidance
+
+[28 Oct 2024](https://www.iais.org/2024/10/public-consultation-on-climate-risk-supervisory-guidance/)
+
+in [Application Papers](https://www.iais.org/category/application-papers/), [closed consultations](https://www.iais.org/category/closed-consultations/), [Consultations](https://www.iais.org/category/consultations/), [Latest news](https://www.iais.org/category/latest-news/), [Supervisory and supporting material](https://www.iais.org/category/supervisory-and-supporting-material/)
+
+[Consultation](https://www.iais.org/2024/10/public-consultation-on-climate-risk-supervisory-guidance/)
+
+[Stakeholder event](https://www.iais.org/events/public-background-session-on-the-public-consultation-on-climate-risk-supervisory-guidance/)
+
+[Resolution of comments: Disclosure](https://www.iais.org/uploads/2025/04/Resolution-of-consultation-comments-on-Draft-Application-Paper-on-public-disclosure-and-supervisory-reporting-of-climate.pdf)
+
+[Resolution of comments: Macroprudential](https://www.iais.org/uploads/2025/04/Resolution-of-consultation-comments-on-Supporting-material-on-macroprudential-and-group-supervision.pdf)
+
+[Final paper](https://www.iais.org/uploads/2025/04/Application-Paper-on-the-supervision-of-climate-related-risks-in-the-insurance-sector.pdf)
+
+**The consultation closed on 28 October 2024.**
+
+**Background information**
+
+Climate change is a key strategic theme for the IAIS as it is a source of financial risk, which impacts the resilience of individual insurers and could lead to financial stability risk. An adequate response from supervisors to climate-related risks will support the objectives of insurance supervision of protecting policyholders, contributing to financial stability and promoting the maintenance of a fair, safe and stable insurance market.
+
+To promote a globally consistent approach and address any gaps in the global framework for insurance supervision, the IAIS is conducting a series of four public consultations on proposed changes to guidance in various Insurance Core Principles (ICPs) and on new supporting material to better incorporate climate risk.
+
+To learn more about the other climate risk consultations, the other IAIS work in relation to climate risk, including our work on financial stability analysis and on capacity building, visit our [dedicated page on climate risk](https://www.iaisweb.org/activities-topics/climate-risk/).
+
+**Consultation**
+
+This fourth consultation on climate risk in the insurance sector includes proposed new supporting material to better reflect climate-related risk as part of effective supervisory practice. It covers issues related to supervisory reporting and public disclosure, as well as macroprudential considerations and supervisory cooperation. The consultation encompasses two documents:
+
+* [**Draft Application Paper on public disclosure and supervisory reporting of climate risk**](https://www.iaisweb.org/uploads/2024/08/Draft-Application-Paper-on-public-disclosure-and-supervisory-reporting-of-climate-risk.pdf)**:**This paper provides supervisors with advice on considerations related to the development of supervisory reporting (ICP 9) and public disclosure regimes (ICP 20). It is important for supervisors to consider the issues of climate-related financial disclosure and supervisory reporting holistically to ensure that adequate information is shared with policyholders, market participants and supervisors. This Application Paper therefore considers these issues in tandem and helps supervisors consider how approaches to addressing these matters may be tailored to the individual needs of their respective jurisdictions.
+* [**Draft supporting material on macroprudential and group supervisory issues and climate risk**](https://www.iaisweb.org/uploads/2024/08/Draft-supporting-material-on-macroprudential-and-group-supervisory-issues-and-climate-risk.pdf)**:**This document provides further advice, illustrations, recommendations and examples of good practice to supervisors on how ICP 24 (Macroprudential Supervision) may be implemented in the context of climate-related risk drivers. It builds on the existing [Application Paper on Macroprudential Supervision](https://www.iaisweb.org/uploads/2022/01/210830-Application-Paper-on-Macroprudential-Supervision.pdf). The draft material also considers the need for climate-related risks to be embedded in group-wide supervision of insurers, consistent with ICP 25 (Group-wide supervision).
+
+**A public background session** webinar was held on **Tuesday 27 August** to present the documents and answer any questions from stakeholders. Click [here](https://www.iaisweb.org/events/public-background-session-on-the-public-consultation-on-climate-risk-supervisory-guidance) to watch the recording.
+
+### [Application Paper on the supervision of climate related risks in the insurance sector](https://www.iais.org/uploads/2025/04/Application-Paper-on-the-supervision-of-climate-related-risks-in-the-insurance-sector.pdf) 16 Apr 2025
+
+The Application Paper provides a comprehensive overview of how the IAIS’ Insurance Core Principles (ICPs) can be applied to address the growing risks from climate-related risks.
+
+[Download](https://www.iais.org/uploads/2025/04/Application-Paper-on-the-supervision-of-climate-related-risks-in-the-insurance-sector.pdf)
+
+### [Resolution of consultation comments on Supporting material on macroprudential and group supervision](https://www.iais.org/uploads/2025/04/Resolution-of-consultation-comments-on-Supporting-material-on-macroprudential-and-group-supervision.pdf) 16 Apr 2025
+
+[Download](https://www.iais.org/uploads/2025/04/Resolution-of-consultation-comments-on-Supporting-material-on-macroprudential-and-group-supervision.pdf)
+
+### [Resolution of consultation comments on Draft Application Paper on public disclosure and supervisory reporting of climate](https://www.iais.org/uploads/2025/04/Resolution-of-consultation-comments-on-Draft-Application-Paper-on-public-disclosure-and-supervisory-reporting-of-climate.pdf) 16 Apr 2025
+
+[Download](https://www.iais.org/uploads/2025/04/Resolution-of-consultation-comments-on-Draft-Application-Paper-on-public-disclosure-and-supervisory-reporting-of-climate.pdf)
+
+### [Consultation comments received on climate risk public disclosure and supervisory reporting](https://www.iais.org/uploads/2024/12/Consultation-comments-received-on-disclosure-supervisory-reporting.pdf) 5 Dec 2024
+
+[Download](https://www.iais.org/uploads/2024/12/Consultation-comments-received-on-disclosure-supervisory-reporting.pdf)
+
+### [Consultation comments received on supporting material on macroprudential and group supervisory issues and climate risk](https://www.iais.org/uploads/2024/12/Consultation-comments-received-on-supporting-material-on-macroprudential-and-group-supervisory-issues-and-climate-risk.pdf) 5 Dec 2024
+
+[Download](https://www.iais.org/uploads/2024/12/Consultation-comments-received-on-supporting-material-on-macroprudential-and-group-supervisory-issues-and-climate-risk.pdf)
+
+### [Draft Application Paper on public disclosure and supervisory reporting of climate risk](https://www.iais.org/uploads/2024/08/Draft-Application-Paper-on-public-disclosure-and-supervisory-reporting-of-climate-risk.pdf) 15 Jul 2024
+
+[Download](https://www.iais.org/uploads/2024/08/Draft-Application-Paper-on-public-disclosure-and-supervisory-reporting-of-climate-risk.pdf)
+
+### [Draft supporting material on macroprudential and group supervisory issues and climate risk](https://www.iais.org/uploads/2024/08/Draft-supporting-material-on-macroprudential-and-group-supervisory-issues-and-climate-risk.pdf) 15 Jul 2024
+
+[Download](https://www.iais.org/uploads/2024/08/Draft-supporting-material-on-macroprudential-and-group-supervisory-issues-and-climate-risk.pdf)
+
+### [Questions for public consultation on Draft Application Paper on public disclosure and supervisory reporting of climate risk](https://www.iais.org/uploads/2024/08/Questions-for-public-consultation-on-Draft-Application-Paper-on-public-disclosure-and-supervisory-reporting-of-climate-risk.docx) 15 Jul 2024
+
+[Download](https://www.iais.org/uploads/2024/08/Questions-for-public-consultation-on-Draft-Application-Paper-on-public-disclosure-and-supervisory-reporting-of-climate-risk.docx)
+
+### [Questions for public consultation on draft supporting material on macroprudential and group supervisory issues and climate risk](https://www.iais.org/uploads/2024/08/Questions-for-public-consultation-on-draft-supporting-material-on-macroprudential-and-group-supervisory-issues-and-climate-risk.docx) 15 Jul 2024
+
+[Download](https://www.iais.org/uploads/2024/08/Questions-for-public-consultation-on-draft-supporting-material-on-macroprudential-and-group-supervisory-issues-and-climate-risk.docx)
+
+11 Jul 2025
+
+[Climate risk](https://www.iais.org/tag/climate-risk/)[Financial Stability](https://www.iais.org/tag/financial-stability/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2024%2F10%2Fpublic-consultation-on-climate-risk-supervisory-guidance%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

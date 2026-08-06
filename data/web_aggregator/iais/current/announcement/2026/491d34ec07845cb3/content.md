@@ -1,0 +1,64 @@
+Public 
+ 
+ 
+Public 
+Public consultation on ICP 14 - related terms   
+ 
+ 
+ 
+IAIS Glossary terms related to ICP 14  
+ 
+  
+Terms Definition as proposed 
+Current estimate* 
+[ICP 14.7, 14.8, 
+14.9, 14.11, 17.8.8, 
+20.5.4 
+CF 16.7.e.2] 
+Reflects the present value of projected future cash flows that arise in 
+fulfilling insurance obligations, using unbiased, current assumptions. 
+ 
+ 
+Margin over 
+current estimate 
+(MOCE)* 
+[ICP 14.7, 14.9, 
+14.11.1-2 
+CF 16.7.e.2] 
+A margin that reflects the inherent uncertainty in the current 
+estimate. 
+Market-consistent 
+valuation* 
+[ICP 14.0.4, 14.3.5, 
+14.5.4, 14.5.5, 
+14.5.6, 14.5.8, 
+14.5.10] 
+An economic valuation of an insurer's assets and liabilities that is 
+consistent with the assessment of their risk and value by market 
+participants (mark-to-market valuation) or, in the absence of a direct 
+market valuation, consistent with the valuation principles, 
+methodologies and risk parameters that market participants would 
+be expected to use (mark-to-model valuation). 
+Technical 
+provisions* 
+[ICP 8.6, 9.4.5-6 
+and Annex D), 
+12.6.1, 12.9.2, 
+14.0.2, 14.0.9, 
+14.1.2, 14.1.4-5, 
+14.3.11, 14.5.10, 
+14.6, 14.7, 14.8.8-
+11, 14.10, 14.11, 
+15.1.1, 15.3.3, 
+17.1.2-5, 17.3.7, 
+17.4, 17.7, 17.8.6-
+8, 17.9.1, 17.10.5, 
+17.10.7-8, 
+17.10.21, 17.14.8, 
+20.2, 20.5, 20.6.7, 
+20.12.15-16 
+CF 16.8.6.a, 
+16.7.d, 16.7.e] 
+Assets or liabilities that represent the economic value of the insurer 
+fulfilling its insurance obligations to policyholders. The technical 
+provision corresponds to the current estimate and a margin (MOCE).

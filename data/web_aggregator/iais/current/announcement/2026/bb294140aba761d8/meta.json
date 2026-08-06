@@ -1,0 +1,24 @@
+{
+  "doc_id": "bb294140aba761d8",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "Public consultation on draft Application Paper on the supervision of artificial intelligence - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/2024/11/public-consultation-on-draft-application-paper-on-the-supervision-of-artificial-intelligence/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1c5bea3c1b19d251071eb2fc49e57a924fa287b7ab4c40432fe8f52245e19696",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/bb294140aba761d8",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

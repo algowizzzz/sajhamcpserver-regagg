@@ -1,0 +1,23 @@
+# The IAIS issues comment letter to the IASB on its post implementation review of IFRS 9 – Impairment
+
+[27 Sep 2023](https://www.iais.org/2023/09/the-iais-issues-comment-letter-to-the-iasb-on-its-post-implementation-review-of-ifrs-9-impairment/)
+
+in [Comment Letters](https://www.iais.org/category/comment-letters/), [Latest news](https://www.iais.org/category/latest-news/)
+
+The International Association of Insurance Supervisors (IAIS) has issued a comment letter to the International Accounting Standards Board (IASB) on its request for information on the Post Implementation Review (PIR) of IFRS 9 *Financial Instruments* – Impairment. The IAIS welcomes the opportunity to comment on the IASB’s PIR of IFRS 9 – Impairment. Although IFRS 9 became effective only on 1 January 2023 for the insurance industry, the IAIS’ comment letter provides feedback on areas that the IASB should consider as they finalise the PIR of IFRS 9 – Impairment. Feedback was on areas such as impairment requirements in IFRS 9, general approach in recognising expected credit losses, determining significant increase in credit risk, transition, and credit disclosures etc.
+
+Click [here](https://www.iais.org/uploads/2023/09/IAIS-Comment-Letter-to-IASB-on-Post-Implementation-Review-of-IFRS-9-Impairment.pdf) to read the comment letter.
+
+27 Sep 2023
+
+[Accounting and auditing](https://www.iais.org/tag/accounting-and-auditing/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2023%2F09%2Fthe-iais-issues-comment-letter-to-the-iasb-on-its-post-implementation-review-of-ifrs-9-impairment%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

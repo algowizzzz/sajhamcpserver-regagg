@@ -1,0 +1,135 @@
+PRESS RELEASE 
+9 December 2022 
+ 
+ 
+ 
+FSB endorses the IAIS Holistic Framework for the assessment and 
+mitigation of systemic risk in the insurance sector and discontinues 
+identification of Global Systemically Important Insurers (G-SIIs) 
+• Following a review after three years of implementation, the Financial Stability Board (FSB), 
+in consultation with the IAIS, has decided that the Holistic Framework provides a more 
+effective basis for assessing and mitigating systemic risk in the insurance sector than G-SII 
+identification. 
+• The IAIS will continue to report on the outcomes of its Global Monitoring Exercise (GME) 
+and its assessment of the implementation of the Holistic Framework supervisory measures 
+to the FSB, which retains an active role relating to the insurance sector, in particular in 
+monitoring the application of the FSB’s Key Attributes of Effective Resolution Regimes for 
+Financial Institutions.  
+• To further refine its risk assessment, the IAIS has launched a public consultation seeking 
+input on the GME individual insurer monitoring assessment methodology. 
+Basel, Switzerland  – At its December Plenary meeting, the Financial Stability Board (FSB) , in 
+consultation with the International Association of Insurance Supervisors (IAIS) , decided to 
+discontinue the annual identification of Global Systemically Important Insurers (G-SIIs) in favour of 
+using the IAIS Holistic Framework for the assessment and mitigation of systemic risk in the insurance 
+sector (Holistic Framework) to inform its consideration of systemic risk in insurance.  
+“Implementation of the Holistic Framework  has been strong across each of its key elements: risk 
+assessment through the annua l Global Monitoring Exercise (GME) , enhanced macroprudential 
+supervisory policy measures and robust implementation assessment – with demonstrated benefits  
+for the effectiveness of macroprudential supervision in the insurance sector ,” said Vicky Saporta, 
+IAIS Executive Committee Chair . “Reflecting on the three years since its adoption , FSB and IAIS 
+members agree that the H olistic Framework provides a more effective basis for assessing and 
+mitigating systemic risk in the insurance sector than G-SII identification.” 
+The IAIS adopted the Holistic Framework  in November 2019 as part of a comprehensive set of 
+reforms contributing to the maintenance of global financial stability. The FSB welcomed the Holistic 
+Framework and decided to suspend the identification of G-SIIs for three years, recognising that the 
+Holistic Framework, appropriately implemented, would provide an enhanced basis for assessing and 
+mitigating systemic risk in the insurance sector. 
+Demonstrated benefits of the Holistic Framework relative to the annual G-SII identification include: 
+• The systemic risk assessment through the GME has proven more comprehensive, forward -
+looking and versatile in times of crises; 
+• The Holistic Framework supports a more robust collective discussion among supervisors on the 
+potential build-up of systemic risk and appropriate supervisory responses;  
+• Enhanced supervisory measures for macroprudential purposes are applied to a much broader 
+set of insurers than those formerly identified as G-SIIs; and
+
+• Robust imple mentation assessment of the H olistic Framework supervisory measures helps 
+ensure they are implemented in a comprehensive and consistent manner across jurisdictions.  
+ 
+Continued active role for the FSB  
+The FSB, as the international body that monitors and makes recommendations about the global 
+financial system, will continue to receive from the IAIS an annual update on the outcomes of its GME, 
+including potential concentration of systemic risks at an individual insurer and sector-wide level and 
+the supervisory response to identified risks. Going forward the FSB will utilise assessments available 
+through the Holistic Framework to inform its considerations of systemic risk in the insurance sector. 
+To this end, the IAIS will continue its annual data collection from individual insurers, complemented 
+by data collection from supervisors to support its assessment of sector -wide trends with regard to 
+specific activities and exposures, and its annual reporting to the public  on the outcomes of its 
+assessment and progress in implementation of the Holistic Framework supervisory policy measures. 
+Should circumstances so warrant, the FSB may, in consultation with the IAIS and national 
+authorities, using the assessments available through the Holistic Framework as reported by the IAIS 
+to the FSB, publicly express its views on whether any individual insurer is systemically important in 
+the global context  and the appropriate application of the H olistic Framework supervisory policy 
+measures that it considers necessary to address such systemic importance. The development of 
+such a view may also require the FSB to ask the IAIS to undertake further analysis. 
+The IAIS will also provide input to the FSB’s resolvability monitoring process and  the FSB’s annual 
+public reporting of insurers subject to the FSB Resolution Planning Standards. 1 The FSB may 
+publicly express its views on the appropriateness and sufficiency of the scope of insurers that are 
+subject to the FSB’s Key Attributes of Effective Resolution Regimes for Financial Institutions (KAs), 
+based on whether an insurer could be systemically significant or critical if it fails .2 The FSB will also 
+aim to develop further guidance regarding approaches to determine the scope of application of the 
+KAs by jurisdictions.  
+ 
+Further consultation and review 
+The IAIS will continue to enhance the Holistic Framework, including through its triannual review of 
+its assessment methodology and through measures to continue to achieve the benefits of an 
+inclusive approach to determining the scope of insurers covered by the IAIS’ discussions. 3 In line 
+with this timing, in November 2025 the FSB will also review its experiences with the process of 
+assessing and mitigating systemic risk based on the Holistic Framework. 
+In support  of this effort, the IAIS is today launching  a public consultation seeking input on  the 
+individual insurer monitoring (IIM)  assessment methodology used to calculate individual insurers’ 
+systemic risk scores. In addition, the IAIS recently finalised its  liquidity metrics  as an ancillary 
+indicator for the GME, as a tool to facilitate the IAIS’ monitoring of the global insurance sector’s 
+                                                 
+1 The FSB’s annual public reporting will include those insurers that are publicly disclosed by home authorities as being subject to 
+the FSB’s Resolution Planning Standards, while noting this does not necessarily reflect any assessment of the global systemic  
+risk posed by the insurer in the event of its failure. 
+2 While the FSB’s KAs set out specific standards that apply to G-SIIs, the KAs also state that the standards apply to any financial 
+institution that could be systemically significant or critical if it fails. This is consistent with th e IAIS’ standards relating to insurer 
+resolution. 
+3 Having a diverse set of insurers in scope of the collective discussion has proven helpful in enhancing sector-wide monitoring of 
+common exposures to risks and activities across different insurers and helping to monitor the robust and consistent implementation 
+of the Holistic Framework supervisory measures across different regions.
+
+liquidity risk and its assessment of  individual insurers’ liquidity exposure from a macroprudential 
+perspective. 
+The IAIS will hold a public webinar on 10 January 2023  to provide background information on the 
+public consultation of the review of the IIM assessment methodology and the publication of the 
+liquidity metrics as an ancillary indicator. Interested stakeholders can register via this link. 
+“Through the experience of the past three years, we see the Holistic Framework has proven robust 
+and is a better approach  to assessing and mitigating systemic risk in insurance ,” commented 
+Jonathan Dixon, IAIS Secretary General. “Going forward, it will be important to continue refining the 
+global risk assessment  and ensuring robust implementation of supervisory measures, with strong 
+engagement of insurers and supervisors.” 
+See the FSB press release here. 
+About the Holistic Framework for systemic risk 
+The Holistic Framework for the assessment and mitigation of systemic risk in the insurance sector 
+(Holistic Framework), recognises that systemic risk may arise not only from the distress or disorderly 
+failure of an individual insurer, but also from the collective exposures and activities of insurers at a 
+sector-wide level. It consists of three key elements:  
+1. Risk assessment through the annual Global Monitoring Exercise (GME), designed to detect 
+key risks and tren ds and the potential build -up of systemic risk in the global insurance sector, 
+including a collective discussion among IAIS members of the outcomes of the analysis and the 
+appropriate supervisory response;  
+2. An enhanced set of supervisory measures, designed to increase the overall resilience of the 
+insurance sector and help prevent insurance sector vulnerabilities and exposures from 
+developing into systemic risk (Holistic Framework supervisory measures); and  
+3. Robust assessment of the comprehensive and consis tent implementation  of the Holistic 
+Framework supervisory measures across jurisdictions. 
+Learn more on the IAIS website.  
+About the IAIS 
+The IAIS is a global standard -setting body whose objectives are to promote effective and globally 
+consistent supervision of the insurance industry to develop and maintain fair, safe and stable 
+insurance markets for the benefit and protection of policyholde rs and to contribute to the 
+maintenance of global financial stability. Its membership includes insurance supervisors from more 
+than 200 jurisdictions. Learn more at www.iaisweb.org. Follow us on LinkedIn: IAIS – International 
+Association of Insurance Supervisors. 
+ 
+Media contact: 
+ 
+  
+ 
+ 
+ 
+Joe Perry 
++41 61 280 8138 
+IAIS-Press@bis.org

@@ -1,0 +1,67 @@
+# Public consultation on draft criteria that will be used to assess whether the Aggregation Method provides comparable outcomes to the Insurance Capital Standard
+
+[15 Jun 2022](https://www.iais.org/2022/06/public-consultation-on-draft-criteria-that-will-be-used-to-assess-whether-the-aggregation-method-provides-comparable-outcomes-to-the-insurance-capital-standard/)
+
+in [closed consultations](https://www.iais.org/category/closed-consultations/), [Consultations](https://www.iais.org/category/consultations/)
+
+[Consultation](https://www.iais.org/2022/06/public-consultation-on-draft-criteria-that-will-be-used-to-assess-whether-the-aggregation-method-provides-comparable-outcomes-to-the-insurance-capital-standard/)
+
+[Resolution of comments](https://www.iais.org/uploads/2023/03/summary-and-resolution-of-comments-on-draft-aggregation-method-comparability-assessment-criteria.pdf)
+
+[Final paper](https://www.iais.org/uploads/2023/03/final-aggregation-method-comparability-assessment-criteria.pdf)
+
+**Background information:**
+
+In November 2017, the IAIS set out an [agreement](https://www.iaisweb.org/uploads/2022/01/171102-Implementation-of-ICS-Version-2.01.pdf) on the implementation of Insurance Capital Standard (ICS) Version 2.0, including a unified path to convergence of group capital standards in furtherance of its ultimate goal of a single ICS that achieves comparable outcomes across jurisdictions. The agreement acknowledges the development by the United States of the Aggregation Method (AM) to a group capital calculation. While the AM is not part of the ICS, the IAIS aims to be in a position by the end of the monitoring period to assess whether the AM provides comparable (ie substantially the same (in the sense of the ultimate goal)) outcomes to the ICS. If so, it will be considered an outcome-equivalent approach for implementation of ICS as a prescribed capital requirement (PCR). At the same time, the IAIS agreed to help collect data from the US and interested jurisdictions that will aid in the development of the AM.
+
+In November 2019, the IAIS agreed on a process and timeline for developing criteria to assess whether the AM provides comparable outcomes to the ICS. Following public consultation in November 2020, the IAIS agreed on the definition of comparable outcomes and high-level principles (HLPs) in March 2021 to inform the criteria that will be used to assess whether the AM provides comparable outcomes to the ICS.
+
+The IAIS began developing the draft comparability criteria in April 2021. Detailed criteria have been developed for each HLP and are the subject of this consultation. The draft criteria have been developed in such a way that the AM is neither precluded at the outset as an outcome equivalent approach to the ICS for measuring group capital, nor given a free pass. Stakeholders are thus invited to provide feedback on whether each individual criterion is clear, adequate, sufficient or too restrictive, considering the HLP to which it relates.
+
+The consultation provided the opportunity for obtaining perspectives and technical input on various parameters included in the criteria, in the form of targeted questions to support this work. In particular, the IAIS sought input to aid in the development of specific scenarios for the sensitivity analysis envisaged in the draft criteria for HLP 1. The IAIS also sought feedback on considerations for determining representativeness of the non-life insurance sample.
+
+Feedback was invited by **15 August 2022**.
+
+The IAIS received numerous comments from the public consultation on draft criteria that provided valuable input for further advancing work on the comparability criteria. With respect to the draft criteria relevant to HLP 1 in particular, several respondents suggested that additional engagement with stakeholders on the design of the scenarios that would be used in the comparability assessment would be welcome and helpful. The IAIS organised a series of workshops (virtual and in-person) to allow stakeholders to provide further input into the development of the scenarios. Using the input from these additional workshops, as well as the written stakeholder feedback from the public consultation, the IAIS has agreed on the final criteria that will be used to assess whether the AM provides comparable outcomes to the ICS.
+
+### [Draft comparability criteria for public consultation](https://www.iais.org/uploads/2022/06/Draft-Comparability-Criteria-for-Public-Consultation.pdf) 15 Jun 2022
+
+[Download](https://www.iais.org/uploads/2022/06/Draft-Comparability-Criteria-for-Public-Consultation.pdf)
+
+### [Explanatory note on the draft criteria for the Aggregation Method comparability consultation](https://www.iais.org/uploads/2022/06/220615-Explanatory-note-on-the-draft-criteria-for-the-Aggregation-Method-comparability-consultation-1.pdf) 15 Jun 2022
+
+[Download](https://www.iais.org/uploads/2022/06/220615-Explanatory-note-on-the-draft-criteria-for-the-Aggregation-Method-comparability-consultation-1.pdf)
+
+### [Questions for draft comparability criteria](https://www.iais.org/uploads/2022/06/Questions_for_draft_comparability_criteria.docx) 15 Jun 2022
+
+[Download](https://www.iais.org/uploads/2022/06/Questions_for_draft_comparability_criteria.docx)
+
+### [Final Aggregation Method Comparability Assessment Criteria](https://www.iais.org/uploads/2023/03/final-aggregation-method-comparability-assessment-criteria.pdf) 9 Mar 2023
+
+[Download](https://www.iais.org/uploads/2023/03/final-aggregation-method-comparability-assessment-criteria.pdf)
+
+### [Explanatory note on the final criteria for the Aggregation Method Comparability Assessment](https://www.iais.org/uploads/2023/03/explanatory-note-on-the-final-criteria-for-the-aggregation-method-comparability-assessment.pdf) 9 Mar 2023
+
+[Download](https://www.iais.org/uploads/2023/03/explanatory-note-on-the-final-criteria-for-the-aggregation-method-comparability-assessment.pdf)
+
+### [Summary and Resolution of Comments on Draft Aggregation Method Comparability Assessment Criteria](https://www.iais.org/uploads/2023/03/summary-and-resolution-of-comments-on-draft-aggregation-method-comparability-assessment-criteria.pdf) 9 Mar 2023
+
+[Download](https://www.iais.org/uploads/2023/03/summary-and-resolution-of-comments-on-draft-aggregation-method-comparability-assessment-criteria.pdf)
+
+### [Compiled Comments on the AM Comparability Assessment Criteria Public Consultation](https://www.iais.org/uploads/2023/03/Compiled-Comments-on-the-AM-Comparability-Assessment-Criteria-Public-Consultation.pdf) 9 Mar 2023
+
+[Download](https://www.iais.org/uploads/2023/03/Compiled-Comments-on-the-AM-Comparability-Assessment-Criteria-Public-Consultation.pdf)
+
+11 Jul 2025
+
+[AM data collection](https://www.iais.org/tag/am-data-collection/)[Comparability assessment](https://www.iais.org/tag/comparability-assessment/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2022%2F06%2Fpublic-consultation-on-draft-criteria-that-will-be-used-to-assess-whether-the-aggregation-method-provides-comparable-outcomes-to-the-insurance-capital-standard%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

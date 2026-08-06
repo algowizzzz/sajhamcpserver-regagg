@@ -1,0 +1,1007 @@
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+December 2023-January 2024 | Issue 128 
+  
+Follow us on LinkedIn 
+Newsletter 
+From the 
+Secretary 
+General 
+Let me start by wishing our 
+readers a great start to 2024. 
+Already, 2024 is shaping up to be 
+a busy and productive year. 
+Last week, the IAIS launched its 
+2024 Roadmap. The Roadmap 
+provides significant continuity to 
+our work, with many projects 
+continuing from 2023.  
+2024 stands as a defining year for the global Insurance 
+Capital Standards (ICS), set to be adopted as a 
+prescribed capital requirement (PCR) for Internationally 
+Active Insurance Groups (IAIGs) by year-end. This will 
+conclude the five-year monitoring period of the ICS and 
+will mark the culmination of a 13-year journey from an 
+idea emerging in the aftermath of the 2008-2009 global 
+financial crisis to an agreed global solvency standard for 
+IAIGs. The ICS is one of the most empirically tested and 
+widely consulted global regulatory standards. It will 
+create, for the first time, a common language for the 
+supervisory discussion of the solvency positions of IAIGs 
+and help enhance global convergence amongst group 
+capital standards.  
+The Association will also maintain its annual cycle of 
+assessing global risks and trends through the Global 
+Monitoring Exercise (GME), with deeper analyses of 
+themes identified through the 2023 GME process, 
+including structural shifts in the life insurance sector. Our 
+2023 Global Insurance Market Report (GIMAR), 
+published last month, detailed the findings of the GME 
+and has proven to be one of our most widely read 
+publications of the year.  
+Beyond identifying and assessing global trends, our 
+mandate extends to supporting our members in 
+responding to key strategic themes that affect the 
+insurance sector and the broader financial system. These 
+themes include climate risk, digital innovation, diversity, 
+equity and inclusion (DEI), financial inclusion, operational 
+resilience and cyber risk, and protection gaps. On 
+climate, this quarter will see the launch of a third 
+consultation on the supervision of climate-related, the 
+responses to which will feed into a comprehensive 
+application paper on climate risk in the insurance sector 
+by the end of the year.  
+Under this Roadmap, and for the foreseeable future, we 
+will build on our significant progress in implementation 
+assessment and support. In 2024, the IAIS will advance 
+several initiatives to both assess the comprehensive and 
+consistent implementation of our agreed reforms and 
+help members identify gaps in their observance of IAIS 
+Insurance Core Principles (ICPs). Effective peer 
+exchange, capacity building and supervisory cooperation 
+remain focal points, supported by valuable partnerships 
+with our implementation partners and regional 
+coordinators. Simultaneously, the IAIS will continue to 
+support our peer exchange forums, engaging members 
+from close to 80 supervisory authorities. 
+Finally, all of these activities are underpinned by our 
+commitment to continuous improvement in the efficient 
+and impactful execution of our operations. 2024 will see 
+further enhancements to the IAIS Member’s User Portal,
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 2 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+strengthening digital operational processes and external 
+collaboration. We will also continue to advance additional 
+measures aimed at maximising the benefits of our 
+diversity of membership through purposeful inclusion 
+initiatives and enhanced engagement with members and 
+stakeholders.  
+We look forward to productive collaboration across all 
+IAIS committees, working groups and partnerships to 
+progress the objectives of the 2024 Roadmap. 
+Notably, this Roadmap will be the final one developed 
+under the 2020-2024 Strategic Plan. The next five-year 
+Strategic Plan, covering 2025-2029, is currently in 
+development and well underway. Engagement with 
+members and stakeholders in 2023, including a survey 
+and roundtable sessions at the Annual Conference in 
+Tokyo last November, has greatly shaped its 
+development. Further engagement and information 
+sessions are planned in the coming months. 
+This year, the IAIS celebrates its 30th anniversary. The 
+Association has significantly evolved since its founding in 
+1994. From its humble beginnings as an informal forum 
+for exchange amongst supervisors, it has become the 
+global standard-setting body for insurance and an 
+integral part of the global financial architecture.  
+The same pioneering spirit of cooperation that founded 
+the IAIS three decades ago inspires us to persist in 
+collaborative efforts, finding appropriate and 
+proportionate approaches to protect policyholders, foster 
+sustainable growth, enhance financial stability, and 
+enable the insurance sector to effectively address 
+societal challenges and bolster resilience in our complex, 
+multi-crises world.   
+I look forward to another year of collective efforts and 
+progress. 
+  Jonathan Dixon, Secretary General 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In this Issue Calendar Notes 
+From the Secretary General .............................................. 1 
+In Focus ............................................................................. 3 
+News .................................................................................. 4 
+Event Spotlight .................................................................. 7 
+Forum Updates .................................................................. 8 
+Meet our Staff .................................................................... 8 
+Committee and Subcommittee Activities ........................... 9 
+Calendar of Meetings and Events ................................... 12 
+Financial Stability Institute (FSI) Report .......................... 13 
+Access To Insurance Initiative (A2ii) Report ................... 14 
+ 
+Save the Date: 
+The IAIS will hold its Q1 committee meetings virtually, 
+from 26 February to 8 March. To see the schedule, 
+visit our website.
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 3 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+In Focus  
+IAIS GIMAR 2023 highlights key risks and trends facing 
+the global insurance sector
+The 2023 Global Insurance Market Report (GIMAR) 
+sheds light on the state of the global insurance 
+sector, with a focus on findings from the 2023 
+Global Monitoring Exercise (GME) conducted by 
+the IAIS. 
+The GME covers data 
+from around 60 major 
+international insurers 
+and global sector-wide 
+monitoring in 45 
+jurisdictions, covering 
+over 90% of the global 
+insurance market.  
+In summary, the report 
+finds that despite 
+overall sound capital 
+adequacy, the 
+aggregate solvency 
+ratio for the global insurance sector showed a slight 
+decline by year-end 2022, influenced by lower asset 
+valuations in financial markets, triggered by declines in 
+equities, widened credit spreads, interest rate volatility, 
+and weakened currencies in some jurisdictions. This 
+was partially offset by lower liability valuations, 
+particularly in the life insurance sector, due to interest 
+rate increases. 
+Looking ahead, potential risk 
+factors include inflation, lapses, 
+unrealised losses, and reduced 
+insurance demand due to 
+economic strains. Ongoing 
+geopolitical tensions continue to 
+negatively impact the sector's 
+outlook. 
+Macroprudential themes 
+Two macroprudential themes emerged in the 2023 
+GME.  
+The first addresses interest rate, liquidity and credit 
+risks in a challenging macroeconomic environment. 
+Supervisory responses involve increased monitoring of 
+surrenders and liquidity risk, including stress testing. 
+Credit risk, particularly in (commercial) real estate 
+exposures, is also an area of attention.  
+The second theme highlights structural shifts in the life 
+insurance sector, including a shift towards alternative 
+investments and asset-intensive reinsurance, 
+especially for long-tailed life insurance liabilities.  
+Individual insurer monitoring 
+In terms of individual insurer monitoring, aggregate 
+insurer pool systemic risk scores declined by 3.1% at 
+year-end 2022, driven by lower short-term funding 
+exposures. Key trends include fluctuations in level 3 
+assets, derivatives, and intra-financial system 
+liabilities. 
+Climate-related risks persist 
+The report delves into climate-related risks, with 
+insurers found to have substantial exposure to 
+climate-related assets, estimated at 37% of reported 
+assets. Liability risks related to natural catastrophe 
+(NatCat) events are also quantitatively assessed. 
+The IAIS emphasises the importance of setting risk-
+based capital requirements for NatCat risk to ensure 
+appropriate capital allocation.
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 4 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+Global Reinsurance Market 
+The global reinsurance market covered by the GME 
+data collection experienced a growth trajectory, with 
+gross reinsurance premiums increasing by almost 10% 
+in 2022. However, reinsurers faced  
+profitability challenges due to increased NatCat losses. 
+In the sample, solvency positions improved slightly, 
+and asset allocations remained stable. 
+In conclusion, the 2023 GIMAR underscores the need 
+for insurers to navigate challenges, particularly in 
+addressing climate-related risks and shifts in 
+reinsurance dynamics. The IAIS emphasises 
+coordinated regulatory responses and ongoing 
+monitoring to ensure the sector's stability and 
+resilience.  
+Click here to read the 2023 GIMAR and here to see 
+the press release.  
+For more information, contact Nicolas Colpaert at 
+nicolas.colpaert@bis.org. 
+News
+ROADMAP  
+IAIS publishes 2024 Roadmap 
+On 25 January, the IAIS published its 2024 Roadmap, 
+outlining key deliverables for 2024, providing 
+significant continuity in the IAIS’ workplan. Activities 
+focus on: 
+• Finalising the development of global standards, in 
+particular, the Insurance Capital Standard (ICS) for 
+Internationally Active Insurance Groups (IAIGs); 
+• Assessing trends and risks in the global insurance 
+sector through the Global Monitoring Exercise 
+(GME), an important pillar of the Holistic 
+Framework; 
+• Promoting effective supervisory practices, 
+particularly in responding to accelerating trends in 
+the global insurance sector, such as climate risk 
+and digital innovation; and 
+• Supporting and assessing the comprehensive and 
+consistent implementation of agreed global 
+standards, including the macroprudential 
+supervisory measures that form part of the Holistic 
+Framework. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For more details read Jonathan Dixon’s editorial, and 
+the press release.  
+Read the 2024 Roadmap here. 
+For more information contact Alistair Gough at 
+alistair.gough@bis.org.
+GIMAR media coverage 
+The Global Insurance Market Report generates 
+significant interest amongst our members, 
+stakeholders and the media. It has already been 
+downloaded almost 3,000 times and generated 
+several articles across geographies and languages. 
+A selection of English articles is below:  
+Insurers heavily exposed to climate change, global 
+watchdog says | Reuters 
+Insurers Heavily Exposed to Impact of Climate 
+Change: Global Watchdog | insurancejournal.com 
+IAIS warns of profit and solvency hits from climate 
+and reduced demand | InsuranceERM (paywall) 
+IAIS flags concerns about offshore reinsurance 
+growth | Risk.net  
+IAIS predicts disruption for the reinsurance market in 
+latest global insurance report | Insurance Business
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 5 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+RESOLUTION  
+IAIS publishes Issues Paper on 
+roles and functioning of 
+policyholder protection schemes 
+On 14 December, the IAIS published its Issues Paper 
+on roles and functioning of policyholder protection 
+schemes (PPSs), following consultation between 
+February and April 2023. The issues paper provides an 
+updated overview of global practices regarding PPSs 
+and their roles in insurance resolution and a variety of 
+related activities. It also describes current practices for 
+PPSs and is intended to serve as a guide for 
+jurisdictions considering establishing a PPS or 
+modifying an existing PPS.  
+• Roles of PPSs in recovery and resolution of 
+insurers and the difference between PPSs and 
+resolution funds; 
+• Coverage issues, including its scope, limits on 
+compensation, method of compensation, eligible 
+policyholders and claimants, treatment of unearned 
+premiums and cross-border issues of coverage; 
+• Funding issues, including sources for PPS funding, 
+ex-ante, ex-post and hybrid funding, and 
+determining the levy level for insurers; 
+• Disclosure and communication relevant to PPS; 
+• Cross-border cooperation and coordination in 
+crises; and 
+• Other mechanisms to protect policyholders in the 
+event of an insurer failure. 
+This paper was developed as a follow-up to the Issues 
+Paper on policyholder protection schemes that was 
+published in October 2013. It builds on subsequent 
+developments such as the adoption of the revised set 
+of Insurance Core Principles (ICPs) and Common 
+Framework for the Supervision of Internationally Active 
+Insurance Groups (ComFrame) in November 2019. 
+Comments on the issues paper were sought from 
+February to April 2023. The comments received and 
+the IAIS’ responses are available here. 
+The final Issues Paper is available on the IAIS website. 
+For more information contact Ayana Ishii at 
+ayana.ishii@bis.org. 
+AUDITING AND ACCOUNTING  
+Comment letter to the IAASB on 
+the proposed ISSA 5000 
+The IAIS submitted on 1 December a comment letter 
+to the International Auditing and Assurance Standards 
+Board (IAASB) on its proposed International Standard 
+on Sustainability Assurance (ISSA) 5000 – General 
+Requirements for Sustainability Assurance 
+Engagements.  
+The IAIS recognises that sustainability reporting is 
+rapidly becoming a topic of global importance and that 
+its reliability is a key issue for a diverse range of 
+stakeholders. In the comment letter, the IAIS therefore 
+welcomes the opportunity to comment on the proposed 
+ISSA 5000, provides areas of IAIS support to the ISSA 
+5000 and suggests areas in the proposed standard 
+that require clarification. 
+Feedback was also included on topics such as the 
+approach to assurance engagements and 
+recommendations on expansion and clarifications in 
+requirements and application material. 
+Click here to read the comment letter. 
+For more information, visit the IAIS website or contact 
+Lydia Kimumwe at lydia.kimumwe@bis.org. 
+  
+Replay 
+A public discussion session was held via 
+webinar on 16 January to present the final 
+Issues Paper on roles and functioning of 
+PPSs and answer questions from 
+stakeholders. A replay is available.
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 6 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+FINTECH  
+IAIS FinTech Forum finalises a 
+members-only report and public 
+summary of the thematic review 
+on AI/ML in the insurance sector 
+As part of the IAIS FinTech Forum’s ongoing efforts to 
+facilitate knowledge exchange and promote better 
+understanding amongst supervisors on FinTech and 
+digital innovation-related developments influencing the 
+insurance sector and insurance supervisors globally, it 
+published in December a members-only report and 
+short public summary on artificial intelligence and 
+machine learning (AI/ML) in the insurance sector. 
+The report was developed in view of the growing 
+adoption of AI/ML across the insurance value chain (eg 
+in marketing, underwriting, pricing, claims 
+management etc) which are at varying levels of pace, 
+sophistication and complexity. AI/ML may bring many 
+potential opportunities to the insurance industry and 
+consumers but also significant risks. On the one hand, 
+AI/ML can improve operational efficiency, promote 
+financial inclusion and facilitate the development of 
+innovative products and services. On the other hand, 
+AI/ML has the potential to create new or heighten 
+existing risks, such as operational risk in terms of data 
+security, third-party dependency and cyber risk; 
+conduct risk such as discrimination or unfair or biased 
+treatment of customers; and model risks arising from 
+flaws in design, or lack of explainability and 
+transparency of AI/ML models. 
+In view of the rapid advancements in this space, the 
+IAIS report aims to facilitate the exchange of 
+supervisory practices and experiences on how different 
+jurisdictions are seeking to address risks that could 
+arise from AI/ML, particularly in the area of model risk 
+management practices.  
+Members can click here to read the report (login 
+required).  
+A short public summary of the report is also available 
+on the IAIS website. 
+To learn more about recent public-facing IAIS work on 
+digital innovation visit our website or contact Zafirah 
+Adrus at zafirah.adrus@bis.org. 
+STAKEHOLDER ENGAGEMENT  
+Stakeholder Engagement and 
+Consultation Policy – public 
+discussion session 
+On 13 December the IAIS hosted a public webinar on 
+the Stakeholder Engagement and Consultation Policy 
+(SECP) published in November. 
+The new policy builds on a solid foundation of 
+established stakeholder engagement and recognises 
+the necessity for innovative approaches to reach a 
+wider audience of stakeholders. The SECP outlines 
+four principles that guide the IAIS’ engagement: (i) 
+diversity, equity and inclusion in our outreach; (ii) 
+transparency; (iii) equal access; and (iv) maintaining 
+the integrity of IAIS processes. 
+During the Q and A session, Jonathan Dixon, IAIS 
+Secretary General, flagged the important role 
+committee chairs play in terms of the IAIS’ 
+engagement. Stakeholders welcomed the increased 
+emphasis the IAIS is placing on earlier engagement 
+during policy development. It was noted that feedback 
+at the roundtables at Annual Conference provided 
+useful input to IAIS policy work.  
+For more information contact Joe Perry at 
+joe.perry@bis.org. 
+  
+Replay 
+A recording of the public discussion session 
+on the IAIS SECP is available on the IAIS 
+website.
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 7 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+Event Spotlight
+Asian Insurance Forum | Hong 
+Kong, China | 8 December 
+Jonathan Dixon delivered a keynote speech at the 
+Asian Insurance Forum (AIF) organised by the Hong 
+Kong Insurance Authority (HKIA) on 8 December 2023.  
+Jonathan’s speech highlighted the need to embed 
+resilience across society and the important role the 
+insurance sector and supervisors have in helping to 
+address a broad range of social problems.  
+He noted that that IAIS’ recently published protection 
+gaps report outlines five major areas of supervisory 
+activity that can contribute to addressing natural 
+catastrophe (NatCat) protection gaps. Importantly, the 
+report sets out that all supervisors now have a strong 
+basis for action to help narrow NatCat protection gaps, 
+regardless of their mandate, given the potential impact 
+of protection gaps on financial stability, policyholder 
+protection and financial inclusion objectives. 
+Jonathan concluded with an update on the IAIS’ 2024 
+workplan and noted the good progress being made to 
+finalise the Insurance Capital Standard (ICS) by the 
+end of 2024.  
+For more information contact Joe Perry at 
+joe.perry@bis.org. 
+ 
+ 
+ 
+Whilst in Hong Kong, Jonathan welcomed the 
+opportunity to also join part of the meeting of the 
+Macroprudential Monitoring Working Group that was 
+taking place onsite that same week and meet and 
+exchange with the HKIA staff and management team. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Replay 
+Replays of the many sessions, including 
+Jonathan’s keynote speech, are available on 
+the AIF website.
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 8 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+Forum Updates 
+Forums provide an ongoing and flexible platform for technical experts to share insights and 
+discuss developments in a specific area relevant for insurance supervision and regulation, 
+including but not limited to supervisory practices, cross-cutting topics and emerging trends. 
+ 
+FinTech Forum | Virtual | 8 
+December 
+The FinTech Forum (FF) held a virtual meeting on 8 
+December to discuss the following points: 
+• Jurisdictional updates on new FinTech 
+developments, including those relating to SupTech, 
+artificial intelligence and machine learning (AI/ML), 
+decentralised finance, cybersecurity and open data; 
+• Progress of the FF’s 2023 workplan, including the 
+finalisation of two members-only reports on 
+decentralised finance and AI/ML in the insurance 
+sector; and 
+• Ideas and perspectives regarding the proposed 
+workplan for the FF in 2024, particularly on the 
+development of an application paper on AI/ML to 
+promote convergence and support supervisors in 
+responding and keeping pace with AI/ML trends. 
+The next FF meeting is scheduled to be held virtually 
+on 27 February. 
+For more information contact Zafirah Adrus at 
+zafirah.adrus@bis.org.  
+ 
+ 
+ 
+ 
+Meet our Staff 
+Each month get to know one (or more) IAIS staffers and the projects they are working on. 
+ 
+Welcome to the IAIS Secretariat  
+Name: Jo-Ann Ferreira 
+Current role: Senior Policy Advisor (Legal) 
+Time with the IAIS: Since January 2024 
+Last employer: Discovery Limited 
+Favourite pastimes: History, art and slow Sundays 
+Jo-Ann joined the Secretariat team on 15 January 
+2024 as the IAIS’ legal counsel. She will support the 
+Executive Committee (ExCo) and related sub-groups 
+including the Supervisory Material Review Task Force. 
+Jo-Ann joins us from South Africa, where she gained 
+extensive experience in both the public and private 
+sector. First with the National Treasury of South Africa, 
+then the Financial Services Board (now the Financial 
+Sector Conduct Authority) and the South African 
+Reserve Bank (Prudential Authority) where she was 
+responsible for the development and implementation of 
+financial sector policy, legislation and regulatory and 
+supervisory frameworks. Most recently, since 2018, 
+she worked at a multi-national insurance group in 
+South Africa (Discovery Group) as its Group Chief 
+Compliance Officer.  
+Jo-Ann holds two law degrees (BLC, LLB) from the 
+University of Pretoria, South Africa.
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 9 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+Name: Can Zhou 
+Current role: Administrative Officer 
+Time with the IAIS: since January 2024 
+Last employer: UNEP 
+Favourite pastimes: Argentine tango, spending time in 
+nature and sewing 
+Can joined the operations team of the IAIS on 2 
+January 2024. Can will primarily support the work of 
+the Capital, Solvency and Field Testing Group and 
+Insurance Capital Standard and Comparability Task 
+Force.  
+Can joins us from United Nations Environment 
+Programme (UNEP) in Geneva, where, as a 
+consultant, she provided a range of operational 
+support activities such as meeting support, and 
+database and document management.  
+Can holds a master’s degree in Ethics, Ecology and 
+Sustainable Development from Jean Moulin University, 
+France, a master’s degree in Environment and 
+Industrial Risks Management from Claude Bernard 
+University, France, and a bachelor’s degree in 
+chemistry from South China University of Technology, 
+China. 
+Committee and Subcommittee 
+Activities 
+Committee Activities 
+IMPLEMENTATION AND ASSESSMENT 
+COMMITTEE  
+The Implementation and Assessment Committee 
+(IAC) held a meeting with supervisors from 
+Emerging Markets and Developing Economies 
+(EMDE) on 11 December to: 
+• Receive an update from the ExCo Vice Chair for 
+EMDE issues on the outcomes of the November 
+committee meetings; 
+• Discuss implementation support with IAIS 
+implementation partners; 
+• Receive a report from regional coordinators on 
+regional initiatives and events. 
+The IAC will next meet virtually on 29 February. 
+Secretariat support: carlos.lopezmoreira@bis.org 
+and aurelie.landauerostermann@bis.org. 
+ 
+POLI CY DEVELOPMENT COMMITTEE  
+The Policy Development Committee (PDC) held a 
+meeting virtually on 31 January to discuss: 
+• The Insurance Capital Standard (ICS) for 2024 
+data collection; 
+• An update on revisions to recovery and resolution 
+related standards; 
+• An update on the Climate Risk Steering Group 
+activities; and 
+• An update on the DEI application paper of the 
+Market Conduct Working Group. 
+The PDC will next meet virtually on 6 March. 
+Secretariat support: ayana.ishii@bis.org and 
+alka.sharma@bis.org
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 10 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+Subcommittees Activities 
+ACCOUNTING AND AUDIT ING  WORKING GROUP  
+The Accounting and Auditing Working Group 
+(AAWG) held a meeting virtually on 12 December 
+2023 to discuss and receive updates on the 
+following:  
+• Jurisdictional supervisory activities;  
+• Potential IFRS 17 impacts on the IAIS Global 
+Monitoring Exercise (GME) templates;  
+• ICP 14 (Valuation) project activities; 
+• AAWG workplan and future projects;  
+• The Climate Risk Disclosure Working Group’s 
+work on climate risk disclosures; and  
+• The Climate Risk Steering Group’s work on an 
+upcoming application paper on ICP 14.  
+Secretariat support: lydia.kimumwe@bis.org  
+CAPITAL, SOLVENCY AND FIELD TESTING 
+WORKING GROUP  
+The Capital, Solvency and Field Testing Working 
+Group ( CSFWG) met on 12- 14 December in 
+Washington DC, and on 16- 18 January in Basel to 
+discuss: 
+• Results from the 2023 ICS data collection; 
+• The resolution of comments received on the ICS 
+public consultation; and 
+• The ICS 2024 data collection. 
+The CSFWG will meet on 14-16 February to start 
+preparing the 2024 data collection technical 
+specifications and template. The CSFWG will also 
+continue working on the ICS calibration document 
+that is planned to be published once the ICS is 
+adopted. 
+Secretariat support: romain.paserot@bis.org and 
+aurelien.cosma@bis.org 
+CLIMATE RISK STEERING GROUP 
+The Climate Risk Steering Group (CRSG) met 
+virtually on 17 January to: 
+• Discuss the materials for the third climate risk 
+consultation package, planned to be published in 
+March. 
+As part of its work to consider developments on 
+climate disclosures, the workstream examining these 
+issues hosted an online webinar with stakeholders 
+which focussed on climate metrics for insurers. 
+Additionally, it received updates from the Partnership 
+for Carbon Accounting Financials on their work and 
+heard from legal experts about the climate 
+disclosure-related litigation risk.  
+Secretariat support: miroslav.petkov@bis.org and 
+joe.perry@bis.org  
+MACROPRUDENTIAL MONITORING WORKING 
+GROUP  
+The Macroprudential Monitoring Working Group 
+(MMWG) held a meeting on 6-7 December in China, 
+Hong Kong to: 
+• Discuss the GME timeline for 2024; 
+• Discuss the pool of insurers for the 2024 
+individual insurer monitoring; 
+• Progress the development of ancillary indicators 
+on derivatives, reinsurance and credit risk; 
+• Discuss the way-forward on the systemic risk 
+indicator on level 3 assets; 
+• Discuss the impact of IFRS 17 on the 2024 GME 
+data collection package; 
+• Discuss input from the CSRG, Macroprudential 
+Supervision Working Group, Protection Gaps 
+Task Force and MMWG members on the 2024 
+GME data collection package; 
+• Continue the development of metrics for the 
+sector-wide monitoring; and 
+• Receive presentations from leading insurance 
+groups in the region. 
+The next MMWG meeting will take place virtually on 
+8 February 2024. 
+Secretariat support: nicolas.colpaert@bis.org
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 11 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+MACRO PRUDENTIAL SUPERVISION WORKING 
+GROUP  
+The Macroprudential Supervision Working Group 
+(MSWG) met virtually on 16 January to review the 
+feedback received from CSFWG and Supervisory 
+Material Review Task Force members on proposed 
+drafting changes to IAIS macroprudential 
+supervisory material.  
+The MSWG will next meet virtually on 7 February. 
+Secretariat support: fabian.garavito@bis.org and 
+inwook.hwang@bis.org 
+RESOLUTION WORKING GROUP  
+The Resolution Working Group (ReWG) met virtually 
+on 18 January to discuss the further development of 
+the draft revisions to ICP 12 (Exit from the Market 
+and Resolution) and 16.15 (Recovery Planning) and 
+related ComFrame standards.  
+The ReWG will next meet virtually on 14 February. 
+Secretariat support: ayana.ishii@bis.org 
+STANDARDS ASSESSMENT WORKING GROUP 
+The Standards Assessment Working Group (SAWG) 
+held its first virtual meeting of the year on 30 
+January. It discussed topics related to the 
+assessment of the implementation of IAIS 
+supervisory material, including: 
+• An update on the Peer Review Process (PRP) on 
+ICP 16 (Enterprise Risk Management for 
+Solvency Purposes) and feedback on the 2023 
+Bootcamp for future assessors; 
+• A discussion on the revised IAIS Assessment 
+Handbook; 
+• A discussion on the strategic considerations of 
+implementation assessment activities, such as 
+the scope, frequency, methodology and reporting 
+of the assessments; 
+• An update on the Member Assessment 
+Programme (MAP) Oman; 
+• A progress update on the next implementation 
+assessment of the Holistic Framework 
+supervisory material, which is scheduled to start 
+in the first quarter of 2024. 
+The SAWG will hold its next meeting in May 2024. 
+Secretariat support: guillaume.scheffler@bis.org and 
+miho.chen@bis.org.
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 12 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+Calendar of meetings and 
+events  
+The following groups are scheduled to meet between February and 
+March 2024.  
+For the full IAIS calendar, visit our website. 
+Date Group Location 
+February 2024 
+1 Governance Working Group Virtual 
+1 Strategic Plan and Financial Outlook Task Force Basel 
+1-2 Insurance Capital Standard and Comparability Task Force Basel 
+6-7 Market Conduct Working Group Kuala Lumpur, Malaysia 
+7 Macroprudential Supervision Working Group Virtual 
+8  Macroprudential Monitoring Working Group Virtual  
+12 Protection Gaps Task Force Virtual 
+14  Macroprudential Supervision Working Group Virtual 
+14 Resolution Working Group Virtual 
+14-16 Capital, Solvency and Field Testing Working Group Frankfurt, Germany 
+15 Climate Risk Steering Group Virtual 
+20 Financial Inclusion Forum Virtual 
+21 Supervisory Forum Virtual 
+23 Macroprudential Monitoring Working Group Virtual 
+26 Audit and Risk Committee Virtual 
+27 FinTech Forum Virtual 
+28-29 Accounting and Auditing Working Group Virtual 
+29 Implementation and Assessment Committee Virtual 
+March 2024   
+4 Insurance Capital Standard and Comparability Task Force Virtual 
+5 Macroprudential Committee Virtual 
+6 Policy Development Committee Virtual 
+7-8  Executive Committee Virtual 
+12 Risk-based Solvency Implementation Forum Virtual 
+14 Budget Committee Virtual 
+19-21 Capital, Solvency and Field Testing Working Group Virtual
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 13 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+Financial 
+Stability 
+Institute (FSI) 
+Report 
+ 
+The Financial Stability Institute (FSI) was jointly 
+created in 1998 by the Bank for International 
+Settlements and the Basel Committee on 
+Banking Supervision to assist supervisors 
+around the world in improving and strengthening 
+their financial systems. 
+FSI events 2024 
+Please see here the list of FSI events in 2024. Note 
+that the AFIR-FSI-IAIS high-level meeting on 
+insurance supervision for Asia-Pacific will be held on 
+27 September. 
+FSI policy implementation 
+meeting on big techs in 
+insurance | 19-20 March 2024 
+The FSI is hosting a policy implementation meeting 
+on big techs in insurance, examining their roles as 
+insurance underwriters, intermediaries and service 
+providers. Issues covered in FSI Insights no 51 From 
+clicks to claims: emerging trends and risks of big 
+techs' foray into insurance will be discussed.  
+Benoît Cœuré, President of Autorité de la 
+Concurrence, France, will deliver a keynote address. 
+There will be four panel discussions covering the 
+different roles of big techs in insurance and non-
+insurance regulatory frameworks that apply to them. 
+The meeting will include a roundtable to share 
+jurisdictional experiences. 
+The in-person meeting will take place on 19-20 
+March 2024 at the Bank for International Settlements 
+in Basel, Switzerland. Invitations have been sent to 
+all IAIS members – kindly register before 16 
+February. For more information, contact 
+jeffery.yong@bis.org.  
+BIS-ISSB-NGFS joint virtual 
+seminar on ISSB sustainability 
+disclosure standards | 26-27 
+March 2024 
+The virtual seminar, organised by the FSI on the 
+Climate Training Alliance (CTA) portal, will cover the 
+International Financial Reporting Standards (IFRS) 
+S1 and S2 Sustainability Disclosure Standards. 
+Expert speakers will explain the technical details of 
+the standards and provide a deep dive on transition 
+plan disclosure, as well as disclosure of metrics and 
+targets. There will be a panel discussion amongst 
+international standard-setting bodies on the 
+relevance of the standards for financial sector 
+supervisors.  
+Staff of all IAIS member Authorities can self-register 
+through the CTA portal using this link. Each 
+registrant would need to already have a CTA 
+account. To register for a CTA account, fill in this 
+self-registration form.
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 14 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+ 
+Access to 
+Insurance 
+Initiative (A2ii) 
+Report 
+ 
+ 
+The Access to Insurance Initiative (A2ii) is a 
+unique global partnership which inspires and 
+supports insurance supervisors in promoting 
+access to insurance for underserved and low-
+income populations. It is the IAIS implementation 
+partner on financial inclusion. 
+ 
+Useful tools on the A2ii website 
+• The Insurance and the SDGs pages 
+• The Supervisory KPIs Lexicon  
+• The Inclusive Insurance Regulations map  
+• The ICP Self-assessment Tool  
+Public trainings 
+• Supervision of climate-related risks in the 
+insurance sector 
+• Applying a gender lens to inclusive insurance 
+• How to conduct a rapid gender diversity 
+assessment 
+• Index Insurance Training for all stakeholders 
+ 
+For supervisors: join Connect.A2ii – our learning 
+platform restricted to supervisors, offering free and 
+certified courses and an opportunity to learn from 
+peers.  
+ 
+ 
+Virtual Workshops on Risk 
+Modelling | 29 November and 7 
+December 
+In November and December 2023, the Insurance 
+Development Forum (IDF) and A2ii convened a 
+workshop series for insurance supervisors from 
+emerging markets and developing economies, 
+responding to the IAIS’ agenda outlined in their 
+report A call to action: the role of insurance 
+supervisors in addressing natural catastrophe 
+protection gaps. 
+This series was a follow-up to the A2ii-IDF-MIN-IAIS 
+18th Consultative Forum in Ghana, held on 23 
+October 2023.  
+The first workshop, on 29 November 2023, focused 
+on climate and disaster risk, introducing catastrophe 
+risk models. Ekhosuehi Iyahen, Secretary General 
+of the Insurance Development Forum, and Janina 
+Voss, Interim Head of the A2ii Secretariat, delivered 
+welcoming remarks. Miroslav Petkov, Senior Policy 
+Advisor at the IAIS, and Bill Marcoux, Co-Chair of 
+the IDF Law, Regulation and Resilience Policies 
+Working Group, presented on the importance of 
+understanding climate and disaster risk. Tomás 
+Soley, from the Superintendencia General de 
+Seguros de Costa Rica (SUGESE), shared Costa 
+Rica's efforts in integrating climate risk analytics into 
+supervisory practices. Emma Watkins, Head of 
+Exposure Management at Lloyds, and Marie 
+Scholer, Expert on Policy Sustainable Finance at the 
+European Insurance and Occupational Pensions 
+Authority (EIOPA), presented examples of risk 
+analytics in developed markets. 
+On 7 December, the second part of the workshop 
+delved deeper into climate and disaster risk 
+analytics. Hannah Grant, Senior Advisor at the 
+Global Shield Secretariat and Co-chair of the IDF 
+Law, Regulation and Resilience Policies Working 
+Group, and Janina Voss, A2ii, opened the session. 
+Stuart Fraser, Technical Lead of the IDF Risk 
+Modelling Steering Group (RMSG), introduced risk 
+analytic principles. Examples of risk modelling were 
+presented by Dickie Whitaker, Chief Executive of 
+the Oasis Loss Modelling Framework, Andrew 
+Dhesi, Group Head of Property Modelling at 
+RenaissanceRe, and Nihar Jangle, Advisor in 
+Climate Risk Insurance at GIZ. Pascale Lamb,
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 15 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+Advisor at A2ii, and Miroslav Petkov, Senior Policy 
+Advisor at the IAIS, moderated an open forum, 
+facilitating a discussion on participants' experiences 
+and challenges in climate risk modelling, identifying 
+opportunities for further collaboration between A2ii 
+and IDF on future knowledge sharing and capacity 
+building activities. 
+Read the full summary report here. 
+Staffing Update 
+The A2ii is pleased to 
+welcome Letizia Fezzi to the 
+team as an intern. Letizia 
+supports the organisation and 
+preparation of online and in-
+person events related to the iii-
+lab and assists in the promotion of A2ii gender-
+focused initiatives.  
+She holds a joint master’s degree in European 
+Studies from the University of Strasbourg and the 
+University of Deusto and completed a post-graduate 
+specialisation course in International Relations, 
+Marketing and Communication.  
+Before starting her internship at the A2ii, Letizia 
+worked in the humanitarian field for the Red Cross in 
+Brussels, Belgium. 
+ 
+_______________________________ 
+View full newsletters on the A2ii website and 
+subscribe to the A2ii mailing list.
+
+IAIS NEWSLETTER | December 2023-January 2024   Page 16 of 16 
+ 
+For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  
+Comments and suggestions are always welcome. ©International Association of Insurance Supervisors 2024 
+About the IAIS 
+ 
+The International Association of Insurance Supervisors (IAIS) is a voluntary membership organisation of 
+insurance supervisors and regulators from more than 200 jurisdictions. The mission of the IAIS is to promote 
+effective and globally consistent supervision of the insurance industry in order to develop and maintain fair, safe 
+and stable insurance markets for the benefit and protection of policyholders and to contribute to global financial 
+stability.  
+ 
+Established in 1994, the IAIS is the international standard setting body responsible for developing principles, 
+standards and other supporting material for the supervision of the insurance sector and assisting in their 
+implementation. The IAIS also provides a forum for members to share their experiences and understanding of 
+insurance supervision and insurance markets.  
+ 
+The IAIS coordinates its work with other international financial policymakers and associations of supervisors or 
+regulators and assists in shaping financial systems globally. In particular, the IAIS is a member of the Financial 
+Stability Board (FSB), member of the Standards Advisory Council of the International Accounting Standards 
+Board (IASB) and partner in the Access to Insurance Initiative (A2ii). In recognition of its collective expertise, t he 
+IAIS also is routinely called upon by the G20 leaders and other international standard- setting bodies for input on 
+insurance issues as well as on issues related to the regulation and supervision of the global financial sector.  
+ 
+ 
+International Association of Insurance Supervisors  
+c/o Bank for International Settlements 
+CH-4002 Basel 
+Switzerland 
+Tel: +41 61 280 80 90 
+iaisweb.org 
+ 
+ 
+For news in real-time, follow us on LinkedIn 
+ 
+The publication is available free of charge on the IAIS website 
+ 
+©International Association of Insurance Supervisors 2024. 
+All rights reserved. Brief excerpts may be reproduced or translated provided the source is stated.

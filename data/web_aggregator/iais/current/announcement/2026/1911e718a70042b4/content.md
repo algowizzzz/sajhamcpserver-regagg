@@ -1,0 +1,29 @@
+# Registration opens for virtual stakeholder event on the Economic Impact Assessment of the ICS
+
+[22 Dec 2022](https://www.iais.org/2022/12/registration-opens-for-virtual-stakeholder-event-on-the-economic-impact-assessment-of-the-ics/)
+
+in [Latest news](https://www.iais.org/category/latest-news/), [Stakeholder events](https://www.iais.org/category/stakeholder-events/)
+
+The IAIS will host a virtual stakeholder event on **Friday, 27 January 2023 from 10:00am to 12:00pm CET**, focusing on the Economic Impact Assessment of the ICS.
+
+As part of the agreement for the ICS to enter the monitoring period, the IAIS committed to producing an Economic Impact Assessment of the ICS ahead of its implementation as a Prescribed Capital Requirement (PCR) in 2025. The purpose of the assessment is to develop an understanding of any potential significant effects of implementation of the ICS.
+
+The IAIS is seeking input from Volunteer Groups and stakeholders to develop the scope for the Economic Impact Assessment of the ICS which will be carried out in 2023 and 2024.
+
+To register, please click [**here**](https://bis.webex.com/weblink/register/r8f423daf232b7539bbc5abdb94a1802d).
+
+Questions have been prepared to guide the discussion, available [here](https://www.iais.org/uploads/2023/01/ICS-Economic-Impact-Assessment-Virtual-Stakeholder-meeting-questions.pdf).
+
+23 Jan 2023
+
+[Capital and solvency](https://www.iais.org/tag/capital-and-solvency/)[Insurance Capital Standard (ICS)](https://www.iais.org/tag/insurance-capital-standard/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2022%2F12%2Fregistration-opens-for-virtual-stakeholder-event-on-the-economic-impact-assessment-of-the-ics%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

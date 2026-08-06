@@ -1,0 +1,1 @@
+Summary: # IAIS mid-year Global Insurance Market Report 2026 reflects insurance sector stability amid global uncertainty

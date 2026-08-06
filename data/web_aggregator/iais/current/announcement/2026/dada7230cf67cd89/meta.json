@@ -1,0 +1,24 @@
+{
+  "doc_id": "dada7230cf67cd89",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "Public consultation on draft revisions to supervisory material related to the Holistic Framework - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/2024/12/public-consultation-on-draft-revisions-to-supervisory-material-related-to-the-holistic-framework/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0dbc942fde031059ae099f112f33e6b97cffa505df9ea1b21c15b2458d0d53f2",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/dada7230cf67cd89",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

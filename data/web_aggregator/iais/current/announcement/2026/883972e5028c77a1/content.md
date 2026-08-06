@@ -1,0 +1,90 @@
+CAREER OPPORTUNITIES WITH THE IAIS – SENIOR POLICY ADVISOR - CAPITAL AND SOLVENCY 
+The International Association of Insurance Supervisors (IAIS) is the global standard 
+setting body for insurance supervision. Our mission is to promote effective and globally 
+consistent supervision of the insurance industry for the benefit and protection of 
+policyholders and to contribute to global financial stability. 
+We are inviting applications for the position of Senior Policy Advisor – Capital and 
+Solvency (SPA CS).  
+By joining the IAIS: 
+You will be part of an international team of Senior Policy Advisors supporting IAIS global 
+projects and activities. You will have the opportunity to work with innovative projects 
+that helps reshape the business of insurance. You will be working on key areas of focus 
+for us such as technological innovation (including digital), cyber risk, climate risk, 
+conduct and culture, financial inclusion and sustainable economic development and 
+diversity, equity and inclusion are the emerging issues on which we are focused. 
+Job description  
+The Senior Policy Advisor will work as part of the Capital and Solvency team. In this role, 
+the successful candidate will support the IAIS’ policy development activities, which 
+includes the following primary responsibilities: 
+• Contributing to the IAIS work on the Insurance Capital Standard (ICS) and other 
+quantitative standards, including refining the design of the ICS as a prescribed 
+capital requirement based on data collection, an economic impact assessment 
+and public consultation. 
+• Contributing to related work, including the assessment of whether an 
+Aggregation Method provides comparable outcomes to the ICS. 
+• Supporting the work of the relevant IAIS working parties, including the Capital, 
+Solvency and Field Testing Working Group (CSFWG), Policy Development 
+Committee (PDC), and Insurance Capital Standard and Comparability Assessment 
+Task Force (ICSTF). 
+• Analysing quantitative and qualitative data collected from Volunteer Groups. 
+• Drafting technical specifications or calibration papers. 
+• Doing internal or external presentations on related matters. 
+• Analysing comments received from public consultations.
+
+• Supporting the maintenance of capital-related supervisory materials. 
+• Performing any other relevant work as assigned or delegated. 
+The general duties of a Senior Policy Advisor may also include the following: 
+• Contributing to meeting planning and logistics. 
+• Supporting the Secretary General and Senior Management Team. 
+• Preparing reports, presentations and documents on behalf of the IAIS, as well as 
+briefing notes for IAIS Leadership in external speaking engagements. 
+• Representing the IAIS in regional and international fora. 
+Job requirements 
+The following are minimum requirements for all applicants: 
+• Academic degree in a quantitative field (eg, finance, actuarial science, statistics, 
+mathematics, etc.). 
+• Extensive experience in a quantitative role either in an insurer, a supervisory 
+authority, similar public sector entity or equivalent within the financial sector. 
+• Good knowledge of the quantitative supervisory and supporting material 
+developed by the IAIS. 
+• Enthusiasm, drive and energy to achieve agreed objectives in a structured and 
+transparent manner. 
+• Demonstrated capacity to work flexibly, effectively and harmoniously in a small 
+team context to achieve the successful and on-time delivery of project objectives 
+over an extended timeline. 
+• Capacity to work well in time-constrained and/or information-constrained 
+circumstances. 
+• Experience and knowledge of coordination and/or supporting a complex 
+task/project. 
+• Ability to communicate complex concepts in a simple and clear manner. 
+• Ability to work constructively with colleagues from a wide variety of backgrounds 
+and nationalities. 
+• Excellent command of English (written and spoken) and ability to communicate 
+effectively both internally with team members and externally with insurance 
+supervisors and representatives from local, regional and other international 
+organisations.
+
+• Commitment to work in Basel, ability to sustain remote working and regular 
+travel. 
+Ideally, we are looking for candidates with a good knowledge of recent developments 
+regarding the supervision of internationally active insurance groups, including 
+ComFrame. Prior involvement in ICS work, either in a Volunteer Group or a supervisory 
+authority would be an advantage. Skills in at least one of the other two official IAIS 
+languages (French, Spanish) would be desirable. 
+Who we are: 
+The IAIS is a diverse organization with colleagues from many countries. By joining us in 
+the international city of Basel, you will work in a unique, highly rewarding, and 
+international work environment. We truly value diversity and inclusion and want to 
+reflect the world we serve. We want the best people to work for us in an inclusive 
+environment so welcome applications from all qualified candidates. We value equality 
+and diversity in all its forms and one way we support diversity and inclusion is through 
+our staff-run networks.  
+What we offer 
+The position is based in Basel, Switzerland, and will involve international travel. We offer 
+attractive employment conditions, and the salary will be paid free of Swiss income tax. 
+The contract term is for three years with possibility of extension. We also offer a 
+relocation package to the successful candidate.  
+To apply, please click here
+.  
+Questions? Please send a message to IAIS.Recruitment@bis.org.  
+Closing date for completed applications: 23 January 2023

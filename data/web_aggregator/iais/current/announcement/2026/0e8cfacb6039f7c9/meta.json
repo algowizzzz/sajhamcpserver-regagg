@@ -1,0 +1,24 @@
+{
+  "doc_id": "0e8cfacb6039f7c9",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2022/01/210504-4-May-2021-Press-Release-IAIS-completes-key-milestone-in-AM-comparablity-assessment.pdf",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2022/01/210504-4-May-2021-Press-Release-IAIS-completes-key-milestone-in-AM-comparablity-assessment.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:64b5e88eb4791e7c7878a43d99a169064c100b7d645904f80adf8daf65eeda16",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/0e8cfacb6039f7c9",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

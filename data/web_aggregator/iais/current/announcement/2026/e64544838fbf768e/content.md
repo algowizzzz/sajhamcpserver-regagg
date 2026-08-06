@@ -1,0 +1,45 @@
+Questions for public consultation on draft 
+application paper on supervising 
+diversity, equity and inclusion: the 
+governance, risk management and culture 
+perspective 
+ 
+ 
+ 
+Thank you for your interest  in the public consultation on draft application paper on supervising 
+diversity, equity and inclusion: the governance, risk management and culture perspective . The 
+Consultation Tool is available on the IAIS website. 
+ 
+ 
+Please do not submit this document to the IAIS. All responses to the Consultation 
+Document must be made via the Consultation Tool  to enable those responses to be 
+considered.
+
+Consultation questions 
+1 General comments on the Application Paper 
+2 Comments on section 1 Introduction 
+3 Comments on section 1.1 Context and objective 
+4 Comments on Box 1 Interpretation of the terms diversity, equity and inclusion in this 
+paper 
+5 Comments on section 1.2 Related work by the IAIS 
+6 Comments on section 1.3 Proportionality 
+7 Comments on section 2 Why DEI within an insurer matters to ICPs 7, 8 and corporate 
+culture 
+8 Comments on Box 2 What is groupthink and why does it matter to insurers? 
+9 Comments on section 3 What should a supervisor look out for? 
+10 Comments on section 3.1 Relevant matters to look at 
+11 Comments on section 3.2 Warning signs an insurer might need to enhance its DEI 
+efforts 
+12 Comments on Box 3 What is DEI-washing? 
+13 Comments on Box 4 Indicators of positive action on DEI at an insurer 
+14 Comments on section 4 What can a supervisor do in response? 
+15 Comments on section 4.1 Industry-wide approach 
+16 Comments on section 4.1.1 Use of soft powers 
+17 Comments on section 4.1.2 Incorporating DEI themes into supervisory approaches 
+18 Comments on section 4.1.3 Develop requirements 
+19 Comments on section 4.2 Insurer-specific engagement 
+20 Comments on section 4.2.1 Understanding an insurer’s approach to DEI 
+21 Comments on section 4.2.2 Undertake review work to examine DEI related 
+arrangements and plans 
+22 Comments on Box 5 Collecting and using data as part of a DEI strategy 
+23 Comments on section 5 Conclusion

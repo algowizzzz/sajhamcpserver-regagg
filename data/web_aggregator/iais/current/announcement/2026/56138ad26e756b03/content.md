@@ -1,0 +1,927 @@
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+ 
+ 
+ 
+ 
+Summary of consultation comments on the supporting 
+material in Climate Risk Consultation Package 3 and their 
+resolution 
+ 
+ 
+April 2025
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+ 
+Ref Summary of comments received IAIS response 
+Comments on the proposed changes to reflect climate risk in existing supporting material related to ICP 7 (Corporate Governance) 
+General 
+comments on 
+section 3.3 
+Sections 3.3 effectively promote a high degree of attentiveness to climate-
+related risk. The boards have to be aware of all material risks to the firm. A 
+narrow focus on a single risk could misguide their attention and increase the 
+insurer’s overall vulnerability. Consideration should be given to remove 
+section 3.3 or to include language that ensures that climate-related risk is 
+appropriately balanced with other risks and business considerations. 
+No change made as the focus of this material is on 
+climate-related risks. Also, part of section 3.3 stems from 
+existing language from the IAIS/SIF 2021 Climate Risk 
+Application Paper.  
+General 
+comments on 
+section 3.3 
+Given the IAIS proposal around skills and knowledge, it would be more 
+appropriate for the IAIS to provide principles-based guidance to firms on the 
+types of training that would help to ensure that firms, board members, and 
+employees have right skills and knowledge in relation to material climate 
+and sustainability-related risks. 
+ 
+One option would be for the IAIS to produce guidance setting out 
+recommendations for knowledge and skills applicable to all staff, senior 
+management, board members, etc.  Such guidance would need to be 
+developed with industry, as it is industry that is best placed to say what 
+knowledge and skills are needed for each role. 
+The suggested additional content is beyond the scope of 
+the material. However, IAIS would consider the 
+proposals and decide whether further supporting 
+material should be developed to address them. 
+General 
+Comments on 
+section 3.3 
+Because the capacity of an insurer’s is not limitless, an overly narrow focus 
+on a single risk dynamic (climate change) could increase the insurer’s 
+overall vulnerability to broader risk exposures. IAIS guidance should 
+promote a balanced view of risks. 
+This Application paper focuses on climate-related risks. 
+Other IAIS supervisory materials cover the wider risk 
+universe impacting insurers.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+Para 32 The term “demonstrate” is vague. If a scientific basis is sought, it would be 
+extremely challenging to implement. This paragraph should be removed. 
+IAIS considers that this statement is clear and written in 
+the style of the IAIS application paper. 
+Para 32 When an insurer’s board retains external expertise, the relevant board 
+committee should conduct appropriate due diligence, but it cannot be 
+expected to ‘demonstrate the competence of the experts’ or ‘assess that the 
+information and guidance is appropriate’. Rather, the board committee 
+should be expected to review the qualifications and background of 
+proposed experts and make an informed decision as to whether their 
+retention would benefit the firm. 
+A new sentence has been added to paragraph 32 on 
+Board’s review of experts’ qualification and background. 
+General 
+comments on 
+section 3.4 
+Firms should be free to make their own determination about which senior 
+managers are most appropriate to assume responsibility across the range 
+of sustainability-related actions. 
+The paragraph refers to senior management as a whole. 
+General 
+Comments on 
+section 3.5 
+The revisions of Section 3.5 about remuneration blur risk management (the 
+risks assumed by the insurer in the normal course of business) and 
+sustainability considerations, which are premised on the insurer’s broader 
+social responsibility. Paragraph 35, 37, the first part of paragraph 38, and 
+paragraph 39 focus on risk management, while paragraph 36 and the 
+second half of paragraph 38 focus on sustainability considerations. If 
+section 3.5 retained, consideration should be given to separating these 
+topics. 
+Section 3.5 has been rearranged to better groupe the 
+themes presented. 
+General 
+Comments on 
+section 3.5 
+We respectfully disagree with the proposed change to the supporting 
+material to reflect climate risk under “3.5 Duties related to remuneration”. 
+We believe there are other effective measures of climate risk management 
+progress. For example, regular ESG committee at senior management 
+level, and regular reports to Risk Committee can provide oversight on 
+progress and impact of climate risk management. There are other equally 
+The suggested additional content is beyond the scope of 
+the material. However, IAIS would consider the 
+proposals and decide whether further supporting 
+material should be developed to address them.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+pervasive systemic risks that go through the risk management process and 
+in our view climate risk is no exception. 
+Para 35 In the last sentence of paragraph 35, “as appropriate” is taken out. We 
+strongly suggest retaining. 
+This part of the sentence has been deleted out as it 
+implies that climate-related risks should not be 
+considered in the same way as other risks. 
+Para 36 Given the difficulty of distinguishing the effects of weather versus climate, 
+remuneration should not be aligned with climate specifically. It should be 
+aligned with the management of all material risks. This section places 
+climate above all other risks and pre-supposes that its effects can be 
+measured separate from weather. Paragraph 36 is overly prescriptive and 
+should be deleted. 
+With Application Papers, including this one, the IAIS 
+does not set out new requirements, but provides further 
+advice, illustrations, recommendations, or examples of 
+good practice to supervisors on how supervisory 
+material may be implemented. The focus of this 
+supporting material is on climate related risks only. 
+Para 36 The guidance should go further by stating that insurers “should” rather than 
+“may” use variable remuneration to reflect climate risk management 
+process. Making this an explicit expectation would strengthen the standard. 
+No change made, also consistent with the ICP 7. 
+Para 36 The IAIS should be cautious from creating the impression that climate risks 
+deserve preferential attention compared to other risk drivers. We are 
+particularly concerned that the IAIS considers variable remuneration as a 
+helpful tool for reaching climate-related or broader sustainability goals. It is 
+not within the mandate of insurance supervisors to promote the 
+transformation to a climate-neutral environment. In addition, the supposed 
+emphasis on climate-related goals may expose senior management and the 
+board to conflicts of interest. 
+The IAIS disagrees that this paper creates the 
+impression that climate risks are more important 
+compared to other risk drivers. The focus of this 
+supporting material is simply on climate related risks. 
+The paper also includes language that notes that 
+climate-related risks should be considered alongside 
+other risks.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+Para 37 The paragraph appropriately cautions against superficial actions by 
+requiring remuneration to be tied to measurable climate risk mitigation 
+impacts. Building on this, the guidance could specify that variable pay 
+should be linked to quantitative climate targets and metrics relevant to the 
+insurer’s specific climate exposures and transition plan. 
+The suggested additional content is beyond the scope of 
+the material. However, IAIS would consider the 
+proposals and decide whether further supporting 
+material should be developed to address them. 
+Para 38 Non-financial criteria are more difficult to measure than financial criteria, 
+and there is concern that variable remuneration may be administered in an 
+arbitrary manner. 
+Reflected 
+Paragraph 38  Some respondent suggested removing the phrase “…and non-financial 
+criteria should not be negligible”. As it is primarily up to insurers to define 
+this. 
+Reflected. Also, the sentence already mentions that 
+financial and non-financial criteria should be 
+appropriately balanced. 
+Paragraph 38  Some respondents suggested removing the phrase “These should be linked 
+to the decisions made by relevant staff member”. 
+The phrase has not been deleted as it is an important 
+statement. However, the sentence has been changed by 
+using “may” instead of  “should”. 
+Para 39 Since climate-related risks are considered only one element or 
+remuneration arrangements, we suggest replacing “should” with “can”. 
+To soften the tone a different change has been made to 
+the sentence has been made (: “consider” instead of 
+“take into account”). 
+Comments on the proposed changes to reflect climate risk in existing supporting material related to ICP 8 (Risk Management and Internal 
+Controls)
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+Para 41 Most stakeholders recognize that double materiality has become a topic of 
+importance when addressing sustainability issues. Some stakeholders show 
+skepticism in adding it in IAIS’ supporting material, arguing that it may fall 
+outside of the remit of insurance supervisors. However, a majority of 
+stakeholders explicitly support the inclusion of double materiality.   
+ 
+No significant changes were made. 
+Para 41 Suggestion for adding “When addressing climate-related risks, insurers 
+should be aware of, and consider, the extent to which these risks could 
+affect the longer-term strategy of the insurer (such as its continued market 
+presence beyond the maturities of their current assets and liabilities), their 
+current assets and liabilities through different channels (including physical, 
+transition and reputational/liability risks).” 
+Added “long-term strategy” in “When addressing climate-
+related risks, insurers should be aware of, and consider, 
+how these risks have the potential to affect their long-
+term strategy and their assets and liabilities through 
+different channels (including physical, transition and 
+reputational/liability risks).” 
+Comments on 
+section 4.1 
+Overall support for the additions of forward-looking assessments and 
+recognize the limitations of historical data to fully reflect climate-related 
+risks. A minority of stakeholders argue that more flexibility should be 
+granted to insurers when carrying out forward-looking assessments which 
+themselves have limitations.  
+   
+ 
+The proposed change has not been made as the 
+paragraph outlines that forward-looking assessments 
+are encouraged as a complement (and not a perfect 
+substitute) to historical data analysis.  
+Para 42 Paragraph 42 should reference climate risk drivers rather than climate risks. Reflected 
+Para 43 Suggestions to: 
+1. Provide more guidance on the types of tools and methodologies insurers 
+could use to translate climate scenarios into financial risk metrics, such as 
+climate Value-at-Risk or scenario-based capital charges. Sharing illustrative 
+examples or case studies of emerging good practices in this area could help 
+accelerate adoption.  
+ 
+Sentences at the end of para 43 and 49 added to partly 
+reflect the suggestions.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+2. Encourage insurers to engage with external data, modeling, and service 
+providers to enhance their climate risk assessment capabilities, while 
+ensuring appropriate due diligence and internal accountability for any 
+outsourced elements. Industry collaboration and knowledge-sharing 
+platforms could also be highlighted as valuable resources.  
+ 
+3. Emphasize the need for insurers to consider not only the impacts of 
+climate risks on individual risk categories, but also the potential for amplified 
+or cascading effects across the risk landscape. Capturing these complex 
+interactions and feedback loops will require a more integrated and dynamic 
+approach to risk management.  
+ 
+4. Highlight the importance of setting clear risk appetite statements, limits, 
+and key risk indicators for climate risk exposures, informed by forward-
+looking scenario analysis. This can help translate high-level risk 
+assessments into actionable monitoring and steering metrics for senior 
+management and the board.  
+ 
+Comments on the proposed new supporting material related to ICP 14 (Valuation) to reflect climate risk 
+General It could be perceived that the potential effects of climate change are not 
+sufficiently taken into account. IAIS does not consider that this is implied. 
+ 
+General On the liability side, this recommendation should keep a better balance 
+between climate risks and other risks. 
+IAIS does not consider that a change is needed; the 
+focus of the material is on climate risk.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+General Suggestion for additional material and recommendations: 
+1. Provide more specific examples or case studies of how insurers are 
+integrating climate risk into their valuation methodologies and assumptions 
+for different asset classes and lines of business. Sharing emerging good 
+practices can help accelerate the development of industry standards. 
+2. Encourage insurers to leverage climate scenario analysis to assess the 
+potential impacts of transition and physical risks on asset and liability 
+valuations over different time horizons 
+3. Highlight the importance of considering the interdependencies and 
+correlations between climate risks across the balance sheet, rather than 
+assessing assets and liabilities in isolation. A holistic approach to climate 
+risk assessment is needed to capture potential amplification effects and risk 
+concentrations. 
+4. Emphasize the need for insurers to disclose their approach to climate risk 
+integration in valuation processes, including key assumptions, uncertainties, 
+and sensitivities. Transparency in this area can help build market 
+confidence and enable more informed decision-making by stakeholders. 
+5. Encourage supervisors to engage in dialogue with insurers on their 
+climate risk valuation practices, and to share insights and lessons learned 
+across the sector. Collaboration and knowledge-sharing will be essential to 
+drive convergence towards best practices over time. 
+6. Provide more specific guidance on the types of long-term climate 
+scenarios and risk factors that insurers should consider in their investment 
+valuations. This could include references to established frameworks such 
+as the NGFS scenarios, as well as emerging best practices around physical 
+and transition risk modelling. 
+7. Highlight the importance of considering not just individual assets or 
+issuers, but also the potential for systemic risks and market-wide 
+disruptions due to climate change. Insurers should assess their exposure to 
+climate-sensitive sectors and geographies at a portfolio level and consider 
+potential amplification effects across asset classes. 
+8. Encourage insurers to develop integrated internal processes and controls 
+around climate risk incorporation in liability valuation, including regular 
+review and updating of assumptions, models, and data sources as new 
+Some of the suggested additional content is beyond the 
+scope of the material. Part of the suggestions are also 
+already reflected in the overall climate risk consultation 
+packages (eg, on climate scenario analysis, on 
+disclosures, or macroprudential considerations. 
+IAIS would consider the proposals and decide whether 
+further supporting material should be developed to 
+address them.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+information becomes available. Insurers should document these processes 
+and be able to explain their approach to supervisors. 
+9. Highlight the importance of considering the interplay between asset and 
+liability valuations, and the need for consistency in the climate-related 
+assumptions used on both sides of the balance sheet. Insurers should 
+assess the potential for climate risks to affect asset-liability management 
+and take appropriate actions to mitigate any mismatches. 
+10. Provide additional examples or case studies of how different types of 
+insurers are approaching climate risk incorporation in liability valuation, 
+including key challenges faced and emerging best practices. Sharing 
+knowledge and experiences across the industry can help accelerate the 
+development of robust valuation practices. 
+Section on 
+Valuation of 
+assets 
+While Paragraph 3 explains that "As the ICPs address risks more broadly, 
+ICP 14 does not directly discuss how climate risk specifically could impact 
+the drivers of valuation and how insurers should consider the impact on 
+those drivers in valuation", we would appreciate it if the IAIS could provide 
+some specific examples of methods for assessing the impact of climate risk 
+on assets. As mentioned in Paragraph 14, it is difficult to estimate the 
+impact of climate risk on assets at this time, but if there are good practices, 
+it would be useful for both supervisors and insurers. 
+The suggested additional content is beyond the  scope 
+of the material. However, IAIS would consider the 
+proposals and decide whether further supporting 
+material should be developed to address them. 
+Section on 
+Impacts on 
+types of 
+valuations 
+Highlighting the need to further develop valuation methodologies to ensure 
+that climate-related risks are accurately reflected in asset valuations without 
+delay.  
+The suggested additional content is beyond the scope of 
+the material. However, IAIS could consider the 
+proposals and decide whether further supporting 
+material should be developed to address them. 
+Para 11 Paragraph 11. Suggested rewording to add concepts of materiality and 
+reliability: "Valuation may be based on different levels of market information. 
+Regardless of the method or level of market information, valuations should 
+reflect known reliable information, including any "financially material" 
+impacts from climate change, "when reliable and estimable". 
+"financially material" has been added
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+Para 12 Paragraph 12. Suggested rewording to incorporate materiality: “If assets are 
+valued based on amortised cost, impairment evaluations should consider 
+reliably estimable potential cash flows including any "financially material" 
+reduction in future cash flows due to transition and physical risk.” 
+No change made as the issue is already reflected in the 
+preceding paragraph. Proportionality and materiality are 
+concepts that are relevant across the IAIS material. 
+Para 14 Paragraph 14. This paragraph places emphasis on climate-related risks 
+and, as currently articulated, appears to give this risk precedence over other 
+risks. We believe it is important for the regulatory framework to promote an 
+equitable focus on all types of risk. If climate risk were to be retained, we 
+believe it is important to add materiality qualifications around it, such as 
+through the following rewording: “Supervisors should review insurers’ 
+valuation methodologies to determine whether known and reliable estimable 
+information, including the “financially material” impacts of climate risk on 
+their investments, are being considered." 
+No change made as this sentence is a general 
+description about “the impact of climate risk” and how it 
+may evolve over time.  
+Section on 
+Time horizons 
+of the 
+investment 
+Recommendation for including guidance on the use of forward-looking 
+information derived from transition plans. Insurers should take into account 
+the transition plans of their investee companies and clients when assessing 
+investment and underwriting risk levels. Transition plans provide valuable 
+insights into how companies intend to adapt to a low-carbon economy, 
+including policy changes, technological advancements, and mitigation of 
+physical risks. 
+The suggested additional content is beyond the scope of 
+the material. However, IAIS would consider the 
+proposals and decide whether further supporting 
+material should be developed to address them.  
+Section on 
+Valuation of 
+liabilities 
+The paper does not seem to address some of the specific issues related to 
+how climate-related risks could impact valuation of future claims liabilities. 
+Guidance should be provided to insurers which aspect they should give 
+more emphasis in the valuation: prudence or absence of bias. Also, it 
+should cover to what extent should insurers consider the uncertainty related 
+to climate in the central estimate or in the margin over it, given it is likely 
+that a reliable central estimate is unavailable. Furthermore, it could be noted 
+that insurers should consider the impact of mitigation and adaptation where 
+relevant. 
+The suggested additional content is beyond the scope of 
+the material. However, IAIS would consider the 
+proposals and decide whether further supporting 
+material should be developed to address them.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+Para 19 Paragraph 19 seems to combine consideration of short-term liabilities with 
+considerations used to set future premiums. Future effects of climate 
+change do not affect current liabilities for events that have already occurred 
+(as noted in paragraph 23)." 
+IAIS considers that the paragraph explains why this is 
+relevant. 
+Para 22 As for "Regarding the latter, economic scenario generators should be 
+calibrated to current market prices", approaches exist that do not employ 
+economic scenario generators. Therefore, we suggest revising the sentence 
+as follows: "Regarding the latter, predictions based on economic scenarios 
+should be calibrated to current market prices". 
+Addition reflected (but using 
+ “projections” instead of “predictions”) 
+Para 22 Paragraph 22. Suggested rewording to add the concept of financial 
+materiality: "For (longer-term) life business, the long horizon for cashflows 
+also means that there may be room to consider the impact of climate 
+change in the calculation of the current estimate, if the impacts are 
+"financially material and" reliably estimable." 
+Reflected  
+Para 26 Suggestion for deleting "Supervisors should consider if data used in these 
+processes reflect current climate risk exposure." 
+The statement has not been deleted as IAIS considers 
+that it is an important statement.  
+Comments on the proposed changes to reflect climate risk in existing supporting material related to ICP 15 (Investments) 
+General We do not believe that supervisors need to establish prescriptive regulatory 
+investment requirements that include the impacts of climate change, as 
+suggested in Paragraph 1 in the proposed new supporting material related 
+to ICP 15.  Any prescriptive, one-size-fits-all requirements would be at odds 
+with the principle of proportionality and could give rise to negative 
+unintended consequences, including herding behavior, if applied to all 
+insurers in a particular jurisdiction. 
+IAIS does not consider that this is implied by this paper.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+General The proposed material appears to be quite prescriptive. The text is written in line with the IAIS drafting style for 
+Application Papers, which provide recommendations 
+and examples of good practices; it does not create new 
+requirements. 
+General An insurer’s asset management strategy should include the review of 
+issuers’ climate-related disclosures and/or transition plans, in order to 
+identify and manage climate-related risks of potential investments. Climate 
+disclosures and transition plans can be valuable tools for insurance 
+companies to understand the risks of their investments in a changing 
+climate 
+ A reference was added in paragraph 11, which 
+discusses how insurers should have sufficient 
+information about their investments, to note this as one 
+possible source of information. 
+General Suggestion for additional material and recommendations: 
+1. Provide more specific examples or case studies of how insurers are 
+integrating climate risk considerations into their investment policies, 
+processes, and decision-making. Sharing emerging best practices can help 
+accelerate the adoption of these approaches across the industry. 
+2. Encourage insurers to set clear targets and metrics for aligning their 
+investment portfolios with the goals of the Paris Agreement and to regularly 
+disclose their progress towards these objectives. This could include metrics 
+such as portfolio carbon footprints, green investment ratios, and alignment 
+with science-based decarbonization pathways. 
+3. Emphasize the importance of capacity-building and knowledge-sharing 
+on climate risk assessment and management within insurers' investment 
+teams and among key service providers such as asset managers and ESG 
+data providers. Supervisors could play a role in facilitating the development 
+and dissemination of educational resources and training programs. 
+4. Highlight the need for insurers to consider not only the climate risk 
+exposure of individual assets, but also the potential for amplification effects 
+and systemic risks at the portfolio level. This may require the use of 
+advanced scenario analysis and stress testing tools to assess the resilience 
+of investment strategies under different climate futures. 
+The suggested additional content is beyond the  scope 
+of the material. However, IAIS could consider the 
+proposals and decide whether further supporting 
+material should be developed to address them.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+5. Encourage supervisors to engage in regular dialogue with insurers on 
+their climate risk investment practices and to take appropriate actions where 
+material risks are not being adequately managed. This could include setting 
+supervisory expectations for disclosure, governance, and risk management, 
+and using thematic reviews or stress tests to assess industry-wide 
+vulnerabilities. 
+Section on 
+Climate 
+change factor 
+for investment 
+requirements 
+It’s important to recognise that an insurer’s investments can be overly 
+focused on climate risk or heavily geared towards a potential “green” 
+transition. This can lead to risk concentrations or missed investment 
+opportunities, ultimately reducing policyholder protection. Long-term 
+investors in real estate and infrastructure need to be concerned about the 
+insurability of these assets over the long term. Investments in green 
+infrastructure face the same issues, as many facilities developed for 
+decarbonisation may become uninsurable due to physical climate risks over 
+the asset’s life cycle or the duration of the investment. 
+Noted. 
+Section on 
+Climate 
+change factor 
+for investment 
+requirements 
+The material related to ICP 15.2 largely falls outside the remit of insurance 
+supervisors. Insurance supervisors are not typically responsible for 
+requiring insurers to consider the impact of their investments on the climate, 
+to engage with investees, or to require divestment of certain assets deemed 
+non-sustainable.  
+No changes have been made as the language does not 
+set any new requirements for insurers: for instance, the 
+wording used is “insurers could decide to”. 
+Section on 
+Climate 
+change factor 
+for investment 
+requirements 
+All scientific evidence states that there is no need for investment in new 
+fossil fuel supply in our net zero pathway.- We therefore urge the IAIS to 
+recognise this and state that investments into fossil fuel exploration are 
+unjustifiable. 
+The suggested additional content is beyond the scope of 
+the material. However, IAIS could consider the 
+proposals and decide whether further supporting 
+material should be developed to address them.  
+Section on 
+Climate 
+change factor 
+for investment 
+requirements 
+Please provide examples of specific methods for "monitoring...the financial 
+risks arising from climate change" 
+The suggested additional content is beyond the scope of 
+the material. However, IAIS would consider the 
+proposals and decide whether further supporting 
+material should be developed to address them.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+Section on 
+Climate 
+change factor 
+for investment 
+requirements 
+All scientific evidence states that there is no need for investment in new 
+fossil fuel supply in our net zero pathway. We therefore urge the IAIS to 
+recognise this and state that investments into fossil fuel exploration are 
+unjustifiable. 
+The suggested additional content is beyond the scope of 
+the material. However, IAIS could consider the 
+proposals and decide whether further supporting 
+material should be developed to address them. 
+Section on 
+Climate 
+change factor 
+for investment 
+requirements 
+Suggestion for additional material and recommendations: 
+1. Encourage insurers to engage with scientific experts, policymakers, and 
+other stakeholders to stay abreast of the latest developments in climate 
+science, policy, and litigation, and to inform their risk identification and 
+assessment processes. 
+2. Highlight the importance of considering the interconnections and potential 
+spillover effects between different risk categories, rather than assessing 
+them in isolation. For example, physical risks could exacerbate credit risks, 
+while transition risks could amplify market and liquidity risks. 
+3. Provide guidance on how insurers can effectively integrate climate risk 
+considerations into their existing risk taxonomies, frameworks, and 
+management processes, rather than treating them as a separate or 
+standalone issue. 
+4. Encourage insurers to leverage emerging tools and methodologies for 
+climate risk assessment, such as climate scenario analysis, stress testing, 
+and geospatial mapping, and to continually refine and enhance these 
+approaches as data and best practices evolve. 
+5. Emphasize the need for insurers to consider the distributional impacts of 
+climate risks across different geographies, sectors, and communities, and to 
+take a nuanced and context-specific approach to risk assessment and 
+management. 
+The suggested additional content is beyond the scope of 
+the material. However, IAIS would consider the 
+proposals and decide whether further supporting 
+material should be developed to address them. 
+Para 3 The phrase “and take necessary action” should be deleted from the second 
+sentence in paragraph 3. It is entirely appropriate for a supervisor to assess 
+whether it believes an insurer is taking climate risk into account – it is not 
+appropriate for the supervisor to direct an insurer to take action based on 
+the supervisor’s view of climate risk. 
+IAIS considers that there is a role of a supervisor in this 
+context.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+Para 3 With respect to Paragraph 3, we would amend the third sentence to read 
+that ‘it may be relevant for senior management of the insurer to assess and 
+take necessary action as to how the impact from climate change on the 
+insurer’s investment may affect the risk-return characteristics of a portfolio’.  
+This assessment and any subsequent action should be taken by the senior 
+management of the insurer rather than by the supervisor.  Insurers invest 
+their assets in light of a number of important objectives, including 
+compliance with existing regulatory requirements and asset-liability 
+management being among the most important given insurers’ obligations to 
+policyholders.   As noted above, insurers and supervisors have a common 
+goal of ensuring that all material risks are well managed, including material 
+climate-related financial risks.  Supervisors should intervene in the event 
+that senior management does not meet regulatory requirements or fails to 
+adequately manage the risks of the investment portfolio (and particularly if 
+risk management shortcomings could negatively impact policyholders).  
+IAIS considers that there is a role of a supervisor in this 
+context. 
+Para 3 With regard to paragraph 3 (the last sentence), there is a suggestion that 
+the IAIS provides examples of specific methods for, "monitoring...the 
+financial risks arising from climate change". 
+The suggested additional content is beyond the scope of 
+the material. However, IAIS would consider the 
+proposals and decide whether further supporting 
+material should be developed to address them. 
+Section on 
+Investment of 
+assets for the 
+portfolio as a 
+whole 
+Insurers should not be required to check the appropriateness of credit 
+ratings. Rather, we believe that carrying out plausibility checks on such 
+investments in light of their own investment appetite is the right response. 
+Noted, but this paper does not set out new 
+requirements. 
+Para 5 A description about transition finance should be added, as transition finance 
+can influence the activities of investees. 
+The suggested additional content is beyond the scope of 
+the material. However, IAIS would consider the 
+proposals and decide whether further supporting 
+material should be developed to address them.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+Para 7-8 We note also that while the proposed new ICP 16 supporting material 
+includes in its paragraph 12 some of the same material contained in this 
+proposed new ICP 15 supporting material, it also includes additional 
+language in proposed paragraph 13 that is relevant to asset-liability 
+management as discussed in paragraphs 7-8. That language should be 
+included in the supporting material at paragraphs 7-8. 
+No change is made to avoid repetitions. 
+Para 8 The material related to ICP 15.3, particularly paragraph 8, indicates that 
+transition risk can impact the matching of assets and liabilities due to the 
+“significant” impairment of individual firms (i.e., investees). This assertion 
+fails to recognise that (i) the viability of investees businesses is constantly 
+impacted by many dynamics, not just climate change, and (ii) investees 
+may potentially benefit from these dynamics, because their business 
+models may be adaptable. Paragraph 8 should reflect a more thorough 
+assessment of market dynamics and potential business model changes and 
+their adaptability. A similar assertion is within the material related to section 
+16.5. Thus, this material should be removed. For insurers with long-term 
+liabilities, having assets with long durations is preferable from an ALM 
+perspective. However, climate-related risks, which are difficult to assess, 
+are hard to consider over a long-term time horizon due to inherent 
+uncertainties. Also, other risk drivers might be more dominant over a long-
+time horizon. 
+This level of consideration goes beyond the scope of the 
+consultation. Also, the language merely suggests that 
+insurers should consider whether it could be 
+significantly impaired.  
+   
+Comments on the proposed changes to reflect climate risk in existing supporting material related to ICP 16 (Enterprise Risk Management for 
+Solvency Purposes)
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+General Suggestion for additional material and recommendations: 
+1. Provide more specific examples or case studies of how insurers are 
+integrating climate risk considerations into their investment policies, 
+processes, and decision-making. Sharing emerging best practices can help 
+accelerate the adoption of these approaches across the industry. 
+2. Encourage insurers to set clear targets and metrics for aligning their 
+investment portfolios with the goals of the Paris Agreement and to regularly 
+disclose their progress towards these objectives. This could include metrics 
+such as portfolio carbon footprints, green investment ratios, and alignment 
+with science-based decarbonization pathways. 
+3. Emphasize the importance of capacity-building and knowledge-sharing 
+on climate risk assessment and management within insurers' investment 
+teams and among key service providers such as asset managers and ESG 
+data providers. Supervisors could play a role in facilitating the development 
+and dissemination of educational resources and training programs. 
+4. Highlight the need for insurers to consider not only the climate risk 
+exposure of individual assets, but also the potential for amplification effects 
+and systemic risks at the portfolio level. This may require the use of 
+advanced scenario analysis and stress testing tools to assess the resilience 
+of investment strategies under different climate futures. 
+5. Encourage supervisors to engage in regular dialogue with insurers on 
+their climate risk investment practices and to take appropriate actions where 
+material risks are not being adequately managed. This could include setting 
+supervisory expectations for disclosure, governance, and risk management, 
+and using thematic reviews or stress tests to assess industry-wide 
+vulnerabilities. 
+The suggested additional content is beyond the scope of 
+the material. However, IAIS would consider the 
+proposals and decide whether further supporting 
+material should be developed to address them. 
+General An insurer’s asset management strategy should include the review of 
+issuers’ climate-related disclosures and/or transition plans, in order to 
+identify and manage climate-related risks of potential investments. Climate 
+disclosures and transition plans can be valuable tools for insurance 
+companies to understand the risks of their investments in a changing 
+climate 
+The suggested additional content is beyond the scope of 
+the material. However, IAIS would consider the 
+proposals and decide whether further supporting 
+material should be developed to address them.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+General The proposed supporting material on ICP 16 is missing a section on 
+underwriting policy, which should follow the section on investment policy. 
+Insurers’ underwriting of fossil fuels represents an equal or greater 
+contribution to climate change. 
+The suggested additional content is beyond the scope of 
+the material. However, this was partly covered in the 
+2021 Climate Risk Application Paper which is included in 
+the updated 2025  Climate Risk Application Paper. 
+Also, IAIS would consider the proposals and decide 
+whether any further supporting or supporting material 
+should be developed to address them. 
+Para 1 For ERM purposes, the focus should centre on materials risks to companies 
+and reflected in the section. In paragraph 1, the proposal is for adding 
+"material" between "insurer's" and "risks." 
+No change made as there is a need to establish whether 
+risks are not material 
+Para 2 Paragraph 2 suggests that climate change poses material risks to insurers. 
+This may not be universally the case, hence we believe this paragraph will 
+improve with more nuanced wording: " Climate change poses wide-ranging 
+and "potentially" material risks to the financial system." 
+Noted. 
+Section on 
+Risk 
+identification 
+and 
+measurement 
+Given the unique attributes of climate risk, the proposed additions to the 
+guidance should acknowledge that traditional approaches to risk 
+management, including modeling, hedging, and reinsurance, are insufficient 
+to manage the risks posed by climate change, and the guidance should 
+instead direct supervisors to focus on actions they can take now to reduce 
+climate-related risk. 
+No change made, the overarching paper already 
+touches upon some of these issues, such as the need to 
+use forward-looking scenario analysis to assess climate-
+related risks to avoid relying on historical data only. 
+Para 3 We suggest rewording of the second bullet point: "In turn, related financial 
+and credit market losses “can affect” insurers’ assets, while increased 
+litigation “can impact insurers’ liabilities and "can impact" the long-term 
+viability of certain business lines." 
+ Reflected
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+Para 4 Paragraph 4 notes that "Climate-related risks present unique challenges 
+and require a strategic approach to financial risk management. Climate-
+related risks are...Uncertain but foreseeable". However, it is difficult to 
+foresee climate-related risks (as stated in "Dependent on short-term 
+actions"), although it is to some extent possible to foresee major climate-
+related trends such as an increase in GHG concentrations leading to global 
+warming. Therefore, we suggest replacing "but foreseeable" with "but 
+inevitable". 
+Reflected 
+Para 4 Suggested rewording of the fourth bullet point: "Certain physical and 
+transition risks are unlikely to be adequately captured in historical data, or 
+the pricing model [suggestion for deletion: is no longer fit for purpose]" may 
+have to be re-considered" due to the evolution of climate risks [and their 
+interactions], given their unprecedented and long-term nature, "depending 
+on the nature and duration of the underlying liability". Given the forward-
+looking nature of climate risks and the inherent uncertainty of both the 
+physical impact of climate change and resulting societal responses, past 
+experience may not be a good indicator of future conditions. " 
+ Reflected 
+Para 5 Suggestion for adding "and materiality" between "potential impact" and "of 
+climate related risks" in the top sentence.  
+Reflected 
+Para 5 In the "Pricing and underwriting risk" section, the IAIS should add 
+"financially material" ahead of "impacts of climate change on their 
+underwriting activities…" in the first sentence.  
+No change made, issues on materiality and 
+proportionality apply across IAIS material.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+Para 5 Suggestion to delete the third sentence in that same paragraph, "However, 
+pricing models may not properly reflect climate-related physical risks…". 
+There is no need to price for potential future risks in current contracts for 
+short-term liabilities. 
+Noted as there is a need to price for future risks even in 
+short term contracts. 
+Section on 
+Risk 
+concentrations 
+It would seem appropriate for insurance supervisors to be equally cautious 
+about concentrations in “green” investments. 
+Noted, but no change made. 
+Section on 
+Risk 
+concentrations 
+The material related to ICP 16.2, Risk Concentrations, observes that, 
+“insurers with significant investment exposures to assets that are vulnerable 
+to climate-related risks are potentially more exposed to systemic risk.” It is 
+unclear why this is characterised as “systemic risk”, rather than a potential 
+firm specific risk driver.  
+The updated 2025 Climate Risk Application Paper 
+includes material on the potential systemic risk. 
+Section on 
+Corporate 
+strategy and 
+time horizons 
+It should be noted that in its strategic ERM approach, the insurer should 
+take into account risks that relate to being a going concern over a longer 
+period of time than the time horizon of their detailed business plan. They 
+should also consider risks (such as climate related risks) that may have a 
+serious impact of its market presence in relation to its strategically covered 
+lines of business. Consequently, the time horizon for the strategy 
+perspective may need to be much longer than the business planning of the 
+insurer, i.e. it may need to have regard to a long-term strategic goal of the 
+insurer for each major line of business. 
+No change made as the proposed statement relates to 
+strategic considerations which are not the in scope of 
+ICP16 
+Section on 
+Risk appetite 
+and limits 
+Section 16.4 should note that the risk policy should also include the 
+insurer’s appetite for the reputational risk associated with investing in and 
+underwriting fossil fuel and deforestation projects, as well as reputational 
+risks from limiting coverage of communities vulnerable to climate change. 
+No change made as the proposed changes are too 
+specific for the nature of this material.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+Section on 
+Asset liability 
+management 
+The material related to ICP 16.5, Asset-Liability Management, describes 
+how climate change can negatively affect the matching of assets and 
+liabilities. This assertion fails to recognise that (i) the viability of investees 
+businesses is constantly impacted by many dynamics, not just climate 
+change, and (ii) investees may potentially benefit from these dynamics, 
+because their business models may be adaptable. A similar assertion is 
+within the material related to section 15.3. 
+No changes made as the statements in the section are 
+considered valid.  
+Section on 
+ORSA 
+Where the assessment goes beyond the usual 3-5 years business planning 
+time horizon for the ORSA, a more qualitative and contextual nature of the 
+long-term analysis should be acknowledged as being fit-for-purpose, as well 
+as the inherent uncertainties and potential limitations due to data quality. 
+No change made as issues already sufficiently covered 
+elsewhere. 
+Section on 
+ORSA 
+Proposal for the following rewording to paragraph 21: "It is expected that" 
+climate-related risks are material to the insurance industry and are expected 
+to potentially have an impact on all insurers; therefore, these risks should 
+be considered for inclusion in the ORSA. If climate-related risks are 
+assessed to be immaterial by an insurer [or immaterial over the time-
+horizon of the ORSA], the insurer should document the reason for the 
+assessment”. 
+The second suggested change has been reflected. 
+Section on 
+ORSA 
+We do not believe that supervisory expectations for the ORSA should 
+include scenarios beyond the three- to five-year business as usual horizon.  
+An insurer’s ORSA should primarily cover near- to medium-term material 
+risks, consistent with the strategic planning horizon, which is considerably 
+shorter than some climate physical and transition risk time horizons.  
+Noted, but the IAIS disagrees – see also ICP 16.  
+Section on 
+ORSAs 
+Suggestion for additional material and recommendations: 
+1. Providing more detailed guidance on the types of climate scenarios and 
+stress tests that insurers should consider in their ORSAs, drawing on 
+established frameworks. This could include specifying the range of 
+transition and physical risk pathways to assess, as well as the key 
+macroeconomic and financial variables to model. 
+The suggested additional content is beyond the scope of 
+the material. However, IAIS would consider the 
+proposals and decide whether further supporting 
+material should be developed to address them.
+
+Summary of consultation comments on the supporting material in Climate Risk Consultation Package 3 and their resolution
+ 
+Public 
+2. Encouraging insurers to leverage their ORSA findings to inform strategic 
+decisions around business models, product development, pricing, and 
+capital allocation. The ORSA should not be viewed as a purely compliance-
+driven exercise, but rather as an opportunity to integrate climate risk 
+considerations into core business and financial planning processes. 
+3. Highlighting the importance of engaging with key stakeholders, including 
+policyholders, investors, and regulators, when developing and 
+communicating ORSA results related to climate risk. Transparency around 
+insurers' climate risk assessments and management strategies can help to 
+build trust and accountability and support the broader sustainable finance 
+goals. 
+4. Clarifying the expectations for insurers to consider the potential second-
+order and spillover effects of climate risks in their ORSAs, such as the 
+impact on asset-liability management, reinsurance arrangements, and 
+broader market dynamics.

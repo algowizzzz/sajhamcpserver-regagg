@@ -1,0 +1,1 @@
+Summary: # IAIS welcomes the release of the FSB’s first list of insurers subject to resolution planning standards consistent with the FSB Key Attributes

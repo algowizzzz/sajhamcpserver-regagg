@@ -1,0 +1,24 @@
+{
+  "doc_id": "0d8da1242de56c43",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "IAIS Comment Letter to the IASB\u00b4s Exposure Draft on Amendments to the Classification and Measurement of Financial Instruments - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/2023/07/iais-comment-letter-to-the-iasbs-exposure-draft-on-amendments-to-the-classification-and-measurement-of-financial-instruments/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:89afbf77767a58e800157887cc2bce8de510fe7f620a8403b08d21bfa253d141",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/0d8da1242de56c43",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

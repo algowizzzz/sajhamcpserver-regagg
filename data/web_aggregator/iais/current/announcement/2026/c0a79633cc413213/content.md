@@ -1,0 +1,139 @@
+Ref: 23/31 
+27 September 2023 
+  
+Submitted via the IFRS website 
+ 
+Dr Andreas Barckow 
+Chair 
+International Accounting Standards Board  
+7 Westferry Circus 
+Canary Wharf 
+London E14 4HD 
+United Kingdom 
+ 
+ 
+IAIS’ response to r equest for information: International Accounting 
+Standards Board Post Implementation Review of IFRS 9 Financial 
+Instruments – Impairment  
+Dear Dr Barckow: 
+ 
+The International Association of Insurance Supervisors (IAIS) welcomes the opportunity to comment 
+on the recent International Accounting Standards Board (IASB) request for information on the Post 
+Implementation Review (PIR) of IFRS 9 Financial Instruments (IFRS 9) – Impairment, issued in May 
+2023.  
+As the IASB assesses its PIR of IFRS 9 – Impairment, it may wish to consider the following points:  
+ 
+Impairment requirements in IFRS 9 (Question 1) 
+The IAIS supports the objective of IFRS 9 , which introduces a forward-looking expected credit loss 
+model to enable a timelier recognition of credit losses than when applying IAS 39  (the previous 
+accounting standard), thereby addressing the delayed recognition of credit losses. 
+It should be noted that implementation of IFRS 9 became effective on 1 January 2023 for the 
+insurance industry, along with IFRS 17 Insurance Contracts  (IFRS 17) . For this reason,  many 
+insurers applying IFRS for financial reporting purposes have not yet reported financial results based 
+on IFRS 9 requirements. With more insurers reporting financial information based on IFRS 9 during 
+the fiscal year  2023, supervisors will be able to better assess the effectiveness of impairment 
+requirements under IFRS 9.
+
+General approach to recognising expected credit losses (Question 2) 
+a) Are there fundamental questions (fatal flaws) about the general approach? If yes, what are 
+those fundamental questions? 
+The IAIS supports the IFRS 9 impairment model that distinguishes between the impact of initial 
+estimates of expected credit losses (ECL) and the subsequent changes in those credit losses. This 
+provides useful insight on changes in credit risk and the resulting related losses. T he IAIS has no 
+fundamental comments (fatal flaws) on the general approach of IFRS 9, which recognises lifetime 
+ECL for a financial instrument if there has been a significant increase in its credit risk.  Although 
+insurers as an industry have made limited use to date of IFRS 9 as preparers, they have benefited 
+from the use of IFRS 9 in their capacity as investors and users of the financial statements. 
+b) Are the costs of applying the general approach and auditing and enforcing its application 
+significantly greater than expected? Are the benefits to users significantly lower than 
+expected?  
+The insurance industry has undergone significant implementation challenges for both IFRS 17 and 
+IFRS 9, as these standards are, or can be, costly to implement and require significant investment in 
+new systems, processes and people.  
+The costs associated with applying IFRS 9 – Impairment to insurers’ own financial statements 
+depend, in part, on the classification of assets held (for example, the extent to which assets are held 
+at amortised cost, fair value through other comprehensive income (FVOCI) or fair value through profit 
+and loss). 
+The classification of financial instruments (and therefore the significance of IFRS 9 – Impairment) 
+may change with the implementation of IFRS 17 , given the potential (and  in some cases, the 
+requirement) for entities to reclassify financial instruments.  
+Although the IAIS supports the IFRS 9 impairment model as an improvement from the incurred loss 
+approach used by IAS 39, it is challenging to assess with confidence the cos ts/benefits, given 
+insurers’ limited experience to date. The interaction between IFRS 17 and other standards, including 
+IFRS 9, could be considered as part of a post implementation review of IFRS 17.  
+ 
+Determining significant increase in credit risk (Question 3) 
+The IAIS notes that although there are no fatal flaws to highlight, it is not clear that the IFRS 9 
+standard provides sufficient information on what the IASB means by a “significant increase” in credit 
+risk, which may lead to diversity in prac tice. Further application guidance and examples would be 
+useful.
+
+Measuring expected credit losses (Question 4) 
+a) Are there fundamental questions (fatal flaws) about requirements for measuring expected 
+credit losses? If yes, what are those fundamental questions? 
+As per IFRS 9.5.5.17, an entity shall measure ECL in a way that reflects unbiased and probability-
+weighted amounts and the time value of money. This information should be reasonable, supportable 
+and available without undue cost or effort . The IAIS has no fundamental questions on the 
+requirements for measuring ECL as they  achieve the IASB’s objective of providing financial 
+statement users with useful information on the amount, timing and uncertainty o f an entity’s future 
+cashflows.  
+b) Can the measurement requirements be applied consistently? Why or why not? 
+The IAIS believes that the majority of the IFRS 9 measurement requirements, as reflected in IFRS 9. 
+5.5.17 to IFRS 9.5.5.20, are appropriate. However, additional guidance  is needed on the use of 
+management overlays, as c urrent disclosure requirements make comparison across the industry 
+difficult. The IAIS would also welcome a dditional guidance on what is considered a “ significant 
+increase in credit risk", given the importance of this judgement and the divergence of views amongst 
+entities. 
+The COVID-19 pandemic environment was not a typical "test environment" for the effectiveness of 
+IFRS 9. In this case, the measurement of ECLs was impacted by government and central bank 
+interventions. For this reason, it remains difficult to assess the effectiveness of the new standard in 
+a challenging credit environment. 
+ 
+Simplified approach for trade receivables, contract assets and lease receivables (Question 5) 
+The IAIS notes that although there are no fatal flaws to highlight on the simplified approach for trade 
+receivable, contract assets and lease receivables , we encourage the IASB to respond in a timely 
+manner to issues raised in the IASB staff paper on premiums receivable from an intermediary (IFRS 
+17 and IFRS 9) to ensure that there is consistency of application within the insurance industry. 
+ 
+Transition (Question 8) 
+The IAIS supports the transition requirements included in IFRS 9, including transition relief (such as: 
+applying practical expedients and rebuttable presumptions, recognising lifetime ECLs until 
+derecognition, as well as not requiring presenting restated comparative information). The IAIS finds 
+the transition requirements practical and is of the opinion th at they have  contributed to reduce 
+implementation costs of IFRS 9. 
+ 
+Credit Risk Disclosures (Question 9) 
+Based on insurers’ limited experience using IFRS 9 and IFRS 9’s impairment requirements, the IAIS 
+does not have fundamental questions on disclosure requirements for credit risk in IFRS 7 (Financial 
+Instruments Disclosures). It is apparent, however, that IFRS 9 impairment disclosures may be used 
+by some insurers in a slightly different way than what is typical for other industries. For example, to
+
+the extent that assets are accounted for as FVOCI rather than amortised cost, the measurement of 
+ECL would affect how changes in fair value are recognised between the income statement and other 
+comprehensive income. In such cases, other information (relating to fair value) would also be relevant 
+for users. Regardless of the classification approach used, it is clear that  IFRS 9 – Impairment 
+disclosure requirements remain important for insurers , both as pr eparers and users of financial 
+statements. As noted above, with disclosure requirements, the  impact and treatment of 
+overlays/post-model adjustments should be enhanced, to facilitate the comparison of management 
+overlays across the industry. 
+ 
+This comment letter was prepared on behalf of the IAIS by its Accounting and Auditing Working 
+Group (AAWG) in consultation with IAIS Members. If you have further questions regarding this letter, 
+please contact Lydia Kimumwe at the IAIS Secretariat (tel: +41 61 280 8679 ; email: 
+lydia.kimumwe@bis.org). 
+  
+ 
+                                                                                       
+ 
+Victoria Saporta                                             
+ Chair, Executive Committee 
+Matt Walker 
+ Chair, Policy Development Committee 
+ 
+ 
+About the IAIS 
+The IAIS is a global standard -setting body whose objectives are to promote effective and globally 
+consistent supervision of the insurance industry to develop and maintain fair, safe and stable 
+insurance markets for the benefit and protection of policyholde rs and to contribute to the 
+maintenance of global financial stability. Its membership includes insurance supervisors from more 
+than 200 jurisdictions. Learn more at www.iaisweb.org.

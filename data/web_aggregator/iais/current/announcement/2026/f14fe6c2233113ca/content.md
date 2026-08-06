@@ -1,0 +1,29 @@
+# FSI and IAIS publish note on the cyber insurance market
+
+[17 Jun 2026](https://www.iais.org/2026/06/fsi-and-iais-publish-note-on-the-cyber-insurance-market/)
+
+in [Latest news](https://www.iais.org/category/latest-news/)
+
+The Financial Stability Institute (FSI) and the IAIS today published a joint [Insights note on the cyber insurance market](https://www.iais.org/uploads/2026/06/FSI-IAIS-Insights-Cyber-insurance-unpacked-the-corporate-digital-safety-net.pdf).
+
+In a more digitalised and interconnected world, cyber risk is increasingly recognised as a significant threat to economic and financial stability. The rapid evolution of cyber threats driven by technological advances, including artificial intelligence (AI), rising geopolitical tensions and the interconnected nature of digital ecosystems, is increasing the speed, scale, sophistication and systemic nature of both malicious and non-malicious cyber incidents.
+
+Against this backdrop, cyber insurance has the potential to support cyber resilience and mitigate the financial losses arising from cyber incidents, where insurable. Despite the rapid growth in exposure to cyber risk, cyber insurance coverage remains limited, and the market continues to face significant challenges related to coverage ambiguity, pricing and accumulation risk. The note also provides a timely overview of how frontier AI models may significantly transform the cyber threat and defence landscape, and the implications for the cyber insurance market.
+
+Based on desktop reviews and interviews with supervisors, insurers, reinsurers, brokers and other market participants, this note takes stock of the evolving cyber insurance landscape. In particular, it examines cyber insurance product coverage, pricing and underwriting practices, and explores the insurance protection gap. The note also highlights key considerations for supporting the sound and sustainable development of cyber insurance .
+
+**Read the note [here](https://www.iais.org/uploads/2026/06/FSI-IAIS-Insights-Cyber-insurance-unpacked-the-corporate-digital-safety-net.pdf)**.
+
+17 Jun 2026
+
+[Capacity building](https://www.iais.org/tag/capacity-building/)[Cyber risk](https://www.iais.org/tag/cyber-risk/)[Digital innovation (Fintech)](https://www.iais.org/tag/digital-innovation-fintech/)[Financial Stability](https://www.iais.org/tag/financial-stability/)[Operational Resilience](https://www.iais.org/tag/operational-resilience/)[Protection gaps](https://www.iais.org/tag/protection-gaps/)
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2F2026%2F06%2Ffsi-and-iais-publish-note-on-the-cyber-insurance-market%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

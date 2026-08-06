@@ -1,0 +1,1 @@
+Summary: # Insurance supervisors reach globally agreed path forward on addressing risks from structural shifts in the life insurance sector

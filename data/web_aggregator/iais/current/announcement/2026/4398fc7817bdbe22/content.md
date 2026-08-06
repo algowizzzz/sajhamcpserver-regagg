@@ -1,0 +1,7951 @@
+Public 
+ 
+ 
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 1 of 154 
+ 
+ 
+ 
+ 
+ 
+ 
+Resolution of Public Consultation Comments on Draft Application Paper 
+on the Supervision of Climate-related Risks in the Insurance Sector 
+13-Oct-20 to 12-Jan-21
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 2 of 154 
+ 
+Organisati
+on 
+Jurisdic
+tion 
+Confid 
+ential Answer Resolution of comments 
+Q1 General Comment on the draft Application Paper  
+1. World 
+Federation 
+of 
+Insurance 
+Intermedia
+ries 
+Belgium No  WFII appreciates that with the publication of the draft Application Paper on the 
+Supervision of Climate-related Risks to the Insurance Sec tor the IAIS aims to 
+improve the understanding of climate -related risks for the insurance sector. We 
+agree with the IAIS that the insurance sector can play a role in the management of 
+climate-related risks. In this respect, insurance intermediaries may have a role in 
+delivering services and consultancy to help clients develop resilience.  
+We note that, according to paragraph 10 of this draft Paper, ICP 19 Conduct of 
+business is not in its scope and that the conduct of business rules and their 
+relevance for assessing and mitigating climate-related risks may be covered in future 
+IAIS work/consultations. WFII will therefore not respond extensively to the current 
+consultation but is looking forward to future work of the IAIS with regard to the 
+conduct of business part. 
+We welcome the fact that the IAIS looks at the climate -related risks from the 
+prudential side as we believe that, in the interest of policyholder protection and 
+financial stability, insurers must be able to meet their obligations at all times;  
+Noted 
+2. 
+Insurance 
+Europe 
+Europe No  Europe´s insurers remain as committed as ever to supporting the transition to a 
+more sustainable society and to tackling climate change. The insurance industry 
+believes that these fundamental policy ambitions must be pursu ed despite the 
+significant, new challenges created by the COVID-19 pandemic. The industry can 
+play a key role in the sustainability transition by both investing in sustainable assets 
+and providing insurance coverage to help society to deal with sustainabil ity risks.  
+ 
+Insurance Europe welcomes the opportunity to comment on the IAIS draft 
+application paper. As sustainability is a global issue, it needs to be addressed 
+through a global approach and international coordination. Insurance Europe 
+therefore welcomes the IAIS's facilitation of a coordinated approach between 
+jurisdictions. Coherent policymaking between jurisdictions will avoid duplicative or 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 3 of 154 
+ 
+contradictory standards. 
+ 
+The ICPs/ComFrame framework does not currently represent an obstacle to the 
+integration and measurement of sustainability risks, including climate -related risks. 
+The IAIS paper will help further strengthen the integration of climate -related risks into 
+jurisdictional supervisory frameworks in a consistent and efficient manner.  
+ 
+Insurance Europe has the following comments on the draft application paper:  
+- The European insurance industry fully supports the assessment of the materiality of 
+climate-related risks to individual insurance companies as well as to the insurance 
+sector as a whole. Nevertheless, it is key that supervisors strike the right balance 
+without putting excessive focus on climate -related risks at the expense of other risks.  
+- Sound sustainability/ESG ratings should be acknowledged as a key precondition 
+for supervisory review and reporting. It is paramount that supervisors adequately 
+deal with such challenges without setting expectations that insurers solve such 
+challenges. 
+- While seeking consistency and comparability can be of significant value, care must 
+be taken to ensure that supervision does not discourage or prevent rapid and 
+innovative developments in the private sector to address new risks and changes in 
+the business and risk environment. Insurance Europe stresses therefore the 
+importance of flexible approach based on s trong stakeholder engagement in 
+developing effective frameworks for supervision in uncharted areas. The fast 
+emerging and evolving nature of climate -related risks warrants an approach that 
+ensures the framework fits markets that are different in nature and  are at different 
+levels in developing policy relevant to climate -related risks.  
+- Insurance Europe agrees that all companies should integrate sustainability in their 
+corporate governance framework. It is important that supervisors monitor the impact 
+of the measures enacted so far and consider existing legislation before proposing 
+new regulatory requirements. In any case, supervisors should make sure that 
+prescribed governance models do not pre-empt or deny other governance structure 
+intended to address evolving risks and take into account that materiality of climate 
+risks differs across entities and may change over time.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 4 of 154 
+ 
+- Being supportive of sustainability objectives, Insurance Europe recognises that 
+explicit references in legislation and other tools such  as guidelines should help 
+integrate sustainability risks, including but not limited to climate risk, consistently and 
+more efficiently in the risk -management function.  
+- Insurance Europe also agrees that the actuarial function takes into account 
+material climate-related risks, provided this is done at the same level as other 
+considerations. Consideration of climate -related risks in underwriting policies is 
+supported as long as there is a right balance between all risks, and no excessive 
+focus is put on climate risks at the expense of other risks.  
+- Consideration of the effect of sustainability risks including climate -related risks 
+should also be included in the ORSA as long as these risks are financially relevant 
+and material for the undertaking. As the analysis of climate -related risks is 
+dependent on the company-specific strategy and risk assessment, the ORSA should 
+continue to represent the undertaking's own view of its risk profile. A prescriptive 
+approach should therefore be avoided, and the undertaking should be able to decide 
+for itself how to perform the climate risk assessment on the basis of the nature, scale 
+and complexity of the risks in its business.  
+- Insurance Europe supports the inclusion of material sustainability risks including 
+climate-related risks in investment policies. In this respect, it notes that stewardship 
+is only one of the broad sustainability -related strategies used by insurers. Other 
+investment strategies are available, sometimes more effective to manage climate -
+related risks.  
+-Increased transparency on sustainability is welcome, but care must be taken to 
+avoid overlapping and/or duplication in regulatory requirements and overload for 
+businesses and consumers. It is important that:  
+- insurers have flexibility in disclosures while respecting consistency and 
+comparability. 
+- insurers have access to good quality sustainability -related information at asset level 
+and mandatory reporting is not imposed before the necessary data is available. 
+Sound sustainability/ESG ratings should be acknowledged as a key precondition for 
+supervisory review and reporting. 
+- while a globally coordinated approach to general company ESG data reporting is
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 5 of 154 
+ 
+the objective, it does not slow down faster progress within Europe where ESG 
+related requirements are already well advanced and the access to data from 
+investee companies is very urgent.  
+3. Global 
+Federation 
+of 
+Insurance 
+Associatio
+n (GFIA) 
+Global No  The Global Federation of Insurance Association (GFIA) welcomes the opportunity to 
+work with the IAIS on the topic of the supervision of climate-related risks in the 
+insurance sector. The global insurance industry is inherently aware of, and well 
+positioned to participate in addressing, the financial risks posed by climate change 
+and extreme weather since the measurement of climate -related physical risks goes 
+to the heart of many insurers' business models.  
+ 
+GFIA believes that this paper will facilitate supervisory coordination across 
+jurisdictions and constructive engagement with stakeholders, which will a void 
+duplicative or contradictory standards between jurisdictions and will also facilitate 
+proportional regulation and insurers' assessment of material climate risks.  
+ 
+GFIA acknowledges the intention to ensure that insurers exercise prudence 
+regarding climate risks. However, we believe the application paper frequently takes a 
+rigid approach in describing the role of boards, board committees, and different 
+aspects of management in implementing and managing ESG activities. GFIA takes 
+the view that the best approach would be to ensure that both supervisors and 
+insurers are aware of climate risks and of the need to evaluate such risks in an 
+appropriate management and control structure while outlining supervisory 
+expectations where such risks are material to the applicable insurer entity.  
+Noted 
+5. 
+Internation
+al Actuarial 
+Associatio
+n (IAA) 
+Internati
+onal 
+No  The IAA understands that the Application Paper (AP) is aiming at the integration of 
+new evolving risks from climatic change into the supervision of the insura nce sector. 
+While doing this, it is important to distinguish between the risks insurers have 
+traditionally dealt with, like natural hazards, and from new evolving climate change 
+risks. 
+ 
+The AP could be improved by striving for clarity with regard to the co re terminology. 
+Throughout this AP the terms "climate risk" and "climate -related risk" are defined and 
+ 
+ 
+ 
+ 
+ 
+Changes made for 
+consistency as well as in the 
+table 1 with definitions
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 6 of 154 
+ 
+used interchangeably, and on occasion "climate change risk" is mentioned. The IAA 
+suggests that "climate -related risks" is a very wide-ranging collection  of risks broader 
+than (but inclusive of) the topic of "climate change risk". The IAA suggests that the 
+AP might appropriately define "climate change risks" in order to avoid confusing the 
+reader with the concept that "climate change risks" and "climate -related risks" are 
+one and the same.  
+ 
+The IAA understand that the term "climate change" is restricted in this paper to 
+changes resulting directly or indirectly from human activity (anthropogenic driven 
+change). The IAA recommends using the term climate chan ge without the restriction 
+to anthropogenic change, because this restriction is not relevant for insurers' as they 
+need to think more broadly when conducting their risk and solvency assessments.  
+Overall, the IAA believes it is important that any supervisory framework takes into 
+account the macro-prudential risk arising from the financial consequences of climate 
+change. For example, depending on the holdings of specific fossil fuel firms and/or 
+financial institutions exposed to the fossil fuel and/or extract ion sectors, there could 
+arise a situation where massive financial disruption occurs in the financial system of 
+a country which is reliant on a small number of insurers and/or banks (via transition 
+risks). The inter-connected nature of the global financial system exacerbates certain 
+dislocations, in terms of access to affordable capital, renewing and/or availability of 
+credit, squeezes in liquidity in general, and disruption to global financial systems.  
+Finally, the insurance sector is naturally in a posit ion to set measurable 
+environmentally friendly targets for their own operations. In this context a clear policy 
+from supervisory authorities is needed as soon as possible. The IAA suggests that 
+supervisors could usefully provide guidelines to the insurance  sector regarding 
+sustainable measures and targets within their own operational activities, such as 
+reducing CO2 emissions in e.g., Motor and Building Insurance claims repairs. In 
+non-life insurance, the entities could also set out requirements for other 
+procurements activities. This could be done in several ways and these could be 
+disclosed in their annual reports.  
+ 
+ 
+ 
+Agreed, from a risk 
+perspective it does not matter 
+how the risk manifests. 
+Change made to also align 
+with the IAIS/SIF 2018 Issues 
+Paper.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interesting concept, but 
+outside the scope of this 
+paper.   
+6. The 
+Geneva 
+Internati
+onal 
+No  We would like to thank the IAIS and the SIF for the timely applic ation paper. It 
+summarizes current areas of supervisory practices well. We appreciate the 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 7 of 154 
+ 
+Associatio
+n 
+recognition of the IAIS of the need for a dynamic, flexible and principle -based 
+approach. Considering the scope of application papers (targeted at the supervisors 
+rather than the supervised), some parts may benefit from enhanced consistency.  
+ 
+Before we dive into our detailed comments to the different sections of the paper, we 
+would like to use this opportunity to provide you with our high -level comments. We 
+consider it for instance important that the AP does not single out climate risk but 
+recognizes that it can be subsumed into existing risk categories. Risks that manifest 
+over the longer term may warrant a different approach than those occurring within a 
+shorter time horizon. For this reason, we suggest that the IAIS consider 
+differentiating current risks that could materialize within a shorter timeframe and are 
+included in current assessments from risks that will only materialize in the future, 
+such as many of those related to climate risk, which will continue to emerge and 
+crystallise over the longer term. It is important that supervision of climate related 
+risks avoids incorporating these longer-term future risks when considering an 
+insurer's current risk profile as this will over-estimate current exposure and this may 
+give rise to unintended consequences such as leading insurers to reduce cover or 
+stop underwriting certain risks. This could widen the protection gap or create a 
+disincentive for providing the ongoing financing to certain industries that will be 
+needed to support a smooth transition to lower carbon economies.  
+ 
+We noticed that in section 3 the focus of the AP shifts to prescribing what companies 
+should do, rather than giving supervisors guidance. Whilst  it is difficult to argue with 
+many of the "insurers should" statements in principle, this apparent shift in focus - 
+which is incompatible with the intent of an AP - could be addressed by simply 
+rephrasing such statements, e.g. from "insurers should…" to " supervisors should 
+assess the extent to which insurers…" 
+ 
+Whilst the insurance sector can make a substantial contribution to the shift toward 
+lower carbon economies, broader national and societal efforts will determine how 
+successful the world ultimately is in this endeavour. As guidance on the supervision 
+of climate-related risk in the insurance sector, the AP specifically should remain risk -
+ 
+ 
+ 
+ 
+ 
+ 
+Agreed; this was further 
+highlighted for instance in 
+section 4. 
+ 
+ 
+ 
+ 
+Such wording is consistent with 
+the IAIS supervisory material, 
+whereby in some instances it 
+states “the supervisor requires 
+the insurer to….” but many 
+instances it refers directly to 
+the role of the insurer itself 
+(also to avoid becoming too 
+wordy)  
+ 
+Noted 
+ 
+ 
+ 
+ 
+ 
+ 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 8 of 154 
+ 
+based and focused on achieving the IAIS' objectives of policyholder protection and 
+maintaining financial stability n ot the achievement of broad climate change 
+management goals.  
+ 
+Given that the assessment of climate related risks is in an early stage of 
+development, and that good data, and reliable measurement methodologies are 
+currently lacking, attempts to align and e stablish an agreed approach or best 
+practice are premature. The industry is deeply involved in a number of initiatives that 
+contribute to increasing knowledge in this field, including through the platform of the 
+Geneva Association by means of a work stream  focused on advancing climate risk 
+assessment capabilities, recognising the evolutionary state of methodologies and 
+metrics. It is fundamental that the industry, regulators and the IAIS work closely 
+together in order to jointly improve understanding of exp osures, mitigation methods 
+and share and further develop best practices over time.  
+ 
+We appreciate efforts to seek consistency, such as with the work of the TCFD in its 
+recommendations around reporting. However, we believe that mandated uniform 
+approaches are premature and suggest voluntary and flexible approaches, which 
+can be refined and improved over time. We also believe that regulatory measures 
+should be tailored for various sectors and risk exposures. The IAIS work should also 
+promote jurisdictional flexibility. This would also help promote innovation, ultimately 
+allowing for rapid progress on developing effective supervision of climate related 
+risks.  
+Geneva Association members stand ready to work closely with the IAIS and SIF to 
+contribute to the development of best practices for assessing climate -related risks, 
+anticipating that the assessment of such risks will improve over time with improved 
+data, modelling, and understanding.  
+ 
+ 
+ 
+ 
+ 
+This is in line with the overall 
+principle of proportionality.  
+ 
+ 
+ 
+ 
+Noted. 
+7. General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  We, the General Insurance Association of Japan, support the statement in 
+paragraph 3, "The insurance industry plays a critical role in the management of 
+climate-related risks in its capacity as a risk manager, risk carrier and investor, and 
+is uniquely qualified to understand the pricing of risks". We agree that the insurance 
+industry plays a critica l role in mitigating climate-related risks, and our member 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 9 of 154 
+ 
+insurers are currently taking, promoting, or supporting initiatives to shift towards a 
+decarbonized society. As there can be various approaches in handling climate risks, 
+our members are addressing those risks in their own ingenious ways, and it is 
+desirable that these efforts be fully respected, so that the companies are encouraged 
+to further their voluntary efforts. We will continue to work with our members to 
+promote the contribution of Japanese general insurance sector to advance the 
+orderly transition to a decarbonized society.  
+ 
+Paragraph 4 states that "Application Papers do not establish standards", and we 
+understand this is consistent with our understanding that every effort is to be 
+respected. However, when we take a careful look at each paragraph of the AP, there 
+are several overly prescriptive expressions that may interfere with insurers' 
+practices. Considering there can be many different approaches to handling climate 
+risks as stated above, the AP should avoid overly intervening in insurers' practices in 
+a prescriptive manner, and we suggest such expressions be modified. In particular, 
+each insurer's business decisions should be fully respected especially regarding 
+their core business functions such as underwriting and asset management, and 
+supervisors should avoid developing documents that promote the usage of particular 
+measures or approaches regarding insurers' core business functions, unless it is for 
+supervisory objectives, such as policyholder protection. 
+8. The Life 
+Insurance 
+Associatio
+n of Japan 
+Japan No  The Life Insurance Association of Japan (hereafter the "LIAJ") appreciates the 
+opportunity to submit public comments to the International Association of Insurance 
+Supervisors (or "IAIS") and the Sustainable Insurance Forum (or "SIF") regarding the 
+Application Paper on the Supervision of Climate-related Risks in the Insurance 
+Sector. 
+ 
+·There are currently various sustainability related initiatives including climate change, 
+and the private sector actively engages and proactively promotes its individual 
+efforts leveraging these initiatives. 
+ 
+·The LIAJ supports the TCFD recommendations and aids/promotes proactive 
+activities of member companies while participating in the TCFD Consorti um. The 
+Noted. With the publication of 
+this Paper, the IAIS does not 
+set out new requirements, but 
+provides guidance and 
+examples on how the existing 
+ICP and ComFrame should 
+be applied.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 10 of 154 
+ 
+LIAJ, along with the concerned parties from the public/private sector in Japan, 
+expressed its support for the IFRS Foundation's proposal to establish a new 
+standard-setting body that will work on developing an unified standard related to 
+sustainability reporting. 
+ 
+·It might be more prudent if the IAIS were to take caution before developing any 
+climate-related regulations and support the individual efforts taken by the private 
+sector. 
+14. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  Zurich Insurance Group (Zurich) appreciates the opportunity to comment on the 
+Draft Application Paper on the Supervision of Climate-related Risks in the Insurance 
+Sector. We acknowledge the significant efforts of the IAIS/SIF and its members in 
+continuing to advance best practices as they relate to climate -related risks in 
+insurance.  
+ 
+Zurich has a vested interest in climate risks: We were the first insurer to sign up for 
+the Business Ambition for 1.5°C Pledge aimed at halving emissions by 2030 and 
+reaching net zero emissions by 2050 in order to prevent temperatures rising over 
+1.5°C above pre-industrial levels. Additionally, Zurich has committed to proactively 
+engaging with clients and investee companies with the aim to assist them in 
+adopting plans to reduce their climate exposure. Finally, Zurich has committed to 
+utilize 100% renewable power in all global operations by the end of 2022 [1].  
+ 
+Climate risks are global in nature and are therefore ideally met with globally 
+coordinated regulatory and supervisory responses. We believe that, overall, the 
+Application Paper provides best practices and guidelines that are key to avoiding 
+fragmentation by aligning supervisory practices. While it is a balanced proposal that 
+has the underpinnings of a baseline risk management framework, the Application 
+Paper should specifically recognize the inherent valuation and modelling 
+uncertainties associated with climate-related risks in insurance, particularly in 
+absence of a common unit of account.  
+ 
+We believe that the IAIS/SIF and its members are in a unique position, but also have 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 11 of 154 
+ 
+the duty vis-à-vis their own stakeho lders, to point out the inherent shortcomings of 
+climate-related risk valuations and assessments in the absence of an observable 
+market price for carbon ("general price on carbon", and CO2 as the epitome of all 
+GHGs) or other adequate and common unit of ac count. Zurich sees the development 
+of a realistically priced global carbon market (comprised of links between emission 
+trading systems and transfer of carbon units) underpinned by environmental integrity 
+and aligned with the achievement of the Sustainable Development Goals (SDGs), as 
+a huge opportunity to accelerate climate action at the global level. 
+ 
+Governments through The Coalition of Finance Ministers for Climate Action [2: 
+Helsinki Principle 3, pp. 27-29], international bodies like the IMF and the OEC D, 
+several economists and businesses like Zurich are advocating for a global price on 
+carbon. It is key that the carbon price driven transition is an inclusive one. 
+Redistribution of the funds collected must be fair for citizens and allow them to 
+compensate for lost purchasing power. This will effectively reward the "right' 
+behavior. As referenced in the G30 proposal, regional coalitions of the willing should 
+be discussed to give the carbon price concept more weight in the global policy 
+debate [3]. Another case study "shows empirically that a carbon tax can be 
+successful in significantly reducing emissions of carbon dioxide. After 
+implementation of a carbon tax and VAT on transport fuels in Sweden, CO2 
+emissions from transport declined almost 11 percent in a n average year, with 6 
+percent from the carbon tax alone. This result contrasts with earlier empirical studies 
+that find little to no effect on emissions from carbon taxes" [4].  
+ 
+We appreciate that the IAIS and its membership will not be the architects of  a price 
+on carbon, but we think you have a vested interest in calling for a carbon price.  
+ 
+Specifically, the IAIS/SIF and its members should embrace the idea of carbon pricing 
+regarding risk management in insurance and elaborate on its necessity with 
+governmental bodies and their stakeholders, following the example of the U.S. 
+Commodities Future Trading Commission (CFTC). The CFTC "report begins with a 
+fundamental finding–financial markets will only be able to channel resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This is highlighted in 
+paragraph 13.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 12 of 154 
+ 
+efficiently to activities that reduce greenhouse gas emissions if an economy-wide 
+price on carbon is in place at a level that reflects the true social cost of those 
+emissions. Addressing climate change will require policy frameworks that incentivize 
+the fair and effective reduction of greenhouse gas emissions. In the absence of such 
+a price, financial markets will operate sub optimally, and capital will continue to flow 
+in the wrong direction, rather than toward accelerating the transition to a net -zero 
+emissions economy. At the same time, policymakers must be sensitive to the 
+distributional impacts of carbon pricing and other policies and ensure that the burden 
+does not fall on low-to-moderate income households and on historically marginalized 
+communities" [5]. Further, and closer to the Basel institutions, Switzerland recently 
+announced that it will "step up its involvement in international environmental 
+conferences and initiatives, focusing on the disclosure of environmental information 
+and the internalisation of environmental costs"  [2: Helsinki Principle 3, pp. 27-29] [6, 
+7]. A general price on carbon achieves the internalization of environmental costs.  
+ 
+A general price on carbon is the key pre-requisite for adequate climate -related risk 
+management as rightfully referenced in paragraph 13. However, the IAIS/SIF and its 
+members then fail to explicitly advocate for it in the Application Paper, or, as we can 
+judge it, among other international bodies, such as the G20 and FSB. The IAIS also 
+references carbon pricing as a risk in paragraph 36 rather than more appropriately 
+as an instrument to support climate -related risk management. A general price on 
+carbon would be market observable as are, for instance, equity prices for market risk 
+and credit spreads for credit risk. Aside from setting  the right incentives and 
+disincentives on the way to low-carbon societies, a price on carbon is a critical unit of 
+account in risk management. In the absence of a general price, firms apply an 
+internal estimate, or shadow carbon price, that is a mix of im pact and risk metrics. 
+Obviously, a market observable carbon price would provide a common reference, 
+not only for insurers, but for all financial institutions alike, and beyond. By advocating 
+for a carbon price, the IAIS/SIF and its members could achieve t heir objective: 
+Insurers managing climate-related risks with an eye toward financial stability.  
+ 
+We have developed some of our points/comments in Q2 et seq. but have refrained 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This would go beyond the 
+scope of the Paper, although 
+it is noted as one of the 
+necessary preconditions for 
+effective supervision of 
+climate-related risks (section 
+2.1).
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 13 of 154 
+ 
+from repeating comments that our trade associations have included in their 
+responses. 
+Thank you for the opportunity to comment. We stand ready to work with IAIS/SIF 
+and its members as you continue to focus on managing insurers' climate -related 
+risks. 
+ 
+__________ 
+ 
+[1] https://www.zurich.com/en/sustainability/our -role-in-society/climat e-change 
+[2] The Coalition of Finance Ministers for Climate Action, Annual Report 2020, 
+available at https://www.financeministersforclimate.org/sites/cape/files/inline -
+files/2020 Annual Report.pdf 
+[3] G30, Mainstreaming the Transition to a Net -Zero Economy, available at 
+https://group30.org/images/uploads/publications/G30_Mainstreaming_the_Transition
+_to_a_Net-Zero_Economy.pdf 
+[4] Andersson, Julius, J. (2019): Carbon Taxes and CO2 Emissions: Sweden a Case 
+Study in: American Economic Journal, Economic Policy 2 019, 11(4), 1-30 
+[5] U.S. Commodities Future Trading Commission (CFTC), Managing Climate Risk in 
+the U.S. Financial System, available at https://www.cftc.gov/sites/default/files/2020 -
+09/9-9-20 Report of the Subcommittee on Climate -Related Market Risk - Managing 
+Climate Risk in the U.S. Financial System for posting.pdf 
+[6] The Swiss Federal Council, Proposals for Sustainable Finance, available at 
+https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-81571.html 
+[7] International Platform on Sustainable Finance (IPSF): A Global Approach for 
+Financing the Green Transition, International Platform on Sustainable Finance: A 
+Global Approach for Financing the Green Transition, e.g. Swiss statement starting at 
+25'20'' stressing the need for a robust price on carbon and transparency.  
+15. acli U.S.A.  No  The American Council of Life Insurers (ACLI) appreciates the work of the IAIS and 
+the opportunity to provide our views. ACLI is the leading trade association driving 
+public policy and advocacy on behalf of the life insurance industry. 90 million 
+American families rely on the life insurance industry for financial protection and 
+retirement security. ACLI's member companies are dedicated to protecting 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 14 of 154 
+ 
+consumers' financial wellbeing through life insurance, annuities, retirement plans, 
+long-term care insurance, disability income insurance, reinsurance, and dental, 
+vision and other supplemental benefits. ACLI's 280 member companies represent 95 
+percent of industry assets in the United States.  
+ 
+Framing or Overarching Comments Relating to the IAIS approach to climate risk  
+ 
+1. Any IAIS work should ultimately focus on how climate risk impacts the core 
+objectives of the IAIS and insurance supervision: namely, policyholder protection, 
+promotion of fair, safe and stable insurance markets, and contributing to financial 
+stability.  
+2. We encourage insurance supervisors to act as a "bridge" and "catalyst" among 
+policymakers by sharing the insights they gain on the risks climate change may 
+present and the role the sector can play in providing risk signaling (e.g., through 
+pricing) and risk protection (e.g., through underwriting).  
+3. Actions by insurance supervisors should be risk -based. In addition, in light of the 
+early and evolutionary state of climate and environmental impact science, the current 
+lack of good, comparable data, and the ongoing work to develop appropriate, agreed 
+methodologies for risk assessment and reporting frameworks, we strongly suggest 
+that any IAIS guidance remain flexible.  
+4. We appreciate consistency and efforts to achieve it such as in the TCFD 
+recommendations and agree that a common taxonomy could be helpful. However, at 
+this stage, in light of the challenges set out in comment 3 above, we strongly suggest 
+it is premature to seek to develop a uniform approach for what are multifaceted risk 
+exposures. Rather, the IAIS work should foster flexibility and a jurisdictionally -driven 
+approach, recognizing that insurance requirements must integrate with the evolving 
+policies and practices of jurisdictional governments and financial markets and permit 
+analysis of proposals for fitness for the relevant risk and sector. Ongoing 
+collaboration and dialogue among stakeholders will be critical to allow collaboration 
+between and among the industry, supervisors and the IAIS such that all parties work 
+together to better understand exposures and how best to mitigate them and work 
+toward best practices over time. While we recognize that there is some appetite for
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 15 of 154 
+ 
+greater global consistency i n this area, we believe it is premature at this stage given 
+the need to continue to develop expertise, and convergence on global best practices 
+can and should occur over time.  
+ 
+Framing Comments Relating to the application paper 
+ 
+1. The application paper should avoid language that suggests "requirements," 
+including the excessive use of "should", consistent with the purpose of an IAIS 
+application paper. Instead, the paper should focus on providing examples of ways in 
+which different issues are currently being handled in some jurisdictions and avoid 
+suggesting that any such practices constitute "best practices." Where it does provide 
+examples, the paper should differentiate between actual practices and those that 
+may be under consideration in certain jurisdict ions.  
+2. The paper should be consistent in recognizing that climate -related risk is not a 
+distinct risk category, but rather it contributes to the shape and manifestation of other 
+risks. Managing climate risk should not be an end in and of itself. While " climate risk" 
+or "climate-related risk" may be useful shorthand, it should be recognized that 
+climate risk will manifest through other risk categories.  
+3. There should be a clearer distinction between risks impacting life insurers and 
+risks primarily impacting non-life insurers. For life insurers there is greater risk on the 
+investment side and transition risk vs the physical risk and liability exposure that 
+climate-related risk can cause for non-life insurers.  
+4. At times tensions exist between the explic it scope of the paper (supervision of 
+climate risk) and ESG policy goals more generally (e.g., the discussion of 
+stewardship in paragraphs 74-76). IAIS guidance should recommend a supervisory 
+approach that is proportionate, risk -based and driven by data informed by relevant 
+expert advice and judgment. The ultimate objective should be the protection of 
+policyholders and promotion of fair, safe and stable insurance markets, and 
+contributing to financial stability, not achieving broader policy objectives of 
+transitioning to low-carbon economies.  
+5. We welcome the fact that the paper explicitly mentions considerations of 
+proportionality, relevance, and materiality when addressing climate -related issues. In 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Should is meant as a 
+recommendation in IAIS 
+language, not a requirement. 
+ 
+ 
+ 
+ 
+This is dealt with in section 2, 
+inter alia. 
+ 
+ 
+ 
+Some further examples were 
+added. 
+ 
+ 
+Noted. See also section 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Noted.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 16 of 154 
+ 
+certain areas of the paper, referenced below, these con siderations should be made 
+clearer. 
+6. We suggest that the subsections be numbered consistently throughout the paper, 
+e.g., Sections 4.2 and 6 (i.e., 6.1 Asset liability management; 6.2 Risk assessment of 
+investments; 6.3 Stewardship.)  
+ 
+ 
+Change made. 
+ 
+16. Lloyd's 
+of London 
+UK No  We would like to thank the IAIS and the SIF for this timely Application Paper. Lloyd's 
+is fully engaged with sustainability issues and follows developments at UK, EU and 
+international level. We recognise both the impact on insurers th rough physical 
+(primarily underwriting-focused) and transition (related to changes in value of 
+investments) risks and the potential societal impact of climate change.  
+ 
+Lloyd's is one of the founding members of the ClimateWise Initiative, which supports 
+the insurance industry to better communicate, disclose and respond to the risks and 
+opportunities associated with the climate -risk protection gap. This is the growing 
+divide between total economic losses and insured losses attributed to climate 
+change. Lloyd´s is an active member of the group and over 30 insurance companies 
+are members, including 11 managing agents in the Lloyd´s market. ClimateWise´s 
+six core principles, informed by sub-principles, form the framework of Lloyd´s 
+approach to responding to climate change: 
+ 
+- Be accountable 
+- Incorporate climate-related issues into our strategies and investments 
+- Lead in the identification, understanding and management of climate risk  
+- Reduce the environmental impact of our business  
+- Inform public policy making 
+- Support climate awareness amongst our customers/clients  
+- Enhance reporting. 
+ 
+These Principles align fully with the recommendations set out by the Taskforce for 
+Climate-related Financial Disclosures (TCFD). Lloyd's most recent ClimateWise 
+report is publicly available on Lloyd's website.  
+ 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 17 of 154 
+ 
+In December 2020, Lloyd's published its first Environmental, Social and Governance 
+(ESG) report setting out our plans for transitioning to a more sustainable insurance 
+and reinsurance marketplace. 
+ 
+Lloyd's Environmental, Social and Governance Report 2020 builds on our existing 
+ESG work with a comprehensive market-wide strategy, which supports the global 
+transition to net zero and commits the market for the first time to publicly 
+accountable targets for responsible underwriting and investment.  
+ 
+The commitments detailed in the report have been developed in consultation with 
+market practitioners and build on the activities already underway across Lloyd's that 
+are actively supporting more sustainable businesses, communities, a nd nations. The 
+report aligns with the United Nations' Sustainable Development Goals and supports 
+the principles set out in the Paris Agreement.  
+ 
+The report outlines the targets we have set for the phasing out of insurance cover for 
+thermal coal-fired power plants, thermal coal mines, oil sands and new Arctic energy 
+exploration activities to help accelerate society's transition from fossil fuel 
+dependency towards renewable energy sources.  
+ 
+Summary of Lloyd's ESG commitments:  
+ 
+- Lloyd's will encourage all insurance undertakings in its market to allocate 2% of 
+annual premiums towards innovative and sustainable products by 2022, and will 
+provide guidance to deliver on this ambition.  
+- Lloyd's will develop a new risk centre, to be launched in 2021, and will u ndertake 
+research into new insurance products to protect society from systemic risks, 
+including climate risk.  
+- Lloyd's is targeting a 5% allocation of the Central Fund to "impact investments' by 
+2022.  
+- Lloyd's will end investment in thermal coal -fired power plants, thermal coal mines, 
+oil sands and new Arctic energy exploration activities. This involves ending new
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 18 of 154 
+ 
+investments in these areas by Lloyd's market participants and by the Corporation, 
+from 1 January 2022, and the phasing out of existing investments in companies with 
+business models that derive 30% or more of their revenues from thermal coal -fired 
+power plants, thermal coal mines, oil sands or new Arctic energy exploration 
+activities by the end of 2025.  
+- Lloyd's will publish a road map that will set out how the Corporation will become net 
+zero in its operations by 2025, and will work with the market to support their own 
+implementation of net zero emission plans.  
+- Managing agents in the Lloyd's market will be asked to no longer provide new 
+insurance cover for thermal coal-fired power plants, thermal coal mines, oil sands, or 
+new Arctic energy exploration activities from 1 January 2022. To enable the market 
+to support their customers as they transition their businesses, the target date for 
+phasing out the renewal of existing insurance cover for these types of businesses is 
+1 January 2030 (including for companies with business models which derive 30% or 
+more of their revenues from any of these activities). Lloyd's will consult with the 
+market and policyholders and provide ongoing support and guidance during this 
+period of transition. 
+ 
+We believe that the IAIS Application Paper coheres with current leading supervisory 
+practices well in the area of supervision of climate -related risks in the insurance 
+sector. In particular, it reflects our experience of supervision by the PRA and the 
+FCA in the UK on this issue.  
+We appreciate the recognition by the IAIS of the need for a dynamic, flexible and 
+principles-based approach. Considering the scope of the App lication Paper is 
+targeted at supervisors rather than insurers, some sections could be updated to 
+reflect this. For example, some statements could be rephrased from "insurers 
+should…" to "supervisors should assess the extent to which insurers…"  
+17. 
+American 
+Academy 
+of 
+Actuaries 
+United 
+States 
+No  Thank you for this opportunity to provide our views on the Application Paper on the 
+Supervision of Climate-related Risks public consultation.  
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 19 of 154 
+ 
+18. 
+Institute of 
+Internation
+al Finance 
+United 
+States 
+No  Dear Dr. Saporta and Mr. Dixon: 
+ 
+The Institute of International Finance (IIF) and its insurance members are pleased to 
+respond to the IAIS's public consultation on the supervision of climate -related risks in 
+the insurance sector. We appreciate the IAIS's focus on the development of a 
+consistent approach to the supervision of climate risks, which we believe should be 
+aligned with, but not identical to, the supervisory approaches used in other sectors of 
+the financial services industry. We also believe that there is value in striving for 
+alignment in approaches to climate risk between the global and national levels. This 
+work should be refined over time in an iterative fashion in close consultation with 
+industry and academic experts, who are also working to a ddress these important 
+issues. We note that significant work on climate risk is being conducted at 
+companies and in universities and think tanks, as well as by national supervisors. 
+We believe that this work should inform the work at the IAIS as it continu es to 
+consider the risks and opportunities that climate change will present for the 
+insurance sector.  
+ 
+We appreciate that, absent robust risk management, climate risk may be a 
+significant source of financial risk that negatively impacts the interests of 
+policyholders and the maintenance of fair, safe, and stable insurance markets. We 
+also acknowledge the concerns raised by the Financial Stability Board regarding the 
+potential for mechanisms within the financial system to amplify climate risks or the 
+cross-border transmission of those risks.  
+ 
+The IIF has conducted a significant amount of work on the topic of climate risks. We 
+have recently shared with you an IIF Discussion Draft Paper, Prudential Pathways: 
+Industry Perspectives on Supervisory and Regulatory Approaches to Climate-related 
+and Environmental Risks (the IIF Prudential Pathways Paper). While this Paper 
+reflects the perspectives of the IIF's broader membership of financial services firms, 
+we believe that there are elements of the IIF Prudential Path ways Paper that may be 
+appropriate for the IAIS to consider and discuss with stakeholders as it advances its 
+work on climate change. We look forward to an opportunity to discuss this Paper and 
+Noted. Responses to specific 
+comments are below under 
+the various sections.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 20 of 154 
+ 
+its particular relevance to the work of the IAIS. 
+ 
+Overarching Comments on the Application Paper 
+ 
+The IAIS's Overall Climate Strategy 
+ 
+As an overarching, foundational comment on the draft Application Paper, we would 
+like to better understand the IAIS's overall climate risk strategy and how this strategy 
+will be reflected in the IAIS's ongoing work program, in particular with respect to the 
+Holistic Framework for Systemic Risk in the Insurance Sector (Holistic Framework) 
+and the Common Framework for the Supervision of Internationally Active Insurance 
+Groups (ComFrame). We appreciate the importance of identifying and appropriately 
+managing climate-related risks and we look forward to engaging with the IAIS on 
+how climate risk considerations will be reflected going forward in IAIS standards and 
+guidance.  
+ 
+Industry/Supervisor Information Sharing  
+ 
+Given the evolving nature of climate risks, industry/stakeholder/supervisor 
+information sharing and collaboration are critical.  
+We note that insurers are subject to expectations for greater information and 
+disclosure from a wide range of stakeholders, including insurance and non-insurance 
+regulators and supervisors, listing authorities for publicly traded companies, rating 
+agencies, investors, customers and prospective customers. It may be appropriate for 
+the IAIS to conduct a stakeholder dialogue on this topic, as well as on the topic of 
+the IAIS's overall climate strategy, in early 2021. The IIF would be pleased to help 
+organize such an event. 
+ 
+Supervisory Responses to Public Policy Goals  
+ 
+Consistent with the principle of proportionality, any supervisory response to climate -
+related risks should focus on material risk exposures, begin with the least invasive
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 21 of 154 
+ 
+tools that can be used to achieve the supervisory objectives of policyholder 
+protection, fair, safe and stable insurance marke ts and financial stability, and 
+promote sound risk management practices. Ultimately, the development of enduring, 
+sustainable responses to climate change will depend on broader national and 
+societal efforts to transition towards lower-carbon economies. Whi le the insurance 
+sector can contribute to these efforts, supervision of the sector should remain risk -
+based and focused on protecting policyholders, maintaining fair, safe and stable 
+insurance markets, and contributing to financial stability.  
+While regulatory capital responses to climate risks are not within the scope of the 
+Application Paper, we understand that they are the subject of supervisory 
+discussions and are discussed in the IIF Prudential Pathways Paper. We believe that 
+the use of regulatory capital is an ineffective approach to the management of 
+climate-related risks, which may give rise to unintended consequences, including the 
+mis-pricing of insurance products and investments. In turn, insurance mis -pricing 
+could have deleterious impacts on the ability of insurers to provide the long-term, 
+patient capital on which markets depend.  
+ 
+Practical, Proportionate and Sequential Approaches to Risk Management  
+ 
+Given that the science around understanding and managing climate risk is rapidly 
+evolving, very specific, mandated risk management requirements would be 
+premature at this time. Instead, prudential supervisory approaches to risk 
+management should be practical, proportionate and sequential, driven by data and 
+informed by relevant expert advice and judgment. Supervisory initiatives should be 
+risk-based, science-based and reflect and leverage market -led approaches to the 
+extent possible.  
+ 
+The insurance supervisory approach to climate risks should reflect the insurance 
+business model and careful consideration should be given to the differences 
+between the insurance sector and other financial services sectors. We support an 
+approach that promotes alignment to the greatest extent practical and possible 
+among financial services standard setters, including a common taxonomy that is
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 22 of 154 
+ 
+aligned across the financial services sectors and that is designed to be dynamic in 
+order to reflect the changing understanding of climate -related risks. While there will 
+be a need for some sectoral and jurisdictional differences to  reflect the nature and 
+materiality of the risks to which companies are exposed and the different paths and 
+manifestations of climate risks across countries and regions (as well as the 
+resources and capacity available to address climate -related risks in some emerging 
+or developing economies (EMDEs) ), we support efforts to align and integrate 
+supervisory practices over time.  
+ 
+Specific Comments on the Application Paper 
+Section 2: Role of the Supervisor 
+ 
+We appreciate the focus on materiality in Paragraph 12 of the Application Paper and 
+we would support a further clarification that, at present, the concept of materiality is 
+defined as financial materiality. It is also important for supervisors to account for 
+different levels of materiality of climate risks acr oss firms and to refrain from applying 
+a "blanket approach' to climate -related risks. In the first instance, supervisors should 
+consider the firm's consideration of the materiality of climate risks in its own risk and 
+solvency assessment (ORSA). (These com ments are further elaborated in our 
+discussion of Section 4 of the Application Paper.) 
+ 
+With respect to supervisory review and reporting (Subsection 2.2), we encourage the 
+IAIS to state that supervisors should be mindful of the burden of multiple, duplicat ive 
+information requests or data calls to insurers and should leverage existing sources of 
+information to the maximum extent possible. Any information requests should have a 
+clear risk-based objective and purpose that is tied to specific supervisory needs or 
+goals; this would also help insurers provide the most meaningful data in response to 
+supervisory requests. Insurance supervisors and supervisory colleges should make 
+use of company reporting to group-wide supervisors in order to avoid duplicative and 
+burdensome requirements. Supervisors should be encouraged to coordinate data 
+requests, which would greatly reduce administrative burden, especially for 
+companies operating with a global footprint.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 23 of 154 
+ 
+ 
+Section 3: Corporate Governance 
+ 
+We note that this section shifts the focus from recommendations for supervisors to 
+recommendations for the insurers themselves. Consistent with the purpose of an 
+Application Paper, we recommend a refocusing of this Section to the supervisory 
+response. Supervisors should assess the robustness of insurers' corporate 
+governance practices and recommend improvements where needed. 
+ 
+We recommend that the IAIS delete Paragraph 33. It is appropriate to link the 
+variable compensation of those key individuals with direct responsibility for the risk 
+management framework to the prudent management of all material risks, including 
+any potential impact that climate change may have on the way risks emerge. 
+However, the Paragraph as drafted could be read in a much broader fashion to 
+cover employees who have no responsibility for or control over climate -related risks. 
+Further, the last sentence of this Paragraph is vague and open to a variety of 
+interpretations. Climate risk considerations are an important part of a wide range of 
+factors that are taken into consideration and balanced in making investment 
+decisions that are in the best interests of policyholders and other stakeholders.  
+ 
+Section 4: Risk Management and Internal Controls 
+ 
+Again, in this Section, the focus should shift back to supervisory best  practices, 
+rather than best practices for insurers. Supervisory engagement and monitoring of 
+climate risks should be a key focus and guidance to supervisors should be 
+principles-based and recognize the need for flexibility given the evolving nature and 
+understanding of climate risk.  
+ 
+Any guidance to insurers should be developed in consultation with the industry and, 
+in particular, in conversation with insurance chief risk officers. Insurers are 
+incorporating climate risks into their ORSAs and enterprise r isk management 
+frameworks and are assessing the materiality of these risks across business lines
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 24 of 154 
+ 
+and activities. Firms should be provided flexibility to adapt their risk management 
+frameworks to reflect the risks that are most material to the company. Firm s' existing 
+risk management frameworks can be leveraged as a baseline for assessing climate 
+risks as they have for other risks over the years.  
+ 
+Given the evolving nature of the science around understanding and managing 
+climate-related risks, we recommend that the IAIS include in this Section language 
+acknowledging that existing risk management frameworks, tools and capabilities will 
+naturally and appropriately need to be developed and evolved in parallel. A phased 
+approach to guidance, reporting and disclo sure requirements would reflect this need 
+for the further development and evolution of climate -related risk management 
+frameworks.  
+We agree with the statements in Paragraph 38 that insurers should develop tools to 
+collect reliable data in order to perform aggregated analyses of climate -related risks 
+but this Paragraph should be restated in terms of what supervisors should expect to 
+receive in terms of output from insurers. This Paragraph appropriately recognizes 
+the value of a qualitative analysis of clima te-related risks, especially in light of 
+current shortcomings in available quantitative data. Given data shortcomings and the 
+evolving nature of climate risk management, an overemphasis on quantitative 
+analysis could result in a false sense of precision and security in the results. Further, 
+at this time, we believe that scenario analysis should be exploratory in nature and 
+focused on understanding how climate risks may emerge, rather than on developing 
+responses to climate risks that may not be based on a c omprehensive 
+understanding of the multitude of factors that can influence or be influenced by 
+climate considerations and, thus, may give rise to unintended consequences.  
+ 
+As further elaborated in our comments on Section 5, we encourage the IAIS and 
+insurance supervisors to recognize the important differences between stress testing 
+and scenario analysis and focus supervisory attention on the latter. Mainstream 
+stress tests are near-term assessments of whether a firm has sufficient resources to 
+weather macro-financial shocks. Climate scenario analyses, whether quantitative or 
+qualitative, are designed to take a longer-term view of a range of potential pathways
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 25 of 154 
+ 
+for climate-related risks and to understand how those risks would affect an insurer 
+and how an insurer could respond to those risks.  
+Paragraph 50 should note that a number of jurisdictions have specific requirements 
+relating to control functions. For those jurisdictions that are developing guidance in 
+this area, flexibility should be granted to firms to r eflect existing organizational 
+structures. 
+ 
+We agree with a focus on climate -related risks in outsourcing decisions (Subsection 
+4.4), but we believe that Paragraph 51 should reflect that insurers may address the 
+risks and potential consequences of vendor failure and other outsourcing risks in 
+their operational resilience plans. We encourage the IAIS to adopt an outcomes -
+based approach that specifies the desired supervisory outcome and provides firms 
+with the flexibility to choose in a principled and discipl ined manner how to deliver that 
+outcome. Outsourcing arrangements generally do not transfer control of key 
+activities to third parties, which remains in the control of the insurer.  
+ 
+The need for proportionality is particularly important when supervising i ntragroup 
+outsourcing arrangements. When developing supervisory expectations around exit 
+strategies for intragroup outsourcing arrangements, supervisors should acknowledge 
+that financial risk remains within the group.  
+ 
+Section 5: ERM for Solvency Purposes 
+ 
+We are in agreement with the statement in Paragraph 60 that the unique business 
+strategy, investment portfolio and risk profile of each insurer will affect the degree of 
+impact arising from climate -related risks. We encourage the IAIS to include this 
+statement in the Introduction to the Application Paper. 
+ 
+The IAIS should consider more explicitly recognizing climate risk mitigation 
+strategies and techniques (e.g. regular re-underwriting of P&C risk and reinsurance) 
+in this Section. The availability of more data (and more granular data) will indeed 
+assist insurers in developing a more precise understanding of the risks associated
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 26 of 154 
+ 
+with climate change.  
+ 
+Given the longer-term, forward-looking focus of scenario analysis relative to stress 
+testing, we reiterate the comments raised above with respect to the need for 
+supervisory focus on climate scenario analysis. A focus on forward-looking scenario 
+analysis also reflects the longer-term focus of Paragraphs 61 and 62 of the 
+Application Paper, in particular, the st atement in Paragraph 62 that an insurer is 
+required to perform a continuity analysis to assess its ability to manage its risks and 
+meet its capital requirements under a range of plausible adverse scenarios with a 
+forward-looking perspective in mind. The co mments that follow are focused on 
+scenario analysis, as we view scenario analysis as the better tool for assessing the 
+potential impacts of climate -related risks, but many of these comments apply as well 
+to stress testing.  
+ 
+With respect to the appropriate time horizon for the consideration of climate risks in 
+scenario analyses (see Paragraph 61), we believe that this is a decision best made 
+by the company's senior management based on the activities and risk profile of the 
+firm and the types of assessments a nd scenarios that are the most decision-useful 
+for the board and senior management. Climate risks do manifest over longer time 
+horizons than many other risks but the decreasing reliability of results over a longer 
+time horizon should be acknowledged.  
+ 
+Supervisors should also consider that robust scenario analysis may rely on data 
+which is not currently available, such as data from counterparties. Consultation with 
+the industry on the parameters and assumptions used in scenario analysis exercises 
+can be useful in identifying data gaps and avoiding unrealistic expectations 
+regarding the results of these exercises.  
+ 
+More generally, the design of scenario analyses should be industry -driven, providing 
+firms with the flexibility to develop scenarios that best reflect their business models 
+and particular risk profiles. An industry -driven approach to scenario design would 
+help to develop effective and decision -useful tests. Supervisors and supervisory
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 27 of 154 
+ 
+colleges have an important role to play in assessing the robustne ss of firms' 
+analyses as well as the output of scenario analysis exercises.  
+ 
+At this time, given the early stage of development of climate scenario analysis, these 
+analyses should be focused on understanding potentially material climate risks, 
+exploratory in nature, and balanced between quantitative and qualitative data and 
+observations, in order to produce reasonably reliable outputs that are decision -useful 
+and avoid creating a false sense of precision in the results. This focus would also 
+promote the efficient management of firms' resources.  
+ 
+Regular mandatory disclosure of quantitative scenario analysis results is premature 
+at present. Any call for scenarios that could potentially cause insolvency is especially 
+premature and could lead to inappropriate supervisory action. We encourage 
+insurance supervisors to consider an iterative approach to any quantitative reporting 
+or disclosure requirements when climate risk measurement tools and techniques are 
+at a more advanced state.  
+Importantly, climate scenario analysis is not well enough advanced to serve as a 
+foundation for decisions on prudential regulation, particularly regulatory capital 
+requirements. There are a number of important conceptual and practical challenges 
+associated with using regulatory capital to respond to climate-related risks and other 
+tools are better suited to address these risks. In particular, firms' internal risk 
+management processes are a strong tool for managing evolving risks such as 
+climate-related risks.  
+ 
+Section 6: Investments 
+ 
+We agree that physical and transition risks could have complex and non -linear 
+impacts on insurers' investments that need to be taken into account whether the 
+insurer invests directly or though a third-party asset manager or investment advisor. 
+Insurers need to understand the long-term suitability of their investments as part of 
+prudent asset-liability management, the ultimate purpose of which is to meet 
+policyholder obligations. Greater recognition of and incorporation of climate risk into
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 28 of 154 
+ 
+financial asset prices over time should serve to help to mitigate these potential 
+investment risks.  
+ 
+With regard to the last sentence in Paragraph 70, we request that the IAIS further 
+clarify the impacts of climate risk on asset -liability management and, in particular, 
+how the correlation of asset classes is directly related to asset -liability management. 
+As mentioned in our comments at Section 2, Role of the Supervisor, while the 
+insurance sector can contribute to the shift towards lower-carbon economies, the 
+development of enduring, sustainable responses to climate change will require and 
+be driven by the degree to which broader national and societal efforts to transition 
+are pursued and effective. While insurers may consider the stewardship aspect of 
+climate change as one of a broad range of factors when considering strategic 
+decisions, the supervision of climate -related risks should be risk-based and remain 
+focused on policyholder protection, the promotion of fair, safe and stable insurance 
+markets and financial stabilit y. Section 6 should also acknowledge that the 
+promotion of strategies to avoid certain assets in favor of others could create or 
+exacerbate financial risks by incenting large shift in portfolio composition across the 
+industry or by eliminating sources of i nvestment and financing that will be needed to 
+facilitate the transition to a lower-carbon economy.  
+ 
+While capital and valuation issues are not within the scope of the Application Paper, 
+we understand that the IAIS is discussing these issues, as are a numb er of 
+supervisors and standard setters. As a general matter, supervisors' use of prudential 
+tools should remain risk-based. Climate or environmental regulatory capital 
+adjustments or other regulatory efforts to re-direct insurers' away from certain types 
+of assets and towards "green' assets - an investment class that is still ill -defined -- 
+could potentially undermine the credibility and efficacy of risk -based prudential 
+instruments. These efforts could also generate unintended effects that could actually 
+hamper the transition to a low-carbon economy, including by producing destabilizing 
+asset bubbles in "green' assets. To the extent that rating agencies or market prices 
+already factor in climate risk, climate -based prudential requirements could introduce 
+a double counting effect.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 29 of 154 
+ 
+ 
+Section 7: Public Disclosure 
+ 
+We encourage a more proportionate and less prescriptive approach to public 
+disclosure at this point in time, with an emphasis on voluntary disclosure. Market -led 
+responses to the need for public disclosure should inform supervisory expectations 
+or best practices on public disclosure. In designing any disclosure guidance, due 
+recognition should be given to the requirements arising from the rules of listing 
+authorities.  
+ 
+Guidance on disclosure should be proportionate and focused on the financial risks 
+that are material and decision-relevant for the insurer, recognizing that materiality is 
+company-specific. Companies should be encouraged to highlight not only risks but 
+also opportunities that arise from the transition to a low-carbon economy.  
+ 
+Any disclosure requirements should be imposed in an iterative manner, with an initial 
+focus on qualitative measures (especially for longer-term exposures), until climate 
+risk measurement tools and techniques are at a more advanced state. A careful 
+approach to disclosure requirements would help to mitigate insurers' exposure to 
+legal risks. As noted above, the disclosure of quantitative climate scenario analysis 
+results in particular is premature at present. 
+ 
+Finally, a number of companies within the financial sector and beyond voluntarily 
+issue TCFD-compliant reports. The IIF welcomes the IAIS reference to TCFD as an 
+example of developing best practice as it is important that firms consider 
+internationally recognized guidance where appropriate in an effort to better align 
+disclosures.  
+ 
+We appreciate the opportunity to comment on the Application Paper and we look 
+forward to continued industry/supervisor dialogue on climate -related risks in the 
+insurance sector. We would be pleased to present to the IAIS and its members our 
+views on these topics in greater detail.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 30 of 154 
+ 
+ 
+Respectfully submitted, 
+ 
+Mary Frances Monroe 
+19. Liberty 
+Mutual 
+Insurance 
+Group 
+USA No  Liberty Mutual Insurance Group finds the draft Application Paper to be overall a well -
+balanced and thoughtful analysis of how insu rance companies and insurance 
+supervisors should work together to address climate -related risks in the insurance 
+sector.  
+Given the ever-changing and evolving nature and understanding of the issues, 
+proper consideration of climate risk and its impact(s) on  the insurance sector will 
+require insurance industry and supervisor collaboration and information sharing 
+going forward. Undoubtedly, the guidance provided in the draft Application Paper will 
+thus continue to require further work and updating on the part of both insurers and 
+supervisors on an ongoing basis. However, for the most part, many insurers are 
+already well on the way to adopting the recommendations of the draft Application 
+Paper; incorporating them into their corporate governance and risk manageme nt 
+structures.  
+ 
+Though Liberty Mutual supports the Application Paper, it can be improved and made 
+a more useful document. At times, the draft Paper reverts to expectations so detailed 
+and specific that it becomes almost prescriptive and thereby inflexible . In a few 
+places, it goes even further and recommends supervisors intervene in what are 
+insurance company management decisions outside both the expertise and 
+appropriate role of supervisors. Frankly, none of us are there yet. Neither companies 
+nor supervisors yet have the level of climate risk expertise to underpin specific 
+expectations, much less hard and fast requirements. It is also critical that we learn 
+together and collaborate on practices that contribute to climate risk solutions, that 
+protect policyholders, that are transparent, and that strengthen financial stability. 
+Until then, for the guidance in this paper to be truly useful for insurers and 
+supervisors alike, it must be flexible and capable of evolving as our knowledge and 
+circumstances permit. We know where we want to go, let us go there together. 
+ 
+Noted 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Paper is meant to 
+provide practical examples 
+and good practices; it is not 
+meant as prescriptive.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 31 of 154 
+ 
+Our concern that the Application Paper lacks flexibility is consistent with other 
+comments we at Liberty Mutual have made in other IAIS consultations on other 
+topics. We have consistently cautioned the IAIS against taking positions that would 
+effectively direct supervisors to interfere with management's decision making or 
+substitute supervisors' judgment for that of management. We have urged, instead, 
+as we do again in connection with this Applicatio n Paper, that supervisors focus on 
+setting broad objectives for insurers and allow management the flexibility to use their 
+own judgment as to how best to achieve them.  
+Particularly given the complexity of climate risk and the search for science -based 
+metrics, insurer management will be better equipped to make those decisions. 
+Supervisors should indeed ensure that management is making prudent and 
+reasonable decisions, but ought not specify in detail what those decisions will or 
+should be.  
+ 
+We also note legitimate questions and concerns around ESG data availability and 
+quality, particularly around climate reporting. The quality and availability of sound 
+climate risk data is uneven at best. Standards for data collection and efficient 
+reporting, along with voluntary disclosures, should be harmonized and need to be 
+addressed on a more consistent basis across sectors, asset classes, public and 
+private companies, and jurisdictions. Longer term, this will support supervisory 
+expectations that companies can reliably integrate climate into their risk 
+management and decision-making processes.  
+ 
+Finally, the draft Application Paper suggests that supervisors review the impact of 
+climate change assessments over the short, medium, and long term, without defining 
+these time horizons. Supervisors should coordinate this matter among themselves 
+over time, to ensure that different supervisors do not set inconsistent specific time 
+horizons.  
+ 
+Q2 Comment on section 1.1 Context and objective
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 32 of 154 
+ 
+20. 
+Insurance 
+Europe 
+Europe No  Insurance Europe agrees that climate change is a global threat. It takes the view that 
+insurers should appropriately consider sustainabil ity risks, including climate -related 
+risks, especially when these risks are expected to have a future material impact on the 
+balance sheet of the insurance company.  
+ 
+Insurance Europe believes that, in integrating sustainability risk, including climate -
+related risks, undertakings should be given sufficient flexibility to reflect their specific 
+business model and to integrate sustainability risks in their business processes and 
+decisions. The principle of proportionality also needs to be reflected in the 
+consideration of sustainability risks: the type and maturity of the undertakings' 
+obligations, as well as the nature, the regionality and the risk exposure connected to 
+those obligations need to be adequately considered.  
+  
+Noted  
+22. IAA Internati
+onal 
+No  This section provides a good understanding of the context and objective of the paper. 
+As climate change is a global threat, the IAA suggests that members of IAIS be 
+encouraged to report back on local initiatives and the extent to which the measures 
+presented in the report are put in force.  
+Noted  
+23. 
+American 
+Academy 
+of 
+Actuaries 
+United 
+States 
+No  The American Academy of Actuaries has been actively assessing changes in climate 
+risk for several years and continues to do so. The Actuaries Climate Index (ACI) , 
+jointly developed and maintained in partnership with three other North American 
+actuarial associations, documents the relatively steady increase in climate extremes 
+from North America since 1990. The website of the ACI not only allows examination of 
+trends in six distinct climate indicators, it also presents illustrations of these trends at 
+the supranational, national, and regional levels. All of these different changes in 
+climate indicators can be useful to insurance supervisors. The ACI has been the bas is 
+for other actuarial associations around the world to develop similar indices in their own 
+countries or regions.  
+ 
+The Academy's publication of Actuaries Climate Risk Index: Preliminary Findings, in 
+January 2020, reflected the first effort to develop sys tematic estimates for property 
+losses due to changes in climate, controlling for changes in exposure. Our estimate for 
+the U.S. from 1991 - 2016, indicated that about 3.3% of the losses from climate -
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 33 of 154 
+ 
+related events were due to those changes in climate. And while many experts 
+generally expect property losses to increase by the end of the century, most suggest 
+little or no damage could yet be directly ascribed to climate changes. Our research 
+paper places a quantitative estimate, albeit with substantial uncert ainty around that 
+estimate, on the extent of loss already experienced. Continuing to develop these 
+estimates with more refined methods, and observing the results into the future, should 
+provide robust estimates valuable to insurance supervisors of the patt ern of losses 
+due to changes in climate. 
+Q3 Comment on paragraph 1  
+24. 
+Insurance 
+Europe 
+Europe No  European insurance companies agree that climate change is a global threat that 
+requires a global response. It is essential that the paper stresses  that collective efforts 
+involving all economic stakeholders. Cooperation between policymakers and market 
+players is needed to tackle climate change. Insurance Europe suggests adding a 
+following sentence: 
+"Making a successful transition to a sustainable ec onomy is the collective 
+responsibility of all humanity and requires enhanced cooperation between the public 
+and private sector."  
+Not included as it is not 
+within the scope of this 
+Paper to make statements 
+on the response to climate 
+change; the scope is on 
+insurance supervisors. 
+25. GFIA Global No  As rightly pointed out in the paper, climate change is a global threat and thus needs a 
+global response. GFIA believes it is essential to stress that collective efforts involving 
+all economic stakeholders and cooperation between policymakers and market players 
+are needed. Thus, GFIA suggests adding the following sentence: "To this extent, 
+making a successful transition to a sustainable economy is the collective responsibility 
+of all humanity and requires enhanced cooperation between the public and private 
+sector. " 
+See response to comment 
+24. 
+26. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  Temperature rises are the main mechanism that affects all other variables. 
+Furthermore, climate change will have varying effects depending on the specific 
+geographical area being considered (some could even see a reduction of risk). We 
+would therefore suggest amending the sentence: "through rising temperatures, rising 
+sea levels and an increasing frequency/severity of natural catast rophes and extreme 
+Change made.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 34 of 154 
+ 
+weather events" to read as follows: "through rising temperatures and their 
+consequences, such as: rising sea levels, and an increased frequency/ severity of 
+natural catastrophes and extreme weather events" 
+27. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  Following the recommendations of #NoNaturalDisasters (or 
+https://www.nonaturaldisasters.com/about-us ), we suggest the IAIS supports the shift 
+from the terms "natural disasters" and "natural catastrophes" to "natural hazards." The 
+negative impacts are not a "natural disaster" but rather, the human failure to mitigate 
+and plan appropriately can result in humanitarian disasters from a natural 
+process/natural event. There is nothing "natural" about that failure. In fact, the 
+definition of a "disaster" or "catastrophe" per existing standards is based on the 
+number of people affected, the extent of economic damage and the inability of a local, 
+regional or national system to cope with the consequences with their own resources, 
+which clearly outlines that the disaster is linked to the human and economic aspect, 
+not the natural process itself.  
+ 
+In that regard, it is also important to stress that disaster risks can be managed  and 
+reduced to prevent disasters from happening in the first place. As such, we suggest 
+using the term "disaster risk management" throughout, removing the term "disaster 
+management", in line with the objectives under the Sendai Framework for Disaster 
+Risk Reduction. 
+Change not made. “Natural 
+catastrophe” is a widely 
+used term, including in the 
+insurance sector capital 
+requirements and 
+regulation.  (NATCAT 
+module). Also, natural 
+catastrophes are not 
+restricted to hazards and 
+extreme weather events 
+only.  
+ 
+ 
+ 
+This term was not used in 
+the Paper. 
+Q4 Comment on paragraph 2  
+28. 
+Associatio
+n of 
+Bermuda 
+Insurers 
+and 
+Reinsurers 
+(ABIR) 
+Bermuda No  There have been many examples where government intervention for access to 
+insurance purposes has severely damaged market  pricing, with resulting predictable 
+negative outcomes (perverse, and climate - or resiliency- damaging, incentives; 
+adverse selection and death-spirals; and risk to the solvency of insurers, to name a 
+few). 
+Insurers and reinsurers are market participants. They have great capacity to respond 
+to and give market signals about climate risk, but they are not themselves equipped to 
+cure non-market social ills that impact insurance affordability. As such, public -private 
+and non-profit efforts are better mechanism,  rather than attempting to put that on the 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 35 of 154 
+ 
+back of insurers and reinsurers. 
+Insurers and reinsurers (and Bermuda in particular) have stellar capacity to model and 
+price and spread risk, and this capacity stands ready to work with other actors in 
+addressing insurance affordability. 
+29. GFIA Global No  GFIA takes the view that supervisors of the financial sector other than insurance 
+should also undertake similar approaches with respect to climate -related risks.  
+Noted  
+30. IAA Internati
+onal 
+No  Following on from the IAA answer to Q 1, the IAIS glossary could be mentioned here 
+(in respect of the definition of "financial risk").  
+The IAIS glossary does not 
+include a definition of 
+“financial risk”. The 
+Glossary is referred to in 
+paragraph 7. 
+31. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  The specificities of climate risk vs other risks do not appear to be considered in the 
+current paragraph formulation. In fact, it would seem climate risk is always treated as a 
+current (vs future) risk, which may lead to an inappropriate approach when dealing 
+with this issue. We believe that risks that manifest over the longer term may warrant a 
+different regulatory approach. Please see our additional comments on this point under 
+Q1 above. 
+In light of this, we would therefore suggest adding the following text: […] Standard 
+1.2). "In order for these supervisory objectives to be achieved, it is important to identify 
+the specific peculiarities of climate change related risks versus weather related risks"  
+No change needed. The 
+details are described in 
+section 2. 
+32. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  Assessing the impact of climate change risk on the insurance sector ultimately 
+requires the ability to value those impacts in a comparable manner with other risks, 
+emanating from other sources than climate change. For supervisors to fulfill their 
+mandate, they need to operate in a setting where there is a previously agreed 
+benchmark for how to measure/evaluate climate -related financial risks. An agreed 
+valuation method is crucial. The best way to accomplish this is by establishing a 
+general price on greenhouse gas emissions (GHG), as this will immediately translate 
+into a measurable and reportable financial impact on assets, liabilities and all P/L -
+relevant actions that again affect the positions on the balance sheet.  
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 36 of 154 
+ 
+33. ACLI U.S.A.  No  The separation of the three elements of the IAIS Mission is artificial and misleading. 
+For example, managing and mitigating climate risks (para. 2) - while supporting the 
+protection of policyholders and contributing to financial stability - also promotes fair, 
+safe, and stable insurance markets. We suggest consolidating the reference to the 
+three objectives at the end of the description of the challenges (para. 2) and 
+opportunities (para. 3). 
+Some changes made to 
+address the point 
+Q5 Comment on paragraph 3  
+34. ABIR Bermuda No  The insurance industry can encourage insureds to improve their mitigation and 
+improve their own resilience to climate related events through premium rebates an d 
+enhanced protection, but in some jurisdictions, regulators will need to assist this 
+process by providing increasing flexibility on ratemaking, premium rebates, and policy 
+terms. 
+ Noted  
+35. 
+Insurance 
+Europe 
+Europe No  Policymakers, businesses and consumers must understand the scope and scale of the 
+impact of climate change. The most significant contribution that regulators and 
+insurers can make is through risk -based pricing, as this can provide the right set of 
+incentives and economic signals regarding t he impact of climate change. In this 
+respect, Insurance Europe strongly calls for regulators to support risk -based pricing. 
+After the second sentence, Insurance Europe suggests adding the following: 
+"Risk-based pricing helps deliver appropriate economic si gnals in line with real risks."  
+Suggested changes were 
+made 
+ 
+36. GFIA Global No  Insurers also play an essential role as an assessor of risk. GFIA suggests adding "as 
+an assessor of risk" in the second sentence. 
+ 
+In addition, policymakers, businesses and c onsumers must understand the scope and 
+scale of the impact of climate change on various risks. The most significant 
+contribution that regulators and (re)insurers can make is through risk -based pricing to 
+provide incentives, disincentives and other economic  signals regarding climate -
+influenced risks. GFIA strongly calls for regulators to support risk -based pricing. It 
+therefore suggests adding the following sentence to the paragraph: "The insurance 
+industry plays a critical role in the management of climate -related risks in its capacity 
+Suggested changes were 
+made
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 37 of 154 
+ 
+as a risk manager, risk carrier and investor, and is uniquely qualified to understand the 
+pricing of risks. [Notably, through risk -based pricing, insurers provide critical economic 
+signals regarding the changing risk environment.]" 
+ 
+ 
+ 
+37. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  However, an accurate pricing of risks by the insurance sector requires essential 
+conditions for insurability to be in place. Without such basic framework condit ions in 
+place, the insurance sector is not able to play the attributed role.  
+Noted  
+38. acli U.S.A.  No  We suggest deleting the reference to "inclusive" insurance and treating the topic in a 
+separate paragraph. The new paragraph should highlight insurers ' risk intelligence and 
+growing understanding of climate risks, and their development of related risk 
+management tools and products and services to take account of these evolving risks, 
+enhancing their ability to effectively provide protection to policyhol ders in all markets, 
+including inclusive markets.  
+Change not made, it is only 
+one sentence so it does not 
+merit a separate paragraph. 
+39. NAIC USA, 
+NAIC 
+No  Suggest taking the opportunity to elaborate here: 
+Climate change presents not only risks but also  opportunities for the insurance sector, 
+such as being a driver for innovation. 
+The examples of 
+opportunities are provided in 
+the sentences that follow 
+directly. No need to further 
+elaborate. 
+Q6 Comment on paragraph 4  
+40. 
+Insurance 
+Europe 
+Europe No  The emerging and evolving nature of climate -related risks warrants more than 
+supervisors' efforts to integrate climate risk into the supervision of the insurance 
+sector. It requires supervisors' active engagement and cooperation with policymakers 
+to develop an environment that helps insurers fully contribute to the transition to a 
+more sustainable economy. There are several challenges that cannot be solved by 
+insurers alone and need policy actions. Supervisors have a key role to play in this 
+respect. 
+ 
+The paper should facilitate a broader exchange of experiences between supervisors. 
+One possibility would be to include for each ICP a dedicated section highlighting "dos 
+The Application Paper 
+provides guidance for the 
+application of several of the 
+IAIS ICPs. The ICPs are not 
+structured in a manner that 
+discusses “don’ts”, and the 
+Paper should be consistent 
+with that.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 38 of 154 
+ 
+and don'ts". While the paper pays a lot of attention to the supervisory "dos", it could 
+benefit from more emphasis on the "don'ts". This is key, as the paper will be useful 
+material for both supervisors and insurers to share their experiences and inform the 
+sound development of appropriate supervisory practices, which is particularly 
+important when dealing with fast-emerging and evolving risks.  
+41. GFIA Global No  The emerging and evolving nature of climate -related risks warrants more than 
+supervisors' efforts to integrate climate risk into the supervision of the insurance 
+sector. It requires supervisors' active engagement and cooperation with policymake rs 
+to develop an environment that helps all sectors contribute in full to the transition to a 
+more sustainable economy. There are several challenges that cannot be solved by 
+insurers alone and need policy actions. Supervisors have a key role to play in thi s 
+respect. GFIA thus welcomes the intent of the paper, which is to provide guidance to 
+supervisors in order to avoid duplicative or contradictory standards between 
+jurisdictions and to facilitate the assessment of material climate risks, which is still at 
+an early stage of development. 
+ 
+In GFIA's view, the paper should also facilitate a broader exchange of experiences 
+between supervisors. One possibility would be to include for each ICP a dedicated 
+section highlighting "dos and don'ts". While the paper pays  a lot of attention to the 
+supervisory "dos", it could benefit from more emphasis on the "don'ts". This is key, as 
+the paper will be useful material for both supervisors and insurers to share their 
+experiences and inform the sound development of appropriate supervisory practices, 
+which is particularly important when dealing with fast emerging and evolving risks.  
+ 
+Finally, GFIA would caution against overly prescriptive recommendations on 
+underwriting and investment activities. In fact, insurers' investment a nd underwriting 
+actions must be taken independently in order to comply with legislations against unfair 
+business practices. Competition, antitrust and boycott laws in various jurisdictions limit 
+the ability of insurers to act collectively.  
+See response to comment 
+40. 
+42. IAA Internati
+onal 
+No  A "globally consistent" approach is desirable but the IAA is concerned that any 
+approach should facilitate making progress quickly.  
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 39 of 154 
+ 
+ 
+Supervisors could consider taking a building block approach for the industry to br eak 
+down the issue of climate risks into parts, for example around understanding and 
+addressing data availability, addressing the climate risk landscape and requirements, 
+then tools, methodologies and principles. This would involve local regulators, local 
+actuarial associations and academic bodies coordinating their training and research. 
+Given that many insurance companies are still in the early stage of managing climate 
+risks, taking a building block approach enables the gradual roll out of standards or 
+guidelines phase by phase. This may help the industry implement initiatives more 
+effectively. 
+43. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  While stating, "Application Papers do not establish standards or expectations…," it is 
+also stated that, "This Paper thereby also aims to promote a globally consistent 
+approach…". We believe the latter sentence contradicts the former sentence, and 
+therefore propose deleting the following sentence: "This Paper thereby also aims to 
+promote a globally consist ent approach to addressing climate-related risks in the 
+supervision of the insurance sector".  
+ 
+In addition, as the word "guidance" implies standards and expectations, we suggest 
+revising the third sentence as follows: 
+"Application Papers do not establish s tandards or expectations, but instead provide 
+additional reference to assist implementation".  
+No change made. The 
+objective of Application 
+Papers is precisely to help 
+the understanding of the 
+IAIS Standards and thereby 
+promote a globally 
+consistent approach. 
+ 
+Guidance is not meant to 
+imply “standards or 
+expectations”. Guidance in 
+the IAIS terminology refers 
+to recommendations and 
+examples. See also the 
+introduction to the ICPs. 
+44. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  Valuation of climate risks is  critical, crucial and key to integrate the corresponding 
+impact into the insurance sector´s supervision. 
+Noted  
+Q7 Comment on section 1.2 Related work by the SIF and IAIS
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 40 of 154 
+ 
+Q8 Comment on paragraph 5  
+Q9 Comment on section 1.3 Proportionality  
+46. 
+Insurance 
+Europe 
+Europe No  Insurance Europe welcomes the importance attributed to the principle of 
+proportionality. It should be fully reflected in the supervision of climate risk: the type 
+and maturity of the undertakings' obligations, the risk level connected t o those 
+obligations, as well as the nature and the regionality of the insured risks are all 
+elements that need to be considered. 
+ 
+Proportionality is particularly important to avoid an excessive burden on insurers with 
+low exposure to climate -change risks. A number of tools can be used to apply the 
+principle of proportionality and avoid unnecessary, burdensome requirements. For 
+example, in the case of stress -testing and scenario analysis, the industry believes that 
+maximum flexibility should be given to insu rers to assess financially material climate 
+risks in their processes, either in a quantitative or qualitative way.  
+ 
+This paper should include explicit recommendations to supervisors to allow insurers to 
+have sufficient flexibility in how to consider material climate -change risks, in line with 
+their specific characteristics and risk profiles. Such flexibility is also key to adequately 
+dealing with the inherent uncertainty related to the use of some climate -risk 
+assessment tools, especially in the long term. Many assessment methodologies are 
+still under development and this does not justify rigid and prescriptive approaches to 
+supervision. Good practices and high-level principles are most effective in providing 
+guidance on the best way to consider climate risk . 
+Noted. Where applicable, 
+the Paper indeed provides 
+concrete examples. 
+Q10 Comment on paragraph 6  
+48. GFIA Global No  GFIA welcomes the importance attributed to the principle of proportionality. It should 
+be fully reflected in the supervision of climate  risk: the type and maturity of the 
+undertakings' obligations, the risk level connected to those obligations, as well as the 
+nature and the geography of the insured risks are all elements to be considered.  
+ 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 41 of 154 
+ 
+Proportionality is particularly important to avoid an excessive burden on insurers with 
+low risk exposures to climate change. A number of tools can be used to apply the 
+principle of proportionality and avoid unnecessary, burdensome requirements. For 
+example, in the case of stress -testing and scenario analysis, the industry believes that 
+maximum flexibility should be given to insurers to assess financially material climate 
+risk in their processes, either in a quantitative or qualitative way.  
+Q11 Comment on section 1.4 Terminology  
+50. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  Global average surface temperature should not be the only, or even the most relevant, 
+parameter for climate change. There are many other key relevant factors outlining the 
+potentially devastating effects from climate change, including night temperatures, 
+rainfall distribution, and water deficit. 
+Included the fact that this is 
+only one example (“eg”). 
+51. acli U.S.A.  No  Table 1. The identification of "liability risk" as distinct from "physical risk" and 
+"transition risk" requires clarification. The liability risk categorization seems potentially 
+duplicative. 
+This is consistent with the 
+2018 Issues Paper. 
+Q12 Comment on paragraph 7  
+52. 
+Insurance 
+Europe 
+Europe No  The definitions are generally clear. Insurance Europe suggest s: 
+-Clarifying the link between climate -related, environmental and sustainability risks, ie 
+that environmental risks are a subset of sustainability risks, including but not limited to 
+climate-change risks.  
+-Adding a clear definition of environmental, soci al and governance factors. 
+It would be useful to acknowledge not only the financial impact of sustainability on 
+insurers, but also insurers' effect on sustainability. Currently, the risks considered in 
+Table 1 only take into account an "outside-in" approach of climate risks (ie how do 
+climate risks impact insurers' activities). In Europe, an increasing number of 
+companies, including insurers, also recognise an "inside -out" approach (ie how a 
+company's activities affect climate change) when identifying, mana ging and reporting 
+on climate risks.  
+  
+ 
+This was clarified 
+ 
+The paper defines 
+“environmental” but the 
+social and governance 
+factors are out of scope. 
+ 
+This is dealt with in section 
+1.1.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 42 of 154 
+ 
+53. GFIA Global No  In Table 1, GFIA suggests adding a definition of sustainability as the term is frequently 
+used in different ways in public debate. 
+ It should be clarified that environmental risks are a subset of sustainability risks.  
+ 
+In addition, GFIA suggests clarifying the definition of "transition risk", as in the "climate 
+risk" column it is used interchangeably with "liability risk" yet two rows down in the 
+table it is used to refer to the risks that arise as asset values change in transitioning to 
+a low carbon economy. 
+Sustainability (risk) is 
+already defined. 
+ 
+This was clarified 
+Clarified by adding “and” 
+before “or” 
+54. IAA Internati
+onal 
+No  Further to the response to Q1: 
+ 
+The definition of "climate change" is restricted to just that attributable to human 
+activity. For solvency purposes the distinction between cl imate change attributable to 
+human activity and that attributable to other causes is irrelevant. The IAA suggests not 
+restricting the definition of climate change in this way.  
+ 
+If liability risk is to include the legal risk (as defined in Table 1), "Legal risk" may be a 
+better label as the term "liability risk" may be more naturally understood to be 
+restricted to insurance liabilities. However, it may be better to define "Legal risk" and 
+"Insured Liability risk" separately, so that the former excludes the l atter.  
+See response to Q1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For consistency with 
+previous SIF/IAIS Papers 
+this remains unchanged 
+56. acli U.S.A.  No  Table 1. The identification of "liability risk" as distinct from "physical risk" and 
+"transition risk" requires clarification. The liability risk categorization seems potentially 
+duplicative. 
+See response to comment 
+51. 
+Q13 Comment on section 1.5 Scope  
+Q14 Comment on paragraph 8  
+Q15 Comment on paragraph 9  
+Q16 Comment on paragraph 10
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 43 of 154 
+ 
+57. 
+Insurance 
+Europe 
+Europe No  Insurance Europe welcomes the decision to exclude ICPs 14 and 17 from the scope of 
+the paper, as climate risk management is at too early a stage of development to be 
+adequately incorporated in ICPs 14 and 17 following a risk -based approach. While 
+tools such as scenario analysis and stress-testing can be used to investigate the 
+impact of climate change, their results are not yet reliable enough to be used to 
+assess the solvency of insurers. Their use could produce ill -informed market signals, 
+which would be inconsistent with a stable transition to greater financial sustainability. 
+Insurance Europe suggests adding the following sentence at the end of the paragraph:  
+"In addition, the use of ICP 17 to assess climate -related risks might be premature as it 
+is particularly difficult to assess potential risk differences based on sustainability, 
+especially as the valuation and the risk profile of assets are influenced by many 
+factors." 
+No change made as the 
+main reason to not include it 
+is related to the fact that 
+these ICPs are under review 
+in coming years and not the 
+reason noted in this 
+comment. 
+58. GFIA Global No  GFIA welcomes the exclusion of ICPs 14 and 17 from the scope of the paper. In 
+particular, GFIA believes that ICP 17 is not suitable for the purposes of the paper. As 
+climate risk management, scenario analysis and stress -testing are in their infancy, 
+they should not be used to assess the solvency of (re)insurers, as this might result in 
+ill-informed market signals, inconsistent with a stable transition to greater financ ial 
+sustainability. Furthermore, these tools are useful to make informed predictions of 
+future conditions but do not constitute facts, and therefore should not be used as a 
+solvency assessment tool, but only to focus on climate risks. Given this, GFIA beli eves 
+it would be premature to assume that ICP 17 on capital requirements is appropriate for 
+assessing and mitigating climate-related risks.  
+ 
+GFIA suggests adding the following sentence at the end of the paragraph: "In addition, 
+as many climate-risk assessment tools are still at early development stage, it would be 
+premature to use ICP 17 to assess climate -related risk." 
+ 
+In addition, GFIA supports excluding ICP19. However, it will be important for 
+supervisors not to confuse the fair treatment of customers under ICP 19 with any 
+mandates to prevent (re)insurers from applying risk -based pricing. 
+See response to comment 
+57. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 44 of 154 
+ 
+59. IAA Internati
+onal 
+No  The IAA notes that it will be important to update ICP 19 in the future as 
+"greenwashing" is likely to be an important issue.  
+Noted  
+61. acli U.S.A.  No  The presumed link between climate change and macroprudential supervision lacks a 
+proper foundation at this time. First, macroprudential supervisory frameworks are 
+generally focused on monitoring financial risks that have the potential to disrupt 
+financial stability over a short time horizon. In contrast, climate risk is generally 
+understood to be a longer-term risk. As such, existing macroprudential frameworks 
+have not been developed with climat e risk in mind. Second, climate is not a risk that 
+can be "managed" in and of itself; rather it can contribute to the manifestation of other 
+risks. Further work is needed to understand and establish any linkages between 
+climate risk and financial stability . It is important also to take account of the evolving 
+landscape and the need to continue to develop expertise related to both the 
+management and supervision of potential climate risks.  
+There are many publications 
+around the possible 
+financial stability 
+implications of climate 
+change. see for instance a 
+publication from the FSB 
+(November 2020). 
+Also the IAIS is undertaking 
+analysis as part of the 
+GIMAR special topic report. 
+Q17 Comment on paragraph 11  
+62. ABIR Bermuda No  ABIR supports the consideration of a public/private partnership, however this must be 
+carefully considered. Some elements of climate -exposed risk may become simply 
+uninsurable given the combination of the legal environment in some jurisdictions and 
+their climate exposures. This is potentially the case in California and Australia in terms 
+of utility companies being held accountable for wildfire liability. Putting risks that 
+cannot be properly priced, or where the interplay of pricing and low take -up creates a 
+market "death spiral", solely into the private market may in certain situations not be 
+consistent with safety and soundness and/or achieving the level of insurance 
+penetration necessary. In those narrow cases, a tailored government solution (ranging 
+from encouraging take-up, to providing affordability support, to a government 
+backstop, and in certain cases to even more extensive government solutions) may be 
+required. 
+Noted 
+63. 
+Insurance 
+Europe 
+Europe No  Insurance Europe reiterates the importance of cooperation between different player s, 
+and specifically the public and private sector, in tackling climate change. Therefore, 
+the European industry appreciates the possibility of exploring new forms of public -
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 45 of 154 
+ 
+private partnership in order to improve the availability and affordability of insur ance, 
+while providing best practices and lessons learnt to improve adaptation to climate 
+change and mitigation of the financial impact of weather-related events. In this 
+respect, policymakers should invest in broad mitigation strategies. They could:  
+o Subsidise insurance premiums of certain products and services with low penetration 
+rates on the condition that they are related to resilience and prevention measures.  
+o Develop a clear framework for identifying and classifying activities that enhance 
+policyholder resilience.  
+o Anchor climate resilience in planning standards and building regulations to improve 
+resilience to natural hazards.  
+o Facilitate public-private partnerships in cases where there is a lack of insurability 
+through the private sector alone: eg due to an absence of diversification and resulting 
+pricing issues.  
+ 
+However, it is important that these are not only temporary solutions but real fixes of 
+the issue at stake. Insurers are only one component in a wider effort to make the 
+economy sustainable. And they can only play their part in the transition to a 
+sustainable economy if other companies and governments are willing to fulfil their own 
+roles. 
+64. GFIA Global No  GFIA sees merit in exploring new forms of public -private partnership in order to 
+improve the availability and affordability of insurance. However, while well intended, 
+such partnerships are designed to reduce or eliminate the economic signals about risk 
+sent by risk-based pricing and may encourage undesirable outcomes. To c ope with 
+increasing severe weather events and natural catastrophes, GFIA believes that 
+policymakers should invest in broad mitigation strategies. Ideally, public -private 
+partnerships should be predicated on mitigation/risk reduction measures being taken 
+by public entities. Public-private partnerships involving some form of insurance 
+schemes may only be a stopgap rather than a real solution to the issue.  
+ 
+In addition, GFIA highlights that to stop offering insurance is the last action considered 
+by insurers. Other actions could be taken to reduce insurance exposure to climate -
+related risks. GFIA thus suggests adding the following sentence: "An insurer may also 
+The Paper does not make 
+any subjective statements 
+on public private 
+partnerships. This is out of 
+scope. 
+ 
+ 
+ 
+ 
+ 
+Included these other 
+examples.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 46 of 154 
+ 
+apply a higher excess, exclude cover for specific perils, and/or require risk mitigation 
+to be undertaken by policyholders."  
+ 
+Finally, while GFIA acknowledges that access to insurance is not in the scope of this 
+paper, it would like to stress that this is an important topic that will require cooperation 
+between governments and the private sector, in part by supporting mitigation and 
+adaptation and competitive, financially strong and innovative insurance markets.  
+ 
+ 
+ 
+ 
+Noted 
+ 
+ 
+68. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  The role of risk reduction must be introduced here. One very clear way of addressing 
+the insurability and affordability situation while keeping policy premiums 
+commensurate with risk level is to ac tively manage/reduce risk by those that "own" the 
+risk (i.e. those owning and managing property). 
+ 
+According to the ClimateWise Investing for Resilience report, of USD 175 billion 
+economic losses in 2016 that related to natural hazards only USD 50 billion were 
+insured. This USD 125 billion protection gap is due in part to the lack of evidence of 
+"what works" and because there are few incentives and regulations to encourage 
+investments into sound protection measures at all levels of society.  
+ 
+One of Zurich´s objectives is to enhance the effectiveness of risk reduction solutions 
+by improving understanding of the barriers to more effective measures to build 
+physical, natural, human, social and financial resilience to natural hazards. Developing 
+and delivering innovative, sustainable solutions that make communities more resilient 
+is necessary. Finally, developing perspectives on appropriate risk transfer and risk 
+management solutions in vulnerable areas, including prerequisites for their effective 
+functioning.  
+See also comment 64; this 
+was now introduced. 
+69. NAIC USA, 
+NAIC 
+No  Bottom of paragraph 11, suggest providing a footnote to A2ii and IDF work/initiatives 
+in this area to provide additional reference and context for the reader. 
+Included for IDF. 
+Reference to a2ii work is 
+already in footnote 2. 
+Q18 Comment on section 2 Role of the Supervisor
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 47 of 154 
+ 
+70. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  The Supervisor can define a unifying set of metrics which can serve as the lingua 
+franca for comparing climate risk across its supervised entities. Prudential risks 
+affected by transition risks, such as investment risk, reputational risk and strategic risk, 
+are all well-suited to be expressed using absolute financed emissions: the emissions 
+financed by the insurance provider's investment portfolio.  
+ 
+Measuring absolute financed emissions is the first step for an insurer to assess risk, 
+set targets, and perform scenario analysis. Rather than wait for a perfect system, 
+Supervisors can require supervised entities to start measuring and disclosing this 
+climate impact now using the PCAF Global GHG Accounting and Reporting Standard 
+for the Financial Industry, which enables financial institutions such as insurers to 
+consistently measure and report the climate impact of their loan and investment 
+portfolios in a universal, transparent and standardized way.  
+ 
+The IAIS could start with the simple GHG Protocol definition of financed emissions; 
+more sophisticated metrics can be introduced in a second stage. The most important 
+contribution of the IAIS starting with clarity on climate related risk would be the start by 
+many insurers to make decisions based on a broader set of data than just financial 
+data. Other impact data will have to follow soon after that start.  
+This is useful input for 
+potential further work of the 
+IAIS.  
+72. acli U.S.A.  No  Table 2: Regarding investment risk, while physical and transition factors may present 
+risk to the investment portfolio, an overemphasis on potential climate risks may also 
+damage investment returns to the detriment of policyholders. We suggest modifying 
+the potential impact to encompass not only physical and transition -related factors, but 
+also asset bubbles that may be fostered.  
+Regarding reputational risk, it should be recognized, given the politically divisive 
+nature of climate change in some jurisdictions, that insurers face potential reputational 
+risk not just from being perceived as supporting sectors that contribute to climate 
+change, but also from moving too quickly in response t o climate risk concerns. The 
+description in Table 2 should include this impact as well.  
+ 
+ 
+ 
+ 
+ 
+This element was included. 
+Q19 Comment on paragraph 12
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 48 of 154 
+ 
+73. ABIR Bermuda No  ABIR recognizes that regulators will be increasing their supervisory oversight and th e 
+range and depth of mandatory data calls and stress tests could increase. We 
+encourage regulators to coordinate and cooperate in their stress test frameworks and, 
+also, to rely on existing mechanisms for risk and stress testing reporting - eg. Pillar II 
+(GSSA /ORSA) and Pillar III (FCR / SCFR) reporting, rather than adding additional 
+layers of reporting. 
+Agreed. No change needed. 
+74. 
+Insurance 
+Europe 
+Europe No  Insurance Europe agrees that supervisors should assess material climate -related risks 
+to insurers alongside other material risks. In this respect, it needs to be acknowledged 
+that climate-risk assessment tools are still under development and the reliability of 
+their outcomes are affected by current uncertainties, eg in terms of data availability 
+and methodologies. Therefore, it is important that the supervisory process considers 
+the current situation and avoids rigid and prescriptive approaches.  
+Agreed. No change needed 
+as this is dealt with in the 
+remainder of this section. 
+75. GFIA Global No  As previously stated, climate -risk assessment tools are still at an early stage of 
+development and may suffer from predictive bias. Given these uncertainties and 
+limitations, supervisors should avoid rigid, prescriptive approaches. They should be 
+flexible and understand insurers' approaches to climate risks. GFIA therefore suggests 
+adding the following sentence: "Supervisors should be flexible and support insurers in 
+managing climate risks and in facilitating a smooth and stable transition".  
+Disagree that the IAIS is 
+being prescriptive in setting 
+certain rigid expectations; 
+that is not the objective of 
+application papers. Inclusion 
+of the sentence is 
+unnecessary. See also page 
+2 of the document. 
+76. IAA Internati
+onal 
+No  Table 2: Underwriting risk: The current wording doesn't actually say what the 
+underwriting risk is - for example this could be reworded to say "climate change 
+increases the level of uncertainty of weather-related claims, not just the frequency and 
+severity. If the impact of climate change is not properly allowed for, underwriting may 
+mis-estimate the risks to which an insurer may be exposed in writing a particular 
+insurance policy".  
+ 
+Table 2: Liquidity Risk: the wording could be made clearer to include claims effects, as 
+well as general market effects. For example, it might also include: "In addition, the 
+uncertainty in future experience that may result from climate change could lead to a 
+Change made. 
+ 
+ 
+ 
+ 
+ 
+ 
+Change made.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 49 of 154 
+ 
+volatile claims experience leading to inadequate liquid resources and the potential 
+need to dispose of asset s on unfavourable terms".  
+Whilst extreme claim events can cause some liquidity issues if the insurer's risk is 
+improperly managed, on balance, the IAA believes that climate risk is unlikely to affect 
+the existing risk sufficiently materially to warrant it  being called out specifically in this 
+context. For example, snowstorms or hailstorms are not predictable months in 
+advance, and in many cases aren't predictable more than a day or two in advance, yet 
+non-life insurers need to be ready for how those events  will impact cash demands. 
+Also, the payout of non-life claims in such circumstances is generally not 
+instantaneous with the event, but may take days, weeks, months or longer for the 
+claim settlement process. The IAA suggests that climate change may not ha ve a big 
+impact on insurers' existing short term liquidity planning.  
+ 
+Table 2: Operational Risk: The AP mentions "inhibited claims management capacity", 
+and, while including that reference does no harm, the IAA observes that the insurance 
+industry has been forced to insulate their claims management function from such 
+disruptions due to Covid-19. It should already be a consideration for insurers exposed 
+to catastrophes (man-made or otherwise). 
+ 
+The IAA notes the terms "prudential risk" and "environmental ri sk" are used in the AP 
+and could be defined in this section.  
+ 
+ 
+ 
+ 
+ 
+Noted. (the table does not 
+make any statement on the 
+size of the risk) 
+ 
+ 
+No change made; it could 
+still be a relevant risk in the 
+future (non-Covid-19 
+related). 
+ 
+Environmental risk is 
+defined in table 1.  
+Prudential risk is a general 
+term which is implicitly 
+defined in the first sentence 
+of paragraph 12. 
+77. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  Underwriting Risk: While it is true that some specific events have possibly seen an 
+increase in frequency and severity (albeit one could argue within the current margin of 
+error of models, given that we are dealing with extremely volatile events), the ultimate 
+effect on underwriting risk is not an inevitable conseq uence. The possibility of insurers 
+to adapt to changing situations through taking management actions such as adapting 
+contractual terms and conditions, as often happens in normal practice as market 
+conditions and risks evolve, must be considered (although we do realize that, 
+depending on the extent of repricing, insurance may become less affordable or 
+unavailable). Ultimately, an increase in weather related insurance claims would result 
+in changes either in policy conditions and rates, or in portfolio compo sition, which 
+This comment has been 
+dealt with by the changes 
+made in response to 
+comment 76.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 50 of 154 
+ 
+could neutralize or strongly mitigate the potential effects of climate change on 
+underwriting risk.  
+78. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  At this point in time, there are various analysis regarding the effect of climate change 
+on the frequency, severity, and concentration of natural disasters and the extent of 
+which it may be having an effect, considering the difficulty of measuring such effect. 
+Therefore, we suggest revising the sentence as follows:  
+ 
+"Underwriting risk: Climate change may affect the frequency, severity and 
+concentration of high impact natural catastrophes around the world, leading to 
+increases in weather-related insurance claims".  
+ 
+Whilst we understand that the sentence, "Further, reductions in affordability or 
+availability of insurance cover as insurers respond to climate risk may also lead to 
+negative reputational impact." refers to, for example, the sustainability of fire 
+insurance, any assumptions that may lead to criticism towards insurers for raising 
+premium rates through proper underwriting should be avoided, and therefore, the 
+sentence should be deleted. 
+Some changes were made 
+in response to comment 76.  
+ 
+It is broadly recognised that 
+climate change is already 
+having this effect, so the 
+use of the verb “may” 
+seems unfitting.  
+ 
+No change made since it 
+factual statement. 
+81. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  For the definition of "Underwriting risk", the phrase "hig h impact natural catastrophes" 
+should be replaced with "natural hazard events leading to high economic and 
+humanitarian impacts".  
+ 
+Comment on "Investment risk" and "Liquidity risk": The highlighted wordings make it 
+evident that any appropriate guidelines dealing with the respective prudential risks 
+requires the existence of a valuation method for climate -related risks. In order to make 
+climate-related risks comparable with other (e.g. credit rating driven) risks, a general 
+price for climate-changing activities is needed. This is the only way for a company to 
+act in a way that is adequately geared toward maintaining its overall solvency and the 
+only way for a supervisory authority to verify the appropriateness of the supervised 
+entities´ approach. 
+This part of the sentence 
+was removed. 
+ 
+ 
+Noted and this is also 
+referred to in section 2.1
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 51 of 154 
+ 
+82. Lloyd's 
+of London 
+UK No  Table 2 outlines the confluences between various prudential risks and the potential 
+impact on them from climate change. The first of these, "Underwriting risk', focuses on 
+the physical impacts of climate change which may give rise to increasing weather -
+related insurance claims; i.e., "physical risk'. However, this section is remiss in not 
+mentioning liability-related impacts on underwriting, which are also fundamentally 
+important from a prudential perspective. It is particularly necessary to treat liability risk 
+separately given that physical risk will predominantly affect property classes, which are 
+generally underwritten on an annual basis and may therefore be adjusted annually to 
+reflect prevailing environmental and economic circumstances. Liability policies, on the 
+other hand, are more likely to have a long tail and may therefore give rise to prudential 
+impacts in later years on the basis of circu mstances which may not have been in the 
+mind of the underwriter at the time the insurance contract was agreed. Whilst the 
+effects of slow pollution are likely to be excluded from policies, the is additional 
+complexity warrants liability risk being given si milar prominence to physical risk at the 
+outset to ensure sufficient consideration by readers of the Application Paper.  
+ 
+In terms of "reputational risk', the draft Application Paper states that negative 
+reputational outcomes might result from a reduction in the availability or affordability of 
+insurance cover as a result of climate change. Whilst some reputational risk could 
+arise in this regard, we do not believe it is proper to include it in this Application Paper. 
+Including this aspect of reputational risk implies that there is a material prudential 
+trade-off between underwriting risk and reputational risk when insurers are 
+determining the conditions under which they are willing to offer cover. However, an 
+insurer's primary concern will be determining whether to offer cover and setting an 
+appropriate price for a particular risk. Moreover, risk -based insurance pricing acts as 
+an incentive to drive positive risk management behaviours in certain markets, and this 
+includes the incentivisation of positive clim ate behaviours amongst policyholders. 
+Including the negative reputational impact of increasing pricing as a substantial 
+prudential risk implies that the risk should be mitigated, which could lessen the signals 
+that are sent to policyholders through insurance pricing and thereby reduce the 
+beneficial corrective effect. 
+Liability risk is indeed 
+defined in table 1. A brief 
+reference was added here.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agreed with the statement. 
+The reputational risk can 
+indeed be mitigated, for 
+instance via communication 
+strategies, outreach to 
+stakeholders, education 
+etc., emphasising those 
+points mentioned in the 
+comment.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 52 of 154 
+ 
+83. 
+Institute of 
+Internation
+al Finance 
+United 
+States 
+No  We appreciate the focus on materiality in Paragraph 12 of the Application Paper and 
+we would support a further clarification that, at present, the concept of materiality is 
+defined as financial materiality. It is also important for supervisors to account for 
+different levels of materiality of climate risks across firms and to refrain from ap plying a 
+"blanket approach' to climate-related risks. In the first instance, supervisors should 
+consider the firm's consideration of the materiality of climate risks in its own risk and 
+solvency assessment (ORSA). (These comments are further elaborated in our 
+discussion of Section 4 of the Application Paper.) 
+The term “materiality” does 
+not only refer to financial 
+impacts.  
+84. Liberty 
+Mutual 
+Insurance 
+Group 
+USA No  Liberty Mutual agrees that supervisors should assess climate -related risks that are 
+likely to be "material" to insurers. We emphasize the importance of materiality in 
+exercising supervisory authority in this, or any other context, as a means of assuring 
+efficient allocation of regulatory and industry resources. This focus should be applied 
+uniformly throughout the Application Paper.  
+Noted 
+85. NAIC USA, 
+NAIC 
+No  There is a missing period at the end of Table 2.  Change made. 
+Q20 Comment on section 2.1 Preconditions and resources 
+Q21 Comment on paragraph 13  
+86. 
+Insurance 
+Europe 
+Europe No  Insurance Europe agrees that an effective system of insurance supervision requires a 
+number of preconditions to be in place and welcomes the commitment from the 
+supervisory community to consider such preconditions. While it is true that some are 
+not directly under the influence of the supervisor, it is worth noting that the supervisor 
+often has the ability to influence them precisely because such preconditions affect the 
+supervisory practices. In this regard, Insurance Europe suggests the following 
+amendments: 
+- "Although not directly under the influence of the supervisor, such preconditions can 
+be taken into account..."  
+- After the last sentence: "The supervisor can have a voice in suggesting to its 
+government what changes are required to achieve an effective sys tem of insurance 
+supervision." 
+ Change made to be 
+consistent with ICP 
+Assessment Methodology, 
+paragraph 53.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 53 of 154 
+ 
+Sound sustainability/ESG ratings should be acknowledged as a key precondition 
+alongside other examples in this paragraph. Sustainability/ESG ratings will 
+unavoidably affect the market value of assets insurers invest in. Therefore, a 
+regulatory framework should ensure that sustainability ratings, which are provided by 
+independent assessors, are comparable, reliable for investors, but also available freely 
+or at an affordable price. As the coverage of ESG rating agencies expand s, the large 
+majority of insurers risk being dependent on external, third -party data providers for 
+their sustainability assessment as well as for their sustainability risk assessment. This 
+is increasingly likely when ESG ratings and data providers develop into oligopolistic 
+structures, which lead to an increase in the costs of accessing ESG ratings and data. 
+Existing issues with the availability and reliability of ESG data should not force market 
+participants to rely on third-party providers to obtain them (see comment on paragraph 
+38). 
+The IAIS should take this opportunity to assess how effectively supervisors can make 
+policymakers aware of the listed shortcomings. Insurance Europe is also of the opinion 
+that some examples are not fully connected with the p recondition and therefore 
+suggests the following clarifications:  
+o Clarity on sustainable investment practices, eg a shared taxonomy or classification 
+of assets or activities against a set of sustainability goals; or  
+o Effective transparency in financial markets, eg the extent to which non-financial 
+private sector participants have implemented climate -related disclosures, or the 
+availability of reliable and comparable sustainability ratings.  
+ 
+When supervisors do not have the means to overcome the challeng es related to the 
+lack of adequate preconditions to guarantee an effective supervisory system, it is 
+paramount that supervisors adequately deal with such challenges without setting 
+expectations that insurers solve such challenges. For example, if data avai lability at 
+asset level is considered a challenge, the supervisor should not expect insurers to be 
+able to disclose granular information about the sustainability of its portfolio.  
+ 
+This is part of the heading of 
+efficient market discipline.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The categories of 
+preconditions listed here are 
+consistent with the ones 
+listed in the ICP assessment 
+methodology. 
+ 
+87. GFIA Global No  GFIA agrees that an effective system of insurance supervision requires a number of 
+preconditions to be in place and welcomes the commitment from the supervisory 
+community to consider such preconditions. While it is true that some are not directly 
+See response to comment 
+86.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 54 of 154 
+ 
+under the influence of the supervisor, it is worth noting that the supervisor often has 
+the ability to influence them precisely because such preconditio ns affect supervisory 
+practices. In this regard we suggest the following amendment:  
+ 
+- "Although not directly under the influence of the supervisor, such preconditions can 
+be taken into account..."  
+ 
+In addition, a sound financial framework that allows insu rers to invest in sustainable 
+products is a key precondition to the development of supervisory practices related to 
+climate risks. GFIA thus suggests adding the following bullet points:  
+ 
+1. Sustainable government decision-making frameworks, eg the extent to which long-
+term land-use planning development includes climate -related risks.  
+ 
+2. Development of sufficient investment grade sustainable products.  
+ 
+Furthermore, sound sustainability/ESG ratings should be acknowledged as a key 
+precondition alongside other examples in this paragraph. Sustainability/ESG ratings 
+will unavoidably affect the market value of assets insurers invest in. Therefore, a 
+regulatory framework should ensure that sustainability ratings, which are provided by 
+independent assessors, are c omparable, reliable for investors, but also available freely 
+or at an adequate price. As the coverage of ESG rating agencies expands, the large 
+majority of insurers risk being dependent on external, third -party data providers for 
+their sustainability asses sment as well as for their sustainability risk assessment. This 
+is increasingly likely when ESG ratings and data providers develop into oligopolistic 
+structures, which lead to an increase in the costs of accessing ESG ratings and data. 
+Existing issues with the availability and reliability of ESG data should not force market 
+participants to rely on third-party providers to obtain them (see comment on paragraph 
+38). 
+ 
+Finally, GFIA suggests the following amendment:
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 55 of 154 
+ 
+- After the last sentence: "The supervisor can have a voice in suggesting to its 
+government what changes are required to achieve an effective system of insurance 
+supervision." 
+ 
+When supervisors do not have the means to overcome the challenges related to the 
+lack of adequate preconditions to guarantee an effective supervisory system, it is 
+paramount that supervisors adequately deal with such challenges without setting 
+expectations that insurers solve such challenges. For example, if data availability at 
+asset level is considered a challenge, the supe rvisor should not expect insurers to be 
+able to disclose granular information about the sustainability of their portfolio.  
+88. IAA Internati
+onal 
+No  The impact of a supervisory regime is impacted by the extent of any governmental 
+policies in this area. Clearly it is easier for supervisors if the supervisory regime is 
+aligned with government policy.  
+ 
+The first bullet point in this paragraph addresses 'sustainable … policies" and it may 
+be helpful if this term is explained further, and the example given could be more 
+helpfully focused for this purpose.  
+The term itself is further 
+explained in the ICP 
+Assessment Methodology.  
+In addition, some change 
+made to the wording in the 
+bullet point. 
+89. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  We are unsure what the list of preconditions is accomplishing in the context of the 
+paper. The list seems to be only tangentially related to the remainder of the content in 
+this section. Consideration could be given to removing this entire paragraph 
+Disagree. It is deemed 
+important as described in 
+this paragraph as well as in 
+the ICP Assessment 
+Methodology. It provides 
+context to the role of the 
+supervisor. 
+90. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  Although "introduction of a globally-agreed carbon pricing system" is included in the 
+example, this is not agreed globally and is incorrect. We request this example to be 
+removed. 
+See response to comment 
+89
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 56 of 154 
+ 
+91. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  The enumeration of preconditions for an effective system of insurance supervision 
+lacks the mentioning of an agreed valuation methodology for climate -related financial 
+risks and that the most effective way to achieve this goal is through the establishment 
+of a general price for GHG emissions. Kin dly refer to our general comments (Q&A 1) 
+on a general price on carbon. 
+This is covered in the first 
+bullet point 
+92. acli U.S.A.  No  The list of preconditions seems extraneous and out of scope within the context of the 
+paper. For enhanced clarity, we suggest replacing the second sentence with:  
+ 
+"In developing supervisory practices as they relate to climate -related risks, supervisors 
+should take into account pre-conditions and resources necessary for the development 
+of appropriate risk assessment methodologies and availability of mitigation tools."  
+Disagree. See responses to 
+previous comments. 
+Q22 Comment on paragraph 14  
+93. GFIA Global No  If supervisors do decide to use external resources, including materials produced by 
+external organisations or through external cooperation with NGOs, then they should 
+be transparent about their collaboration and publicly disclose what methodologies are 
+used for the assessment of climate risks.  
+This is a general statement 
+which applies not only to the 
+use of information for 
+climate-related risks. No 
+change needed. 
+94. IAA Internati
+onal 
+No  This paragraph mentions the need for "sufficient resources" - presumably in both 
+quantity and necessary expertise/experience. While this requirement is a valid and 
+necessary one for effective supervision (whether generally or specifically to climate 
+risks), it can be extremely challenging or practically impossible for supervisors in some 
+jurisdictions where resources are very limited and constrained by government 
+budgets. Some of the alternative mechanisms stated (e.g., NGO's) may only be viable 
+if they have no impact on supervisory budgets. This might need to be more specifically 
+recognized in this paragraph.  
+This is covered by the 
+overarching proportionality 
+principle. 
+Q23 Comment on paragraph 15 
+Q24 Comment on paragraph 16
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 57 of 154 
+ 
+95. 
+Insurance 
+Europe 
+Europe No  Insurance Europe takes the view that maintaining regular dialogue and consultation 
+with stakeholders on these new issues is key to understanding the challenges and 
+approaches to deal with climate change in different business functions and areas. For 
+instance, in France, the supervisors created a working group aimed at developing 
+feasible and meaningful climate-scenario analysis in cooperation with industry 
+representatives. 
+This is indeed 
+acknowledged in this 
+section. 
+96. GFIA Global No  GFIA takes the view that maintaining regular dialogue and consultation with 
+stakeholders on these new issues is key to understanding the challenges and 
+approaches on both sides. For instance, in France, the Autorité de Contrôle Prudentiel 
+et de Résolution (ACPR) created a working group with French insurers in order to 
+develop its proposal for a climate scenario analysis pilot exercise. It also set up a 
+consultative committee on climate and sustainab le finance not just with 
+representatives of insurance companies but also with academics and climate finance 
+experts. GFIA thus suggests adding the following sentence: "Generally speaking, 
+close collaboration and regular communication between regulators and  the industry is 
+vital to better understand the challenges and approaches of both sides with regards to 
+supporting the transition."  
+This is dealt with in section 
+2.2.2 
+Q25 Comment on section 2.2 Supervisory review and reporting  
+97. 
+Institute of 
+Internation
+al Finance 
+United 
+States 
+No  With respect to supervisory review and reporting (Subsection 2.2), we encourage the 
+IAIS to state that supervisors should be mindful of the burden of multiple, duplicative 
+information requests or data calls to insurers and sh ould leverage existing sources of 
+information to the maximum extent possible. Any information requests should have a 
+clear risk-based objective and purpose that is tied to specific supervisory needs or 
+goals; this would also help insurers provide the most meaningful data in response to 
+supervisory requests. Insurance supervisors and supervisory colleges should make 
+use of company reporting to group-wide supervisors in order to avoid duplicative and 
+burdensome requirements. Supervisors should be encouraged t o coordinate data 
+requests, which would greatly reduce administrative burden, especially for companies 
+operating with a global footprint. 
+No change needed, this is a 
+general statement that 
+applies to any reporting 
+requirement. 
+ 
+The point about avoiding 
+duplicative reporting 
+requirements is dealt with in 
+the final sentence of 
+paragraph 21.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 58 of 154 
+ 
+Q26 Comment on paragraph 17  
+98. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  Only through establishing a general price on GHG emissions the supervisors will be 
+able to obtain the necessary qualitative and quantitative information on climate -related 
+risks that enables them to meet their mandates. Anything else will, without remedy, 
+trigger challenges of comparability or require supervisors to disenfranchise the 
+management of the supervised entities.  
+Noted 
+Q27 Comment on paragraph 18  
+99. ABIR Bermuda No  ABIR supports the IAIS's position in encouraging supervisors to assess the impact of 
+climate risk on other prudential risk classes rather than as a separate risk category . 
+Noted 
+100. 
+Insurance 
+Europe 
+Europe No  Insurance Europe appreciates the guidance in ICP 9.1 on the consideration of 
+evolving risks such as climate risk. The industry fully supports the assessment of the 
+materiality of climate-related risks to individual insurance companies as well as to the 
+insurance sector as a whole. Nevertheless, it is key that supervisors strike the right 
+balance without putting excessive focus on climate -related risks at the expense of 
+other risks.  
+Noted 
+101. IAA Internati
+onal 
+No  It would be clearer if Table 2 could be signposted to paragraph 12.  
+ 
+The term "evolving risk" is used here, in other parts of the paper (e.g., para 77) the 
+term emerging risk is used. It would be helpful to explain the difference in these terms.  
+Not sure what is meant; 
+paragraph 12 already 
+includes a reference to table 
+2 
+ 
+These terms should be 
+understood to have the 
+general meaning.  
+102. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  The consequences of the scale or volume of climate risk (and their evolution) are not 
+made visible in regular (financial) reporting, as it is the case with other changes 
+(valuation of regular financial assets, but also of certain liabilities). The underlying 
+issue is therefore the lack of pricing of climate -changing activities. 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 59 of 154 
+ 
+Q28 Comment on section 2.2.1 Information gathering  
+103. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  We propose that Supervisors consider using absolute financed emissions as the 
+common metric for the measurement and reporting of various kinds of climate risks. 
+PCAF's Global GHG Accounting and Reporting Standard for the Financial Industry is 
+the only universal, standardized and transparent methodology for doing so.  
+ 
+PCAF recognizes that high quality data can be difficult to come by when  calculating 
+financed emissions, particularly for certain asset classes. However, data limitations 
+should not deter insurers from taking the first steps toward preparing their inventories, 
+as even estimated or proxy data can help them identify carbon -intensive hotspots in 
+their portfolios, which can inform their climate strategies. Where data quality is low, 
+financial institutions can design approaches to improve it over time. Requiring insurers 
+to report on data quality enables them to develop a strategy t o improve data over time.  
+ 
+What is most important to note is that financial institutions, such as insurers, have the 
+tools to begin measuring now. Strategies to improve data quality can come later. For 
+example, some member financial institutions of PCAF ha ve partnered with 
+government statistics agencies to obtain higher-quality data.  
+Noted 
+Q29 Comment on paragraph 19  
+104. ABIR Bermuda No  If regulators recognize the value of TCFD and UN PRI reporting, or other reports 
+perhaps such as ClimateWise or UN Principles of Sustainable Insurance, it would be 
+very beneficial for organizations to be allowed to provide these in lieu or alongside 
+their existing GSSA/BSCR filings, instead of having to provide different disclosures to 
+regulatory and non-regulatory agencies. 
+ 
+Organizations able and willing to make voluntary disclosures such as TCFD should be 
+rewarded and not penalized by having to repeat disclosures in another format  
+This is dealt with in section 
+7.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 60 of 154 
+ 
+105. 
+Insurance 
+Europe 
+Europe No  Insurance Europe welcomes the fact that the paper acknowledges the possibility that 
+relevant data is available in the public domain in various forms. It is important that 
+supervisors encourage the availability of reliable public data, which can be useful to 
+evaluate an insurer's exposure to physical and transition risk, as well as the 
+sustainability of its portfolio. This will also reduce the burden for insurers.  
+ 
+The paper should include an explicit reference to the possibility that the exposure to 
+physical, transition and liability risks is described qualitatively. This may be supported 
+by quantitative analyses (eg ranges, directions) when appropriate (see comment on 
+Q33 (paragraph 22) and Q91 (paragraph 62)).  
+Noted 
+ 
+ 
+ 
+ 
+ 
+ 
+Change made to make it 
+more general. 
+106. GFIA Global No  GFIA welcomes the fact that the paper acknowledges the possibility that relevant data 
+is available in the public domain in various forms. It is important that supervisors 
+encourage the availability of reliable public data, which insurers can use to eval uate 
+exposure to physical and transition risk, as well as the sustainability of their portfolios. 
+This will also reduce the burden for insurers. 
+Noted  
+107. IAA Internati
+onal 
+No  Box 1 should be signposted to "paragraph 22".  
+ 
+Another source of valuable information on climate-related risk is the Actuarial Function 
+as this control function is closely involved with, inter alia, claims, liability valuation, 
+asset/liability management and scenario testing.  
+ 
+ 
+Agreed. This is dealt with in 
+the section on the control 
+functions. 
+108. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  With respect to the first sentence, we strongly feel that an assessment of the exposure 
+to physical, transitions and liability risk cannot and should not be limited to 
+"quantitative" information, but must allow for "qualitative" and/or "semi -quantitative" 
+assessments (e.g. ranges, directional statements) as well. We recommend replacing 
+the text in the AP with the following sentence: "As necessary, supervisors can 
+consider collecting information from the insurer on its exposure to physical, transition 
+and liability risks, the methods and scenarios used to determine the exposure and 
+practices in place for managing any material risks identified".  
+See response to comment 
+105.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 61 of 154 
+ 
+110. 
+American 
+Academy 
+of 
+Actuaries 
+United 
+States 
+No  The Academy's ERM/ORSA Committee embarked late in 2019 on a two -phase project 
+to provide information to the NAIC, other regulators, and stakeholders on the 
+opportunities and challenges presented by various options for obtaining  climate-
+related financial disclosures in the future. In the first phase, we are examining the 
+current disclosures contained in the responses of more than 1,200 U.S. insurance 
+entities to the NAIC Climate Risk Disclosure Survey; in the second phase, we are  
+examining gaps in the information provided through the survey and ways to encourage 
+more robust responses from insurance companies on their responses to climate risk. 
+The NAIC survey consists of nine "Yes/No" questions and eight narrative responses, 
+with a set of suggested questions to be included in each of those responses.  
+ 
+Having completed the analysis of Phase 1, the committee has identified three main 
+results: 1) while answers to Yes/No questions reveal some insightful patterns and 
+differences, there is reason to interpret responses to these questions cautiously, and 
+to pay close attention to the wording of these questions; 2) 30% or fewer of the 
+surveyed companies have provided robust responses to the survey; and 3) very few 
+surveyed companies are replying effectively to any of the specific suggested questions 
+for their narrative responses. We have concluded that there is a need for steps to 
+encourage more robust responses. There is also a need to make those responses 
+more accessible, both for the supervision of individual companies and for the analysis 
+of the status of the industry (as a whole and by line of business and size) in 
+responding to climate risk. 
+In Phase 2 of our research, beginning soon, we expect to focus on two gaps: 1) the 
+gap between those who provide robust responses and those who do not; and 2) the 
+gap between the robust responses and broader guidelines for disclosure, such as the 
+guidance from the Financial Stability Board's Task Force on Climate -related Financial 
+Disclosures (TCFD). As we assess these gaps, we will then assess various options for 
+implementing new or revised disclosure protocols, including improvements to the 
+design of questions, increased guidance to companies on best practices in responding 
+to the disclosure requests, and the possible inclusion of more Yes/No or multiple -
+choice questions in the protocols.  
+ 
+Noted. The IAIS looks 
+forward to continuing the 
+sharing of practices with 
+stakeholders on this topic.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 62 of 154 
+ 
+On behalf of the committee, I would be happy to discuss the results of this research to 
+date, and plans for the next phase, in more detail if the IAIS would be in terested. 
+Q30 Comment on paragraph 20  
+111. ABIR Bermuda No  ABIR supports the IAIS's position to reduce ad-hoc exercises and recommends the 
+focus be on building a more uniform framework to report on climate risk, that 
+encourage the consistent collection of data across supervisors to reduce regulatory 
+burden.  
+ Noted. 
+112. 
+Insurance 
+Europe 
+Europe No  Insurance Europe welcomes the acknowledgment of the fa ct that there is a lack of 
+available and reliable ESG data. This is one of the major challenges in assessing risks 
+and making decisions, especially in relation to long-term sustainable investment given 
+the global scale of insurers' investment portfolios.  
+ 
+When it comes to ESG data, European insurers are under increasing pressure to 
+disclose ESG information, but they cannot be required to provide the solution to the 
+lack of such data. Before shifting to periodic disclosures, supervisors should focus on 
+supporting appropriate policy actions at the asset level to improve ESG data. 
+European insurers have strongly supported such policy actions and are keen to help 
+policymakers outline specific data requirements. This would allow insurers to have 
+access to ESG information, including on climate risks. Insurance Europe suggests 
+adding the following: 
+"Before using ad hoc information requests, supervisors should consider whether they 
+can achieve their objectives through information already collected from insurers."  
+ 
+While the European insurance industry acknowledges the need to have ad hoc 
+information on climate-change risk, full integration of climate-risk information into the 
+regular reporting requirements might be difficult due to the very nature of climate risk, 
+often materialising via other risks.  
+Noted 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No change deemed 
+necessary. This follows from 
+ICP 9 already and there is 
+no need to mention general 
+principles that are not 
+specific to climate-related 
+risks. 
+113. GFIA Global No  GFIA wants to highlight that the lack of available and reliable ESG data is one of the 
+major limitations to long-term sustainable investment.  
+Noted. No change deemed 
+necessary as the lack of
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 63 of 154 
+ 
+This issue of limited data quality and availability should be better acknowledged 
+throughout the paper. The paper should point out that solutions to this issue depend 
+on collaboration between regulators and the public and private sectors.  
+ 
+In addition, GFIA would recommend that if supervisors decide to collect 
+supplementary information from insurers through surveys or targeted requests, th ey 
+should ensure that: 
+ 
+- they are not duplicating requests for information insurers have already provided to 
+rating agencies or other supervisors; and,  
+ 
+- they do not already have access to equivalent information from other sources.  
+ 
+If the supplementary information is already being provided by insurers through other 
+public forums, insurers should be allowed to substitute existing responses such as the 
+CDP to respond to such a request. 
+available data should not be 
+used as a reason not to 
+move forward with 
+assessment and 
+management of the risks. 
+The measurement will 
+improve over time.  
+ 
+ 
+ 
+ 
+ 
+ 
+See response to comment 
+112 
+114. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  We propose deleting the reference to ICP 9.4, as the purpose of the reference is 
+unclear. While the ICP 9.4 "Requires more frequent reporting and/or additional 
+information from insurers as needed," it is not specifically intended to collect 
+information on climate change but is rather a General Provision regarding additional 
+information requests when needed. We do not consider this to be a basis for seeking 
+climate change-related information, and therefore request deleting the reference.  
+ 
+Also, requiring information from the insurer in a frequent manner is questionable from 
+a cost-effectiveness perspective (i.e. workload vs effectiveness), assuming the impact 
+of climate change will appear gradually over a long period of time.  
+Disagree. This is one of the 
+reasons why such reporting 
+might be required. The 
+purpose of this Paper is to 
+explain how ICP 9.4 should 
+be interpreted as it relates 
+to climate change.  
+115. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  The limitations to data comparability and data availability is not overcome by moving 
+towards more frequent reporting or additional information. If we continue to collect, 
+even by integrating into the regular reporting requirements, we still will not be able to 
+draw accurate conclusions as the data is not comparable. However, moving toward 
+carbon accounting information and a common valuation methodology could provide 
+Agreed that standardisation 
+in reporting is needed.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 64 of 154 
+ 
+the forward-looking carbon pricing information that would be required for risk 
+management purposes. Additionally, improved standardization of carbon accounting 
+(e.g. based on GHG protocol standards and the disclosure of those metrics) would 
+represent a preparatory step for carbon pricing.  
+116. 
+Lloyd's of 
+London 
+UK No  Reporting and disclosure obligations should be structured using a  dual-track approach 
+whereby disclosure provides a baseline level of information to investors and the public 
+and are supplemented by more detailed reporting to the regulator. This private 
+reporting would foster a deeper and more accurate approach to the re quisite dialogue. 
+It would thus be of benefit to the regulators in understanding the nature of 
+environmental risk in their economy and, indeed, throughout the world. Reasoned and 
+probing dialogue would also enhance firms' own knowledge and understanding of  the 
+risks with which they are faced in a similar way to the production of an ORSA.  
+ 
+There should be strong alignment between reporting and disclosure requirements. 
+This ensures that firms can efficiently produce high quality output for a single, well -
+defined purpose, thereby enabling them to both extract and provide the most value 
+from the exercise. 
+Noted. This is indeed also 
+what is intended by this 
+section, which notes that 
+supervisors may use 
+existing public disclosures 
+and supervisory reporting, 
+and may supplement it with 
+ad-hoc reporting to the 
+supervisor as necessary.  
+117. 
+American 
+Academy 
+of 
+Actuaries 
+United 
+States 
+No  It is important that the IAIS recognizes the significance of disclosure of U.S. insurance 
+entities' climate risk responses through t he NAIC's decision in 2010 to create a 
+Climate Risk Disclosure Survey; securing the participation of six states which required 
+companies within their jurisdiction to participate, thereby requiring approximately 70% 
+of the U.S. insurance market to provide information on their climate risk responses. 
+These surveys, completed annually by more than 1,000 entities since 2012, provide 
+evidence for how companies respond to requests for qualitative information which 
+should not be ignored as supervisors are encouraged to systematically integrate 
+climate disclosures into their work. 
+This is referenced in the 
+Paper in a few instances.  
+Q31 Comment on paragraph 21  
+118. ABIR Bermuda No  ABIR supports cross-border cooperation on supervisory review and reporting to help 
+streamline information gathering and avoid a group being confronted with multiple 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 65 of 154 
+ 
+information requests from several involved supervisors, especially in the context of a 
+Supervisory College environment where some regulators on the college may be 
+further ahead in implementation of their supervisory framework in this area.  
+119. 
+Insurance 
+Europe 
+Europe No  Insurance Europe welcomes supervisors' cross -border cooperation to avoid multiple 
+information requests. Where an insurer is subject to group-wide supe rvision, 
+information requests and other assessments should be conducted by the applicable 
+supervisor on a group-wide basis to avoid multiple overlapping procedures which 
+would add an unnecessary burden on insurers.  
+ 
+While cooperation is appreciated, it should be clear that information-sharing between 
+the group-wide and other relevant supervisors should be subject to confidentiality 
+requirements (ie ICP 9.1.3, CF9.2.a.7). The paper should include a clear and strong 
+reference on this point.  
+  
+ 
+ 
+ 
+ 
+ 
+This was added in a 
+footnote 
+120. GFIA Global No  GFIA welcomes the position of supervisors and believes that where an insurer is 
+subject to group-wide supervision, information requests and other assessments should 
+be conducted by the applicable supervisor on a group-wide basis to avoid multiple, 
+overlapping procedures which would add burden to insurers.  
+Noted 
+121. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  Entities which are members of PCAF have access to a network of their peers in the 
+financial industry which are also seeking to measure and report the highest -quality 
+data possible on their financed emissions. PCAF provides a platform for collaboration 
+where different actors, especially at the regional level, exchange knowledge and 
+methods to increase the quality of the data they measure and report.  
+Noted 
+122. IAA Internati
+onal 
+No  The IAA notes there is also great potential for cooperation (streamlining of climate 
+change information request), not just cross -border but also with market regulators and 
+encompassing other market requirements.  
+This was added. 
+Q32 Comment on section 2.2.2 Supervisory feedback and follow -up
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 66 of 154 
+ 
+123. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  Measuring absolute financed emissions provides the foundation for asses sing different 
+kinds of risk as well as target setting and scenario analysis. Having a common, 
+comparable, standardized metric allows supervisors and their supervised insurers to 
+more easily communicate with each other about climate risk and impact.  
+Noted 
+Q33 Comment on paragraph 22  
+124. 
+Insurance 
+Europe 
+Europe No  Insurance Europe fully supports clear two-way communication between supervisors 
+and insurers. Close collaboration and communication with the industry at both global 
+and local levels is also vital to ensure the feasibility of data requests and potential 
+requirements. Insurance Europe suggests adding at the end of the paragraph the 
+following sentence highlighting the importance of supervisors understanding the 
+approaches taken by insurers with regard to climate risks:  
+"Such communication is also essential to better understand the challenges faced by 
+insurers and find adequate long-term solutions to overcome them, building on varying 
+and dynamic developments in the market."  
+ 
+The examples of quantitative indicators provided in Box 1 should not be understood as 
+individual key performance indicators (KPIs). They should rather be understood as 
+underlying information for a range of KPIs and/or heatmaps.  
+  
+ 
+ 
+ 
+Change made. 
+ 
+ 
+ 
+ 
+ 
+The indicators are indeed 
+not intended as KPIs. 
+125. GFIA Global No  GFIA fully supports a clear, two-way communication between supervisors and 
+insurers. Close collaboration and communication with the industry at both global and 
+local levels is vital to better understand the challenges and approaches of both parties. 
+Communication is notably pivotal to avoid reporting requirements that place undue 
+reliance on uncertain information, particularly about long-term climate risks. GFIA 
+suggests adding a sentence on the importance of supervisors understanding the 
+approaches taken by insurers with regards climate risks: "Such communication is also 
+essential for supervisors to better understand and acknowledge the challenges faced 
+by insurers and the approaches taken with regards to climate ris ks." 
+Change made.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 67 of 154 
+ 
+127. IAA Internati
+onal 
+No  Box 1: A general comment is that the supervisory questions will be more effective if 
+they are "open" questions - for example, the second General Qualitative question 
+could be restated as "What substantive changes has your organisation implemented 
+or planned to its business model…" 
+ 
+Box 1: Qualitative) Liability risk: The IAA suggests adding "directly or indirectly". For 
+example, an indirect claim could relate to a failure to properly disclose climate risks. It 
+is also relevant for an organisation to consider legal judgements and lawsuits in other 
+jurisdictions, particularly where they have written business in those jurisdictions. The 
+IAA also suggests adding "or Professional Indemnity Insurance".  
+ 
+Box 1: Physical  risk: Why should this be limited to "fossil -fuel based power-plants"? 
+For example, what about a flooded nuclear power-plant? 
+ 
+Box 1 (Quantitative) Liability risk: whilst these are illustrative questions it may be worth 
+widening the quantitative question which asks only about energy operations. One 
+example of widened liability would be architects' professional liability risks for a new 
+commercial development that did not anticipate the increased risk of flooding.  
+These questions come from 
+the SIF question bank which 
+was published in 2020. 
+ 
+ 
+Change made. 
+ 
+ 
+ 
+ 
+ 
+Deleted “fossil-fuel based” 
+to make it more general. 
+ 
+ 
+Added as extra example. 
+128. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  Given the inherent uncertainties underpinning climate related risks and evolving nature 
+of the landscape, we suggest that, to the extent quantitative analysis is pursued by 
+supervisors, it should emphasize ranges rather than single numbers or scores to avoid 
+any misconception of precision and avoid creating a false sense of securit y in the 
+results.  
+No change needed, the box 
+does not refer to that level 
+of detail around how the 
+information is gathered. It 
+may also depend on the 
+indicator. The box does not 
+imply that a single score 
+should be used. 
+129. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  There is no established calculation method for carbon-intensity in terms of 
+underwriting, and the liability exposure of general insurance is fairly volatile, as most 
+policies terminate after a single year. Thus, "…and liability exposure"  should be 
+excluded, and we request it to be deleted as follows: 
+No change made, although 
+it is acknowledged that data 
+availability in some 
+instances is still a challenge.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 68 of 154 
+ 
+ 
+"-Carbon-intensity of sectors for asset; or"  
+131. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  Zurich would have expected, even if only tentatively, to find a reference to carbon 
+emission or GHG emission pricing as a further illustrative example of a relevant 
+indicator in the table. There are references to carbon intensity, which is no t a valuation 
+benchmark (only a volume benchmark and a problem-loaded one on top). For many 
+other risk categories, the debate amongst supervisors often rests on different 
+approaches towards the valid valuation methodology; therefore, the IAIS/SIF and its 
+members should work toward a common, observable, general price on carbon or 
+similar market mechanism. 
+The table relates to 
+indicators to assess the 
+insurer’s exposure to and 
+management of climate 
+related risks. “carbon 
+emission pricing” in itself is 
+not an indicator to measure 
+this. 
+132. acli U.S.A.  No  Box 1: In footnote 8, two source documents are listed for the "illustrative examples." 
+Neither document appears to include the quantitative questions that are listed in Box 
+1.  
+That is correct. Therefore it 
+says “inter alia based on” as 
+other questions and 
+indicators were added as 
+well, based on several 
+inputs from IAIS/SIF 
+member supervisors.  
+Q34 Comment on section 3 Corporate Governance  
+133. GFIA Global No  Corporate governance depends greatly on compan y profile, structure and size. GFIA 
+is therefore against any overly detailed and prescriptive approach by supervisors that 
+would result in an undue burden for insurers and that would be difficult to implement. 
+GFIA believes that the IAIS should limit itsel f to recommending voluntary guidance by 
+national supervisors in this regard.  
+Noted. The section is 
+consistent with ICP 7 and 
+does not set out new 
+expectations or 
+requirements. 
+135. IAA Internati
+onal 
+No  The guidance in this section could more explicitly bring in the concept of 
+proportionality, to highlight the general points made in paragraph 6. Climate risk will be 
+a material risk for some business models and products, but not for all (e.g., pet 
+insurance is unlikely to be affected). Therefore, the IAA c autions against prescriptive 
+guidance that forces action that is not proportionate to the exposure. The guidance 
+should be risk-focused, without presuming universal exposure to all risks.  
+The principle of 
+proportionality applies to all 
+IAIS supervisory and 
+supporting material, as 
+highlighted in the 
+Introduction section 1. It
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 69 of 154 
+ 
+would be repetitive if this 
+were repeated throughout 
+the Paper. 
+137. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  Zurich supports a strong governance that also embraces climate relat ed risks and/or 
+aspects. However, Zurich also encourages regulators to apply, where appropriate, a 
+flexible approach that respects different structures and business models within the 
+insurance industry (i.e. we fully agree that senior management must take ownership 
+for climate related risks. However, we think it would be a wrong approach if each 
+company needs to designate a Chief Climate Risk Officer). 
+Agreed. The designation of 
+a chief climate risk officer is 
+provided as an example. 
+138. 
+Institute of 
+Internation
+al Finance 
+United 
+States 
+No  We note that this section shifts the focus from recommendations for supervisors to 
+recommendations for the insurers themselves. Consistent with the purpose of an 
+Application Paper, we recommend a refocusing of this Secti on to the supervisory 
+response. Supervisors should assess the robustness of insurers' corporate 
+governance practices and recommend improvements where needed. 
+This language is consistent 
+with the IAIS supervisory 
+material, whereby in some 
+instances it states “the 
+supervisor requires the 
+insurer to….” but many 
+instances it refers directly to 
+the role of the insurer itself, 
+as ultimately most of the 
+ICPs are requirements for 
+insurers (to be implemented 
+by the supervisor). Also this 
+is done simply to avoid 
+becoming too wordy.  
+139. 
+Liberty 
+Mutual 
+Insurance 
+Group 
+USA No  In certain respects, Section 3 of the Application Paper lacks flexibility as to how 
+consideration of climate issues should be incorporated into corporate governance. 
+And, in some cases, the recommendations exceed the authority of insurance 
+supervisors, particularly in the United States. The tenor of this section seems to shift 
+from providing supervisory guidance to giving out instructions about what companies 
+in all cases must do.  
+ 
+The section is consistent 
+with ICP 7 and does not set 
+out new expectations or 
+requirements.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 70 of 154 
+ 
+For example, there are broad statements that an insurer's Board of Directors should 
+have an "appropriate understanding and opportunity to discuss climate risk." Instead, 
+the Application Paper should provide alternative ways that supervisors can attain an 
+understanding about how an insurer's board manages climate risk.  
+ 
+In addition, the Application Paper ought not to specify how climate risk issues are 
+communicated up to the board by management. The Application Paper's position that 
+senior management should provide information, options, trade-offs and 
+recommendations to the Board of Directors is too detailed.  
+ 
+And finally, it is entirely inappropriate for this Application Paper to recommend that 
+compensation should be "aligned" with taking into consideration climate -related risks 
+and can be "used as an incentive to integrate climate -related risks in the risk 
+management framework." Compensation determinations are complex and multi -
+faceted. It is inappropriate to suggest a requirement that such arrangements include 
+consideration of any one specific risk factor such as climate risk.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See responses to 
+comments on that specific 
+section. 
+Q35 Comment on paragraph 23  
+Q36 Comment on section 3.1 Appropriate allocation of oversight and management responsibilities  
+140. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  Replace the word "catastrophes" with "hazards and extreme weather events".  The word “catastrophes” 
+was not found in section 3.1 
+Q37 Comment on paragraph 24  
+Q38 Comment on paragraph 25  
+141. ABIR Bermuda No  ABIR does not interpret IAIS to be requiring companies to establish a dedicated 
+committee. Paragraph 24 outlines that an organization should set its governance of  
+climate risk in the context of overall governance, including assigning ownership, 
+accountabilities and roles including committees. If the organisation has a coherent 
+This is correct, the 
+paragraph also notes “other 
+suitable structures”. Setting 
+up a specific committee is
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 71 of 154 
+ 
+argument for having a specific Climate committee, or decides to include it in another 
+board committee (e.g. audit or risk) then this should be evaluated on a proportionate 
+basis. It may also be that a Management Committee is appropriate and could be 
+combined with other related topics (e.g. ESG or Sustainability Committee).  
+one possible means 
+towards the intended 
+outcome.  
+142. 
+Insurance 
+Europe 
+Europe No  Insurance Europe agrees that all companies should integrate sustainability in their 
+corporate governance framework, including consideration of sustainability risks in their 
+remuneration practices. It is important that supervisors monitor the impact of the 
+measures enacted so far and consider existing legislation before proposing new 
+regulatory requirements. For example, in the EU there is also already an increasing 
+amount of overlapping legislation spelling out sustainability requirements in corporate 
+governance frameworks. 
+ 
+Given this, supervisors should: 
+- Make sure that proposals do not pre-empt or deny any form of governance structure 
+intended to address evolving risks including, but not limited to, climate risks, unless 
+any critical flaws are identified. 
+- Take into account that materiality of climate risks differs across entities and m ay 
+change over time. Insurance companies that do face material climate risks should not 
+be forced to adopt dedicated governance structures. While voluntary guidance on 
+climate-risk governance is useful, it should not prescribe one approach over another. 
+Insurance Europe therefore proposes the following change in the last sentence of the 
+paragraph: 
+"Supervisors could provide voluntary guidance on how to establish such a committee 
+or other suitable structures with appropriate expertise, if they do not have on e 
+already." 
+No change needed. This 
+Application Paper only 
+provides recommendations 
+and examples of good 
+practices when applying the 
+existing ICP and ComFrame 
+standards, it does not create 
+new requirements. 
+ 
+ 
+ 
+ 
+143. GFIA Global No  Materiality of climate risks differs between entities and may change over time. 
+Insurance companies that do not identify significant climate risks in their risk profile 
+should not be forced to establish a dedicated committee. Rigid approaches to the most 
+appropriate governance to manage climate risks should be avoided. Supervisors may 
+want to provide voluntary guidance on climate risk governance but should not 
+prescribe one approach over another. GFIA therefore suggests the following change in 
+See response to comment 
+142.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 72 of 154 
+ 
+the last sentence of the paragraph: "Supervisors could provide voluntary guidance on 
+how to establish such a committee or other suitable structures with appropriate 
+expertise, if they do not have one already." 
+Q39 Comment on paragraph 26  
+Q40 Comment on section 3.2 Business objectives and strategies of the insurer  
+Q41 Comment on paragraph 27  
+145. 
+Insurance 
+Europe 
+Europe No  It is important that insurers are given flexibility to rely on the tools they consider the 
+most appropriate to manage climate risks when inc orporating and assessing climate 
+risks as part of their financial/strategic planning. Insurance companies are best 
+positioned to perform this task.  
+Noted 
+146. GFIA Global No  GFIA takes the view that insurance companies are best positioned to identify 
+significant climate risks in their risk profile. As a result, GFIA believes that insurers 
+should have the flexibility to rely on the tools they consider most appropriate for 
+managing climate risks. It thus suggests replacing "insurers should" with "insurers a re 
+encouraged to".  
+ 
+In addition, regarding the impact of liability risks on non -life products, GFIA notes that 
+there have been very few cases of direct litigation against insurers.  
+No change needed; the 
+paragraph does not imply 
+that a predefined tool should 
+be used. The use of the 
+verb “should” is common in 
+IAIS language and is to be 
+understood as a 
+recommendation, not a 
+requirement. 
+147. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  As an example, it is noted that, "non-life insurers writing short duration products are 
+likely to be more impacted from physical and liability risk". However, liability risk may 
+be reduced through underwriting approaches, and it also appears that there have 
+been very few cases of direct litigation against insurers. In this  regard, we cannot 
+necessarily conclude that any impact caused by liability risk is significant, and we 
+therefore request deleting the reference to liability risk in this paragraph. 
+The example was deleted. 
+149. acli U.S.A.  No  The first sentence suggests that insurers should incorporate and assess climate risk 
+as part of the annual financial planning and the long - and short-term strategic planning 
+The change made in 
+response to comment 136
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 73 of 154 
+ 
+processes. We suggest that climate risk be incorporated within the consideration of 
+emerging risks more generally. Insurers have established processes for identifying 
+and assessing emerging risks and, when appropriate, including those risks in their 
+planning processes. Climate risk should be handled in the same manner, with the level 
+of activity determined by the materiality of the risk.  
+should alleviate this 
+concern. 
+Q42 Comment on section 3.3 The role of the Board  
+150. 
+Insurance 
+Europe 
+Europe No  The IAIS should encourage supervisors to provide voluntary guidance on best 
+practices, while clarifying that there is no obligation to adopt certain prescribed 
+governance models. It is important that insurers are permitted flexibility to manage 
+climate-related risks within the governance structure that they consider the most 
+appropriate depending on the materiality of the risks and their business models.  
+No change needed; the 
+Application Paper does not 
+set any new requirements 
+and follows the 
+requirements which are set 
+out in the ICPs. 
+151. GFIA Global No  GFIA believes that the role of the board highly depends on a company profile and 
+structure. In any case, we acknowledge that the role of the board is important. 
+However, instead of imposing a governance model the IAIS should encourage 
+supervisors to provide voluntary guidance on best practices regarding governance of 
+climate risks. 
+No change deemed 
+necessary, the subsection 
+does not impose a specific 
+governance model. 
+152. IAA Internati
+onal 
+No  Climate-related risk is an important risk to be considered by insurers and their Boards 
+as part of their governance and risk management responsibilities. In executing this 
+responsibility, the Board should consider the threat to the insurer's own business risks, 
+the fair treatment of customers and the duty of the insurer to conduct its business in a 
+socially responsible manner. 
+Added this notion to 
+paragraph 28. 
+Q43 Comment on paragraph 28  
+153. acli U.S.A.  No  The Board is responsible for oversight of the insurer's risk management processes, 
+including the risk appetite, etc. Climate-related considerations should be incorporated 
+within the insurer's risk management processes as appropriate based upon the 
+materiality of the impact on the shape and manifestation of other risks (e.g., credit, 
+insurance, etc.). Thus we believe it is unlikel y to be necessary for the insurer's risk 
+Agreed that climate change 
+can be a risk driver for 
+existing risk categories.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 74 of 154 
+ 
+appetite, for example, to reference climate risk specifically, as any significant climate -
+related risks should be identified and addressed within underlying risk processes and 
+tools, such as the prudent management of the investment portfolio. 
+Added the notion in 
+paragraph 27. 
+Q44 Comment on paragraph 29  
+154. ABIR Bermuda No  ABIR acknowledges the importance of the role of the Board and the importance for the 
+Board to have an appropriate understanding of climate risks, however we encourage 
+the IAIS to recommend that supervisors allow for Boards to apply this proportionate to 
+the risk profile of the entity. Consistent with the concept of proportionality, we 
+recommend amended the language as follows:" 
+There should be appropriate understanding of, and opportunity to discuss, climate risk 
+at the Board and Board committee levels, including within the audit committee and the 
+risk committee, or the equivalent".  
+No change needed, the 
+Paper does not set out 
+requirements on committee 
+structures, but merely 
+follows the ICP 7 language. 
+155. GFIA Global No  GFIA believes that the approach adopted in the paragraph may not suit all entities 
+profiles. Status and composition of Board committees differ from company to 
+company. GFIA thus suggests adding "where appropriate" before the reference to 
+board committees.  
+See response to comment 
+154. 
+156. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  We believe this paragraph is too prescriptive. Status an d composition of Board 
+committees differ indeed from company to company, and therefore, "Board and Board 
+committee levels, including… risk committee", should be revised to "…Board and, 
+where appropriate, Board committee levels…". 
+See response to comment 
+154. 
+Q45 Comment on paragraph 30  
+157. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  We believe the second sentence of this paragraph interferes with individual insurers´ 
+business decisions and such suggestion should not be made in the AP. We strongly 
+request deleting this sentence.  
+Disagree. The sentence is 
+written as a suggestion with 
+appropriate disclaimers (use 
+of the verb “could” and 
+adding “if needed”)
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 75 of 154 
+ 
+Q46 Comment on section 3.4 Duties of Senior Management  
+158. GFIA Global No  GFIA believes that the duties of senior management depend greatly on a company's 
+profile and organisation. Climate risks may not be material in some situations and thus 
+there should not be an overly prescriptive recommendation on how to incorporate 
+climate risks into operational and business policies. The IAIS should instead 
+encourage voluntary guidance on best practices in this regard. 
+Noted 
+Q47 Comment on paragraph 31  
+159. IAA Internati
+onal 
+No  Senior management's actions will be important to ensuring there is real action and 
+progress as opposed to ignoring the issue or greenwashing. The IAA suggests making 
+the wording in this paragraph stronger. 
+Given conflicting comments 
+(see below) – no change 
+made. 
+160. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  While we agree that Senior Management is responsible for considering adding climate 
+risk-related elements into relevant operational and business policies, developing and 
+implementing "policies related to climate risk" itself are not necessary the responsibility 
+of Senior Management. Therefore, "implementing the policies related to climate risk 
+and/or" in the first sentence is too prescriptive and should be deleted.  
+See response to comment 
+159. 
+Q48 Comment on section 3.5 Duties related to remuneration  
+161. 
+Insurance 
+Europe 
+Europe No  In general, the European insurers are of the opinion that any regulation must be 
+sufficiently flexible to allow insurers to embed climate -related risks within their risk 
+management framework, reflecting the differences in sustainability risks a nd factors 
+associated with various companies' characteristics.  
+ 
+With respect to the consideration of climate -related risks in remuneration policies, it is 
+important to avoid putting excessive focus on climate -related risks at the expense of 
+other risks. It is equally important that the integration of climate -related risks does not 
+jeopardise the existing functions of remuneration. 
+ 
+The paper should note that particular reference to climate -related risks in 
+The language does not 
+imply in any way that 
+climate would be the only or 
+the most important risk to be 
+considered, however the 
+Paper deals with climate -
+related risks and hence this 
+is the focus of the guidance 
+provided.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 76 of 154 
+ 
+remuneration policies should not be understood to suggest that other risk areas are 
+less important for remuneration purposes.  
+Added the notion that this is 
+“one of several” incentives 
+that can be used.  
+162. GFIA Global No  In principle, GFIA agrees that remuneration could be used as an incentive to integrate 
+climate-related risks in the risk management framework. However, it is important to 
+avoid putting excessive focus on climate -related risks at the expense of other risks. It 
+is equally important that integration of climate -related risks does not jeopardise the 
+existing functions of remuneration. 
+ 
+The paper should note that particular reference to climate -related risks in 
+remuneration policies should not be understood to suggest that other risk areas are 
+less important for remuneration purposes. 
+ 
+Finally, GFIA takes the view that, in practice, it will be difficult to assess and factually 
+prove a manager's good or bad behaviour in terms of climate risks when discussing 
+remuneration. 
+  
+ 
+ 
+ 
+See response to comment 
+161. 
+ 
+ 
+ 
+Agreed; this is however a 
+challenge that is relevant for 
+setting KPI / remuneration  
+policies in general. 
+163. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  Climate risk is generally understood to be an element that will influence the 
+manifestation of other risk categories that insurers must manage as opposed to an 
+independent risk that can be managed. As a result, it is not appropriate for a 
+remuneration framework to specify management of this risk alone as a determinant.  
+See response to comment 
+161. 
+ 
+Q49 Comment on paragraph 32  
+164. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  The statement, "The alignment of (directors') compensation with prudent risk -taking 
+should take into consideration climate -related risks" interferes with individual insurers´ 
+business decisions. We believe the AP should not be overly prescriptive, an d suggest 
+revising the sentence as follows: 
+ 
+"The alignment of compensation with prudent risk -taking can take into consideration 
+climate-related risks, as appropriate, since risk adjustments generally account for all 
+risk types relevant to the insurer". 
+No change necessary, see 
+also other responses as to 
+the meaning of the word 
+“should” and the objective of 
+Application Papers.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 77 of 154 
+ 
+Q50 Comment on paragraph 33  
+166. ABIR Bermuda No  Remuneration is a sensitive issue and senior management look for tangible metric s to 
+drive scorecards. Climate risk has a lot of inherent uncertainty and issues related to 
+data quality. This link to remuneration needs to be handled in a proportionate and 
+sensitive manner, and will evolve over time.  
+Noted  
+167. 
+Insurance 
+Europe 
+Europe No  The example provided in the last sentence may work for sustainability in general, but it 
+is not necessarily directly related to climate issues. The last sentence should include 
+"in some cases" to clarify this.  
+Changed “can” to “could”. 
+168. GFIA Global No  GFIA agrees with the fact that remuneration could be used as an incentive to integrate 
+climate-related risks in the risk management framework. However, this kind of decision 
+should remain up to companies. In addition, the example provided in the la st sentence 
+may work for sustainability in general but is not necessarily directly related to climate 
+issues.  
+ 
+This is why it suggests the following changes: "As part of this, the attribution of 
+variable remuneration could, [for instance], be linked to em bedding climate -related risk 
+management within the insurer (eg through staff training or asset categorisation and 
+performance). Also, the evolution of the non-financial performance of investee 
+companies [might, in some cases,] be a relevant indicator for variable remuneration. 
+Made some changes to 
+soften the language.   
+169. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  While it could be appropriate to link variable remuneration to prudent management of 
+climate-related risks if that falls within staff members' responsibilities, the very 
+sweeping suggestion that remuneration can be used to incentivize the integration of 
+climate-related risks in the risk management framework, and to embed climate -related 
+risk management within the insurer regardless the duties/rol e of the intended target 
+staff, is inappropriate. It is also unclear what the last sentence refers to and how this 
+would be measured in an objective fashion such that its achievement could be linked 
+to variable remuneration. In light of these points, we su ggest deletion of paragraph 33. 
+The IAIS believes it is 
+important to keep a 
+reference to remuneration 
+since it is one of the main 
+drivers contained in the 
+governance framework 
+likely to make practices 
+evolve in terms of 
+management of climate-
+related risks.  Also, in light of
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 78 of 154 
+ 
+other comments which were 
+in support of remuneration 
+as an incentive to integrate 
+climate-related risks into the 
+risk management system, it 
+should not be deleted.  
+Made some changes to 
+soften the language. 
+170. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  We agree with the fact that remuneration may be used as an incentive to integrate 
+climate-related risks in the risk management framework. However, at this stage, we 
+believe it is too early to mention linking it to "variable remuneration," considering 
+assessment methodologies for non-financial performance are yet to be established. 
+Recommending this approach at such premature stage may encourage practices of 
+developing requirements which are merely a formality. Thus, after deleting "A s part of 
+this…", we suggest integrating the first sentence "Remuneration can indeed be used 
+as an incentive to integrate climate -related risks in the risk management framework" 
+into paragraph 32. 
+See response to comment 
+168 and 169. 
+172. acli U.S.A.  No  This paragraph makes an inappropriate recommendation and should be deleted. 
+While it could be appropriate to link variable remuneration to prudent management of 
+risks, we do not believe it is appropriate to single out climate -related risk as a specific 
+factor given that climate -related risk is not a risk category in and of itself, but rather it 
+contributes to the shape and manifestation of other risks. It is also unclear what the 
+last sentence refers to and how this would be measured in an objective fashio n such 
+that its achievement could be linked to variable remuneration. 
+See response to comment 
+168 and 169. 
+173. 
+Institute of 
+Internation
+al Finance 
+United 
+States 
+No  We recommend that the IAIS delete Paragraph 33. It is appropriate to link the variable 
+compensation of those key individuals with direct responsibility for the risk 
+management framework to the prudent management of all material risks, including any 
+potential impact that climate change may have on the way risks emerge. However, the 
+Paragraph as drafted could be read in a much broader fashion to cover employees 
+who have no responsibility for or control over climate -related risks. Further, the last 
+See response to comment 
+168 and 169.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 79 of 154 
+ 
+sentence of this Paragraph is vague and open to a variety of interpretations. Climate 
+risk considerations are an important part of a wide range of factors that are taken into 
+consideration and balanced in making investment decisions that are in the best 
+interests of policyholders and other stakeholders.  
+174. NAIC USA, 
+NAIC 
+No  Last sentence; editorial, suggest removing "the" in the below sentence to read as 
+follows:  
+Also, the evolution of the non-financial performance of investee companies can be a 
+relevant indicator for variable remuneration. 
+Change made. 
+Q51 Comment on section 4 Risk Management and Internal Controls  
+175. 
+Insurance 
+Europe 
+Europe No  Being supportive of sustainability objectives, Insurance Europe recognises that explicit 
+references in legislation and other tools such as guidelines should help integra te 
+sustainability risks, including but not limited to climate risk, consistently and more 
+efficiently in the risk-management function. This is appreciated especially given the 
+importance of this subject and its relevance in the years to come. In fact, the 
+prudential framework should not be an obstacle to the integration of sustainability 
+risks. On the contrary, it can support such integration, eg by explicitly integrating 
+sustainability risks in the risk management and control functions.  
+Noted 
+178. IAA Internati
+onal 
+No  The IAA strongly supports the inclusion of climate risks as part of risk management 
+and internal control systems. The examples and guidelines given in section 4 are very 
+useful. They are given in a way that is suitable for different companie s, both with 
+respect of scale and type of business.  
+Noted 
+180. acli U.S.A.  No  Sections 4 and 5 should recognize that climate risk is not a standalone category of 
+risk, but rather climate risk may impact the shape and ultimate manifestation of 
+existing risk categories (e.g., credit risk, catastrophe risk). Managing climate risk 
+should not be the goal of IAIS guidance. 
+Amended language in 
+paragraph 40. 
+181. 
+Institute of 
+United 
+States 
+No  Again, in this Section, the focus should shift back to supervisory best practices, rather 
+than best practices for insurers. Supervisory engagement and monitoring of climate 
+risks should be a key focus and guidance to supervisors should be principles -based 
+See response to comment 
+138.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 80 of 154 
+ 
+Internation
+al Finance 
+and recognize the need for flexibility given the evolving nature and understanding of 
+climate risk.  
+ 
+Any guidance to insurers should be developed in consultation with the industry and, in 
+particular, in conversation with insurance chief risk officers. Insurers are incorporating 
+climate risks into their ORSAs and enterprise risk management frameworks and are 
+assessing the materiality of these risks across business lines and activities. Firms 
+should be provided flexibility to adapt their risk management frameworks to reflect the 
+risks that are most material to the company. Firms' existing risk management 
+frameworks can be leveraged as a baseline for assessing climate risks as they have 
+for other risks over the years.  
+ 
+Given the evolving nature of the science around understanding and managing climate -
+related risks, we recommend that the IAIS include in this Section language 
+acknowledging that existing risk management frameworks, tools and capabilities will 
+naturally and appropriately need to be developed and evolved in parallel. A phased 
+approach to guidance, reporting and disclosure requirements would reflect this need 
+for the further development and evolution of climate -related risk management 
+frameworks.  
+ 
+Agreed; this is also the 
+objective of this public 
+consultation, as well as 
+several other stakeholder 
+engagement sessions that 
+were organised during the 
+development phase.  
+182. 
+Liberty 
+Mutual 
+Insurance 
+Group 
+USA No  In Section 4, the tone of the Application Paper shifts once again to specifying what 
+insurers should do rather than how supervisory practices can evolve and be more 
+effective. Especially given the general nature of risk management, to have utility, 
+guidance must be principles-based, accounting for the emerging state of knowledge 
+related to managing climate risk and differences in that risk across jurisdictions and 
+insurers. It is particularly important here for supervisors to work with industry on 
+principles or best practices for risk management and climate risk.  
+ 
+The Application Paper would be improved, for example, if the following statements 
+were re-cast as higher-level principles and guidance and not as specific instructions. 
+Indeed, these are good practices, but they are presented in the Application Paper as if 
+they are check-the-box statutory standards that insurers must comply with.  
+ 
+See response to comment 
+181. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disagree with the other 
+comments – the listed items 
+should be expected of 
+insurers.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 81 of 154 
+ 
+> Insurers should "consider and document in risk management policies how climate -
+related risks could materialize in each area of the risk management system."  
+ 
+> Insurers should "develop tools to collect reliable qualitative a nd quantitative data [in 
+order] to perform aggregated analysis of various elements of climate -related risks." 
+ 
+> Insurers should adapt their internal control policies while "identifying, assessing, 
+monitoring, managing and reporting climate -related risks … to ensure that they have a 
+sufficient understanding of climate -related issues and their impact on the risk -profile of 
+the entity."  
+Q52 Comment on paragraph 34  
+183. GFIA Global No  GFIA recognises that explicit references in tools such as guidelines should help 
+integrate sustainability risks consistently and more efficiently in the risk management 
+function. This is particularly appreciated given the importance of this subject and its 
+relevance in the years to come.  
+Noted 
+185. IAA Internati
+onal 
+No  Signpost Box 2 "in paragraph 51" The boxes refer to 
+examples of the entire 
+section. 
+186. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  Given that this AP does not establish standards or expectations, "This section 
+provides guidance on…" in the second sentence should for example, be revised to 
+"This section discusses…".  
+Disagree; the objective of 
+this Paper is to provide 
+guidance. See also 
+response to similar 
+comments. 
+Q53 Comment on paragraph 35  
+187. 
+Partnershi
+p for 
+Carbon 
+Global No  Agree. Transition risks pose significant threats to businesses, which is why a holistic, 
+integrated approach is needed to fully capture  climate risk. Financed emissions 
+provide a common metric which allows insurers to not only assess risks, but also to 
+set targets and perform scenario analysis. The PCAF Global GHG Accounting and 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 82 of 154 
+ 
+Accounting 
+Financials 
+Reporting Standard for the Financial Industry provides universal, transparent, and 
+standardized guidance for insurers to measure the absolute financed emissions of 
+their portfolios. 
+189. IAA Internati
+onal 
+No  As many insurers throughout the world are impacted by climate change, the IAA 
+believes there is merit in developing basic principles for appropriate techniques and 
+tools for gathering and analyzing relevant data. Thus, insurers would consider their 
+exposure on their own, but in recognition of supervisory expectations as devised by 
+IAIS. 
+ 
+The expectations for insurers to "fully integrate" climate risks into the overall 
+governance framework needs to retain the concept of proportionality. This could be 
+done by changing the word "fully" to "appropriately", and to add "as appropriate" to the 
+last sentence. 
+Amended first sentence to 
+delete “fully”. 
+190. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  This recommendation would provide for a solid and robust basis for 
+companies/insurers to consider the impact of climate risk on assets, liabilities and the 
+overall business model, if it were accompanied by a recommendation to policy makers 
+to establish as part of the overall framework a general pricing of GHG emissions. As 
+the paragraph stands, and for as long as the presumptions or ambitions outlined under 
+paragraph 13 are not met, the existence of material shortcomings will "devalue" (the 
+accomplishment of) supervisory objectives including of paragraph 35.  
+Pricing emissions is out of 
+scope of this paper. 
+Q54 Comment on section 4.1 Integrating climate -related risks into the scope of the risk management system 
+Q55 Comment on paragraph 36  
+193. IAA Internati
+onal 
+No  It could be said that "Climate risks … can affect the valuation of various insurer assets 
+and liabilities to a significant degree", but the current wording is not true to the extent 
+implied for every insurer.  
+Besides the effects on assets and liabilities, climate -related risks might affect the 
+correlation between different risks which can lead to gaps between the actual risk 
+exposure and the expected one. 
+Agree with first sentence, 
+but this is inherently 
+addressed.  Added the 
+second sentence.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 83 of 154 
+ 
+194. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  This paragraph seems somewhat alarmist and would benefit from additional nuance. 
+Examples given only point to downside risk. It also ignores potential mitigation 
+measures and, for physical risks, the ability of the industry to consider the evolution of 
+natural catastrophe risk when pricing short-term cover. For stranded assets, the 
+paragraph does not acknowledge that market prices would take into account a 
+consensus expectation about the prospects of a transition to a low -carbon economy. 
+Further, while we agree that life insurers should assess their exposure to increased 
+mortality and morbidity because of climate change, we believe the AP should 
+acknowledge that the development of climate impacts to these risk exposures is likely 
+to unfold over an extended period of time.  
+Agreed, added a sentence 
+on timeframe and pricing in 
+paragraph 37.   
+196. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  Referencing carbon pricing only as a risk without providing neither in this section nor 
+elsewhere additional context and clarifications about the underlying interdependencies 
+fails to do justice to the importance and relevance of establis hing a general and 
+observable price on carbon to address climate -related financial risks. It also helps to 
+cement erroneous and biased views about its desirability and usefulness.  
+ 
+Carbon pricing not only significantly contributes to steering economically relevant 
+behavior and related financial flows in the right direction, it also significantly 
+contributes to minimizing the risk of undesirable regulatory interventions. It provides 
+for a robust valuation methodology that allows to compare and benchmark risk s 
+emanating from climate change with other risks emanating from other sources. This 
+allows to set quantifiable objectives, review the progress towards goal achievement 
+and establishes comparability between peers and across sectors.  
+ 
+Kindly refer to our general comments (Q&A 1) on a general price on carbon.  
+Noted, outside the scope of 
+the paper. 
+197. acli U.S.A.  No  The paragraph notes that life insurers may experience increased mortality from 
+climate events. We agree that life insurers should assess thei r exposure to increased 
+mortality as a result of climate change and note that in general the development of 
+climate impacts to these risk exposures is likely to unfold over an extended period of 
+time. We believe the paragraph should explicitly acknowledge that the probability of 
+these risks emerging in the shorter term is very low. Also, this paragraph mentions the 
+Added a comment on 
+timeframe into paragraph 37 
+and added a sentence on 
+asset bubbles in 36.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 84 of 154 
+ 
+concept of "stranded" assets. The paper should also mention the potential for herding 
+into "green" assets, resulting in capital misallocation an d potential asset bubbles. 
+Q56 Comment on paragraph 37  
+198. 
+Insurance 
+Europe 
+Europe No  Insurance Europe agrees that sustainability risks, including climate -related risks, 
+should be considered at the same level as other risks and that they should be included 
+in risk management policies, provided that these risks are financially relevant and 
+material. It is essential that the assessment of sustainability risks consi ders materiality 
+and allows sufficient flexibility for undertakings to deal with their risk exposures within 
+their organisational structure.  
+ 
+Insurance Europe supports the statement that climate -related risks should be 
+considered within the existing categories of risks as they can materialise via the 
+existing risk categories. For this reason, it is important to consider such risks at the 
+same level as other risks. It is also key that the analysis of climate risk is dependent 
+on the company-specific strategy and risk assessment, based on financial materiality.  
+Noted 
+199. GFIA Global No  GFIA welcomes the suggestion to consider climate risks within existing categories of 
+risks. As climate risks are not material to all companies, depending on their size, 
+activity and risk profile, GFIA suggests adding "when relevant" in the first sentence.  
+ 
+In addition, if insurers should consider climate risks in their risk management policies, 
+it is essential that the assessment of sustainability risks considers materiality and 
+allows sufficient flexibility for undertakings to deal with their risk exposure within their 
+organisational structure. 
+Noted 
+201. IAA Internati
+onal 
+No  The requirement in the last sentence to "consider and document … how climate -
+related risks could materialise…" (emphasis added) may be overly broad and should 
+allow for materiality. The IAA suggests that this is changed to "…. could materialise 
+and have a material impact in any area covered by the risk management system, in 
+particular …" .  
+Materiality is mentioned in 
+the first sentence and the 
+insurer would have to do an 
+assessment to determine 
+whether the risk is material.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 85 of 154 
+ 
+202. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  The paragraph uses the terms "risk management framework" and "risk management 
+system". The difference between the two, if any, is unclear. If they are synonymous, 
+using a single term consistently would be preferable. 
+ICP 8 uses “risk 
+management system”; 
+changes made for 
+consistency.  
+203. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  What should be incorporated into insurers' risk management policies varies depending 
+on, among other things, the risk profile of each insurer. Thus, we believe that uniformly 
+requiring insurers to document of climate -related risk management policies is 
+excessive. We request deleting "and document" from the second sentence.  
+Disagree, insurers will have 
+to make an assessment to 
+determine whether climate 
+change poses material 
+risks.  If determined not to 
+be material the insurer 
+would not have to include 
+the risk within the system; 
+however, like other risks the 
+insurer should consider 
+whether the materiality has 
+changed in the future. 
+207. 
+Liberty 
+Mutual 
+Insurance 
+Group 
+USA No  This paragraph presents an example of the concern we expressed in response to 
+Question 19 that the Application Paper does not uniformly focus on material risks. 
+Here the paper speaks to whether there is a "material change" in a risk, without 
+considering whether the risk is material in the first place.  
+See response to comment 
+203. 
+Q57 Comment on paragraph 38 
+208. ABIR Bermuda No  ABIR believes that this issue of data availability should not be placed solely on the 
+insurer. Climate change related data have a large uncertainty and what is "reliable" is 
+often still under scientific discussion . Some streamlining of commonly accepted data 
+sources should be agreed. 
+Amended to address data 
+issues and recognise that 
+this is an evolutionary 
+process. 
+209. 
+Insurance 
+Europe 
+Europe No  Some key challenges, such as the availability of good quality and r eliable data, are 
+outside insurers' control. Even with the best processes and tools, while insurers can 
+make reasonable efforts to gather data, they cannot collect reliable quantitative and 
+See response to comment 
+208.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 86 of 154 
+ 
+qualitative sustainability information for all assets in their portfolios. For example, there 
+are instances when insurers cannot be held accountable for gathering the information 
+necessary to fully evaluate physical risks related to the specific locations of assets: 
+this is the case for bonds and equities, for which issu ers do not disclose climate-
+related information that could help insurers identity and assess climate -related risks.  
+For this reason, Insurance Europe recommends deleting this paragraph or rephrasing 
+it to avoid putting unreasonable pressure on insurers. A t a minimum, the paper should 
+clearly state that supervisors need to acknowledge that the data availability issue is a 
+larger and shared responsibility of the wider economy. Supervisors should fully 
+recognise this challenge and help develop appropriate sol utions that do not force 
+insurers to rely on third-party data providers to obtain such data (see also comments 
+on paragraph 19). 
+210. GFIA Global No  GFIA wishes to stress that the solution to the issue of data cannot rely sol ely on 
+insurers and other financial market players. Even with strong processes and tools at 
+their disposal, collecting reliable ESG data will remain an issue for insurers. For 
+example, with respect to physical risks, while the localisation of assets can en able 
+insurers to assess physical risks, such information is not known and not disclosed by 
+companies when investing in corporate bond or equities. Insurers might play a role in 
+collaboration with other industry players in addressing the well -documented iss ues 
+around data – for instance, clearly articulating what data is needed to inform 
+appropriate decision-making in order to influence data provision.  
+ 
+GFIA thus believes that this paragraph would put undue pressure on the collection 
+process of insurers and suggests removing it. At a minimum, supervisors should 
+acknowledge that data availability is a larger issue, not the responsibility of insurers.  
+See response to comment 
+208. 
+211. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  Agree. In addition, requiring insurers to report on the quality of the climate data 
+reported enables them to develop strategies to improve data quality over time, as is 
+detailed in the PCAF Global GHG Accounting and Reporting Standard for the 
+Financial Industry. 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 87 of 154 
+ 
+213. IAA Internati
+onal 
+No  Further to the comments on Q53, because of the difficulty in gathering a large enough 
+data set, regional collaboration of insurers might be considered. In addition, as this 
+document refers to both insurers and reinsurers (paragraph 9 ), it may also be helpful 
+for reinsurers to make regional data available to insurers in the same region.  
+This is outside the scope of 
+the paper. 
+215. 
+Institute of 
+Internation
+al Finance 
+United 
+States 
+No  We agree with the statements in Paragraph 38 that i nsurers should develop tools to 
+collect reliable data in order to perform aggregated analyses of climate -related risks 
+but this Paragraph should be restated in terms of what supervisors should expect to 
+receive in terms of output from insurers. This Paragraph appropriately recognizes the 
+value of a qualitative analysis of climate -related risks, especially in light of current 
+shortcomings in available quantitative data. Given data shortcomings and the evolving 
+nature of climate risk management, an overemphasis on quantitative analysis could 
+result in a false sense of precision and security in the results. Further, at this time, we 
+believe that scenario analysis should be exploratory in nature and focused on 
+understanding how climate risks may emerge, rather t han on developing responses to 
+climate risks that may not be based on a comprehensive understanding of the 
+multitude of factors that can influence or be influenced by climate considerations and, 
+thus, may give rise to unintended consequences. 
+ 
+As further elaborated in our comments on Section 5, we encourage the IAIS and 
+insurance supervisors to recognize the important differences between stress testing 
+and scenario analysis and focus supervisory attention on the latter. Mainstream stress 
+tests are near-term assessments of whether a firm has sufficient resources to weather 
+macro-financial shocks. Climate scenario analyses, whether quantitative or qualitative, 
+are designed to take a longer-term view of a range of potential pathways for climate -
+related risks and to understand how those risks would affect an insurer and how an 
+insurer could respond to those risks.  
+See response to comment 
+208. 
+ 
+ 
+ 
+Q58 Comment on paragraph 39  
+Q59 Comment on section 4.2 Consideration of climate -related risks by the Control Functions
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 88 of 154 
+ 
+218. GFIA Global No  GFIA would like to stress that insurers are already doing many of the things outlined in 
+this section – and in the paper – as a function of good underwriting and effective risk 
+management. Climate change is not something new that th ey are yet to confront. The 
+incidence and impact of climate change are on the rise, and insurers regularly deal 
+with its material risks.  
+ 
+GFIA therefore takes the view that companies are in the best position to assess 
+climate risks in a way suited to their own circumstances. GFIA believes that this 
+section should offer general perspectives, as in paragraph 40, without entering into 
+detailed considerations on the key functions, whose specific duties and functioning are 
+up to each company to decide, depending on its risk profile.  
+Disagree.  The application 
+paper is providing 
+information on how to 
+incorporate climate change 
+into certain ICPs.  It is not 
+expanding the ICPs.  
+It is encouraging to see that 
+the insurance industry is 
+already including some of 
+the examples discussed in 
+the Paper; which can be 
+used as good practice. 
+Q60 Comment on paragraph 40  
+220. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  Risk appetite is often and typically defined in terms of what maximum profit/loss 
+impact one is willing to bear. This is only possible if you can "translate" the climate -
+related impact into a financial impact, which again will rest on the ability to value or 
+price this impact in the same way other risks are valued and priced. In other areas 
+where there is no readily available price information due to the lack of a market (such 
+as certain underwriting liabilities incurred by insurance companies), the methodologies 
+applied to measure or evaluate risks are typically geared towards mimicking market 
+outcomes. In the spirit of paragraph 13, the Application Paper should raise the 
+question of how something akin to a market price (for valuation purposes) could be 
+envisaged, e.g. by setting the conditions required for a functioning cap -and-trade 
+mechanism or a broad-based GHG emission levy. 
+Noted 
+Q61 Comment on paragraph 41  
+221. 
+Insurance 
+Europe 
+Europe No  It is important to strike the right balance of risk consideration in risk -management 
+practice and supervisory review, without putting excessive focus on climate -related 
+risks at the expenses of other risks.  
+Added language to address 
+comment.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 89 of 154 
+ 
+223. IAA Internati
+onal 
+No  This paragraph gives wide responsibility to the risk management control function for 
+"the following risk management areas may be particularly affected by climate-related 
+risks: asset -liability management (ALM), investment risk management, underwriting 
+and reserving, reinsurance and other risk -mitigating techniques" etc. Typically, the 
+Actuarial Function (AF) is heavily, or primarily, involved with many of t hese yet no 
+mention is made of the AF role. It is equally important (if not more so) that the actuarial 
+function is adequately resourced.  
+This section is on the Risk 
+Management Function and 
+paragraph 45 covers the 
+Actuarial Function.   
+224. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  The sentence, "The following risk management areas may be particularly affected by 
+climate-related risks: asset -liability management (ALM)" should be deleted for the 
+following reasons: 
+ 
+- As the changes in economic value related to climate change is due to, among other 
+things, widened credit spreads and increased default of credit risk assets, and 
+therefore is an issue of credit risk management. 
+- ALM within insurers is essentially a market interest rate risk management i ssue and 
+should be separate from credit risk management. 
+- At this point, we are not aware of any widened credit spreads or increased default of 
+credit risk assets due to climate change. 
+Disagree, see also section 6 
+on investments. 
+225. acli U.S.A.  No  While we agree that the risk management function should ensure that climate -related 
+risks are monitored where material, it is generally beyond the scope of risk 
+management to provide resources to first line business areas. We suggest the first 
+sentence of paragraph 41 be reworded accordingly as follows:  
+"The risk management function, an independent role from the business units that own 
+the risk, should monitor and ensure that - between the efforts of risk management and 
+the business units - there is proper identification, assessment and management of 
+climate-related risks."  
+Amended the paragraph to 
+address this concern and to 
+streamline. 
+226. 
+Liberty 
+Mutual 
+USA No  We agree that an insurer's risk management function should be a focal point f or how 
+an insurer identifies, assesses and manages climate -related risks. However, the 
+structure an insurer uses to execute its risk management function is not relevant for 
+the purposes of this Application Paper. The text characterizing risk management as 
+Amended the text to 
+streamline. Reference to the 
+RAS has not been deleted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 90 of 154 
+ 
+Insurance 
+Group 
+"an independent role from the business units that own the risk" and "the Board -
+approved risk appetite statement" should be deleted. 
+as this was deemed 
+relevant. 
+Q62 Comment on parag raph 42 
+227. 
+Insurance 
+Europe 
+Europe No  Insurance Europe notes that the current sparseness of ESG data represents an 
+obstacle to monitoring exposures from a sustainability viewpoint and to the extensive 
+use of qualitative methodologies. Equally important ly, Insurance Europe wishes to 
+emphasise the need for proportionality with respect to the information requirements 
+associated with the integration of climate -related risks. An excessive additional burden 
+on small insurers with respect to any new information requirements should be avoided.  
+ 
+Regarding aligned criteria between underwriting and investment functions, Insurance 
+Europe points out that such aligned criteria may not produce aligned outcomes given 
+the difference in the available data between these t wo functions. Criteria cannot be the 
+same at this stage due to the data availability issue. This paragraph should 
+acknowledge the lack of available data. 
+Some change made 
+following suggestion in 
+comment 232. Please do 
+note that having “aligned” 
+criteria does not imply that 
+the outcomes should be 
+exactly the same, nor does 
+it imply that these should 
+always be identical.  
+228. GFIA Global No  GFIA notes that the current sparseness of ESG data represents an obstacle in 
+monitoring exposures from a sustainabili ty viewpoint and to the extensive use of 
+qualitative methodologies. Equally importantly, GFIA wishes to emphasise the need 
+for proportionality with respect to information requirements associated with the 
+integration of climate -related risks. An excessive additional burden on small insurers 
+with respect to any new information requirements should be avoided. GFIA thus 
+suggests adding: "relevant and appropriate" range of quantitative (…)".  
+ 
+In addition, the paragraph states that the risk management function sh ould ensure 
+consistency within the insurer. In this respect, GFIA notes that using the same tools 
+and criteria within a group in a centralised manner is not always desirable, as it is 
+necessary to use approaches that consider the specific characteristics o f each region. 
+In addition, there may be cases where national supervisors already impose regulations 
+such as ones regarding quantitative metrics. In such cases, developing uniform 
+regulations for insurance groups on top of them could place an undue burden on 
+See response to comment 
+227.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 91 of 154 
+ 
+insurers. Therefore, GFIA suggests replacing "ensure" with "take into account".  
+ 
+Regarding the alignment of criteria on underwriting and investment functions, GFIA 
+would like to point out that the data available is not the same on the two sides. 
+Therefore, the criteria cannot be the same at this stage due to the issue of data 
+availability. At the very least, GFIA suggests raising again the issue of lack of data in 
+the paragraph by adding at the beginning of the last sentence "If consistent data is 
+available". 
+229. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  Agree. The different functions within an insurer should have aligned criteria when 
+identifying sectors that are more exposed to climate change. Financed emissi ons are 
+a necessary input for climate scenario analysis. As such, absolute financed emissions 
+are a key metric for financial institutions that want to understand and manage climate -
+related transition risks and opportunities.  
+ 
+The PCAF Global GHG Accountin g and Reporting Standard for the Financial Industry 
+provides universal, transparent, and standardized guidance for insurers to measure 
+the financed emissions of their portfolios. 
+Noted 
+231. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  With regard to the risk management function, it is stated that, "(The risk management 
+function should) ensure consistency within the insurer". However, if this refers to 
+"business strategy and risk appetite," it may be difficult to respond to this considering 
+each country's national policies, and if this refers to "quantitative and qualitative 
+methods and metrics", using the same method within the group company in a 
+centralized manner may not necessarily desirable as approaches that take into 
+account the different characteristics etc. of each region is needed. In addition, there 
+may be cases where national supervisors already impose regulations such as 
+regarding quantitative metrics and developing uniform regulations for insurance 
+groups on top of that could cause a double burden on the insurer. Therefore, we 
+suggest replacing "ensure" with "take into account" as follows:  
+ 
+"The risk management function should use a range of quantitative and qualitative 
+Changed into “promote”
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 92 of 154 
+ 
+methods and metrics to monitor progress against the insurer's overall bus iness 
+strategy and risk appetite and take into account consistency within the insurer".  
+232. 
+Lloyd's of 
+London 
+UK No  Whilst it is useful for firms to share climate change-related information internally 
+between functions, we disagree with the IAIS's statement that "the underwriting and 
+investment functions should have aligned criteria when identifying sectors that are 
+more exposed to climate change". Rather, we suggest that this should state "the 
+underwriting and investment functions should consider where they may benefit from 
+aligned criteria when identifying sectors that are more exposed to climate change". 
+This is because the time horizons and risk factors which are relevant to an insurer's 
+underwriting function and to its investment function may not always match and so the 
+sectoral criteria may not always align. 
+See response to comment 
+231. 
+233. 
+Liberty 
+Mutual 
+Insurance 
+Group 
+USA No  The criteria may well be aligned, but not necessarily identical, particularly in terms of 
+application or operationalization, For instance, a company might invest in certain 
+businesses or kinds of businesses, but not underwrite their insurance and vice versa.  
+This is correct. See 
+response to comment 227.  
+Q63 Comment on paragraph 43  
+234. GFIA Global No  GFIA would see merit in exploring such methods in appropriate situations. In order to 
+clarify that these suggested methods are not mandates, it recommends adding a last 
+sentence stating: "These suggested methods are not prescriptive mandates and are 
+neither required, nor recommended for all situations."  
+Not needed, given the 
+nature of application papers.  
+235. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  Agree. Establishing a common framework to define investment limits to specific 
+companies, sectors, regions, etc., or to define exposure to risk, is essential for internal 
+risk management purposes. For this reason, it is useful to use absolute financed 
+emissions as the common metric, since they can be used in a variety of ways to define 
+investment limits or exposure to risk. More importantly, insurers already have a 
+method to measure this this metric.  
+ 
+The PCAF Global GHG Accounting and Reporting Standard for the Financial Industry 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 93 of 154 
+ 
+provides universal, transparent, and standardized guidance for insurers to measure 
+the financed emissions of their portfolios. 
+237. IAA Internati
+onal 
+No  This paragraph goes straight to examples without covering the process that is needed. 
+The IAA believes there is a need to indicate a process that starts with  existing risk 
+management in the investment area and then considers how that should be modified 
+to recognize climate risks - for example trends in carbon intensity of key portfolios, 
+what percentage of the portfolio has an intensity exceeding x.  
+No change necessary – 
+having a process to address 
+climate risk is inherent in 
+having firms address the 
+risk. 
+238. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  Underwriting and asset management are the core business areas of insurers, and 
+insurer's business decisions and approaches should be fully respected. In addition, 
+while the use of "heat maps" or "ESG scoring" may be considered by each insurer in 
+their underwriting and investment decisions, they should not be used as supervisory 
+tools. Considering this AP is developed by supervisors, particular or specific methods 
+should not be recommended. Thus, this entire paragraph should be deleted.  
+ 
+In addition, although defining "a maximum exposure to policyholders in coastal areas 
+in order to limit the risk exposure to flood risk," is stated as an example, this needs to 
+be carefully considered in light of the public nature of general insurance and the 
+availability of insurance cover. 
+This section provides 
+examples and does not 
+require the specific use of 
+any methodology. 
+ 
+ 
+ 
+Noted and agreed, however 
+this is outside the scope of 
+this paper. 
+240. acli U.S.A.  No  This paragraph suggests defining investment limits based on climate -related criteria. 
+While some insurers may follow this approach, another approach is for the  insurer to 
+incorporate climate risk as among the risks taken into consideration when evaluating 
+whether a proposed investment offers a satisfactory risk -adjusted return. As noted 
+elsewhere, we discourage insurance supervisors from applying public policy o bjectives 
+beyond their responsibility for policyholder protection, promoting fair, safe and stable 
+insurance markets, and contributing to financial stability.  
+Change made to address 
+the concern. 
+Q64 Comment on paragraph 44  
+242. IAA Internati
+onal 
+No  The IAA suggests replacing the final seven words with "climate change that the insurer 
+is obliged or committed to respect". In other words, drop reference to ESG principles, 
+which are undefined and go beyond the scope of climate -related risks.  
+Proposed change to 
+eliminate reference to ESG.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 94 of 154 
+ 
+243. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  We request the text be refined to clarify how the references to "legal risk and legal 
+change risk" relate to the definition in Table 1 (page 7) as well as the framing of 
+potential impacts to operational and reputation risk in Table 2 (pages 9 and 10).  
+Changed into liability risk for 
+consistency with table 1. 
+244. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  As the compliance function is responsible for ensuring that insurers  be compliant with 
+all relevant laws and regulations, it is not appropriate to single out and only mention 
+ESG principles in this paragraph. The last sentence (after "Accordingly") is 
+unnecessary and should be deleted. 
+See response to comment 
+242. 
+245. acli U.S.A.  No  While we agree that the compliance function should identify and address potential 
+climate-related legal risk and/or compliance issues, the paragraph elevates voluntary 
+ESG commitments to the status of law. Compliance with voluntary commitmen ts would 
+typically not be part of the compliance function, and it presumes that such risk is 
+material and that insurers have made public commitments to ESG principles. Further, 
+we request the text be refined to clarify how the references to "legal risk and  legal 
+change risk" relate to the definition in Table 1 (page 7) as well as the framing of 
+potential impacts to operational and reputation risk in Table 2 (pages 9 and 10).  
+See response to comment 
+243 
+Q65 Comment on paragraph 45  
+246. 
+Insurance 
+Europe 
+Europe No  Insurance Europe agrees that the actuarial function takes into account material 
+climate-related risks. In doing so, it should be done at the same level as other 
+considerations, such as inflation, legal risk, etc. The paper should note this point to  
+ensure that the consideration of climate -related risks will not prevail over other equally 
+important risks/considerations and vice versa. 
+Not necessary since the 
+paragraph is not suggesting 
+that the impacts of climate 
+risk should take priority over 
+other material risks.  
+247. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  Agree. The actuarial function should consider climate -related risks. A key metric to use 
+for the assessment of transition risk would be absolute financed emissions, since it is 
+also a fundamental step for performing scenario analysis for insurers.  
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 95 of 154 
+ 
+249. IAA Internati
+onal 
+No  This paragraph provides a very narrow view of the role of the Actuarial Function (AF) 
+and does not mention their involvement in ALM, pricing, underwriting, stress and 
+scenario testing, risk mitigation etc. The work, reports, analysis etc., of the AF with 
+respect to climate risk can be most useful in informing the supervisor with respect to 
+these risks. The wording appears to downplay the value that a su pervisor can derive 
+from the AF. 
+ 
+The IAA also notes that financial instruments valued on the basis of market value 
+generally would not require actuarial involvement in their valuation. 
+Added some of these to the 
+list of examples; but it is not 
+meant as an exhaustive list.   
+ 
+ 
+ 
+250. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  The application paper should acknowledge that in light of the emerging nature of the 
+risk, actuarial teams and other control functions will need time to develop new tools or 
+approaches in considering climate related risks.  
+Added language to address 
+comment. 
+253. acli U.S.A.  No  It should be noted that market prices would reflect a consensus view of the existence, 
+impact, and speed of a transition to a carbon-neutral economy. Although th is transition 
+could occur more quicky than implied by market prices, it could also occur less quickly 
+than implied by market prices. Further, the application paper should acknowledge that, 
+in light of the emerging nature of the risk, actuarial teams and ot her control functions 
+will need time to develop new tools in considering climate -related risks particularly in 
+light of an absence of historical data. 
+Added language to address 
+comment. 
+Q66 Comment on paragraph 46  
+255. IAA Internati
+onal 
+No  The IAA believes that the Actuarial Function should be involved in the review of 
+climate risk scenarios that are part of the ORSA -process. By use of both internal and 
+external data the Actuarial Function may give valuable support to the building of 
+realistic models showing the variability in expected results for the next years. This will 
+be a valuable input in capital stress scenarios.  
+ 
+The IAA suggests adding in capital requirements - i.e., "… calibration of premiums, 
+reserves and risk -based capital requirements… " 
+Disagree, the Actuarial 
+Function may not always be 
+part of the process. It would 
+be dependent on how 
+scenarios are defined and 
+the risk that changes in 
+climate are potentially 
+impacting.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 96 of 154 
+ 
+ 
+This para refers to data quality and completeness. The IAA points out that traditional 
+criteria to assess data quality will not be sufficient when dealing with climate change 
+related risks. Climate change related information is subject to higher uncertaintie s than 
+usual. There might be no full agreement in the scientific community on past or future 
+developments. Whether or not there is agreement, the Actuarial Function should be 
+involved in the development of future scenarios - either globally or locally.  
+ 
+The last section of this paragraph refers to "fast -evolving risks". This is not the right 
+term to use in relation to climate-related risks. Instead, the focus should be on 
+avoiding the use of overly long data sets that do not incorporate the change in clima te 
+over time. (For example, using a 20-year history of past wildfires would lag in its 
+reflection of current risks due to a changing climate).  
+ 
+Agree. Added language to 
+address. 
+256. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  In the last sentence, we suggest noting that historical analysis "alone' may not be 
+sufficient.  
+Added language to address. 
+257. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  Given that the impact of climate change will materialize gradually over a long period of 
+time and that the relationship between "fast-evolving risks" and climate change may 
+not be clearly explained, we request removing "in particular with regard to fast -
+evolving risk".  
+ 
+In addition, when considering the quality and completeness of underlying data, it 
+should be noted that there are various analysis regarding the impact of climate change 
+and the extent of which it may be having an effect, considering the difficulty of 
+measuring such effect. 
+Added language to address. 
+259. 
+Lloyd's of 
+London 
+UK No  As the IAIS discusses the quality and completeness of climate -related data in this 
+section, we believe this may be an appropriate place to recognise the current paucity 
+of high-quality climate-related data that firms can use to conduct the kind of analysis 
+being suggested by the IAIS and to acknowledge that firms are undertaking such 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 97 of 154 
+ 
+analyses on the basis of best endeavours. There is a need for greater collaboration 
+and cooperation within the insurance sector to increase the availability and access to 
+high-quality climate -related data. It may also be helpful to acknowledge here that 
+internal scenario analyses and stress tests represent a beneficial supplementary tool 
+when considering risks, particularly those crystallising over the longer term.  
+Q67 Comment on paragraph 47  
+Q68 Comment on section 4.3 Fitness and propriety of Control Fun ctions on climate -related issues 
+Q69 Comment on paragraph 48  
+262. ABIR Bermuda No  Suggest amending the wording as follows: "In order to ensure sufficient knowledge for 
+the Control Functions while identifying, assessing, monitoring, managing and reportin g 
+climate-related risks, insurers should adapt their internal policies (remove - "and 
+implement training programmes") to ensure they have a team of experts with sufficient 
+understanding on climate-related issues and their impact on the risk -profile of the 
+entity  
+Disagree. It is likely that 
+insurers will need to 
+address training and 
+knowledge gaps on the 
+impact of climate change. 
+263. 
+Insurance 
+Europe 
+Europe No  It should be made clear that the assessment of fitness and propriety should take into 
+account the respective duties allocated. While the proportionality principle is 
+highlighted in the introduction section, the last sentence highlighting insurance policies 
+and associated investments can be misleading. It should be amended to read:  
+"Insurers should ensure that persons who perform Control Functions have relevant 
+experience in understanding the climate risk as appropriate to the respective duties 
+allocated." 
+Added language to address. 
+264. GFIA Global No  It should be made clear that assessment of fitn ess and propriety should take into 
+account the respective duties allocated. While the proportionality principle is 
+highlighted in the introduction section, the last sentence highlighting insurance policies 
+and associated investments can be misleading. It s hould be amended to read as 
+follows: 
+"Insurers should ensure that individuals who perform Control Functions have relevant 
+Added language to address.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 98 of 154 
+ 
+experience in understanding the climate risk [that is appropriate to the duties 
+allocated]" 
+266. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  We believe this paragraph is too prescriptive. While we agree that Control Functions 
+should have sufficient understanding of climate -related risks and their impact on risk 
+portfolios, there are various ways to accomp lish this and the AP should not specify a 
+particular approach, as stated in the paragraph, "insurers should adapt their internal 
+policies and implement training programmes". As such, we propose deleting "adapt... 
+programmes to". 
+ 
+In addition, considering experience and knowledge required for Control Functions is 
+not limited to experience and knowledge regarding climate -related risks, specifically 
+mentioning regarding climate -related risks is irrelevant, and the second sentence (after 
+"Insurers should") is unnecessary. 
+Disagree with comment; the 
+Paper does not prescribe 
+one particular approach. 
+ 
+ 
+ 
+ 
+ 
+ 
+Q70 Comment on paragraph 49  
+Q71 Comment on paragraph 50  
+270. IAA Internati
+onal 
+No  In some countries it may be difficult to find a person with appropriate ski lls and 
+knowledge in climate risks as described. So, it may be appropriate for the CRO or 
+other person in an insurer takes responsible for this and a plan is developed to obtain 
+training and support so that their experience builds over time.  
+Agreed, this is however true 
+for addressing climate-
+related risks in general.  
+271. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  We believe the AP should recognize the importance of flexibility in supervising how 
+insurer internal control functions are monitoring climate -related risks.  
+The paragraph already 
+provides the flexibility as to 
+how insurers set up the 
+functions. 
+273. 
+Institute of 
+Internation
+al Finance 
+United 
+States 
+No  Paragraph 50 should note that a number of jurisdictions have specific requirements 
+relating to control functions. For those jurisdictions that are developing guidance in this 
+area, flexibility should be granted to firms to reflect existing organizational structures.  
+See response to comment 
+271.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 99 of 154 
+ 
+Q72 Comment on section 4.4 Integrating climate -related risks in outsourcing decisions 
+Q73 Comment on paragraph 51  
+277. IAA Internati
+onal 
+No  This paragraph seems to focus on the continuity of business functions due to 
+outsourcing whereas the examples in Box 2 (e.g., BaFin and PRA) appear to focus on 
+the more important issue that insurers cannot outs ource their ultimate responsibility for 
+understanding the risks (e.g., climate risks) they undertake. The IAA suggests that 
+para 51 be re-written, or an additional paragraph be added that fits with the Box 2 
+examples. 
+The boxes are placed at the 
+end of each section and 
+provide examples relevant 
+to the section as a whole. 
+281. acli U.S.A.  No  The outsourcing paragraph is highly speculative, as it is extremely rare for any entity 
+to fail – particularly in an industry based on promises – due to physical risks.  
+Noted. This is related to 
+outsourced functions such 
+as data centres which could 
+be affected in a storm, 
+flooding, or other weather-
+related event. It is not 
+related to an insurance 
+entity failure. 
+282. 
+Institute of 
+Internation
+al Finance 
+United 
+States 
+No  We agree with a focus on climate -related risks in outsourcing decisions (Subsection 
+4.4), but we believe that Paragraph 51 should reflect that insurers may address the 
+risks and potential consequences of vendor failure and other outsourcing risks in their 
+operational resilience plans. We encourage the IAIS to adopt an outcomes -based 
+approach that specifies the desired supervisory outcome and provides firms with the 
+flexibility to choose in a principled and disciplined manner how to deliver that outcome. 
+Outsourcing arrangements generally do not transfer control of key activities to third 
+parties, which remains in the control of the insurer.  
+ 
+The need for proportionality is particularly important when supervising intragroup 
+outsourcing arrangements. When developing supervisory expectations around exit 
+strategies for intragroup outsourcing arrangements, supervisors should acknowledge 
+that financial risk remains within the group.  
+The guidance of this 
+paragraph in the AP applies 
+no matter the outsourcing 
+decision is realised outside 
+or inside the group and, 
+even if it gives advice and 
+examples, it is not meant to 
+be prescriptive.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 100 of 154 
+ 
+Q74 Comment on section 5 Enterprise Risk Management for Solvency Purposes  
+284. 
+Liberty 
+Mutual 
+Insurance 
+Group 
+USA No  There are aspects of the discussion in Section 5 that again are too specific and 
+therefore appear to establish requirements, rather than offer flexible guidance, such 
+as: 
+ 
+- Internal guidance should address how assessment and monitoring climate -related 
+risks "are embedded in the underwriting process."  
+- Underwriting assessments should be "enhanced … due to the need to consider the 
+relevant liability, transition and reputational risks."  
+- An insurer's ORSA process should "consider all material physical, transition, and 
+liability risks arising from climate change." 
+- Insurers should develop climate -risk related stress tests.  
+Noted 
+Q75 Comment on paragraph 52  
+285. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  The application paper should more explicitly recognize the positive contribution of 
+robust risk management practices to the ability of insurers to manage climate -related 
+and environmental risks.  
+Agree that robust 
+management practices help 
+in the ability of insurers to 
+manage risks, but no 
+change needed to the 
+current language. 
+286. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  While identifying and monitoring climate risks does not necessarily require a valuation 
+methodology - only a measurement methodology - the task of managing this risk in the 
+context of all other risks and opportunities to be considered by an insurer requires a 
+common benchmark. The challenge or necessity to establish such a valuation 
+methodology should be prominently mentioned here as it is a precondition to establish 
+an Enterprise Risk Management System for Solvency Purposes.  
+Noted 
+287. acli U.S.A.  No  This paragraph should more explicitly recognize the positive contribution of robust risk 
+management practices to the ability of insurers to manage climate -related and 
+environmental risks.  
+See response to 285.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 101 of 154 
+ 
+Q76 Comment on section 5.1 Underwriting policy  
+288. 
+Insurance 
+Europe 
+Europe No  Insurance Europe generally supports the consideration of climate -related risks in 
+underwriting policies. In this respect, it is important to strike the right balance between 
+all risks, without putting excessive focus on climate risks at the expense of other risks.  
+Agreed, however the focus 
+of this Application Paper is 
+to consider how the ICPs 
+can be applied to climate -
+related risks.  
+289. GFIA Global No  GFIA believes that when discussing underwriting policies, supervisors should keep a 
+strong focus on relevance and materiality. Climate aspects are not relevant or material 
+to all underwriting situations and taking them into account might result in additional 
+costs. Furthermore, in practice, it may be difficult to make individual underwriting 
+decisions that take into account climate change aspects for each case.  
+In addition, we believe that the paper should note that mechanisms for understanding 
+the impacts of climate change on underwriting are significantly more mature for 
+property and casualty insurers than for life and health insurers.  
+The issue of relevance and 
+materiality is applicable to 
+all IAIS language. 
+290. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  As we understand the impact of climate change will materialize gradually over a long 
+period of time, unless insurers underwrite extremely long-term insurance contracts, it 
+is unlikely that insurers will have to take into account the latest understandings of 
+climate change in setting underwriting conditions and also make decisions taking into 
+account aspects of climate change.  
+(It is also practically difficult to make individual underwriting decisions for each case 
+that considers climate change aspects.)  
+Added language to address. 
+Q77 Comment on paragraph 53  
+Q78 Comment on section 5.1.1 Consideration of climate -related risks in the underwriting policy 
+294. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  We agree that different LoBs/sectors will see different levels of climate risk and 
+policies will need to reflect that not all transactions will be material for a climate risk 
+assessment. Heatmaps, such as those proposed UN PSI TCFD report, can help with 
+prioritization: https://www.unepfi.org/psi/wp-content/uploads/2020/09/PSI-TCFD-pilot-
+progress-update.pdf. 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 102 of 154 
+ 
+Q79 Comment on paragraph 54  
+295. 
+Insurance 
+Europe 
+Europe No  Insurance Europe supports the IAIS statement on the incorporation of climate -risk 
+considerations in insurers' underwriting policies. Insurers should be able to do so by 
+including references to climate -related risks in other risk management policies other 
+than the underwriting policies. Therefore, Insurance Europe suggests including "where 
+relevant" in the wording of the second sentence.  
+ 
+Insurance Europe also warns against prescribing simplified information in the risk 
+policies and suggests leaving insurers flexibility in how to integrate climate risk in their 
+policies. For example, the description of economic sectors assessed to have higher 
+climate-related risks might be strongly dependent on individual companies and their 
+transition plans. Similarly, transition risks can manifes t themselves abruptly, eg due to 
+technological breakthroughs or unexpected legislation. Therefore, this information 
+might not be necessary in such policies.  
+Added “as appropriate given 
+the exposure of their 
+individual products to those 
+risks”. 
+ 
+ 
+ 
+ 
+The IAIS does not  
+prescribe information in risk 
+policies. The paper merely 
+provides examples for 
+consideration. 
+296. GFIA Global No  As previously stated, insurers should be able to incorporate climate risk considerations 
+by including references to climate -related risks in risk management policies other than 
+underwriting policies. 
+ 
+In addition, GFIA warns against prescribing simplified information in the risk policies 
+and suggests leaving insurers flexibility in how to integrate climate risk in their policies. 
+For example, the description of economic sectors assessed to have higher climate -
+related risks might be strongly dependent on individual companies and their transition 
+plans. Similarly, transition risks can manifest themselves abruptly, eg due to 
+technological breakthroughs or unexpected legislation. Therefore, this information 
+might not be necessary in such policies.  
+Disagree – assuming 
+relevant, there should be a 
+consideration within the 
+underwriting policy since 
+underwriting is impacted 
+differently than other areas 
+of the business. 
+ 
+See response to 295. 
+298. IAA Internati
+onal 
+No  The proposed absolute requirement for insurers "to incorporate the consideration of 
+climate-related risks in the underwriting policy" is overly broad. This requirement 
+should be applied "as appropriate given the exposure of their individual products to 
+those risks" .  
+Added proposed language.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 103 of 154 
+ 
+299. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  Footnote 14 is misleading and should be deleted. It refers to the level of greenhouse 
+gas emissions, vulnerability to extreme weather events, and links to unsustainable 
+energy practices, but how insurance results can be linked to these issues should not 
+be discussed without any proof. Also, while it enumerates some sectors including 
+agriculture and chemicals, it is unclear how these sectors were selected, and we 
+believe these examples are misleading and inappropriate. 
+For some products this 
+might not be relevant, but 
+for others such as liability 
+insurance the information 
+might be.  These are just 
+examples. 
+Q80 Comment on section 5.1.2 Consideration of climate -related risks in the underwriting assessment 
+300. GFIA Global No  GFIA acknowledges the importance of considering climate -related risks where 
+relevant and material to reduce insurers' exposure and uphold financial stability. 
+Nevertheless, GFIA stresses that these conside rations should remain balanced as, in 
+some cases, they could result in undesired outcomes in terms of overall financial 
+stability. As pointed out in a recent Financial Stability Board (FSB) report focusing on 
+climate risks and financial stability, if a large number of insurers significantly increase 
+premiums or withdraw their coverage to reduce their exposure to climate risks, this 
+might leave firms and certain segments of the economy uncovered, which would 
+amplify the risks to financial stability.  
+Comment is outside the 
+scope of this paper. 
+301. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  Requiring insurers to use a common metric to assess risk will ensure comparability 
+and facilitate their supervision. Absolute financed emissions provide a str aightforward 
+way of comparing the transition risk of every investment. Using the PCAF Global GHG 
+Accounting and Reporting Standard for the Financial Industry, every insurer would be 
+able to calculate the climate impact of their investment before they make it and use the 
+resulting financed emissions to steer their decision -making process.  
+Comment is outside the 
+scope of the paper. Also, 
+while this might be true for 
+investments, for insurance 
+the statement assumes the 
+measurement is appropriate 
+for the risk of all insurers 
+and the measurement 
+captures the risk to at a 
+reasonable confidence 
+level. 
+302. The 
+Geneva 
+Internati
+onal 
+No  Forward-looking natural catastrophe models, adjusted for the effects of climate 
+change, could be developed to assess th e impact of certain weather events in the 
+Agreed
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 104 of 154 
+ 
+Associatio
+n 
+future. Such can assess the loss potential of natural catastrophes, encompassing not 
+only the hazard component but also the exposure and vulnerability components. Other 
+factors, such as the exposure at the time of the event, changes in land use as they 
+impact vulnerability, as mitigation efforts will also significantly influence the loss.  
+Q81 Comment on paragraph 55  
+305. 
+Insurance 
+Europe 
+Europe No  It should be noted that forward-looking natural catastrophe models can be used to 
+assess the likelihood of certain weather events in the future but not their loss potential, 
+as other factors, such as the exposure at the time of the event, change in land use and 
+vulnerability, as well as mitigation efforts, will significantly influence such losses.  
+Noted  
+307. IAA Internati
+onal 
+No  The IAA suggests the word "thorough" may be inappropriate, given the uncertainty 
+involved in current models for some perils (such as wildfire and tornado/hail models). 
+To date, the tail values for those models may not be viewed as sufficien tly reliable for 
+the "thorough understanding" being suggested. Perhaps this could be reworded as 
+"Insurers strive to understand the potential losses …"  
+Revised language per 
+suggestion. 
+309. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  In the first sentence, replace "catastrophe" with "hazards and extreme weat her". No change made to be 
+consistent with the 
+terminology used 
+throughout the document. 
+Q82 Comment on paragraph 56  
+310. ABIR Bermuda No  ABIR does not interpret IAIS to be requiring the assessment of climate change risks to 
+all types of risk covered.  
+Noted 
+311. 
+Insurance 
+Europe 
+Europe No  The IAIS noted that climate -related risks are not necessarily material. The IAIS should 
+consider making this clearer to avoid any misunderstanding that could lead to an 
+undue burden on insurers. Insurance Europe sugg ests clarifying the wording of the 
+second sentence with the following: 
+"For material climate-related risks, supervisors should encourage insurers to include, 
+as relevant, their assessment as part of their underwriting assessment for each client"  
+Added language
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 105 of 154 
+ 
+312. GFIA Global No  The assessment of climate -related risks in not necessarily material to all types of risks 
+covered. The IAIS should consider adding this nuance to avoid any misunderstanding 
+that could lead to an undue burden on insurers.  
+ 
+In addition, the IAIS should clarify that the examples listed under footnotes 16 and 17 
+are hypothetical and do not currently exist.  
+ 
+Furthermore, with regards to the last bullet point, GFIA stresses that an increasing 
+number of insurers have publicly stated thei r voluntary decision not to underwrite new 
+carbon-intensive coal risks. Nevertheless, GFIA believes that underwriting strategies 
+should be defined solely by insurers and aimed at assessing risks rather than 
+imposing specific behaviours on policyholders.  
+ 
+If this recommendation is intended to focus on potential policy obligations arising from 
+physical or liability risks associated with climate change, it should be reworded to 
+make that clear. 
+See response to comment 
+311. 
+ 
+ 
+ 
+The examples are based on 
+current climate risk 
+literature. 
+314. IAA Internati
+onal 
+No  Given the early stage of development of firms' management of climate -related risks, 
+the IAA suggests changing the requirement to exam ine an insurer's "track record" with 
+"evidence" instead. 
+ 
+Footnote 17 mentions the adherence to relevant environmental certification standards 
+as a potential underwriting condition - which presumably envisages application to 
+some specific risks. However, t his wording may be an over-generalisation. For 
+example, an organic farmer's risk exposure to hailstorms is not different from that of a 
+traditional farmer. 
+There does not appear to be 
+a significant difference 
+between track record and 
+evidence. 
+Noted – the section 
+indicates these should be 
+used when relevant. 
+315. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  It is doubtful that the example described in Footnote 16 is an existing case. We 
+strongly believe it is not appropriate mentioning such doubtful ex ample in the paper 
+and request that Footnote 16 be deleted. 
+ 
+The actual existence of the example given in Footnote 17 is also doubtful and 
+inappropriate, and therefore should be deleted. 
+See response to comment 
+314.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 106 of 154 
+ 
+318. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  For physical risk, our pricing already incentivizes clients that are assessed  to pose 
+higher climate-related risks to take steps to mitigate those risks. However, regarding 
+transition risk, our leverage to demand changes in the absence of an observable 
+general price on carbon is limited.  
+Noted 
+Q83 Comment on paragraph 57  
+319. ABIR Bermuda No  It is helpful to recognize that underwriters will use external data sources. The 
+"additional due diligence' procedures requirement may be an issue if utilising external 
+sources. Also, clarity on the term "it may be' as used in this context wo uld be useful. 
+Disagree – due diligence 
+should not be different.  The 
+company should know the 
+risk it is taking on. 
+320. GFIA Global No  With regards to the use of ratings, GFIA thinks that the IAIS should clarify why using 
+such external ratings is needed and how they should be used.  
+ 
+In addition, with regard to the recommendation on transactions that are assessed as 
+involving higher climate-related risks, GFIA believes that additional due diligence 
+might be encouraged only for policy obligations arising f rom physical or liability risks 
+associated with climate change. This should be clarified in the paragraph. 
+Noted 
+ 
+ 
+The section provides 
+elaboration on paragraph 56 
+which does include the 
+necessary caveats. 
+322. IAA Internati
+onal 
+No  This paragraph should be linked to paragraph 73 with regard to reliance on the use of 
+external ratings. 
+Added language for 
+consistency.  
+323. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  Referring to ratings developed by external parties seems to be somewhat abrupt, and 
+the objective of rating usage is ambiguous. Rather than regarding the use of ratings as 
+a premise, the IAIS should clarify why using such external ratings is needed and how 
+they will be used. 
+See response to 320. 
+Q84 Comment on section 5.1.3 Monitoring of underwriting exposure to climate -related risks 
+Q85 Comment on paragraph 58
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 107 of 154 
+ 
+325. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  At this point in time, there are various analysis regarding the effect of climate change 
+on the frequency, severity, and concentration of natural disasters and the extent of 
+which it may be having an effect, considering the difficulty of measuring such effect. 
+Therefore, we suggest revising as follows: 
+ 
+"Climate change may cause changes to the frequency and severity of loss events, 
+which in turn may increase the risk profile of an insurer's business portfolio".  
+Added language (for some 
+perils) to address. 
+Q86 Comment on paragraph 59  
+327. 
+Insurance 
+Europe 
+Europe No  The paper should acknowledge the dynamic relationship between underwriting and 
+reserving. The need for this clarification is even more relevant for the liabilities of non -
+life insurers, with the effects of climate change possibly becoming more evident over 
+time. If time-series trends in the technic al provisions show an increase in the claim 
+expectations, insurers will normally react by means of premium adjustments – possibly 
+because of the short-term nature of insurance contracts – or by adjusting their 
+reinsurance programmes. 
+ 
+As enablers of economic activities and financial transactions, insurers can mitigate 
+risks whenever technically and economically feasible. Awareness of all sectors about 
+their mid- to long-term risk exposures is key to enable them to take adequate action 
+and for insurers to be able to fully contribute to a more sustainable economy.  
+The relationship is well 
+understood and it is not 
+necessary in this Application 
+Paper to explain it further. 
+ 
+ 
+ 
+ 
+ 
+ 
+Noted 
+328. GFIA Global No  The paper should acknowledge the dynamic relationship be tween underwriting and 
+reserving. The need for this clarification is even more relevant for the liabilities of non -
+life insurers, with the effects of climate change possibly becoming more evident over 
+time. If time-series trends in the technical provisions show an increase in expected 
+claims, insurers will normally react by means of premium adjustments – possibly 
+because of the short-term nature of insurance contracts – or by adjusting their 
+reinsurance programmes. 
+See response to comment 
+327
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 108 of 154 
+ 
+330. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  The AP notes: 
+"This would enable insurers to take appropriate mitigating measures to manage any 
+potential build-up in concentration of exposures to geographical areas or sectors with 
+higher climate-related risks."  
+ 
+We appreciate efforts of encouraging insurers to develop tools that help monitor 
+underwriting exposures to and concentrations in geographical areas but would like to 
+highlight that it is the insurance industry's' task to act as an enabler of economic 
+activity and financial transactions and as such absorb risks whenever technically and 
+economically feasible. In other words, risk concentration is not necessarily 
+unfavourable to the industry. 
+ 
+Future risk from climate change should be considered mainly in terms of strategic 
+considerations, portfolio management, etc. in the medium term.  
+Noted, however supervisors 
+still need to be aware of the 
+risk exposures. 
+Q87 Comment on section 5.2 Own Risk and Solvency Assessment (ORSA) 
+334. 
+Insurance 
+Europe 
+Europe No  European insurers believe that consideration of the effect of sustainability risks 
+including climate-related risks should be included in the ORSA as long as these risks 
+are financially relevant and material for the undertaking. This is because sustainability 
+risks should get the same treatment as other risk types.  
+The link between climate-related risks and the ORSA is critical, but the analysis of 
+climate-related risks is dependent on the company-specific strategy and risk 
+assessment. Therefore, the measurement and quantification of the effects of climate -
+related risks is necessary only when these effects are financially material for the 
+undertaking's ORSA. 
+ 
+A prescriptive approach should be avoided, as it would contrast with the very nature of 
+the ORSA, which is company-specific and with a unique time horizon. Insurance 
+Europe notes that it might be useful for the sector to have access to a set of non -
+binding high-level principles to help each insurer determine whether and how to 
+incorporate climate-related risks in its risk management, governance and ORSA, in 
+line with its specific business profile and without impeding a company -specific ORSA. 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 109 of 154 
+ 
+- In general, the insurance industry notes that, given the long -term horizon of climate -
+related risks, a qualitative approach is equally valuable for their analysis in risk 
+management, governance and the ORSA. Wh ile financially material climate-related 
+risks can be considered both from a qualitative and quantitative view, the undertaking 
+should decide which quantitative or qualitative tools are most appropriate for 
+considering climate-related risks. In particular, while the ORSAs may have a forward-
+looking perspective, each insurer should decide whether it is the right instrument to 
+capture climate-change risks that will materialise over a longer time. This will depend 
+on the insurer's strategy, which usually provides for a longer-term perspective than the 
+business plan. 
+- There are a number of issues associated with the development of a standardised set 
+of quantitative scenarios in the ORSA, including the lack of consensus among experts 
+regarding the choice of scenarios and their evolution in the future. Therefore, the 
+ORSA would not be the right place to introduce a standardised set of quantitative 
+scenarios.  
+- Insurance Europe believes that some of the issues associated with quantitative 
+scenarios may be better addressed through qualitative scenario analysis. Climate -
+related scenarios should ideally cover a wide range of plausible climate -change 
+conditions, but also consider fixing other boundary conditions (as variables or 
+assumed constants) relevant to population development, urbanisation and 
+concentration, land use, migration to coasts, early adaptation measures, changes to 
+the built environment, ie factors currently changing the physical risk landscape at a 
+fast pace. This broad and dynamic approach may be bett er addressed through 
+qualitative analysis.  
+335. IAA Internati
+onal 
+No  The IAA supports the consideration of climate -related risks in the ORSA-process. The 
+ORSA-process is owned by the Board and the ORSA -report is useful in supervisory 
+work.  
+Noted 
+Q88 Comment on paragraph 60
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 110 of 154 
+ 
+337. ABIR Bermuda No  ABIR believes that if climate risk has been assessed to be not material by an insurer, 
+this requirement from an ORSA perspective should be limited to documenting this 
+assessment to allow for a supervisory review.  
+Noted 
+338. 
+Insurance 
+Europe 
+Europe No  Insurance Europe strongly agrees with the wording of this paragraph, as the ORSA is 
+a particularly useful tool for insurers because it is able to reflect the unique 
+characteristics, portfolio and risk profile of each insurer. This is also consistent wi th 
+ICP 16.12.1, which already states that the insurer should consider in its ORSA all 
+material risks. Each insurance company is best placed to consider whether its climate -
+related risks are material for its ORSA and, based on its assessment, find appropria te 
+solutions to deal with them.  
+Noted 
+339. GFIA Global No  GFIA cautions against prescription in the ORSA processes. The ORSA should 
+continue to represent the insurer's own view of its risk profile, and the capital and other 
+means needed to address those risks. The insurer should decide for itself how to 
+perform this assessment based on the nature, scale and complexity of the risks in its 
+business. Therefore, each insurer should be able to choose appropriate scenarios and 
+time horizons for material risks.  The IAIS should acknowledge the need for flexibility in 
+this section.  
+ 
+It is therefore vital that insurers have the maximum flexibility in applying the most 
+appropriate tools and assumptions to their own risk management frameworks. GFIA 
+suggests removing the last sentence of the paragraph. 
+Noted 
+341. IAA Internati
+onal 
+No  As noted in the IAA response to Q19, climate risk is not likely to materially affect the 
+existing liquidity risk sufficiently to warrant it being called out specifically in this 
+context. 
+Catastrophic claim events 
+caused by climate-related 
+risks may pose liquidity 
+concerns. Insurers may also 
+face difficulty in liquidating 
+assets impacted by weather 
+events, or become stranded 
+in the transition towards an 
+environmentally sustainable
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 111 of 154 
+ 
+economy. Furthermore, 
+investors who are 
+increasingly 
+environmentally-conscious 
+may also cut back on 
+sources of funding for 
+insurers that underwrite 
+activities with a negative 
+impact on the environment. 
+342. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  We support the notion of including climate -risks in the ORSA process, it is important to 
+mention however, that climate -modelling capabilities are an evolving discipline and 
+hence the ability to monitor the impact of climate risk on financial performance, 
+investment risk and overall solvency, when warranted, remains a work in progress. In 
+light of this, it is important that more weight is given to qualitative analyses for long -
+term exposures and that firms are given flexibility in designing adequate and decision 
+useful scenarios and decide on an appropriate time horizon for their assessment.  
+Added language to address 
+quality of data. 
+343. acli U.S.A.  No  We concur with the paper's suggestion that ORSA is a useful and appropriate tool for 
+insurers to communicate the materiality of climate risk to the firm.  
+Noted 
+344. 
+Institute of 
+Internation
+al Finance 
+United 
+States 
+No  We are in agreement with the statement in Paragraph 60 that  the unique business 
+strategy, investment portfolio and risk profile of each insurer will affect the degree of 
+impact arising from climate -related risks. We encourage the IAIS to include this 
+statement in the Introduction to the Application Paper.  
+ 
+The IAIS should consider more explicitly recognizing climate risk mitigation strategies 
+and techniques (e.g. regular re-underwriting of P&C risk and reinsurance) in this 
+Section. The availability of more data (and more granular data) will indeed assist 
+insurers in developing a more precise understanding of the risks associated with 
+climate change.  
+See response to 342. 
+Q89 Comment on paragraph 61
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 112 of 154 
+ 
+345. 
+Insurance 
+Europe 
+Europe No  European insurers recognise the importance of including climate -risk considerations in 
+the ORSA and agree that climate scenarios are a useful tool to deal with climate risk. 
+However, both short-term and long-term climate -change risks are relevant to the 
+ORSA. The emphasis of this paragraph on the long-term risks overshadows the 
+importance of the short-term management of climate risks in the ORSA. While the 
+effects of climate risks are probably more severe in the long -term, the risks should be 
+addressed in the short-term first.  
+ 
+The ORSA should continue to represent the undertaking's own view of its risk profile, 
+and the capital and other means needed to address these risks. The undertaking 
+should decide for itself how to perform this assessment on the basis of the nature, 
+scale and complexity of the risks in its business. Therefore, each u ndertaking should 
+be able to choose appropriate scenarios and time horizons for material risks for ORSA 
+purposes. 
+ 
+Insurers should be able to choose the time horizon most relevant to assess their 
+material climate-related risksin their ORSA. Scenarios with long time horizons risk 
+being not very reliable as the strategic planning and business strategies are not 
+usually longer than 5-10 years.  
+ 
+For these reasons, the following wording is suggested:  
+"It might be expected that the ORSA includes appropriate cli mate-related scenarios. 
+For material climate-change risks that may materialise in the long term, insurers might 
+also include scenarios with a more extended time horizon, where relevant for their 
+ORSA." 
+Revised language to align 
+timeframes with risks and 
+business cycle.  
+346. GFIA Global No  GFIA believes that the relevance of risk identification and quantification scenarios 
+should be determined by the insurer in its risk management processes. Both short -
+term and long-term climate change risks may be relevant to an insurer's ORSA. The 
+emphasis on the long-term risks should not overshadow the importance of the short -
+term management of climate risks in the ORSA. While the effects of climate risks are 
+probably more severe in the long-term, the risks should be ad dressed in the short term 
+first. 
+See response to comment 
+345.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 113 of 154 
+ 
+ 
+GFIA thus believes that the ORSA's time horizon should be kept to three to five years.  
+348. IAA Internati
+onal 
+No  The IAA recognizes that the time horizon issues presented in this paragraph r equire 
+further elaboration. This issue was also previously identified in the November 2019 
+FSI report "Turning Up the Heat". The IAA is currently working to develop further 
+educational material on this topic. 
+Noted 
+349. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  We agree with the IAIS that the ORSA is a useful tool, and we support the idea 
+brought forward in the paper that different climate related risks should be considered 
+in the ORSA process if material. We do have concerns with the sentence that reads, 
+"some climate change risks may take longer to fully materialize, and therefore it would 
+be expected that the ORSA also includes appropriate scenarios that use a more 
+extended time horizon, where relevant". Beyond a period of 3 -5 years, projections of 
+new sales and management actions such as dividends become extremely speculative. 
+Insurers should be given flexibility to design decision useful scenarios (qualitative or 
+quantitative) and determine the appropriate time horizon for their analysis of material 
+risks. The application paper should recognize that projections beyond the 5 -year time 
+horizon will necessarily be less accurate and supervisors will need to interpret them as 
+such. It should also acknowledge that risks would manifest differently for the P&C an d 
+life sectors and that beyond 3-5 years, only a qualitative and directional assessment is 
+useful.  
+See response to comment 
+345. 
+352. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  The further out one extends the time horizon of models/scenarios the less u seful and 
+valuable they will be due to the inherent uncertainty in the future. The optimal length of 
+the time horizon therefore is a function of the quality of the assumptions and data 
+used, along with the model mechanics. This in turn would greatly benefit from accurate 
+information signals as typically provided by markets, such as establishing a price for 
+GHG emissions as a precondition, to make the mentioned recommendation (extending 
+the time horizon of ORSA scenarios) beneficial or useful.  
+ 
+ORSAs could be amended to allow for qualitative individual company climate -related 
+"what-if" analyses to improve the assessment on a long -term basis. Such "what-if" 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 114 of 154 
+ 
+scenarios do not lend themselves to public disclosure and solvency add -ons. Further, 
+the incorporation of more "what-if assessments" of events, without known probability 
+and timing of occurrence, might be useful to determine impact of climate change and 
+required mitigating actions. Due to their intrinsic uncertainties, such specific and 
+limited scenarios may be as useful as long-term quantitative assessments. Qualitative 
+assessments in combination with suitable "what if" analyses can be more useful in 
+terms of communication and business strategy than overparameterized theoretical 
+scenarios. For additional co ntext and to avoid repeating comments, please see the 
+response from Insurance Europe to the Application Paper and the EIOPA Opinion on 
+the Use of Climate Change Scenarios in ORSA.  
+353. acli U.S.A.  No  While we support the use of ORSA as a tool for documenting an insurer's exposure to 
+climate risk, we note that the time frame under which climate risk may unfold extends 
+far beyond that for a 3-5 year business plan typically covered by the ORSA. We 
+believe it is important to recognize this tension. Fu rther, we believe it is also important 
+to recognize long-term assessments are likely to be highly speculative, given the 
+inherent uncertainty of climate risk, which will be highly impacted by the degree of 
+national and societal transition efforts, technological developments, etc. Flexibility 
+should be given to allow a qualitative analysis in light of these inherent uncertainties 
+and to support prudent management of resources, taking into account that risks will 
+manifest differently for the life and non-life sectors. Finally, the language in Paragraph 
+62 is prescriptive, i.e.: "This process SHOULD incorporate an assessment of physical, 
+transition and liability risks." To accommodate all jurisdictions, we would suggest that 
+paragraph 62 be amended to read as follows: 
+As part of the ORSA, the supervisor may ask the insurer to perform a continuity 
+analysis to assess its ability to manage its risks, meet its capital requirements or 
+obtain a group-level perspective on risk and capital.  
+Addressed time frame in 
+paragraph 62.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Added materiality language 
+to address comment. 
+Q90 Comment on section 5.2.1 Stress and scenario testing of climate -related risks 
+354. IAA Internati
+onal 
+No  The examples given in this section are illustrative and useful. This could b e used as 
+background for the supervisor's expectation of insurers' ORSA -reports. As climate risk 
+will affect both the liability and asset sides of the balance sheet, this section could be 
+This Application Paper is 
+structured to map the ICPs, 
+hence the ORSA section
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 115 of 154 
+ 
+split out as a separate chapter. This could be a new chapter 7, afte r the description of 
+underwriting and investment risks. For entities regulated by Solvency II, the ORSA 
+process and report has become a very important part of the insurers work in 
+describing the risk situation. The capital situation is shown under different stress 
+scenarios giving the Board valuable insight.  
+should fall under this 
+section. 
+356. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  We support the idea of stress testing for comparability purposes. The European stress 
+testing exercise may eventually become a better tool to incorporate a forward-looking 
+approach based on standardized scenarios, provided its design and the calibration of 
+the scenarios are appropriate. 
+Noted 
+Q91 Comment on paragraph 62  
+357. ABIR Bermuda No  ABIR believes that stress and scenario analysis should be included in the ORSA only 
+if the insurer considers climate risks as material. If climate risks are not material, the 
+insurer should only be required to provide support for its assessment of the risk as 
+immaterial. 
+Added language in 
+response to comment 363. 
+358. 
+Insurance 
+Europe 
+Europe No  While a forward-looking perspective with regard to sustainability risks is useful, 
+insurers should be able to decide what is the right instrument to capture climate -
+change risks over time, in line with their specific business profile. While the paper 
+acknowledges the benefits of stress -testing and scenario analysis, it should also 
+acknowledge their limitations. There is a risk that these analyses result in ill-informed 
+market signals. Specifically, the paper should highlight that:  
+- The results of climate-scenario analyses might not be fit for the solvency assessment 
+because there are many uncertainties relating to cl imate change itself, its impact on 
+the environment and its complex interactions with economic and social systems.  
+- A forward-looking perspective can be useful for strategy decisions, but stress -testing 
+of future physical risks may not always be operationally necessary. Continued and 
+intensified qualitative or semi -quantitative scenario analysis might be more useful and 
+provide better guidance, also given that physical risks are usually underwritten on an 
+annual basis. Insurers can also apply adjusted pric ing and choose different portfolio 
+management options.  
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 116 of 154 
+ 
+ 
+While Insurance Europe does not disagree, the first sentence may be inaccurate 
+where it describes the requirement of continuity analysis as it combines elements of 
+both ICP standard 16.14 and guidance under it.  
+ 
+In the same vein, the second sentence is misleading as it seems to disregard the 
+optionality of scenario analysis and stress -testing under ICP 16. With regard to 
+proportionality, it should be possible for small insurers with simple risk profiles not to 
+prepare scenario analyses at all. Insurance Europe proposes the following 
+amendment:  
+"when identified as material by the insurer, this analysis should include the 
+identification and assessment of the direct and indirect impact of climate -related risks, 
+where relevant including as part of the scenario analysis and (reverse) stress -testing 
+process." 
+ 
+With respect to the last bullet point on liability risks, it should be noted that general 
+exclusions are considered as a last resort solution.  
+ 
+ 
+ 
+ 
+Scenario analysis and 
+stress testing are not 
+optional under ICP 16, as 
+these are tools used in 
+conducting continuity 
+analysis under ICP 16.14. 
+ 
+ 
+ 
+ 
+ 
+Amended language 
+359. GFIA Global No  Climate change scenario analysis should be included in the ORSA only if the insurer 
+considers climate risks material. It is key that scenarios remain relevant for each 
+company's risk profile. Undertakings need to have full flexibility to reflect differences in 
+time horizons and company specificities (the me asurement and quantification of these 
+risks is necessary only when these effects are financially material for the insurer, 
+which depends on their company-specific strategy). The main aim of the ORSA is to 
+reflect the company's own risk analysis, so being o verly prescriptive goes against its 
+very essence.  
+ 
+Supervisors could provide voluntary guidance on what the ORSA should include but 
+leave the final decision to companies. GFIA suggests changing the wording of the 
+sentence "[Supervisors could provide voluntary guidance to help insurers to better] 
+incorporate an assessment of physical, transition and liability risks".  
+ 
+In addition, while the paper acknowledges the benefit of scenario analysis, it should 
+See response to 358
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 117 of 154 
+ 
+also acknowledge its limitations. Specifically, the paper should highlight that the 
+results of climate scenario analyses are not fit for the solvency assessment because 
+there are many uncertainties relating to climate change itself, its impact on the 
+environment and its complex interactions with economic and s ocial systems. There is 
+a risk that climate scenario analyses result in ill -informed market signals.  
+360. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  Agree. To measure and assess transition risks in a standardized, consiste nt way, 
+insurers could use absolute financed emissions. Using this metric provides not only a 
+way to measure current risk, but also a fundamental step in scenario analysis to 
+determine the effect of future transition risks such as carbon taxes, stricter 
+environmental regulations, and other policies with the goal of moving society to a low -
+carbon economy. 
+Noted 
+362. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  Care should be taken with regard to stress tests, as they may not be appropriate for all 
+climate change related risks. Not recognizing that in this context stress tests are used 
+in a different way, means that the interpretation of outcomes may be misleading. In our 
+view, where agreed methodologies exist, stress testing could be a useful tool in 
+understanding the potential impacts of known, quantifiable short -term climate -related 
+risks. In considering the outcomes, attention must be given to the degree of 
+uncertainty underpinning the scenario parameters and the role risk mitigation could 
+play in managing exposures. For example, for physical risks - in particular qualitative - 
+scenario analysis could lead to more useful outcomes than stress testing due to the 
+uncertainties over long time -horizons. In addition, most physical risks are underwritten 
+annually and therefore general re/insurers can continually adjust their pricing, and 
+portfolio management. We do recognize though repricing may affect affordability and 
+availability of cover (see recent EIOPA discussion paper on this topic).  
+ 
+In addition to the above, we find this paragraph is overly prescriptive and suggest the 
+following rewording "As part of the ORSA, an insurer should perform a continuity 
+analysis to assess its ability to manage its risks, meet its capital requirements or 
+obtain a group-level perspective on risk and capital".  
+Added language to address 
+comment.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 118 of 154 
+ 
+363. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  In performing continuity analysis, insurers are required to include the direct and 
+indirect impact of climate-related risks in the scenario analysis and (reverse) stress 
+testing process, when risks are identified as material. However, there may be other 
+approaches besides scenario analysis and (reverse) stress testing in responding to 
+climate-related risks. Therefore, in order to make it cle ar that scenario analysis and 
+(reverse) stress testing are examples of the possible approaches, we propose revising 
+as follows: 
+ 
+"When material, this analysis should include the identification and assessment of the 
+direct and indirect impact of climate -related risks. For instance, including as part of the 
+scenario analysis and (reverse) stress testing process".  
+ 
+The description of the "claims -made policies" seems abrupt. While only claims -made 
+policies are mentioned in this paragraph, the same could be said  regarding the 
+occurrence-based policies, as claim payment in both policies require "accidental 
+events insured" defined in the terms and conditions of policies to occur during the 
+duration of the insurance coverage, and explanation for only mentioning clai ms-made 
+policies is not provided. Moreover, regarding the conclusion that "Insurers offering 
+claims-made policies should consider appropriate exclusions and/or limits," rationale 
+behind this conclusion is not clear. Therefore, we believe the following seco nd 
+sentence should be deleted: 
+ 
+"Insurers offering claims -made policies should have an understanding of the potential 
+impact on their liability risks as a result of increasing pressure on Boards to manage 
+their companies in a responsible manner, especially  as it relates to the environment, 
+and should consider appropriate exclusions and/or limits".  
+See response to comment 
+358. 
+365. acli U.S.A.  No  the language in Paragraph 62 is prescriptive, i.e.: "This process SHOULD incorporate 
+an assessment of physical , transition and liability risks." To accommodate all 
+jurisdictions, we suggest that paragraph 62 be amended to read as follows:  
+"As part of the ORSA, the supervisor may ask the insurer to perform a continuity 
+analysis to assess its ability to manage its r isks, meet its capital requirements or 
+obtain a group-level perspective on risk and capital."  
+Proposed language to 
+address
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 119 of 154 
+ 
+366. 
+Lloyd's of 
+London 
+UK No  We agree that firms should conduct appropriate scenario analyses to inform their 
+strategic planning on climate change and that the regulators' expectations on this 
+should be proportionate. A key supervisory challenge will be ensuring an appropriate 
+level of compliance across industry, whilst at the same time allowing individual firms 
+the scope to determine scenarios most relevant to their business models. 
+Collaboration across the insurance sector would be beneficial here so that best 
+practices can be shared. 
+Noted 
+367. 
+Institute of 
+Internation
+al Finance 
+United 
+States 
+No  Given the longer-term, forward-looking focus of scenario analysis relative to stress 
+testing, we reiterate the comments raised above with respect to the need for 
+supervisory focus on climate scenario analysis. A focus on forward-looking scenario 
+analysis also reflects the longer-term focus of Paragraphs 61 and 62 of the Application 
+Paper, in particular, the statement in Paragraph 62 that an insurer is required to 
+perform a continuity analysis to assess its ability to manage its risks and meet its 
+capital requirements under a range of plausible adverse scenarios with a forward-
+looking perspective in mind. The comments that follow are focused on scenario 
+analysis, as we view scenario analysis as the better tool for assessing the potential 
+impacts of climate-related risks, but many of these comm ents apply as well to stress 
+testing. 
+ 
+With respect to the appropriate time horizon for the consideration of climate risks in 
+scenario analyses (see Paragraph 61), we believe that this is a decision best made by 
+the company's senior management based on the  activities and risk profile of the firm 
+and the types of assessments and scenarios that are the most decision -useful for the 
+board and senior management. Climate risks do manifest over longer time horizons 
+than many other risks but the decreasing reliability of results over a longer time 
+horizon should be acknowledged.  
+ 
+Supervisors should also consider that robust scenario analysis may rely on data which 
+is not currently available, such as data from counterparties. Consultation with the 
+industry on the parameters and assumptions used in scenario analysis exercises can 
+be useful in identifying data gaps and avoiding unrealistic expectations regarding the 
+results of these exercises.  
+Noted, revisions were made 
+to address comments.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 120 of 154 
+ 
+ 
+More generally, the design of scenario analyses should be industry -driven, providing 
+firms with the flexibility to develop scenarios that best reflect their business models 
+and particular risk profiles. An industry -driven approach to scenario design would help 
+to develop effective and decision-useful tests. Supervisors and supervisory colleges 
+have an important role to play in assessing the robustness of firms' analyses as well 
+as the output of scenario analysis exercises.  
+ 
+At this time, given the early stage of development of climate scenario analysis, these 
+analyses should be focused on understanding potentially material climate risks, 
+exploratory in nature, and balanced between quantitative and qualitative data and 
+observations, in order to produce reasonably reliable outputs that are decision -useful 
+and avoid creating a false sense of precision in the results. This focus would also 
+promote the efficient management of firms' resources.  
+ 
+Regular mandatory disclosure of quantitative scenario analysis results is premature at 
+present. Any call for scenarios that could potentially ca use insolvency is especially 
+premature and could lead to inappropriate supervisory action. We encourage 
+insurance supervisors to consider an iterative approach to any quantitative reporting or 
+disclosure requirements when climate risk measurement tools and  techniques are at a 
+more advanced state.  
+ 
+Importantly, climate scenario analysis is not well enough advanced to serve as a 
+foundation for decisions on prudential regulation, particularly regulatory capital 
+requirements. There are a number of important co nceptual and practical challenges 
+associated with using regulatory capital to respond to climate -related risks and other 
+tools are better suited to address these risks. In particular, firms' internal risk 
+management processes are a strong tool for managing evolving risks such as climate -
+related risks.  
+Q92 Comment on paragraph 63
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 121 of 154 
+ 
+368. ABIR Bermuda No  It's helpful to specify the underlying assumptions (e.g. which time horizon should be 
+considered, extreme, moderate or optimistic scenarios) to narrow the range of 
+possible outcomes. The examples provided seem to specify those but we encourage 
+including the need for this level of specification outside of the examples. ABIR 
+encourages supervisory cooperation to facilitate consistency and clarity.  
+Noted 
+369. 
+Insurance 
+Europe 
+Europe No  Regarding the fact that "supervisors should encourage insurers to adopt the relevant 
+models", Insurance Europe warns about standardisation and suggests putting more 
+emphasis on the relevance aspect. While standardised set of scenarios might be 
+useful guidance, there should be no requirement to include them in the ORSA, 
+especially as there are outstanding issues among experts regarding the choice of 
+scenarios and their evolution over t ime. Modelling work by regulators are welcome 
+provided such models are not mandatory and do not conflict with the own nature of the 
+ORSA. 
+Added language 
+370. GFIA Global No  GFIA warns about standardisation and suggests putting more emphasis on the 
+relevance aspect. While a standardised set of scenarios might be useful guidance, 
+there should not be a requirement to include them in the ORSA, especially as there 
+are disagreements among experts about the choice of scenarios and their evolution 
+over time. Modelling work by regulators is welcome provided such models are not 
+mandatory and do not conflict with the individual nature of the ORSA.  
+Added language 
+372. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  Although we appreciate the suggestion that supervisors shou ld encourage insurers to 
+adopt the relevant models that are pertinent to their geographic scope and nature of 
+business, we would like to highlight the complexity of translating frequency of flooding 
+events into insured losses, especially if longer time horizons are considered. Further, 
+we believe the paragraph should acknowledge that modelling efforts should focus on 
+potentially material risk exposures given the need for insurers to prudently manage 
+resources, the inherent uncertainty underpinning climate r elated risk, which may 
+impact the decision useful-ness of modelled results, and the valuable insights that 
+could be obtained through qualitative analysis and assessments.  
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 122 of 154 
+ 
+374. acli U.S.A.  No  We believe the paragraph should acknowledge that modelin g efforts should focus on 
+potentially material risk exposures to recognize the need for insurers to prudently 
+manage resources and recognize the valuable role qualitative analysis and 
+assessments can play in exploring potential impacts of emerging risks su ch as those 
+climate change may give rise to.  
+Noted 
+Q93 Comment on paragraph 64  
+376. IAA Internati
+onal 
+No  The IAA has some concern with the proposal in this paragraph, as it is not 
+proportionate to have a requirement to "clearly document" all immaterial risks. Any 
+such requirement should consider the principle of proportionality with regard to what 
+constitutes "clear documentation". 
+Climate risk is expected to 
+be a material risk for the 
+industry and should be 
+considered in ORSAs.  
+Revised the language to 
+indicate where it is deemed 
+immaterial there does not 
+need to be extensive 
+documentation. 
+377. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  In ORSA, insurers identify risks that are material to their company and describe 
+responses and assessments, etc . regarding the identified risks. Materiality of climate-
+related risk differs across companies, and therefore, we believe it is not appropriate to 
+require documentation and explanation regarding climate -related risk regardless of 
+each companies' materiality assessment. Thus, we suggest deleting paragraph 64.  
+See response to comment 
+376. 
+379. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  The suggestion to document risks that are non-material could open the door to having 
+to do the same for an extensive list  of other risks. We therefore urge the IAIS/SIF to 
+follow a risk-based approach for the documentation of climate -related risks.  
+ 
+Regarding "Transition risks": The recommendations (and therefore implicit 
+requirements) provided are typically based on "discre te" or "binary" assessments. In 
+the examples, the adduced assets either are or are not "sensitive to an energy 
+transition" or they either represent or do not represent "a non -sustainable real estate". 
+Most circumstances are much better described by a rather "continuous outcome 
+See response to comment 
+376.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 123 of 154 
+ 
+spectrum", i.e. specific assets are either sensitive to an energy transition or 
+correspond to the category of a non-sustainable real estate. However, allowing for a 
+more nuanced and differentiated assessment (instead of one that only results in "yes" 
+or "no" answers) and therefore better adapting these recommendations to real life 
+requires a "continuous" valuation methodology, which in turn would need to be based 
+on establishing a general price for carbon.  
+Q94 Comment on section 6 Investments 
+380. 
+Insurance 
+Europe 
+Europe No  Insurance Europe agrees that sustainability risks including climate -related risks should 
+be included in policies relevant for investment, provided that these risks are financially 
+relevant and material. 
+Noted 
+382. 
+Institute of 
+Internation
+al Finance 
+United 
+States 
+No  We agree that physical and transition risks could have complex and non -linear impacts 
+on insurers' investments that need to be taken into account whether the insurer inves ts 
+directly or though a third-party asset manager or investment advisor. Insurers need to 
+understand the long-term suitability of their investments as part of prudent asset -
+liability management, the ultimate purpose of which is to meet policyholder obligat ions. 
+Greater recognition of and incorporation of climate risk into financial asset prices over 
+time should serve to help to mitigate these potential investment risks.  
+Noted 
+Q95 Comment on paragraph 65  
+Q96 Comment on paragraph 66  
+383. 
+Insurance 
+Europe 
+Europe No  An insurer should identify, assess and manage climate -related risks only when these 
+risks can have material financial impacts on the insurance undertaking. The second 
+sentence should be amended to read as follows for clarification and coherence with 
+ICP 16.1: 
+"Where material, these risks must be taken into account regardless of whether the 
+insurer invests directly or through a third-party asset manager or investment advisor" 
+Added ‘where material’. 
+384. 
+General 
+Japan No  It is stated in paragraph 4, "Application Papers do not establish standards or 
+expectations," and therefore, "This section provides guidance related to supervisory 
+Amended to ‘supervisory 
+approaches’.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 124 of 154 
+ 
+Insurance 
+Associatio
+n of Japan 
+expectations…" in the third sentence should be revised to, for example, "This section  
+discusses supervisory viewpoints…". 
+Q97 Comment on paragraph 67  
+385. IAA Internati
+onal 
+No  With regard to the mention of "liquidity risk … as a result of a sudden increase in 
+claims as a result of a natural catastrophe" the IAA notes that a sudden increase in 
+claims is not the same as a sudden increase in cash outflow, although this viewpoint 
+depends on how "sudden" is defined. In general, the larger the catastrophe the slower 
+the cash payout, so for large events the relevant outflow occurs over many quarters or 
+even years. As noted in the IAA response to Q19, climate risk is not likely to materially 
+affect the existing liquidity risk sufficiently to warrant it being called out specifically in 
+this context. 
+Disagree, c limate change 
+could potentially have 
+impacts on liquidity risks for 
+some types of risk.  
+Amended language from 
+‘natural catastrophe and 
+pandemic’ to ‘natural 
+hazard’. 
+ 
+386. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  Beyond catastrophe risk, we are not aware of evidence that there is a clear link 
+between liquidity risk and climate risk. The example in paragraph 67 appears to 
+presume that pandemic risk is linked to climate risk, which is speculative. In addition, 
+the example provided seems to equate catastroph e risk to climate change risk, which 
+is not necessarily the case.  
+See response to comment 
+385. 
+ 
+387. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  It is unclear what "This" at the beginning of the second sentence refers to. Judging 
+from the rest of the sentence, we understand "this" refers to transition risk, and if that 
+is the case, it should be revised as such.  
+Added language to clarify. 
+388. acli U.S.A.  No  This paragraph seems to suggest that climate change contributes to pandemics, and 
+that pandemics have severe liquidity impacts. These links have not been established 
+and we therefore suggest they be removed from the application paper or reference to 
+definitive scientific support be added or the language be otherwise tempered.  
+See response to comment 
+385.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 125 of 154 
+ 
+Q98 Comment on paragraph 68  
+389. IAA Internati
+onal 
+No  The last part of this paragraph says that it is "… always prudentially relevant to enquire 
+… " about the impact of climate change on an insurer's investments. This statement 
+needs some qualification. For example, an investment portfolio of only investment 
+grade bonds of short duration is highly unlikely to be materially impacted by climate 
+change. The IAA suggests instead guiding supervisors as to what would make such 
+an impact most likely, and therefore most relevant to their oversight and review. (This 
+is likely to be largely a function of the duration of such investments and their 
+concentration in certain industry sectors.)  
+Amended language to 
+qualify language, but 
+sentence reads “also” 
+instead of “always”. 
+390. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  Prudential regulatory frameworks should be risk based to avoid creating inappropriate 
+incentives/disincentives (e.g. to invest in certain assets over others absent a risk -
+based rationale). In addition, supervisors should consider the extent to which climate 
+related risks are already factored into investments through credit ratings and/or market 
+pricing, before any supervisory actions are taken to avoid potential double counting 
+such risk factors. 
+Noted 
+Q99 Comment on section 6.1 Asset liability management  
+391. GFIA Global No  GFIA highlights that diversification is a key risk management strategy for dealing with 
+any kind of risk. A well-diversified portfolio with different kinds of assets in  terms of 
+geography, sector and other considerations will, on average, have a lower risk than 
+concentrated portfolios. Any part of the portfolio that has a higher degree of 
+concentration, eg sovereign bonds or real estate, may require a more in -depth risk 
+analysis. A global investment strategy is the best and most efficient way to support the 
+sustainability transition and deal with climate -related risks.  
+ 
+In addition, ALM within insurers is essentially a market interest rate risk management 
+issue. 
+ 
+GFIA would therefore suggest a more cautious approach in this sub -section; 
+encouraging insurers to take action rather than prescribing it.  
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 126 of 154 
+ 
+Q100 Comment on paragraph 69  
+392. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  It is stated that, "Climate change can negatively affect the matching of assets and 
+liabilities", However, if there is such anticipation, we believe it is not due to incongruity 
+of interest rate matching, but rather is due to widened credit spreads or increased 
+default of credit risk assets embedded in ALM. If so, it should be sufficient as long as 
+climate-related components are considered in credit risk management regarding 
+assets, not necessarily in the context of ALM. Therefore, we believe the description of 
+ALM (paragraph 69-71) should be removed from this AP.  
+Disagree with comment.  
+Higher defaults do create 
+ALM issues.  
+Q101 Comment on paragraph 70  
+393. 
+Insurance 
+Europe 
+Europe No  Insurance Europe agrees that asset/liability matching is a key factor to consider in 
+investing. In this respect, it notes that the concept of the materiality of transition risk on 
+longer-term bonds is not sufficiently elaborated and therefore invites the IAIS to better 
+elaborate on this concept, taking into account other transmission factors and mitigation 
+actions that the insurer might take to minimise such risks.  
+ 
+In addition, Insurance Europe believes that diversification is a key risk -management 
+strategy for dealing with any kind of risk. A well-diversified portfolio with different kinds 
+of assets in terms of geography, sector and other considerations will, on average, 
+have a lower risk than concentrated portfolios. Any part of the portfolio that has a 
+higher degree of concentration, eg sovereign bonds or real estate, may require a more 
+in-depth risk analysis. A global investment strategy is the best and most efficient way 
+to support the sustainability transition and deal with climate -related risks. 
+Noted 
+ 
+ 
+ 
+ 
+ 
+ 
+This might be difficult for 
+smaller firms and 
+diversification may help 
+mitigate the risk, but it does 
+not necessarily eliminate the 
+risk on ALM. 
+394. GFIA Global No  GFIA believes that the concept of the materiality of transition risk on longer -term 
+bonds is not sufficiently elaborated and therefore invites the IAIS to better elaborate on 
+this concept, taking into account other transmission factors and mitigation actions that 
+the insurer might take to minimise such risks.  
+See response to comment 
+393. 
+395. IAA Internati
+onal 
+No  The statement that "many insurers use longer-term bonds to match the lia bility cash 
+flows" is overly broad as it lacks context. It is probably true for insurers of long duration 
+products, but likely to be far less true for non-life insurers with an ALM policy that tries 
+Agreed – clarified language.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 127 of 154 
+ 
+to match asset and liability portfolio durations.  
+ 
+The comment on correlation could be expanded. For example, the correlation between 
+different asset classes is important but there is also a correlation between asset and 
+liabilities when holding both a bond of an enterprise and insuring that enterprise for 
+climate risks.  
+396. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  We agree that insurers should consider the potential for climate risk effects on their 
+investment portfolio as related to asset -liability management, but do not see how 
+correlation of asset classes is directly related to ALM. As part of sound management, it 
+is important that insurers avoid over concentration in sectors individual firms or asset 
+classes. We suggest deleting the last sentence or alternatively, request that  the IAIS 
+clearly explain what it is intended to address and the connection to potential climate 
+related impacts to ALM.  
+Disagree with comment – if 
+an insurer has a high 
+correlation within the 
+portfolio, in adverse 
+circumstances they may not 
+be able to meet their liability 
+cash flows. 
+397. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  It is stated that, "Climate change can negatively affect the matching of assets and 
+liabilities", However, if there is such anticipation, we believe it is not due to inco ngruity 
+of interest rate matching, but rather is due to widened credit spreads or increased 
+default of credit risk assets embedded in ALM. If so, it should be sufficient as long as 
+climate-related components are considered in credit risk management regarding 
+assets, not necessarily in the context of ALM. Therefore, we believe the description of 
+ALM (paragraph 69-71) should be removed from this AP.  
+Disagree with comment; this 
+is not in line with our 
+understanding. 
+398. acli U.S.A.  No  We agree that insurers should consider the potential for climate risk effects on the 
+investment portfolio as it relates to asset -liability management (ALM), but do not see 
+how correlation of asset classes is directly related to ALM. We suggest deleting the 
+last sentence or, alternatively, request that the IAIS clearly e xplain what it is intended 
+to address and the connection of potential climate -related impacts to ALM.  
+See response to comment 
+396. 
+399. 
+Institute of 
+Internation
+al Finance 
+United 
+States 
+No  With regard to the last sentence in Paragraph 70, we request that the IAIS further 
+clarify the impacts of climate risk on asset -liability management and, in particular, how 
+the correlation of asset classes is directly related to asset -liability management. 
+ 
+See response to comment 
+396.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 128 of 154 
+ 
+As mentioned in our comments at Section 2, Role of the Supervisor, while the 
+insurance sector can contribute to the shift towards lower-carbon economies, the 
+development of enduring, sustainable responses to climate change will require and be 
+driven by the degree to which broader national and societal efforts to transi tion are 
+pursued and effective. While insurers may consider the stewardship aspect of climate 
+change as one of a broad range of factors when considering strategic decisions, the 
+supervision of climate -related risks should be risk -based and remain focused on 
+policyholder protection, the promotion of fair, safe and stable insurance markets and 
+financial stability. Section 6 should also acknowledge that the promotion of strategies 
+to avoid certain assets in favor of others could create or exacerbate financial risks by 
+incenting large shift in portfolio composition across the industry or by eliminating 
+sources of investment and financing that will be needed to facilitate the transition to a 
+lower-carbon economy.  
+ 
+While capital and valuation issues are not within the scope of the Application Paper, 
+we understand that the IAIS is discussing these issues, as are a number of 
+supervisors and standard setters. As a general matter, supervisors' use of prudential 
+tools should remain risk-based. Climate or environmental regulatory capital 
+adjustments or other regulatory efforts to re-direct insurers' away from certain types of 
+assets and towards "green' assets - an investment class that is still ill-defined -- could 
+potentially undermine the credibility and efficacy of ris k-based prudential instruments. 
+These efforts could also generate unintended effects that could actually hamper the 
+transition to a low-carbon economy, including by producing destabilizing asset bubbles 
+in "green' assets. To the extent that rating agencies  or market prices already factor in 
+climate risk, climate-based prudential requirements could introduce a double counting 
+effect. 
+ 
+ 
+Noted 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Noted 
+Q102 Comment on paragraph 71  
+400. IAA Internati
+onal 
+No  There is a minor typo in the first sentence - this should be "… insurers' investment 
+portfolios…" 
+Changed made.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 129 of 154 
+ 
+401. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  It is stated that, "Climate change can negatively affect the matching of assets and 
+liabilities", However, if there is such anticipation, we believe it is not due to incongruity 
+of interest rate matching, but rather is due to widened credit spreads or increased 
+default of credit risk assets embedded in ALM. If so, it should be sufficient as long as 
+climate-related components are considered in credit risk management regarding 
+assets, not necessarily in the context of ALM. Therefore, we believe the description of 
+ALM (paragraph 69-71) should be removed from this AP.  
+See response to comment 
+397. 
+Q103 Comment on section 6.2 Risk assessment of investments 
+Q104 Comment on paragraph 72  
+402. GFIA Global No  As previously stated, access to data has been flagged by many insurers as one of the 
+barriers that exists in terms of conducting scenario analysis for th eir investment 
+portfolios.  
+Data issues have been 
+acknowledged in other 
+sections. 
+Q105 Comment on paragraph 73  
+403. GFIA Global No  The paragraph suggests that insurers are responsible for rating methodologies. 
+However, such elements are rather subject t o the disclosure policies of external rating 
+agencies. Insurers cannot control such methodologies. GFIA suggests keeping the 
+first sentence and deleting the rest of the paragraph.  
+Disagree; the idea is that 
+insurers should understand 
+how the ratings are 
+determined. 
+404. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  With reference to "…ensure that the rating methodology is sufficiently transparent…" 
+and "…consider the extent to which climate risk has been factored into the rating…", 
+these factors are not controlled by insurers, but are rather subject to the disclosure 
+policies of external rating agencies. Thus, the following sentences should be deleted.  
+ 
+"However, insurers should ensure that the rating methodology is sufficiently 
+transparent to allow them to understand the ratings provided for their investments. 
+Insurers should also consider the extent to which climate risk has been factored into 
+the rating as well as the time horizon of the assessment."  
+See response to comment 
+403 
+Q106 Comment on section 6.3 Stewardship
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 130 of 154 
+ 
+405. GFIA Global No  Stewardship seems a rather vague term and the discussion of it in a separate section 
+might wrongly imply that it is an issue or goal that is in addition to other climate -related 
+issues and goals. For this reason, GFIA suggests moving paragraph 74 to 76 under 
+Box 4 and considering also other investment strategies, especially when more relevant 
+from a prudential perspective. A good description of common practices, also used by 
+insurers to include sustainability risks in  insurers' investment decisions, is provided by 
+Eurosif (a European association for the promotion and advancement of sustainable 
+and responsible investment across Europe) and includes best -in-class investment 
+selection, exclusion of holdings, norms-based screening, engagement and voting on 
+sustainability matters, etc.  
+ 
+Should this section be kept at the same level as other sections, then the paper should 
+also acknowledge the limitation of "stewardship": the impact of investment decisions 
+on sustainability factors (eg via engagement) can be very costly and its effectiveness 
+can be questionable depending on the types of portfolio (eg equity versus bonds) and 
+the size of the investing undertaking. 
+ 
+It should be noted that insurers face challenges in measuring t he impact of investment 
+decisions on sustainability factors (eg via engagement). At this stage, the financial 
+sector does not have a commonly accepted approach to how to capture the effects of 
+investments on sustainability factors. In addition, some financ ial players do not have 
+the resources to adequately build up the necessary tools (for small insurers 
+coordination with other investors may be the only viable means of achieving effective 
+stewardship). 
+ 
+When promoting engagement strategies and stewardship a ctivities, it should also be 
+avoided that stewardship serves as implicit investment restrictions and limitations, 
+which would conflict with insurers' freedom of investment and potentially undermine 
+solvency or competition. 
+Revised title of section and 
+added a new paragraph. 
+406. The 
+Geneva 
+Internati
+onal 
+No  Transitioning to a low-carbon economy needs to be well planned and to follow a 
+predictable path with alignment across the layers of government and the private 
+sector. Despite growing waves of climate change related policies and regulations, 
+See response to comment 
+405.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 131 of 154 
+ 
+Associatio
+n 
+national pathways for building climate resilience and transitioning to a low -carbon 
+economy remain a work in progress. While the insurance sector can contribute to the 
+shift, the ability to make meaningful progress on combating climate change will first 
+and foremost be driven by the degree to which broader national and societal efforts to 
+transition to lower carbon economies are pursued and effective. To achieve scale, the 
+key barriers, opportunities and solutions need to be identified through more 
+coordinated dialogue, engagement, and action among key stakeholders - including the 
+insurance sector. As a global leader in risk management, the insurance industry is 
+already contributing significantly to building resilient societies through its underwriting 
+business, investment strategies and active reduction of its own carbon footprint.  
+In the context of the Application Paper, we note that while insurers may consider the 
+stewardship aspect of climate change as one of a broad range of factors when making 
+strategic decisions, supervision of how climate change may affect the sector should be 
+risk-based and remain within the remit of protecting policyholder and contributing to 
+financial stability.  
+407. acli U.S.A.  No  The section on stewardship seems misaligned with the scope of the paper and primary 
+objectives of insurance supervisors and the IAIS. Further, while the insurance sector 
+can contribute to the shift toward lower carbon econ omies, meaningful progress on 
+combating climate change will require and be driven by the degree to which broader 
+national and societal efforts to transition to lower carbon economies are pursued and 
+effective. While insurers may consider the stewardship as pect of climate change as 
+one of a broad range of factors when considering strategic decisions, supervision of 
+how climate change may impact the sector should be risk -based and remain within the 
+remit of protecting policyholders, promoting fair, safe and s table insurance markets, 
+and contributing to financial stability. The application paper should also acknowledge 
+the potential for the promotion of certain strategies that fall in the realm of 
+"stewardship" to potentially create or exacerbate risks such as promoting or 
+accelerating asset sales en masse and eliminating financing that will be needed to 
+support a smooth transition to lower carbon economies.  
+See response to comment 
+405. 
+Q107 Comment on paragraph 74
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 132 of 154 
+ 
+408. 
+Insurance 
+Europe 
+Europe No  Insurance Europe recognises the importance of stewardship and appreciates the IAIS 
+acknowledgment of the engagement efforts of insurers to encourage the sustainability 
+transition.  
+ 
+Insurance Europe notes that stewardship is only one of the strategies used by 
+insurers. For this reason, it suggests moving paragraph 74 to 76 under Box 4 and 
+considering also other investment strategies, especially when more relevant from the 
+prudential angle. A good description of common practices, also used by insurers to 
+include sustainability risks in insurers' investment decisions, is provided by Eurosif (a 
+European association for the promotion and advancement of sustainable and 
+responsible investment across Europe) and includes best -in-class investment 
+selection, exclusion of holdings, norms-based screening, engagement and voting on 
+sustainability matters, etc.  
+See response to comment 
+405 – decided to keep in 
+this section. 
+Q108 Comment on paragraph 75  
+409. 
+Insurance 
+Europe 
+Europe No  Insurance Europe notes that stewardship is a broader investment strategy. Its 
+objective goes beyond the management of climate -related risks to push investee 
+companies to move their business towards a more sustainable approach in general. 
+When considered from a prudential point of view, exclusion strategi es can be more 
+effective to manage climate-related risks.  
+ 
+Should this section be kept at the same level as other sections such as supervisory 
+guidance, then the paper should also acknowledge the limitation of "stewardship": the 
+impact of investment decisions on sustainability factors (eg via engagement) can be 
+very costly and its effectiveness can be questionable depending on the types of 
+portfolio (eg equity versus bonds) and the size of the investing undertaking.  
+ 
+It should be noted that insurers face challenges in measuring the impact of investment 
+decisions on sustainability factors (eg via engagement). At this stage, the financial 
+sector does not have a commonly accepted approach to how to capture the effects of 
+investments on sustainability factors. In addition, some financial players do not have 
+the resources to adequately build up the necessary tools (for small undertaking 
+See response to comment 
+405.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 133 of 154 
+ 
+coordination with other investors is the only viable means of achieving effective 
+stewardship). 
+ 
+When promoting engagement strate gies and stewardship activities, it should also be 
+avoided that stewardship serves as implicit investment restrictions and limitations, 
+which would conflict with insurers' freedom of investment. 
+410. 
+Liberty 
+Mutual 
+Insurance 
+Group 
+USA No  We do not believe the prudential supervisory authority over insurers' management of 
+sustainability risks should be used by insurance supervisors to achieve public policy 
+objectives that are more properly the province of other policymakers.  
+See response to comment 
+405. 
+Q109 Comment on paragraph 76  
+Q110 Comment on section 7 Public Disclosure 
+411. 
+Insurance 
+Europe 
+Europe No  Increased transparency on sustainability, including climate -related information, is 
+welcome, provided that it avoids information duplication and overload for businesses 
+and consumers. It is important that: 
+- Insurers have flexibility in disclosures while respecting consistency and 
+comparability. 
+- Insurers have access to good quality sustainability -related information at asset level 
+based on a globally coordinated approach to general company ESG data reporting.  
+ 
+The industry recognises that climate -related disclosure is important for a number of 
+reasons (eg to improve awareness of the effect of climate change, understanding of 
+climate-change risks, market discipline, etc). In fact, most European insurers already 
+publish a dedicated climate report or provide some form of climate -related risk 
+disclosures, eg following the TCFD recommendations.  
+ 
+Insurance Europe thus welcomes t he IAIS facilitating a coordinated approach between 
+jurisdictions. Coherent policymaking between jurisdictions will avoid duplicative or 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 134 of 154 
+ 
+contradictory standards, while also reducing requests for information. 
+ 
+The European industry is of the opinion that th e convergence of potential requirements 
+to disclose information on climate-related risks, from both financial and non-financial 
+perspectives, should be promoted through a global approach and international 
+coordination given the cross -border nature of the risks. Sustainability disclosures 
+should be strengthened for all sectors as well as for public entities, and they should be 
+publicly available. 
+412. GFIA Global No  It is critical that any disclosure mandate avoids information duplication and overload 
+for businesses and consumers and respects the principles of confidentiality, 
+proportionality and materiality. It is important that:  
+ 
+- Insurers have flexibility in disclosures while respecting consistency and 
+comparability; and 
+ 
+- Insurers have access to good quality sustainability -related information at the asset 
+level based on a globally coordinated approach to general company ESG data 
+reporting. 
+ 
+GFIA thus welcomes the IAIS facilitating a coordinated approach between jurisdictions 
+while also highlighting that a voluntary step -by-step method to promote disclosure is 
+needed to avoid a one-size-fits-all approach. Sharing best practices and promoting 
+transparency between jurisdictions will avoid duplicative or contradictory standards, 
+while also reducing requests for information. 
+ 
+We thus recommend replacing every "should" with "may" or "could' in this section.  
+Noted – the Application 
+Paper does not introduce 
+new requirements, therefore 
+there is no need to change 
+‘should’ to ‘may’ throughout 
+the section. 
+413. 
+Partnershi
+p for 
+Carbon 
+Global No  What is not measured is not managed. Five years after the Paris Climate Agreement 
+was reached in 2015, the largest market actors have still invested more than USD 
+$2.7 trillion into the fossil fuel sector with no downward trend and no assessment of 
+the greenhouse gas (GHG) impact of that finance. The scale of the climate challenge 
+is massive and the role of the financial industry in accelerating the transition to a net -
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 135 of 154 
+ 
+Accounting 
+Financials 
+zero emissions economy is essential. This status quo will never lead to Paris 
+alignment, highlighting the importance of GHG accounting, especially in the financial 
+industry. 
+ 
+The European Commission rightly underlines that the ongoing COVID-19 outbreak 
+shows the critical need to strengthen the sustainability and resilience of our societies 
+and the ways in which our economies function. The Sustainable Finance Action Plan, 
+and subsequently the Renewed Sustainable Finance Strategy, translate these 
+European ambitions into a political agenda for the EU's legislative framework for the 
+financial sector, and aim at re-orienting capital flows, from harmful towards sustainable 
+activities. 
+ 
+However, for well-informed finance decisions, concise and relevant information 
+regarding both financial performance and impact on sustainable development must be 
+available to all. The current Accounting framework, and reporting requirements for 
+financial undertakings, lack consistent information that would serve balanced finance 
+decisions. At a minimum, the GHG emissions financed by financial undertakings 
+should be known, in order to enable (science based) targets and tracking progress 
+towards a zero-carbon economy. 
+ 
+International accounting standards and reporting rules as determinants for longer term 
+assessments  of financial soundness ignore subsidies for harmful energy-sources and 
+negative impact of economic activities on people and planet; in general, their focus on 
+shareholder value implies neglecting many aspects of life that matter to broader 
+groups of corporates' stakeholders. Since financial disclosure requirements do not 
+include mandatory sustainable impact reporting, stakeholders cannot assess whether 
+a company contributes to or harms the agreed Sustainable Development Goals, or the 
+European Union's susta inable ambitions for that matter. The re-allocation of money 
+towards sustainable causes is hampered by incomplete and non -mandatory reporting 
+requirements for companies. 
+414. IAA Internati
+onal 
+No  The introductory paragraph for this section acknowledges concerns with confidentiality 
+and proprietary information, yet many of the following paragraphs suggest disclosures 
+Disclosures can be at a high 
+enough level to avoid
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 136 of 154 
+ 
+inconsistent with those concerns (e.g., in paragraph 85, which includes disclosure of 
+climate-related products under development). The IAA suggests that the rest of this 
+section needs to be reviewed to be more consistent with the concerns raised in the 
+introductory paragraph.  
+ 
+This section also appears to be very prescriptive, with little mention of proportionality.  
+ 
+Public disclosure of climate risk is important. The examples given from other 
+stakeholders are relevant and must be aligned with local requirements. It is important 
+that the insurance sector manages to describe climate risks in a meaningful and 
+similar manner to its customers and other stakeholders.  
+disclosing proprietary 
+information. 
+ 
+ 
+ 
+ 
+Proportionality is an 
+overarching principle of the 
+ICPs and it is not necessary 
+to mention in every 
+instance. 
+415. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  Climate modelling is an evolving discipline and hence the ability to monitor the impact 
+of climate risk on financial performance, investment risk and overall solvency remains 
+a work in process. In light of this, it is important that emp hasis be given to qualitative 
+analyses - which is in line with the TCFD recommendations, particularly for long -term 
+exposures, and that firms are given flexibility in designing adequate and decision 
+useful scenarios and decide on an appropriate time horizon for their assessment. 
+Additionally, we find this section to be more prescriptive than what one would normally 
+expect from an application paper - for example the sentence "insurers should disclose 
+the metrics used to assess climate -related risks […]" in paragraph 82. In addition, 
+reporting on climate-related risks should be consistent with reporting on other risk 
+exposures, and subject to materiality.  
+Added language to address 
+comment 
+416. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  Regarding disclosure, although TCFD aligned disclosures are developing, they are still 
+at an early stage. In particular, there are issues such as insufficient data and the lack 
+of a quantitative method for disclosing risk -related information, and the insurance 
+sector is currently exploring various ways of moving forward. In such circumstances, it 
+is important to start with voluntary disclosures, share practices, and promote 
+disclosure in a step-by-step approach. 
+ 
+While paragraph 4 states "Application Papers do not establis h standards," there are 
+many prescriptive descriptions in this section that seem to specify in detail what 
+Noted.  Current language 
+states that supervisors ‘may’ 
+use TCFD.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 137 of 154 
+ 
+insurers should disclose. It should be noted that mandatory disclosures without 
+established methods may lead to a one-size-fits-all approach, such as  simply placing 
+checkmarks on check sheets and that such approach may not promote understanding 
+and actions regarding climate -related risks and opportunities among insurers. 
+ 
+Therefore, we request every wording of "should" be replaced with "may" or "could" . 
+418. Zurich 
+Insurance 
+Company 
+Ltd. 
+Switzerla
+nd 
+No  In terms of disclosure especially in the area of financial reporting we think we should 
+emphasize that there needs to be agreement on the  basic elements to be disclosed. 
+More disclosure does not help much if there is a lack of clarity and comparability. For a 
+widely supportive and specific position on TCFD, kindly see comments by our trade 
+associations.  
+Noted 
+419. acli U.S.A.  No  In general, we do not believe that it is appropriate for the IAIS to make such granular 
+recommendations for disclosures, as disclosure regimes will naturally be tailored to 
+the nature of the local insurance marketplace and regulatory regime.  
+Disagree, the paper is 
+providing examples. 
+420. 
+Institute of 
+Internation
+al Finance 
+United 
+States 
+No  We encourage a more proportionate and less prescriptive approach to public 
+disclosure at this point in time, with an emphasis on voluntary disclosure. Market -led 
+responses to the need for public disclosure should inform supervisory expectations or 
+best practices on public disclosure. In designing any disclosure guidance, due 
+recognition should be given to the requirements arising from the rules of listing 
+authorities.  
+ 
+Guidance on disclosure should be proportionate and focused on the financial risks that 
+are material and decision-relevant for the insurer, recognizing that materiality is 
+company-specific. Companies should be encouraged to highlight not only risks but 
+also opportunities that arise from the transition to a low -carbon economy.  
+ 
+Any disclosure requirements should be imposed in an iterative manner, with an initial 
+focus on qualitative measures (especially for longer-term exposures), until climate risk 
+measurement tools and techniques are at a more advanced state. A careful approach 
+to disclosure requirements would help to mitigate insurers' exposure to legal risks. As 
+Disagree, the paper is 
+providing examples.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 138 of 154 
+ 
+noted above, the disclosure of quantitative climate scenario analysis results in 
+particular is premature at present. 
+ 
+Finally, a number of companies within the financial sector and beyond voluntarily issue 
+TCFD-compliant reports. The IIF welcomes the IAIS reference to TCFD as an example 
+of developing best practice as it is important that firms consider i nternationally 
+recognized guidance where appropriate in an effort to better align disclosures.  
+421. 
+Liberty 
+Mutual 
+Insurance 
+Group 
+USA No  We encourage the global supervisory community to coalesce around a singl e 
+disclosure blueprint. This will address the risk of multiple, varying and different 
+regimes, be more easily understood and utilized across jurisdictions and sectors, and 
+yet assure adaptability and market useful information as knowledge and measures 
+related to climate risk develop over time. We also believe that equal supervisory focus 
+should be applied to the challenges that insurers may face in implementing a 
+disclosure regime. As the IAIS has recognized, climate risk is an emerging area, and 
+we anticipate that insurers will be at different stages of their climate risk journey for 
+some time. Too prescriptive an approach could produce rote or meaningless 
+disclosures. We also caution that supervisors not attempt to require or encourage 
+insurers to disclose potentially proprietary information, most of which has little to do 
+with prudential supervision. For example, these might include processes, plans and 
+strategies only tangentially related to climate risk.  
+Noted 
+Q111 Comment on paragraph 77  
+422. ABIR Bermuda No  ABIR supports the need for supervisors to carefully consider proprietary and 
+confidential information when establishing disclosure requirements 
+Noted 
+423. 
+Insurance 
+Europe 
+Europe No  Insurance Europe welcomes the clear statement on the need to pr otect proprietary 
+and confidential information. It is essential that disclosure requirements do not 
+compromise fair competition. 
+Noted 
+424. GFIA Global No  GFIA strongly supports the need to carefully take into consideration business 
+confidentiality in disclosure requirements. 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 139 of 154 
+ 
+425. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  Agree. There is evidence that companies report when legislation specifies relevant 
+disclosure requirements, e.g. GHG intensity in the UK. Yet, standards must balance  
+the need for standardization with the need to retain corporate discretion on materiality 
+of information. The COVID-crisis has shown what will happen when economic and 
+financial decisions ignore material impact on people. "Material' sustainability 
+information must be published, not only climate -related information, although the 
+climate-emergency is most urgent and triggers many other kinds of negative impact, 
+notably inequality. "Material' would be the impact on a broad set of stakeholders, 
+including the company itself, its owners and employees, clients, suppliers along the 
+value chain, plus society and the environment, such that it would change a decision if 
+the information would have been known. Financial market participants, just like 
+supervisors, are eager to see non-financial information that helps them understand the 
+material sustainability effects of a company's business model and operations.  
+Noted 
+426. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  The objectives set out in Paragraph 77 suggesting that sup ervisors should take into 
+account proprietary and confidential information that could negatively influence the 
+competitive positions of competing insurers. We would like to highlight the importance 
+of avoiding disclosure of proprietary and confidential information. In addition, all 
+disclosures should reflect proportionality and materiality.  
+Noted 
+429. acli U.S.A.  No  We suggest the addition of the following sentence:  
+Any measures on disclosure should reflect the proportionality and materiality principles  
+set out in the paper. 
+The section already 
+includes comments on 
+material risk.  Proportionality 
+is an overarching principle 
+of the ICPs and does not 
+need to be reiterated. 
+430. NAIC USA, 
+NAIC 
+No  Suggest avoiding paraphrasing of ICP 20 (this is the princi ple statement, not an 
+objective) and for additional clarity:  
+According to ICP 20 (Public Disclosure) the supervisor requires insurers to disclose 
+relevant and comprehensive information on a timely basis in order to give 
+policyholders and market participants a clear view of their business activities, risks, 
+performance and financial position. Public disclosures on emerging(ed) risks, including 
+Revised language
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 140 of 154 
+ 
+climate change, are of primary relevance to this objective. In establishing disclosure 
+requirements for climate risks, the supervisor should take into account existing 
+relevant requirements as well as proprietary and confidential information that could 
+negatively influence the competitive position of an insurer if made available to 
+competitors. 
+Q112 Comment on paragraph 78  
+431. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  Agree. "Material' would be the impact on a broad set of stakeholders, including the 
+company itself, its owners and employees, clients, suppliers along the value chain, 
+plus society and the environment, such that it would change a decision if the 
+information would have been known. 
+Noted  
+432. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  The ICP 20 Standard does not require "insurers to provide information on all material  
+risks faced by the company and its management". As we believe the description in this 
+paragraph is an arbitrary, stretched interpretation, we request the first and second 
+sentences, which refers to ICP 20, be deleted. 
+Disagree – ICP 20 requires 
+the disclosure of all relevant 
+information. If information is 
+material, it is relevant. 
+433. acli U.S.A.  No  We suggest modifying the wording of the third sentence to read:  
+ 
+The level and type of information disclosed may depend on the line of business; for 
+example, disclosures on climate-related risks on an insurer's [insurers'] investment 
+portfolio are likely to be more extensive for life insurers with long duration insurance 
+contracts and more weight should be given to qualitative analysis, while non -life 
+insurers… 
+Comment not taken - This 
+paragraph is not suggesting 
+quantitative or qualitative 
+disclosures.   
+434. 
+Liberty 
+Mutual 
+Insurance 
+Group 
+USA No  This is an example of the point we made in our response to Question 19 where the 
+Application Paper properly focuses on material climate -related risks.  
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 141 of 154 
+ 
+Q113 Comment on paragraph 79  
+435. ABIR Bermuda No  ABIR supports supervisors allowing insurers to meet public disclosure requirements 
+via existing standard general purpose financial reports versus requiring duplicative 
+disclosures for regulatory purposes.  
+Noted 
+436. 
+Insurance 
+Europe 
+Europe No  Increased transparency on climate risk is welcome, provided that it is efficient. To this 
+end, it is important that any disclosure requirements would permit insurers flexibility 
+over how they fulfil their responsibilities on climate -related public disclosures, while 
+recognising the importance of consistency and comparability of information. Flexibility 
+will allow insurers to meet the varying and evolving interests of t he audience. 
+ 
+Flexibility in disclosure is particularly relevant for communication to customers. It is 
+vital that insurers are able to communicate climate impact to their policyholders in a 
+flexible and clear manner. Overly detailed disclosure leads to lac k of interest and 
+disengagement. Therefore, disclosures to customers should be distinguished from 
+those to experts (eg regulators, investors, other relevant market experts) and be less 
+detailed and technical. 
+ 
+In addition, it is key to consider the flow of information for insurers. In fact, insurers' 
+disclosure will have to depend on information disclosed by other entities, particularly 
+invested companies and asset managers for investment-related information. The IAIS 
+should better recognise the implication s of limited data quality and availability of 
+climate-related information. The lack of quality data creates significant obstacles to the 
+preparation of consistent public disclosures by insurers. For example, this is clear with 
+investment-related information, where it is vital that insurers' disclosure requirements 
+are aligned as much as possible with asset -level disclosures from corporates and 
+public entities. 
+No changes needed – the 
+paper notes that the risk of 
+climate change assessment 
+methodologies are at the 
+early stages and disclosures 
+may be an iterative process. 
+In other sections the 
+information challenge is 
+noted. 
+437. GFIA Global No  GFIA would like to bring to supervisors' attention the fact that disclosure is also 
+important for fostering policyholders' engagement. It is therefore vital that insurers are 
+able to communicate climate impact to their policyholders in a flexible manner to 
+ensure customers are engaged. An overly rigid approach could lead to a lack of 
+See response to comment 
+436.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 142 of 154 
+ 
+interest and disengagement with disc losures. Similarly, disclosures to regulators, 
+investors and other market experts need to be flexible to reflect the different interests 
+of the audience and are likely to be much more detailed and technical than 
+engagement with customers, while respecting the principles of confidentiality, 
+materiality and proportionality. 
+ 
+In addition, it is key to consider the flow of information for insurers. In fact, insurers' 
+disclosure will have to depend on information disclosed by other entities, particularly 
+invested companies and asset managers for investment -related information. The IAIS 
+should better recognise the implications of limited data quality and availability of 
+sustainability-related information. The lack of quality data creates significant obstacles 
+to the preparation of consistent public disclosures by insurers. For example, this is 
+clear with investment-related information, where it is vital that insurers' disclosure 
+requirements are aligned as much as possible with asset -level disclosures from 
+corporates and public entities.  
+438. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  Indeed, a range of available methodologies could be used to disclose material climate 
+related impact of an insurance company's activities, bo th their underwriting activities 
+and their investment exposures.  
+ 
+For example, PCAF's Global GHG Accounting and Reporting Standard for the 
+Financial Industry: 
+- Is a harmonized approach, providing all types of FIs with the starting point required to 
+set science-based targets and align their portfolios with the Paris Climate Agreement 
+and simplifying the comparison of GHG emissions information across financials.  
+- Is open source and free to use, ensuring universal adoption across all types of 
+financial institutions globally, no matter their size or geography. 
+- Creates transparency and accountability, enabling FIs to satisfy the growing investor 
+demand for climate data while helping FIs, their investors and their supervisors to 
+monitor and manage progress to wards goals. 
+ 
+PCAF also facilitates data collection:  
+- PCAF makes use of existing climate data registers as much as possible, (notably 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 143 of 154 
+ 
+where it regards smaller debtors such as SMEs and households) and processes data 
+in a manner that serves portfolio management for all financial undertakings.  
+- PCAF identifies gaps where more effort is needed to produce relevant information.  
+- PCAF shares methodologies, data and estimates, which lowers the cost of setting up 
+internal accounting systems and simplifies the cha llenges faced by financial 
+undertakings in finding relevant information with respect to their climate impact.  
+441. acli U.S.A.  No  At this stage, given the challenges in understanding the risk and relative immaturity in 
+climate-related reporting, public disclosure should be voluntary. We recommend 
+adding the following sentence to the beginning of paragraph 79:  
+ 
+"Given the challenges in understanding the risk and the relative immaturity in climate -
+related reporting, public disclosure should be voluntary." 
+Disagree, if a risk is material 
+there should be some 
+disclosure. This Application 
+Paper is not describing how 
+the risk should be disclosed.  
+Q114 Comment on paragraph 80  
+442. ABIR Bermuda No  Where organizations already disclose in another way, suc h as TCFD, this should be 
+taken into account and allowed to be referenced or cross -referenced to avoid parallel 
+reporting requirements. 
+Agreed – paragraph 79 
+allows it. 
+443. 
+Insurance 
+Europe 
+Europe No  Insurance Europe acknowledges the relevance of voluntary disclosures based on the 
+TCFD recommendations under ICP 20 when climate risk is material. However, 
+supervisors should take into account the business -sensitivity of some KPIs contained 
+in the TCFD guidance, such as the aggregated risk exposure to weathe r-related 
+catastrophes of property business (ie annual aggregated expected losses from 
+weather-related catastrophes). Insurance Europe suggests adding the following 
+sentence to clarify this point: 
+"Supervisors should carefully assess the business -sensitivity of some Key 
+Performance Indicators contained in the TCFD guidance in order to avoid undermining 
+the competitive position of an insurer."  
+The section already 
+acknowledges the 
+consideration of proprietary 
+information. 
+444. GFIA Global No  GFIA would like to point out that the TCFD Recommendations were originally 
+developed to help investors, and other users of disclosed information, to understand 
+climate-related risks and opportunities rather than to serve supervisory objectives.  
+See response to comment 
+443.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 144 of 154 
+ 
+ 
+All in all, GFIA acknowledges that TCFD voluntary disclosure is appropriate under ICP 
+20 when the climate risk is material. Using such a framework may be beneficial to 
+allow for consistency in terms of disclosures by insurers, as well as consistency in 
+what multinational insurers would need to disclose in different jurisdictions.  
+ 
+However supervisors should consider that the resources for preparing the disclosure 
+are limited and take into account the business -sensitivity of some Key Performance 
+Indicators contained in the TCFD guidance, such as aggregated risk exposure to 
+weather-related catastrophes of property business (ie, annual aggregated expected 
+losses from weather-related catastrophes). GFIA suggests adding the following 
+sentence: "However, as stated previously, supervisors should carefully assess the 
+business-sensitivity of some Key Performance Indicators contained in the TCFD 
+guidance in order to avoid undermining the competitive position of an insurer."  
+445. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  The TCFD is a good start for disclosing climate related impact, although the TCFD 
+guidelines themselves merely focus on the financial risk resulting from climate risk, 
+while the impact of activities on climate change is as much relevant for future risks of 
+the insurer. In addition, while the TCFD provides a framework for assessing risk, it 
+does not provide guidance on how to obtain the necessary data for such assessments. 
+The latest version of the TCFD guidelines includes PCAF as an e xample of how to 
+measure and disclose absolute financed emissions, a useful metric not only for 
+assessing risk, but also for setting targets and performing scenario analysis.  
+Noted 
+446. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  When using the TCFD Framework for insurance supervisory objectives, the fact that 
+TCFD Recommendations were originally developed to help investors and other users 
+of disclosed information, to understand climate -related risks and opportunities rather 
+than to serve supervisory objectives, should be taken into consideration. Expected 
+disclosure for insurance supervisory objectives and disclosure that is useful to 
+investors may not necessarily be the same, and trivializing the latter as a result of 
+overemphasizing the former should be avoided. In addition, the fact that the resources 
+of the companies that prepare the disclosure are limited should also be considered.  
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 145 of 154 
+ 
+Q115 Comment on paragraph 81  
+Q116 Comment on section 7.1 General disclosure requirements  
+448. GFIA Global No  Promoting the convergence of non-financial reporting standards will be key to 
+facilitating the transition of all sectors while also accounting for global linkages of 
+financial markets and avoiding competitive disadvantages for globally operating 
+companies.  
+ 
+In addition, policy actions that avoid overlaps between financial and sustainability 
+reporting should be encouraged. 
+ 
+However, at this stage, as non-financial frameworks are still under development, non -
+financial disclosure should remain voluntary. In any case, any new mandate should 
+respect the principles of confidentiality, proportionality and materiality.  
+Noted 
+449. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  A lot of work and experimentation is underway as to how to assess climate -change 
+related risks. It is also important to note that there should be consideration for the fact 
+that insurers are at different places with respect to their monitoring, and hence the 
+level of information that they are in a position to disclose is varied. Further, it is 
+important to recognize the need for caution around what is disclosed in order to 
+minimize a company's exposure to potential litigation.  
+Noted 
+Q117 Comment on paragraph 82  
+450. GFIA Global No  GFIA believes that the approach taken in the paragraph is overly prescriptive for an 
+evolving issue. GFIA recommends replacing "insurers should" with "insurers may be 
+encouraged to". 
+Disagree.  Material risks 
+should be disclosed, even if 
+only qualitatively. 
+451. 
+Partnershi
+p for 
+Carbon 
+Global No  Given the initiatives going on for banks and asset managers with respect to the re -
+allocation of their funds away from harmful and towards more sustainable activities, 
+there's no reason for insurance undertakings to stay behind and continue their 
+business as before. As longer-term oriented capital market actors, and as those who 
+cover the losses of unexpected events, they should be the first to understand and 
+Noted – comments are 
+outside the scope of the 
+paper.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 146 of 154 
+ 
+Accounting 
+Financials 
+minimize the risks they face, both for themselves as for their stakeholders.  
+ 
+First, they should commit to reporting at least their climate risks with the TCFD 
+guidelines. Second, they should aim to halt negative impact, for the benefit of both 
+their clients and their own soundness. Third, they may want to do so by finding out 
+what matters most for their insurance company, the most material issues that matter to 
+their stakeholders, and align their investments and products along the lines of those 
+material aspects. But also, they could benefit from the challenge society faces, seize 
+opportunities, and ensure all investments and underwriting activities have positive 
+impact on people and planet. 
+452. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  We believe the detail regarding that disclosure of how metrics  are set, tracked and 
+rewarded is overly granular and prescriptive and could be suggesting disclosure of 
+proprietary or sensitive data.  
+Revised language  
+453. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  The overly prescriptive expressions in this paragraph should be revised. Specifically, 
+"Insurers should…" in two places should be revised to "It is recommended for insurers 
+to…", and "They should…" at the beginning of the last sentence should be revised to 
+"It is also recommended…". It should be noted that these are not requirements but 
+recommendations in the TCFD recommendations. 
+Amended the language to 
+address the concern. 
+455. acli U.S.A.  No  While we agree that insurers should disclose to their regulators the extent to which 
+their risk profile exposes them to material climate-related risks, we believe the detail 
+regarding that disclosure of how metrics are set, tracked and rewarded is overly 
+granular and prescriptive and could be suggesting public disclosure of proprietary or 
+sensitive data; thus we recommend deleting the last two sentences of paragraph 82.  
+Amended the language to 
+address the concern. 
+Q118 Comment on paragraph 83  
+456. GFIA Global No  GFIA is concerned the recommendation in the paragraph may disrupt competitive 
+positioning and suggests deleting or amending it to provide confidentiality to protect 
+this.  
+Amended sentence
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 147 of 154 
+ 
+A simple approach to revising the paragraph would be to replace "insurers should" 
+with "insurers are encouraged to".  
+457. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  The disclosure of scenario analyses could be optional. The starting point of any new 
+regulation should be the disclosure of actual, absolute financed emissions.  
+Noted 
+458. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  This paragraph should be revised as follows, as we believe it is too prescriptive: 
+ 
+"Insurers that perform climate-related scenario analysis on their underwriting activities 
+are encouraged to disclose a description of the climate -related scenarios used, for 
+example, the critical input parameters, assumptions and considerations, and analytical 
+choices. It is also recommended for them to indicate how the assumptions and 
+parameters align with their risk appetite and strategic business direction".  
+Amended sentence 
+Q119 Comment on section 7.2 Company profile  
+459. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  Although we understand how the company profile can be interesting for supervisors 
+and other stakeholders, we recommend starting with the most simple and accessible  
+approaches, in order to move as many insurers as possible into reporting material 
+non-financial impact. Estimating and monitoring financed emissions and emissions of 
+underwritten activities is possible, several insurers around the globe are doing so with 
+PCAF and may serve as a good starting point of any sustainability reporting.  
+Comment is outside the 
+scope of this paper. 
+460. acli U.S.A.  No  The suggested detail is excessive and, in some instances, proprietary (e.g., 
+discussions about strategy). 
+Disagree. ICP 20 also 
+requires insurers to disclose 
+information on its strategy.  
+Q120 Comment on paragraph 84
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 148 of 154 
+ 
+461. GFIA Global No  As previously stated, GFIA believes that such a recommendation is not relevant for all 
+insurers and suggests adding "when material" at the beginning of the paragraph. 
+The issue of materiality is 
+dealt with in the introductory 
+paragraphs of this section 
+(new paragraph 79) and 
+applies throughout. 
+462. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  There are benefits to disclosing a more "b alanced" scorecard of both the risks and the 
+opportunities, but the application paper appears to be suggesting the disclosure of 
+commercially sensitive information.  
+The Application Paper is not 
+requiring the disclosure of 
+commercially sensitive 
+information such as pricing 
+of new products. 
+463. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  With regards to this paragraph, we believe explanation should be necessary only for 
+those that are material. This paragraph seems prescriptive, and therefore, "where 
+material" should be added to either the beginning or the end of the sentence.  
+See response to comment 
+461. 
+Q121 Comment on paragraph 85  
+464. GFIA Global No  GFIA is concerned with the list provided, as it may contain sensitive competitive 
+information. GFIA would thus suggest deleting this paragraph or amending it to take 
+confidentiality into account. 
+ 
+In addition, it should be clarified that the list of information to provide is illustrative and 
+depends on the materiality to each entity.  
+Added ‘relevant’ 
+465. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  Any information should be conditioned on not only availability, but also on relevance. 
+We suggest revising the first sentence to "where available and relevant". 
+Added ‘relevant’ 
+466. 
+General 
+Japan No  This paragraph seems too prescriptive. What is listed in this paragraph are examples, 
+and each company should consider how and what to disclose according to the 
+Disagree. This paragraph 
+includes recommendations
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 149 of 154 
+ 
+Insurance 
+Associatio
+n of Japan 
+materiality. This paragraph should be deleted or modified to make it cl ear that they are 
+illustrative examples. 
+(should) and examples 
+(such as…) and is not 
+meant to be prescriptive. 
+Q122 Comment on paragraph 86  
+467. 
+Insurance 
+Europe 
+Europe No  As the IAIS mentions this "inside-out" approach at this stage, Insurance Europe 
+believes that it would be useful to already introduce it in the introduction of the paper 
+(see comments on paragraph 7). 
+ 
+Promoting the convergence of non-financial reporting standards will be even more 
+important to facilitate the transitioning of all sectors, while also accounting for global 
+linkages of financial markets and avoiding competitive disadvantages for globally 
+operating companies. Sustainability disclosures should be strengthened for all sectors 
+as well as for public entities and they should be publicly available. In addition, policy 
+actions to increase the consistency between financial and non -financial reporting 
+should be encouraged to ensure that both follow a similar rationale, especially as n on-
+financial aspects become increasingly relevant from a financial viewpoint. 
+Amended language to 
+encourage disclosure of the 
+“inside-out” approach. 
+468. GFIA Global No  GFIA acknowledges that the inside -out approach mentioned in the paragraph is 
+increasingly considered in many jurisdictions. However, this approach seems to fall 
+outside the scope of ICP 20 and would seem an excessive requirement especially for 
+small companies. GFIA suggests replacing "insurers should" with "insurers may be 
+encouraged to". 
+See response to comment 
+467. 
+469. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  The difference between "environment" and "climate" is unclear. The paper generally 
+focuses on "climate". "Environment" is a broader subject.  
+Removed ‘environment’ 
+470. 
+General 
+Insurance 
+Japan No  Regarding disclosure of the external impact of insurers, while this paragraph requires 
+disclosing "the impact to the environment from the insurer", ICP 20 mentions requiring 
+disclosure of "the external environment which it operates". Considering it is not 
+See response to 468.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 150 of 154 
+ 
+Associatio
+n of Japan 
+required in ICP 20 and is an excessive requirement, we request this paragraph be 
+deleted. 
+Q123 Comment on section 7.3 Corporate governance framework  
+471. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  The language in this section is unnecessarily prescriptive. It is neither necessary nor 
+appropriate for companies to disclose how decisions are made and how issues are 
+communicated internally. 
+Changed a ‘should’ to ‘may’ 
+on disclosure 
+Q124 Comment on par agraph 87 
+Q125 Comment on section 7.4 Insurance risk exposures  
+Q126 Comment on paragraph 88  
+472. GFIA Global No  GFIA would like to emphasise that adopting a flexible approach rather than a 
+prescriptive one will ensure that disclosure requirements do no t add a burden to 
+companies where this is not relevant. It thus suggests replacing "insurers should" with 
+"could be encouraged to".  
+ 
+In addition, with regards to the recommendation to provide written evidence and model 
+analysis, GFIA believes that this is a discussion of public disclosure and should not 
+embed new supervisory requirements for written documentation or model evaluation 
+and utilisation. 
+Disagree that the section is 
+to prescriptive. 
+On “materiality” see 
+response to comment 461. 
+ 
+ 
+ 
+Changed ‘should’ to ‘may’.  
+473. IAA Internati
+onal 
+No  Much of this paragraph is very prescriptive, and overly detailed for public disclosure of 
+topics that in some cases are proprietary.  
+See response to comment 
+472. 
+474. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  This paragraph seems not only overly prescriptive, but also inappropriate as it requires 
+to disclose insurer's confidential information. Also, while the description seems as 
+though liability risk scenario analysis is possible, such method does not exis t at this 
+point in time and therefore is inappropriate. Moreover, although "exclusion policies" 
+are stated at the beginning of the examples, they should not come first because 
+See response to comment 
+472.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 151 of 154 
+ 
+exclusion is a last resort. Accordingly, this whole paragraph should be deleted,  or at 
+least revised as follows: 
+ 
+"88. Insurers are encouraged to disclose the process by which they have identified, 
+assessed and managed climate -related risks and opportunities. In this case, insurers 
+should be able to evidence this, preferably in written manner, for example risk 
+management policies, management information, or Board risk reports".  
+ 
+ 
+ 
+ 
+ 
+ 
+475. NAIC USA, 
+NAIC 
+No  Fourth sentence; editorial, suggest: 
+They should also describe the actions taken in response to c limate change risks.  
+Change made 
+Q127 Comment on section 7.5 Financial investments and other investments  
+Q128 Comment on paragraph 89  
+477. GFIA Global No  GFIA believes it is difficult to disclose matters regarding investment strategies, as they 
+are directly related to the investment activities of each company. Therefore, it 
+suggests revising "investment strategies" to "investment policy".  
+Change to ‘strategies’ to 
+‘policies’. 
+478. 
+Partnershi
+p for 
+Carbon 
+Accounting 
+Financials 
+Global No  Several insurance groups and pension funds around the globe are applying PCAF's 
+Global GHG Accounting and Reporting Standard for the Financial industry, which  
+ 
+- Is a harmonized approach, providing all types of FIs with the starting point required to 
+set science-based targets and align their portfolios with the Paris Climate Agreement 
+and simplifying the comparison of GHG emissions information across financials.  
+- Is open source and free to use, ensuring universal adoption across all types of 
+financial institutions globally, no matter their size or geography. 
+- Creates transparency and accountability, enabling FIs to satisfy the growing investor 
+demand for climate data while helping FIs, their investors and their supervisors to 
+monitor and manage progress towards goals. 
+ 
+Noted
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 152 of 154 
+ 
+PCAF also facilitates data collection:  
+- PCAF makes use of existing climate data registers as much as possible, (notably 
+where it regards smaller debtors such as SMEs and households) and processes data 
+in a manner that serves portfolio management for all financial undertakings. 
+- PCAF identifies gaps where more effort is needed to produce relevant information.  
+- PCAF shares methodologies, data and estimates, which lowers the cost of setting up 
+internal accounting systems and simplifies the challenges faced by  financial 
+undertakings in finding relevant information with respect to their climate impact.  
+479. 
+General 
+Insurance 
+Associatio
+n of Japan 
+Japan No  We believe it is difficult to disclose matters regarding investment strategies, as they 
+are directly related to the investment activities of each company. Therefore, we 
+request revising "investment strategies" to "investment policy".  
+Change made 
+Q129 Comment on paragraph 90  
+481. IAA Internati
+onal 
+No  Beyond requiring insurance companies to comply with r ules, supervisors can also 
+reward and incentivise companies that do more than basic compliance. For example, if 
+companies invest in "green bonds" and such investments have lower physical risk or 
+transition risk, the investment risk charges could be lowered under the capital 
+framework.  
+The IAIS (or SIF) is well-placed to explore the potential for this approach in more 
+depth.  
+Comment is outside the 
+scope of this paper. 
+482. The 
+Geneva 
+Associatio
+n 
+Internati
+onal 
+No  The language in this paragraph is unnecessarily prescriptive. It is neither necessary 
+nor appropriate for companies to disclose how decisions are made. It is also not 
+appropriate to single out a subset of assets in a discussion of capital adequacy, as this 
+implies that the regulatory requirements for such assets are materially understated.  
+Revised language to 
+indicate the investment 
+decision should be at a 
+portfolio level and not an 
+individual asset level. 
+483. 
+General 
+Insurance 
+Japan No  We believe it is difficult to disclos e matters regarding investment strategies, as they 
+are directly related to the investment activities of each company. Therefore, we 
+request revising "investment strategies" to "investment policy".  
+See response to comment 
+477.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 153 of 154 
+ 
+Associatio
+n of Japan 
+484. Swiss 
+Financial 
+Market 
+Supervisor
+y Authority 
+(FINMA) 
+Switzerla
+nd 
+No  FINMA provides the following practice to "Box 5: Examples of supervisory practice on 
+disclosure requirements":  
+ 
+Switzerland:  
+Financial institutions have until now displayed varying levels of transparency with 
+regard to disclosure of climate -related financial risks. In order to create more 
+transparency, FINMA is therefore specifying the disclosure requirements pertaining to 
+these risks for large financial market players. For this purpose, FINMA conducted a 
+public consultation [Footnote] until January 2021 on the planned amendments in its 
+Public Disclosure Circulars for Banks and Insurers.  
+ 
+For the insurance sector, it is proposed that large insurance companies and insurance 
+groups are required to make their clim ate-related financial risks transparent from 2022 
+onwards. The approach is based on the recommendations of the Task Force on 
+Climate-related Financial Disclosures (TCFD).  
+ 
+In terms of content, the following principle-based elements should be covered and 
+disclosed: 
+- Governance: description of how the Board of Directors fulfils its oversight 
+responsibilities in respect of climate -related financial risks.  
+- Strategy: description of the key climate -related financial risks identified - short-term, 
+medium-term, and long-term risks, as well as their impact on business strategy, 
+business model, and financial planning. 
+- Risk management: description of the risk management process for the identification, 
+evaluation, and addressing of climate -related financial risks.  
+- Quantitative information on climate -related financial risks and the methodologies 
+underpinning such information. 
+Transparency with regard to climate -related financial risks at supervised entities is an 
+important first step towards the expedient identification, measurement, and 
+management of such risks. More comprehensive and uniform disclosure of climate -
+Updated section.
+
+Public 
+Resolution of Public Consultation Comments on Draft Application Paper on the 
+Supervision of Climate-related Risks in the Insurance Sector , 25 May 2021 Page 154 of 154 
+ 
+related financial risks by major financial market protagonists will improve transparency 
+and lead to greater market discipline.  
+ 
+[Footnote: Press release Transparency obligations for climate risks - FINMA opens 
+consultation (10.11.2020) 
+https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/8news/medien
+mitteilungen/2020/11/20201110-mm-transparenzpflichten-klimarisiken.pdf?la=en] 
+485. acli U.S.A.  No  This content is unnecessarily prescriptive. It is neither necessary nor appropriate for 
+companies to disclose how such decisions are made. It is also not appropriate to 
+single out a subset of assets in a discussion of solvency absen t a risk-based rationale 
+for such an emphasis.  
+See response to comment 
+482. 
+486. 
+Liberty 
+Mutual 
+Insurance 
+Group 
+USA No  The examples in Box 5 are informative, but demonstrate the risk that insurers face 
+multiple, potentially inconsistent disclosure regimes. To avoid this outcome Liberty 
+Mutual urges supervisors to coalesce around the TCFD. 
+Noted 
+487. NAIC USA, 
+NAIC 
+No  Suggest as an update in Box 5, last paragraph for United States:  
+Insurers were encouraged to incorporate FSB TCFD guidelines when answer ing the 
+Reporting Year 2018 NAIC Climate Risk Disclosure Survey which could effectively 
+align the survey with the TCFD guidelines. For the Reporting Year 2019 NAIC Climate 
+Risk Disclosure Survey, due from insurers in August 2020, participating insurers wer e 
+allowed to submit a TCFD report. Eight groups and eight individual insurers submitted 
+a TCFD report in the Reporting Year 2019 NAIC Climate Risk Disclosure Survey.  
+Update made.

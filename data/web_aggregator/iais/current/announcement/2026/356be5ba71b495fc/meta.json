@@ -1,0 +1,24 @@
+{
+  "doc_id": "356be5ba71b495fc",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2024/12/IAIS-Press-Release-IAIS-adopts-Insurance-Capital-Standard-and-other-enhancements-to-its-global-standards-to-promote-a-resilient-insurance-sector.pdf",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2024/12/IAIS-Press-Release-IAIS-adopts-Insurance-Capital-Standard-and-other-enhancements-to-its-global-standards-to-promote-a-resilient-insurance-sector.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:52fe3bb4edca6a0891891be79656c263ca3042c6bffb0da82360b25e8c6699a6",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/356be5ba71b495fc",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

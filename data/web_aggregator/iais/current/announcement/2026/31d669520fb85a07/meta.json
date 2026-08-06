@@ -1,0 +1,24 @@
+{
+  "doc_id": "31d669520fb85a07",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "https://www.iais.org/uploads/2024/11/Questions-for-public-consultation-on-ancillary-risk-indicators-in-the-Global-Monitoring-Exercise.docx",
+  "language": "en",
+  "source_url": "https://www.iais.org/uploads/2024/11/Questions-for-public-consultation-on-ancillary-risk-indicators-in-the-Global-Monitoring-Exercise.docx",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4ccea4ec5ada41cd60d6874a39296f8d0d5d2c5fbd69e1975c3c805c45fd28af",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/31d669520fb85a07",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

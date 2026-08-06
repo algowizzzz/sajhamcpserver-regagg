@@ -1,0 +1,24 @@
+{
+  "doc_id": "27689725e936c1a6",
+  "regulator_id": "iais",
+  "doc_type": "announcement",
+  "title": "IAIS charts course on Insurance Capital Standard (ICS) implementation ahead of adoption in December 2024 - International Association of Insurance Supervisors",
+  "language": "en",
+  "source_url": "https://www.iais.org/2024/06/iais-charts-course-on-insurance-capital-standard-ics-implementation-ahead-of-adoption-in-december-2024/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:a7baa6b1a28a4df97d48e08242c6731b3419ac3293c7bce51a7e46cd799a40c6",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_iais_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iais/current/announcement/2026/27689725e936c1a6",
+  "tags": [
+    "international",
+    "insurance"
+  ]
+}

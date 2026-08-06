@@ -1,0 +1,1 @@
+Summary: # IAIS contributes to G7 framework on public-private insurance programmes against natural hazards

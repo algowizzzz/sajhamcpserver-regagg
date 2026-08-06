@@ -1,0 +1,5200 @@
+Public 
+Resolution of comments 
+Public consultation comments on Draft Application Paper on supervising diversity, 
+equity and inclusion – the governance, risk management and culture perspective 
+14-Mar-24 to 14-Jun-24 
+Overview 
+This document provides the detailed comments submitted by  the 12 respondents to the public consultation. All of them agreed for their 
+consultation response to be published. The feedback can be characterised as overall supportive of the IAIS’ work on DEI, and largely supportive 
+of the approach taken within the draft application paper.  
+Analysis of the consultation feedback reveals some key repeated themes which are summarised , together with the IAIS responding position, 
+below: (1) requests for change; (2) support. Every consultation comment has been responded to in the table from page 4 . What the IAIS 
+understood to be the crux of the comment has been shaded for ease of reading. 
+(1) Requests for change: 
+• Some comments suggested more detail be included in the paper on how the principle of proportionality would apply, including to draw explicit 
+distinctions between what is expected of small vs large insurers. Comments 36, 35, 55, 68, 80, 103, 120 This has not been actioned because 
+any further specifications or details on what proportionality would involve in a particular context or scenario should rather  be determined at 
+jurisdictional level. The paper does make regular reference to the proportionality principle and it does not e that size, location and nature of 
+the insurer are important factors to consider. The paper also does note that local circumstances – particularly the legal, cultural and historical 
+context – will influence how DEI is considered and the actions taken by supervisors and by insurers themselves on DEI. To ensure readers 
+appreciate the relevance of the proportionality principle throughout the paper, an extra reference has been included at para 54 in the context 
+of insurer-specific engagement and at para 69 in the conclusion. 
+• Some comments emphasised that any DEI-related actions taken by supervisors should be balanced and avoid imposing too much burden on 
+insurers. Comments 84, 99, 102, 112, 125, 126, 127, 133.  A subset of these comments expressed that any data collection by supervisors 
+should leverage existing data. The paper makes regular reference to the proportionality principle which includes that supervisory techniques 
+and practices should not go beyond what is necessary in order to achieve their purpose. Additions have also been made to the end of paras
+
+Public 
+45 and 53 to reinforce that the actions described in those paras (incorporating DEI -related enquiries into supervisory approaches and 
+developing requirements), if taken by supervisors, should link to the supervisor’s core focus areas. 
+• Two commentors expressed that an approach that uses soft powers  only is what the IAIS should focus on. Comments 11, 9/83/105. The 
+intent of the paper has been to provide guidance on the range of ways that supervisors may choose to address the topic of DEI, and this full 
+breadth should be retained in the paper. While soft powers provide a range of useful actions a supervisor can deploy to encourage progress 
+on DEI by the insurance sector, the IAIS considers this paper appropriately acknowledges that there may be instances where risks are 
+identified and issues persist hence the supervisor may feel that more formal action is required to drive meaningful change. The paper makes 
+clear that jurisdictional context will influence how DEI is considered, and the powers, mandate and the supervisors’ assessment of its priorities 
+will all influence the action a supervisor takes.  
+• Some comments expressed that evidence (eg literature, research, quantifiable data) has not established/proven comments made in the paper 
+about the benefits of DEI, about the warning signs, and about the link between DEI and the supervisory mandate. Comments 11, 42, 64, 134. 
+The IAIS does not consider the purpose of the application paper is to cite empirical evidence in support of all guidance or recommendations 
+of good practice. The focus is on actionable insights rather than academic references. 
+ 
+(2) Support: 
+• Appreciation and support for the recognitions of proportionality and the potential influence of local circumstances, particularly legal, cultural 
+and historical context. Relatedly, that the paper offers positive guidance and suggestions across a spectrum of possible supervisory responses 
+rather than being prescriptive. Comments 10, 16, 18, 19, 34, 37. 
+• Agreement with the importance of DEI to sound prudential and consumer outcomes / ensuring a positive corporate culture and a sound risk 
+management framework in the operations of an insurer.  Comments 10, 26, 41, 44. 
+• Support for the fact that supervisors and the IAIS bring their influence to improving DEI within the insurance industry. Comments 86, 93.  
+• Overall support for the wide range of warning signs identified in Section 3.2, and their relevance. Comments 67, 66, 65, 69, 70.
+
+Public 
+Contents 
+General comments on the Application Paper ............................................................................................................................................... 4 
+Comments on section 1 Introduction .......................................................................................................................................................... 17 
+Comments on section 1.1 Context and objective ....................................................................................................................................... 17 
+Comments on Box 1 Interpretation of the terms diversity, equity and inclusion in this paper ............................................................... 20 
+Comments on section 1.2 Related work by the IAIS .................................................................................................................................. 24 
+Comments on section 1.3 Proportionality................................................................................................................................................... 28 
+Comments on section 2 Why DEI within an insurer matters to ICPs 7, 8 and corporate culture ............................................................ 31 
+Comments on Box 2 What is groupthink and why does it matter to insurers? ........................................................................................ 39 
+Comments on section 3 What should a supervisor look out for? ............................................................................................................. 42 
+Comments on section 3.1 Relevant matters to look at............................................................................................................................... 44 
+Comments on section 3.2 Warning signs an insurer might need to enhance its DEI efforts .................................................................. 49 
+Comments on Box 3 What is DEI-washing? ............................................................................................................................................... 56 
+Comments on Box 4 Indicators of positive action on DEI at an insurer ................................................................................................... 59 
+Comments on section 4 What can a supervisor do in response? ............................................................................................................. 62 
+Comments on section 4.1 Industry-wide approach .................................................................................................................................... 66 
+Comments on section 4.1.1 Use of soft powers ......................................................................................................................................... 68 
+Comments on section 4.1.2 Incorporating DEI themes into supervisory approaches ............................................................................. 69 
+Comments on section 4.1.3 Develop requirements .................................................................................................................................... 73 
+Comments on section 4.2 Insurer-specific engagement ............................................................................................................................ 81 
+Comments on section 4.2.1 Understanding an insurer’s approach to DEI ............................................................................................... 82 
+Comments on section 4.2.2 Undertake review work to examine DEI related arrangements and plans .................................................. 86 
+Comments on Box 5 Collecting and using data as part of a DEI strategy ................................................................................................ 89 
+Comments on section 5 Conclusion ........................................................................................................................................................... 94
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+General comments on the Application Paper 
+1 Generali d.d. Slovenia In the light of the content of the document "Draft application document 
+on the supervision of diversity, justice and inclusion: Management, risk 
+management and culture of Perspective March 2024", I address the 
+issue of discrimination of employee representatives in supervisory 
+bodies related to the payment for performing the function of a 
+supervisor. 
+ 
+In order for the supervisory board to be able to credibly perform the 
+DEI control function, it must first determine unanimously whether it is 
+composed according to the DEI principles. 
+The insurance company or insurance group must ensure a non-
+discriminatory policy towards the members of the supervisory board, 
+including regarding payments for the performance of the supervisory 
+function, and may not divide them between capital representatives and 
+employee representatives or putting one group of persons in a worse 
+position than another group of persons. 
+This means that the remuneration policy must not state that employee 
+representatives are not entitled to payment for performing work in the 
+supervisory board or the supervisory board. 
+ 
+Namely, the representatives of the workers are equally responsible for 
+their work in the supervisory board with all their assets as the 
+representatives of the capital, and the legislation does not differentiate 
+between the members of the supervisory board, i.e., between the 
+representatives of the capital and the representatives of the workers. 
+At least that's how it is in Slovenia. 
+ 
+I hope that this aspect will also be addressed and written clearly in the 
+upcoming document. 
+The point raised within this comment is 
+very specific. It can be extrapolated to 
+a broader point about certain control 
+functions being devalued and/or 
+disenfranchised. In the specific case 
+referenced within this comment, it is 
+the remuneration structure that is 
+disenfranchising the employee 
+representatives within the Board 
+setting, hence devaluing the control 
+role they play there. 
+ 
+The broader point is now included 
+within the “Insufficient consideration to 
+views of control functions” bullet in 
+para 35 Warning signs list.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+Best regards 
+Matjaž Pavlin 
+Employee representative in the supervisory board 
+2 General 
+Insurance 
+Association 
+of Japan 
+Japan DEI is useful from the perspective of corporate governance and risk 
+management in insurers and is an important aspect that should be 
+positively promoted. On the other hand, it should be noted that DEI is a 
+means, not an end. While we recognize that many insurers are already 
+pursuing DEI initiatives, we agree that the situation may differ 
+depending on the jurisdiction in which the insurer operates and the size 
+and nature of its business, and that the proportionality principle should 
+be considered when incorporating a DEI perspective into insurance 
+supervision. We also believe that overly detailed requirements and 
+supervision should be avoided and that this is an area to be effectively 
+promoted through engagement, as described in the AP. 
+The comment expresses support for 
+the approach taken in the paper.  
+ 
+The comment does not require a 
+resolution. 
+3 Progress 
+Together 
+UK Progress Together welcomes the opportunity to respond to the 
+International Association of Insurance Supervisors (IAIS) on their 
+public consultation on supervising diversity, equity and inclusion. 
+Progress Together is a not-for-profit membership body which focuses 
+on boosting socio-economic diversity at senior levels within UK 
+financial services. We were formed because of the Government-
+commissioned Socio-Economic Diversity Taskforce led by the City of 
+London Corporation. Our peer-to-peer network is represented by 50 
+member organisations from across the UK financial services sectors – 
+of which 9 are in insurance. We represent 32% of the UK’s financial 
+services sector. Our response focuses on elements of the application 
+paper that relates to socio-economic diversity and we have chosen not 
+to respond to all aspects of the paper. 
+This comment is information about the 
+commentor. 
+ 
+The comment does not require a 
+resolution. 4 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+The ABI welcomes the IAIS’ efforts to consolidate best practices for 
+diversity, equity and inclusion (DEI) in the insurance sector and the 
+opportunity to respond to this application paper.  
+ 
+The ABI and our members share the IAIS’s commitment to DEI and 
+This comment is principally information 
+about the commentor and also 
+expresses support for the IAIS’ work 
+on DEI.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+advocation for the importance of diversity in promoting effective and 
+globally consistent supervision of the industry. In November 2022, we 
+published our DEI Blueprint , a sector-wide strategy that sets out our 
+mission to make the insurance and long-term savings industry the most 
+diverse, equitable and inclusive sector of the UK economy. 
+ 
+This Blueprint is a concrete work plan that supports our sector in 
+recruiting people from all backgrounds and creating an environment 
+that means people reach their full potential. Similar to the IAIS, we 
+want the people working in our sector to reflect and represent the 
+communities we serve, and as a result, be better able to respond to 
+consumer needs.  
+ 
+We have subsequently published a progress report  because we want 
+to be transparent about the targets we are working towards and the 
+progress we are making. This progress report was informed by our 
+industry data on DEI, which has been collected annually since 2017. 
+We also included practical case studies from member firms, as we 
+believe sharing best practices will help deliver and support greater 
+diversity and inclusion. We are confident that the Blueprint has a clear 
+purpose and provides specific, targeted actions that firms can take 
+when developing their DEI strategies. The next progress report is due 
+for publication in 2025. 
+ 
+The UK regulators have recently consulted on diversity and  inclusion 
+in the FCA CP23/20 and PRA CP 18/23 which the ABI has sent an 
+industry response to. We welcomed the UK regulators' introduction of 
+regulation in this area, aimed at mitigating risks such as groupthink. 
+Regulators play a crucial role in ensuring that firms they oversee 
+exemplify good practices and behaviours, including in the realm of DEI. 
+As we await the outcome of the consultation in the UK, we continue to 
+support the introduction of rules and guidance in this space to drive 
+The comment does not require a 
+resolution.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+progress and good practice. We therefore welcome the IAIS’ work in 
+this area, and we remain committed to supporting the work of the IAIS.   
+ 
+ ABI DEI Blueprint 
+https://www.abi.org.uk/globalassets/files/publications/public/diversity/ab
+i-dei-blueprint.pdf 
+ ABI DEI Blueprint progress report 2023 https://www.abi.org.uk/about-
+the-abi/dei-hub/dei-blueprint-progress-report-2023/ 
+5 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+The LMA is very supportive of initiatives to improve DEI in the wider 
+insurance market.  
+ 
+The LMA itself, through members, and by supporting wider initiatives, 
+is helping to improve representation across the insurance industry, and 
+in the London market in particular. 
+ 
+Lloyd’s of London has also been leading internationally in the 
+implementation of stretching DEI aspirations and mandating data 
+collection. Guides have also been published on implementing 
+appropriate inclusive policies.   
+ 
+We welcome the IAIS highlighting the DEI agenda and the areas that 
+supervisors could be considering.  
+ 
+Given the diverse approaches to social policy within different states we 
+acknowledge that this is a challenging paper to balance and help 
+outline the way ICP standards can be met when facing into this varying 
+landscape.  
+ 
+Therefore, it is not clear if it is appropriate for this to be an application 
+paper linked directly to the ICP’s. It may be more appropriate for the 
+IAIS to issue an occasional paper or research paper which is more 
+indicatory. 
+This comment is principally information 
+about the commentor. It also 
+expresses support for the IAIS’ work 
+on DEI.  
+ 
+With respect to the query on the 
+appropriateness of this product taking 
+the form of an application paper, we 
+consider it is appropriate as the 
+intention is to assist understanding of 
+the relevance of DEI to effective 
+corporate governance (ICP 7) and 
+effective risk management and internal 
+controls (ICP 8), and the supervisor’s 
+role in this respect.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+6 FWD Group Hong Kong Overall, we are of the view that the Application Paper makes good 
+points about elevating DEI standards within the industry.  
+ 
+At FWD Group, we recognise the importance of diverse talent, 
+experiences and perspectives in contributing to the success of our 
+business and are committed to building a diverse, inclusive and 
+collaborative culture. We value diversity in all its forms. These include 
+gender, age, cultural background, ethnicity, special needs, religion, 
+sexual orientation and family status, as well as professional and life 
+experiences, and interpersonal or professional skills. 
+ 
+In terms of governance, FWD recognises and embraces the 
+importance of having a diverse team of directors on the Board. We 
+believe it is an essential element in maintaining an effective Board and 
+contributing to the sustainable development of the FWD Group. As 
+such, we are generally supportive of the initiatives of the IAIS to 
+advance DEI for better prudential and consumer outcomes.   
+ 
+In respect of the Application Paper specifically, Section 2 on “Why DEI 
+within an insurer matters to ICPs 7, 8 and corporate culture” provides 
+strong justification that links DEI to business strategy and would 
+therefore be more persuasive in getting buy-in from key stakeholders 
+on making relevant changes as needed.  
+ 
+Further, Section 4.2 on Insurer-specific engagement – 4.2.1.60 is a 
+useful checklist and reminder for companies to ensure the right 
+framework is in place to operationalise the DEI initiatives. 
+This comment is information about the 
+commentor. The comment also 
+expresses general support for the 
+paper and identifies certain sections it 
+finds particularly valuable.  
+ 
+The comment does not require a 
+resolution.  
+7 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global GFIA welcomes the opportunity to respond to the application paper of 
+the International Association of Insurance Supervisors (IAIS) on 
+supervising diversity, equity, and inclusion (DEI) – the governance, risk 
+management and culture perspective and acknowledges the 
+commitment of the IAIS to continue working on DEI. DEI is a priority for 
+The comment recommends that the 
+IAIS urge supervisors to proceed with 
+caution when creating policy 
+requirements on DEI issues, and avoid
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+the global (re)insurance industry and GFIA and its members are 
+committed to encouraging and promoting these values across sector.  
+ 
+GFIA recognises that, while financial inclusion and access to insurance 
+have been the subject of considerable work by the IAIS and numerous 
+international organisations, the development of policy on DEI will 
+necessitate broad consideration and consensus, at both domestic and 
+international levels. Furthermore, GFIA and its members recommend 
+that the IAIS urges supervisors to proceed with caution when creating 
+duplicative policy requirements on DEI issues. This underscores the 
+importance of ensuring that any new requirements are not redundant 
+or overlapping with existing regulations and industry standards. 
+Duplicative policy requirements can create confusion, increase 
+compliance burdens, and potentially stifle innovation within the 
+insurance sector. Additionally, DEI matters frequently transcend the 
+insurance sector and are typically addressed by a range of other 
+governmental and regulatory policies that extend to other sectors of the 
+economy. 
+duplicative, overlapping or redundant 
+requirements.  
+ 
+The paper does already make 
+comments consistent with avoiding 
+regulatory duplication and keeping 
+insurance supervisors’ DEI-actions 
+and/or introduction of new 
+requirements proportionate and 
+focused on insurance supervision 
+fundamentals: 
+• Section 1.3 on “Proportionality” 
+discusses that any supervisory 
+action related to DEI will likely be 
+informed by (amongst other things) 
+the legal remit of the supervisor 
+and the broader legal context of 
+the jurisdiction (para 15); and  
+• Section 4.1.3 on “Develop 
+requirements” discusses that 
+relevant laws of the jurisdiction, 
+existing standards and codes and 
+whether other relevant supervisory 
+and policy frameworks already 
+exists, will all be relevant to 
+whether and how new 
+expectations and/or requirements 
+can be introduced (para 53).  
+ 
+To further reinforce and make more 
+explicit the point, two additions have 
+been made:
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+• Section 4.1.3 at the end of 
+para 53 add: “Requirements 
+established by the supervisor 
+should be linked to its 
+mandate and objectives”; and  
+• Section 1.3 at the end of para 
+15 add: “Paragraph 53 
+comments on proportionate 
+implementation in a jurisdiction 
+in the case of a supervisor 
+developing DEI requirements 
+of insurers”. 
+8 Insurance 
+Europe 
+European 
+Union 
+Insurance Europe welcomes the opportunity to respond to the IAIS 
+consultation on its application paper on supervising diversity, equity 
+and inclusion. DEI are priorities for the (re)insurance industry and 
+Insurance Europe and its members are committed to encouraging and 
+promoting these values across the sector. 
+The comment does not require a 
+resolution. 
+9 Institute of 
+International 
+Finance 
+USA The IIF and its insurance members are pleased to comment on the 
+IAIS Draft Application Paper on Supervising DEI (Draft Application 
+Paper on DEI or Paper).  We generally support the IAIS’s work on DEI 
+and we agree that a commitment to DEI can have many positive 
+impacts on insurers’ governance and risk management, as well as on 
+policyholders and other stakeholders. The IAIS can play an important 
+role in sharing valuable insights in terms of emerging best practices for 
+DEI, encouraging insurance supervisors to consider these practices in 
+their own programs, and supporting insurers as they consider how best 
+to implement DEI policies and practices that best meet the needs of 
+their organizations and key stakeholders. 
+ 
+Overarching Comments on the Draft Application Paper on DEI 
+ 
+The DEI frameworks utilized by both supervisors and insurers will be 
+The comment expresses being 
+generally supportive of the IAIS’ work 
+on DEI.  
+The comment suggests the IAIS adopt 
+a more positive tone, rather than a 
+prescriptive approach or a punitive 
+tone that calls for supervisory 
+interventions and enforcement for DEI 
+shortcomings. We consider the paper 
+strikes the right balance of tone.  
+The comment suggests the IAIS 
+support supervisors and insurers to 
+experiment with developing optimal
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+specific to local circumstances and organizational objectives.  As noted 
+in Paragraph 6 of the Draft Application Paper on DEI, local 
+circumstances, particularly the legal, cultural and historical context, will 
+influence how DEI is considered and the actions taken by supervisors 
+and insurers. The current environment is one of a broad range of 
+approaches to DEI across jurisdictions and among insurers.   
+ 
+Some jurisdictions have specific legislative measures for DEI. Other 
+jurisdictions have adopted less prescriptive DEI measures while some 
+have not enacted DEI legislative frameworks.  DEI frameworks 
+developed by insurers reflect the local context and the company’s 
+activities, strategies, workforce and key stakeholders.  
+ 
+Reflecting these differences in approaches to DEI, supervisors should 
+refrain from suggesting a ‘one-size-fits-all’ approach as there is not a 
+single ‘good’ company DEI policy, but rather a range of policies and 
+actions that can promote DEI goals taking into consideration the local 
+context as well as the company’s activities, strategies, workforce, and 
+key stakeholders.  Accordingly, the IAIS should not take a prescriptive 
+approach or adopt a punitive tone that calls for supervisory 
+interventions and enforcement for DEI shortcomings.  Rather, the IAIS 
+should adopt a more positive tone that supports the industry and 
+supervisors as they explore how best to incorporate in their policies 
+and practices DEI considerations in light of the local context as well as 
+the company’s activities, strategies, workforce and key stakeholders. 
+ 
+We note that these themes are similar to those raised in the IIF’s 
+response to the IAIS’s 2021 Draft Issues Paper on Insurer Culture.  
+Just as a wide range of cultures can be aligned with good customer 
+outcomes, a range of approaches to the promotion of DEI can be 
+aligned with positive outcomes.  The dimensions of DEI, as well as 
+DEI programs. We consider this is 
+consistent with the paper already, eg 
+para 44. 
+The comment disputes the premise 
+that inadequate DEI policies could 
+result in material risks to policyholders 
+or poor financial outcomes, and it 
+asserts that promotion of DEI is not 
+within the mandate of many 
+supervisors and does not warrant 
+supervisory resources. The IAIS does 
+regard there being a link between DEI 
+and better business and consumer 
+outcomes. The paper focuses upon 
+how DEI contributes to effective 
+corporate governance and risk 
+management, which are clearly within 
+the mandate of supervisors (ICPs 7 
+and 8). The paper already 
+acknowledged (at para 38) that the 
+potential actions a supervisor could 
+take should be considered in the 
+jurisdictional context of the supervisor, 
+and a new edit now adds “and the 
+supervisor’s assessment of its 
+priorities”.  
+The comment suggests that 
+supervisors engage first in discussions 
+with an insurer’s senior management 
+and board before considering any
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+culture, vary across jurisdictions and companies and even within a 
+corporate group, which makes a ‘one size fits all’ approach impractical.  
+To help address the challenges associated with better reflecting DEI in 
+the policies and operations of insurers, we encourage supervisors to 
+lead by example and publicize their policies and initiatives, as 
+suggested in Paragraph 2.3.1 of the December 2022 IAIS DEI stock-
+take of its members.  The IAIS could encourage insurance supervisory 
+authorities to run their own pilot programs to determine the optimal 
+programs for their jurisdictions.  Such experiments should be evidence-
+based, using data to inform which areas to prioritize and integrating 
+findings from DEI social science to shape the design of those 
+interventions. Seeing what works for supervisors, as well as insurers, is 
+an iterative process and we encourage the IAIS to support supervisors 
+and insurers that experiment with incorporating various DEI initiatives. 
+ 
+A distinction should be drawn between the importance of supporting 
+the boards and senior management of insurers in their efforts to 
+increase diversity, equity and inclusion, and a finding that inadequate 
+DEI policies and practices could result in actual material risks to 
+policyholders or poor financial outcomes. The linkage between the DEI 
+policies of an insurer and safety and soundness risks (see Paragraph 
+24) has not been established.  Moreover, the promotion of DEI goals is 
+not in the mandates of many supervisors, as supervisory mandates are 
+primarily focused on the prudential supervision of financial risks and 
+policyholder protection.  Asking supervisors to evaluate the DEI 
+policies and programs of an insurer as a separate and additional task 
+would divert supervisory resources from the important task of 
+protecting policyholders by confirming that insurers have adequate 
+capital and financial resources to provide coverage and pay claims.   
+ 
+If supervisors are concerned that a company’s DEI policies and 
+supervisory action. We consider the 
+paper is already consistent with this, 
+specifically section 4.2.1.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+practices (or the lack thereof) are contributing to unfair treatment of 
+customers or a lack of policyholder protection, they should engage in 
+discussions with the senior management and board of the insurer to 
+determine and confirm the root causes of the unfair treatment or lack of 
+protection before considering any supervisory action.  Through their 
+discussions with insurers, supervisors can share information about 
+good practices for the promotion of diversity, equity and inclusion. 
+ 
+Finally, as we have noted in our recent responses to other IAIS Draft 
+Application Papers, we believe that the IAIS should go back to first 
+principles by providing further advice, information, recommendations, 
+or examples of good practice related to specific supervisory materials 
+in the ICPs or ComFrame that are intended to be applied 
+proportionately. We remain concerned that Application Papers may be 
+interpreted by supervisors as prescriptive requirements from the IAIS 
+and, by extension, that failure to implement those requirements could 
+give rise to negative assessments 
+10 International 
+Actuarial 
+Association 
+(IAA) 
+International On behalf of the International Actuarial Association (IAA), Its Diversity 
+and Inclusion Task Force would like to thank the International 
+Association of Insurance Supervisors (IAIS) for the opportunity to 
+comment on the Draft Application Paper on supervising diversity, 
+equity and inclusion: the governance, risk management and culture 
+perspective. 
+ 
+We congratulate the IAIS on the detail included in the paper and 
+particularly on the recognition that diversity, equity and inclusion (DEI) 
+has direct implications on governance and insurance risks associated 
+with regulated entities.  It is this type of approach which will serve to 
+elevate and centralise the DEI considerations for regulated entities.  
+The Task Force also notes that the relevant dimensions of DEI may 
+vary across regions and so it is important that global organisations 
+The comment expresses support for 
+the IAIS’ work on DEI and the 
+approach taken in the paper.  
+ 
+The comment does not require a 
+resolution.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+avoid being overly prescriptive in this regard.  Accordingly, the Task 
+Force supports the Draft Paper’s recognition of the importance of 
+cultural differences in assessing DEI initiatives.    
+ 
+Overall, we believe that the IAIS document presents a great balance by 
+offering positive guidance and suggestions rather than being 
+prescriptive. This is especially true in the way the paper recognizes 
+that requiring reporting on overly specific components of a DEI 
+program might have the unintended consequence of inhibiting 
+enthusiasm and effective innovation.  
+ 
+The IAA Task Force strongly agrees with the Draft Application Paper’s 
+conclusions regarding the importance of DEI in ensuring a positive 
+corporate culture and a sound risk management framework in the 
+operations of an insurer.  We encourage the IAIS to continue this effort 
+to advance the concepts of diversity, equity and inclusion and their 
+importance in the monitoring of insurance operations by insurance 
+supervisors.  Highlighting the importance of diversity of experience and 
+thought, in addition to demographic diversity, should enable insurance 
+supervisors to more thoroughly evaluate an insurer’s corporate culture, 
+governance and risk management strategies.  
+ 
+The IAA looks forward to further papers and research by the IAIS on 
+this important area of corporate culture. 
+11 The Geneva 
+Association 
+International The Geneva Association appreciates the opportunity to respond to the 
+draft application paper on "Supervising Diversity, Equity and Inclusion 
+(DEI): The Governance, Risk Management and Culture Perspective." 
+We recognise the importance of maintaining a diverse, equitable, and 
+inclusive culture within insurers, and the benefits this has for an 
+organisation’s corporate culture, governance, and risk management.  
+While we chose not to provide a detailed response on this occasion, 
+through this letter we hope to convey high-level thoughts on this 
+The comment expresses being 
+generally supportive of the IAIS’ work 
+on DEI.  
+The comment emphasises that 
+jurisdictional context influences/limits 
+which actions an insurer can pursue on 
+DEI. The paper already adequately
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+important topic. 
+ 
+We generally support the IAIS’s commitment to DEI and believe that a 
+commitment to DEI can have a positive impact on firms, their 
+employees, as well as policyholders and other stakeholders. Stated 
+benefits include: 
+ 
+• Diverse solutions: incorporating varied viewpoints and experiences 
+can enable companies to offer improved products and services. 
+• Business performance: navigating new challenges requires insurers 
+to leverage a diverse range of skill sets for success. 
+• Risk reduction: fostering diversity of thought might decrease the 
+likelihood of groupthink and can enhance risk management. 
+ 
+At the same time, many of the claims made about the benefits of DEI 
+(and/or the negative impacts of a lack of DEI) are not quantifiable, have 
+not been sufficiently evidenced and/ or may not be fully attributable to 
+firms’ DEI practices. It is challenging to provide standards or guidance 
+for something that cannot be measured.  
+ 
+Different jurisdictions already have various regulatory and supervisory 
+bodies that oversee aspects of DEI through avenues such as 
+employment and labour laws, anti-discrimination laws, consumer 
+protection laws, etc. Also, what it means to have a diverse and 
+inclusive framework can vary by jurisdiction based on cultural 
+characteristics, such as religion. Firms need to take these local 
+customs, cultures, and laws into account when defining their own DEI 
+policies. For example, while setting specific percentage targets and 
+quotas are common in certain parts of the world, this might be 
+uncommon, or even illegal practice elsewhere, hence limiting what 
+insurance supervisors can do. Defining corporate culture is primarily 
+the responsibility of the board and senior management of companies, 
+acknowledges this, eg paras 6, 15, 40, 
+66, Box 5.  
+ 
+The comment critiques that the 
+benefits of DEI and/or the negative 
+impacts of a lack of DEI set out in the 
+paper are not quantifiable, sufficiently 
+evidenced and/or fully attributable to 
+the firms’ DEI practices. The comment 
+links this to the assertion that it is 
+challenging to provide standards or 
+guidance for something that cannot be 
+measured. We dispute the assertion, 
+and consider that guidance on how to 
+enhance the effectiveness of corporate 
+governance and risk management can 
+be given in these cases.  
+ 
+The comment advises against overly 
+intrusive supervision of DEI practices 
+within insurers. The paper does not 
+require this; it appropriately 
+acknowledges proportionality and local 
+context and provides guidance on a 
+full spectrum of options. No further 
+edits needed in response. 
+ 
+The comment is supportive of 
+responsibility for DEI within the insurer 
+being allocated to a senior leader, but 
+finds it problematic that this may also 
+be linked to the senior leader’s
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+in accordance with their local frameworks.  
+ 
+In this context, we believe that while emphasising the benefits of 
+Diversity, Equity, and Inclusion (DEI) is important, the IAIS should be 
+mindful not to implement formal regulatory requirements/ supervisory 
+action (data collection, KPIs, etc.). Soft powers are a better approach 
+to promote DEI in insurance. The IAIS can best support the industry 
+and supervisors by providing thought leadership and research on 
+emerging best practices on DEI globally, providing support to 
+supervisors on their own DEI. Any guidance needs to be sufficiently 
+principles-based to allow flexibility to adopt to jurisdictional 
+circumstances. 
+ 
+Allocating senior responsibility within the insurer for DEI is fine, but 
+connecting that to remuneration is problematic, as it singles out one 
+specific element that is difficult to measure.  
+ 
+While the IAIS plays an important role in setting standards for 
+insurance supervision, it is important to recognise the boundaries of its 
+remit in this regard. The link between DEI and the traditional 
+supervisory mandate of policyholder protection and sound and safe 
+markets is not clearly evidenced. Therefore, we would advise caution 
+against overly intrusive supervision of DEI practices within insurers.  
+ 
+While DEI is an important topic, it is a complex one at the same time. 
+From a supervisory point of view, we ask the IAIS and its members to 
+consider the fact that many aspects of DEI are intangible, difficult to 
+quantify and monitor and subject to jurisdiction-specific cultural 
+peculiarities. We look forward to continuing our engagement with the 
+IAIS on this important topic. 
+remuneration. The relevant passage in 
+the paper (within para 50) is expressed 
+as a flexible suggestion: “Allocate 
+senior responsibility within the insurer 
+for DEI, perhaps connecting it to 
+performance objectives and 
+remuneration”. No edits are considered 
+necessary to the expression of this. 
+ 
+The comment cautions against overly 
+intrusive supervision of DEI practices 
+within insurers. The IAIS considers the 
+potential actions available to 
+supervisors presented in section 4 of 
+the paper are appropriate. 
+Notwithstanding this, an addition has 
+been made in section 4.1.2 
+“Incorporating DEI themes into 
+supervisory approaches” at the end of 
+para 45:  
+“Integrating DEI-related enquiries into 
+supervisory approaches should be 
+done in ways that complement and 
+reinforce the supervisors’ focus on the 
+core oversight areas of governance, 
+risk management and corporate 
+culture.”
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+Comments on section 1 Introduction 
+12 Progress 
+Together 
+UK We welcome the IAIS’s acknowledgement that “local circumstances, 
+particularly the legal, cultural and historical context, will influence how 
+diversity, equity and inclusion (DEI) is considered.” At Progress 
+Together, we are working with our members to gather greater insights 
+into how socio-economic diversity is understood and played out in 
+workplace settings across the UK. However, many of our members 
+(66% to be precise) also operate in global financial centres, with staff 
+that represents a multitude of countries and ethnicities.  
+Comment noted 
+Comments on section 1.1 Context and objective 
+13 General 
+Insurance 
+Association 
+of Japan 
+Japan In the interest of transparency, we suggest publishing the members-
+only document mentioned in Paragraph 2, as there is no reason for it to 
+be members-only. If it cannot be publicized due to the individual 
+company data in it, we suggest removing such data to publish the 
+document. 
+The members-only document was 
+intended as an interim product for 
+members-only, and its key messages 
+are now incorporated in section 2 of 
+this paper. 
+The IAIS does, from time to time, 
+generate materials for consumption by 
+IAIS members only. These are not 
+made public. 
+14 National 
+Association 
+of Insurance 
+Commission
+ers (NAIC) 
+National 
+Association 
+of Insurance 
+Commission
+ers (NAIC) 
+The acknowledgement in paragraph 6 is helpful and suggest adding 
+another sentence to recognize potential legal limitations on data 
+collection/use; suggest: 
+ 
+The IAIS acknowledges that local circumstances, particularly the legal, 
+cultural and historical context, will influence how DEI is considered and 
+the actions taken by supervisors and insurers themselves, to enhance 
+DEI within the sector. This application paper should therefore be read 
+Agreed, addition of the following 
+sentence to para 6: 
+ “Additionally, the paper’s discussion of 
+use and/or collection of data 
+recognises jurisdictional legal and 
+privacy issues surrounding any 
+demographic data”.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+with this context in mind throughout. Additionally, the paper’s 
+discussion of use and/or collection of data recognises jurisdictional 
+legal and privacy issues surrounding any demographic data. 
+15 Progress 
+Together 
+UK No comment. Noted 
+16 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+We welcome the IAIS’s recognition of the potential influence of local 
+circumstances, particularly legal, cultural, and historical context, on DEI 
+considerations. We appreciate the recognition that such factors may 
+influence the actions taken by both supervisors and insurers to 
+promote DEI within the sector. 
+ 
+Specifically, within the UK, our efforts towards DEI are underpinned by 
+legislation such as the Equality Act 2010 . This legislation serves as a 
+cornerstone in our approach to fostering an inclusive environment 
+within the insurance and long-term savings sector. The Act outlines 
+nine protected characteristics, including age, disability, gender 
+reassignment, marriage and civil partnership, pregnancy and maternity, 
+race, religion or belief, sex, and sexual orientation. These 
+characteristics form the basis for ensuring fair treatment and 
+opportunities for all individuals within society. In our sector, the 
+recognition of these protected characteristics significantly impacts 
+practices such as data collection. 
+ 
+By acknowledging the importance of local nuances, the paper 
+demonstrates the need for tailored approaches to DEI initiatives that 
+resonate with the specific context of each jurisdiction, which allows for 
+more effective and meaningful progress towards achieving genuine 
+DEI. 
+ 
+UK Equality Act 2010 
+https://www.legislation.gov.uk/ukpga/2010/15/section/4 
+Comment noted
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+17 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+As outlined in our response to the UK supervisors (PRA and FCA) we 
+are supportive of efforts to increase diversity equity and inclusion in the 
+financial services sector.  
+ 
+The LMA and member firms are supporting market initiatives to 
+increase participation by underrepresented groups. These include early 
+careers outreach and engagement groups intended to encourage 
+better representation at senior levels across the market. The LMA 
+seeks to consider diversity when appointing board and committee 
+members.  This is because we and our members believe that this is a 
+way to attract the best talent and ensure the market represents the 
+customers it serves.  
+ 
+Paragraph 6 acknowledges that local legal, cultural, and historic 
+context will be important. Supervisors will need to set expectations 
+which are reasonably compatible with international standards, it is 
+therefore important that these expectations remain proportionate.  
+ 
+For example, firms which are part of international groups may have to 
+consider their home states and set global policies for DEI which may 
+not be as stretching as some host jurisdictions would like.  This could 
+particularly challenging where firms have multiple international 
+branches or licenses.  
+ 
+There is a growing evidential basis that a more diverse board or 
+committee structure, on average, results in better decision making and 
+less non-financial misconduct.  
+ 
+However, it should be noted  
+ 
+1, correlation between better business outcomes and diversity are not 
+supported by all academic papers. For example, recent analysis of the 
+Comment noted 
+ 
+Regarding the commentor suggesting 
+that comments made about 
+proportionality by the speakers in the 
+stakeholder event do not align with the 
+Application Paper, this is disputed.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+S&P 500 would indicate no direct correlation of leadership diversity 
+with business performance; 
+2, the FCA is proposing to deprioritise the implementation of its own 
+D&I initiative in the UK whilst it assesses the feedback so far received; 
+and   
+3, it is not clear that the expectations within the Application Paper echo 
+the comments on proportionality by the speakers in the stakeholder 
+event when considering the result, outcomes or subjectivity. 
+18 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global GFIA appreciates the recognition and instruction that the paper should 
+be read with the understanding of local circumstances, “particularly the 
+legal, cultural and historical context”, as this may influence how DEI is 
+considered and what actions are taken. This aligns with the objective of 
+making meaningful progress towards genuine DEI by considering the 
+unique nuances of each jurisdiction. This approach ensures that 
+actions taken are not only effective but also culturally appropriate and 
+considers that in many jurisdictions, efforts towards DEI are 
+underpinned by legislation. 
+Comment noted 
+19 Insurance 
+Europe 
+European 
+Union 
+Insurance Europe welcomes the IAIS approach, emphasising the 
+importance of considering local circumstances, especially the legal, 
+cultural, and historical context, when reading the application paper. 
+This approach ensures that any actions taken by insurers or 
+supervisors are not only effective but also culturally appropriate and in 
+line with local legislation and the supervisory mandate. 
+Comment noted  
+Comments on Box 1 Interpretation of the terms diversity, equity and inclusion in this paper 
+20 General 
+Insurance 
+Association 
+of Japan 
+Japan Equity: We suggest revising "certain groups" in the first sentence to 
+"certain groups and/or individuals", as individuals should also be 
+included. 
+Agreed, change made.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+21 Progress 
+Together 
+UK We welcome the IAIS’s inclusion of socio-economic background in its 
+definition of DEI. We firmly believe that socio-economic diversity is a 
+vitally important part of the diversity agenda, and that it is an important 
+“golden thread” that links through to many other identity characteristics. 
+We take the view that the diversity agenda needs to acknowledge all 
+intersecting characteristics in order to create a truly inclusive and 
+equitable environment where every individual’s unique experiences 
+and identities are recognised and valued. 
+ 
+Having a range of socio-economic backgrounds at leadership level 
+leads to:  
+• Being better placed to serve the needs of consumers  
+• Improved employee satisfaction and retention, leading to greater 
+productivity  
+• Diversity of thought, leading to greater innovation  
+• Attracting top talent from the widest possible pool of candidates 
+ 
+Progress Together believes the foundation of our diversity agenda is 
+data collection. Collecting socio-economic data is recommended by the 
+Government-commissioned Socio-Economic Diversity taskforce, led by 
+the City of London Corporation. The taskforce recommended that 
+regulators mandate data collection and publicise data of workforce 
+socio-economic background amongst regulated organisations – and it 
+is a position that Progress Together have advocated for to the UK’s 
+regulators in its most recent consultation on DEI. 33% of ABI members 
+are now collecting socio-economic background data, and it’s growing 
+each year.  
+ 
+We also welcome the IAIS’s inclusion of “diversity of thought” in its 
+definition of diversity, as evidence shows that greater diversity leads to 
+better decision making and outcomes for firms, customers and 
+investors. This is aligned with the UK financial services and the 
+Comments noted
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+regulators’ definition of diversity. Diversity of talent is acknowledged by 
+the UK’s Financial Conduct Authority (FCA) in its consultation paper as 
+one of the factors underpinning the international competitiveness of the 
+UK financial services sector aligned to its secondary objective. Both 
+the FCA and the Prudential Regulation Authority (PRA) make clear in 
+their consultation papers that diversity is needed to mitigate the risk of 
+groupthink. 
+ 
+Further, we welcome the IAIS’s inclusion of equity instead of equality in 
+its definition of DEI. It is important to acknowledge the barriers and 
+disadvantages that certain individuals may face because of their 
+identity characteristics (either protected or invisible). In fact, evidence 
+from the Bridge Group, in partnership with the PRA and FCA, shows 
+that employees from working-class backgrounds progress 25% slower 
+than peers, with no link to job performance. Furthermore, we own 
+Shaping Our Economy report shows that socio-economic background 
+has a greater impact on career progression than gender or ethnicity. 
+Aside from the implications for competitiveness and innovation, this is 
+inherently unfair. To address this issue, Progress Together works with 
+our members to collect evidence on how certain interventions could 
+help those from low socio-economic backgrounds to access resources 
+and opportunities within the financial services sector.  
+ 
+Finally, we welcome IAIS’s definition of inclusion in recalling a sense of 
+belonging, as this mirrors the PRA’s view that diversity and inclusion 
+are important to governance and firm-wide culture. Progress Together 
+also focusses on helping our members create psychological safety. 
+22 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+We welcome the holistic approach taken in the interpretation of DEI. 
+We are particularly pleased to note the inclusion of socio-economic 
+background and cognitive diversity in the definition. These are topics 
+that ABI and its members are deeply committed to addressing with the 
+same level of attention as legally protected characteristics. 
+Agreed.  
+Intersectionality was already referred 
+to in Box 5 “Collecting and using data 
+as part of DEI strategy” It is agreed to 
+add it within Box 1, as part of the
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+ 
+However, we suggest adding the notion of ‘intersectionality’ to 
+acknowledge that individuals may experience compounded 
+disadvantage due to overlapping demographic characteristics. By 
+acknowledging intersectionality within the framework of DEI, we can 
+better understand the complex and nuanced experiences of individuals 
+and communities. This recognition allows for more targeted and 
+effective strategies to address disparities and promote equity and 
+inclusion.  
+ 
+We also acknowledge that data on intersectionality may be difficult to 
+produce at present due to the need to protect employee anonymity and 
+the current limitations in data analysis. However, as our capabilities for 
+granular data analysis improve, it will become easier to collect and 
+analyse intersectional data. This should be our ambition, as it will 
+enable us to create more effective and inclusive DEI strategies. 
+ 
+While the paper acknowledges intersectionality elsewhere, explicitly 
+incorporating it into the DEI definition would enhance its relevance 
+within the insurance sector globally. 
+Diversity explanation: “The concept of 
+intersectionality highlights how the 
+presence of multiple diverse 
+characteristics can intersect and 
+compound an individual’s experience, 
+bringing unique challenges and 
+perspectives.” 
+  
+23 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+Diversity has a lot of different factors and components. It is important to 
+point out that it is unlikely feasible to measure or ensure that all of the 
+characteristics listed in Box 1 are represented within the management 
+or board of a single firm. Further, in some circumstances or 
+jurisdictions individual leaders may be reluctant to declare their 
+characteristics if they would be identifiable. It should be noted that this 
+may be more reflective of wider society, or their personal 
+circumstances than the firm.  
+ 
+The important factor will be both the overall diversity and relative 
+power/influence of those in the management structure. For example, if 
+most of the diverse characteristics are found in the non-executive 
+Comment noted
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+director population, then the board may not be properly balanced. 
+ 
+As outlined in Paragraph 6 of the context and objectives, the concept 
+of Equity is not necessarily enabled through all legislative frameworks 
+which may prohibit many active interventions by firms. Many 
+jurisdictions require equal treatment, and do not allow for some pro-
+active measures envisaged by the concept of “equity”, such as all 
+diverse shortlists or targeted training opportunities. 
+24 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global GFIA commends the IAIS for recognising the importance of not 
+creating arbitrary definitions and their proactive approach, 
+understanding that there is no one-size-fits-all solution. GFIA agrees 
+with the IAIS that it should not seek to define DEI, due to the “particular 
+importance of local, legal and cultural context can play in determining 
+what is right”. Furthermore, the iterative evolution of DEI within 
+contemporary business necessitates adaptable definitions to 
+encompass the multifaceted dimensions of diversity and promote 
+sustained organisational development. 
+GFIA and its members make two recommendations in section 1.1.   
+n Add the notion of ‘intersectionality’ to acknowledge that “individuals 
+may experience com-pound disadvantage due to overlapping 
+demographic characteristics”. 
+n Add ‘and supervisor’ after “for an insurer” in the first paragraph of box 
+1, to recognise that supervisors are also impacted by local legal 
+frameworks and cultural context. 
+Regarding “intersectionality”: agreed; 
+see resolution of comment 22. 
+ 
+Agreed, “and supervisor” is added in 
+the first para within Box 1. 
+25 Insurance 
+Europe 
+European 
+Union 
+Insurance Europe welcomes the holistic approach taken by the IAIS in 
+the interpretation of diversity, equity and inclusion. 
+Comment noted 
+Comments on section 1.2 Related work by the IAIS 
+26 General 
+Insurance 
+Japan We would like to express our respect for the IAIS's work to date on DEI 
+and agree that DEI is also an important element in terms of the 
+Comment noted
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+Association 
+of Japan 
+governance and risk management of insurers, as demonstrated by the 
+IAIS's work so far. 
+27 Progress 
+Together 
+UK The IAIS may wish to consult other regulatory bodies on the evidence 
+gaps in DEI research pertaining to the financial services sector. We 
+would welcome the opportunity to partner with IAIS to conduct 
+research – for instance, how greater socio-economic diversity could 
+potentially help with adherence to the Consumer Duty. 
+Comment noted 
+28 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+The ABI agrees that impactful DEI efforts can be facilitated by making 
+best practice guidance available. That is the intention of the ABI DEI 
+Blueprint, which helps guide firms in the right direction. We are 
+committed to disseminating case studies of best practices from across 
+our sector, and other sectors, and would encourage the supervisors to 
+do the same. 
+Comment noted 
+29 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+We agree that the expectations of ICP 7 encourage good corporate 
+governance.  
+ 
+However, there is potential for mission creep by linking this directly to 
+DEI. This risks supervisors intervening within the internal workings of 
+firms when approving the appointment of individual board members. 
+Firms will need to follow appropriate and legal hiring processes and 
+therefore need to be able to appoint the most qualified applicant.  The 
+FCA has made it clear in their market interactions that any proposals 
+should ensure that firms are free to hire the “best person for the job”.  
+ 
+It is not clear that ICP 7.3 as referenced in Paragraph 9 is expected to 
+include diversity of background or similar. It is more applicable that ICP 
+7.3 would be viewed through the lens of 7.3.1 referring to the skills and 
+knowledge of the individuals which make up the board. It is right that 
+supervisors can challenge firms on the competence of individuals 
+based on experience and knowledge. But, it would be inappropriate for 
+this to then move into opining on an individuals DEI status when 
+considering if a potential board member met this standard. 
+We agree that individuals should be 
+appointed on experience and 
+knowledge, however the point being 
+emphasised is that the Board as a 
+collective needs to have an overall 
+adequate level of competence, which is 
+achieved by having an appropriate mix 
+of individuals.  
+Diversity in that mix of individuals 
+(including diversity of experience and 
+diversity of thought) helps bring a broad 
+range of perspectives, thereby 
+supporting the board to address a 
+range of issues in a more effective way. 
+Having a suitable mix of individuals 
+(with diversity amongst them) links to 
+ICP 7.3 in the following ways:  
+- ICP 7.3.1 references the Board 
+having members who have
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+ 
+If the intention is to create an expectation of wider diversity overlaying 
+the expectations of ICP 7.3.1, then ICP 7.3 could be updated to reflect 
+this expectation. It is also not clear that this would be proportionate 
+regulatory change, or deliverable in individual firms. This could have 
+other implications where supervisors do not have an appropriate 
+mandate making it difficult for jurisdictions to be ‘largely compliant’. 
+relevant expertise among them 
+as necessary to provide 
+effective leadership, direction 
+and oversight.  
+- ICP 7.3.3 references the 
+Board reviewing itself to 
+ascertain whether Board 
+members collectively and 
+individually remain effective in 
+discharging the respective 
+roles and responsibilities, and 
+identify opportunities to 
+improve the performance of 
+the Board as a whole. 
+- ICP 7.3.9 references Board 
+members having 
+independence of mind and 
+avoiding groupthink.   
+30 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global Acknowledging the potential for impactful initiatives with DEI, GFIA 
+aligns on the importance of accessible best practice guidance. GFIA 
+and its members are dedicated to driving initiatives that support best 
+practice guidance from within the insurance sector as well as from 
+other sectors. GFIA encourages the IAIS to do the same. 
+For example: 
+In Ireland, the Central Bank of Ireland (CBI) conducted a thematic 
+inspection of the high impact insurance firms in 2020. This was an 
+important exercise which provided recommendations to insurance 
+organisations on what they could do to improve their DEI. They were 
+allocated a timeframe to put an action plan in place based on their 
+feedback. This exercise gave insurers the opportunity to ameliorate 
+their DEI initiatives and to share best practice examples.  
+Additionally, the introduction of the Individual Accountability Framework 
+Comment noted 
+ 
+Regarding the suggested alternate 
+wording to use in para 9, the suggestion 
+is not adopted because “an appropriate 
+number and mix of individuals”  are the 
+words used in ICP 7.3.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+and Senior Executives Accountability Regime (SEAR) includes the 
+requirement to assign responsibility for leading the development of the 
+firm’s culture, including on matters relating to diversity and inclusion, by 
+the board. This further embeds the drive for senior leaders within firms 
+and their boards to take ownership for driving DEI through the 
+organisation. However, more context on the supervisory expectations 
+will be required to give firms comfort they are delivering on their 
+obligations and allow firms to learn from each other. 
+Further comments: 
+On paragraph 9, GFIA recommends reviewing the language “Use of 
+appropriate number and mix” to “Considering the importance of 
+diversity when appointing individuals to the board”. 
+31 Insurance 
+Europe 
+European 
+Union 
+Insurance Europe agrees that impactful DEI efforts can be facilitated 
+by making best practice guidance available.  Insurance Europe has 
+been taking a proactive approach to improving inclusivity by promoting 
+industry initiatives, working to increase understanding of good 
+practices and engaging with experts and social partners. In 2022, 
+Insurance Europe launched its DEI HUB showcasing the initiatives 
+taken by the industry to promote equal access, opportunity and 
+inclusivity in the workplace. This platform facilitates the sharing of 
+material and good practices from around Europe. We also encourage 
+the IAIS to play their role in facilitating the sharing of best practices.   
+ 
+Insurance Europe is also proud to have signed a landmark joint 
+declaration with the European insurance social partners that makes a 
+commitment to support companies in making DEI an integral 
+component of their culture and of their business strategies. The text of 
+the declaration covers issues such as equal opportunities, training and 
+inclusive recruitment policies. Company-based measures should 
+ensure that there are structures and mechanisms in place that foster 
+equality, diversity, inclusion and non-discrimination in the workplace. 
+The text is an actionable tool that provides guidance for Europe’s 
+Comment noted
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+insurance companies on the key principles to introduce in any DEI 
+strategy. 
+Comments on section 1.3 Proportionality 
+32 General 
+Insurance 
+Association 
+of Japan 
+Japan We agree that the proportionality principle should be considered with 
+respect to supervisory action related to DEI. 
+Comment noted 
+33 Progress 
+Together 
+UK Progress Together welcomes proportionality principle to give financial 
+services firms the flexibility to adapt and tailor the recommendations for 
+implementation. Our membership is diverse in terms of size, location 
+and nature of the insurer in question – hence any recommendations 
+cannot be a one-size-fits-all approach. 
+Comment noted 
+34 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+The ABI supports the IAIS’s emphasis on proportionality, advocating 
+for the consideration of local circumstances and appropriate nuances. 
+This offers a better balance that can yield better outcomes than a 
+disproportionately arbitrary approach.   
+ 
+For instance, considering factors such as firm size and type is 
+particularly crucial. Smaller firms, for example, may face various 
+challenges, such as challenges with data collection and the 
+anonymization of personal data. Conversely, larger companies may 
+encounter different obstacles, such as ensuring participation from all 
+employees in data collection efforts. Additionally, large companies may 
+face complexities in implementing initiatives swiftly, especially if they 
+are part of a broader group structure that necessitates alignment 
+across different jurisdictions. 
+ 
+A proportionate approach is also important in helping firms adequately 
+meet objectives while not compromising on the quality of DEI 
+initiatives. 
+Comment noted
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+35 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+Greater consideration should be given to proportionality through 
+considering the principles of good regulation, i.e. that regulation and 
+supervision should be an appropriate response to the issue concerned. 
+Supervisors should not be compelled by the ICP’s to move into areas 
+of public policy where they do not have an appropriate mandate.  
+ 
+Supervisors should be considering their objectives and if prescriptive 
+DEI regulation is proportionate and consistent to the likely benefits 
+expected through their policyholder protection mandate. e.g. is firm 
+failure directly corelated to DEI and is correlation indicative of 
+causation. 
+The AP makes prominent reference to 
+the proportionality principle (two extra 
+references have been added post -
+consultation) and identifies that 
+supervisors will implement any actions 
+on DEI according to their assessment of 
+the context and their priorities. 
+36 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global GFIA welcomes the acknowledgement of proportionality. 
+Proportionality ensures that response and actions are commensurate 
+with the “legal, cultural and historical context” in each jurisdiction, 
+fostering fairness and balance. By upholding proportionality, 
+organisations can navigate challenges effectively while maintaining 
+integrity and accountability in their decision-making processes. 
+Considering factors such as firm size and type is particularly crucial. 
+GFIA acknowledges and commends the incorporation of supervisor 
+flexibility (1.3 #14) and the recognition that supervisor action will 
+depend on multiple factors (1.3 #5) and the IAIS suggestion that 
+regulators should take into account “the location and size of insurers” 
+when considering how to apply DEI supervision (4.1 #40). 
+However, to avoid misunderstandings, GFIA and its members believe it 
+is important the IAIS also provides supervisors with more concrete 
+illustrations of what a proportionate approach to DEI supervision looks 
+like, by explaining where and how supervisors should consider 
+proportionality with respect to the specific recommendations put 
+forward in the detailed sections of the Application Paper (AP).  
+GFIA recommends that there should be a more explicit recognition in 
+the AP that some IAIS recommendations (e.g. on the need to ensure 
+DEI at board and senior management level) are harder to achieve for 
+The AP makes prominent reference to 
+the proportionality principle (two extra 
+references have been added post -
+consultation) and identifies that 
+supervisors will implement any actions 
+on DEI according to their assessment of 
+the context and their priorities. The AP 
+is intentionally broad and non-
+prescriptive to allow for what is 
+proportionate to be determined 
+according to the jurisdictional context. 
+The paper does already note that size, 
+location and nature of the insurer are 
+important factors. It is not favoured to 
+add any further specifications or details 
+on what proportionality would involve in 
+a particular context/scenario; this is 
+more apt to be determined at 
+jurisdictional level by the supervisor 
+instead.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+smaller insurers than larger insurers, as the structure of senior 
+management and boards at firms with, for instance, 50 people is quite 
+different to the structure of senior management at firms with 500 
+people. Similarly, it could be hard for smaller insurers to comply with 
+the IAIS’ suggestion that supervisors ensure diverse representation at 
+selection committees. GFIA notes that, while implementing the 
+principle of proportionality often accentuates the needs of smaller 
+organisations, it does not exempt larger organisations from 
+encountering their own set of challenges. For larger organisations, 
+hurdles persist, such as challenges related to ensuring complete data 
+declaration across all employees and the further challenges posed by 
+group structures, which may impede the time it takes to execute 
+initiatives, particularly when alignment across jurisdictions is required. 
+In Australia for example, the Australian Stock Exchange (ASX) 
+Corporate Governance Principles and Recommendations outline a set 
+of corporate governance practices for entities listed on the ASX. The 
+Corporate Governance Council, comprised of business, shareholders, 
+and industry groups, recognises that different entities may adopt 
+different governance practices, based on a range factors, including 
+size, complexity, history, and culture.1 Under the Principles and 
+Recommendations, if the board of a listed entity choose not to adopt 
+the recommendation it must explain why – employing the if not, why 
+not approach.2     
+To illustrate this point further, in the UK the Prudential Regulation 
+Authority (PRA) and the Financial Conduct Authority (FCA) recently 
+consulted on introducing measures to support D and I amongst 
+insurers. Both regulators said that they intended to distinguish between 
+what was required of firms with fewer than 250 employees and firms 
+with more than 250 employees. Many proposed D and I requirements 
+in the UK will not apply to firms with fewer than 250 employees. Whilst 
+there are grounds for disagreement about where exactly the employee 
+thresholds should lie, and it may not be right for the IAIS to specify
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+employee thresholds given that its mandate is to issue principles rather 
+than rules. GFIA recommends that the IAIS urges supervisors to create 
+a proportionality-based distinction between what is required of larger 
+and smaller insurers on DEI issues. 
+ 
+1. ASX Corporate Governance Council (2019) Principles and 
+Recommendations (4th edition) cgc-principles-and-recommendations-
+fourth-edn.pdf (asx.com.au) 
+2. Ibid 
+37 Insurance 
+Europe 
+European 
+Union 
+Insurance Europe welcomes the emphasis given by the IAIS on 
+proportionality, advocating for the consideration of local circumstances 
+and appropriate nuances. This offers a better balance that can yield 
+better outcomes than a disproportionate arbitrary approach.   
+ 
+Considering factors such as company size and type is particularly 
+crucial. Smaller companies, for example, may encounter various 
+challenges when it comes to e.g. data collection and anonymisation of 
+personal data. Larger companies also tend to have different 
+challenges, for example, ensuring complete data declaration across all 
+employees. Additionally, large companies don’t always have the same 
+ability to move fast on some initiatives, especially if they are part of a 
+broader group structure that requires alignment across jurisdictions. 
+ 
+A proportionate approach is also important in helping companies to 
+adequately meet objectives whilst not compromising on the quality of 
+DEI initiatives. 
+Comment noted 
+Comments on section 2 Why DEI within an insurer matters to ICPs 7, 8 and corporate culture 
+38 Institute of 
+International 
+Finance 
+USA The linkage between a lack of DEI policies or plans in an insurer and 
+safety and soundness risks (see Paragraph 24) is tenuous at best.  An 
+incomplete assessment of the full range of risks faced by an insurer 
+ DEI policies contribute significantly to 
+aspects of organizational performance 
+that can indirectly affect safety and
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+generally is more reflective of the quality and depth of management 
+experience.  An inappropriately targeted range of products and 
+services or a failure to innovate and improve quality may reflect 
+management shortcomings that have no connection to DEI 
+shortcomings. 
+soundness. It is agreed  the core 
+operational and strategic issues 
+highlighted, such as the quality of 
+management and the effectiveness of 
+products and services, are indeed 
+primary factors affecting an insurer’s 
+safety and soundness, however diverse 
+and inclusive teams can lead to better 
+decision-making and innovation, which 
+are crucial for managing risks and 
+adapting to market changes. Moreover, 
+DEI policies can enhance employee 
+engagement, reduce turnover, and 
+improve customer and investor 
+perceptions, all of which can influence 
+an insurer’s financial stability and 
+market position.  
+ 
+ 
+39 General 
+Insurance 
+Association 
+of Japan 
+Japan The matters described in Section 2 are likely to be broadly applicable 
+to various organizations (including national and local governments, and 
+companies) in various jurisdictions, and are also important to insurers. 
+Insurers conduct business of a highly public nature, and we believe 
+that addressing DEI is important from the perspective of sound 
+business operations based on appropriate decisions. 
+ 
+As for the first sentence of Paragraph 20 ("...diversity can lead to a 
+more complete understanding of all reasonably foreseeable and 
+relevant material risks"), while we agree that diversity leads to a better 
+understanding of risks, we suggest deleting "all" in favor of a balanced 
+approach, as not all risks can be managed through diversity. 
+ 
+Comment noted  
+ 
+ 
+ 
+ 
+ 
+ 
+Agreed - Amendment to  para 20,  the 
+word “all” deleted from this sentence.   
+ 
+Amendment to para 22, the suggested 
+addition has been included in an 
+existing bullet (point 5), as opposed to
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+Paragraph 22: we suggest adding the following as the last bullet: 
+"An organization in which individuals are better able to fulfill their true 
+potential." 
+being standalone. “A culture that values 
+and supports fairness and employee 
+wellbeing, enabling employees to 
+fulfil their true potential , is likely to 
+lead to better employee retention and 
+productivity, and to reduce employee 
+misconduct” 
+ 
+ 
+ 
+40 Progress 
+Together 
+UK Whilst Progress Together welcomes the illustrative list of benefits for 
+corporate governance, risk management, and corporate culture, it 
+would be beneficial to highlight the literature and the research 
+underlying the benefits claims – for instance, which sub-sector was the 
+research conducted to show that DEI enhances corporate 
+governance? It may read better to draw out the logic map that shows 
+how increased DEI would lead to those benefits. 
+ 
+In relation to Paragraph 20, it may be beneficial to highlight the 
+importance of psychological safety for employees in teams to realise 
+the benefits of diversity. 
+ 
+In relation to Paragraph 23, it may be beneficial to highlight research 
+that shows how DEI can lead to better business outcomes for insurers 
+– and if possible, the quantifiable benefits of this as part of corporate’s 
+business case in the insurance sector. 
+ 
+In relation to Paragraph 24, it may be beneficial to highlight the 
+increased ESG regulatory demands on corporates – particularly 
+disclosures and non-financial reporting. Though companies have 
+ample experience in disclosing environmental metrics and targets 
+(supported by regulatory guidance), the “S” in the ESG is now 
+The AP intentionally does not 
+reference research. The rational for 
+this is to maintain flexibility and avoid 
+being overly prescriptive. By not 
+anchoring the guidance to specific 
+research we allow for greater 
+adaptability and ensure the focus 
+remains on actionable insights rather 
+than academic references.   
+ 
+Para 20 – Agreed, addition of wording 
+to sentence “It is especially crucial that 
+that the people working in risk 
+management and control functions feel 
+psychologically safe  and are not 
+afraid to raise diff icult issues with their 
+seniors”  
+ 
+Para 24 – A greed, addition of wording 
+to sentence: “This could manifest 
+through the insurer's approach to 
+Environmental, Social, and
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+increasingly being brought to the fore – for instance, the Corporate 
+Sustainability Reporting Directive has set an ambitious agenda for 
+companies to set social targets and KPIs. The increased transparency 
+will enable internal and external stakeholders to scrutinise insurers’ 
+DEI agenda and commitments. 
+ 
+ 
+In relation to Paragraph 26, from Progress Together’s work on the DEI 
+agenda, we have learned from our members that it takes concerted 
+effort and focussed attention – particularly at senior levels – to shift the 
+dial on DEI issues. Consequently, we do not agree with the 
+characterisation that “excessive focus on DEI could create a culture 
+where challenge is stymied by fears of not being perceived as 
+politically correct.”  
+ 
+ 
+Moreover, our members have differing experiences with setting 
+financial incentives that are linked with reaching certain diversity 
+metrics. We would welcome evidence to suggest that such linkage is 
+ineffective in reaching DEI goals. 
+  
+Governance (ESG) and the increased 
+ESG regulatory scrutiny , factors 
+(including DEI) which can be a key 
+component to a company’s public 
+image and business potential  
+ 
+Para 26 – The comment is noted. We 
+also note other commentors expressed 
+support for the point made  within that 
+sentence (ie comment 44). On balance, 
+an edit has been made to the first 
+sentence in para 26: Notwithstanding 
+the benefits of DEI explained above, 
+while concerted DEI effort is needed, 
+it is important… . This edit recognises 
+that concerted DEI effort is needed to 
+shift the dial, as 
+Progress Together 
+explains. 
+ 
+We find the other sentences also 
+important to retain about the risks of 
+over-emphasis or going about DEI 
+ineffectively.  
+ 
+Comment on evidence – the AP 
+intentionally does not reference 
+research, as explained in the 
+resolution of other comments.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+41 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+The ABI agrees with the IAIS analysis on why DEI is important within 
+the insurance sector. It is important that the sector not only attracts 
+diverse talent but also is inclusive enough to retain talent and support 
+them to thrive within their organisations.  
+It is important that quantitative data on demographic characteristics is 
+used alongside and not in isolation from qualitative data and 
+observations. Just because a firm has a high number of employees 
+from diverse backgrounds, it does not necessarily lead to the 
+avoidance of groupthink if employees do not feel able to contribute or 
+challenge.  
+ 
+We suggest that the IAIS distinguish between financial misconduct and 
+non-financial misconduct. While traditional forms of misconduct like 
+fraud often receive greater attention, it is essential for our sector to 
+recognise the impact of non-financial misconduct. Non-financial 
+misconduct includes individuals' conduct on issues such as bullying, 
+sexual harassment, and discrimination, whether in or outside the 
+workplace. We would encourage equal emphasis on being aware of 
+and reporting both types of violations to ensure comprehensive 
+oversight and accountability. As part of our DEI Blueprint, we have set 
+out good practices for members to adopt, publicise, and enforce 
+consistent ‘zero tolerance’ policies covering all forms of abuse, 
+bullying, and harassment linked to work. Importantly, firms should 
+ensure all colleagues understand how concerns and complaints will be 
+acted upon within a ‘speak up, listen up’ culture. 
+ 
+While it is useful to acknowledge the risks of over-emphasising DEI, we 
+believe these risks, especially the risk of creating a culture where 
+“challenge is stymied by fears of not being perceived as politically 
+correct” can be mitigated by fostering a culture of psychological safety. 
+Psychological safety, the belief that one can speak up without fear of 
+Comment noted 
+ 
+Regarding the various types of 
+misconduct, a sentence has been 
+added to the Misconduct risk bullet in 
+para 24: “This is relevant to 
+misconduct in carrying out the role (eg 
+contravening applicable policies and 
+rules), to seek personal gain (eg fraud) 
+and in a behavioural sense (eg 
+bullying, sexual harassment or 
+discrimination of others in the 
+workplace).” 
+ 
+The comments on psychological safety 
+are noted and agreed. Psychological 
+safety is referenced in the paper.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+negative consequences, ensures open dialogue and constructive 
+challenge, essential for effective DEI. 
+42 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+As per our response to the FCA and PRA we are broadly supportive of 
+the concepts that greater diversity supports better decision making. 
+The UK has made similar claims in CP23/20 and CP18/23.  
+ 
+However, there are a number of assertions made in this section which 
+are not evidenced or backed with peer reviewed papers or quantifiable 
+data. Introducing new regulatory expectations should be based on an 
+evidential base. A robust evidential basis is not being presented by the 
+FCA/PRA or IAIS. The FCA/PRA cited the ability to test the hypothesis 
+as part of their justification for their proposals. This does not indicate a 
+proportionate response to an issue concerned.  
+ 
+When considering Figure 1. Greater DEI within a firm should not be 
+considered the same as psychological safety or good corporate 
+culture. Diverse organisations may still have poor corporate culture or 
+suffer from group think if one or more senior managers within the 
+organisation are too powerful.   
+ 
+Therefore, the title in figure 1 “leads to” should be amended to “may 
+contribute to” or similar. This is better reflected in the wider wording of 
+the Section.  
+ 
+ 
+It should be noted that many jurisdictions which are IAIS members may 
+have much less ethnic or cultural diversity than others. This may also 
+be geographically spread within the jurisdictions, with greater diversity 
+concentrated in some areas. Diversity alone should also not be seen 
+as a unique remedy that helps to identify more risks or drive different 
+customer outcomes. Members of the board will still need to have the 
+appropriate knowledge, experience and skills to deliver such 
+Comment noted  
+ 
+ 
+The AP intentionally does not 
+reference research. The AP is 
+intentionally broad to allow for this 
+discretion ensuring it can be adapted 
+without being overly prescriptive. By 
+not anchoring the guidance to specific 
+research or evidence the paper allows 
+for greater adaptability and ensures 
+the focus remains on actionable 
+insights rather than academic 
+references.   
+ 
+Figure 1 – the purpose of Figure 1 is to 
+illustrate that an environment with a 
+clear, strong commitment and an 
+implemented set of actions to promote 
+DEI can strengthen corporate culture. 
+Agreed, Figure 1, change of wording 
+from “leads to” to “may contribute to”. 
+ 
+ 
+Comments noted. “Pipeline of talent” 
+was already discussed in para 36, last 
+warning sign on p18 , where the focus 
+on increasing diverse representation is 
+only at the senior leadership level. By 
+focusing on diversity also in junior and
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+outcomes. Therefore, this is also about driving long term pipelines of 
+talent over the medium to long term to enable such outcomes. 
+middle management  this creates “a 
+better pipeline of talent coming up 
+through the organisation”.  
+The value in developing a diverse 
+pipeline of talent is also now referenced 
+in para 28. 
+ 
+43 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global GFIA and its members align with the IAIS in emphasising that 
+prioritising and maintaining a strong focus on DEI will “help insurers 
+build positive corporate cultures within the insurer that better support 
+sound prudential and consumer outcomes.” Additionally, GFIA 
+recognises allyship in the workplace as an important driver of positive 
+corporate culture.   
+Noting the importance of using quantitative data on demographic 
+characteristics alongside, and not in isolation, to qualitative data and 
+observations. For example, just because a firm has a high number of 
+people from diverse backgrounds it does not necessarily lead to 
+avoidance of groupthink if employees do not feel able to contribute or 
+challenge. Secondly, noting that when engaging individuals from 
+diverse backgrounds, recognition of their expertise and perspective on 
+the topic of discussion is essential.   
+Furthermore, GFIA encourages the IAIS to note that supervisors 
+should not set prescriptive questions for firms to put to employees in 
+such surveys, but instead allow firms flexibility to select questions. 
+There are a range of best practice questions that can helpfully be 
+utilised by firms, depending on context.   
+GFIA and its members recognise that inclusion is something that all 
+organisations will have to continually strive to develop and improve. In 
+addition, it must be recognised that every insurance organisation will 
+be at different points in the DEI journey and that each individual 
+corporate journey is vital to the overall collective progress in diversity 
+across the industry. Therefore, ‘inclusion’ will always be a relative and 
+Comment noted . 
+ 
+Regarding the types of misconduct, see 
+resolution of comment 41. 
+ 
+Para 24 – Agreed, wording amended 
+to:  
+ “A lack of diversity, equity and 
+inclusion can result in weak internal 
+challenge, poor decision-making, a 
+lack of innovation, and suboptimal 
+business practices, all of which could 
+adversely impact an insurers safety 
+and soundness. Similarly, a lack of 
+diverse perspectives, amongst key 
+decision makers, can result in an 
+incomplete assessment of the full 
+range of risks an insurer is or may 
+become exposed to.”
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+evolving state.   
+GFIA and its members also recommends that the IAIS distinguishes 
+between misconduct and non-financial misconduct. With non-financial 
+misconduct, it should include issues such as (but not limited to) 
+bullying, sexual harassment, and discrimination.  
+GFIA and its members recommend a potential amendment to ‘safety 
+and soundness risk’: 
+Currently: 
+“The insurer’s overall safety and soundness could be at risk because of 
+suboptimal business practices, poor decision-making, weak internal 
+challenge, or a lack of innovation. A lack of diverse perspectives, 
+particularly in risk roles and amongst key decision makers, can result in 
+an incomplete assessment of the full range of risks an insurer is or may 
+become exposed to.” 
+Proposed: 
+“A lack of diversity, equity and inclusion can result in weak internal 
+challenge, poor decision-making, a lack of innovation, and suboptimal 
+business practices, all of which could adversely impact an insurers 
+safety and soundness. Similarly, a lack of diverse perspectives, 
+amongst key decision makers, can result in an incomplete assessment 
+of the full range of risks an insurer is or may become exposed to.” 
+44 Insurance 
+Europe 
+European 
+Union 
+Insurance Europe agrees that prioritising and maintaining a strong 
+focus on DEI will “help insurers build positive corporate cultures that 
+better support sound prudential and consumer outcomes”.  It is 
+important that the sector not only attracts diverse talent but that it is 
+also inclusive, so that it can retain talent and support employees to 
+thrive within their organisations. 
+ 
+Notwithstanding the benefits, Insurance Europe agrees with the IAIS 
+that it is important that insurers maintain a balanced approach to DEI. 
+There is a risk that over-emphasising DEI or going about it ineffectively 
+could be detrimental to corporate governance and risk management 
+Comment noted
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+and culture outcomes. For example, excessive focus on DEI could 
+create a culture where challenge is frustrated by fears of not being 
+perceived as politically correct . In such instances the benefits of 
+constructive challenge would be lost. We believe these risks, especially 
+the risk of creating a culture where “challenge is stymied by fears of not 
+being perceived as politically correct”, can be mitigated by ensuring a 
+company has a culture of psychological safety. 
+ 
+In addition, it must be recognised that every insurance company will be 
+at a different point in their DEI journey and that each individual 
+corporate journey is vital to the overall collective progress on diversity 
+across the industry. 
+Comments on Box 2 What is groupthink and why does it matter to insurers? 
+45 Institute of 
+International 
+Finance 
+USA The Paper contains multiple references to ‘groupthink’ (e.g. Box 2) and 
+links this dynamic to a lack of ‘psychological safety’.  While ‘groupthink’ 
+may impede the challenge function of the board and may result in 
+suboptimal decisions, the phenomenon may emanate from a variety of 
+causes that include but are not limited to poor DEI policies. Moreover, 
+an excessive focus on the challenge function of the board may in fact 
+lead to dysfunction and an inability to reach the consensus and senior 
+management alignmen t that is critical to moving forward with new 
+initiatives and growth opportunities. 
+Comment noted 
+46 General 
+Insurance 
+Association 
+of Japan 
+Japan We agree that the risks of "groupthink" in decision-making are widely 
+known to the public and are an important consideration for insurers. 
+Comment noted 
+47 National 
+Association 
+National 
+Association 
+The drafting could be read to suggest groupthink is an issue specific to 
+the insurance sector and the description of what happened with AIG 
+Considering this comment and also 
+comment 50, the paper now references
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+of Insurance 
+Commission
+ers (NAIC) 
+of Insurance 
+Commission
+ers (NAIC) 
+should be more accurate; suggest: 
+ 
+Groupthink has been cited as a factor in the failure of certain non-
+insurance areas of AIG during the financial crisis. 
+commentary from the “Roads to Ruin” 
+Report. The description of the AIG 
+example is therefore as expressed 
+within that report. We find this the most 
+appropriate approach. 
+48 Progress 
+Together 
+UK Progress Together welcomes the definition of groupthink and the 
+examples cited therewithin to illustrate the negative impacts. It may be 
+beneficial to highlight other academic studies that are more recent and 
+adapted to the insurance sector to further bolster this section’s 
+argument. 
+AP intentionally does not reference 
+research. By not anchoring the 
+guidance to specific research the 
+paper allows for greater adaptability 
+and ensures the focus remains on 
+actionable insights rather than 
+academic references.   
+49 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+The ABI acknowledges the significant risk posed by groupthink, which 
+can hinder both the attraction of diverse talent and the fostering of a 
+culture that encourages employees to question, suggest, and 
+contribute to better risk management. 
+ 
+In addition to enhancing the soundness of firms, diversity and inclusion 
+help to reduce groupthink, which in turn boosts consumer confidence in 
+the sector and leads to better business outcomes. This aligns with the 
+UK regulators' stance that upholding market integrity through such 
+measures enhances public confidence in the wider financial sector. 
+Comment noted 
+50 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+Box 2 potentially over emphasises the impact of DEI in an AIG type 
+situation which was driven by a dominant CEO. Diversity of opinion is 
+only effective where there is psychological safety and a balance of 
+power within the board. This is more aligned to ICP 7.11.4.  
+ 
+Groupthink should also be viewed through a lens of tenure and 
+corporate independence. Corporate mindset can predominate where 
+there is significant incumbency within a firm. Senior managers that 
+come through the ranks under a strong leader are likely to have similar 
+Considering this comment and also 
+comment 47, the paper now 
+references commentary from the 
+“Roads to Ruin” Report. The 
+description of the AIG example is 
+therefore as expressed within that 
+report. We find this the most 
+appropriate approach. 
+ 
+Comment noted.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+views and expectations which may counteract diverse characteristics.  
+As such strong independent non-execs are also important. 
+51 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global While there was alignment on the risks posed by group think, there is a 
+view that box 2 should be removed or amended, noting that in the U.S. 
+for example, group think is not a legal or statutory term, with the 
+universality of understanding of this term questioned with the following 
+example. 
+GFIA does not presume that U.S. theories are accepted globally. In a 
+further academic review of the various definitions of groupthink 
+referenced in box 2, GFIA also would highlight that in U.S. literature, 
+groupthink is an organisational dynamic that was coined as applied to 
+government policymakers, and subsequently has been applied as a 
+general concern in organisational dynamics in the U.S. executive 
+branch of government, regulators, charities, and corporations. Different 
+organisational dynamics are unique to culture, and type of 
+organisational hierarchy. The original definition of groupthink was in the 
+context of U.S. military hierarchy, which is very different from other 
+organisational structures. Unless there is a clear and consistent 
+universal understanding of the term ‘groupthink’ amongst the 
+governments who employ IAIS members, GFIA does not think that it is 
+appropriate to introduce the concept in standards setting without clear 
+legislative citations in member markets. 
+The IAIS is comfortable using the term 
+“group think”.  
+ 
+The term “group- think” appears at ICP 
+7.3.9. “Objectivity in decision making is 
+also promoted by independence of 
+mind of the individual Board Members. 
+This means that a Board member 
+should act without favour; provide 
+constructive and robust challenge of 
+proposals and decisions; ask for 
+information when the member judges it 
+necessary in the light of the issues; and 
+avoid “group-think”. 
+ 
+In addition, there was a lot of support for 
+the Box both amongst the supervisors 
+who contributed to authoring this paper 
+and by other commentors in the public 
+consultation.  
+ 
+The term is not used within this paper in 
+a legalistic way.  
+52 Insurance 
+Europe 
+European 
+Union 
+Insurance Europe acknowledges the significant risk posed by 
+groupthink, which can hinder both the attraction of diverse talent and 
+the fostering of a culture that encourages employees to question, 
+suggest, and contribute to better risk management. 
+ 
+Emphasising both attractiveness and inclusion is crucial once diverse 
+talent enters the sector as they complement each other in minimising 
+Comment noted
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+the risks associated with groupthink. 
+ 
+In addition to improving the soundness of companies, reduced 
+groupthink facilitated by diversity and inclusion can also increase 
+consumer confidence in the sector, resulting in better business 
+outcomes. 
+Comments on section 3 What should a supervisor look out for? 
+53 Progress 
+Together 
+UK Please refer to the specific section comments below.  
+54 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+We appreciate the comprehensive range of indicators that supervisors 
+should consider in relation to DEI. However, we strongly advocate for a 
+data-driven approach to DEI where possible. A data-led strategy 
+enables supervisors to objectively assess and measure the progress 
+and impact of DEI initiatives within firms. Our DEI Blueprint 
+underscores the significance of collecting high-quality data on diversity 
+and inclusion, which serves as the foundation for informed and 
+effective DEI strategies. 
+ 
+Data collection not only highlights areas where progress has been 
+made but also identifies gaps and areas requiring further attention. For 
+instance, through our annual ABI DEI data collection, we can track the 
+progress ABI members are making and pinpoint where more efforts are 
+needed. This systematic approach ensures that DEI initiatives are not 
+only well-intentioned but also measurable and impactful. 
+ 
+For example, many firms already generate data on gender and 
+ethnicity, which can be leveraged to drive DEI efforts. Supervisors 
+should utilize existing data collected within firms and reported through 
+localized initiatives. In the UK, localised initiatives and programmes 
+include the voluntary Women in Finance Charter and the mandatory 
+The IAIS take note of this comment 
+and understands the potential value of 
+a data-driven approach. Data use is 
+explored within Box 5 (Collecting and 
+using data as part of a DEI strategy). A 
+phrase has been added at the end of 
+para 32 to link Box 5 to Chapter 3. 
+ 
+The Application Paper does not require 
+the use of data in certain ways, nor at 
+all, because the paper is sensitive to 
+differences in jurisdictional contexts, 
+supervisory mandates and legislative 
+powers.  
+ 
+Regarding using existing data, the 
+paper makes regular reference to the 
+proportionality principle which does 
+include that supervisory techniques and 
+practices should not go beyond what is
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+Gender Pay Gap reporting regulations. Supervisors, as part of their 
+‘soft powers’, can endorse, support, or work with these initiatives to 
+support greater DEI in the industry and to encourage the uptake of 
+firms signing up for well-established and governed voluntary initiatives. 
+ 
+Moreover, adopting a data-driven approach allows for the development 
+of benchmarks and standards that can be consistently applied across 
+the industry. This not only facilitates comparison and accountability but 
+also helps in identifying best practices that can be shared and 
+implemented widely. 
+necessary in order to achieve their 
+purpose (footnote 3 at para 14).  The 
+paper also recognises the jurisdictional 
+legal and privacy issues that influence 
+the gathering and use of diversity data. 
+55 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+It is important to remember that not all firms within the remit of 
+supervisors or the IAIS are large or international firms. Many may be 
+smaller, privately owned and managed, providers. These providers 
+may often service niche consumer bases, providing important access 
+to services. Therefore, it may not always be possible or proportionate 
+to have significant DEI strategies, data collection arrangements etc. in 
+all firms. This has been highlighted to the UK regulators.  
+ 
+Therefore, there should be consideration given in section 3 to the 
+appropriateness of supervision and maintaining proportionality for 
+smaller firms. 
+The IAIS recognizes this reality and 
+the diversity that exists among 
+insurers. The AP notes that size, 
+location and nature of the insurer are 
+important factors that will likely inform 
+proportionality in the context of 
+supervisory action related to DEI.  
+ 
+The purpose of section 3 of the AP is 
+to provide supervisors with guidance 
+on the implementation of DEI 
+strategies. It is neither an exhaustive 
+list nor a guide to be applied uniformly 
+to all insurers. 
+56 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global Acknowledging that there are several relevant indicators a supervisor 
+should and could look out for, it is recommended that a data driven 
+approach is considered and that supervisors, where possible, utilise 
+data already collected within firms and reported to initiatives localised 
+to their jurisdiction. 
+For example, in the UK localised initiatives and programmes include 
+the voluntary Women in Finance Charter and the mandatory Gender 
+See resolution of comment 54.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+Pay Gap reporting regulations. and in Australia the Gender Pay Gap 
+Regulations. Gender Pay Gap Reporting WGEA 
+57 Insurance 
+Europe 
+European 
+Union 
+Acknowledging that there are several relevant indicators a supervisor 
+should and could look out for, it is recommended that a data-driven 
+approach is considered and that supervisors, where possible, utilise 
+data already collected within companies and reported to their local 
+authorities. Supervisors as part of their ‘soft powers’ can 
+endorse/assist/work with these initiatives to support greater DEI in the 
+industry and to encourage the uptake of companies signing up to well-
+established and governed voluntary initiatives. 
+See resolution of comment 54. 
+Comments on section 3.1 Relevant matters to look at 
+58 General 
+Insurance 
+Association 
+of Japan 
+Japan As noted in Paragraph 27, we agree that demographic diversity 
+information is sensitive and may not be collected by insurers, and that 
+it is harder to measure and assess equity and inclusion. These 
+limitations should be kept in mind when conducting insurance 
+supervision. 
+ 
+As the first sentence of Paragraph 27 explains, diversity in companies 
+can be ensured by combining demographic diversity, diversity of 
+experience, and diversity of thought. Because the last sentence can be 
+read to indicate that demographic diversity and diversity of experience 
+affect diversity of thought, and lacks consistency with the first 
+sentence, we suggest revising it as follows: 
+"A combination of (i) demographic diversity, (ii) diversity of experience 
+and (iii) diversity of thought are likely to foster greater diversity in firms 
+and help reduce groupthink." 
+ 
+Paragraph 29: While the first sentence explains "Equity and 
+inclusion...can be harder to measure", the second and third sentences 
+have slightly contradictory descriptions where insurers can assess 
+The explanations in para 27 have been 
+refined for clarity. Related to this 
+change, the previous last sentence of 
+para 27 has been removed because it 
+is not needed. 
+ 
+A minor change is made to para 29 to 
+attempt to clarify that the second and 
+third sentences are intended to provide 
+suggestions for how to overcome the 
+fact that equity and inclusion can be 
+harder to measure (which is stated in 
+the first sentence).   
+ 
+The last sentence on para 29 is 
+retained. A new choice of words is 
+used within the sentence, but the same 
+point is conveyed by it.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+equity and measure inclusion. Because assessments and 
+measurements of initiatives related to equity and inclusion are affected 
+by other factors, supervision solely based on the factors explained in 
+this paragraph could cause confusion. Therefore, we suggest revising 
+the paragraph as follows: 
+ 
+"Equity and inclusion, often reflected through acts, behaviour and 
+attitudes, can be harder to measure. Given such conditions, insurers 
+could consider assessing equity by analysing and monitoring the 
+employee lifecycle such as recruitment and promotion practices and 
+outcomes, and measuring inclusion by undertaking employee surveys 
+and monitoring outcomes of those surveys." (*We also suggest 
+deleting the last sentence.) 
+ 
+59 Progress 
+Together 
+UK In relation to paragraph 27, there is a discrepancy in how diversity is 
+defined here versus Box 1’s definition. Moreover, demographic 
+diversity can sometimes refer to simply ethnic / cultural diversity 
+instead of other strands of diversity (e.g., neurodiversity). IAIS may 
+wish to rephrase that category to encapsulate identity characteristics in 
+all its breadth. 
+ 
+In relation to Paragraph 28, it may be beneficial to cite the specific 
+strands of diversity that insurers should focus on – and collect the 
+necessary data accordingly from their staff / Board members. 
+ 
+In relation to Paragraph 29, it may be beneficial to also cite the sense 
+of belonging that employees feel in inclusive environments, and cite 
+relevant research and frameworks that companies have put in place to 
+measure belonging. 
+The explanations in para 27 have been 
+refined for clarity. It is intended to be 
+consistent with Box 1 definitions.  
+ 
+The term “demographic diversity” is 
+considered preferable to using some 
+other, new and likely less commonly 
+used term, and “demographic diversity” 
+here should be understood by 
+reference to its use within Box 1.  
+ 
+Concerning para 28, the IAIS takes 
+note of this comment. Identifying the 
+specific demographic diversity 
+characteristics to focus on would be 
+too prescriptive and jurisdictional 
+considerations will be relevant. Para 
+28 is meant to be understood against 
+the backdrop of para 27 – ie the
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+presence of demographic diversity, 
+diversity of experiences and diversity 
+of thought can be initial focus areas. 
+ 
+Concerning paragraph 29, the 
+definition of Inclusion within Box 1 of 
+the paper already describes that 
+inclusion involves all people in an 
+organisation feeling a sense of 
+belonging. For this reason, no 
+additional citing of ‘sense of belonging’ 
+is added to para 29. 
+60 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+As stated in paragraph 28 of the paper, “Supervisors may focus first on 
+whether there is diverse representation at the board and senior 
+management level with a view to assessing potential risk of groupthink 
+where key decisions are made.”  While this is important due to the 
+concentration of decision-making responsibility on senior levels of 
+organisations, if firms are not encouraged to nurture a pipeline of 
+diverse talent at all levels, the focus of the supervisory effort may be 
+too narrow to create change at the required speed. This was found in 
+the latest Annual Review of the Women in Finance Charter in the UK. 
+Firms within the analysis that were seen to be accelerating the pace of 
+change showed that introducing initiatives sooner, applying them 
+robustly, monitoring their impact, and sustaining these efforts over 
+years and across different levels within the organisation were key 
+success factors in improving female representation and developing the 
+talent pipeline. We welcome the IAIS’ inclusion of the importance of 
+focusing on building a diverse pipeline of talent under Section 3.2 
+Warning signs an insurer might need to enhance its DEI efforts. 
+ 
+However, there should be more clarity regarding the scope of diversity 
+measurement within decision-making bodies. For instance, some firms 
+“Noting the value in developing a 
+diverse pipeline of talent at all levels” 
+has been added at the end of para 28. 
+This is congruous with the recognition 
+of the importance of creating a diverse 
+pipeline of talent in section 3.2 
+Warning signs an insurer might need 
+to enhance its DEI efforts. 
+ 
+Regarding the scope of diversity 
+measurement within decision-making 
+bodies, jurisdictional considerations 
+and the principle of proportionality will 
+determine what a supervisor may 
+expect in its jurisdiction on the scope 
+of diversity management within 
+decision-making bodies.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+within the industry have highlighted that diversity data is currently 
+collected for Executive Committee members, influencing succession 
+planning and development initiatives. However, this practice does not 
+extend uniformly to Boards, where some members, particularly 
+Independent Non-Executive Directors (INEDs), are not subject to 
+diversity data collection due to their independent status. Moreover, 
+INED appointments often prioritise specific skill sets rather than 
+diversity metrics. While recognising the importance of promoting 
+diversity within decision-making structures, it's crucial to acknowledge 
+the variations in applicability across different roles and contexts within 
+the industry. 
+ 
+We agree that it is important to measure employees’ experiences of 
+inclusion, as this can serve as a valuable indicator of organisational 
+culture. We also believe that inclusion should be monitored 
+consistently, and we have identified this as best practice for our 
+members in our DEI Blueprint. One of the recommended frameworks 
+we highlight is the Financial Services Skills Commission’s inclusion 
+measurement guide.  Supervisors are encouraged to refer to, where 
+possible, best-practice guidance on inclusion metrics that may be 
+relevant to each jurisdiction.  
+   
+HM Treasury Women in Finance Charter: Annual Review 2023 
+https://assets.publishing.service.gov.uk/media/65fb084d9316f5001164
+c432/HMT_WIFC_Review_2023.pdf  
+ 
+Financial Services Skills Commission: Inclusion measurement guide 
+2022 https://wp.financialservicesskills.org/wp-
+content/uploads/2022/07/FSSC-Inclusion-Measurement-Guide-
+updated.pdf
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+61 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+We welcome the IAIS’s approach to relevant matters reflecting the 
+diversity of models and externalities that firms face.  
+ 
+Firms should be able to evidence their approach to diversity of thought 
+and decision making through appropriate records of board and 
+committee meetings. 
+The IAIS takes note of this comment. 
+62 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global As stated in paragraph 28 of the paper, “supervisors may focus first on 
+whether there is diverse representation at the board and senior 
+management level with a view to assessing potential risk of groupthink 
+where key decisions are made”. While this is important due to the 
+concentration of decision-making responsibility in senior levels of 
+organisations, if firms are not encouraged to nurture a pipeline of 
+diverse talent at all levels, the focus of the supervisory effort may be 
+too narrow to create change at the required speed. This was found in 
+the latest annual review of the Women in Finance Charter  in the UK.3 
+Firms in the analysis that were seen to be accelerating the pace of 
+change showed that introducing initiatives sooner, applying them 
+robustly, monitoring impact, and sustaining that effort over years were 
+the key success factors to improving female representation within 
+organisations. As a result, GFIA appreciates that the IAIS has included 
+a mention noting the importance of focusing on building a diverse 
+pipeline of talent under section 3.2 Warning signs an insurer might 
+need to enhance its DEI efforts. 
+GFIA and its members affirm the importance of “measuring employees 
+experiences of inclusion as a valuable indicator of organisational 
+culture”, believing that organisations benefit when they consistently 
+monitor inclusion as noted in section 7. The Association of British 
+Insurers (ABI) for example, has identified this as best practice for their 
+members as part of their DEI Blueprint. 
+ 
+3. HM Treasury Women in Finance Charter: Annual Review 2023 - 
+“Noting the value in developing a 
+diverse pipeline of talent at all levels” 
+has been added at the end of para 28. 
+This is congruous with the recognition 
+of the importance of creating a diverse 
+pipeline of talent in section 3.2 
+Warning signs an insurer might need 
+to enhance its DEI efforts. 
+ 
+The rest of the comment is noted.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+https://assets.publishing.service.gov.uk/media/65fb084d9316f5001164
+c432/HMT_WIFC_Review_2023.pdf 
+63 Insurance 
+Europe 
+European 
+Union 
+As stated in paragraph 28 of the paper, “Supervisors may focus first on 
+whether there is diverse representation at the board and senior 
+management level with a view to assessing potential risk of groupthink 
+where key decisions are made.“  While this is important due to the 
+concentration of decision-making responsibility on senior levels of 
+organisations, if companies are not encouraged to nurture a pipeline of 
+diverse talent at all levels, the focus of the supervisory effort may be 
+too narrow to create change at the required speed. We appreciate that 
+the IAIS has included a mention of the importance of focusing on 
+building a diverse pipeline of talent under section 3.2 Warning signs an 
+insurer might need to enhance its DEI efforts. 
+ 
+We agree that it is important to measure employees’ experiences of 
+inclusion, as this can serve as a valuable indicator of organisational 
+culture. We also believe that inclusion should be monitored 
+consistently. Supervisors are encouraged to refer, where possible, to 
+best practice guidance on inclusion metrics that may be relevant to 
+each jurisdiction. 
+“Noting the value in developing a 
+diverse pipeline of talent at all levels” 
+has been added at the end of para 28. 
+This is congruous with the recognition 
+of the importance of creating a diverse 
+pipeline of talent in section 3.2 
+Warning signs an insurer might need 
+to enhance its DEI efforts. 
+ 
+The rest of the comment is noted. 
+Comments on section 3.2 Warning signs an insurer might need to enhance its DEI efforts 
+64 Institute of 
+International 
+Finance 
+USA With respect to the ‘warning signs’ set forth in Section 3.2 of the Draft 
+Application Paper on DEI, the IAIS has not advanced clear evidence or 
+data that supports a finding of these ‘warning signs’ in insurers’ 
+practices, nor has it demonstrated how better DEI policies and 
+practices could improve the dynamics underlying these ‘warning signs.’ 
+The IAIS should cite any empirical evidence that would link enhanced 
+supervision of insurers’ DEI practices with measurably improved 
+outcomes for policyholders or a material positive impact on financial 
+outcomes or risk management. 
+This paper does not have the purpose 
+of providing empirical evidence. 
+The text at paras 33 and 34 carefully 
+describes what the warning signs are 
+intended to convey; the paper 
+describes that they are not necessarily 
+conclusive of problems with DEI. 
+Consistent also with a point raised by 
+other commentors, we agree that
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+The warning signs also presume a link to DEI considerations that may 
+not necessarily exist in the case of a particular insurer. There can be a 
+number of reasons for the dynamics described in the warning signs.  
+For example, persistent compliance breaches may result from a lack of 
+training or sufficiently qualified personnel rather than from poor DEI 
+policies.  High or long-term vacancy rates and poor recruitment 
+outcomes may be due to a challenging and competitive employment 
+market rather than poor DEI practices.  A lack of challenge in board 
+discussions may reflect the development of a consensus view arising 
+from engagement prior to the board meeting.  
+Importantly, if the IAIS decides to include warning signs in its guidance 
+to supervisors, the warning signs should be measurable and capable of 
+clear linkage to performance deficiencies or financial risks.  Warning 
+signs that are not measurable or quantifiable are unlikely to lead to 
+corrective actions that are meaningful and proportionate. 
+More generally, the IAIS should reconsider aspects of the Draft 
+Application Paper on DEI that direct supervisors to involve themselves 
+in aspects of governance that are the responsibility of the insurer’s 
+board or management, specifically with respect to Paragraph 35. 
+Corporate culture may differ among insurers, reflecting the local 
+context, business models and management styles, and should not be 
+the subject of prescriptive supervisory expectations.  Companies have 
+a reasonable expectation that the individuals they employ will be 
+aligned with the corporate culture and values. 
+interpretation of the warning signs 
+should take into account the 
+jurisdictional and insurer context. 
+Those words “Taking jurisdictional and 
+insurer context into consideration,” are 
+now added at the beginning of para 
+33. 
+ 
+The paper describes that warning 
+signs can prompt further enquiry by the 
+supervisor, and a range of ways 
+supervisors might do this are 
+elaborated in section 4. That is to say, 
+the paper is not prescriptive on what 
+action a supervisor should take in 
+response to observing any particular 
+warning sign. It is not apparent why the 
+commentor considers that the warning 
+signs are unlikely to lead to meaningful 
+and proportionate corrective actions.  
+ 
+The detrimental situations / 
+performance deficiencies covered in 
+para 35 are, we consider, 
+uncontroversially matters that 
+supervisors have a role to remark upon 
+and raise with an insurer if the 
+supervisor observes them due to their 
+link to sound and prudent 
+management and oversight (ICP 7) 
+and effective systems of risk
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+management and internal control (ICP 
+8).  
+65 General 
+Insurance 
+Association 
+of Japan 
+Japan The warning signs illustrated in Section 3.2 are thought-provoking and 
+deserve consideration by insurers in promoting DEI. However, since 
+lack of DEI efforts may not be the only cause of such issues, in 
+practical implementation, it is necessary to scrutinize them based on 
+jurisdictional circumstances (e.g., labor market conditions could impact 
+high employee attrition and poor recruitment outcomes, etc.). 
+ 
+Paragraph 35: Observing board meetings by supervisors is considered 
+to be an excessive response and should be deleted from the 
+description. For example, while it is also considered important for 
+supervisors to avoid groupthink, it may not be an option, as their own 
+response, to hold executive meetings with outsiders. Taking such 
+measures only on the insurer side is not considered appropriate 
+supervision. 
+The IAIS take note of this comment. 
+The words “Taking jurisdictional and 
+insurer context into consideration,” are 
+added at the beginning of para 33. 
+ 
+ 
+The reference to observing board 
+meetings is retained in the paper. It is 
+mentioned as one of several ways in 
+which supervisors may detect lack of 
+challenge and robustness in board 
+discussions. Observing board 
+meetings is something that supervisors 
+in many jurisdictions have the power to 
+do, and do at times. The reference is 
+very neutrally stated; it is not 
+expressed as a recommendation nor 
+as a requirement.    
+66 Progress 
+Together 
+UK Progress Together welcomes the list of potential warning signs for 
+insurers’ attention. It may be helpful to include specific information / 
+statistics relating to the insurance industry (if available) on DEI issues 
+that are more prevalent within the sector. Progress Together’s 5-step 
+plan includes data collection and evidence gathering as one of the 
+cornerstones of our members’ journey towards achieving greater socio-
+economic diversity and inclusion. We are proud to state that 100% of 
+our members are measuring and collecting data on socio-economic 
+background. We encourage the IAIS to continue generating thought 
+leadership and “what works” for the sector for best practice and 
+knowledge sharing. 
+The IAIS takes note of this comment. 
+The suggestion is not consistent with 
+the purpose of this paper.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+67 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+The ABI is supportive of the wide range of warning signs that have 
+been identified by IAIS.  
+ 
+We agree that a number of supervisory interventions may be needed, 
+considering how contextual and often multi-faceted the reasons for any 
+detected corporate culture warning signs can be. Especially when it 
+comes to retention, it can often be more impactful to focus efforts on 
+continuous data collection and actioning rather than exit interviews, 
+which are often more difficult to action and prioritise. As part of our DEI 
+Blueprint, we have set best practices for firms to work on collecting and 
+being better at analysing granular DEI data. An example of this is to 
+work to improve the granularity of regional data on DEI, so that firms 
+can tailor their strategies and targets to the needs of the areas where 
+their employees live and work. Granular data better informs firms of the 
+intersectional experiences of employees, and, thus, can improve 
+retention. 
+ 
+We also encourage member firms to work to continually improve the 
+usefulness of the data they publish by clearly setting out any relevant 
+contextual information to understand the data (such as information on 
+sample sizes and methodologies). Similarly, supervisors should adopt 
+this practice when publicising data collected from firms in the market. 
+ 
+To repeat our recommendation on collaborating with relevant external 
+pledges, supervisors can look at best practices from some of the well-
+established charters in the market in order to mitigate the risk of firms 
+not purposefully following through on their DEI pledges. For example, 
+the Women in Finance Charter publishes its transparent annual review, 
+where firms that have not met their targets will be listed. These firms 
+will also be asked for the reasons for not meeting their targets, which 
+allows for a proportional and transparent approach. Similar approaches 
+could be suggested to other charters in the market. 
+The IAIS takes note of this comment.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+68 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+There are additional metrics that are listed in this area that supervisors 
+would not currently collect such as recruitment. Care should be taken 
+to balance the benefits and likely burden to firms of providing metrics, 
+and the drivers that may impact the interpretation of such metrics.  
+ 
+Paragraphs 35 & 36 need to consider the different models and sizes of 
+firms and the proportionality of application, particularly to smaller firms.   
+Indicators need to be seen in context of wider ongoing activities. For 
+example,  
+- positive changes in culture could in the short-term increase 
+whistleblowing, employment disputes, attrition and disciplinary rates.  
+- Firms at different stages or with international aspects may already be 
+at different stages of the DEI journey.  
+- Smaller firms may have less data capture or formal approach to DEI. 
+This may be proportionate and legitimate. 
+The IAIS takes note of this comment. 
+ 
+The words “Taking jurisdictional and 
+insurer context into consideration,” are 
+added at the beginning of para 33.  
+ 
+.  
+ 
+69 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global Overall, there is broad support for the range of early warning signs 
+identified by the IAIS and that several supervisory interventions may be 
+needed, with two suggestions with regards to the following point: 
+ 
+Lac
+k of challenge in board discussions and key decision-making 
+processes 
+A note on board monitoring: 
+The IAIS suggests that supervisors could monitor DEI dynamics in 
+board meetings by “supervisors observing board meetings to see the 
+group dynamics of the board and how comfortable board members are 
+to contribute and challenge”. However, the IAIS then goes on to 
+acknowledge “that the presence of supervisors may in some cases 
+change the board’s behaviour during a meeting, holding interviews with 
+individual directors can provide additional insights into regular 
+practices.” 
+GFIA proposes omitting the recommendation that supervisors should 
+attend board meetings and monitor them. This suggestion aligns with 
+The IAIS take note of this comment. 
+Concerning exit interview, a sentence 
+has been added at the end of the 
+paragraph.  
+ 
+ 
+Regarding observing board meetings, 
+see resolution of comment 65.  
+It is a mischaracterisation to say, as 
+this comment alleges, that the IAIS 
+observes that the supervisory action of 
+observing board meetings “could stifle 
+board discussions and potentially 
+compromise the quality, candour, and 
+effectiveness of these meetings, thus 
+undermining good governance”. The 
+paper says only “the presence of
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+the IAIS’s observation that such supervisory action could stifle board 
+discussions and potentially compromise the quality, candour, and 
+effectiveness of these meetings, thus undermining good governance. 
+Instead, GFIA advocates for alternative supervisory techniques, such 
+as conducting interviews with directors or reviewing board minutes, 
+which GFIA believes are more appropriate and proportionate methods 
+of monitoring board behaviour. 
+ 
+High employee attrition levels and/or retention challenges 
+A note on exit interviews: 
+1. With retention, it can often be more impactful to focus efforts on 
+continuous data collection and actioning rather than exit interviews. 
+2. Suggest adding at the end of this paragraph “Supervisors should be 
+careful to consider context in relation to retention challenges as there 
+can be many other reasons for these challenges other than lack of 
+DEI”. 
+On the question “Should supervisors have access to exit interviews?”, 
+GFIA and its members suggest caution here, particularly with regards 
+to supervisors having access to personal information of employees.   
+Recruitment, retention, and attrition indicators in a market of full 
+employment to be considered in context. Proportionality is also 
+important with the size of the organisation also to be considered in the 
+supervisory framework, whereby small and medium organisations may 
+not have budgets to be able to assign a full role dedicated to DEI and 
+supervisory expectation to be managed.  
+The recommendation for collaborating with external sources of data 
+was again emphasised, whereby supervisors can look at best practice 
+from some well-established charters in the market to mitigate the risk 
+of not purposefully following through on their DEI pledges. 
+supervisors may in some cases 
+change the board’s behaviour during a 
+meeting”.  
+70 Insurance 
+Europe 
+European 
+Union 
+Overall, Insurance Europe supports the range of early warnings 
+identified by the IAIS. However, supervisors should be careful to point 
+to DEI factors as the cause of such challenges as these challenges 
+The IAIS take note of this comment. 
+These suggestions have been taken
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+could also originate from other reasons other than DEI issues. It is 
+important to carefully consider the context in order to identify the right 
+factors in relation to such challenges. 
+  
+For example, in paragraph 35 (high employee attrition levels and/or 
+retention challenges ), we suggest adding at the end of this paragraph 
+“Supervisors should be careful to consider context in relation to 
+retention challenges as there can be many other reasons for these 
+challenges other than lack of DEI.” A similar sentence could be 
+introduced under other warning signs. 
+ 
+The IAIS suggests that supervisors could monitor DEI dynamics in 
+board meetings by “supervisors observing board meetings to see the 
+group dynamics of the board and how comfortable board members are 
+to contribute and challenge”. However, the IAIS then goes on to 
+acknowledge: “recognising that the presence of supervisors may in 
+some cases change the board’s behaviour during a meeting, holding 
+interviews with individual directors can provide additional insights into 
+regular practices.” 
+ 
+The recommendation that supervisors may attend and monitor board 
+meetings should be omitted. The IAIS itself recognises that such 
+supervisory action could stifle board discussions and potentially 
+compromise the quality, frankness and effectiveness of these 
+meetings, thus undermining good governance. Supervisors should 
+explore alternative supervisory techniques, such as conducting 
+interviews or review board minutes. 
+ 
+Finally, supervisors can also look at best practices from some of the 
+well-established charters in the market in order to mitigate the risk of 
+companies not purposefully following through on their DEI pledges. In 
+many EU jurisdictions, national initiatives such as the  “Women in 
+into account, see the resolution of 
+comment 69. 
+ 
+Regarding observing board meetings: 
+see resolution of comment 65.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+Finance Charter” initiative publishes a transparent Annual Review, 
+where companies that have not met their targets are listed. These 
+companies will also be asked why they haven’t met their targets, which 
+allows for a proportional and transparent approach. Similar approaches 
+could be suggested to other charters. 
+Comments on Box 3 What is DEI-washing? 
+71 National 
+Association 
+of Insurance 
+Commission
+ers (NAIC) 
+National 
+Association 
+of Insurance 
+Commission
+ers (NAIC) 
+For clarification, suggest the following revision: 
+ 
+Subsequently, this can cause problems regarding ESG ratings, where 
+utilised or required. 
+IAIS has reflected the suggested 
+addition of saying “ESG ratings where 
+utilised or required” but through an 
+addition to the next sentence.   
+72 Progress 
+Together 
+UK Progress Together welcomes this explanation on DEI-washing, and in 
+particular the challenges with inaccurate or misleading public 
+disclosures of companies’ commitment and impact on DEI. We 
+welcome guidance from the IAIS on social sustainability / DEI 
+disclosures for the insurance industry. 
+ 
+73 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+The ABI does not endorse any form of DEI-washing, and our DEI 
+Blueprint sets a clear expectation that our sector should focus on 
+fostering a culture of transparency where evidence informs 
+prioritisation and the progress being made is regularly reviewed.  
+ 
+The recognition that DEI washing can take different forms, as 
+highlighted in the paper, is important. Strategies, pledges, targets, and 
+other statements on DEI should be supported by timelines and 
+measures that hold firms accountable. Supervisors have a role in 
+ensuring these pledges are backed up by reasonable steps or 
+guidance on how the organization expects to achieve or fulfil their 
+commitments. 
+ 
+Importantly, supervisors should be weary of potentially dubious tactics 
+Extra language has been added to Box 
+3 consistent with comments raised 
+here that strategies etc should be 
+supported by reasonable measures 
+and timelines that demonstrate 
+genuine commitment and hold the 
+insurer accountable.  
+ 
+The IAIS notes the suggestion that, in 
+due course, there be case studies and 
+guidance on DEI-washing. This could 
+be the subject of further work by the 
+IAIS at a later time.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+to reach these goals, such as hiring a demographic only at the entry 
+level with no plans on how to ensure they reach higher levels of 
+seniority. Supervisors should also be aware of firms enacting poor 
+internal inclusion, leading to a poor experience for diverse employees.  
+ 
+A pragmatic definition of ‘DEI washing’ should remain, as we are 
+cognisant that there is no one particular way in which this happens, but 
+once more examples come to light, in order for supervisors to help 
+detect this behaviour, case studies and guidance should be shared. 
+74 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+Firms should be wary of DEI washing as this could lead to litigation 
+similar to Greenwashing. It is important that firms are able to refer to 
+aspirations rather than setting hard targets that may not be achievable. 
+Particularly in jurisdictions where there are legal risks to taking positive 
+action.  
+ 
+Whilst not language used elsewhere in the document this box assumes 
+inequalities are present. Whilst this is currently expected, it is not 
+certain, and calls into question the long term ambitions of the approach 
+to DEI. 
+It is considered that the description of 
+what would be “DEI-washing” in the 
+first para of Box 3 already does not 
+encapsulate genuinely held 
+aspirational statements that the insurer 
+is actually going to make an effort to 
+accomplish.  
+To further clarify, a sentence has been 
+added “Strategies, pledges, targets 
+and other statement on DEI should be 
+supported by reasonable measures 
+and timelines, and insurers should be 
+able to demonstrate genuine 
+commitment to achieving those 
+statements”.  
+75 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global GFIA and its member do not endorse DEI washing and recognise its 
+various forms, which can result in superficial rather than genuine 
+commitment to DEI.  As stated by the IAIS, this can “lead to poorly 
+defined insurance needs, leaving consumers without suitable product 
+options – and may impact ESG ratings”. 
+It is recommended that strategies, pledges, targets, and other 
+statements on DEI are supported with measures that hold the firms 
+accountable and that supervisors are wary of tactics that enable DEI 
+Extra language has been added to Box 
+3 consistent with comments raised 
+here: 
+- Regarding what is DEI-
+washing, “One example could 
+be hiring a particular 
+demographic only at the entry 
+level with no plans to ensure
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+washing (such as hiring a specific demographic cohort only at entry 
+level with no plan on how to ensure they reach higher levels of 
+seniority). Moreover, singular, off-the-shelf and/or strategically de-
+linked leader and staff training could also be a form of DEI washing. 
+It is further recommended that a pragmatic definition of ‘DEI washing’ 
+should remain, given the multiple ways DEI washing can take form and 
+the expectation that more examples will come to light. It is 
+recommended that for supervisors to help detect this behaviour, case 
+studies and guidance should be shared. 
+ 
+On phrasing, GFIA recommends that the section on DEI washing ends 
+with the first sentence that is in the third paragraph “Concerning the 
+insurance sector, a real diversity of talent and realities in the workforce 
+can lead to a much more comprehensive product offering that is far 
+more tailored to consumers’ needs.” 
+they reach higher levels of 
+seniority”; and 
+- “Strategies, pledges, targets 
+and other statements on DEI 
+should be supported by 
+reasonable measures and 
+timelines and insurers should 
+be able to demonstrate 
+genuine commitment to 
+achieving those statements”. 
+ 
+Consistent with the raising of the 
+recommendation by ABI in comment 
+73 that, in due course, there be case 
+studies and guidance on DEI-washing, 
+the IAIS notes this suggestion that it 
+could be the subject of further work by 
+the IAIS at a later time.  
+ 
+The recommendation to end the 
+section earlier is not adopted, no 
+rationale was advanced for this 
+change. 
+76 Insurance 
+Europe 
+European 
+Union 
+Insurance Europe condemns DEI washing. As stated by the 
+Application Paper, it can “lead to poorly defined insurance needs, 
+leaving consumers without suitable product options – and may impact 
+ESG ratings” 
+ 
+It is recommended that that strategies, pledges, targets, and other 
+statements on DEI are supported by internal policies that hold the 
+companies accountable and that supervisors are wary of tactics that 
+enable DEI washing (such as hiring a particular demographic only at 
+Extra language has been added to Box 
+3 consistent with comments raised 
+here – see resolution of comment 75.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+entry level with no plans to ensure they reach higher levels of 
+seniority). 
+ 
+It is further recommended that a pragmatic definition of “DEI Washing” 
+remains, given the multiple forms DEI washing can take. Supervisors 
+can help detect this behaviour by sharing case studies and discussing 
+with companies. 
+Comments on Box 4 Indicators of positive action on DEI at an insurer 
+77 General 
+Insurance 
+Association 
+of Japan 
+Japan We suggest adding "Publication of policies, goals, indicators, etc. on 
+DEI through sustainability reports, DEI reports, etc." as one of the 
+"indicators of positive action on DEI at an insurer". 
+IAIS take note of this comment and 
+added this suggestion in Box 4 under 
+“Evidence”. 
+78 Progress 
+Together 
+UK Progress Together welcomes these indicators of positive action, as 
+many are aligned to our list of suggested interventions and actions that 
+our members can take to drive forward the socio-economic diversity 
+and inclusion agenda.  
+ 
+However, the list can benefit from more specificity and evidence in 
+understanding how different interventions may work across different 
+identity characteristics (e.g., setting targets may be helpful for driving 
+progress for some individuals). 
+IAIS takes note of this comment. No 
+changes are made. The approach in 
+Box 4 balances the level of specificity 
+and detail appropriate for this paper. 
+We consider the tools are well enough 
+explained, and the Evidence section 
+gives enough insight.  
+ 
+ 
+79 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+The ABI appreciates the IAIS’ list of indicators, which highlight positive 
+DEI action for insurers. In our role as a representative body of the UK 
+insurance and long-term savings sector, we are committed to sharing 
+best practices from our member firms on these indicators, and our DEI 
+Blueprint Progress Report  has practical case studies, such as 
+examples of rotational development programs, other training programs 
+and inclusive policies. 
+ 
+The ABI also hosts a DEI Network for its members to facilitate 
+IAIS takes note of this comment.   
+ 
+A precision concerning CEO has been 
+added in Box 4 under “Enablers”.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+discussion and sharing of best practice. In addition, there is a Board-
+level sub-group focusing on DEI, which sets the strategic direction of 
+the ABI’s work on DEI. We agree with the IAIS that active engagement 
+in knowledge sharing between firms on DEI is a good indicator of 
+positive action on the topic, and we will continue to enable this for our 
+member firms. 
+ 
+Although, we appreciate that the IAIS’ list is not meant to be 
+exhaustive, we believe that CEOs and those who lead organisations 
+should be explicitly mentioned as enablers of positive action. The IAIS 
+highlights that DEI efforts should be at all levels, but emphasis should 
+also be placed on those at the top of the organisation to actively 
+support DEI efforts and champion this in their organisations. Tools to 
+help with this include adding this to performance objectives and 
+remuneration.  
+ 
+Furthermore, the ABI welcomes the inclusion by the IAIS of “clear 
+accountabilities set, e.g. prescribed responsibilities,” as indicated in 
+Box 4 of the paper. 
+ 
+Prescribed responsibilities seek to do this and would be effective in 
+endeavours to manage risks driven by insufficient DEI.  The ABI 
+believes that by allocating DEI as a prescribed responsibility to a board 
+member or governing body, this will help to mitigate against these 
+risks. This also helps ensure that focus is driven at the top levels and 
+that responsibility is allocated on a basis that holds an individual to 
+account.  
+ 
+ABI DEI Blueprint progress report 2023 https://www.abi.org.uk/about-
+the-abi/dei-hub/dei-blueprint-progress-report-2023/
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+80 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+There is a need to take into account the different models and sizes of 
+firms and the proportionality of application. 
+Proportionality is prominently 
+referenced in the AP. This includes 
+recognising that size, location and 
+nature of the insurer are relevant 
+factors.   
+81 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global GFIA and its members support the indicators of positive DEI action at 
+an insurer level, these are noted under the headings of Enablers, 
+Tools, Evidence and Controls and Reporting. 
+Recognising that the IAIS list of indicators is not meant to be 
+exhaustive, it is recommended that CEO’s and those who lead the 
+organisations should be mentioned explicitly as enablers of positive 
+action, with tools to help with this including CEO and senior leaders’ 
+performance objectives and remuneration. 
+Note: the risk of a box-ticking culture may be exacerbated by financial 
+incentives linked to reaching certain quantitative diversity metrics. 
+Instead, it is more effective to link DEI non-financial performance 
+metrics for variable remuneration to the delivery of a diversity and 
+inclusion strategy more generally. 
+A precision concerning CEO has been 
+added in Enablers section.  
+ 
+Regarding remuneration, para 26 
+cautions that certain approaches to 
+DEI remuneration incentives may 
+exacerbate the risk of a box-ticking 
+culture. Yet, it is still considered that 
+remuneration is one of the tools that 
+can be used appropriately and 
+effectively by insurers to drive good 
+DEI outcomes and hence appropriately 
+cited under “Tools” in Box 4. 
+Relatedly, some refinements have 
+been made to the two sentences in 
+para 26 on remuneration to more 
+clearly and more accurately express 
+the intended message. It now reads:  
+“The risk of a box-ticking culture may 
+be exacerbated by financial incentives 
+linked only to quantitative diversity 
+metrics in a superficial manner. 
+Instead, DEI metrics for variable 
+remuneration should also link to more 
+sustainable progress (eg the delivery 
+of a DEI strategy, more diversity in the 
+talent pipeline, retention of staff).”
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+82 Insurance 
+Europe 
+European 
+Union 
+Insurance Europe appreciates the IAIS’ list of indicators that highlight 
+positive DEI action for insurers. 
+ 
+It should be pointed out that while remuneration can be a useful tool to 
+drive good DEI outcomes (eg incentives, performance targets and 
+consequence management), if not carefully considered, it can lead to a 
+box-ticking culture where the focus is merely on reaching certain 
+quantitative diversity metrics, without leading to genuine commitment 
+to sustainable improvements. 
+ 
+Furthermore, Insurance Europe welcomes the inclusion by the IAIS of 
+“Clear accountabilities set, e.g. prescribed responsibilities” as indicated 
+in Box 4 of the paper, Indicators of positive action on DEI at an insurer 
+detailed under tools used.  
+ 
+Insurance Europe believes that allocating DEI as a prescribed 
+responsibility to a board member or governing body can help improve 
+the DEI situation in a company. It would guarantee the commitment of 
+the top levels of the organisation. 
+Regarding remuneration – see 
+resolution of comment 81. 
+ 
+The rest of the comment is noted. 
+Comments on section 4 What can a supervisor do in response? 
+83 Institute of 
+International 
+Finance 
+USA Section 4 of the Draft Application Paper on DEI discusses possible 
+supervisory responses to DEI issues at an insurer. Recognizing the 
+range of approaches to DEI and the continuing evolution of the 
+understanding and measurability of DEI, we encourage the IAIS to 
+focus on the use of soft powers described in Section 4.1.1.  In light of 
+the challenges in quantifying diversity metrics, we do not believe that 
+extensive data collections would result in the collection of meaningful 
+or actionable information, even if those data collections are consistent 
+with the supervisory mandate.  The results of DEI data collections may 
+reflect a variety of dynamics in a particular market that are not 
+Comment noted. In section 4.1.1 it 
+made clear that the use of soft powers 
+may be a starting point for a supervisor 
+to encourage progress. It must 
+however be acknowledged that there 
+may well be instances where particular 
+risks are identifies and issues persist, 
+and the supervisor may feel that more 
+formal action is required to drive 
+meaningful change.  As noted in
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+reflective of an insurer’s or the industry’s commitment to DEI.  As noted 
+above, we encourage supervisors to explore best practices for the 
+incorporation of DEI considerations in the policies and practices of 
+insurers (as well as insurance authorities). 
+Paragraph 6 of the Application Paper 
+on DEI, local circumstances, 
+particularly the legal, cultural and 
+historical context, will influence how 
+DEI is considered and the actions 
+taken by supervisors and insurers.  
+ 
+It is important that the paper be 
+considered with this in mind, and read 
+in the context of the proportionality 
+principle as explained in paragraph 
+1.3. 
+ 
+We do not agree that diversity metrics 
+is unquantifiable as the commentators 
+seems to suggest. On the contrary the 
+benefits of collecting and using data as 
+part of a DEI strategy is explained in 
+Box 5 of the Application paper. The 
+box provides  examples of how data 
+can be analysed to form an 
+assessment of the robustness of the 
+insurers’ strategic approach to DEI, as 
+well as to identify outliers.  
+ 
+An appropriate balance is struck in 
+recognising the potential limitation that 
+may arise due to  the supervisory 
+mandate, jurisdictional context or in the 
+absence of legislative power, and the 
+paper is not prescriptive in the types of 
+responses by supervisors, but instead
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+suggest the range of options available 
+to supervisor. It would be up to the 
+discretion of the particular supervisor, 
+and dependent on their powers as to 
+what exact action will be taken.  
+84 General 
+Insurance 
+Association 
+of Japan 
+Japan As DEI is an important issue for insurers, it is also important for 
+supervisors to understand the status of DEI among insurers. While 
+there are a variety of possible approaches and intensities of 
+supervision related to DEI, it is desirable to take a balanced approach, 
+for example, by utilizing existing frameworks and without being overly 
+detailed. 
+Comment noted.   
+The paper sets out options for 
+approaches/actions that may be taken 
+by supervisors and acknowledges that 
+the supervisor will determine which 
+approach according to a range of 
+considerations – see paras 40 and 54. 
+The paper itself will not prescribe what 
+is the right balance of approach in 
+each context. 
+85 Progress 
+Together 
+UK As a membership body that covers over a third of the financial services 
+sector in the UK, Progress Together welcomes the IAIS’s push towards 
+industry-wide actions. It is through coordinated effort and knowledge-
+sharing across the sector that systemic changes can be realised. 
+Comment noted. 
+86 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+We support the expectation that supervisors bring their influence to 
+improving DEI within the insurance industry. We have responded to the 
+PRA and FCA consultations on diversity and inclusion. These can be 
+found on our website:   
+ 
+It is understood that this is necessarily generic to consider local 
+legislation and relevant powers within the local jurisdictions. The more 
+interventionist approaches proposed, and in line with 4.1.3, form a 
+danger that the proposals move into the areas of public and social 
+policy.  
+ 
+Supervisors will need to be mindful of the local political and legal 
+landscape. Some jurisdictions have had issues with “Anti ESG” 
+Comment noted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agreed. As noted in Paragraph 6 of 
+the Application Paper on DEI, local
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+movements through litigation and even state or federal legislation. This 
+could be reflected in the response to any new DEI rules, and could be 
+detrimental to those firms already undertaking DEI work.  
+ 
+Supervisors also need to consider the availability of talent pipeline with 
+the appropriate levels of skills and knowledge to meet the current ICP 
+7.3 expectations. It may take time for firms to develop an appropriate 
+succession strategy and therefore should not be seen as a short-term 
+expectation.  
+ 
+It will not always be possible to recruit externally from the industry. 
+Particularly if firms in other industries are chasing a small number of 
+experienced candidates. It is also potentially misplaced to use DEI 
+factors within shortlists or recruitment processes, as this creates legal 
+and employment relations risks. 
+circumstances, particularly the legal, 
+cultural and historical context, will 
+influence how DEI is considered and 
+the actions taken by supervisors and 
+insurers.  
+ 
+Comment noted. 
+ 
+ 
+ 
+Comment noted on the risk that may 
+arise. This risk should be considered 
+alongside all potential risks that may 
+arise due to the absence of an 
+appropriate DEI strategy and policies 
+and procedures. See para 24 in 
+Section 2 of the paper.  
+87 Insurance 
+Europe 
+European 
+Union 
+While recognising that progressing towards more diverse 
+representation and embedding more inclusive practices is a learning 
+curve for all institutions, supervisors may consider using their 
+convening powers to work together with the industry on identifying 
+challenges and sharing learnings and steps to overcome them. This 
+may be particularly helpful where common challenges exist, including 
+in creating a diverse pool of candidates for both insurers and 
+supervisors alike, as well as identifying and working through barriers 
+certain groups of individuals may face once within the workforce (eg 
+flexible working). Partnering with other suitable organisations to drive 
+attention/progress on DEI (eg peer supervisors, government or similar 
+agencies, professional bodies etc) can also support a broader 
+approach that provides diversity of thought and experience, including 
+from other sectors. 
+ 
+Comment noted.  
+ 
+The benefits of engaging with peer 
+organisations on DEI are touched on in 
+Box 4 of the application paper that set 
+out possible indicators of positive 
+action on DEI at an insurer and 
+confirmed in paragraph 44 of section 
+4.1.2 of the application paper.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+If taking more formal action, supervisors should ensure that there is a 
+sufficiently clear connection between the lack of DEI and its 
+contribution to the adverse outcome for the insurer. This will ensure 
+that any follow up action is not only proportionate but also achieves the 
+intended objectives as it address the root causes of such challenges. 
+Comment noted.  
+Comments on section 4.1 Industry-wide approach 
+88 General 
+Insurance 
+Association 
+of Japan 
+Japan DEI is an important issue for insurers, but the content and extent of 
+their initiatives are likely to vary depending on the jurisdiction and the 
+size and nature of the insurer's business. Therefore, we believe that 
+even when an industry-wide approach to DEI supervision is taken, it 
+should not be overly detailed and should take into account the 
+proportionality principle. In addition, implementation should first be 
+carried out within existing frameworks, and new regulations and 
+requirements should be limited to circumstances where they are truly 
+necessary. 
+Comment noted. As noted in 
+Paragraph 6 of the Application Paper 
+on DEI, local circumstances, 
+particularly the legal, cultural and 
+historical context, will influence how 
+DEI is considered and the actions 
+taken by supervisors and insurers.  
+ 
+It is important that the paper be 
+considered with this in mind, and read 
+in the context of the proportionality 
+principle as explained in para 1.3. 
+89 Progress 
+Together 
+UK See comment for previous section.  
+90 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+The ABI agrees that it is of high importance for supervisors to act as 
+role models by showcasing best practice within their own 
+organisations. In addition to cooperating with other relevant authorities, 
+the ABI would encourage supervisors to engage with trade bodies and 
+other representative associations on DEI (as mentioned under “4.1.1 
+Use of soft powers”). This can help drive consistent messaging, and 
+insurers may wish to engage with the supervisor through their own 
+representative body. This will also ensure efficient communication of 
+key messaging. 
+Comment noted.  
+The benefits of engaging with peer 
+organisations on DEI are touched on in 
+Box 4 of the application paper that set 
+out possible indicators of positive 
+action on DEI at an insurer and 
+confirmed in paragraph 44 of section 
+4.1.2 of the application paper.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+91 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+It is acknowledged that poor DEI practices may negatively impact the 
+reputation of firms and the wider perception of the industry.  
+ 
+Paragraph 39 references “where poor DEI practices are culminating in 
+adverse outcomes that already are, or are likely to, negatively impact 
+the safety and soundness of insurers”. It is not clear if there is an 
+evidential basis for this link. Care should be taken in inferring an 
+industry wide problem in DEI or that this would impact the “safety and 
+soundness of insurers”. 
+Slight grammatical changes have been 
+made at para 39 to better 
+communicate the intended meaning of 
+those sentences. The intention is to 
+say “if this were the situation” not to 
+make an assertion that this is 
+necessarily currently the situation.  
+92 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global The IAIS notes that “some DEI challenges may be common across the 
+insurance sector, and so an industry-wide approach [on DEI 
+engagement by insurance supervisors] may be warranted.”  
+GFIA suggests that the IAIS encourages supervisors to engage with 
+relevant industry trade associations as they consider which industry-
+wide supervisory approaches to implement on DEI issues. Such 
+engagement would allow insurers an opportunity to propose optimal 
+ways of addressing DEI challenges, and to provide evidence to 
+supervisors. The use of ‘formal powers’ to create new requirements 
+could be problematic. 
+Comment noted.  
+The benefits of engaging with peer 
+organisations on DEI are touched on in 
+Box 4 of the application paper that set 
+out possible indicators of positive 
+action on DEI at an insurer and 
+confirmed in paragraph 44 of section 
+4.1.2 of the application paper. 
+93 Insurance 
+Europe 
+European 
+Union 
+Insurance Europe agrees that it is of high importance for supervisors to 
+act as role models by showcasing best practice within their own 
+organisations. In addition to cooperating with other relevant authorities, 
+supervisors can engage with trade bodies and other representative 
+associations on DEI (as mentioned under “4.1.1 Use of soft powers”). 
+This can help drive through consistent messaging, and insurers may 
+wish to engage with the supervisor through their own representative 
+body. This will also ensure efficient communication of key messaging.  
+ 
+If the IAIS would take on an educational role it could provide a strong 
+foundation to promote the importance of DEI in the market. The IAIS’ 
+actions to inform, educate, and promote the implementation of DEI, 
+Comment noted.  
+The benefits of engaging with peer 
+organisations on DEI are touched on in 
+Box 4 of the application paper that set 
+out possible indicators of positive 
+action on DEI at an insurer and 
+confirmed in paragraph 44 of section 
+4.1.2 of the application paper. 
+ 
+The IAIS declared the topic of DEI a 
+strategic theme of its 2020-2024 
+Strategic Plan and has taken many 
+steps in this regard including pursuing
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+along with insurers' actions, will be key to implement and increase 
+awareness of DEI policies. 
+two Application Paper projects and 
+convening discussions on the theme at 
+its upcoming 2025 Annual Conference. 
+The IAIS is pleased to be drawing 
+attention and promoting dialogue on 
+DEI between supervisors and industry, 
+and is supportive of its members doing 
+the same.  
+Comments on section 4.1.1 Use of soft powers 
+94 General 
+Insurance 
+Association 
+of Japan 
+Japan The use of soft powers by supervisors would be useful in promoting 
+DEI initiatives by insurers. In jurisdictions where many insurers have 
+published sustainability-related reports covering DEI, it would also be 
+useful to utilize such reports. 
+Comment noted. 
+95 Progress 
+Together 
+UK Progress Together is a convening body, and is supportive of the 
+recommendations set out in this section for partnerships with other 
+suitable organisations to drive attention and focus on DEI. 
+Comment noted. 
+96 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+These soft powers are an appropriate use of the supervisors convening 
+powers. As DEI is also seen as a potential risk mitigant, these 
+educational powers are therefore likely to be persuasive to many firms. 
+Comment noted. 
+97 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global On paragraph 44, GFIA and its members welcome the recognition that 
+“advancing diverse representation and embedding more inclusive 
+practices is a learning curve for all institutions.” Additionally, GFIA 
+recognises the role of supervisors in facilitating shared learnings and 
+best practices, exemplified by suggested initiatives like roundtable 
+discussions. 
+Comment noted. 
+98 Insurance 
+Europe 
+European 
+Union 
+Insurance Europe welcomes the recognition that ‘advancing diverse 
+representation and embedding more inclusive practices is a learning 
+curve for all institutions.’ Additionally, we recognise the role of 
+Comment noted.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+supervisors in facilitating shared learnings and best practices, 
+exemplified by suggested initiatives such as roundtable discussions. 
+Comments on section 4.1.2 Incorporating DEI themes into supervisory approaches 
+99 General 
+Insurance 
+Association 
+of Japan 
+Japan DEI supervision from the perspective of corporate governance, risk 
+management, etc. should first be conducted within existing supervisory 
+frameworks, and new regulations and requirements should be limited 
+to circumstances where they are truly necessary.  
+ 
+In addition, even when conducting thematic surveys, consideration 
+should be given to whether the necessary information can be obtained 
+from publicly available information of insurers. 
+In section 4.1.1 it is made clear that the 
+use of soft powers may be a starting 
+point for a supervisor to encourage 
+progress. It must however be 
+acknowledged that there may well be 
+instances where particular risks are 
+identified and issues persist, and the 
+particular supervisor may feel that more 
+formal action is required to drive 
+meaningful change.  As noted in para 6 
+local circumstances, particularly the 
+legal, cultural and historical context, will 
+influence how DEI is considered and 
+the actions taken by supervisors and 
+insurers. 
+The paper sets out options for 
+approaches/actions that may be taken 
+by supervisors and acknowledges that 
+the supervisor will determine which 
+approach according to a range of 
+considerations – see paras 40 and 54. 
+The paper itself will not prescribe what 
+is the right balance of approach in each 
+context.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+The paper makes regular reference to 
+the proportionality principle which does 
+include that supervisory techniques and 
+practices should not go beyond what is 
+necessary in order to achieve their 
+purpose (footnote 3 at para 14).   
+100 Progress 
+Together 
+UK Progress Together is supportive of the recommendations in this 
+section, particularly in incorporating DEI into supervisory approaches 
+(e.g., governance, risk management, corporate culture). Within our 5-
+step plan to achieving socio-economic parity at the top, we ask all our 
+members to assign clear accountability and responsibility via a senior 
+sponsor / champion for this work. We encourage our members to set 
+internal targets to test what works; for instance, 10% of our members 
+have introduced targets for workplace diversity particularly relating to 
+socio-economic background. 
+Comment noted. 
+101 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+The ABI agrees that alternative ways of adding DEI to supervisory 
+approaches may be needed.  
+ 
+Paragraph 48 of the paper states that “where supervisors have less 
+insight into DEI through regular supervision, they may consider 
+conducting a thematic industry-wide study (or selecting certain 
+insurers), including through surveys and document reviews.” Surveying 
+and interviewing firms on DEI is a valuable way to gain market insights. 
+However, the ABI encourages supervisors to ensure that samples 
+intended to produce industry-wide insights are proportional to market 
+size. This approach will help ensure that the findings are truly 
+representative. Insurers vary greatly in size, business model, and 
+location, which will influence their approaches to DEI as well. In 
+addition, it would be beneficial for participating firms to receive 
+constructive and practical feedback on their submissions. 
+Comment noted.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+102 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+The arrangements outlined appear to envisage a close “relationship 
+managed” liaison with individual firms. This is unlikely to be the case 
+for most firms within the insurance market, particularly independent 
+intermediaries.  
+Care should be considered on the level of burden this would place on 
+supervisors and firms. This could be resource intensive and remove 
+focus from other areas of supervisory responsibility. 
+The paragraph does not propose any 
+closer engagement than is the usual 
+supervisory practice. It is because of 
+the potential resource implications 
+raised by the commentator that the 
+paragraph suggests that DEI 
+consideration can be integrated into 
+existing supervisory practices as DEI 
+warning indicators
+ may all be identified 
+as part of supervision of other risk 
+indicators related to governance, risk 
+management and culture.  
+ 
+An addition has been made in section 
+4.1.2 “Incorporating DEI themes into 
+supervisory approaches” at the end of 
+para 45:  
+“Integrating DEI-related enquiries into 
+supervisory approaches should be 
+done in ways that complement and 
+reinforce the supervisors’ focus on the 
+core oversight areas of governance, 
+risk management and corporate 
+culture.”  
+103 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global Paragraph 48 states that, “where supervisors have less insight into DEI 
+through regular supervision, they may consider conducting a thematic 
+industry wide study (or selecting certain insurers), including through 
+surveys and document reviews.” GFIA and its members recommend 
+that the principle of proportionality be applied. The size of the 
+organisation must be taken into consideration, small and medium sized 
+organisations may not have capacity to place individual responsibility 
+for DEI on one person, rather collective responsibility which could be 
+It is agreed that a consideration of 
+proportionality is needed when 
+developing industry-wide responses. 
+This is already acknowledged at para 
+40. That applies also to section 4.1.2 
+of the AP.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+argued is more in line with the cultural embeddedness of DEI in the 
+organisation – starting with the tone from the top – chair, board and 
+executive and right through the organisation. 
+As an example, the introduction of the Individual Accountability 
+Framework and Senior Executives Accountability Regime (SEAR) 
+includes the requirement to assign responsibility for leading the 
+development of the firm’s culture, including on matters relating to 
+diversity and inclusion, by the board. This further embeds the drive for 
+senior leaders within firms and their boards to take ownership for 
+driving DEI through the organisation. However, more context on the 
+supervisory expectations will be required to give firms comfort they are 
+delivering on their obligations and allow firms to learn from each other.   
+As noted in comments 4.1.1 GFIA recommends that regulators share 
+good and poor practice with organisations. 
+Regarding supervisory expectations, 
+as the paper is not prescriptive in the 
+types of responses by supervisors, but 
+instead suggest the range of options 
+available to supervisor, it would be up 
+to the discretion of the particular 
+supervisor, and dependent on their 
+powers as to what exact action will be 
+taken. Likewise it would be within the 
+discretion of the particular supervisor 
+on how to best communicate their 
+expectation to insurers in their 
+jurisdiction.  
+104 Insurance 
+Europe 
+European 
+Union 
+Paragraph 48 of the paper states that, “where supervisors have less 
+insight into DEI through regular supervision, they may consider 
+conducting a thematic industry wide study (or selecting certain 
+insurers), including through surveys and document reviews.“  While 
+surveying and interviewing companies on DEI is a good way to gain 
+insights from the market,  supervisors should ensure that review 
+samples intended to produce industry-wide insights are proportional to 
+market size, in order to ensure findings that are representative. 
+Insurers vary greatly in size, business model, and location, which, 
+along with limitations set out by local data protection rules, will 
+influence their approaches to DEI as well. In addition, it would be 
+beneficial for participating companies to receive constructive and 
+practical feedback on their submissions.  
+ 
+The principle of proportionality should also be applied.  The size of the 
+company must be taken into consideration, as small and medium-sized  
+companies may not have capacity to place individual responsibility for 
+DEI on one person. Especially in these cases, it should rather be a 
+See resolution of comment 103.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+collective responsibility, which could be argued is more in line with the 
+cultural embeddedness of DEI in the organisation – starting with the 
+tone from the top --  chair, board and executives and throughout  the 
+organisation. 
+ 
+Additionally, Insurance Europe has the following wording suggestion in 
+paragraph 45: Consideration of DEI can be integrated into existing 
+supervisory practices, in line with their supervisory mandate, in 
+particular to form part of general supervisory approaches related to 
+governance, risk management and corporate culture. (red text to be 
+added) 
+ 
+ 
+ 
+Proposed wording accepted. 
+An addition has also been made at the 
+end of para 45:  
+“Integrating DEI-related enquiries into 
+supervisory approaches should be 
+done in ways that complement and 
+reinforce the supervisors’ focus on the 
+core oversight areas of governance, 
+risk management and corporate 
+culture.” 
+Comments on section 4.1.3 Develop requirements 
+105 Institute of 
+International 
+Finance 
+USA With respect to the suggestion in Paragraph 50 that supervisors could 
+require insurers to set targets for demographic representation and/or 
+improved inclusion metrics, we would caution that a reliance on 
+demographic metrics may result in an oversimplification of diversity 
+within an organization.  Targets have a tendency to emphasize 
+quantitative measures or a ‘tick-box’ approach which is suboptimal in 
+the case of DEI objectives.  The failure to meet targets may be viewed 
+as discrimination or potential misconduct even when the underlying 
+reasons are unrelated to poor conduct or reflect complex dynamics in a 
+particular market.  
+ 
+The IAIS should consider the legal and reputational risks that could 
+accompany any requirements to publicly disclose insurers’ DEI data 
+and approaches, as suggested in Paragraph 50, or to disclose non-
+Comment noted. As noted in 
+Paragraph 6 of the Application Paper 
+on DEI, local circumstances, 
+particularly the legal, cultural and 
+historical context, will influence how 
+DEI is considered and the actions 
+taken by supervisors and insurers in a 
+particular jurisdiction. There may well 
+be examples in particular jurisdiction 
+where demographic metrics can serve 
+a specific purpose, such as where 
+persons with particular demographics 
+have historically been discriminated 
+against.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+compliance and fines. Public disclosure of DEI data risks crowding out 
+and distracting from more tangible measures of outcomes which might 
+be of greater importance. As noted above, consumers may construe 
+data about demographic characteristics, or changes in demographic 
+metrics, as discrimination or potential misconduct when it may be 
+random variations, or a function of normal staff attrition. Supervisors 
+would be better served by requesting information on how insurers are 
+addressing any concerns regarding groupthink, ineffective challenge or 
+other DEI challenges, instead of requiring specific DEI disclosures. 
+ 
+We strongly believe that it is inappropriate to develop requirements and 
+to adopt formal actions or interventions, including enforcement actions, 
+given the lack of evidence linking inadequate DEI policies and 
+practices to material risks to policyholders or poor financial outcomes 
+for insurers.  In particular, the establishment of DEI targets for an 
+insurer or a requirement for companies to assign senior responsibility 
+for DEI with linkages to performance objectives and remuneration 
+would be inappropriate given the lack of a linkage to prudential 
+concerns.  These suggested actions would exceed many supervisory 
+mandates and may conflict with the mandates and directives of other 
+authorities with responsibilities for employment law or market conduct.  
+Moreover, any such requirements would be inconsistent with the need 
+for companies to have the flexibility and discretion to develop and 
+evolve their DEI policies and practices.  Instead of developing 
+prescriptive requirements and imposing formal actions on insurers who 
+fail to fully follow those requirements, we encourage the IAIS and its 
+insurance supervisor members to consider best practices for DEI 
+based on their experiences across a wide range of jurisdictions. 
+Additionally, para 26 of the paper does 
+acknowledge the risks of, and cautions 
+against, box-ticking approaches of 
+using quantitative diversity metrics in a 
+superficial manner. But overall, there 
+are many merits to setting targets and 
+using metrics as part of balanced DEI 
+approaches.  
+ 
+The paper is not prescriptive in the 
+types of responses by supervisors, but 
+instead suggest the range of options 
+available to supervisor. It would be up 
+to the discretion of the particular 
+supervisor, and dependent on their 
+powers as to what exact action will be 
+taken. 
+We agree that it is important that the 
+paper be considered with this in mind, 
+and read holistically and in the context 
+of the proportionality principle as 
+explained in section 1.3. 
+ 
+ 
+It is not agreed that there is no link 
+between DEI related measures and 
+prudential concerns. The paper in 
+detail explains the link between DEI 
+and aspects that are core to sound 
+governance, risk management and 
+corporate culture, all which are directly 
+linked to sound prudential outcomes.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+ 
+Concerns around prescriptive 
+requirements are noted, however, 
+there may well be jurisdictions where 
+this may be considered appropriate 
+and it would be for a particular 
+supervisor to consider the need for 
+formal action, including whether this 
+falls within their mandate.   
+An addition has also been made at the 
+end of para 53: “Requirements 
+established by the supervisor should 
+be linked to its mandate and 
+objectives”.  
+106 General 
+Insurance 
+Association 
+of Japan 
+Japan We understand that in some circumstances it may be necessary to 
+impose new regulations and requirements in order to promote DEI 
+initiatives of insurers, but this should be limited to cases where it is 
+truly necessary. Even in cases where it is truly necessary to impose 
+requirements, we believe that consideration should be given not only to 
+the size of the insurer, but also to the extent of the problems and risks 
+that have arisen. As a first step, we believe that consideration should 
+be given to the use of existing frameworks and whether the necessary 
+information can be obtained from publicly available reports of insurers, 
+etc. 
+Comment noted. See resolution of 
+comment 99.  
+107 Progress 
+Together 
+UK Whilst Progress Together is generally in support of developing 
+requirements for insurers via supervisory bodies, it may be beneficial to 
+highlight interventions – backed by solid evidence – that would be best 
+for advancing the agenda. For instance, there is mixed evidence on the 
+efficacy of unconscious bias training. Our members have consistently 
+asked for more guidance and evidence to support in making the case 
+for interventions that work in advancing specific DEI causes (e.g., how 
+to build a diverse talent pipeline). We welcome the suggestion for 
+Comment noted.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+supervisory bodies to publish supplementary guidance should there be 
+introduction of new requirements. 
+108 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+Please see our responses to the FCA and PRA. Whilst we believe that 
+setting requirements are appropriate, we believe this to be subject to 
+appropriate proportionality.  
+ 
+As outlined by the FCA in a response to the Treasury Committee, it is 
+for parliaments to mandate specific targets or quotas as this is a social 
+policy matter.  
+ 
+Smaller firms will not be able to implement stretching strategies 
+reasonably and data will lack statistical meaning. There should also be 
+established causal chain links between requirements and the harms 
+they seek to address.  
+ 
+In line with our response to the UK supervisors, we do not believe it is 
+proportionate to mandate disclosure of firm’s strategies or external 
+data.  
+ 
+It is also not balanced to mandate that smaller firms establish 
+strategies and data collection arrangements. This is likely to have 
+significant costs and result in tick box approaches to DEI to ensure a 
+technical compliance and DEI-Washing.  
+ 
+We would also be concerned at the concept of considering “remedial 
+action” which implies interference in a firms employment 
+arrangements. 
+Comment noted.  
+ 
+The paper is not prescriptive in the 
+types of responses by supervisors, but 
+instead suggest the range of options 
+available to supervisor. It would be up 
+to the discretion of the particular 
+supervisor, and dependent on their 
+powers as to what exact action will be 
+taken. 
+We agree that it is important that the 
+paper be considered and read 
+holistically and in the context of the 
+proportionality principle as explained in 
+paragraph 1.3 of the Application paper. 
+ 
+The reference to “Undertake targeted 
+remedial action” should not be 
+interpreted to suggest so-called 
+interference with employment 
+arrangements. It simply suggests that 
+a supervisor can consider requiring an 
+insurer to implement corrections or 
+improvements to how it is doing 
+something where it may be necessary 
+as identified through supervisory 
+monitoring of DEI. The explanation of 
+what the term was intended to mean 
+has been elaborated in the paper.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+109 FWD Group Hong Kong We note paragraph 50 of the Application Paper states that supervisors 
+could require insurers to “set targets for demographic representation 
+and/or improved inclusion metrics”. We would propose instead that 
+insurers should focus more on crafting a genuine DEI roadmap with 
+commitment to see through related milestones and goals. It is our view 
+that the roadmap will be more effective in driving meaningful and 
+sustainable longer-term changes, such as setting a strong DEI culture, 
+focusing on structural changes (e.g. implementing screening tools that 
+remove unconscious biases) and employee listening including DEI 
+matters. Both quantitative and qualitative data are important to form an 
+accurate bigger picture. 
+The bullet preceding this, “Develop 
+and maintain DEI strategies and/or 
+internal policies”, was already intended 
+to pick-up on the need for having a 
+genuine commitment documented in 
+policy/strategy. We prefer to not be too 
+prescriptive about exactly what DEI 
+strategies and/or internal policies a 
+supervisor might require the insurer to 
+develop, due to the paper’s general 
+recognition of the need for 
+jurisdictional context and the 
+supervisors’ mandate and powers to 
+inform the actions taken by supervisors 
+and insurers in a particular jurisdiction.  
+ 
+The concept raised by FWD Group is, 
+however, added within Box 4 
+(Indicators of positive action on DEI at 
+an insurer) under Enablers: “a well-
+rounded sustainable, longer-term plan 
+that features milestones and goals 
+along the way to meeting the insurer’s 
+DEI ambition”. 
+ 
+The point that supervisors could “set 
+targets for demographic representation 
+and/or improved inclusion metrics” is 
+retained in para 50. There may well be 
+examples in particular jurisdiction 
+where the setting of targets can serve 
+a specific purpose, such as where
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+persons with particular demographics 
+have historically been discriminated 
+against, and significantly interventionist 
+measures are necessary to correct 
+existing imbalances. 
+110 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global GFIA recommends that “develop requirements” should be changed to 
+“develop expectations”.  
+On paragraph 49, GFIA would encourage supervisors to engage with 
+t
+heir local industry peak bodies to consider the most effective approach 
+for their jurisdiction as it was noted that not all GFIA members are 
+aligned on the need for mandatory action. 
+ 
+O
+n paragraph 50, supervisors could require insurers to: 
+n “Develop and maintain DEI strategies and/or internal policies.” 
+GFIA would encourage the IAIS to also note that, if supervisors do 
+decide to require firms to adopt DEI strategies, they should recognise 
+that firms should have the freedom to set their own DEI strategies and 
+internal policies based upon their context and needs. 
+n “Set targets for demographic representation and/or improved 
+inclusion metrics.”  
+ 
+A
+ note on demographic representation: 
+In terms of demographic representation targets, GFIA would urge the 
+IAIS to encourage supervisors to allow firms the flexibility to set 
+appropriate targets instead of mandating firms to set a numerical 
+representation target from the beginning. GFIA would also urge the 
+IAIS to stress that any such targets, if introduced, should be 
+proportionate. In many cases, it would be very difficult for smaller firms 
+to report to the same level and standard as larger firms. Moreover, in 
+smaller firms, a change in one person on senior management or a 
+board could have a significant impact on DEI representation – but this 
+Regarding the suggestion to change 
+“develop requirements” to “develop 
+expectations”, the particular 
+terminology was interrogated in detail 
+during the development of the paper, 
+and the alternative use of the term 
+“expectations” considered. However, 
+the use of requirements is preferred, 
+as the expectations of the supervisors 
+are addressed elsewhere in the paper 
+(under paragraph 4.1.1 on use of soft 
+powers). It may create duplication if 
+changed to expectations, which is less 
+intrusive / more ‘light touch’. The paper 
+is structured in a progressive manner 
+explaining that the starting point would 
+be soft powers, and the most intrusive 
+measures would be to develop 
+regulatory requirements that can be 
+enforced against.  
+ 
+Other comments regarding various of 
+the points in para 50 are noted. Edits 
+to the list in para 50 have not been 
+made because they were considered 
+unnecessary. The comments 
+sometimes:
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+would be more a reflection of the small size of the firm rather than the 
+firm’s commitment to DEI.  
+ 
+A note on inclusion metrics: 
+In terms of potential inclusion metrics, GFIA would encourage the IAIS 
+to note that the questions or wording of such metrics should not be 
+prescribed by supervisors. Firms should have the flexibility to measure 
+inclusion in ways that best suits their organisational needs and that is 
+aligned with the ways in which they measure culture and employee 
+engagement more holistically. 
+The IAIS should also remind supervisors of the need to exercise 
+caution in how to interpret inclusion metrics. Inclusion does not exist 
+separately from other aspects of an organisation’s culture such as 
+leadership, management and decision-making, and employee 
+feedback. As such, GFIA urges that supervisors consider inclusion 
+more holistically alongside these other factors. Requiring firms to report 
+on inclusion questions to supervisors in isolation, without broader firm 
+context, means the data could be misinterpreted. 
+ 
+A
+ note on collecting and reporting several types of data to the 
+supervisor: 
+The IAIS also proposes that supervisors might require insurers to 
+“publicly disclose information on their data and/or approaches related 
+to DEI.” Although it is hard to comment on the impact of disclosing DEI 
+data in general (as opposed to specific kinds of DEI data), there is a 
+risk that the reliability and accuracy of DEI data might be impacted by a 
+disclosure requirement. If employees know that their data will be 
+publicly disclosed, they may be less willing to share their data for DEI 
+related exercises. For example, if firms were required to disclose 
+inclusion related data, this requirement may impact how open and 
+honest employees are in their feedback, and thus undermine the 
+(i) propose specifications out 
+of an abundance of 
+caution (eg the paper 
+already expresses that 
+supervisors could require 
+insurers to set targets – ie 
+that it is the insurer who 
+sets the targets); or 
+(ii) propose 
+detailed/prescriptive 
+additions at a level more 
+specific than the style of 
+the paper, especially given 
+the paper’s general 
+recognition of the need for 
+jurisdictional context and 
+the supervisors’ mandate 
+and powers to inform the 
+actions taken by 
+supervisors and insurers 
+in a particular jurisdiction; 
+or 
+(iii) note risks that are 
+presently hard to comment 
+on with confidence/surety 
+(eg potential risk that 
+requiring data to be 
+reported to the supervisor 
+makes it less likely for 
+employees to share their 
+data).
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+purpose of measuring inclusion. 
+ 
+A note on implementing training on DEI (for example unconscious bias 
+training, or training on hiring practices): 
+GFIA urges the IAIS to ensure that regulators align with the desired 
+outcomes. For example, Insurance Ireland noted that insurance 
+professionals are required to complete 15 hours of continuous 
+professional development under regulatory requirements. However, 
+DEI training does not count for Continuing Professional Development 
+(CPD) purposes. This is contrary to the objective of the regulatory drive 
+on insurance firms to drive a diverse and inclusive workforce.  
+ 
+Overall recommendations/comments on paragraph 50: 
+GFIA further recommends the word “require” should be changed to 
+“expect”.  
+ 
+An overarching observation about all of these potential requirements 
+that the IAIS suggests supervisors might consider applying to firms, is 
+that GFIA would urge the IAIS to remind supervisors to always justify 
+why they are introducing a particular DEI related requirement (e.g. a 
+requirement for firms to report on certain kinds of DEI data), to explain 
+how the supervisor plans to use any data once gathered, and to 
+provide a clear evidence base that demonstrates how the proposed 
+requirement will help the regulator achieve its objective. 
+The comment is noted that supervisors 
+should follow good practice when 
+introducing requirements. This would 
+apply to the introduction of any 
+requirement, and not only DEI 
+requirements. Evidence based policy 
+making is however broadly supported.   111 Insurance 
+Europe 
+European 
+Union 
+The development of additional requirements should be particularly 
+considered in the context of local circumstances, especially the legal, 
+cultural, and historical context and should be in line with the 
+supervisory mandate. Additional requirements could be helpful in 
+certain circumstances. However, Insurance Europe wants to highlight 
+the role and the importance of social partners as they are the ones 
+uniquely positioned to drive and promote effective change. They play a 
+crucial role in the governance of the employment relationship and are 
+Comment noted. Relatedly, an addition 
+has been made at the end of para 53: 
+“Requirements established by the 
+supervisor should be linked to its 
+mandate and objectives”.  
+ 
+The benefits of engaging with peer 
+organisations on DEI are touched on in
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+key players in industrial relations. They are, therefore, best placed to 
+design initiatives that work in the real world and, at the same time, 
+respond to the needs of different groups of workers.   
+ 
+If supervisors do decide to develop requirements, companies should 
+have the freedom to set their own DEI strategies and internal policies 
+based on their context and needs.  In this regard, companies should 
+have the flexibility to measure inclusion in ways that best suits their 
+organisational needs and that is aligned with the ways in which they 
+measure culture and employee engagement more holistically. 
+Box 4 of the application paper that set 
+out possible indicators of positive 
+action on DEI at an insurer and 
+confirmed in paragraph 44 of section 
+4.1.2 of the application paper. 
+ 
+Consistent with the resolution of 
+comment 110, these points are noted 
+but no need is seen to make 
+corresponding edits in the paper.  
+Comments on section 4.2 Insurer-specific engagement 
+112 General 
+Insurance 
+Association 
+of Japan 
+Japan Individual supervisory engagement with insurers regarding their DEI 
+initiatives is an effective approach from the perspective of responding 
+flexibly to the circumstances of individual companies. On the other 
+hand, sufficient consideration should be given to whether the content of 
+the engagement is appropriate and whether the burden on insurers is 
+not excessive. In addition, "formal intervention" by supervisors should 
+be limited to cases where it is truly necessary. 
+See resolution of comment 99. 
+113 Progress 
+Together 
+UK No comment as it pertains to supervisors’ remit. Noted. 
+114 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+The IAIS has acknowledged that different jurisdictions have different 
+legislation and challenges with relation to DEI. Given the international 
+nature of insurance groups, it is therefore appropriate that this lens is 
+applied when engaging with and understanding insurers approach to 
+DEI.  
+ 
+Where a group’s main domicile prohibits data collection or the 
+supervisor has limited regulatory remit, it is inevitable that there will be 
+challenges in applying a more prescriptive regime elsewhere.  
+ 
+Comment noted. 
+ 
+Formal interventions, and the extent 
+and nature thereof would depend on 
+the circumstances and the
+ supervisor’s 
+mandate and powers. It cannot be 
+conceptually quantified in the absence 
+of the facts of the matter that give rise 
+to such interventions.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+Unless this was also related to material failings within the firm where 
+lack of DEI were an aggravating factor.  It is not clear that censure or 
+fines would be proportionate response to a firm’s approach to DEI. 
+115 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global On paragraph 55, GFIA would oppose a formal intervention by a 
+supervisor. In addition, both the triggers and the actions that could be 
+taken (such as public disclosure and fines) would be left up to a 
+supervisor’s discretion and could be very onerous on companies. It 
+would also have the effect of turning supervisors into DEI enforcement 
+officers. 
+Comment noted, however it is not clear 
+in the absence of the facts of a 
+particular matter that give rise to such 
+interventions what the commentator is 
+basing it opposition on. Formal 
+interventions, and the extent and 
+nature thereof would depend on the 
+circumstances and the supervisor’s 
+mandate and powers. 
+Current drafting of para 55 is 
+considered appropriate and is retained. 
+Comments on section 4.2.1 Understanding an insurer’s approach to DEI 
+116 General 
+Insurance 
+Association 
+of Japan 
+Japan Paragraph 58: In order to understand an insurer's approach to DEI, it 
+would be desirable to discuss DEI utilizing existing frameworks such as 
+regular engagement. 
+ 
+Paragraph 59: Even when employees have equivalent skills and work 
+experience, remuneration, training, benefits and career opportunities 
+should vary depending on the nature of the job assigned. Therefore, 
+we suggest revising the first sentence as follows: 
+"On the human resources side, remuneration, training, benefits and 
+career opportunities should be treated fairly for all employees with 
+equivalent skills and work experience, ..." 
+Para 58: Comment noted. 
+ 
+Para 59: Partially agreed.  The 
+intended point is that where employees 
+have equivalent skills and work 
+experience and they perform the same 
+type or level of role they should have 
+comparable remuneration and benefits 
+(for instance, as opposed to a “gender 
+pay gap”), and fair access to training 
+and career opportunities.  
+The sentence has been reworded: 
+“On the human resources side, 
+employees with equivalent skills and 
+work experience and that fulfil the
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+same type and level of roles should 
+receive comparable remuneration and 
+benefits, and have fair access to 
+training and career opportunities.
+ 20” 
+ 
+117 Progress 
+Together 
+UK No comment as it pertains to supervisors’ remit. Noted. 
+118 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+Paragraph 59 of the paper states, “On the human resources side, 
+remuneration, training, benefits and career opportunities should be 
+similar and accessible to all employees with equivalent skills and work 
+experience, and supervisors may be able to enquire on this during 
+regular engagement and on-site inspections.”  Depending on the 
+jurisdiction, insurers should also be encouraged to aim to offer 
+equitable opportunities to talent from underrepresented backgrounds.  
+ 
+In the UK, the Equality Act 2010  regulates the use of positive action. 
+Positive action allows additional help to be provided for talent with a 
+‘protected characteristic’. Firms can take proportionate action that aims 
+to eliminate or reduce disadvantage, meet different needs, and 
+increase participation. In the context of an insurance firm, this could 
+mean mentoring schemes, development initiatives, networks, and 
+outreach work that are open to everyone but targeted towards talent 
+from underrepresented backgrounds. Internal schemes such as 
+reverse mentoring can benefit both senior colleagues wishing to 
+understand and learn from diverse employees. It can also benefit 
+diverse employees by allowing them to easily access senior colleagues 
+to understand how to progress and share any concerns or 
+improvements in a less formal manner. Thus, such initiatives have the 
+potential to benefit all employees involved and contribute to a more 
+inclusive culture where individuals feel empowered to contribute. 
+ 
+Guidance: Positive action in the workplace 
+Comment and example noted.  
+ 
+To incorporate the point raised about 
+equitable opportunities, para 59 now 
+expresses:  
+“On the human resources side, 
+employees with equivalent skills and 
+work experience and that fulfil the 
+same type and level of roles should 
+receive comparable remuneration and 
+benefits, and have fair access to 
+training and career opportunities.
+20 
+ 
+20 Subject to the jurisdictional context, insurers 
+are encouraged to offer equitable opportunities 
+that aim to overcome structural and systemic 
+disadvantages to increase diversity – eg 
+dedicated recruitment pathways, development 
+programs or mentoring for individuals from 
+underrepresented backgrounds.”
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+https://www.gov.uk/government/publications/positive-action-in-the-
+workplace-guidance-for-employers/positive-action-in-the-workplace 
+119 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+Pro-active work on DEI is likely to be time consuming and resource 
+intensive.  
+ 
+It is not clear that activity proposed in paragraph 56 is the appropriate 
+response to the “warning signs”. There is a risk that supervisors are 
+diverted by technical compliance with DEI expectations, to the 
+detriment of other supervisory activities more directly related to 
+policyholder protections.   
+ 
+During the recent consultation, the FCA and PRA indicated they are 
+unlikely to use firm strategies and targets as a means of holding firms 
+to account.  
+ 
+It is likely that for many firms these “warning signs” will emerge as part 
+of reactive work that has been commenced due to crystalised solvency 
+issues, customer harm or other identified failing. 
+The comment by the commentator 
+seems to imply that DEI is not directly 
+related to more positive conduct and 
+prudential outcomes at insurers. 
+Please see para 4 that explains the 
+significance of DEI in the context of 
+insurance supervision, and the detailed 
+explanation in section 2 on why DEI 
+matters in the context of ICP7, 8 and 
+corporate culture.  
+ 
+Considering the relevance of DEI as 
+explained it would therefore be 
+appropriate for DEI to be supervised 
+alongside other components of 
+insurance supervision as is suggested 
+in section 4.1.2.  
+ 
+The paper regularly makes clear that 
+proportionality should be considered; 
+an extra reference is now included 
+post-consultation at para 54 to ensure 
+it is understood that proportionality 
+applies throughout section 4.2.  
+ 
+The paper also references that 
+potential DEI supervisory actions will 
+be considered according to various 
+factors including the supervisor’s
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+assessment of its priorities (paras 15 
+and 38). 
+120 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global GFIA and its members broadly support the supervisors’ approach to 
+understanding insurers approach to DEI. The following comments can 
+be made: 
+In paragraph 56, the IAIS states that “generally, the starting point for a 
+supervisor when warning signs on DEI are encountered would be to 
+undertake an analysis of the insurer’s approach to DEI, including 
+engaging with the insurer on the indicators identified”. GFIA would 
+encourage the IAIS to remind supervisors to adopt a proportionate 
+approach to engaging a firm on DEI issues, and, where possible, to 
+rely on any relevant evidence that the firm in question has already 
+produced on DEI issues rather than moving straight to the conclusion 
+that additional data or reporting is required.  
+ 
+In paragraph 57, the IAIS states that “a valuable starting point may be 
+targeted engagement with the board on their role in setting 
+organisational values of the insurer and effectively setting and 
+overseeing the insurer’s corporate culture, business objectives and 
+strategies”. GFIA notes that, dependent on the organisation and its 
+size and complexity, it may be more productive for supervisors to 
+initially engage with senior management or the organisations risk or 
+DEI function.  
+ 
+In paragraph 59, the IAIS states that “on the human resources side, 
+remuneration, training, benefits and career opportunities should be 
+similar and accessible to all employees with equivalent skills and work 
+experience, and supervisors may be able to enquire on this during 
+regular engagement and on-site inspections.” GFIA notes that, 
+depending on the jurisdiction, insurers should also be encouraged to 
+aim to offer equitable opportunities to talent from underrepresented 
+backgrounds. 
+Comment noted. The paper regularly 
+makes clear that proportionality should 
+be considered; an extra reference is 
+now included at para 54 to ensure it is 
+understood that proportionality applies 
+throughout section 4.2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comment noted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regarding equitable opportunities, see 
+resolution of comment 118.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+121 Insurance 
+Europe 
+European 
+Union 
+Paragraph 59 of the paper states: “on the human resources side, 
+remuneration, training, benefits and career opportunities should be 
+similar and accessible to all employees with equivalent skills and work 
+experience, and supervisors may be able to enquire on this during 
+regular engagement and on-site inspections.”  Insurance Europe is 
+supportive of positive action. Positive action allows additional help to 
+be provided for talent who share a ‘protected characteristic’. 
+Companies can take proportionate action to eliminate or reduce 
+disadvantage, meet different needs and increase participation. In the 
+context of an insurance company, this could mean mentoring schemes, 
+development initiatives, networks and outreach that are open to 
+everyone but targeted toward talent from underrepresented 
+backgrounds. 
+ 
+In the EU, social partners are the ones uniquely positioned to drive and 
+promote effective change. They play a crucial role in the governance of 
+the employment relationship and are key players in industrial relations. 
+They are therefore best placed to design initiatives that work in the real 
+world and, at the same time, respond to the needs of different groups 
+of workers. 
+Regarding positive action/equitable 
+opportunities, see resolution of 
+comment 118. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See resolution of comment 111 above. 
+Comments on section 4.2.2 Undertake review work to examine DEI related arrangements and plans 
+122 General 
+Insurance 
+Association 
+of Japan 
+Japan Paragraph 62: While we understand that a more targeted supervisory 
+review may be necessary to understand the status of an insurer's DEI 
+efforts, the items and information to be covered and the approach to be 
+taken should be determined with due consideration of the 
+circumstances surrounding DEI in the relevant jurisdiction. 
+ 
+If there is a need to conduct a review of DEI, we agree that it should be 
+incorporated into the existing business-as-usual supervisory 
+engagement. 
+Comment noted. 
+As noted in Paragraph 6 of the 
+Application Paper on DEI, local 
+circumstances, particularly the legal, 
+cultural and historical context, will 
+influence how DEI is considered and 
+the actions taken by supervisors and 
+insurers. The paper is not prescriptive 
+in the types of responses by
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+supervisors, but instead suggest the 
+range of options available to 
+supervisor. It would be up to the 
+discretion of the particular supervisor, 
+and dependent on their powers as to 
+what exact action will be taken. 
+123 Progress 
+Together 
+UK No comment as it pertains to supervisors’ remit. Noted 
+124 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+We believe that it is of crucial importance that the IAIS has included a 
+variety of ways in which it can explore and verify the effectiveness of 
+DEI initiatives, and especially that the focus is on ensuring policy and 
+practice aligns.  
+ 
+To ensure that the material potentially reviewed reflects genuine 
+initiatives and progress, the ABI would suggest being cautious with 
+material that is commercial in nature. For example, “awards and prizes” 
+as exemplified in paragraph 63 of the paper. If such material is used to 
+assess the DEI efforts of an insurer, the supervisor is encouraged to 
+ensure that an independent, non-biased and impartial judging panel is 
+involved, and that the organising entity is otherwise credible. Many 
+awards within the DEI space are paid for, which may raise concerns 
+about the awarding criteria and the accessibility for smaller firms. 
+Agreed. The reference in paragraph 63 
+expanded to awards and prizes that 
+are independently and impartially 
+awarded. 
+ 
+The scenario explained by the 
+commentator would be an example of 
+DEI washing as is described in Box 3 
+in the Application Paper.  The 
+reference to awards and prizes is 
+clarified to those that are 
+independently and impartially awarded. 
+ 
+ 
+ 
+125 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+Again, whilst these are areas of work that may be considered. It is not 
+clear if the level of engagement and burden is proportionate to the 
+likely gains in policy holder protections, or when considering the 
+general supervisory objectives. 
+Not agreed.  
+Also see resolution of comment 119. 
+126 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global GFIA and its members value the IAIS’s incorporation of diverse 
+methods to assess and validate the effectiveness of DEI initiatives, 
+emphasising the importance of ensuring practice and policy align.   
+ 
+In paragraph 61, the IAIS notes that “supervisor(s) may consider 
+undertaking a targeted review of the insurer’s approach to DEI.” It 
+Regarding supervisory reviews being 
+proportionate and avoid being intrusive 
+in nature: the paper regularly makes 
+clear that proportionality should be 
+considered. An extra reference is now 
+included at para 54 to ensure it is
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+further notes that “a targeted review could be linked to quantitative and 
+qualitative assessments and include evidence-based engagements to 
+explore and verify the design and effectiveness of DEI initiatives”. GFIA 
+would urge the IAIS to stress that these ‘targeted reviews’ should be 
+proportionate. Full reviews can absorb considerable regulatory 
+resources, as well as firm resources, especially if much additional data 
+gathering and analysis work is done. They should not be undertaken 
+except in cases where a review is necessary and where the 
+supervisors’ objectives cannot be attained in more proportionate ways.  
+ 
+GFIA would also encourage supervisors, where possible, to leverage 
+existing data that has been gathered by firms (e.g. employee 
+engagement data) when advancing such reviews, rather than 
+automatically requiring new data to be gathered from scratch.  
+It is recommended that materials reviewed that are commercial in 
+nature (e.g. reward submissions) are viewed with caution. Additionally, 
+a focused review for engagement should be proportionate and 
+considerate of the quantity and nature of materials requested so it’s not 
+intrusive in nature. 
+understood that proportionality applies 
+throughout section 4.2. The 
+proportionality principle does include 
+that supervisory techniques and 
+practices should not go beyond what is 
+necessary in order to achieve their 
+purpose (cited in footnote 3 at para 
+14).   
+ 
+The comment that supervisors are 
+encouraged to leverage existing data is 
+noted. 
+The proportionality principle is 
+relevant again here. The paper also 
+recognises the jurisdictional legal and 
+privacy issues that influence the 
+gathering and use of diversity data. 
+ 
+Regarding awards: agreed and 
+wording in paragraph 63 has been 
+expanded. See response to comment 
+124. 
+127 Insurance 
+Europe 
+European 
+Union 
+Insurance Europe welcomes the IAIS’s approach recognising the 
+diverse methods to assess and validate the effectiveness of DEI 
+initiatives. It is key to ensure that policy and practice are aligned.  
+ 
+In paragraph 61 the IAIS notes that “supervisor(s) may consider 
+undertaking a targeted review of the insurer’s approach to DEI.” It 
+further notes that “a targeted review could be linked to quantitative and 
+qualitative assessments and include evidence-based engagements to 
+explore and verify the design and effectiveness of DEI initiatives”. The 
+IAIS should stress that these “targeted reviews”, if necessary, must be 
+Comment noted. 
+ 
+Regarding supervisory reviews being 
+proportionate, avoid being intrusive in 
+nature and leverage existing data: see 
+resolution of comment 126. 
+ 
+Regarding awards: agreed and 
+wording in paragraph 63 has been
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+proportionate. Full reviews can absorb considerable regulatory 
+resources, as well as company resources, especially if additional data 
+gathering and analysis work is required and should not be undertaken 
+except in cases where a review is necessary and where the 
+supervisors’ objectives cannot be attained in more proportionate ways.  
+ 
+Supervisors, where possible, should also leverage existing data that 
+has been gathered by  companies (e.g. employee engagement data) in 
+such reviews, rather than automatically requiring new data to be 
+gathered from scratch.  
+ 
+Finally, Insurance Europe suggests being cautious with review material 
+that is commercial in nature, i.e. awards and prizes as mentioned in 
+paragraph 63 of the paper. If such material is used to assess the DEI 
+efforts of an insurer, the supervisor is encouraged to ensure that the 
+organising entity is credible and independent. Awards within the DEI 
+space that are paid-for may raise concerns over the awarding criteria 
+and impartiality of the awarding institution. 
+expanded. See resolution of comment 
+124. 
+Comments on Box 5 Collecting and using data as part of a DEI strategy 
+128 General 
+Insurance 
+Association 
+of Japan 
+Japan It should be noted that the data that insurers can collect will vary widely 
+from jurisdiction to jurisdiction. Demography data in particular is highly 
+constrained and may make it difficult for insurers to collect detailed 
+data. 
+ 
+As data collection itself is difficult, practical difficulties in establishing 
+uniform standards for goal setting and cost setting based on the data 
+are expected. 
+ 
+While the AP mentions comparing societal norms and expectations as 
+a measure of data analysis, since they are conceptual, we would like to 
+Jurisdictional variation around data 
+collection is recognised in the paper eg 
+para 6, and within Box 5 under “Where 
+DEI data collection is not an option”.   
+ 
+Societal norms and expectations is 
+meant to refer to the need for data 
+interpretation to be done by reference 
+to the local cultural context. It is 
+impossible to prescribe any singular
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+see a more concrete image. 
+ 
+ 
+ 
+ 
+Some companies conduct employee awareness surveys when 
+verifying inclusion, and it would be a good idea to refer to these data as 
+well. 
+reference point that will be appropriate 
+in all jurisdictions. 
+ 
+Employee surveys are already 
+referenced within bullet 7 of Box 5.  
+129 Progress 
+Together 
+UK Progress Together is in support of collecting and analysing data, as per 
+our prior comments. 
+Comment noted. 
+130 Association 
+of British 
+Insurers 
+United 
+Kingdom 
+The ABI recognises data collection as a crucial element in measuring 
+progress. Challenges often arise when staff lack clarity on the purpose 
+of the collection and use of data or when internal trust isn't firmly 
+established. We acknowledge the sensitivity of personal data, and it's 
+common for some firms to find data collection more manageable than 
+others. 
+ 
+It is important to offer firms help and support with this exercise. 
+Educating staff on the significance of data collection and refining the 
+language used in staff data collection surveys through testing will be 
+beneficial in the long term. This topic is often discussed within the ABI 
+DEI Network in order to facilitate the sharing of best practices. 
+ 
+As mentioned in question 4 under our response to “Comments on Box 
+1 Interpretation of the terms diversity, equity, and inclusion in this 
+paper,” the UK is a jurisdiction where firms are allowed to collect data 
+on employees’ demographic characteristics. Whereas many firms tend 
+to collect data on the set list of protected characteristics set out in the 
+law, ABI and its member firms are deeply committed to addressing all 
+relevant diversity characteristics with the same level of attention as 
+legally protected characteristics. For example, we are aware that the 
+financial services industry in the UK has an underrepresentation of 
+Comment noted. The comment does 
+not raise any edits/changes.
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+talent from lower socio-economic backgrounds (see, for example, the 
+Bridge Group study ‘Who gets ahead and how?’ ). As a result of this 
+data-driven insight, our sector is committed to collecting data on this 
+characteristic, despite it not having the same protected nature as the 
+characteristics set in law. We would urge the supervisors to encourage 
+firms to aim to do this where applicable to their jurisdiction and cultural 
+context. 
+ 
+However, it is important to note that UK employment legislation, such 
+as the Data Protection Act 2018  and the Equality Act 2010 , imposes 
+restrictions on the mandatory collection of diversity data. Employers 
+cannot legally mandate the disclosure of personal data, including 
+diversity characteristics, from employees. Therefore, it is essential to 
+make it clear that all data disclosures are voluntary, and this needs to 
+be clearly communicated to employees. 
+ 
+Box 5: Collecting and using data as part of a DEI strategy states, 
+“Insurers can look at demographic data with reference to 
+representation at different levels within an insurer (for example are 
+people from a disadvantaged demographic group represented at lower 
+levels of an insurer but not at senior levels?).”  We agree that it is 
+essential to collect, analyse, and benchmark data across the talent 
+pipeline. The ABI DEI data collection includes data points on 
+representations split by organisational level, which allows member 
+firms to also benchmark their data to other firms in the market, and 
+thus they can aim to improve their representation to meet and exceed 
+market averages. Supervisors are encouraged to make such 
+benchmarking data available where applicable and to signpost firms to 
+best practices.  
+ 
+Bridge Group: Who gets ahead and how? 
+https://static1.squarespace.com/static/5c18e090b40b9d6b43b093d8/t/
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+5fbc317e96e56f63b563d0f2/1606168962064/Socio-economic_report-
+Final.pdf  
+Data Protection Act 2018 
+https://www.legislation.gov.uk/ukpga/2018/12/contents  
+UK Equality Act 2010 
+https://www.legislation.gov.uk/ukpga/2010/15/section/4 
+131 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+Collecting consistent data could materially reduce the burden of work 
+proposed in 4.2.1 and 4.2.2. Data can help supervisors and firms 
+establish a baseline, benchmark and measure if progress is made 
+against aspirations.  
+ 
+However, care should be taken to ensure that the data being collected 
+is proportionate and likely to be meaningful. e.g. collecting granular 
+date from a firm of less than 500 people may not be a large enough 
+sample.  
+ 
+Social policy may be relevant in what supervisors can consider. Some 
+jurisdictions prohibit collection of some demographic characteristics. 
+Therefore, it should be noted that supervisors should not automatically 
+assume it is appropriate or proper to collect all diversity characteristics, 
+particularly if firms apply an international approach to DEI. 
+Comment noted.  
+ 
+The paper makes regular references to 
+the proportionality principle, including 
+to recognise that size of the insurer 
+may be impactful. 
+ 
+The paper does recognise that legal, 
+cultural and historical context will 
+influence how DEI is considered and 
+the actions that can be taken, including 
+with respect to gathering and using 
+data.  
+132 Global 
+Federation 
+of Insurance 
+Associations 
+(GFIA) 
+Global Insurers’ use of data’ is highly prescriptive and GFIA recommends that 
+this should be more principles based.  
+Any collection by a supervisor of an insurer’s data, should be 
+reasonable in scope and sensitive to the amount and type of data that 
+is being requested so it is not intrusive in nature. In addition, such data 
+must be subject to strict confidentiality protections.  
+ 
+With reference to “insurers can look at demographic data with 
+reference to representation at different levels within an insurer (e.g. are 
+people from a disadvantaged demographic group represented at lower 
+levels of an insurer but not at senior levels?).”, GFIA agrees that it is 
+Comment noted. 
+The paper makes regular reference to 
+the proportionality principle which does 
+include that supervisory techniques and 
+practices should not go beyond what is 
+necessary in order to achieve their 
+purpose (footnote 3 at para 14).   
+The paper also recognises the 
+jurisdictional legal and privacy issues
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+essential to collect, analyse and benchmark data across the talent 
+pipeline.  
+Supervisors are encouraged to make such benchmarking data 
+available where applicable, and to signpost firms to best practice and 
+to ensure that the volume of data collected is proportionate and 
+valuable to the company, not simply a compliance exercise. GFIA 
+notes that sharing of peer-to-peer data needs to be carefully 
+considered to ensure the protection of personal information and 
+identification.  
+For example: Since 2021, Insurance Ireland has been gathering data 
+from members on the diversity of their member organisation across the 
+areas of gender, age and nationality. In 2022 and in 2023, Insurance 
+Ireland added additional questions to try to gather more data on 
+ethnicity, disability, sexual orientation, neurodiversity etc. This data is 
+very difficult for their members to gather and can only be done so on a 
+voluntary and anonymous basis.  
+ 
+The collection of data is recommended to be anonymous and voluntary 
+to build trust between organisations and their employees. This might 
+not be the case in organisations that display exclusive behaviours 
+culturally. In addition, global organisations will manage data collection 
+and analysis appropriately within a local context, for instance what is a 
+majority population in one location might be a minority in another. 
+Indirect indicators can provide valuable insights into DEI state of an 
+organisation – statements such as “I can be myself around here”. 
+that influence the gathering and use of 
+diversity data.  
+ 
+133 Insurance 
+Europe 
+European 
+Union 
+Insurance Europe recognises that data collection is an important tool. 
+Gathering and using data that give insight into the presence or not of 
+diversity and the degree of inclusion or exclusion within an insurer, in 
+jurisdictions where it is legal and culturally acceptable, can be a 
+powerful component of insurer-initiated DEI actions and action by the 
+supervisor. 
+ 
+Comment noted. See resolution of 
+comment 126. 
+ 
+Regarding leveraging existing data and 
+the scope of data collections being 
+proportionate, the paper makes regular
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+Supervisors should leverage existing data where possible. Any 
+collection of an insurer’s data by a supervisor should be proportionate 
+and reasonable in scope. Many of Insurance Europe’s members collect 
+data from their member companies to measure progress on DEI. This 
+data is generally very difficult to gather and can only be done on an 
+voluntary and anonymous basis. 
+reference to the proportionality principle 
+which does include that supervisory 
+techniques and practices should not go 
+beyond what is necessary in order to 
+achieve their purpose (footnote 3 at 
+para 14).  The paper also recognises 
+the jurisdictional legal and privacy 
+issues that influence the gathering and 
+use of diversity data. 
+Comments on section 5 Conclusion 
+134 Institute of 
+International 
+Finance 
+USA The conclusions set forth in Section 5 of the Draft Application Paper on 
+DEI, and particularly in Paragraph 70, are overbroad and not clearly 
+supported by evidence.  There is not a clear link between a lack of DEI 
+and ‘widespread misconduct, groupthink, inappropriate decision 
+making and financial and consumer harm’.  We also reiterate our 
+comments about the mandate and role of a prudential supervisor in 
+helping to ensure that financial risks are appropriately managed and 
+mitigated for the protection of policyholders and other stakeholders.  
+We encourage the IAIS to reflect in any final Application Paper a clear 
+focus on financial risks. 
+Not agreed. The Application paper 
+goes to great lengths in Sections 1 and 
+2 to explain the relevance of DEI in the 
+context of governance, risk 
+management and corporate culture 
+and the link between DEI and ICP 7 
+and 8 confirms the relevance of DEI to 
+insurance supervision. 
+135 General 
+Insurance 
+Association 
+of Japan 
+Japan The situation of DEI, particularly with regard to diversity, differs greatly 
+depending on the country/region and cultural/historical background. 
+Therefore, response to DEI issues should take such factors into 
+consideration.  
+ 
+DEI is an important issue for insurers, too, and we recognize that many 
+companies are actively addressing it. However, DEI is an issue 
+common to all organizations (not just insurers), and should not only 
+bear a "direct correlation" to insurance supervision but also be 
+Comment noted and agreed in 
+principle that DEI has wider impact 
+than only in the context of insurance 
+supervision.  
+ 
+The aim of the Application paper is to 
+specifically focus on DEI and why it is 
+relevant in the context of an insurer’s
+
+Public 
+ 
+ Organisation Jurisdiction Comment Resolution of comment 
+addressed by society at large. In this sense, it is desirable to address 
+DEI as one of many issues within existing insurance frameworks, 
+rather than through DEI-specific insurance supervision. 
+ 
+Particularly in view of inclusion, insurers need to examine their 
+response strategies to a diversity of people, from the perspectives of 
+not only governance, risk management and corporate culture, but also 
+the benefits for and protection of policyholders. 
+  
+In addition to the elderly and persons with disabilities, for whom efforts 
+are already underway, consideration for a diversity of people, such as 
+sexual minorities, is important from the standpoint of respect for human 
+rights, and should be one of the issues addressed. 
+corporate governance, risk 
+management and corporate culture.  
+ 
+There is separate but related work 
+underway by the IAIS’ Market Conduct 
+Working Group which focuses on DEI 
+considerations in conduct of business 
+(per ICP 19) to secure fair treatment of 
+diverse consumers, meaning those 
+who may have specific needs, be 
+under-served, or be experiencing 
+vulnerability. The implication of DEI for 
+policyholder and vulnerable customers 
+is explored more fully in that work.  
+136 Progress 
+Together 
+UK No comment. Noted. 
+137 Lloyds 
+Market 
+Association 
+United 
+Kingdom 
+Care should also be taken in peer review,  e.g. Differences in firms 
+established in inner city areas v. more rural locations should use other 
+data sets as context. It should also be considered that staff willingness 
+to share their demographic characteristics may be driven by external 
+social considerations and not a direct reflection of the firm itself. Even 
+within a single jurisdiction or country there may be more conservative 
+or liberal views in one area compared with another. 
+Comment noted. 
+The potential for divergent view in a 
+single jurisdictions is noted and should 
+be considered as part of a particular 
+supervisor’s approach to supervision of 
+DEI. 
+The location of the business (eg offices 
+outside of major cities) is noted within 
+para 30 as a factor that may introduce 
+differences.

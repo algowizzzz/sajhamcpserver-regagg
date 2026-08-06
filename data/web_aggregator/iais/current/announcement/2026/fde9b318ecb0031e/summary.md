@@ -1,0 +1,1 @@
+Summary: # Public consultation on the review of the Global Monitoring Exercise – Individual Insurer Monitoring assessment methodology
