@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Market &amp; Regulatory Intelligence — Product Overview</title>
+<style>
+  :root{
+    color-scheme: light;
+    --surface-1:#fcfcfb; --surface-2:#ffffff; --line:#e6e5e1;
+    --text-primary:#0b0b0b; --text-secondary:#52514e; --text-muted:#8a887f;
+    --series-1:#2a78d6;
+    --st-good:#0ca30c; --st-warn:#fab219; --st-serious:#ec835a; --st-critical:#d03b3b;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:where(:not([data-theme="light"])){
+      color-scheme: dark;
+      --surface-1:#1a1a19; --surface-2:#232322; --line:#3a3936;
+      --text-primary:#ffffff; --text-secondary:#c3c2b7; --text-muted:#8a887f;
+      --series-1:#3987e5;
+    }
+  }
+  *{box-sizing:border-box;margin:0}
+  body{font:14px/1.5 -apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+       background:var(--surface-1);color:var(--text-primary);padding:34px 40px;max-width:1060px;margin:0 auto}
+  header h1{font-size:23px;letter-spacing:-.02em}
+  header .sub{color:var(--text-secondary);margin-top:4px;font-size:13.5px}
+  .date{color:var(--text-muted);font-size:11.5px;float:right;text-align:right}
+  .tiles{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin:22px 0}
+  @media(max-width:860px){.tiles{grid-template-columns:repeat(3,1fr)}}
+  .tile{background:var(--surface-2);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+  .tile b{display:block;font-size:21px;letter-spacing:-.02em}
+  .tile span{font-size:10.5px;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.05em}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:860px){.grid2{grid-template-columns:1fr}}
+  .card{background:var(--surface-2);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin-bottom:14px}
+  .card h2{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--text-secondary);margin-bottom:12px}
+  /* horizontal bars */
+  .hbar{display:grid;grid-template-columns:110px 1fr 52px;gap:8px;align-items:center;margin:7px 0;font-size:12.5px}
+  .hbar .lbl{color:var(--text-secondary);text-align:right}
+  .hbar .track{display:block;height:14px;position:relative}
+  .hbar .fill{display:block;height:14px;border-radius:0 4px 4px 0;background:var(--series-1)}
+  .hbar .val{font-variant-numeric:tabular-nums;color:var(--text-primary);font-weight:600;font-size:12px}
+  /* severity bars reuse .hbar with status colors + icon */
+  .sev .fill{background:var(--sev)}
+  .sev .lbl b{margin-right:4px;color:var(--sev)}
+  /* columns (news volume) */
+  .cols{display:flex;align-items:flex-end;gap:8px;margin-top:6px}
+  .cols .c{flex:1;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;gap:4px}
+  .cols .bar{width:100%;background:var(--series-1);border-radius:4px 4px 0 0;min-height:3px}
+  .cols .v{font-size:11px;font-weight:600;font-variant-numeric:tabular-nums}
+  .cols .d{font-size:10px;color:var(--text-muted)}
+  /* pipeline */
+  .pipe{display:flex;gap:0;align-items:stretch;flex-wrap:wrap}
+  .step{flex:1;min-width:120px;border:1px solid var(--line);background:var(--surface-1);
+        border-radius:9px;padding:10px 12px;margin-right:8px;position:relative}
+  .step:last-child{margin-right:0}
+  .step b{font-size:12.5px;display:block}
+  .step span{font-size:11px;color:var(--text-secondary)}
+  .step em{position:absolute;top:-9px;left:10px;background:var(--surface-2);color:var(--text-muted);
+           font-style:normal;font-size:9.5px;padding:0 5px;letter-spacing:.05em}
+  ul.why{list-style:none}
+  ul.why li{padding:5px 0 5px 22px;position:relative;font-size:13px}
+  ul.why li::before{content:"✓";position:absolute;left:2px;color:var(--st-good);font-weight:700}
+  ul.why li b{font-weight:600}
+  .foot{display:flex;gap:18px;flex-wrap:wrap;color:var(--text-muted);font-size:11px;
+        border-top:1px solid var(--line);padding-top:12px;margin-top:6px}
+  .lane{font-size:12.5px;color:var(--text-secondary);line-height:1.55}
+  .lane b{color:var(--text-primary)}
+  table.srcmix{width:100%;border-collapse:collapse;font-size:12px;margin-top:4px}
+  table.srcmix td{padding:3px 0;color:var(--text-secondary)}
+  table.srcmix td:last-child{text-align:right;font-weight:600;color:var(--text-primary);font-variant-numeric:tabular-nums}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="date">As of Aug 6, 2026<br>Data: live production database</div>
+  <h1>Market &amp; Regulatory Intelligence</h1>
+  <div class="sub">One platform, two lanes — what regulators publish and what the market is saying,
+    collected daily, versioned, and ranked through a <b>credit-analyst lens</b>. No LLM in the scoring path: every number is deterministic and explainable.</div>
+</header>
+
+<div class="tiles">
+  <div class="tile"><b>6,572</b><span>documents held</span></div>
+  <div class="tile"><b>55</b><span>sources · 30 reg + 25 news</span></div>
+  <div class="tile"><b>772</b><span>policy PDFs parsed</span></div>
+  <div class="tile"><b>384</b><span>critical-band rules</span></div>
+  <div class="tile"><b>506</b><span>archived versions (audit)</span></div>
+  <div class="tile"><b>93%</b><span>collection pass rate</span></div>
+</div>
+
+<div class="grid2">
+  <div class="card">
+    <h2>Corpus by coverage area — 6,572 documents</h2>
+    <div class="hbar"><span class="lbl">Canada</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="val">2,809</span></div>
+    <div class="hbar"><span class="lbl">United States</span><span class="track"><span class="fill" style="width:52%"></span></span><span class="val">1,463</span></div>
+    <div class="hbar"><span class="lbl">International</span><span class="track"><span class="fill" style="width:34%"></span></span><span class="val">961</span></div>
+    <div class="hbar"><span class="lbl">Financial News</span><span class="track"><span class="fill" style="width:21%"></span></span><span class="val">603</span></div>
+    <div class="hbar"><span class="lbl">EU &amp; UK</span><span class="track"><span class="fill" style="width:18%"></span></span><span class="val">508</span></div>
+    <div class="hbar"><span class="lbl">APAC</span><span class="track"><span class="fill" style="width:8%"></span></span><span class="val">228</span></div>
+    <div style="font-size:11px;color:var(--text-muted);margin-top:8px">Home market first by design: OSFI’s guideline library is complete (30/30 CAR chapters verified).</div>
+  </div>
+
+  <div class="card">
+    <h2>Regulatory materiality — 5,969 documents, deterministic score</h2>
+    <div class="hbar sev" style="--sev:var(--st-critical)"><span class="lbl"><b>⬤</b>Critical</span><span class="track"><span class="fill" style="width:12%"></span></span><span class="val">384</span></div>
+    <div class="hbar sev" style="--sev:var(--st-serious)"><span class="lbl"><b>⬤</b>High</span><span class="track"><span class="fill" style="width:8%"></span></span><span class="val">264</span></div>
+    <div class="hbar sev" style="--sev:var(--st-warn)"><span class="lbl"><b>⬤</b>Medium</span><span class="track"><span class="fill" style="width:63%"></span></span><span class="val">2,062</span></div>
+    <div class="hbar sev" style="--sev:var(--st-good)"><span class="lbl"><b>⬤</b>Low</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="val">3,259</span></div>
+    <div style="font-size:11px;color:var(--text-muted);margin-top:8px">score = doc-type base × regulator tier + topic + deadline proximity + revision size — every score ships with its reason string.</div>
+  </div>
+</div>
+
+<div class="grid2">
+  <div class="card">
+    <h2>Financial news — daily story volume (ramp-up week)</h2>
+    <div class="cols">
+      <div class="c"><span class="v">5</span><span class="bar" style="height:2px"></span><span class="d">Aug 1</span></div>
+      <div class="c"><span class="v">19</span><span class="bar" style="height:6px"></span><span class="d">Aug 2</span></div>
+      <div class="c"><span class="v">46</span><span class="bar" style="height:14px"></span><span class="d">Aug 3</span></div>
+      <div class="c"><span class="v">139</span><span class="bar" style="height:43px"></span><span class="d">Aug 4</span></div>
+      <div class="c"><span class="v">229</span><span class="bar" style="height:70px"></span><span class="d">Aug 5</span></div>
+      <div class="c"><span class="v">165</span><span class="bar" style="height:50px"></span><span class="d">Aug 6</span></div>
+    </div>
+    <div style="font-size:11px;color:var(--text-muted);margin-top:8px">25 verified wires (WSJ, FT, BNN Bloomberg, CNBC, Nikkei, …), capped at 50 stories/source/day. Headline + publisher summary + link only — copyright-safe by construction.</div>
+  </div>
+
+  <div class="card">
+    <h2>Built for a credit analyst</h2>
+    <ul class="why">
+      <li><b>Credit events surface first.</b> Stories rank by obligor-risk impact: creditor protection, downgrades and defaults outrank “stocks rally” — today’s #1 was a borrower filing for creditor protection.</li>
+      <li><b>Every score is explainable.</b> “final_rule ×1.4 (major operating) = 56; aml_cft +12; new +10” — defensible in model governance and audit.</li>
+      <li><b>Rule changes are diffable.</b> 506 archived versions: see exactly what OSFI or the Fed changed, line by line, with dates.</li>
+      <li><b>Full audit trail.</b> Every document carries its source URL, fetch date, version history and provenance — nothing is fabricated, ever.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="card">
+  <h2>How it works — stateless, config-driven, one YAML per source</h2>
+  <div class="pipe">
+    <div class="step"><em>1 · DETECT</em><b>Watch 55 sources daily</b><span>sitemaps, RSS, APIs — new &amp; changed pages only</span></div>
+    <div class="step"><em>2 · FETCH</em><b>Capture &amp; normalize</b><span>HTML + policy PDFs → clean markdown</span></div>
+    <div class="step"><em>3 · VERSION</em><b>Append-only archive</b><span>7,078 versions; changes diffed, never overwritten</span></div>
+    <div class="step"><em>4 · SCORE</em><b>Rank by materiality</b><span>deterministic credit-risk lens, banded Critical→Low</span></div>
+    <div class="step"><em>5 · SERVE</em><b>Dashboard + 12 MCP tools</b><span>search, browse, diff, whats-new — agent-ready</span></div>
+  </div>
+</div>
+
+<div class="grid2">
+  <div class="card">
+    <h2>Two lanes, one governance bar</h2>
+    <div class="lane">
+      <b>🏛️ Regulatory</b> — 30 regulators (OSFI, Fed, OCC, FDIC, FinCEN, SEC, ECB, EBA, FCA, MAS, BCBS…): binding rules, guidance, consultations, enforcement. Versioned &amp; materiality-ranked.<br><br>
+      <b>📰 Financial news</b> — 25 wires worldwide: top ~50 stories/source/day through the credit lens. Licensed feeds (Bloomberg, Reuters, ratings actions) plug into the same lane when procured — zero code changes.
+    </div>
+  </div>
+  <div class="card">
+    <h2>Operational footprint</h2>
+    <table class="srcmix">
+      <tr><td>Corpus on disk (raw archive + markdown)</td><td>2.1 GB</td></tr>
+      <tr><td>Collection runs to date / pass rate</td><td>102 · 93%</td></tr>
+      <tr><td>Automated tests, all green</td><td>106</td></tr>
+      <tr><td>MCP tools served (scoped API key)</td><td>12</td></tr>
+      <tr><td>New-machine setup (clone → running)</td><td>1 command</td></tr>
+      <tr><td>Fabricated data points</td><td>0</td></tr>
+    </table>
+  </div>
+</div>
+
+<div class="foot">
+  <span>Repo: github.com/algowizzzz/sajhamcpserver-regagg</span>
+  <span>Daily poll + weekly deep crawl + nightly backup</span>
+  <span>Phase 2 planned: AWS (S3 + RDS), 5,000 users — sprints 7–10 scoped</span>
+</div>
+
+</body>
+</html>
