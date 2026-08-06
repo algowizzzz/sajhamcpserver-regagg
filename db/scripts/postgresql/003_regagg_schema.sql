@@ -16,6 +16,7 @@ CREATE TABLE IF NOT EXISTS reg_regulators (
     name                  VARCHAR(255)  NOT NULL,
     jurisdiction          VARCHAR(16)   NOT NULL,   -- CA, US, EU, UK, SG, HK, AU, JP, IN, INTL
     connector             VARCHAR(20)   NOT NULL,
+    category              VARCHAR(16)   NOT NULL DEFAULT 'regulatory',
     config                JSONB         NOT NULL,   -- full parsed YAML
     active                BOOLEAN       NOT NULL DEFAULT TRUE,
     staleness_alert_days  INTEGER       NOT NULL DEFAULT 14,

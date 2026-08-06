@@ -181,3 +181,26 @@ python -m venv .venv && ./.venv/bin/pip install -r requirements.txt feedparser m
 4. `pip install prefect` and `python -m sajha.regagg.flows_prefect deploy` for the 06:00 daily fan-out.
 5. Choose the LLM backend in `config/regulators/_settings.yaml` and wire `AnthropicBackend` to `sajha/ai`.
 6. Run `scripts/verify_sources.py`, review the report, flip verified sources, then activate regulators.
+
+## 2026-08-05 — Financial News lane (category: news)
+
+20 verified world financial-news sources added as a second, distinct category
+alongside the 30 regulators. Design decisions:
+
+- **Copyright-safe by construction**: `fetch: feed_summary` builds each document
+  from the publisher's own RSS feed (headline + summary + attribution link).
+  The pipeline NEVER fetches article pages — `test_news_lane.py` proves it with
+  a fetcher that raises on contact. Full text = a licensed feed (e.g. Factiva),
+  which is a procurement conversation, not a crawler feature.
+- **~50 stories/source/day**: `max_docs_per_run: 50` in config, honored by the
+  pipeline when no explicit cap is passed (bnn 99→50, globe 91→50 on first run).
+- **Distinct lanes everywhere**: `category: regulatory|news` on config + DB row;
+  Coverage tree groups news under a "Financial News" section; Overview headline
+  and tiles report "29/30 regulators and 20/20 news sources" separately.
+- **Materiality**: `news_story` base 6 × `news_wire` tier 1.0 — headlines land
+  Low/Medium and can never outrank binding rules from primary regulators.
+- Sources: CBC, Globe & Mail, Financial Post, BNN Bloomberg, WSJ Markets, CNBC,
+  MarketWatch, NYT Business, Yahoo Finance, Fortune, Business Insider Markets,
+  American Banker, BBC, Guardian, FT, Economist, France 24 (Reuters retired its
+  public feed), Nikkei Asia, SCMP, Economic Times. All 20 verified live
+  2026-08-05; first ingest 536 stories, 0 errors. Suite: 105 tests green.

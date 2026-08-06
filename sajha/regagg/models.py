@@ -76,6 +76,7 @@ class Regulator(Base):
     name = Column(String(255), nullable=False)
     jurisdiction = Column(String(16), nullable=False)  # CA, US, EU, UK, SG, HK, AU, JP, IN, INTL
     connector = Column(String(20), nullable=False)
+    category = Column(String(16), nullable=False, default="regulatory")  # regulatory | news
     config = Column(JSONFlex, nullable=False)          # full parsed YAML
     active = Column(Boolean, nullable=False, default=True)
     staleness_alert_days = Column(Integer, nullable=False, default=14)

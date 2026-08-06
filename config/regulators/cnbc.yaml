@@ -1,0 +1,30 @@
+# CNBC — Finance — financial news source (category: news)
+# NEWS LANE RULES: fetch is feed_summary — we store the headline + the
+# publisher's own feed summary + a link back. We NEVER fetch or store the
+# article page (copyright / ToS; full text = licensed feed, e.g. Factiva).
+# STATUS: candidate — run scripts/verify_sources.py before trusting.
+id: cnbc
+name: "CNBC — Finance"
+jurisdiction: US
+active: true
+category: news
+connector: rss
+sources:
+  feeds:
+    - url: https://www.cnbc.com/id/10000664/device/rss/rss.html
+      verified: true
+      checked_at: "2026-08-05"
+fetch: feed_summary
+max_docs_per_run: 50          # top ~50 stories per source per day
+rate_limit_rps: 1.0
+schedule: daily_morning
+include_patterns: []
+exclude_patterns: ["\\.(jpg|png|gif|css|js|zip)$"]
+default_tags:
+  - us
+doc_type_rules:
+  - pattern: "."              # everything from a news wire is a news story
+    doc_type: news_story
+staleness_alert_days: 3       # a news feed silent for 3 days is broken
+backfill_cutoff: 2026-08-01   # news: no historical backfill, current stories only
+notes: "Financial news wire — headline + publisher summary only, never full text."

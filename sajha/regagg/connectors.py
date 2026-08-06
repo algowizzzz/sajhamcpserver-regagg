@@ -168,7 +168,11 @@ class RssConnector(BaseConnector):
                     regulator_id=self.config.id, url=link, run_id=self.run_id,
                     title=entry.get("title"), published_date=pub,
                     doc_type_hint=match_doc_type(link, self.config),
-                    source="rss", is_update=link in self.seen))
+                    source="rss", is_update=link in self.seen,
+                    # publisher-authored summary — the entire content for
+                    # fetch:feed_summary sources (news lane, copyright-safe)
+                    fallback_text=(entry.get("summary")
+                                   or entry.get("description"))))
         return events
 
 

@@ -102,6 +102,7 @@ def main() -> int:
     for cfg in configs.values():
         session.merge(Regulator(regulator_id=cfg.id, name=cfg.name, jurisdiction=cfg.jurisdiction,
                                 connector=cfg.connector, config={}, active=cfg.active,
+                                category=getattr(cfg, 'category', 'regulatory'),
                                 staleness_alert_days=cfg.staleness_alert_days))
     session.commit()
 

@@ -93,6 +93,24 @@ def _extract_pdf_links(html: bytes, base_url: str, limit: int = 3) -> List[str]:
     return out
 
 
+def _feed_summary_result(ev: DetectionEvent):
+    """Build a FetchResult-shaped doc from a feed entry (no network)."""
+    from bs4 import BeautifulSoup
+    from sajha.regagg import ids as _ids
+    from sajha.regagg.fetch import FetchResult
+    summary = ""
+    if ev.fallback_text:
+        summary = BeautifulSoup(ev.fallback_text, "html.parser").get_text(" ", strip=True)
+    title = ev.title or _title_from_url(ev.url)
+    md = (f"# {title}\n\n{summary}\n\n"
+          f"[Read the full story at the source]({ev.url})\n\n"
+          f"> Headline and summary as published in the source's public feed; "
+          f"full text remains at the publisher.")
+    return FetchResult(content_md=md, content_hash=_ids.content_hash(md),
+                       raw=md.encode(), raw_ext="md", final_url=ev.url,
+                       fetch_method="feed_summary", title=title, ocr=False)
+
+
 def _apply_materiality(session, doc, text: str, change_kind: str) -> None:
     """Score the document's priority so analysts see what matters first."""
     from sqlalchemy import select as _select
@@ -231,6 +249,8 @@ def run_regulator(
     seen = _load_seen(session, config.id)
 
     HARVEST_PER_PAGE, HARVEST_CAP = 3, 40
+    if max_docs is None:
+        max_docs = config.max_docs_per_run   # e.g. news: top ~50 stories/day
     try:
         payloads = _fetch_source_payloads(config, source_opener)
         connector = get_connector(config, run_id, seen)
@@ -255,7 +275,14 @@ def run_regulator(
                                      dup.doc_id, now)
                         manifest.deduped += 1
                         continue
-                fr = fetcher.fetch(ev.fetch_url or ev.url, method=config.fetch)
+                if config.fetch == "feed_summary":
+                    # News lane: the document IS the feed entry — headline +
+                    # publisher summary + attribution link. We never fetch the
+                    # article page (paywalls, ToS, copyright). Full text would
+                    # be a licensed-feed integration, not a crawler feature.
+                    fr = _feed_summary_result(ev)
+                else:
+                    fr = fetcher.fetch(ev.fetch_url or ev.url, method=config.fetch)
                 manifest.fetched += 1
                 # bot-block guard: if the site served its anti-scraping notice
                 # instead of the document, fall back to API-supplied text
@@ -317,6 +344,7 @@ def run_regulator(
                              result.doc_id, now, lastmod)
                 # policy-PDF harvesting from ingested HTML pages
                 if (config.harvest_pdfs and fr.raw_ext == "html"
+                        and config.fetch != "feed_summary"
                         and harvested < HARVEST_CAP
                         and (max_docs is None or len(queue) < max_docs * 2)):
                     for pu in _extract_pdf_links(fr.raw, ev.url, HARVEST_PER_PAGE):

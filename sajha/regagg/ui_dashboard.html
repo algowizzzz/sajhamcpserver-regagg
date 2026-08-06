@@ -502,6 +502,7 @@ async function loadOverview(){
     tile(`+${fmt(t.new)}`,"collected today","up")+
     tile(`${fmt(t.web)} / ${fmt(t.pdf)}`,"web pages / policy PDFs")+
     tile(`${t.regulators_tracking}/${t.regulators_total}`,"regulators collecting")+
+    tile(`${t.news_tracking??0}/${t.news_total??0}`,"news sources collecting")+
     tile(fmt(items_len(o)),`high-priority (${o.priority_days}d)`,items_len(o)?"bad":"");
   // priority items — the "what should I read" answer
   const items=o.priority.items||[];

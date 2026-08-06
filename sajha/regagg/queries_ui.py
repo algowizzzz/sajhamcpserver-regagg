@@ -22,7 +22,8 @@ REGION_OF = {
     "SG": "APAC", "HK": "APAC", "AU": "APAC", "JP": "APAC", "IN": "APAC",
     "INTL": "International",
 }
-REGION_ORDER = ["Canada", "United States", "EU & UK", "APAC", "International"]
+REGION_ORDER = ["Canada", "United States", "EU & UK", "APAC", "International",
+                "Financial News"]   # news category = its own top-level section
 
 
 def _tzaware(dt: Optional[datetime]) -> Optional[datetime]:
@@ -66,7 +67,8 @@ def coverage_tree(session, days: int = 7, now: Optional[datetime] = None) -> dic
 
     regions: Dict[str, dict] = {r: {"region": r, "institutions": []} for r in REGION_ORDER}
     for rid, reg in sorted(regs.items()):
-        region = REGION_OF.get(reg.jurisdiction, "International")
+        region = ("Financial News" if getattr(reg, "category", "regulatory") == "news"
+                  else REGION_OF.get(reg.jurisdiction, "International"))
         run = last_runs.get(rid)
         li = _tzaware(last_docs.get(rid))
         stale_days = (now - li).days if li else None
@@ -445,8 +447,18 @@ def overview(session, days: int = 1, priority_days: int = 7,
     rows.sort(key=lambda r: (-r["new"], r["regulator_id"]))
     attention = [r for r in rows if not r["healthy"]]
 
-    collecting = sum(1 for r in rows if r["web"] + r["pdf"] > 0)
-    headline = (f"Tracking {collecting} of {tot['regulators']} regulators · "
+    news_ids = {r.regulator_id for r in session.scalars(select(Regulator)).all()
+                if getattr(r, "category", "regulatory") == "news"}
+    for r in rows:
+        r["category"] = "news" if r["regulator_id"] in news_ids else "regulatory"
+    collecting = sum(1 for r in rows
+                     if r["category"] == "regulatory" and r["web"] + r["pdf"] > 0)
+    news_collecting = sum(1 for r in rows
+                          if r["category"] == "news" and r["web"] + r["pdf"] > 0)
+    n_reg_total = tot["regulators"] - len(news_ids)
+    headline = (f"Tracking {collecting} of {n_reg_total} regulators"
+                + (f" and {news_collecting} of {len(news_ids)} news sources"
+                   if news_ids else "") + " · "
                 f"{tot['documents']:,} documents · "
                 f"{tot['new']:,} new in the last {days} day"
                 f"{'s' if days != 1 else ''} · "
@@ -456,7 +468,9 @@ def overview(session, days: int = 1, priority_days: int = 7,
     return {"headline": headline, "days": days,
             "priority_days": priority_days,
             "totals": {"regulators_tracking": collecting,
-                       "regulators_total": tot["regulators"],
+                       "regulators_total": n_reg_total,
+                       "news_tracking": news_collecting,
+                       "news_total": len(news_ids),
                        "documents": tot["documents"], "web": tot["web"],
                        "pdf": tot["pdf"], "new": tot["new"]},
             "priority": {"counts": band_counts, "items": priority_docs},

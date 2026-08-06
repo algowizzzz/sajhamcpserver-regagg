@@ -20,12 +20,15 @@ from pydantic import BaseModel, ConfigDict, Field, model_validator
 # ── Controlled vocabularies (mirror 04_DATA_SCHEMA + 06_SOURCE_MAP) ──────────
 
 ConnectorType = Literal["api", "rss", "sitemap_diff"]
-FetchMethod = Literal["html_to_md", "pdf_to_md", "playwright", "tavily"]
+FetchMethod = Literal["html_to_md", "pdf_to_md", "playwright", "tavily",
+                      "feed_summary"]   # news: headline+publisher summary only,
+                                        # never full-article scraping (copyright)
+SourceCategory = Literal["regulatory", "news"]
 
 # Controlled doc-type set (04_DATA_SCHEMA §4). doc_type_rules must map into this.
 DOC_TYPES = frozenset({
     "final_rule", "consultation", "guidance", "announcement",
-    "enforcement", "speech", "report",
+    "enforcement", "speech", "report", "news_story",
 })
 
 
@@ -110,6 +113,8 @@ class RegulatorConfig(_Strict):
     notes: Optional[str] = None
     meta_source: bool = False        # e.g. Federal Register: dedup vs agency copies
     harvest_pdfs: bool = True        # extract same-domain PDF links from ingested HTML
+    category: SourceCategory = "regulatory"   # regulatory | news (distinct lanes)
+    max_docs_per_run: Optional[int] = None    # per-source daily cap (news: ~50)
 
     @model_validator(mode="after")
     def _check_connector_sources(self) -> "RegulatorConfig":
