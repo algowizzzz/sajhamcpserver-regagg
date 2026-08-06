@@ -1,0 +1,10 @@
+---
+title: "December 8, 2011 - Investor Advisory Panel - Agenda"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/investors/advisory-panel/meeting-agenda/december-8-2011-investor-advisory-panel-agenda"
+version: "1"
+---
+

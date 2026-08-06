@@ -1,0 +1,25 @@
+---
+title: "EMDE meeting, November 2026 - International Association of Insurance Supervisors"
+regulator: "iais"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.iais.org/events/emde-meeting-november-2026/"
+version: "1"
+---
+
+# EMDE meeting, November 2026
+
+[9 Nov 2026](https://www.iais.org/events/emde-meeting-november-2026/)
+
+10 Jul 2026
+
+SHARE
+
+* [Email](mailto:?body=https%3A%2F%2Fwww.iais.org%2Fevents%2Femde-meeting-november-2026%2F "Email")
+* [X](# "X")
+* [Facebook](# "Facebook")
+* [Pinterest](# "Pinterest")
+* [Linkedin](# "Linkedin")
+* [Vkontakte](# "Vkontakte")
+* [WhatsApp](# "WhatsApp")

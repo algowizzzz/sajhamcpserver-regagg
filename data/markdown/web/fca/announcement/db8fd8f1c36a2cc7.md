@@ -1,0 +1,32 @@
+---
+title: "Previous general insurance value measures data"
+regulator: "fca"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.fca.org.uk/data/previous-general-insurance-value-measures-data"
+version: "1"
+---
+
+We publish value measures data for a wide range of general insurance (GI) products.
+
+* [General insurance value measures data 2024](/data/general-insurance-value-measures-data-2024)
+  ![](/themes/custom/fca/images/arrow-left-black.svg)
+* [General insurance value measures data 2023](/data/general-insurance-value-measures-data-2023)
+  ![](/themes/custom/fca/images/arrow-left-black.svg)
+* [General insurance value measures data 2022](/publications/data/general-insurance-value-measures-data-2022)
+  ![](/themes/custom/fca/images/arrow-left-black.svg)
+* [General insurance value measures data - July to December 2021](/data/general-insurance-value-measures-jul-dec-2021)
+  ![](/themes/custom/fca/images/arrow-left-black.svg)
+* [Pilot general insurance value measures data](/data/pilot-general-insurance-value-measures-data)
+  ![](/themes/custom/fca/images/arrow-left-black.svg)
+* [Pilot general Insurance value measures data – year ending 31 August 2019](/data/pilot-general-insurance-value-measures-data-year-ending-31-august-2019)
+  ![](/themes/custom/fca/images/arrow-left-black.svg)
+* [Pilot general Insurance value measures data – year ending 31 August 2018](/data/general-insurance-value-measures-data-year-ending-31-august-2018)
+  ![](/themes/custom/fca/images/arrow-left-black.svg)
+* [General Insurance value measures data – comparison 2016/17](/data/general-insurance-value-measures-data-comparison-2016-17)
+  ![](/themes/custom/fca/images/arrow-left-black.svg)
+* [Pilot general Insurance value measures data – year ending 31 August 2017](/data/general-insurance-value-measures-data-year-ending-31-august-2017)
+  ![](/themes/custom/fca/images/arrow-left-black.svg)
+* [General Insurance value measures data – year ending 31 August 2016](/data/general-insurance-value-measures-data-year-ending-31-august-2016)
+  ![](/themes/custom/fca/images/arrow-left-black.svg)

@@ -1,0 +1,10 @@
+---
+title: "April 20, 2017 - Investor Advisory Panel - Agenda"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/investors/advisory-panel/meeting-agenda/april-20-2017-investor-advisory-panel-agenda"
+version: "1"
+---
+

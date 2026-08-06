@@ -1,0 +1,553 @@
+---
+title: "34 105781"
+regulator: "sec"
+doc_type: "announcement"
+status: "final"
+source_kind: "policy_pdf"
+source_url: "https://www.sec.gov/files/rules/other/2026/34-105781.pdf"
+published: "2026-06-26"
+version: "1"
+---
+
+COMMODITY FUTURES TRADING COMMISSION  
+17 CFR Parts 1 and 23 
+RIN 3038-AF72 
+SECURITIES AND EXCHANGE COMMISSION 
+17 CFR Parts 240 and 242 
+[Release No. 34-105781; File Number S7-2026-23] 
+RIN 3235-AN80 
+Joint Request for Comment on Further Implementation of Portfolio Margining and 
+Cross-Margining of Securities and Derivatives 
+AGENCY:  Commodity Futures Trading Commission; Securities and Exchange 
+Commission. 
+ACTION: Joint request for comment. 
+ 
+SUMMARY: The Commodity Futures Trading Commission (“CFTC”) and the 
+Securities and Exchange Commission (“SEC”) (together, the “Commissions”) request 
+public comment on potential ways to further implement portfolio and cross-margining of 
+securities and derivatives that are subject to the jurisdiction of either the SEC or CFTC, 
+or both Commissions. 
+DATES: Comments must be received on or before [NSERT DATE THAT IS 60 DAYS 
+AFTER PUBLICATION IN THE FEDERAL REGISTER]. 
+ADDRESSES: Comments may be submitted by any of the following methods:  
+CFTC Comment Submission
+
+2 
+ 
+You may submit comments, specifically referencing “Joint Request for Comment 
+on Further Implementation of Portfolio Margining and Cross-Margining of Securities and 
+Derivatives” and RIN 3038-AF72, by any of the following methods: 
+• Regulations.gov: Go to https://www.regulations.gov and press the “Search” 
+button, then proceed as follows:  
+1. Under Refine Documents Results—check the box to “Only show documents 
+open for comment”; 
+2. Under Agency—select “See More” and check the box for “Commodity Futures 
+Trading Commission,” then press the Apply button;  
+3. Identify this proposal in the list of CFTC documents open for comment, press 
+the “Comment” button to open the submission form, and follow the instructions on the 
+form. 
+Alternatively, if you are viewing this proposal on www.federalregister.gov, click 
+the “Submit A Public Comment” button at the top of the page to open the comment form. 
+Follow the instructions on the form to submit your comment to Regulations.gov.  
+• Mail: Send to—Christopher Kirkpatrick, Secretary of the Commission, 
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st 
+Street NW, Washington, DC 20581.  
+• Hand Delivery/Courier: Address to—CFTC Comment Submission, Attn: 
+Christopher Kirkpatrick, Secretary of the Commission, Commodity Futures 
+Trading Commission, Three Lafayette Centre, 1155 21st Street NW, Washington, 
+DC 20581.
+
+3 
+ 
+Please submit your comments using only one of these methods. To avoid possible 
+delays with mail or in-person deliveries, submissions through Regulations.gov are 
+encouraged.  
+All comments must be submitted in English or, if not, accompanied by an English 
+translation. Do not include in your comment text or attachments any personal identifying 
+information or business information that you do not want published online. Comments 
+(regardless of submission method) will be published without review for, and without 
+removal of, any personal identifying information or information your business may 
+consider confidential. 
+If you wish to submit confidential information for the Commission's 
+consideration, please contact the CFTC personnel listed in this Notice under FOR 
+FURTHER INFORMATION CONTACT before making any submission. Please also 
+carefully review the Commission's procedures in 17 CFR 145.9 for requesting 
+confidential treatment under the Freedom of Information Act (FOIA) of information 
+submitted to the Commission.  
+The CFTC reserves the right, but shall have no obligation, to review, pre-screen, 
+filter, or redact all or any part of your comment submission. The CFTC also reserves the 
+right, without further notification, to refuse to publish or to remove from public view all 
+or any part of your submission to the extent it contains content inappropriate for 
+publication in a comment file, such as—without limitation—obscene language, threats of 
+violence, solicitations for commercial sales or illegal activity, or obvious spam. If a 
+submission that is refused for or withdrawn from publication because of inappropriate 
+content also contains comments on the merits of this proposal, such submission will be
+
+4 
+ 
+retained in the record for the matter and will be considered as required under the 
+Administrative Procedure Act and other applicable laws, and may be accessible under the 
+FOIA. 
+SEC Comment Submission 
+Electronic Comments: 
+• Use the SEC’s internet comment form (https://www.sec.gov/comments/s7-2026-
+23/joint-request-comment-further-implementation-portfolio-margining-cross-
+margining-securities); or  
+• Send an email to rule-comments@sec.gov. Please include File Number S7-
+2026-23 on the subject line.  
+Paper Comments:  
+• Send paper comments to Secretary, Securities and Exchange Commission, 100 
+F Street NE, Washington, DC 20549-1090.  
+All submissions should refer to File Number S7-2026-23. This file number should 
+be included on the subject line if email is used. To help the SEC process and review your 
+comments more efficiently, please use only one method of submission. The SEC will post 
+all comments on the SEC’s website (https://www.sec.gov/rules-regulations/public-
+comments/s7-2026-23). Do not include personally identifiable information in 
+submissions; you should submit only information that you wish to make available 
+publicly. We may redact in part or withhold entirely from publication submitted material 
+that is obscene or subject to copyright protection.  
+FOR FURTHER INFORMATION CONTACT:
+
+5 
+ 
+CFTC: Division of Clearing and Risk, at (202) 418-5430, U.S. Commodity 
+Futures Trading Commission, Three Lafayette Centre, 1155 21st St. NW, Washington, DC 
+20581. 
+SEC: Office of Broker-Dealer Finances or Office of Clearance and Settlement, 
+Division of Trading and Markets, at (202) 551-5777, U.S. Securities and Exchange 
+Commission, 100 F Street NE, Washington, DC 20549. 
+ SUPPLEMENTARY INFORMATION: 
+ 
+I. INTRODUCTION 
+ 
+Financial market participants are operating in an increasingly convergent financial 
+ecosystem.1  Financial markets are evolving rapidly and becoming more interconnected 
+through global technologies.2  New trading models, digital infrastructure, and onchain, 
+automated systems are increasingly blurring traditional jurisdictional lines.3   
+Further, market innovation continues through the development of novel securities 
+and derivatives products.  Modern securities and derivatives markets increasingly feature 
+related positions that are subject to the jurisdiction of either the SEC or CFTC, or both 
+Commissions.4  Market participants often manage portfolios or engage in trading 
+strategies for hedging or other purposes using related positions.5  In this regard, market 
+                                                           
+1  See SEC & CFTC, Memorandum of Understanding between the U.S. Securities and Exchange 
+Commission and the U.S. Commodity Futures Trading Commission regarding Harmonization in 
+Areas of Common Regulatory Interest (Mar. 11, 2026), available at: 
+https://www.sec.gov/files/mou-sec-cftc-2026.pdf. 
+2  See id. 
+3  See id.  
+4  The term “security” in this request for comment includes securities derivatives, such as options on 
+securities.  The term “derivative” refers to derivatives other than securities. 
+5  A related position may include a security or derivative that references the same underlying or 
+reference asset, or positions with similar economic uses.  For example, a total return swap that 
+references the S&P 500 would be a related position to a securities option on the S&P 500, or a 
+U.S. Treasury security could be a related position to a U.S. Treasury bond future.
+
+6 
+ 
+participants may increasingly employ cross-asset strategies spanning cash market 
+securities, listed securities options, over-the-counter options on securities, futures, 
+options on futures, and cleared and uncleared swaps and security-based swaps, and 
+manage them dynamically and at scale.  For example, a market participant may hedge a 
+cash market security position with a related swap or future.   
+However, current CFTC or SEC regulations may in some cases necessitate these 
+related positions being maintained in separate accounts subject to different margin 
+requirements.  This regulatory structure in some cases may not permit required margin 
+computations from recognizing offsetting exposures across certain securities and 
+derivatives, which may lead to capital inefficiencies or increase liquidity demands 
+without necessarily enhancing market stability. 
+Portfolio margining generally refers to the margining of related positions in a 
+single account, allowing netting of appropriate offsetting exposures.  Portfolio margining 
+of related positions in this manner can provide benefits to both customers and the 
+markets.  These benefits include, among other things, promoting greater efficiencies in 
+margin calculations with respect to offsetting positions.  These efficiencies can align 
+margin requirements and other costs more closely with overall risks that a customer’s 
+portfolio presents.  This alignment can reduce the aggregate amount of collateral required 
+to meet margin requirements, facilitating the availability of excess collateral that can be 
+deployed for other purposes, such as supporting new trading activity.  The netting of 
+exposures allowed by portfolio margining may also help to improve efficiencies in 
+collateral management, alleviate excess margin calls, improve cash flows and liquidity, 
+and reduce volatility.
+
+7 
+ 
+Over the years, the Commissions, acting independently or jointly, have facilitated 
+the implementation of portfolio margining for different types of securities and derivatives 
+positions, accounts, and entities.  For example, in April 2026, the Commissions issued 
+conditional exemptive orders to facilitate customer cross-margining of U.S. Treasury 
+securities cleared by a registered clearing agency and futures positions in U.S. Treasury 
+securities cleared by a registered derivatives clearing organization (“DCO”) in a futures 
+account.6  The Commissions also have each issued conditional exemptive orders to 
+facilitate the portfolio margining of cleared swaps and security-based swaps that are 
+credit default swaps in a segregated account established and maintained in accordance 
+with section 4d(f) of the Commodity Exchange Act (“CEA”) or a cleared swaps 
+proprietary account.7  
+The SEC has approved portfolio margin rules under section 19(b) of the Securities 
+Exchange Act of 1934 (“Exchange Act”) for self-regulatory organizations (“SROs”), 
+such as the Financial Industry Regulatory Authority, Inc. (“FINRA”), to implement 
+portfolio margin rules for equity-based positions in securities portfolio margin accounts.8 
+                                                           
+6  See SEC, Order Under Section 36 of the Exchange Act Granting Conditional Exemptive Relief 
+from Section 15(c)(3) of and Rule 15c3-3 under the Exchange Act for Cross-Margining of Cleared 
+U.S. Treasury Securities and Related Futures (Exchange Act Release No. 105248 (Apr. 15, 2026), 
+91 FR 21035 (Apr. 20, 2026); CFTC, Order Providing Exemptive Relief to Facilitate Cross-
+Margining of Customer Positions Cleared at CME and FICC (Apr. 15, 2025), 91 FR 20880 (Apr. 
+20, 2026). 
+7  See SEC, Order Granting Conditional Exemptions under the Securities Exchange Act of 1934 in 
+Connection with the Portfolio Margining of Cleared Swaps and Security-based Swaps that are 
+Credit Default Swaps, Exchange Act Release No. 93501 (Nov. 1, 2021), 86 FR 61357 (Nov. 5, 
+2021); CFTC, Order, Treatment of Funds Held in Connection with Clearing by ICE Clear Credit 
+of Credit Default Swaps (Jan. 13, 2013). CFTC, Order, Treatment of Funds Held in Connection 
+with Clearing by ICE Clear Europe of Credit Default Swaps (Apr. 9, 2013); CFTC, Order, 
+Treatment of Funds Held in Connection with Clearing by LCH SA of Single-Name Credit Default 
+Swaps, Including Spun-Out Component Transactions (Nov. 1, 2021). 
+8  See FINRA Rule 4210(g); see also Cboe Rule 10.4 (Portfolio Margin)  SROs have adopted 
+portfolio margin rules for securities accounts under an exception in the Federal Reserve Board’s 
+Regulation T, which provides an exception from initial margin requirements under Regulation T 
+for “financial relations between a customer and a creditor” that comply with an SRO portfolio
+
+8 
+ 
+The CFTC has implemented a regulation permitting DCOs to submit for approval 
+rules permitting commingling, in an account subject to the requirements of sections 4d(a) 
+(futures) or 4d(f) (cleared swaps) of the CEA, of customer positions in futures, options, 
+foreign futures, foreign options, and swaps, or any combination thereof, along with 
+related collateral.9  CFTC regulations permit DCOs to allow reduction in initial margin 
+requirements for related positions (including those involving commingled positions) 
+where the price risks with respect to such positions are significantly and reliably 
+correlated (including a conceptual basis for the correlation).10   
+Further, the Commissions also have previously respectively approved SRO or 
+DCO rule proposals relating to portfolio margin or cross-margin programs for certain 
+proprietary positions of broker-dealers and futures commission merchants that are joint 
+members of a clearing agency and DCOs, certain affiliates of these firms, and market 
+makers or other market professionals.11   
+                                                           
+margin rule.  12 CFR 220.1(b)(3)(i).  Eligible securities and derivatives under FINRA’s portfolio 
+margin rules (FINRA Rule 4210(g)) generally include a margin equity security, a listed option on 
+an equity security or index of equity securities, a securities futures product, an unlisted derivative 
+on an equity security or index of equity securities, a warrant on an equity security or index of 
+equity securities, and a related instrument.  A related instrument within a security class or product 
+group generally means broad-based index futures and options on broad-based index futures 
+covering the same underlying instrument.  An unlisted derivative under FINRA Rule 4210(g) 
+means any equity-based or equity index-based option, forward contract, or security-based swap 
+that can be valued by a theoretical pricing model approved by the SEC for valuing that type of 
+option, forward contract, or security-based swap, and that is neither traded on a national securities 
+exchange, nor issued and guaranteed by a registered clearing agency.  To date, most broker-
+dealers that offer customer portfolio margining in a securities account under FINRA Rule 4210 
+generally only portfolio margin cash market securities and options on securities.  
+9  See CFTC regulation 39.15(b)(2), 17 CFR 39.15(b)(2). 
+ 
+10  See CFTC regulation 39.13(g)(4), 17 CFR 39.15(g)(4). 
+ 
+11  See e.g., SEC, Order Granting Approval of Proposed Rule Change to Amend and Restate the 
+Cross-Margining Agreement between Fixed Income Clearing Corporation (“FICC”) and Chicago 
+Mercantile Exchange Inc. (“CME”), Exchange Act Release No. 98327 (Sept. 8, 2023), 88 FR 
+63185 (Sept. 14, 2023) [File No. SR-FICC-2023-010]; CFTC Rule Approval (CME Submission 
+23-301) of Amended and Restated Cross-Margining Agreement and Service Level Agreement 
+between CME and FICC, available at:
+
+9 
+ 
+In 2020, the Commissions jointly requested comment on ways to implement the 
+portfolio margining of uncleared swaps and security-based swaps in a securities account, 
+security-based swap account or swap account.12  Since that time, market participants and 
+the Commissions have gained experience in the margining of both cleared and uncleared 
+swaps and security-based swaps.13   
+In 2020, the Commissions adopted amendments to lower the margin requirement 
+for an unhedged security futures position14 from 20% to 15%, which customers can hold 
+in either a securities or futures account.15    
+                                                           
+https://www.cftc.gov/IndustryOversight/IndustryFilings/ClearingOrganizationRules/51167; SEC, 
+The Options Clearing Corporation (“OCC”); Order Approving Proposed Rule Change To Adopt a 
+New Second Amended and Restated Cross-Margining Agreement Between OCC and CME, 
+Exchange Act Release No. 90464 (Nov. 19, 2020), 85 FR 75384 (Nov. 25, 2020); Self-
+Certifications by OCC and CME (SR-OCC-2020-011) (20-435) of Proposed rule changes to adopt 
+a new Second Amended and Restated Cross-Margining Agreement between OCC and CME,  
+available at: 
+https://www.cftc.gov/IndustryOversight/IndustryFilings/ClearingOrganizationRules/44767; 
+https://www.cftc.gov/IndustryOversight/IndustryFilings/ClearingOrganizationRules/44764.  
+12  CFTC & SEC, Portfolio Margining of Uncleared Swaps and Non-Cleared Security-Based Swaps, 
+Exchange Act Release No. 90246 (Oct. 22, 2020), 85 FR 70536 (Nov. 5, 2020). 
+ 
+13  The SEC’s margin rules for security-based swaps refer to non-cleared security-based swaps.  See 
+17 CFR 240.18a-3.  For purposes of this release, the Commissions refer to swaps and security-
+based swaps that are not cleared by a DCO or a clearing agency collectively as “uncleared swaps 
+and security-based swaps.” 
+14  See section 1a(44) of the CEA and section 3(a)(55) of the Exchange Act (both defining the term 
+“security future”).  A “security future” is distinguished from a “security futures product,” which is 
+defined to include a security future as well as any put, call, straddle, option, or privilege on a 
+security future. See section 1a(45) of the CEA and section 3(a)(56) of the Exchange Act (both 
+defining the term “security futures product”).  Under section 2(a)(1)(D)(iii)(II) of the CEA and 
+section 6(h)(6) of the Exchange Act, the Commissions may, by order, jointly determine to permit 
+the listing of options on security futures.  The Commissions have not exercised this authority.   
+15  The Commissions jointly administer margin requirements for security futures.  See 17 CFR 41.41 
+through 41.49 (CFTC regulations) and 17 CFR 242.400 through 242.406 (SEC regulations).  See 
+also Commissions, Customer Margin Rules Relating to Security Futures; Final Rule, Exchange 
+Act Release No. 90244 (Oct. 22, 2020), 85 FR 75112 (Nov. 24, 2020) (adopting rule amendments 
+to lower the margin requirement for an unhedged security futures position from 20% to 15%).  As 
+of June 25, 2026, there are no security futures contracts listed for trading on U.S. exchanges.  
+Under FINRA Rule 4210(g)(6)(B)(i)c., security futures could be included in a customer securities 
+portfolio margin account.  See also 17 CFR 242.400(c)(2)(i).
+
+10 
+ 
+In addition, in 2021, the CFTC adopted amendments to its regulations governing 
+bankruptcy proceedings of commodity brokers meant comprehensively to update those 
+regulations to reflect current market practices and lessons learned from past commodity 
+broker bankruptcies.16  Those amendments to Part 190 of CFTC regulations included 
+clarifications with respect to the treatment of cross-margin and portfolio margin 
+programs.17  
+The further implementation of portfolio margining of securities and derivatives 
+requires careful consideration of customer protection and other applicable regulatory 
+objectives.  The Commissions invite comments on, among other things, potential impacts 
+on margin requirements, the segregation and bankruptcy treatment of applicable security 
+or derivatives positions in different account types and entities, and the potential impact on 
+regulatory capital requirements.   
+The SEC and CFTC have distinct approaches to segregation of customer funds, 
+insolvency, and margin, which are based, in part, on the regulatory frameworks 
+established for their respective markets and the nature of the securities and derivatives 
+that are traded in those markets.  As such, the Commissions invite comment on the 
+potential expansion of portfolio margining or cross-margining beyond what is currently 
+available under proprietary and customer portfolio margin or cross-margin programs.  
+The Commissions welcome comment on potential costs and benefits of these distinct 
+approaches and the impact on the markets for a particular security or derivative.     
+                                                           
+16  CFTC, Bankruptcy Regulations; Final Rule, 86 FR 19324 (Apr. 13, 2021). 
+17  Id.
+
+11 
+ 
+The Commissions also welcome input on how the further implementation of 
+portfolio margining of securities and derivatives could potentially impact efficiency and 
+competition, as well as applicable markets, market intermediaries, and customers. 
+ Given the developments and innovations in the markets in recent years, the 
+Commissions believe that it would be helpful to request comment and data from 
+interested persons regarding further implementation of portfolio margining and cross-
+margining of securities and derivatives under the jurisdiction of the SEC, CFTC, or both 
+Commissions. 
+II. REQUEST FOR COMMENT  
+The Commissions are publishing a general request and specific requests for 
+comment.  In responding to the general request for comment and on the specific requests 
+for comment below, the Commissions encourage commenters to provide empirical 
+support for their arguments and analyses.  Comments are especially helpful when 
+accompanied by supporting data and analysis. 
+A. General Request for Comment 
+The Commissions request comment on all aspects of potential further 
+implementation of portfolio margining and cross-margining.  The Commissions seek 
+comment on these matters generally and commenters are encouraged to address matters 
+related to portfolio margining and cross-margining not specifically identified in the 
+requests for comment below.  
+B. Specific Requests for Comment 
+The Commissions request comment on how the Commissions should consider 
+(i) further expansion by DCOs and securities clearing agencies of portfolio margining and
+
+12 
+ 
+cross-margining of securities and derivatives, as well as (ii) expansion of portfolio and 
+cross-margining of cleared and uncleared swaps and security-based swaps.  The 
+Commissions also request comment on how the Commissions should further consider the 
+expansion of portfolio margining in a portfolio margin account carried as a securities or 
+futures account.  The Commissions also request comment on how the Commissions 
+should consider initiatives by registrants to expand the availability of portfolio margining 
+and cross-margining to new securities, derivatives or other assets.    
+1.   What security or derivatives positions are market participants interested in 
+addressing beyond the current portfolio margin and cross-margin programs 
+available?18  Have customers expressed interest in adding any particular 
+positions to a portfolio margining or cross-margining account?  Discuss why a 
+particular security, derivative, or other asset should be included in a portfolio 
+margin account, and if applicable, why other particular securities, derivatives 
+or other assets should be excluded.  
+2.   Identify the types of accounts (e.g., securities account, futures account, swap 
+account, security-based swap account) the Commissions should consider in 
+the further implementation of portfolio margining programs for market 
+participants, and explain why market participants would or would not use a 
+specific type of account for that purpose.  For example, should the 
+Commissions consider expanding the portfolio margining of futures and 
+options on futures19 in a securities portfolio margin account, under SRO 
+                                                           
+18  See section II. of this release (describing current portfolio and cross-margining programs). 
+19  Current SRO securities portfolio margin rules are limited to equity-based positions.  See definition 
+of “related instrument” in FINRA Rule 4210(g)(2)(D).
+
+13 
+ 
+margin rules, or consider the expansion of the set of programs for the 
+inclusion of certain securities, including options on securities or security 
+futures, in a futures portfolio margin account?  
+3.   While certain rules have been adopted (including SRO and DCO margin 
+rules)20 and legislation has been enacted to accommodate futures in a 
+securities portfolio margin account and securities in a futures portfolio margin 
+account, certain operational and other regulatory challenges may remain.  
+Please describe actions the Commissions could consider to further support the 
+implementation of portfolio margining in a securities or futures portfolio 
+margin account.   
+4.   What challenges do market participants face when considering the portfolio 
+margining of uncleared swaps and security-based swaps?21  In your response, 
+please describe and identify the type of account(s) and how these positions are 
+being margined.   
+5.   What challenges do market participants face when considering portfolio 
+margining uncleared swaps and security-based swaps with other securities or 
+derivatives positions?  In your response, please describe the specific 
+categories of securities or derivatives and the types of portfolio margin 
+accounts.  
+6.   Are market participants interested in exploring additional portfolio margining 
+arrangements in cleared swaps or security-based swaps with other types of 
+                                                           
+20  For example, see FINRA Rule 4210(g) (portfolio margining for customers in a securities account).  
+See also section I. of this release (describing current portfolio margin rules and programs). 
+21  See, e.g., CFTC Staff Letter 16-71 (Aug. 23, 2016) (requesting to include security-based swaps in 
+product set for initial margin for uncleared swaps).
+
+14 
+ 
+securities or derivatives beyond what is already available to customers?  If so, 
+please describe these arrangements. 
+7.   Are there any other types of new securities, derivatives, or other assets where 
+portfolio margining with securities or derivatives would be beneficial?  If yes, 
+please identify the category of product, the type of portfolio margin account, 
+and the nature of the positions that would be offsetting. 
+8.   Should the Commissions consider any other new account type (in addition to 
+existing account types including securities accounts, futures accounts, swap 
+accounts or security-based swap accounts) in which to support the 
+implementation of portfolio margining or cross-margining of securities, 
+derivatives, or other assets?  If yes, please describe the account types. 
+9.   In identifying the account types and positions where portfolio margining 
+would be beneficial beyond what is currently available to customers and 
+market participants,22 please identify and describe any regulatory issues 
+market participants have encountered associated with portfolio margining or 
+cross-margining in a specific account type relating to: (1) differences in 
+statutes governing a particular security or derivative, (2) differences in 
+regulatory requirements of the SEC, CFTC, SROs, clearing agencies, and 
+DCOs (including differences in margin and segregation requirements), and (3) 
+differences in the bankruptcy treatment of different securities, derivatives, or 
+other assets.  For example, the definitions of “customer property” and “net 
+equity” in §761 of the Bankruptcy Code include cash, securities, and “other 
+                                                           
+22  See section I. and Questions 1 and 2 above.
+
+15 
+ 
+property.”  By contrast, the Securities Investor Protection Act of 1970 
+(“SIPA”) includes futures and options on futures held in a portfolio margin 
+account that is a securities account pursuant to a portfolio margining program 
+approved by the SEC (in addition to cash and securities) in the definition of 
+“customer,” “customer property,” and “net equity,” but does not include 
+swaps, security-based swaps, or any other type of property.  Do these differing 
+definitions raise regulatory issues pertaining to portfolio margining? 
+10. As another example of differences in bankruptcy treatment, while the 
+bankruptcy of a DCO would proceed pursuant to Subchapter IV of Chapter 7 
+of the Bankruptcy Code, with specific provisions addressing the protection of 
+customer property, the bankruptcy of a securities clearing agency would 
+proceed pursuant to separate provisions of the Bankruptcy Code.  Further, 
+some securities clearing agencies and DCOs are also designated as 
+systemically important financial market utilities under Title VIII of the Dodd-
+Frank Wall Street Reform and Consumer Protection Act of 2010.  Are there 
+additional regulatory frameworks not identified above, such as frameworks 
+built on a foundation of Article 8 of the Uniform Commercial Code, that could 
+be considered in connection with the potential further expansion of portfolio 
+margining to address differences in bankruptcy treatment of DCOs and 
+securities clearing agencies?   
+11. Are market participants interested in further addressing portfolio margining of 
+foreign exchange (FX) and other securities or derivatives whose valuations 
+may be sensitive to global macroeconomic or geopolitical developments?  In
+
+16 
+ 
+this context, do market participants have recommendations regarding 
+safeguards or stress-testing? 
+12. Are market participants interested in further addressing positions that may be 
+leveraged and that can face volatility as a result of divergence between those 
+positions (for example, a basis trade involving cash market and futures market 
+positions)?  How should cross-margining be further addressed in that context 
+across different asset classes?   
+13. Are market participants interested in further addressing securities and 
+derivatives that are portfolio margined and have different trading hours, which 
+could increase the probability of intraday margin calls driven by one market 
+while others are closed?  
+14. Identify and describe the relative benefits and risks of further implementation 
+of portfolio margining in different account types, as well as how the benefits 
+and risks compare to margining under existing margin requirements.  For 
+example, how, and to what extent, might current or future portfolio margining 
+decrease or increase market risk in certain conditions?  Are there certain 
+positions for which portfolio margining would increase or decrease market 
+risk and if market risk would be increased in those positions, how should that 
+risk be managed? 
+15. Identify and describe what types of margin methodologies may be appropriate 
+for further implementation of portfolio margining and cross-margining by 
+clearing agencies, DCOs, and market intermediaries (e.g., broker-dealers) to 
+determine the appropriate margin, consistent with the applicable regulatory
+
+17 
+ 
+requirements in each of the account types commenters identify.23  Similarly, 
+identify and describe any considerations related to the interaction of portfolio 
+margining and cross-margining on liquidity risk of a covered clearing agency 
+or DCO. 
+16. Identify and describe any conditions the Commissions should consider with 
+respect to the further implementation of portfolio margining programs to 
+mitigate risk and address regulatory or operational issues.  For example, 
+discuss whether the Commissions should consider requiring certain customer 
+disclosures or additional risk management requirements in determining 
+whether to approve expanded portfolio margining or cross-margining 
+programs.  Discuss how a potential condition would relate to a specific 
+account type and why it would be needed for that account.  Discuss how the 
+benefits from implementation would compare with any new costs.   
+17. Identify and describe any potential efficiency or competitive impacts of 
+implementation of different portfolio and cross-margining programs that are 
+not currently available to customers, and that market participants have 
+indicated an interest in offering.  Discuss how various portfolio and cross-
+margining scenarios could affect market intermediaries based on their size, 
+                                                           
+23  For example, DCOs and clearing agencies use risk-based models to compute initial margin 
+requirements for positions such as futures, options on futures, cleared swaps, cleared security-
+based swaps, and cleared U.S. Treasury securities, as applicable.  In addition, margin calculations 
+under SRO securities portfolio margin rules are based on the risk-based method in Appendix A to 
+Rule 15c3-1 (the broker-dealer net capital rule).  Finally, most swap dealers and security-based 
+swap dealers use the International Swaps and Derivatives Association’s Standard Initial Margin 
+Model or “SIMM” to compute initial margin for uncleared swaps and security-based swaps, in 
+compliance with the Commissions’ margin rules for uncleared swaps and security-based swaps, as 
+applicable.
+
+18 
+ 
+business model, or registration status.  For example, how would competitive 
+impacts vary among firms registered solely as broker-dealers or futures 
+commission merchants (or swap dealers or security-based swap dealers) and 
+firms with multiple registrations, and how can the Commissions address any 
+such competitive impacts? 
+18. As discussed above, financial markets are evolving rapidly and becoming 
+more interconnected through global technologies.  Comments are invited 
+about how the further expansion of portfolio margining could affect 
+competition between U.S.-registered broker-dealers, futures commission 
+merchants, swap dealers, security-based swap dealers, covered clearing 
+agencies, DCOs, and foreign financial institutions, including foreign banks, 
+foreign broker-dealers, and foreign clearing organizations that offer portfolio 
+margining to customers. 
+19. Should the Commissions consider distinguishing between single-stock and 
+narrow-based index futures in considering potential approval of further 
+implementation of portfolio margining or cross-margining of securities and 
+derivatives?  If yes, please describe. 
+III. Request for Data 
+ 
+The Commissions encourage commenters to provide data-driven input.  More 
+specifically, the Commissions encourage commenters to provide empirical data and 
+quantitative analysis relating to margin efficiency, collateral usage, liquidity effects, 
+operational costs, and risk management outcomes associated with portfolio and cross-
+margining frameworks.  Commenters are also encouraged to provide specific examples,
+
+19 
+quantitative estimates, or historical data and scenarios illustrating how portfolio 
+margining frameworks may affect margin requirements, collateral demands, market 
+liquidity. 
+IV. Regulatory Planning and Review
+This request for comment is not a significant regulatory action as defined under
+Executive Order 12866, as amended, and therefore it was not subject to Executive Order 
+12866 review. 
+By the Commodity Futures Trading Commission. 
+Dated: June 26, 2026. 
+Christopher J. Kirkpatrick 
+Secretary. 
+By the Securities and Exchange Commission. 
+Dated: June 26, 2026. 
+Vanessa A. Countryman, 
+Secretary.
